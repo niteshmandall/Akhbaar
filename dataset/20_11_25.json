@@ -1,0 +1,171 @@
+[
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Google's \"Nano Banana Pro\" is Real and It's Solving AI Hallucinations",
+    "summary": "Google has released 'Nano Banana Pro' (officially Gemini 3 Pro Image), a high-fidelity model capable of ingesting 14 reference images to maintain character consistency[cite: 28, 45, 50]. [cite_start]The model uses a 'thinking process' to storyboard layouts before pixel generation, effectively solving complex visual logic puzzles like material swaps[cite: 34, 39, 41].",
+    "raw_text": "Okay, you guys are not going to believe this name. Google just dropped their latest image generation model, and they are officially calling it 'Nano Banana Pro.' I thought this was a meme, but it is actually their secret weapon against AI hallucinations. Here is the wild part: it's not just generating pixels randomly. It actually 'thinks' and storyboards the image before it renders a single thing. \n\nBut the feature that is going to change the game for creators is the reference stack. You can feed this thing up to 14 reference images at once. That means you can finally get consistent characters across different angles and lighting without the AI morphing their face or clothes every time. It even passes the 'Material Swap Test'—like, it can build a car out of ramen noodles and understand the physics of how the noodles should bend. It’s built on Gemini 3, it’s enterprise-ready, and honestly, the name alone makes me want to use it.",
+    "id": "NB_PRO_2025_001",
+    "engagement": "High",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Alphabet"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 4,
+    "title": "OpenAI Strikes Back with GPT-5.1: The End of \"Dumb\" Chatbots?",
+    "summary": "OpenAI has released GPT-5.1, featuring a bifurcated architecture with 'Instant' mode for speed and 'Thinking' mode for adaptive reasoning[cite: 10, 63, 65]. [cite_start]The update introduces agentic tooling, allowing the model to execute shell commands and patch code repositories directly[cite: 71, 74].",
+    "raw_text": "Just when we thought Google won the news cycle, OpenAI drops GPT-5.1. They've split the model into two brains: an 'Instant' mode for quick chats and a 'Thinking' mode that actually pauses to reason through complex math or logic—basically solving that 'System 2' thinking we've been waiting for. \n\nBut here is what's scary good for developers: they gave it a Shell Tool. This thing can now execute commands on a local machine and use a 'patch' tool to edit code repositories without breaking the syntax. It is moving way past just being a chatbot; it's becoming a full-blown autonomous agent that can navigate your file system. If you are a coder, this is the update you have been waiting for. Also, they are explicitly monitoring for 'emotional reliance' now, which tells you just how good the conversational side has gotten.",
+    "id": "GPT51_REL_002",
+    "engagement": "High",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Microsoft"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Tech News Report Generation Request (2).pdf",
+    "page": 12,
+    "title": "Nothing OS 4.0 \"Flow\" Arrives with AI You Can Actually Build",
+    "summary": "Nothing has released Nothing OS 4.0 'Flow' based on Android 16, featuring 'Essential Apps' that allow users to generate custom widgets via prompts[cite: 174, 177]. [cite_start]The update faced minor controversy over a 'Lock Glimpse' feature, which the company confirmed is disabled by default due to privacy concerns[cite: 180, 181].",
+    "raw_text": "Carl Pei is at it again. Nothing just dropped OS 4.0, dubbed 'Flow,' and it’s arguably the most interesting take on Android 16 yet. The headline feature? 'Essential Apps.' You can literally type a prompt to generate your own widgets and share them on the Nothing Playground. It’s democratizing app creation right on your home screen.\n\nThere was a little bit of drama regarding a new feature called 'Lock Glimpse' that people thought was too intrusive, but Nothing listened and turned it off by default on the Phone 3a series. It’s rolling out today to the Phone (2) and newer models. If you want a phone interface that doesn't feel like a boring utility grid, this update looks incredibly slick.",
+    "id": "NOTHING_OS4_003",
+    "engagement": "High",
+    "category": "Mobile",
+    "companies": [
+      "Nothing"
+    ],
+    "people": [
+      "Carl Pei"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 9,
+    "title": "Manufacturing Shift: OpenAI & Foxconn to Build AI Racks in the USA",
+    "summary": "OpenAI and Foxconn announced a partnership to manufacture critical AI server infrastructure in Wisconsin, Ohio, and Texas to reduce reliance on Asian supply chains[cite: 13, 14, 139]. [cite_start]Sam Altman described the move as an opportunity to 'reindustrialize America' and secure sovereign AI infrastructure[cite: 16, 148].",
+    "raw_text": "This is a massive geopolitical move. Sam Altman isn't just building software anymore; he's teaming up with Foxconn—yeah, the iPhone manufacturers—to build AI server racks right here in the US. We're talking Wisconsin, Ohio, and Texas.\n\nThey are calling it a mission to 'reindustrialize America.' Basically, OpenAI realized that relying entirely on overseas supply chains for their massive compute needs is a security risk. By bringing the cooling systems, chassis, and power gear to US soil, they are verticalizing their stack. It’s huge for the industry, and it signals that the 'AI Wars' are moving from code to actual steel and silicon.",
+    "id": "FOX_OPENAI_004",
+    "engagement": "Medium",
+    "category": "Hardware",
+    "companies": [
+      "OpenAI",
+      "Foxconn"
+    ],
+    "people": [
+      "Sam Altman",
+      "Young Liu"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Samsung's Magic Trick: Running 30B Models on 3GB of RAM",
+    "summary": "Samsung Research unveiled a compression technology capable of running a 30-billion-parameter AI model on devices with under 3GB of memory by using 4/8-bit integer conversion[cite: 809, 810]. [cite_start]This technology is being deployed across smartphones and appliances to enable cloud-level AI on edge devices[cite: 810].",
+    "raw_text": "Samsung just pulled off a magic trick. We usually think running big AI models requires massive server farms, right? Well, Samsung Research just figured out how to run a 30-billion parameter model using under 3GB of memory. \n\nThey did it by crushing the data down using 4-bit and 8-bit integer conversion but keeping the 'smart' parts intact. This is huge for privacy because it means your phone can do 'cloud-level' thinking without ever sending your data to a server. They are putting this everywhere—phones, tablets, maybe even your fridge. On-device AI just got a massive level-up.",
+    "id": "SAM_AI_COMP_005",
+    "engagement": "Medium",
+    "category": "Research",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [
+      "TM Roh"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 5,
+    "title": "Meta's Ray-Ban Smart Glasses Finally Land in India with Local Features",
+    "summary": "Meta has officially launched Ray-Ban Smart Glasses on Amazon India and Flipkart, featuring localized AI support for Hindi interactions[cite: 36, 187, 188]. [cite_start]The glasses include a 12MP ultra-wide camera and are positioned to capture the growing wearables market in the region[cite: 192, 194].",
+    "raw_text": "Finally! If you are in India, you can officially buy the Meta Ray-Ban smart glasses starting today on Amazon and Flipkart. But here is the cool part—they didn't just ship the US version. They localized the AI assistant to support Hindi.\n\nYou can say 'Hey Meta' and talk to it in your native language. This is a brilliant move by Zuckerberg to gather diverse training data from the massive Indian market. They’ve got the 12MP camera, the open-ear speakers, all of it. With the Apple Vision Pro being so expensive, these glasses are basically becoming the default 'face computer' for everyone.",
+    "id": "META_IND_006",
+    "engagement": "High",
+    "category": "Hardware",
+    "companies": [
+      "Meta",
+      "EssilorLuxottica"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Tech News Report Generation Request (2).pdf",
+    "page": 6,
+    "title": "Meta's SAM 3 Gives Robots \"Conceptual\" Vision",
+    "summary": "Meta released SAM 3 (Segment Anything Model 3), introducing 'Promptable Concept Segmentation' which allows AI to understand semantic concepts like 'school bus' rather than just geometric shapes[cite: 11, 85, 87]. [cite_start]The model unifies image detection and video tracking, serving as a critical foundation for robotics and AR[cite: 90, 93].",
+    "raw_text": "While everyone is distracted by image generation, Meta quietly dropped a bombshell for robotics called SAM 3. The old models could cut out shapes, like a square or a circle. SAM 3 understands *concepts*.\n\nYou can tell it to track 'the yellow school bus,' and it knows what a bus is—it won't get confused by a yellow truck. It unifies video and image tracking into one brain. This is basically the software upgrade that robots need to actually understand the world around them, not just navigate around obstacles. And in classic Meta fashion, they open-sourced it to undermine the competition.",
+    "id": "SAM3_REL_007",
+    "engagement": "Medium",
+    "category": "Research",
+    "companies": [
+      "Meta"
+    ],
+    "people": [
+      "Yann LeCun"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 9,
+    "title": "Quantum Leap: Google hits 13,000x Speedup Over Supercomputers",
+    "summary": "Google Quantum AI demonstrated that its 65-qubit 'Willow' processor performed a physics simulation 13,000 times faster than the Frontier supercomputer[cite: 563, 569]. [cite_start]The breakthrough uses a new 'Quantum Echoes' algorithm to measure interference effects in molecular simulations[cite: 566].",
+    "raw_text": "We hear about 'Quantum Advantage' a lot, but Google just put a number on it. Their new Quantum AI chip, dubbed 'Willow,' ran a physics simulation 13,000 times faster than the world's fastest supercomputer, Frontier. \n\n13,000 times. That is not a marginal gain; that is a paradigm shift. They used a new algorithm called 'Quantum Echoes' to simulate molecular interactions that are basically impossible for classical computers to track. We are getting dangerously close to the point where these machines move from 'science project' to 'solving problems we actually care about,' like new materials and drug discovery.",
+    "id": "GOOG_QUANT_008",
+    "engagement": "Medium",
+    "category": "Science",
+    "companies": [
+      "Google",
+      "Alphabet"
+    ],
+    "people": [
+      "Hartmut Neven"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Tech News Report Generation Request (2).pdf",
+    "page": 7,
+    "title": "Microsoft's \"Agent 365\" is the New Boss for Your AI Employees",
+    "summary": "Microsoft introduced Agent 365, a centralized governance platform to manage, secure, and track autonomous AI agents within the enterprise[cite: 20, 103, 104]. [cite_start]The platform integrates with Microsoft Entra ID to assign unique identities to agents, treating them as synthetic employees to prevent 'shadow AI'[cite: 107, 108].",
+    "raw_text": "Microsoft just admitted that the future is Agentic, and it's going to be chaotic. They announced 'Agent 365,' which is basically an HR department for your AI employees. \n\nIt gives every AI agent a unique ID badge, controls what data they can see, and even monitors their 'thought processes' to make sure they aren't going rogue. This is a direct response to 'Shadow AI'—employees spinning up bots that the IT department doesn't know about. Verizon just laid off 13,000 people to reduce 'friction,' and platforms like this are exactly what's replacing them. The enterprise isn't just adopting AI; they're institutionalizing it.",
+    "id": "MSFT_AGENT_009",
+    "engagement": "Low",
+    "category": "Business",
+    "companies": [
+      "Microsoft",
+      "Verizon"
+    ],
+    "people": [
+      "Satya Nadella"
+    ],
+    "created_at": "2025-11-21T14:30:00Z"
+  }
+]
