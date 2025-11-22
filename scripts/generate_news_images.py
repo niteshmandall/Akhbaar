@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-IMAGES_DIR = 'dataset/images'
+# IMAGES_DIR = 'dataset/images' # Removed global constant as it's now dynamic
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
 # Initialize Gemini Client
@@ -57,16 +57,32 @@ def generate_image(prompt):
         print(f"Error generating image: {e}")
         return None
 
-def save_image_locally(image_bytes, filename):
-    """Saves image bytes to a local file."""
-    if not os.path.exists(IMAGES_DIR):
-        os.makedirs(IMAGES_DIR)
+def save_image_locally(image_bytes, filename, output_dir):
+    """Saves image bytes to a local file in the specified directory."""
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     
-    filepath = os.path.join(IMAGES_DIR, filename)
+    filepath = os.path.join(output_dir, filename)
     try:
         with open(filepath, 'wb') as f:
             f.write(image_bytes)
-        return f"images/{filename}" # Return relative path
+        
+        # Return path relative to the dataset directory parent (which is where the script is likely run from context, 
+        # but based on previous code it returned "images/filename").
+        # The previous code returned f"images/{filename}" which implies it expected `dataset/images` to be the root for serving?
+        # Or maybe it's relative to `public` if this is a react app?
+        # The user said "put the generated images in the specific relevant folder of json files".
+        # If the json is in `dataset/19_11_25.json`, the images should be in `dataset/19_11_25/`.
+        # The returned URL should probably be `19_11_25/filename` if the serving root is `dataset`.
+        # Let's assume the `dataset` folder is the static asset folder or similar.
+        # The previous code used `IMAGES_DIR = 'dataset/images'` and returned `f"images/{filename}"`.
+        # So it stripped `dataset/`.
+        
+        # Get the relative path from 'dataset' directory
+        rel_path = os.path.relpath(filepath, 'dataset')
+        # Ensure forward slashes for URLs
+        return rel_path.replace(os.sep, '/')
+        
     except Exception as e:
         print(f"Error saving image locally: {e}")
         return None
@@ -110,6 +126,12 @@ def main():
 
     print(f"\nProcessing file: {dataset_file}")
 
+    # Determine output directory based on dataset filename
+    # e.g., dataset/19_11_25.json -> dataset/images/19_11_25
+    base_name = os.path.splitext(os.path.basename(dataset_file))[0]
+    output_dir = os.path.join('dataset', 'images', base_name)
+    print(f"Images will be saved to: {output_dir}")
+
     try:
         with open(dataset_file, 'r') as f:
             news_items = json.load(f)
@@ -120,6 +142,10 @@ def main():
     updated_count = 0
     for item in news_items:
         if 'image_url' in item and item['image_url']:
+            # Check if the image url matches the new structure? 
+            # For now, just skip if any image_url exists to avoid re-generating.
+            # Unless the user wants to move existing images? 
+            # The prompt implies "generated images", so likely for new runs or re-runs.
             print(f"Skipping '{item['title']}' - Image already exists.")
             continue
 
@@ -141,7 +167,7 @@ def main():
 
         # 3. Save Locally
         filename = f"{item['id']}.png"
-        image_url = save_image_locally(image_bytes, filename)
+        image_url = save_image_locally(image_bytes, filename, output_dir)
         if not image_url:
             print("Failed to save image. Skipping.")
             continue
