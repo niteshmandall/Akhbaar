@@ -1,0 +1,191 @@
+[
+  {
+    "date": "2025-11-20",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Google's Gemini 3 Pro: \"Nano Banana\" Architecture & PhD-Level Logic",
+    "summary": "Google has launched Gemini 3 Pro featuring a new 'Nano Banana Pro' architecture optimized for image reasoning. Benchmarks claim the model achieves PhD-level reasoning capabilities without using external tools.",
+    "engagement": "High",
+    "raw_text": "Okay, you are not going to believe this name. Google just dropped Gemini 3 Pro, and the architecture is officially called 'Nano Banana Pro.' I wish I was joking, but I'm not. Aside from the meme-worthy name, this thing is actually a beast. We are looking at what Google calls 'PhD-level reasoning' without needing any external tools. It scored a 91.9% on the GPQA Diamond benchmark\u00e2\u20ac\u201dthat is expert-level biology, physics, and chemistry. They're moving away from just making models bigger and focusing on specialized architectures for visual understanding. If you're using Gemini, you need to check if you have access to the Banana update immediately. This might be the GPT-5 killer we've been waiting for.",
+    "id": "GEN3BANANA25",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/GEN3BANANA25.png",
+    "image_prompt": "A sophisticated and highly detailed close-up image of the core of an advanced AI processor, rendered with cutting-edge technology. The central focus is an ultra-dense, intricate silicon architecture, designed with exceptionally fine, interwoven pathways that exhibit a subtle, elegant curvature and organic flow, embodying the innovative \"Nano Banana Pro\" design philosophy. This core pulses with an internal, soft glow of deep emerald green and electric blue light, suggesting immense computational efficiency and contained power.\n\nRadiating outwards from this intricate core are luminous, complex patterns of interconnected neural networks and data streams, visualized as vibrant violet and cyan light trails. These abstract patterns form an intricate, three-dimensional web, symbolizing profound, PhD-level reasoning capabilities and self-contained intelligence without reliance on external tools. The light effects should convey a sense of active thought and deep algorithmic processing.\n\nThe overall aesthetic is clean, futuristic, and high-tech. The background is a subtly blurred, modern data center environment or an abstract digital realm, with muted chrome and dark tones, allowing the glowing processor to stand out. The lighting is dramatic and precise, highlighting the intricate details and emphasizing the groundbreaking nature of the technology. The image should evoke a sense of innovation, intelligence, and a powerful leap forward in AI. No text or logos are visible."
+  },
+  {
+    "date": "2025-11-23",
+    "source_file": "Tech News Aggregator Report Request (1).pdf",
+    "page": 11,
+    "title": "Pixel 10 HACK: Google Reverse-Engineered AirDrop",
+    "summary": "Google has successfully reverse-engineered Apple's AirDrop protocol for the Pixel 10, allowing file transfers between Android and iOS. This utilizes the Wi-Fi Aware standard to bridge the ecosystem gap.",
+    "engagement": "High",
+    "raw_text": "This is the biggest 'shot fired' moment in the phone wars in years. Google has literally reverse-engineered Apple's AirDrop. You heard that right. The new Pixel 10 can now send and receive files directly with iPhones using Apple's own protocol. They hired a security firm to validate it, basically hacking the 'Blue Bubble' wall. This removes the single biggest friction point for people switching to Android. I guarantee you Apple is freaking out in Cupertino right now and trying to patch this, but for now, the walled garden just got a massive hole punched in it. Watch for a lawsuit, but until then, cross-platform sharing is finally real.",
+    "id": "PIXELAIRDROP25",
+    "category": "Mobile",
+    "companies": [
+      "Google",
+      "Apple",
+      "NetSPI"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/PIXELAIRDROP25.png",
+    "image_prompt": "A highly realistic, professional studio photograph suitable for a tech news article. The central focus is on two modern smartphones: a sleek, contemporary Google Pixel (representing the Pixel 10) held gently in one hand, and an equally modern Apple iPhone (a recent model) held gently in another hand. The devices are positioned closely together in the foreground, almost touching, implying a direct, seamless interaction.\n\nA subtle, ethereal visual representation of wireless data transfer flows gracefully between the screens or edges of the two phones. This should be depicted as a delicate, glowing, almost invisible energy bridge or soft, abstract light particles subtly arcing and connecting them, emphasizing a smooth, effortless exchange rather than overt digital signals or arrows. The effect is sophisticated and understated, conveying breakthrough technology.\n\nThe hands holding the phones are clean, professional, and do not distract from the devices themselves. The background is a shallow depth of field, minimalist, and modern tech environment \u2013 perhaps a blurred clean desk surface, a polished conference table, or a soft gradient wall, providing a sophisticated backdrop without specific identifying details.\n\nThe lighting is crisp, high-key, and even, highlighting the premium design of both phones and the subtle, innovative glow of the connection. The overall mood is one of groundbreaking innovation, seamless interoperability, and effortlessly achieved connection. No visible text or UI elements are explicitly shown on the phone screens; they display only a general, subtle luminescence if on."
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "OpenAI & Foxconn: Building AI Factories in the USA",
+    "summary": "OpenAI has formed a strategic alliance with Foxconn to manufacture AI hardware and server racks in Wisconsin, Ohio, and Texas. This marks a major shift towards domestic production of AI infrastructure.",
+    "engagement": "High",
+    "raw_text": "Sam Altman isn't just building software anymore; he's building an industrial empire. OpenAI just partnered with Foxconn\u00e2\u20ac\u201dyes, the iPhone makers\u00e2\u20ac\u201dto start building massive AI hardware facilities right here in the US. We're talking Wisconsin, Ohio, Texas. They aren't just buying chips; they are custom-designing the entire server rack and power systems to handle the heat of next-gen models like GPT-6. This is what they call 'Sovereign AI.' It\u00e2\u20ac\u2122s a huge pivot to hard tech, and it basically confirms that the bottleneck for the future isn't code, it's electricity and cooling. The AI arms race just got physical.",
+    "id": "OPENAIFOX25",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "Foxconn"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/OPENAIFOX25.png",
+    "image_prompt": "A high-definition, wide-angle photograph inside a cutting-edge AI hardware manufacturing facility. The environment is impeccably clean, brightly lit, and evokes a sense of immense technological precision and efficiency. In the foreground, highly advanced industrial robotic arms, sleek and silver, are meticulously assembling intricate components onto server racks. These racks are robust, dark-colored structures, some partially filled with gleaming AI accelerators and circuit boards, subtly illuminated by faint blue and green indicator lights that suggest active data flow.\n\nA few skilled human engineers or technicians, dressed in modern, professional work attire (e.g., light gray jumpsuits or clean lab coats), are actively supervising the automated processes, perhaps examining a holographic blueprint on a tablet or performing a final quality check on a component with focused attention. Their presence highlights the synergy between human expertise and advanced automation.\n\nThe vast factory floor is polished and spotless, reflecting the abundant, diffused light from numerous overhead LED panels and large, high windows that reveal a glimpse of a modern industrial complex under a clear daytime sky, subtly hinting at a thriving American manufacturing hub. In the background, endless rows of partially assembled and completed server racks stretch into the distance, creating an impressive visual representation of large-scale domestic AI infrastructure production.\n\nThe mood is forward-looking, powerful, and innovative, emphasizing the strategic alliance. The color palette is predominantly cool, featuring blues, grays, whites, and metallic silvers, accented by the subtle glow of electronics. The composition captures the scale and ambition of building future AI factories, with a focus on the intersection of advanced technology and skilled labor. Photorealistic, editorial style."
+  },
+  {
+    "date": "2025-11-16",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "GPT-5.1 Released: \"Thinking\" Mode & Adaptive Speed",
+    "summary": "OpenAI has released GPT-5.1, featuring adaptive reasoning that scales compute based on task complexity. The update includes 'Instant' and 'Thinking' modes, with 2-3x speed improvements.",
+    "engagement": "High",
+    "raw_text": "Just in time for the holidays, OpenAI quietly dropped GPT-5.1, and it\u00e2\u20ac\u2122s smarter about how it uses its brain. It now has two distinct flavors: 'Instant' for quick chats and 'Thinking' for heavy lifting. It\u00e2\u20ac\u2122s 2-3x faster, which is great, but the real story is 'adaptive reasoning.' The model now knows when a task is hard and allocates more compute power to it automatically. It\u00e2\u20ac\u2122s basically the end of one-size-fits-all AI. If you're a Plus user, you need to toggle this on now because the logic capabilities just took a serious jump. Also, it\u00e2\u20ac\u2122s way less robotic in conversation.",
+    "id": "GPT51UPDATE25",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/GPT51UPDATE25.png",
+    "image_prompt": "A highly detailed, realistic, and sophisticated image suitable for a modern tech news website.\n\nThe central focus is a person, appearing professional and deeply engaged (gender-neutral, perhaps a scientist, engineer, or developer in their late 20s to early 40s), subtly illuminated by the glow of an advanced, large, transparent holographic display or a sleek, futuristic monitor. Their expression should convey a sense of focused observation and understanding, not surprise.\n\nOn the holographic display, the visual representation of GPT-5.1\u2019s capabilities is dynamic and vividly rendered. One prominent section of the display showcases the 'Thinking' mode: a complex, evolving neural network or an abstract, organic-like cluster of interconnected nodes and data structures. These elements pulse and shift with varying intensity, using a palette of deep blues, purples, and subtle magentas, suggesting profound computation, adaptive reasoning, and deep problem-solving. The light patterns here are intricate and seem to subtly expand and contract, indicating the scaling of compute based on task complexity.\n\nSeamlessly integrated with, or flowing directly from the 'Thinking' mode, another distinct section of the display illustrates the 'Instant' mode and speed improvements. This area is characterized by crisp, rapid streams of bright, luminous data, elegant light trails, and clean, efficient graphical representations moving with incredible velocity across the screen. This part of the display utilizes vibrant cyans, electric blues, and energetic greens, conveying immediate processing and the reported 2-3x speed improvements. The visual flow here is smooth, fast, and highly efficient, contrasting subtly with the more deliberate, intricate pulsations of the 'Thinking' mode.\n\nThe background is a subtly blurred, minimalist, high-tech laboratory or a sophisticated modern office environment, hinting at innovation and cutting-edge research without distracting from the main subject. Soft, ambient backlighting and the glow from the screens create depth and a professional, forward-looking mood. The overall aesthetic is clean, high-resolution, and conveys intelligence, progress, and the seamless integration of advanced AI with human interaction. No text, logos, or discernible brand names should be visible in the image."
+  },
+  {
+    "date": "2025-11-19",
+    "source_file": "Tech News Digest \u00e2\u20ac\u201c November 23, 2025.pdf",
+    "page": 3,
+    "title": "End of an Era: Yann LeCun Leaves Meta",
+    "summary": "AI pioneer Yann LeCun is leaving his role at Meta to launch his own startup focused on 'Advanced Machine Intelligence' (AMI). Meta will remain a partner in his new venture.",
+    "engagement": "High",
+    "raw_text": "This is massive news for the AI community. Yann LeCun, one of the 'Godfathers of AI' and the guy who basically built Meta's AI division, is leaving. He's starting his own company focused on 'Advanced Machine Intelligence.' LeCun has always been the guy saying LLMs aren't the path to true intelligence, so this startup is likely going to try something completely different from the Transformer models everyone else is building. He's staying on good terms with Zuckerberg, but the fact that he's striking out on his own suggests he thinks he's found a better way to reach AGI. Keep your eyes on this one.",
+    "id": "LECUNEXIT25",
+    "category": "Business",
+    "companies": [
+      "Meta"
+    ],
+    "people": [
+      "Yann LeCun",
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2025-11-23T00:18:18.000Z"
+  },
+  {
+    "date": "2025-11-23",
+    "source_file": "Tech News Aggregator Report Request (1).pdf",
+    "page": 8,
+    "title": "Kandinsky 5.0: The Open-Source Video Generator",
+    "summary": "A new open-source video generation model, Kandinsky 5.0, has been released with capabilities challenging proprietary models. It features specific optimizations for Russian cultural concepts and a new Cross-Attention architecture.",
+    "engagement": "High",
+    "raw_text": "Creators, listen up. We finally have a real, open-source competitor to Sora. It's called Kandinsky 5.0. Unlike the closed models from OpenAI or Google where you have to wait for access, this code is out there. It uses a new 'Cross-Attention Diffusion Transformer' to stop that weird glitching where objects disappear in videos. It\u00e2\u20ac\u2122s ranging from 2B to 19B parameters, so you can probably run the Lite version on consumer hardware. It has a heavy focus on 'sovereign AI,' meaning it's not filtered by Western corporate standards. If you want to make AI video without paying API fees, download this now.",
+    "id": "KANDINSKY25",
+    "category": "AI",
+    "companies": [],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/KANDINSKY25.png",
+    "image_prompt": "A high-resolution, photorealistic image of a sophisticated holographic display or an ultra-modern transparent screen taking center stage in a dimly lit, high-tech research lab or minimalist studio. The screen is large and vibrant, showcasing a mesmerizing, dynamic video sequence. This generated video content features an evolving abstract composition that fluidly blends geometric forms, vibrant brushstroke-like elements, and flowing lines, highly reminiscent of Vasily Kandinsky's energetic and colorful art, but rendered with cutting-edge digital precision and seamless motion. The color palette within the generated video is rich and deep, incorporating jewel tones like deep blues, emerald greens, ruby reds, and burnished gold, reflecting a sophisticated and culturally resonant aesthetic. Subtle, elegant digital data streams, glowing network lines, or intricate computational patterns subtly emanate from behind or around the screen, visually suggesting complex 'cross-attention' architectures and advanced algorithms at work. The surrounding environment is sleek and ultra-modern, featuring brushed metal surfaces, polished dark glass, and faint ambient glow from hidden lighting or subtle server indicators, emphasizing innovation, power, and cutting-edge technology. The mood is one of advanced discovery, technological prowess, and artistic breakthrough in artificial intelligence. Focus on extremely sharp detail, realistic textures, and dramatic, high-contrast lighting. No visible text, logos, or human figures."
+  },
+  {
+    "date": "2025-11-13",
+    "source_file": "Tech News Report_ November 23, 2025.pdf",
+    "page": 5,
+    "title": "OnePlus 15 Launch: 16GB RAM & Snapdragon 8 Elite",
+    "summary": "The OnePlus 15 has launched in India featuring the Snapdragon 8 Elite Gen 5 processor and 16GB of LPDDR5X RAM. The device focuses heavily on on-device AI processing capabilities.",
+    "engagement": "Medium",
+    "raw_text": "OnePlus is back, and the specs on the OnePlus 15 are ridiculous. We are talking about the new Snapdragon 8 Elite Gen 5 chip paired with 16GB of RAM. This isn't just for gaming; that Gen 5 chip is built specifically for on-device AI. That means faster photo editing, real-time translation, and AI assistant features that don't need the cloud. If you're looking for a flagship killer this holiday season, this is the frontrunner. They're launching right in the middle of the holiday shopping blitz, so expect some aggressive pricing battles with the Pixel and Samsung.",
+    "id": "ONEPLUS15LAUNCH",
+    "category": "Mobile",
+    "companies": [
+      "OnePlus",
+      "Qualcomm"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/ONEPLUS15LAUNCH.png",
+    "image_prompt": "A close-up, high-resolution studio photograph of the new OnePlus 15 smartphone. The device is positioned at a dynamic three-quarter angle, elegantly showcasing its sleek, premium design, with ultra-slim bezels and a sophisticated, possibly matte or metallic finish on its frame. The vibrant AMOLED display is subtly illuminated, featuring an abstract, ethereal visualization of glowing, interconnected neural network pathways or complex data flows, rendered in subtle blues, purples, and soft white light. This visual element on the screen subtly conveys advanced on-device AI processing capabilities and computational power, without displaying any specific text, app icons, or identifiable UI elements.\n\nThe background is a soft-focused, modern, minimalist tech environment, perhaps a subtly lit stage or a high-end studio setting with blurred, futuristic architectural elements and ambient, cool-toned lighting. There are no distracting elements, and the scene exudes a sense of cutting-edge innovation. The lighting is dramatic and professional, with a strong key light highlighting the phone's contours and textures, complemented by a soft fill light to prevent harsh shadows, creating depth and a sophisticated, aspirational mood. The overall image should be incredibly sharp, with crisp details on the phone's surface and screen, rendered in an ultra-realistic photographic style suitable for a leading tech news publication. No text or logos are visible in the image itself."
+  },
+  {
+    "date": "2025-11-17",
+    "source_file": "Tech News Report_ November 23, 2025.pdf",
+    "page": 1,
+    "title": "DeepMind Wins Nobel Prize for AlphaFold",
+    "summary": "Google DeepMind's AlphaFold system has been awarded a Nobel Prize for revolutionizing protein structure prediction. The technology is now being used by Isomorphic Labs to accelerate drug discovery timelines from years to months.",
+    "engagement": "High",
+    "raw_text": "We need to take a second to appreciate this: AI just won a Nobel Prize. Google DeepMind's AlphaFold officially got the nod. This isn't just 'tech news'; this is 'saving humanity' news. They have predicted the structure of over 200 million proteins. We are talking about compressing drug discovery timelines from years down to months. They've spun this out into Isomorphic Labs, and they are already working on treatments for Chagas disease and bee immunity. AI is often hyped, but this is the real deal\u00e2\u20ac\u201dusing compute to solve biology.",
+    "id": "ALPHAFOLDNOBEL",
+    "category": "Science",
+    "companies": [
+      "Google DeepMind",
+      "Isomorphic Labs"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/ALPHAFOLDNOBEL.png",
+    "image_prompt": "A high-resolution, photorealistic image suitable for a major news publication, capturing the essence of groundbreaking scientific achievement and technological innovation.\n\nThe central focus of the image is a breathtakingly intricate and vibrant 3D representation of a complex protein structure. It should be rendered with exquisite detail and a luminous quality, perhaps as a multi-colored ribbon diagram with clearly defined alpha-helices and beta-sheets, or a dynamically shifting space-filling model. This protein structure is subtly elevated, almost floating, at the center of the frame, glowing with an internal light that radiates a soft, golden warmth, symbolizing the prestige of a Nobel Prize and the profound impact of this discovery.\n\nAround and subtly interacting with the central protein, ethereal streams of digital data, abstract neural network patterns, and holographic projections swirl and intertwine. These elements, rendered in a palette of deep blues, electric purples, and radiant greens, represent the advanced AI and computational power of DeepMind's AlphaFold system. They should feel organic yet highly technological, hinting at the complex algorithms at play without being overwhelming or cluttered.\n\nThe background depicts a modern, state-of-the-art research laboratory or advanced computational facility, slightly out of focus to maintain emphasis on the central subject. This environment features sleek, minimalist design, pristine surfaces, and subtle reflections from high-tech equipment or large display screens (ensuring no legible text is visible). The overall atmosphere is one of profound discovery, innovation, and hopeful progress, where cutting-edge technology dramatically accelerates fundamental biological science towards new frontiers in drug discovery. The lighting is crisp, brilliant, and sophisticated, emphasizing depth and texture, conveying a sense of monumental achievement and the transformative future of medical research."
+  },
+  {
+    "date": "2025-11-23",
+    "source_file": "Tech News Aggregator Report Request (1).pdf",
+    "page": 6,
+    "title": "New AI Training Method \"EGGROLL\" Kills Backpropagation",
+    "summary": "Researchers have proposed 'EGGROLL', a new evolutionary strategy for training neural networks that bypasses the memory-intensive backpropagation method. This could allow massive models to be trained on consumer-grade hardware.",
+    "engagement": "Medium",
+    "raw_text": "Okay, this is for the geeks, but it's huge. A new paper just dropped called 'EGGROLL'\u00e2\u20ac\u201dyes, really\u00e2\u20ac\u201dand it challenges the way we train ALL AI. Right now, we use backpropagation, which eats up massive amounts of memory (VRAM). EGGROLL uses 'Evolutionary Strategies' instead. Long story short: it reduces memory usage by orders of magnitude. This means we might not need $30,000 Nvidia H100s to train big models anymore. We could potentially train massive AI on consumer GPUs or even CPUs. If this scales, Nvidia's moat just got a lot smaller.",
+    "id": "EGGROLL25",
+    "category": "AI",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/EGGROLL25.png",
+    "image_prompt": "A hyper-realistic, high-definition photograph captured with a shallow depth of field. The central focus is a modern, sleek desktop workstation with a large, ultra-wide monitor, keyboard, and mouse, situated on a clean, minimalist desk in a bright, contemporary lab or office setting. A human hand (gender-neutral, perhaps only partially visible) is resting near the keyboard, suggesting engagement.\n\nThe monitor's screen displays a vibrant, abstract visualization of a neural network. Instead of dense, tangled lines and overwhelming complexity, this visualization is strikingly elegant and fluid: luminous, interconnected pathways that glow with soft, cool blues, greens, and subtle purples. These pathways form a continuous, almost 'rolling' or wave-like pattern, appearing to process data with remarkable simplicity and effortless flow, symbolizing the efficiency and innovative nature of the 'EGGROLL' method.\n\nIn the softly blurred background, a faint, intricate, and slightly monolithic silhouette of traditional, denser computational architecture or several server racks is subtly receding into shadow, hinting at the memory-intensive backpropagation methods now being bypassed. The lighting is clean and bright, with a subtle internal glow emanating from the monitor and the workstation itself, emphasizing innovation, power, and accessibility. The overall mood is optimistic, forward-thinking, and professional, underscoring a significant technological breakthrough that democratizes AI capabilities."
+  },
+  {
+    "date": "2025-11-04",
+    "source_file": "Tech News Report_ November 23, 2025.pdf",
+    "page": 4,
+    "title": "Lenovo AI Glasses V1: Real-Time Translation on Your Face",
+    "summary": "Lenovo is launching the AI Glasses V1, focusing on practical utilities like instant live language translation. The device aims for a lightweight design to appeal to international business travelers.",
+    "engagement": "Medium",
+    "raw_text": "Lenovo is taking another crack at smart glasses, but this time they aren't trying to be the Apple Vision Pro. The AI Glasses V1 are all about utility. The killer feature? Real-time, live language translation right in front of your eyes. Imagine traveling and having subtitles for real life. They are lightweight and designed for actual all-day wear. If they nailed the battery life, this could be the gadget that finally brings AR to the mainstream for business travelers. No holograms, just useful info.",
+    "id": "LENOVOGLASSES25",
+    "category": "Hardware",
+    "companies": [
+      "Lenovo"
+    ],
+    "people": [],
+    "created_at": "2025-11-23T00:18:18.000Z",
+    "image_url": "images/23_11_25/LENOVOGLASSES25.png",
+    "image_prompt": "A professional, globally diverse individual (e.g., a woman in her late 30s with an international business appearance) is captured in a mid-shot, looking slightly off-camera with a focused, confident, and understanding expression. She is wearing the sleek, lightweight Lenovo AI Glasses V1, which are prominently and comfortably positioned on her face. The glasses feature a minimalist, modern design, perhaps in a matte black or brushed dark metal finish, with slender frames.\n\nAround the lenses of the glasses, a subtle, ethereal holographic effect or an abstract, non-legible digital light pattern emanates faintly, suggesting real-time data processing and translation without displaying any actual words or specific symbols. This visual cue implies the AI's active function. The background is a softly blurred, high-end international airport lounge or a modern conference lobby, hinting at global travel and business interactions. Elements like a distant airplane wing through a large window, or blurred professional figures, can be subtly discernible.\n\nThe lighting is clean, bright, and professional, designed to highlight the sophisticated contours of the glasses and the wearer's face. The focus is tack-sharp on the glasses and the individual's eyes, conveying a sense of innovation and practical utility. The overall mood is sophisticated, efficient, and forward-thinking, embodying advanced technology that seamlessly integrates into everyday professional life. Realistic, high-resolution photo with a shallow depth of field and a professional photography aesthetic."
+  }
+]
