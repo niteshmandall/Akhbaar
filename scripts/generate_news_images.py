@@ -1,23 +1,11 @@
 import json
 import os
 import time
-from google import genai
-from google.genai import types
-import io
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
-
-# Configuration
-# IMAGES_DIR = 'dataset/images' # Removed global constant as it's now dynamic
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-
-# Initialize Gemini Client
-client = genai.Client(api_key=GOOGLE_API_KEY)
-
+import urllib.request
+import urllib.parse
+import random
 def generate_image_prompt(title, summary):
-    """Generates a detailed image prompt using Gemini."""
+    """Generates a detailed image prompt using Pollinations AI (Text)."""
     prompt = f"""
     Create a detailed and vivid image generation prompt for a news article.
     
@@ -31,30 +19,44 @@ def generate_image_prompt(title, summary):
     """
     
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt
+        # Encode the prompt for the URL
+        encoded_prompt = urllib.parse.quote(prompt)
+        # Pollinations AI text endpoint
+        url = f"https://text.pollinations.ai/{encoded_prompt}"
+        
+        req = urllib.request.Request(
+            url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
         )
-        return response.text.strip()
+        
+        with urllib.request.urlopen(req) as response:
+            return response.read().decode('utf-8').strip()
+            
     except Exception as e:
-        print(f"Error generating prompt: {e}")
+        print(f"Error generating prompt with Pollinations AI: {e}")
         return None
 
 def generate_image(prompt):
-    """Generates an image using Imagen 3."""
+    """Generates an image using Pollinations AI (Free)."""
     try:
-        response = client.models.generate_images(
-            model='imagen-4.0-fast-generate-001',
-            prompt=prompt,
-            config=types.GenerateImagesConfig(
-                number_of_images=1,
-            )
+        # Encode the prompt for the URL
+        encoded_prompt = urllib.parse.quote(prompt)
+        # Add a random seed to ensure variety if called multiple times with same prompt
+        seed = random.randint(0, 10000)
+        image_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true"
+        
+        # Create a request with a User-Agent header
+        req = urllib.request.Request(
+            image_url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
         )
-        if response.generated_images:
-            return response.generated_images[0].image.image_bytes
-        return None
+        
+        # Fetch the image
+        with urllib.request.urlopen(req) as response:
+            return response.read()
+            
     except Exception as e:
-        print(f"Error generating image: {e}")
+        print(f"Error generating image with Pollinations AI: {e}")
         return None
 
 def save_image_locally(image_bytes, filename, output_dir):
@@ -88,9 +90,9 @@ def save_image_locally(image_bytes, filename, output_dir):
         return None
 
 def main():
-    if not GOOGLE_API_KEY:
-        print("Error: GOOGLE_API_KEY not found in environment variables.")
-        return
+    # if not GOOGLE_API_KEY:
+    #     print("Error: GOOGLE_API_KEY not found in environment variables.")
+    #     return
 
     dataset_dir = 'dataset'
     if not os.path.exists(dataset_dir):
@@ -126,7 +128,15 @@ def main():
 
         updated_count = 0
         for item in news_items:
+            image_exists = False
             if 'image_url' in item and item['image_url']:
+                # Check if file actually exists
+                # item['image_url'] is relative to dataset_dir (e.g. images/25_11_25/foo.png)
+                possible_path = os.path.join(dataset_dir, item['image_url'])
+                if os.path.exists(possible_path):
+                    image_exists = True
+            
+            if image_exists:
                 print(f"Skipping '{item['title']}' - Image already exists.")
                 continue
 
@@ -164,7 +174,7 @@ def main():
                 json.dump(news_items, f, indent=2)
             
             # Rate limiting (basic)
-            time.sleep(2) 
+            time.sleep(10) 
 
         print(f"Finished processing {filename}. Updated {updated_count} items.")
 
