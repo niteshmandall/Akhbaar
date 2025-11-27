@@ -1,7 +1,7 @@
 import json
 import os
 import time
-import urllib.request
+import requests
 import urllib.parse
 import random
 def generate_image_prompt(title, summary):
@@ -14,7 +14,8 @@ def generate_image_prompt(title, summary):
     
     The prompt should describe a realistic, high-quality image suitable for a news website. 
     Focus on the visual elements, mood, and key subjects. 
-    Do not include text in the image unless absolutely necessary.
+    Do not include text in the image.
+    Keep the prompt UNDER 300 CHARACTERS.
     Output ONLY the prompt text.
     """
     
@@ -24,40 +25,43 @@ def generate_image_prompt(title, summary):
         # Pollinations AI text endpoint
         url = f"https://text.pollinations.ai/{encoded_prompt}"
         
-        req = urllib.request.Request(
-            url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        )
-        
-        with urllib.request.urlopen(req) as response:
-            return response.read().decode('utf-8').strip()
+        response = requests.get(url, timeout=30)
+        if response.status_code == 200:
+            return response.text.strip()
+        else:
+            print(f"Error generating prompt: Status {response.status_code}")
+            return None
             
     except Exception as e:
         print(f"Error generating prompt with Pollinations AI: {e}")
         return None
 
 def generate_image(prompt):
-    """Generates an image using Pollinations AI (Free)."""
-    try:
-        # Encode the prompt for the URL
-        encoded_prompt = urllib.parse.quote(prompt)
-        # Add a random seed to ensure variety if called multiple times with same prompt
-        seed = random.randint(0, 10000)
-        image_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true"
-        
-        # Create a request with a User-Agent header
-        req = urllib.request.Request(
-            image_url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-        )
-        
-        # Fetch the image
-        with urllib.request.urlopen(req) as response:
-            return response.read()
-            
-    except Exception as e:
-        print(f"Error generating image with Pollinations AI: {e}")
-        return None
+    """Generates an image using Pollinations AI (Free) with retry logic."""
+    # Encode the prompt for the URL
+    encoded_prompt = urllib.parse.quote(prompt)
+    # Add a random seed to ensure variety
+    seed = random.randint(0, 10000)
+    # Use the correct endpoint and add model=sdxl
+    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=sdxl"
+    
+    for attempt in range(5):  # 5 retry attempts
+        try:
+            response = requests.get(url, timeout=30)
+            if response.status_code == 200:
+                return response.content
+            else:
+                print(f"  Attempt {attempt+1} failed with status: {response.status_code}")
+        except Exception as e:
+            print(f"  Attempt {attempt+1} failed with error: {e}")
+
+        if attempt < 4:
+            wait_time = 2 ** attempt  # Exponential backoff: 1, 2, 4, 8 seconds
+            print(f"  Retrying in {wait_time} seconds...")
+            time.sleep(wait_time)
+
+    print("  Failed to generate image after 5 attempts.")
+    return None
 
 def save_image_locally(image_bytes, filename, output_dir):
     """Saves image bytes to a local file in the specified directory."""
