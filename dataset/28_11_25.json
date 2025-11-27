@@ -1,0 +1,176 @@
+[
+  {
+    "date": "2025-11-27",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Google's New AI Agent IDE is Here... And It's Dangerous",
+    "summary": "Google launched 'Antigravity,' an IDE where AI agents autonomously plan and execute code, but security firms immediately found critical vulnerabilities allowing persistent code execution and data exfiltration. The system bifurcates the workflow into an editor view and a manager surface for controlling these autonomous agents.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you are doing because software development just changed forever, and honestly, it’s a little terrifying. Google just dropped 'Antigravity,' their new AI-first IDE, and it’s not just a fancy autocomplete. We are talking about full-blown autonomous agents that can plan, execute, and verify code across terminals and browsers. It’s like having a junior dev living in your editor. But here is the wild part—security researchers at Mindgard and PromptArmor already broke it. They found that these 'Shadow Agents' can be tricked via prompt injection to steal your AWS keys or leave a permanent backdoor on your machine just by opening a malicious repo. So, while we are entering the 'Founder Mode' era of coding speed, we are also opening a massive new attack surface. Would you trust an agent with your root access? Let me know in the comments.",
+    "id": "GN-2025-001",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Mindgard",
+      "PromptArmor"
+    ],
+    "people": [
+      "Sergey Brin"
+    ],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Alibaba's $260 Smart Glasses Kill the Battery Anxiety",
+    "summary": "Alibaba entered the smart eyewear market with the Quark AI series, featuring a swappable dual-battery system for infinite runtime and aggressive pricing starting at $262. The glasses integrate with the Qwen LLM for visual search and ecosystem services.",
+    "engagement": "High",
+    "raw_text": "The AR wars just got spicy. Alibaba just launched the Quark AI glasses, and they are coming directly for Meta's throat. First off, the price: roughly $260 USD. That is undercutting Ray-Ban Meta by a significant margin. But the real game-changer here is the battery. You know how smart glasses usually die in like four hours? The Quark glasses have a swappable dual-battery system in the temple tips. You can hot-swap one while the other keeps the device running. Theoretically, you never have to take them off. Infinite battery life. They are powered by Alibaba’s Qwen AI, so you can look at a product and buy it instantly on Taobao. It’s a massive play for 'face real estate.' If these hit the global market next year, would you buy a pair, or is the privacy risk too high?",
+    "id": "HW-2025-002",
+    "category": "Hardware",
+    "companies": [
+      "Alibaba",
+      "Meta",
+      "Qualcomm"
+    ],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Tech News Report Generation Request (5).pdf",
+    "page": 6,
+    "title": "Apple's $2,400 Foldable iPhone Leaked: No Crease, Huge Price",
+    "summary": "Supply chain leaks reveal Apple's foldable iPhone is targeted for 2026 with a 'crease-free' metallic glass hinge and a luxury price point of $2,399. Analysts view this as a halo product to recapture the innovation narrative from Samsung.",
+    "engagement": "High",
+    "raw_text": "We finally have concrete details on the foldable iPhone, and you better start saving now. Leaks surfacing today point to a 2026 release, but here is the kicker: the price is rumored to be twenty-four hundred dollars. $2,399! Why? Because Apple is reportedly refusing to launch until they solve the 'crease' problem. They are using some next-gen amorphous alloy metallic glass for the hinge to make the screen perfectly flat. It’s basically going to be an 'ultra-luxury' device, serving as a flex for the brand rather than a mass-market phone initially. If they actually pull off a crease-free screen, I think people might pay it. But $2,400? That is MacBook Pro money. Is Apple out of their minds, or is this the new normal?",
+    "id": "MB-2025-003",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Samsung"
+    ],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "AI Research Collaborations (1).pdf",
+    "page": 2,
+    "title": "US Military AI Drone Fails: Anduril Prototypes Crash",
+    "summary": "Anduril's 'Altius' drone prototypes suffered significant failures during US Air Force tests, including nose-diving and spiraling out of control. This highlights the gap between Silicon Valley defense tech hype and reliable battlefield performance.",
+    "engagement": "High",
+    "raw_text": "So, we need to talk about the darker side of AI hype. Anduril, the poster child for Silicon Valley defense tech, just had a major stumble. Reuters is reporting that their 'Altius' drones crashed during Air Force tests this month. We’re talking nosedives from 8,000 feet and spiraling out of control. Anduril says it’s just part of testing, but this is a reality check. We hear so much about AI warfare and autonomous swarms, but physics is still physics. Building reliable military hardware is way harder than shipping software updates. This is super important because companies like Anduril are supposed to be the future of US defense. If their drones are falling out of the sky in Florida, we are a long way from RoboCop.",
+    "id": "MIL-2025-004",
+    "category": "Military Tech",
+    "companies": [
+      "Anduril",
+      "US Air Force"
+    ],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Combined",
+    "page": 5,
+    "title": "Sony's New 200MP Sensor Puts AI Inside the Camera",
+    "summary": "Sony Semiconductor Solutions released the LYTIA 901, a 1/1.12-inch sensor that embeds AI processing directly on the silicon to handle 200MP throughput and enable 4x lossless zoom. The sensor uses a Quad-Quad Bayer arrangement for superior low-light performance and HDR.",
+    "engagement": "Medium",
+    "raw_text": "Sony just blurred the line between hardware and software, and your next phone camera is going to be insane. They just dropped the LYTIA 901 sensor. It's huge—nearly 1-inch—and packs 200 megapixels. But the real innovation is that they embedded the AI processing circuit *inside* the sensor itself. Instead of sending raw data to your phone's processor, the sensor does the heavy lifting, like remosaicing and exposure adjustment, instantly. This means you get 4x optical-quality zoom without a telephoto lens and way better battery life because you aren't moving massive files around. This is the 'Computational Photography Singularity.' DSLR quality is getting scarily close to fitting in our pockets.",
+    "id": "CAM-2025-005",
+    "category": "Hardware",
+    "companies": [
+      "Sony Semiconductor Solutions"
+    ],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-20",
+    "source_file": "AI Research Collaborations (1).pdf",
+    "page": 3,
+    "title": "IBM & Cisco Building the Quantum Internet",
+    "summary": "IBM and Cisco announced a partnership to build a distributed quantum computing network by 2030, alongside IBM's reveal of the 120-qubit 'Nighthawk' processor. The goal is to link multiple quantum machines to solve complex problems like drug design.",
+    "engagement": "Medium",
+    "raw_text": "We usually talk about AI, but a massive shift in Quantum computing just happened. IBM and Cisco are teaming up to build what is effectively the 'Quantum Internet.' By 2030, they want to link multiple quantum computers together to create a super-network. IBM also just showed off 'Nighthawk,' their new 120-qubit processor that’s designed to finally outperform classical supercomputers by late 2026. This isn't just theory anymore; they are building the networking infrastructure to transmit qubits between machines. If they pull this off, we aren't just talking about faster computers; we're talking about solving material science and drug discovery problems that are currently impossible. The future is getting weird, fast.",
+    "id": "SCI-2025-006",
+    "category": "Science",
+    "companies": [
+      "IBM",
+      "Cisco"
+    ],
+    "people": [
+      "Jay Gambetta"
+    ],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Tech News Report Generation Request (5).pdf",
+    "page": 10,
+    "title": "AI Agents Are Now Building Themselves",
+    "summary": "New research titled '$A^2Flow$' proposes a system where AI agents autonomously design their own workflows using Chain of Thought analysis, removing the need for human engineering of prompt chains. This moves the industry toward self-optimizing problem-solving systems.",
+    "engagement": "Medium",
+    "raw_text": "I found a research paper dropped today that went under the radar, but it's mind-blowing. It’s called '$A^2Flow$.' Up until now, when we build AI agents, humans have to manually chain the prompts—like 'step 1 do this, step 2 do that.' This new system lets the AI design its *own* workflow. It analyzes the problem and constructs the optimal sequence of steps to solve it, completely without human intervention. We are officially entering the era of self-building software. If AI can optimize its own thought process, the speed of improvement is about to go vertical. This is the definition of recursive self-improvement.",
+    "id": "RES-2025-007",
+    "category": "AI Research",
+    "companies": [],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Tech News Report Generation Request (5).pdf",
+    "page": 11,
+    "title": "HP Cuts 6,000 Jobs in Major AI Pivot",
+    "summary": "HP Inc. announced a restructuring plan to cut 4,000 to 6,000 jobs by 2028, explicitly citing a shift toward an 'AI-centric operational model.' This highlights the trend of mature tech companies decoupling revenue growth from headcount.",
+    "engagement": "Low",
+    "raw_text": "It’s happening again. HP just announced they are cutting up to 6,000 jobs by 2028. But this isn't because they are broke—it's a strategic pivot. They explicitly said they are moving to an 'AI-centric model.' Basically, they are reducing headcount in legacy roles to fund the development of AI PCs and automated workflows. This is the 'AI Efficiency' trend I’ve been warning you about. Big tech companies are realizing they can make more money with fewer people by using automation. If you work in operations or administration, this is your wake-up call to upskill. The decoupling of revenue and headcount is real.",
+    "id": "BIZ-2025-008",
+    "category": "Business",
+    "companies": [
+      "HP Inc."
+    ],
+    "people": [],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "AI Research Collaborations (1).pdf",
+    "page": 1,
+    "title": "This Earbud Predicts Seizures Before They Happen",
+    "summary": "Neuraxpharm and mjn-neuro launched EPISERAS, a wearable earpiece that detects epileptic seizures minutes before onset using AI analysis of EEG signals. The device recently achieved CE/UKCA certification with a planned European rollout in late 2026.",
+    "engagement": "Medium",
+    "raw_text": "Here is some actual 'AI for good' news to cleanse your palate. A company called Neuraxpharm just launched a wearable called EPISERAS. It looks like a hearing aid, but it’s actually monitoring brain signals. It uses AI to predict epileptic seizures *minutes* before they happen. Imagine how life-changing that is—getting a warning on your phone so you can get to a safe place before a seizure starts. They just got medical certification in Europe and are rolling out in 2026. This is the stuff I love seeing—not just chatbots, but AI hardware that actually saves lives and improves health. Tech at its best.",
+    "id": "HLT-2025-009",
+    "category": "Health Tech",
+    "companies": [
+      "Neuraxpharm",
+      "mjn-neuro"
+    ],
+    "people": [
+      "Xabier Michelena"
+    ],
+    "created_at": "2025-11-27T18:30:00Z"
+  },
+  {
+    "date": "2025-11-25",
+    "source_file": "AI Research Collaborations (1).pdf",
+    "page": 2,
+    "title": "White House Launches 'Genesis Mission' for AI",
+    "summary": "The White House issued an Executive Order launching the 'Genesis Mission,' a DOE-led initiative linking supercomputers, AI centers, and quantum computers into a unified platform. The program aims to double R&D productivity in clean energy and national security.",
+    "engagement": "Medium",
+    "raw_text": "The US government isn't sitting on the sidelines anymore. The White House just launched the 'Genesis Mission.' Think of it like the Manhattan Project but for AI and computing. They are linking up all the Department of Energy’s supercomputers, AI research centers, and quantum computers into one massive unified discovery platform. The goal is to double R&D productivity in things like clean energy and national security. They are scared of losing the AI race, and they are throwing the entire weight of the federal labs behind this. We are seeing the state merge with big tech infrastructure, and it's going to accelerate everything.",
+    "id": "POL-2025-010",
+    "category": "Policy",
+    "companies": [
+      "Department of Energy"
+    ],
+    "people": [
+      "Chris Wright"
+    ],
+    "created_at": "2025-11-27T18:30:00Z"
+  }
+]
