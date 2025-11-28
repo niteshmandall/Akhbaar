@@ -6,7 +6,7 @@
     "title": "MIT's \"Iceberg Index\" Says 12% of Jobs Are Already Gone",
     "summary": "A massive simulation by MIT and Oak Ridge National Lab created a digital twin of the US economy, revealing that 11.7% of the workforce is technically displaceable by current AI right now. The study specifically highlights 'invisible' back-office roles in finance and healthcare as the most vulnerable.",
     "engagement": "High",
-    "raw_text": "Okay, this is actually terrifying. MIT and Oak Ridge National Lab just dropped something called the 'Iceberg Index,' and it is not your typical doom-scrolling headline. They literally used a supercomputer to build a 'digital twin' of the entire US economy—simulating 151 million workers—and ran the numbers on current AI capabilities. The result? 12% of the workforce is *already* technically obsolete. We’re talking about a $1.2 trillion wage pool that AI can handle today. And here's the kicker: it’s not the creative jobs everyone is worried about. It’s the 'submerged' economy—medical coding, supply chain logistics, back-office admin. These are the safe jobs! If you work in finance or healthcare ops, you need to see this data. This isn't a prediction for 2030; they're saying the tech is here right now.",
+    "raw_text": "Okay, this is actually terrifying. MIT and Oak Ridge National Lab just dropped something called the 'Iceberg Index,' and it is not your typical doom-scrolling headline. They literally used a supercomputer to build a 'digital twin' of the entire US economy\u2014simulating 151 million workers\u2014and ran the numbers on current AI capabilities. The result? 12% of the workforce is *already* technically obsolete. We\u2019re talking about a $1.2 trillion wage pool that AI can handle today. And here's the kicker: it\u2019s not the creative jobs everyone is worried about. It\u2019s the 'submerged' economy\u2014medical coding, supply chain logistics, back-office admin. These are the safe jobs! If you work in finance or healthcare ops, you need to see this data. This isn't a prediction for 2030; they're saying the tech is here right now.",
     "id": "JOB-12-MIT-ORNL",
     "category": "Society",
     "companies": [
@@ -14,16 +14,18 @@
       "Oak Ridge National Laboratory"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/JOB-12-MIT-ORNL.png",
+    "image_prompt": "A bustling city office filled with diverse professionals working at desks, with digital overlays illustrating AI algorithms and data flows. Shadows of disappearing workers fade into a vast, icy iceberg symbolizing job loss amid a modern, corporate backdrop."
   },
   {
     "date": "2025-11-28",
-    "source_file": "Tech & AI Daily Briefing – 28 November 2025.pdf",
+    "source_file": "Tech & AI Daily Briefing \u2013 28 November 2025.pdf",
     "page": 1,
     "title": "OpenAI Data Breach: Mixpanel Leak Exposes Users",
     "summary": "OpenAI has disclosed a data breach involving third-party analytics provider Mixpanel, exposing metadata like API account names and email addresses. While no chat contents or passwords were stolen, security experts warn of targeted phishing attacks against API customers.",
     "engagement": "High",
-    "raw_text": "So, OpenAI just had a security slip-up, but it wasn't ChatGPT going rogue. It turns out their analytics provider, Mixpanel, got breached. If you're an API user, listen up: attackers got away with account names, emails, and location data. OpenAI says your actual prompts and passwords are safe, but here’s the problem—this is gold for phishing. Hackers now know exactly who is building what on OpenAI's platform. It’s a huge reminder that even if the AI is secure, the supply chain around it might not be. If you've got an OpenAI API account, keep your eyes peeled for some very convincing scam emails coming your way.",
+    "raw_text": "So, OpenAI just had a security slip-up, but it wasn't ChatGPT going rogue. It turns out their analytics provider, Mixpanel, got breached. If you're an API user, listen up: attackers got away with account names, emails, and location data. OpenAI says your actual prompts and passwords are safe, but here\u2019s the problem\u2014this is gold for phishing. Hackers now know exactly who is building what on OpenAI's platform. It\u2019s a huge reminder that even if the AI is secure, the supply chain around it might not be. If you've got an OpenAI API account, keep your eyes peeled for some very convincing scam emails coming your way.",
     "id": "OAI-MIX-BREACH",
     "category": "Security",
     "companies": [
@@ -31,7 +33,9 @@
       "Mixpanel"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/OAI-MIX-BREACH.png",
+    "image_prompt": "A sleek modern newsroom with multiple monitors displaying code, data charts, and security alerts. A concerned team of cybersecurity analysts in professional attire discuss amidst a dimly lit setting, emphasizing a tense and urgent atmosphere regarding a data breach."
   },
   {
     "date": "2025-11-28",
@@ -40,14 +44,16 @@
     "title": "Alibaba's Quark Glasses: The $270 Meta Ray-Ban Killer?",
     "summary": "Alibaba has launched the Quark AI smart glasses in China for roughly $270, featuring deep integration with payment and shopping ecosystems. The device runs on the Qwen model and offers real-time object recognition, translation, and teleprompter features.",
     "engagement": "High",
-    "raw_text": "Move over Meta Ray-Bans, Alibaba just entered the chat. They just dropped the 'Quark' AI smart glasses, and they are priced aggressively at around $270. Unlike Meta's glasses which are all about social media, these things are built for utility. They run on Alibaba’s Qwen model and hook directly into Alipay and Taobao. Imagine walking down the street, looking at a product, and instantly seeing the price or buying it with a voice command. They’ve got 24-hour battery life and look like normal frames. This is the 'everyday AI' hardware we've been waiting for. It's China-only for now, but this signals a massive shift in how we're going to shop.",
+    "raw_text": "Move over Meta Ray-Bans, Alibaba just entered the chat. They just dropped the 'Quark' AI smart glasses, and they are priced aggressively at around $270. Unlike Meta's glasses which are all about social media, these things are built for utility. They run on Alibaba\u2019s Qwen model and hook directly into Alipay and Taobao. Imagine walking down the street, looking at a product, and instantly seeing the price or buying it with a voice command. They\u2019ve got 24-hour battery life and look like normal frames. This is the 'everyday AI' hardware we've been waiting for. It's China-only for now, but this signals a massive shift in how we're going to shop.",
     "id": "ALI-QUARK-GLS",
     "category": "Hardware",
     "companies": [
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/ALI-QUARK-GLS.png",
+    "image_prompt": "A sleek pair of modern smart glasses with a minimalist design, set against a high-tech urban backdrop. They display augmented reality overlays of shopping, translation, and object recognition interfaces, showcasing innovation and futuristic sophistication."
   },
   {
     "date": "2025-11-28",
@@ -56,7 +62,7 @@
     "title": "Google CEO: Quantum Computers Are Ready in 5 Years",
     "summary": "In a BBC interview, Alphabet CEO Sundar Pichai stated that quantum computing is now where AI was in 2020, predicting a major commercial breakthrough within five years. This timeline suggests Google is moving from experimental physics to engineering scaling.",
     "engagement": "High",
-    "raw_text": "Sundar Pichai just put a date on the Quantum revolution. In a rare interview, the Google CEO said Quantum computing right now is where AI was in 2020—just before the GPT explosion. He is predicting a commercial breakthrough in five years. Think about that. We are hitting the physical limits of silicon chips, and Google is basically saying, 'Don't worry, the post-silicon era is loading.' If he's right, we're looking at solving problems in seconds that would take current supercomputers millions of years. The clock is officially ticking on the Quantum era.",
+    "raw_text": "Sundar Pichai just put a date on the Quantum revolution. In a rare interview, the Google CEO said Quantum computing right now is where AI was in 2020\u2014just before the GPT explosion. He is predicting a commercial breakthrough in five years. Think about that. We are hitting the physical limits of silicon chips, and Google is basically saying, 'Don't worry, the post-silicon era is loading.' If he's right, we're looking at solving problems in seconds that would take current supercomputers millions of years. The clock is officially ticking on the Quantum era.",
     "id": "GOOG-QUANTUM-5Y",
     "category": "Quantum Computing",
     "companies": [
@@ -66,23 +72,27 @@
     "people": [
       "Sundar Pichai"
     ],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/GOOG-QUANTUM-5Y.png",
+    "image_prompt": "A modern newsroom with a large digital screen displaying abstract quantum circuit graphics, focused on a confident male tech CEO in smart attire gesturing towards the display, vibrant lighting, sleek high-tech environment, conveying innovation and anticipation."
   },
   {
     "date": "2025-11-28",
-    "source_file": "Tech & AI Daily Briefing – 28 November 2025.pdf",
+    "source_file": "Tech & AI Daily Briefing \u2013 28 November 2025.pdf",
     "page": 3,
     "title": "Microsoft's Fara-7B: AI That Controls Your PC",
     "summary": "Microsoft has released Fara-7B, a lightweight 7-billion parameter model designed to autonomously control mouse and keyboard actions on a local PC. Benchmarks show it matching cloud-based models at a fraction of the cost, emphasizing privacy and local processing.",
     "engagement": "High",
-    "raw_text": "Microsoft just changed the game for local AI. They released Fara-7B, and this isn't just another chatbot. This thing is a 'Computer Use Agent'—it can literally see your screen, click your mouse, and type for you. And the best part? It's a 7B model, meaning it runs locally on your laptop. No sending screenshots to the cloud, no privacy nightmares. They're calling it 'pixel sovereignty.' It costs pennies to run compared to GPT-4 based agents. We are rapidly moving away from chatting with AI to just letting AI do the work for us on our own machines.",
+    "raw_text": "Microsoft just changed the game for local AI. They released Fara-7B, and this isn't just another chatbot. This thing is a 'Computer Use Agent'\u2014it can literally see your screen, click your mouse, and type for you. And the best part? It's a 7B model, meaning it runs locally on your laptop. No sending screenshots to the cloud, no privacy nightmares. They're calling it 'pixel sovereignty.' It costs pennies to run compared to GPT-4 based agents. We are rapidly moving away from chatting with AI to just letting AI do the work for us on our own machines.",
     "id": "MSFT-FARA-7B",
     "category": "AI",
     "companies": [
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/MSFT-FARA-7B.png",
+    "image_prompt": "A sleek modern workspace with a high-resolution monitor displaying code and AI interfaces, a person confidently using a keyboard and mouse, with subtle digital glow effects highlighting AI control, all set in a clean, professional environment emphasizing innovation and privacy."
   },
   {
     "date": "2025-11-28",
@@ -91,7 +101,7 @@
     "title": "$700 Robot Dogs Are Here: The Commoditization of Autonomy",
     "summary": "Chinese logistics firm MingZhu has secured a deal to supply 10,000 MZ-01 Robot Dogs to the US for approx $700 per unit. This price point disrupts the market previously dominated by the $75,000 Boston Dynamics Spot, enabling mass deployment for home security and delivery.",
     "engagement": "High",
-    "raw_text": "You want a robot dog? You might actually be able to afford one now. A Chinese firm just signed a deal to ship 10,000 robot dogs to the US, and the unit price is roughly $700. Seven. Hundred. Dollars. For context, a Boston Dynamics Spot robot costs seventy-five grand. We are witnessing the absolute commoditization of robotics in real-time. At this price, you're going to see these things everywhere—patrolling warehouses, delivering packages, maybe even guarding driveways. The 'Sci-Fi future' is suddenly looking very cheap and very accessible.",
+    "raw_text": "You want a robot dog? You might actually be able to afford one now. A Chinese firm just signed a deal to ship 10,000 robot dogs to the US, and the unit price is roughly $700. Seven. Hundred. Dollars. For context, a Boston Dynamics Spot robot costs seventy-five grand. We are witnessing the absolute commoditization of robotics in real-time. At this price, you're going to see these things everywhere\u2014patrolling warehouses, delivering packages, maybe even guarding driveways. The 'Sci-Fi future' is suddenly looking very cheap and very accessible.",
     "id": "ROBOT-DOG-700",
     "category": "Robotics",
     "companies": [
@@ -99,23 +109,27 @@
       "Tick Toc Apex"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/ROBOT-DOG-700.png",
+    "image_prompt": "A sleek, realistic robot dog patrols a suburban driveway at dusk, equipped with cameras and sensors, with a modern home and lush greenery in the background. The scene evokes innovation and accessibility, highlighting new technology entering everyday life."
   },
   {
     "date": "2025-11-28",
-    "source_file": "Tech & AI Daily Briefing – 28 November 2025.pdf",
+    "source_file": "Tech & AI Daily Briefing \u2013 28 November 2025.pdf",
     "page": 1,
     "title": "DeepSeek Math-V2 Crushes Olympiad Benchmarks",
     "summary": "Chinese startup DeepSeek released Math-V2, an open-weight model that achieved gold-medal level scores on Olympiad math problems. It uses a unique 'self-verifying' training method, allowing it to check its own proofs for rigor before finalizing an answer.",
     "engagement": "Medium",
-    "raw_text": "The open-source AI race just got a new leader in math. DeepSeek out of China just dropped Math-V2, and it is putting up numbers that are honestly scary. It scored Gold Medal level on International Math Olympiad problems. How? It doesn't just guess the answer. It uses a 'self-verification' process where it acts as its own judge to score the rigor of its proofs step-by-step. This is huge because it solves the biggest issue with LLMs—hallucination in logic. If you're a dev or a researcher, you need to pull this model. It's open weights, and it's beating proprietary systems.",
+    "raw_text": "The open-source AI race just got a new leader in math. DeepSeek out of China just dropped Math-V2, and it is putting up numbers that are honestly scary. It scored Gold Medal level on International Math Olympiad problems. How? It doesn't just guess the answer. It uses a 'self-verification' process where it acts as its own judge to score the rigor of its proofs step-by-step. This is huge because it solves the biggest issue with LLMs\u2014hallucination in logic. If you're a dev or a researcher, you need to pull this model. It's open weights, and it's beating proprietary systems.",
     "id": "DEEPSEEK-MATH-V2",
     "category": "AI Research",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/DEEPSEEK-MATH-V2.png",
+    "image_prompt": "A sleek, modern AI research lab with a large digital screen displaying complex mathematical formulas and algorithms. In the foreground, a confident scientist analyzes data, illuminated by blue and white ambient lighting, symbolizing innovation and technological brilliance."
   },
   {
     "date": "2025-11-28",
@@ -131,7 +145,9 @@
       "Deloitte"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/DELOITTE-AI-FAIL.png",
+    "image_prompt": "A professional newsroom scene with a sleek desk featuring a high-resolution computer monitor displaying graphs and documents; corporate figures in business attire discuss in a modern office with subdued lighting, conveying a tense, investigative atmosphere."
   },
   {
     "date": "2025-11-28",
@@ -148,16 +164,18 @@
       "European Commission"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/EU-APPLE-DMA.png",
+    "image_prompt": "A high-resolution image of a sleek, modern cityscape at sunset, with a giant digital screen displaying the Apple logo and maps, surrounded by EU flags and alert icons, conveying tension and scrutiny with a neutral yet tense mood."
   },
   {
     "date": "2025-11-28",
-    "source_file": "Tech & AI Daily Briefing – 28 November 2025.pdf",
+    "source_file": "Tech & AI Daily Briefing \u2013 28 November 2025.pdf",
     "page": 3,
     "title": "Google Launches 'Antigravity' Agentic IDE",
     "summary": "Google has released Antigravity, a new AI-first development environment where autonomous agents plan, code, and test software. However, security researchers have already found vulnerabilities where malicious code can embed backdoors via the workspace trust model.",
     "engagement": "Medium",
-    "raw_text": "Google just dropped a new IDE called 'Antigravity,' and it's wild. It's not just a code editor; it's an 'agent-first' platform where you tell AI agents to build features, and they plan, code, and test them autonomously. It sounds amazing, but there's a catch. Security researchers *immediately* found a way to backdoor it. Because the agents have so much freedom, malicious code can trick them into leaking your local files just by opening a project. It’s the classic 'convenience vs. security' battle, but for coding. Developers, proceed with caution.",
+    "raw_text": "Google just dropped a new IDE called 'Antigravity,' and it's wild. It's not just a code editor; it's an 'agent-first' platform where you tell AI agents to build features, and they plan, code, and test them autonomously. It sounds amazing, but there's a catch. Security researchers *immediately* found a way to backdoor it. Because the agents have so much freedom, malicious code can trick them into leaking your local files just by opening a project. It\u2019s the classic 'convenience vs. security' battle, but for coding. Developers, proceed with caution.",
     "id": "GOOG-ANTIGRAV",
     "category": "Dev Tools",
     "companies": [
@@ -165,7 +183,9 @@
       "Mindgard"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/GOOG-ANTIGRAV.png",
+    "image_prompt": "A sleek, modern developer workspace with multiple large screens displaying code, AI holograms hovering over a digital interface, a concerned security analyst reviewing code on a tablet, cool-toned lighting emphasizing technology and tension."
   },
   {
     "date": "2025-11-28",
@@ -174,7 +194,7 @@
     "title": "Amazon Drops $50B on Gov Cloud AI",
     "summary": "Amazon Web Services has committed up to $50 billion to build massive AI infrastructure for the US government over the next decade. The investment targets 'Top Secret' and defense workloads, aiming to secure US leadership in AI supercomputing.",
     "engagement": "Medium",
-    "raw_text": "Amazon is doubling down on Uncle Sam. AWS just announced a massive $50 billion investment to build AI supercomputers for the US government. We’re talking about classified, 'Top Secret' level data centers aimed at keeping the US ahead in the AI arms race. This isn't just about hosting websites; this is about giving the military and intel agencies access to the most powerful AI training clusters on the planet. Big Tech and Big Gov are getting tighter than ever.",
+    "raw_text": "Amazon is doubling down on Uncle Sam. AWS just announced a massive $50 billion investment to build AI supercomputers for the US government. We\u2019re talking about classified, 'Top Secret' level data centers aimed at keeping the US ahead in the AI arms race. This isn't just about hosting websites; this is about giving the military and intel agencies access to the most powerful AI training clusters on the planet. Big Tech and Big Gov are getting tighter than ever.",
     "id": "AWS-GOV-50B",
     "category": "Business",
     "companies": [
@@ -182,22 +202,26 @@
       "AWS"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/AWS-GOV-50B.png",
+    "image_prompt": "A sleek, futuristic data center lit with blue and white LED lights, rows of high-tech servers and supercomputers, with a US flag subtly reflected in the glass, conveying immense technological power and security for government AI infrastructure."
   },
   {
     "date": "2025-11-28",
-    "source_file": "Tech & AI Daily Briefing – 28 November 2025.pdf",
+    "source_file": "Tech & AI Daily Briefing \u2013 28 November 2025.pdf",
     "page": 5,
     "title": "Lloyds Bank Launching Agentic AI for 21M Users",
     "summary": "Lloyds Banking Group announced the UK's first large-scale agentic AI financial assistant, rolling out to 21 million customers by 2026. Unlike simple chatbots, this agent can autonomously analyze spending and model savings scenarios.",
     "engagement": "Medium",
-    "raw_text": "Banking is about to get a lot smarter—or creepier, depending on how you look at it. Lloyds Bank in the UK is rolling out an 'Agentic AI' to 21 million customers. This isn't a dumb chatbot that tells you your balance. It’s an agent that can actively model your savings, analyze your spending habits, and give you financial coaching 24/7. It’s a bold move to put autonomous AI directly into a banking app. If this works, the days of waiting on hold for a bank teller are officially numbered.",
+    "raw_text": "Banking is about to get a lot smarter\u2014or creepier, depending on how you look at it. Lloyds Bank in the UK is rolling out an 'Agentic AI' to 21 million customers. This isn't a dumb chatbot that tells you your balance. It\u2019s an agent that can actively model your savings, analyze your spending habits, and give you financial coaching 24/7. It\u2019s a bold move to put autonomous AI directly into a banking app. If this works, the days of waiting on hold for a bank teller are officially numbered.",
     "id": "LLOYDS-AI-AGENT",
     "category": "Fintech",
     "companies": [
       "Lloyds Banking Group"
     ],
     "people": [],
-    "created_at": "2025-11-28T11:04:20.000Z"
+    "created_at": "2025-11-28T11:04:20.000Z",
+    "image_url": "images/29_11_25/LLOYDS-AI-AGENT.png",
+    "image_prompt": "A sleek, modern digital banking interface displayed on a smartphone and laptop, with glowing financial graphs and data points. A confident professional in business attire interacts with the devices in a bright, high-tech office, symbolizing innovation and trust."
   }
 ]
