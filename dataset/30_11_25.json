@@ -1,0 +1,175 @@
+[
+  {
+    "date": "2025-11-29",
+    "source_file": "Act as a top-tier tech news aggregator and researc (18).pdf",
+    "page": 2,
+    "title": "Sam Altman's Terrifying $1.4 Trillion Infrastructure Bet",
+    "summary": "OpenAI CEO Sam Altman has announced an aggressive infrastructure expansion plan, aiming for a data center network costing up to $1.4 trillion by 2033. The move signals a shift from a research lab to a massive infrastructure operator to support next-gen AI models.",
+    "engagement": "High",
+    "raw_text": "Okay, strap in because Sam Altman just dropped a bombshell that honestly sounds like science fiction. He's calling for a 'very aggressive' infrastructure bet that could see OpenAI spending up to $400 billion by 2029 and a staggering $1.4 trillion by 2033. We are talking about building the largest data center network in human history. Altman literally called the scale 'ridiculously terrifying.' Why? Because they believe there's a huge 'capability overhang'—basically, they have models way smarter than what we're seeing, but they physically can't run them for everyone yet. This isn't just a tech upgrade; it's OpenAI trying to become the backbone of the entire future economy. If this happens, the compute power involved is going to be mind-boggling.",
+    "id": "A1B2C3D4E5",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Nvidia",
+      "Oracle",
+      "AMD"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-28",
+    "source_file": "Act as a top-tier tech news aggregator and researc (18).pdf",
+    "page": 3,
+    "title": "GPUs Are Melting: OpenAI & Google Throttle Free Users",
+    "summary": "Both OpenAI and Google have imposed strict usage limits on free-tier users for their video and image generation tools due to overwhelming demand. OpenAI's Sora lead stated their 'GPUs are melting' as a reason for the caps.",
+    "engagement": "High",
+    "raw_text": "If you've been trying to generate AI video or images lately and hitting a wall, here's why: the servers are literally overheating. OpenAI just capped free Sora users to six videos a day, and Google slashed Nano Banana Pro usage to just two images. The head of the Sora team, Bill Peebles, didn't mince words on X—he literally said, 'Our GPUs are melting.' This is crazy. It shows that demand for generative AI is growing faster than the physical hardware can handle. It looks like the days of unlimited free AI playgrounds are ending, and we're moving into a 'pay-to-play' era because the electricity and cooling costs are just getting too astronomical.",
+    "id": "F6G7H8I9J0",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Google"
+    ],
+    "people": [
+      "Bill Peebles"
+    ],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 2,
+    "title": "MIT Iceberg Index: AI to Replace 11.7% of Workforce",
+    "summary": "A new study by MIT and ORNL utilizes 'Large Population Models' to predict that 11.7% of the U.S. workforce is currently replaceable by AI. The report highlights that finance and administrative roles are most at risk, representing $1.2 trillion in wages.",
+    "engagement": "High",
+    "raw_text": "This might be the scariest report I've read all year. MIT just dropped the 'Iceberg Index,' and it's not a forecast for ten years from now—it's about what's technically possible *today*. They simulated the entire U.S. economy using AI agents and found that 11.7% of the workforce can be replaced right now. That is $1.2 trillion in wages. And get this—it's not blue-collar jobs. The biggest hit is to 'Finance & Administration.' We're talking auditors, analysts, and compliance officers. The report calls it the 'submerged' part of the iceberg because everyone is focused on tech layoffs, but the real displacement is happening in boring back-office jobs across the country. If you work in a spreadsheet-heavy role, you need to pay attention to this.",
+    "id": "K1L2M3N4O5",
+    "category": "Business",
+    "companies": [
+      "MIT",
+      "ORNL"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 8,
+    "title": "Google's Quantum 'Willow' Chip: The ChatGPT Moment for Physics?",
+    "summary": "Google has unveiled its 'Willow' quantum chip, running the 'Quantum Echoes' algorithm 13,000 times faster than supercomputers. CEO Sundar Pichai compares the state of quantum computing today to where AI was five years ago.",
+    "engagement": "High",
+    "raw_text": "Google just claimed a massive win in the quantum race. They showed off a new chip called 'Willow' that ran a specific physics algorithm 13,000 times faster than the best supercomputer on Earth. But here's the kicker: Sundar Pichai went on the record saying quantum computing today is where AI was in 2020. Remember 2020? That was right before GPT-3 changed everything. He thinks we are about five years away from a 'ChatGPT moment' for quantum computing. If they are right, we aren't just looking at faster computers; we're looking at solving problems in materials science and medicine that are literally impossible right now. The post-silicon era might be way closer than we thought.",
+    "id": "P6Q7R8S9T0",
+    "category": "Science",
+    "companies": [
+      "Google"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-28",
+    "source_file": "Act as a top-tier tech news aggregator and researc (18).pdf",
+    "page": 6,
+    "title": "Solar Flares Hack Airbus A320s: 6,000 Planes Affected",
+    "summary": "A critical software vulnerability in Airbus A320 aircraft allowed solar radiation to corrupt flight control data, causing uncommanded pitch-down events. Airbus has ordered mandatory updates for 6,000 planes following a JetBlue incident.",
+    "engagement": "High",
+    "raw_text": "You are not going to believe this. The sun literally hacked a plane. A JetBlue flight experienced a sudden 'uncommanded pitch-down'—basically the nose dipped without the pilot touching anything. Investigators found out that intense solar radiation flipped some bits in the plane's flight control computer. Because of a software bug, the plane didn't just reset; it actually acted on that corrupted data. Now, Airbus has to recall or update 6,000 A320s immediately. It's wild to think that a solar flare can reach down and mess with physical flight controls, but here we are. If you're flying soon, don't worry too much—they've already updated 5,000 of them overnight, but it definitely makes you think about how fragile our tech is.",
+    "id": "U1V2W3X4Y5",
+    "category": "Hardware",
+    "companies": [
+      "Airbus",
+      "JetBlue"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 7,
+    "title": "Apple Breaks Up with TSMC? Partners with Intel for 2027 Chips",
+    "summary": "Reports confirm Apple is finalizing a deal to manufacture M-series chips at Intel's foundries starting in 2027. This move aims to diversify Apple's supply chain away from total reliance on Taiwan's TSMC.",
+    "engagement": "High",
+    "raw_text": "This is a massive plot twist in the chip wars. For years, Apple has been 100% all-in with TSMC in Taiwan for their processors. But reports are dropping today that Apple is finalizing a deal to have *Intel* make their chips starting in 2027. Yes, the same Intel that Apple dumped a few years ago. They aren't switching back to Intel CPUs, but they are going to use Intel's factories in the US to build Apple Silicon. This is all about risk. Apple knows it can't have its entire future sitting on one island in East Asia. It's a huge validation for Intel's turnaround plan and a sign that 'Made in USA' chips are actually happening.",
+    "id": "Z6A7B8C9D0",
+    "category": "Business",
+    "companies": [
+      "Apple",
+      "Intel",
+      "TSMC"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 9,
+    "title": "Perplexity Shopping Agent Kills the Search Bar",
+    "summary": "Perplexity AI has launched a dedicated 'Shopping' vertical that acts as an autonomous agent, handling product research and checkout directly. The feature challenges the traditional Google Shopping model by keeping users within the AI interface.",
+    "engagement": "Medium",
+    "raw_text": "Shopping online just changed forever. Perplexity AI launched a new 'Shopping' mode, and it's not just a search engine—it's an agent. You can tell it, 'Find me the best camping tent under $300 for high winds,' and it doesn't just give you links. It gives you a 'Buy with Pro' button to check out right there in the AI. It handles the address, the payment, everything. They are calling it 'Agentic Commerce.' This is a direct shot at Google. Why would you click through ten different ad-loaded websites when an AI can just buy the thing for you? It's convenient, sure, but it also means the AI is now the gatekeeper for what we buy.",
+    "id": "E1F2G3H4I5",
+    "category": "AI",
+    "companies": [
+      "Perplexity",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 11,
+    "title": "Sony's 200MP Sensor: AI Processing Directly on the Camera",
+    "summary": "Sony has unveiled the LYTIA 901, a 200-megapixel mobile sensor that performs AI processing directly on the hardware. This enables professional-grade dynamic range and zoom capabilities without relying solely on the phone's main processor.",
+    "engagement": "Medium",
+    "raw_text": "Mobile photography is about to get a serious upgrade. Sony just revealed the LYTIA 901 sensor, and it's a beast: 200 megapixels. But the pixel count isn't even the cool part. The cool part is that it does AI processing *on the sensor itself*. Usually, your phone takes a raw photo and sends it to the main chip to fix the colors and lighting. This sensor does the heavy lifting before the data even leaves the camera module. They're claiming 100dB dynamic range, which basically rivals professional cinema cameras. Expect the next wave of flagship phones to have insane zoom and low-light skills.",
+    "id": "J6K7L8M9N0",
+    "category": "Mobile",
+    "companies": [
+      "Sony"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-27",
+    "source_file": "Act as a top-tier tech news aggregator and researc (18).pdf",
+    "page": 4,
+    "title": "Microsoft Fara-7B: Control Your PC with AI (No Cloud Needed)",
+    "summary": "Microsoft has released Fara-7B, a lightweight 7-billion parameter AI model capable of operating a computer locally. The model can interpret screenshots and execute clicks and typing without sending data to the cloud.",
+    "engagement": "Medium",
+    "raw_text": "Microsoft is finally moving AI agents off the cloud and onto your laptop. They just dropped Fara-7B. It's a small AI model—only 7 billion parameters—designed to literally use your computer. It looks at screenshots, clicks buttons, and types text, just like a human would. The best part? It runs locally. No sending your private data to a server, no massive latency. This is huge for privacy and for anyone who wants an AI assistant that can actually *do* things on their desktop without needing a supercomputer connection. It's a clear signal that the future of AI is smaller, faster, and running right on your device.",
+    "id": "O1P2Q3R4S5",
+    "category": "AI",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  },
+  {
+    "date": "2025-11-29",
+    "source_file": "Tech News Aggregation and Analysis Request (11).pdf",
+    "page": 12,
+    "title": "China Launches Space Rescue Mission for Stranded Astronauts",
+    "summary": "China launched the uncrewed Shenzhou-22 spacecraft to the Tiangong Space Station to serve as a rescue vehicle. The previous return ship was damaged by space debris, highlighting the growing danger of orbital junk.",
+    "engagement": "Medium",
+    "raw_text": "We've got a real-life gravity situation unfolding. China just emergency-launched an empty spacecraft, Shenzhou-22, to their space station. Why? Because the return ship that was already up there got hit by space debris and is unsafe to fly. The astronauts were effectively stranded without a lifeboat. This is a successful rescue mission, which is great, but it highlights a terrifying problem: space junk. Low Earth Orbit is becoming a minefield. One tiny piece of debris caused a full-blown emergency logistics mission. As we put more satellites up there, this kind of 'dodgeball' scenario is going to keep happening.",
+    "id": "T6U7V8W9X0",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2025-11-29T19:53:48+05:30"
+  }
+]
