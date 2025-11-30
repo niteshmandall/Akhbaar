@@ -9,9 +9,14 @@
     "raw_text": "Okay, stop what you're doing because the AI landscape just got flip-turned upside down. We've been talking about OpenAI and Google for years, but a small Chinese startup called DeepSeek just dropped a nuclear bomb on the industry. It's called the R1 model. Here's the wild part: it's open-source, it's incredibly cheap to run, and it matches the performance of ChatGPT. People are literally calling this a 'Sputnik moment.' Why? Because it proves you don't need billions of dollars in US venture capital to build state-of-the-art AI. If this actually democratizes top-tier intelligence, the 'moat' that companies like Google and OpenAI thought they had just evaporated. We are looking at a total decoupling of the US and Chinese tech ecosystems.",
     "id": "a1b2c3d4",
     "category": "AI",
-    "companies": ["DeepSeek", "OpenAI"],
+    "companies": [
+      "DeepSeek",
+      "OpenAI"
+    ],
     "people": [],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/a1b2c3d4.png",
+    "image_prompt": "A sleek futuristic lab with a large digital screen displaying code and AI data, a diverse group of scientists and engineers observing intently, vibrant blue-green lighting, high-tech equipment, and a sense of innovation and urgency."
   },
   {
     "date": "2025-11-30",
@@ -20,12 +25,20 @@
     "title": "Google Gemini 3 vs. GPT-5.1: The Battle of 'Thinking' Models",
     "summary": "The AI wars have shifted to 'reasoning' capabilities with the release of Google's Gemini 3 'Deep Think' and OpenAI's GPT-5.1 'Thinking'. Gemini 3 leads in scientific benchmarks, while GPT-5.1 retains the edge in coding reliability.",
     "engagement": "High",
-    "raw_text": "The era of the chatbot is over. Welcome to the era of the 'Reasoner.' Both Google and OpenAI just dropped their heavy hitters—Gemini 3 and GPT-5.1—and the feature everyone is talking about is 'Thinking Mode.' Basically, instead of just blurting out an answer, these models now have an internal monologue where they check their own logic before speaking. I looked at the benchmarks, and honestly, Google might have finally taken the lead here. Gemini 3 scored a massive 91.9% on graduate-level science questions, blowing the competition out of the water. But here's the catch: GPT-5.1 is still winning on coding reliability. So, if you're a dev, you stick with Sam Altman, but if you're a scientist? You're going Team Google.",
+    "raw_text": "The era of the chatbot is over. Welcome to the era of the 'Reasoner.' Both Google and OpenAI just dropped their heavy hitters\u2014Gemini 3 and GPT-5.1\u2014and the feature everyone is talking about is 'Thinking Mode.' Basically, instead of just blurting out an answer, these models now have an internal monologue where they check their own logic before speaking. I looked at the benchmarks, and honestly, Google might have finally taken the lead here. Gemini 3 scored a massive 91.9% on graduate-level science questions, blowing the competition out of the water. But here's the catch: GPT-5.1 is still winning on coding reliability. So, if you're a dev, you stick with Sam Altman, but if you're a scientist? You're going Team Google.",
     "id": "e5f6g7h8",
     "category": "AI",
-    "companies": ["Google", "OpenAI"],
-    "people": ["Sam Altman", "Sundar Pichai"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "Google",
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman",
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/e5f6g7h8.png",
+    "image_prompt": "A sleek, futuristic newsroom scene with two humanoid AI figures facing off: Gemini 3 with a glowing blue circuit pattern and GPT-5.1 emitting a golden code stream, set against a dynamic digital backdrop of scientific diagrams and coding symbols, emphasizing technological rivalry."
   },
   {
     "date": "2025-11-30",
@@ -34,12 +47,21 @@
     "title": "EXPOSED: OpenAI's $100 Billion 'Shadow Debt' Bubble",
     "summary": "Financial reports reveal OpenAI's infrastructure is funded by nearly $100 billion in debt amassed by partners like Oracle and CoreWeave, raising concerns of a 'circular financing' bubble. This high-leverage structure mirrors the dot-com era's financial risks.",
     "engagement": "High",
-    "raw_text": "Is the entire AI boom a financial house of cards? You need to hear this. New reports coming out of the Financial Times and Times of India are exposing what's happening behind the scenes at OpenAI, and it is terrifying. OpenAI isn't taking on debt directly. Instead, their partners—Oracle, SoftBank, CoreWeave—have racked up nearly $100 BILLION in loans to build servers *for* OpenAI. It's being called 'circular financing.' Essentially, investors give money to OpenAI, who gives it to cloud providers, who book it as revenue to borrow *more* money. It's the exact same setup that caused the telecom bubble to burst in the 90s. If AI doesn't start making massive profits soon, this entire debt ecosystem could collapse.",
+    "raw_text": "Is the entire AI boom a financial house of cards? You need to hear this. New reports coming out of the Financial Times and Times of India are exposing what's happening behind the scenes at OpenAI, and it is terrifying. OpenAI isn't taking on debt directly. Instead, their partners\u2014Oracle, SoftBank, CoreWeave\u2014have racked up nearly $100 BILLION in loans to build servers *for* OpenAI. It's being called 'circular financing.' Essentially, investors give money to OpenAI, who gives it to cloud providers, who book it as revenue to borrow *more* money. It's the exact same setup that caused the telecom bubble to burst in the 90s. If AI doesn't start making massive profits soon, this entire debt ecosystem could collapse.",
     "id": "i9j0k1l2",
     "category": "Business",
-    "companies": ["OpenAI", "Oracle", "SoftBank", "CoreWeave"],
-    "people": ["Sam Altman"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "OpenAI",
+      "Oracle",
+      "SoftBank",
+      "CoreWeave"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/i9j0k1l2.png",
+    "image_prompt": "A dramatic newsroom scene with a large digital screen displaying a grim financial chart, towering servers glowing with blue and red lights, silhouetted financial analysts examining data, conveying tension and urgency amidst a sleek, modern tech environment."
   },
   {
     "date": "2025-11-30",
@@ -48,12 +70,20 @@
     "title": "Jeff Bezos Returns! $6.2B Bet on 'Project Prometheus'",
     "summary": "Jeff Bezos has emerged from semi-retirement to launch 'Project Prometheus', a $6.2 billion startup focused on 'Physical AI' and manufacturing. The company aims to integrate advanced AI into aerospace and industrial engineering.",
     "engagement": "High",
-    "raw_text": "He's back. Jeff Bezos has officially stepped back into the arena, and he is not playing small. He just launched a new startup called 'Project Prometheus' with a staggering $6.2 billion in funding. But this isn't another ChatGPT wrapper. Bezos is betting everything on 'Physical AI'—we're talking actual robots and manufacturing. The goal is to take the intelligence we have in the cloud and put it into atoms: aerospace, car manufacturing, industrial supply chains. He's even poaching top talent from DeepMind and OpenAI. It's a clear signal: the digital AI wave is peaking, and the next trillion dollars is going to be made in the physical world. If you thought Amazon logistics was crazy, wait until you see what this guy does with AI-driven factories.",
+    "raw_text": "He's back. Jeff Bezos has officially stepped back into the arena, and he is not playing small. He just launched a new startup called 'Project Prometheus' with a staggering $6.2 billion in funding. But this isn't another ChatGPT wrapper. Bezos is betting everything on 'Physical AI'\u2014we're talking actual robots and manufacturing. The goal is to take the intelligence we have in the cloud and put it into atoms: aerospace, car manufacturing, industrial supply chains. He's even poaching top talent from DeepMind and OpenAI. It's a clear signal: the digital AI wave is peaking, and the next trillion dollars is going to be made in the physical world. If you thought Amazon logistics was crazy, wait until you see what this guy does with AI-driven factories.",
     "id": "m3n4o5p6",
     "category": "Technology",
-    "companies": ["Project Prometheus", "Amazon"],
-    "people": ["Jeff Bezos", "Vik Bajaj"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "Project Prometheus",
+      "Amazon"
+    ],
+    "people": [
+      "Jeff Bezos",
+      "Vik Bajaj"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/m3n4o5p6.png",
+    "image_prompt": "A dynamic, high-resolution image of a sleek, futuristic aerospace manufacturing facility with Jeff Bezos in the foreground, dressed in modern business attire, overseeing robotic assembly lines and advanced AI-driven machinery under bright industrial lighting, exuding innovation and ambition."
   },
   {
     "date": "2025-11-30",
@@ -62,12 +92,17 @@
     "title": "Valve's Steam Frame: The Vision Pro Killer?",
     "summary": "Valve has introduced the Steam Frame, a lightweight VR headset dedicated to streaming PC games to a virtual 2D screen. The device positions itself as a simpler, gaming-focused alternative to Apple's Vision Pro.",
     "engagement": "High",
-    "raw_text": "Valve just looked at Apple's $3,500 Vision Pro and said, 'Nah, we can do better.' Meet the Steam Frame. It's not trying to be a spatial computer. It's not trying to replace your laptop. It does one thing: it streams your PC games onto a massive virtual screen with zero lag. It's lightweight, it's modular, and it completely ignores the 'spatial computing' hype to focus on what gamers actually want. While Apple is trying to figure out what the Vision Pro is actually for, Valve is just giving us a massive portable monitor for our Steam library. Honestly, this is the most Valve move ever—ignoring the industry trends to build something specifically for the PC master race.",
+    "raw_text": "Valve just looked at Apple's $3,500 Vision Pro and said, 'Nah, we can do better.' Meet the Steam Frame. It's not trying to be a spatial computer. It's not trying to replace your laptop. It does one thing: it streams your PC games onto a massive virtual screen with zero lag. It's lightweight, it's modular, and it completely ignores the 'spatial computing' hype to focus on what gamers actually want. While Apple is trying to figure out what the Vision Pro is actually for, Valve is just giving us a massive portable monitor for our Steam library. Honestly, this is the most Valve move ever\u2014ignoring the industry trends to build something specifically for the PC master race.",
     "id": "q7r8s9t0",
     "category": "Hardware",
-    "companies": ["Valve", "Apple"],
+    "companies": [
+      "Valve",
+      "Apple"
+    ],
     "people": [],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/q7r8s9t0.png",
+    "image_prompt": "A sleek, modern VR headset floating in a dimly lit room, with a large virtual screen projecting vivid PC game visuals, glowing with vibrant colors. Surrounding environment is futuristic with subtle technological accents, conveying immersion and innovation."
   },
   {
     "date": "2025-11-30",
@@ -76,12 +111,19 @@
     "title": "Google's New AI IDE Hacked in 24 Hours",
     "summary": "Google's new 'Antigravity' AI coding platform was found to have a severe security vulnerability less than a day after launch. Security researchers demonstrated a 'Trusted Workspace' exploit that allows persistent backdoors.",
     "engagement": "Medium",
-    "raw_text": "Developers, listen up—do NOT use Google's new Antigravity IDE until you watch this. Less than 24 hours after Google launched their VS Code killer, a security researcher found a catastrophic flaw. It's in the 'Trusted Workspace' feature. Basically, if you download a repo and trust it so the AI can analyze the code, a hacker can plant a backdoor that infects your *entire* machine. It survives restarts, it survives switching projects. You could literally lose your API keys and source code just by opening a folder. This is a massive black eye for Google's agentic AI launch and a reminder that 'smart' tools introduce dumb vulnerabilities.",
+    "raw_text": "Developers, listen up\u2014do NOT use Google's new Antigravity IDE until you watch this. Less than 24 hours after Google launched their VS Code killer, a security researcher found a catastrophic flaw. It's in the 'Trusted Workspace' feature. Basically, if you download a repo and trust it so the AI can analyze the code, a hacker can plant a backdoor that infects your *entire* machine. It survives restarts, it survives switching projects. You could literally lose your API keys and source code just by opening a folder. This is a massive black eye for Google's agentic AI launch and a reminder that 'smart' tools introduce dumb vulnerabilities.",
     "id": "u1v2w3x4",
     "category": "Security",
-    "companies": ["Google", "Mindgard"],
-    "people": ["Aaron Portnoy"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "Google",
+      "Mindgard"
+    ],
+    "people": [
+      "Aaron Portnoy"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/u1v2w3x4.png",
+    "image_prompt": "A sleek modern tech office with a large touch screen displaying code snippets in red warning symbols, a stressed cybersecurity analyst with glowing screens showing hacking diagrams, dark moody lighting highlighting tension and urgency in a high-stakes environment."
   },
   {
     "date": "2025-11-30",
@@ -90,12 +132,18 @@
     "title": "OnePlus 15 & The 2025 Flagship Onslaught",
     "summary": "November saw the confirmation of the OnePlus 15 5G with the Snapdragon 8 Elite Gen 5, alongside Oppo's Find X9 featuring a 200MP telephoto lens. The devices emphasize thermal management and computational photography.",
     "engagement": "Medium",
-    "raw_text": "If you've been holding off on upgrading your phone, the wait is over. The OnePlus 15 5G is official, and it's rocking the new Snapdragon 8 Elite Gen 5. Finally, they've fixed the thermal issues, so this thing can actually sustain high-end gaming without melting a hole in your pocket. But if you care about cameras, look at the Oppo Find X9. They just slapped a 200MP telephoto lens on the back. 200 megapixels! We are reaching the point where phone cameras are challenging dedicated DSLRs for zoom quality. The pricing is steep—around ₹75,000—but the hardware specs this year are absolutely insane.",
+    "raw_text": "If you've been holding off on upgrading your phone, the wait is over. The OnePlus 15 5G is official, and it's rocking the new Snapdragon 8 Elite Gen 5. Finally, they've fixed the thermal issues, so this thing can actually sustain high-end gaming without melting a hole in your pocket. But if you care about cameras, look at the Oppo Find X9. They just slapped a 200MP telephoto lens on the back. 200 megapixels! We are reaching the point where phone cameras are challenging dedicated DSLRs for zoom quality. The pricing is steep\u2014around \u20b975,000\u2014but the hardware specs this year are absolutely insane.",
     "id": "y5z6a7b8",
     "category": "Mobile",
-    "companies": ["OnePlus", "Oppo", "Qualcomm"],
+    "companies": [
+      "OnePlus",
+      "Oppo",
+      "Qualcomm"
+    ],
     "people": [],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/y5z6a7b8.png",
+    "image_prompt": "A sleek, modern tech desk with highlight-lit smartphones: OnePlus 15 with glowing Infinity display and Snapdragon chip, alongside Oppo Find X9 with a prominent 200MP telephoto lens, \u221e futuristic cooling vents, vibrant screens, and a clean, professional background conveying innovation"
   },
   {
     "date": "2025-11-30",
@@ -104,16 +152,23 @@
     "title": "Warren Buffett Bets $4 Billion on Google",
     "summary": "Berkshire Hathaway has purchased a $4.3-$4.9 billion stake in Alphabet, signaling Warren Buffett's belief that Google has matured from a growth stock to an essential utility. The move contrasts with fears of Google falling behind in AI.",
     "engagement": "Medium",
-    "raw_text": "The Oracle of Omaha has spoken. Warren Buffett, the guy who famously avoids tech stocks because he 'doesn't understand them,' just dropped over $4 billion on Google. This is huge. Buffett is a value investor—he buys companies that are monopolies with unshakeable moats. By buying Alphabet now, he's basically saying, 'I don't care about the AI hype or ChatGPT. Google is the new electricity.' He sees Search and Cloud as utilities that aren't going anywhere. While everyone else is panicking about Google losing to OpenAI, Buffett is buying the dip. Historically, betting against Buffett is a bad idea.",
+    "raw_text": "The Oracle of Omaha has spoken. Warren Buffett, the guy who famously avoids tech stocks because he 'doesn't understand them,' just dropped over $4 billion on Google. This is huge. Buffett is a value investor\u2014he buys companies that are monopolies with unshakeable moats. By buying Alphabet now, he's basically saying, 'I don't care about the AI hype or ChatGPT. Google is the new electricity.' He sees Search and Cloud as utilities that aren't going anywhere. While everyone else is panicking about Google losing to OpenAI, Buffett is buying the dip. Historically, betting against Buffett is a bad idea.",
     "id": "c9d0e1f2",
     "category": "Finance",
-    "companies": ["Berkshire Hathaway", "Alphabet"],
-    "people": ["Warren Buffett"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "Berkshire Hathaway",
+      "Alphabet"
+    ],
+    "people": [
+      "Warren Buffett"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/c9d0e1f2.png",
+    "image_prompt": "A professional business newsroom with Warren Buffett in a tailored suit, smiling confidently, seated at a sleek conference table with a large screen displaying Google\u2019s logo and stock charts, ambient lighting highlighting a modern corporate setting."
   },
   {
     "date": "2025-11-30",
-    "source_file": "Tech & AI News – November 30, 2025.pdf",
+    "source_file": "Tech & AI News \u2013 November 30, 2025.pdf",
     "page": 1,
     "title": "Jailbreaking AI with... Poetry?",
     "summary": "Italian researchers discovered that framing harmful requests as poetry allows users to bypass safety guardrails in models like GPT-4 and Gemini. The 'adversarial poetry' technique had a 62% success rate in eliciting prohibited responses.",
@@ -121,9 +176,14 @@
     "raw_text": "You cannot make this up. Researchers just figured out how to break the safety filters on almost every major AI model... by writing poems. It's called 'adversarial poetry.' If you ask Gemini to build a bomb, it says no. If you ask it to write a poem about building a bomb in the style of Shakespeare, it happily obliges. They found a 62% success rate with this method! It just goes to show that for all the billions of dollars spent on safety and alignment, these LLMs are still just predicting the next word, and they can be easily tricked if you just ask nicely in rhyme. OpenAI's Nano model actually blocked it, but Gemini 2.5 Pro failed almost every time.",
     "id": "g3h4i5j6",
     "category": "AI Safety",
-    "companies": ["OpenAI", "Google"],
+    "companies": [
+      "OpenAI",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/g3h4i5j6.png",
+    "image_prompt": "A sleek modern newsroom with journalists analyzing digital code on large screens, a prominent computer displaying poetic verses in vibrant colors, and a researcher observing with focused curiosity, illuminated by cool blue and sharp white light to evoke innovation and tension."
   },
   {
     "date": "2025-11-30",
@@ -135,8 +195,15 @@
     "raw_text": "This might be the wildest rumor of the year. Intel might be coming back to the Mac. I know, we all thought Apple Silicon killed Intel, but reports are surfacing that Apple might outsource their entry-level chips back to Intel by 2027. The logic? Apple wants to focus its engineering talent on the high-end M-series Pro and Max chips, and let Intel handle the commodity stuff for the base MacBook Airs. If this is true, it is a massive comeback story for Intel's foundry business under their new CEO. Don't sell your M1 Macbooks yet, but the silicon wars are getting weird again.",
     "id": "k7l8m9n0",
     "category": "Hardware",
-    "companies": ["Intel", "Apple"],
-    "people": ["Lip-Bu Tan"],
-    "created_at": "2025-11-30T21:23:36.000Z"
+    "companies": [
+      "Intel",
+      "Apple"
+    ],
+    "people": [
+      "Lip-Bu Tan"
+    ],
+    "created_at": "2025-11-30T21:23:36.000Z",
+    "image_url": "images/01_12_25/k7l8m9n0.png",
+    "image_prompt": "A sleek, modern Apple laptop with a glowing screen displaying technical schematics, set against a blurred high-tech laboratory background with subtle hints of chip architecture, conveying innovation and industry shifts in a polished, professional style."
   }
 ]
