@@ -1,0 +1,184 @@
+[
+  {
+    "date": "2025-12-02",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "China's DeepSeek V3.2 Just Destroyed the AI Price Barrier",
+    "summary": "Chinese lab DeepSeek released V3.2, an open-weights model matching GPT-5 performance for a fraction of the training cost. The model utilizes 'Sparse Attention' to process massive context windows efficiently, challenging US dominance.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you are doing because the entire AI landscape just shifted overnight. A Chinese lab called DeepSeek just dropped V3.2, and the stats are absolutely melting my brain. They managed to match GPT-5 and Gemini 3 performance levels—we're talking top-tier reasoning and coding—but here is the kicker: they reportedly did it for around 5.6 million dollars. Do you realize how insane that is? US companies are spending hundreds of millions, even billions, to get these results. DeepSeek used this new 'Sparse Attention' architecture to make it incredibly efficient. And the wildest part? It's open weights. Anyone can use this. This basically proves you don't need a trillion-dollar budget to build frontier AI anymore. The moat is gone, folks.",
+    "id": "DSK32_01A",
+    "category": "AI",
+    "companies": [
+      "DeepSeek",
+      "OpenAI",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Act as a top-tier tech news aggregator and researc (20).pdf",
+    "page": 2,
+    "title": "OpenAI Declares \"Code Red\" as Gemini 3 Takes the Lead",
+    "summary": "Sam Altman has issued an internal 'Code Red' at OpenAI, halting ad projects to focus purely on ChatGPT quality after Google's Gemini 3 overtook them in benchmarks. This mirrors Google's own panic response from 2022.",
+    "engagement": "High",
+    "raw_text": "The tables have officially turned. Remember when ChatGPT came out and Google panicked? Well, now it's Sam Altman's turn to sweat. Reports are leaking that OpenAI has declared an internal 'Code Red.' They are literally cancelling projects—no more ads team, no more fluff features—everyone is being moved to fix ChatGPT's quality immediately. Why? Because Google just dropped Gemini 3, and honestly, it's crushing benchmarks. We're seeing better reasoning, better coding, and this 'Deep Think' mode that is leaving GPT-4 in the dust. It's a total crisis mode at OpenAI right now. The King has been dethroned, and they are scrambling to get a new reasoning model out by next week to stop the bleeding.",
+    "id": "OAI_CR_02B",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Anthropic"
+    ],
+    "people": [
+      "Sam Altman",
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Combined",
+    "page": 7,
+    "title": "Samsung's New Galaxy Z TriFold is a Tablet in Your Pocket",
+    "summary": "Samsung officially launched the Galaxy Z TriFold, a dual-hinge smartphone that unfolds into a full 10-inch tablet. It features a Snapdragon 8 Elite chip and supports a desktop-like experience with Samsung DeX.",
+    "engagement": "High",
+    "raw_text": "I have been waiting for this for years. Samsung finally did it. This is the Galaxy Z TriFold. It's not just a foldable; it's a *tri-fold*. You unfold it once, it's a phone. You unfold it again, and boom—you have a legit 10-inch tablet in your hands. The engineering is crazy; it's got two hinges but still stays relatively thin. They packed a Snapdragon 8 Elite in there and a massive battery split across the three sections. Imagine playing games or editing video on a 10-inch screen that literally fits in your pocket. It's pricey—around eighteen hundred bucks—but for the first time, I feel like 'foldable' actually means 'useful' rather than just a gimmick. RIP to the iPad Mini?",
+    "id": "SAM_TRI_03C",
+    "category": "Mobile",
+    "companies": [
+      "Samsung",
+      "Qualcomm"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "grok_report (2).pdf",
+    "page": 8,
+    "title": "Combat-Ready Humanoid Robots for $25k? Introducing T800",
+    "summary": "EngineAI has debuted the T800, a humanoid robot priced at $25,000 that is stronger than 80% of adult men and 'combat capable.' A robot fighting event is scheduled for late December to showcase its abilities.",
+    "engagement": "High",
+    "raw_text": "Okay, this story is straight out of a sci-fi nightmare. A company called EngineAI just revealed the T800. Yes, like the Terminator. It's a humanoid robot, it stands 5'8\", it's stronger than most human men, and they are claiming it is 'combat capable.' The price tag? Only $25,000. That is terrifyingly cheap for a machine that can physically overpower a person. They aren't just selling these for warehouses; they are actually setting up a robot fighting event on December 24th to prove how tough these things are. We are rapidly moving from 'look at the cute dancing robot' to 'this thing could actually hurt me.' Is anyone else getting nervous about where this robotics race is heading?",
+    "id": "ENG_T800_04D",
+    "category": "Hardware",
+    "companies": [
+      "EngineAI"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-11-30",
+    "source_file": "Act as a top-tier tech news aggregator and researc (20).pdf",
+    "page": 7,
+    "title": "Sora 2 Released: AI Video Finally Gets Sound",
+    "summary": "OpenAI has released Sora 2 via an invite-only iOS app, featuring synchronized audio and dialogue generation. The model improves physical consistency and moves beyond silent video clips to social-ready content.",
+    "engagement": "High",
+    "raw_text": "Sora 2 is here, and it fixes the one thing that made AI video feel fake: the silence. OpenAI just dropped the update, and now the videos come with fully synchronized audio. I'm talking about dialogue that matches lip movements, sound effects that match the action—the works. It's currently in an invite-only iOS app, which is a bit of a tease, but the quality jump is massive. We aren't just looking at weird, silent dreamscapes anymore; these are social-ready clips right out of the box. They also added improved physics, so objects don't just morph through each other as much. Content creation is about to get very, very weird.",
+    "id": "SORA2_05E",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Runway",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Act as a top-tier tech news aggregator and researc (20).pdf",
+    "page": 9,
+    "title": "Google's Quantum Chip Does 10 Trillion Years of Work in 5 Minutes",
+    "summary": "Google's new 'Willow' quantum chip with 105 qubits has achieved a calculation in minutes that would take a supercomputer septillions of years. This marks a significant milestone in error correction and quantum advantage.",
+    "engagement": "High",
+    "raw_text": "Every few years we hear about 'Quantum Advantage,' but Google's new Willow chip might be the real deal. They just ran a benchmark calculation that would take the world's fastest classical supercomputer ten to the power of twenty-five years to finish. That is basically forever. Willow did it in five minutes. It's rocking 105 qubits, but the big breakthrough here is error reduction. As they added more qubits, the errors actually went *down*, which is the holy grail of quantum computing. We are inching closer to cracking encryption and simulating new materials. It's not just theory anymore; the hardware is actually working.",
+    "id": "GOOG_Q_06F",
+    "category": "Science",
+    "companies": [
+      "Google",
+      "IBM",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Combined",
+    "page": 8,
+    "title": "Apple Fires AI Chief: The \"Siri Mess\" Claims a Victim",
+    "summary": "Apple has replaced SVP John Giannandrea with Amar Subramanya as VP of AI, signaling a major strategic pivot. The move comes amid criticism of Apple Intelligence's rollout and delays in Siri's capabilities.",
+    "engagement": "Medium",
+    "raw_text": "Big drama at Apple today. They just shuffled their leadership in a major way, effectively pushing out their AI Chief, John Giannandrea. If you've tried 'Apple Intelligence' recently, you probably know why. It's... fine? But it's definitely not competing with ChatGPT or Gemini. They brought in Amar Subramanya, who is a veteran from Google and Microsoft, to try and fix the ship. It looks like Apple is finally admitting that their 'on-device only' strategy was holding them back. They need better foundation models, and they need them yesterday. Expect big changes to Siri in 2026, because clearly, Tim Cook is not happy with second place.",
+    "id": "AAPL_AI_07G",
+    "category": "Business",
+    "companies": [
+      "Apple"
+    ],
+    "people": [
+      "John Giannandrea",
+      "Amar Subramanya",
+      "Tim Cook"
+    ],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Combined",
+    "page": 6,
+    "title": "AMD and HPE Build an Nvidia Killer",
+    "summary": "HPE and AMD launched the 'Helios' AI rack, a supercomputing cluster using Ethernet instead of Nvidia's proprietary cables. It delivers 2.9 AI Exaflops, aiming to break Nvidia's monopoly on data center infrastructure.",
+    "engagement": "Medium",
+    "raw_text": "Nvidia has been the only game in town for AI chips, but AMD and HPE just teamed up to try and break that monopoly. They launched 'Helios,' which is this massive AI supercomputer rack. It's packed with 72 AMD Instinct GPUs and—this is the important part—it runs on standard Ethernet. Nvidia locks everyone in with their special cables, but Helios uses open standards. This is huge for companies that don't want to pay the 'Nvidia Tax.' It pushes out almost 3 Exaflops of compute power. Competition is finally arriving in the hardware space, and that hopefully means cheaper AI training for everyone down the line.",
+    "id": "AMD_HEL_08H",
+    "category": "Hardware",
+    "companies": [
+      "AMD",
+      "HPE",
+      "Nvidia",
+      "Broadcom"
+    ],
+    "people": [
+      "Lisa Su",
+      "Antonio Neri"
+    ],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-11-23",
+    "source_file": "Act as a top-tier tech news aggregator and researc (20).pdf",
+    "page": 4,
+    "title": "Claude Opus 4.5: The New King of Coding",
+    "summary": "Anthropic released Claude Opus 4.5, which outperforms all human candidates in internal engineering tests. It is positioned as the premier model for autonomous coding agents and complex workflows.",
+    "engagement": "Medium",
+    "raw_text": "If you are a developer, you need to switch models right now. Anthropic released Claude Opus 4.5, and the benchmarks are ridiculous. They claim it outperformed *all* human candidates in their internal coding interview tests. That's 100% pass rate. It's specifically designed for 'Agentic' workflows—meaning you can give it a really complex, multi-step engineering task, and it won't get confused halfway through. It's also cheaper than the old Opus. While OpenAI and Google are fighting over chatbots, Anthropic is quietly building the tool that builds the software. This is the new gold standard for coding assistants.",
+    "id": "CLD_OPS_09I",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "AI Research & Analysis.pdf",
+    "page": 1,
+    "title": "MIT Study: 12% of Jobs Are Already Gone (Technically)",
+    "summary": "A massive simulation by MIT suggests AI is currently capable of replacing 11.7% of US jobs. The study modeled 151 million workers as autonomous agents to identify exposure hotspots.",
+    "engagement": "Medium",
+    "raw_text": "We keep hearing that 'AI is coming for our jobs,' but a new study from MIT says the tech is already there. They ran a massive simulation of the US economy and found that AI can technically replace about 11.7% of all jobs *right now*. Not in ten years. Today. They modeled millions of workers as 'agents' and matched their skills against current AI capabilities. Now, this doesn't mean you're getting fired tomorrow—companies are slow to adapt—but it's a massive wake-up call. If your job involves routine data processing or basic analysis, you are in the 'exposure hotspot.' The transition isn't coming; it's here.",
+    "id": "MIT_JOB_10J",
+    "category": "Business",
+    "companies": [
+      "MIT"
+    ],
+    "people": [],
+    "created_at": "2025-12-02T23:51:32"
+  }
+]
