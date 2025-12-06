@@ -1,0 +1,155 @@
+[
+  {
+    "date": "2025-12-07",
+    "source_file": "Tech News Report Request (2).pdf",
+    "page": 8,
+    "title": "Meta Kills Fact-Checking: The End of 'Trust and Safety'",
+    "summary": "Meta has officially terminated its third-party fact-checking program in the US, replacing it with a crowd-sourced 'Community Notes' model similar to X. Mark Zuckerberg cited a return to 'free expression' following the 2024 elections as the primary driver for this pivot.",
+    "engagement": "High",
+    "raw_text": "You guys, the era of the 'internet police' might actually be over. Mark Zuckerberg just dropped a massive bomb: Meta is officially killing its third-party fact-checking program in the US. No more journalists flagging your posts, no more 'false information' warnings. Instead, they're copying Elon Musk's homework and rolling out 'Community Notes.' Zuck is calling this a return to 'free expression' after the 2024 elections, but let's be real—this is a total capitulation. They're basically outsourcing the truth to the crowd. Critics are already screaming that this is going to turn Instagram and Facebook into a misinformation superhighway, especially since we know coordinated groups can manipulate these voting systems. But honestly? It looks like Meta is just tired of being the referee. This changes everything about how news spreads on social. Is this freedom, or is it chaos? Let me know in the comments.",
+    "id": "META_FACT_001",
+    "category": "Social Media",
+    "companies": [
+      "Meta",
+      "X"
+    ],
+    "people": [
+      "Mark Zuckerberg",
+      "Donald Trump"
+    ],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-07",
+    "source_file": "Tech News Report Request (2).pdf",
+    "page": 2,
+    "title": "Claude Opus 4.5: The AI That Codes Better Than You",
+    "summary": "Anthropic has released Claude Opus 4.5, a new model that dominates software engineering benchmarks with an 80.9% score on SWE-bench Verified. The model introduces a variable 'thinking' mode for complex tasks, effectively commoditizing mid-level coding jobs.",
+    "engagement": "High",
+    "raw_text": "If you are a software engineer, you need to stop what you're doing and listen. Anthropic just released Claude Opus 4.5, and the benchmarks are genuinely terrifying. We aren't talking about writing a simple Python script anymore; this thing hit nearly 81% on the SWE-bench. That means it can solve 4 out of 5 real-world GitHub issues completely autonomously. It even beat every single human candidate Anthropic tested in their own hiring exams. The wildest part? They added a 'thinking mode'—you can literally tell the AI to sit there and ponder the architecture before it writes a single line of code, just like a senior engineer. While everyone was waiting for GPT-5, Anthropic just quietly released a model that might have just made junior developers obsolete. This is the 'agentic' era we've been warned about.",
+    "id": "CLAUDE_OPUS_002",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-07",
+    "source_file": "Tech News Report Request (2).pdf",
+    "page": 6,
+    "title": "The 'Vibe Coding' Scandal: Fake Science Floods NeurIPS",
+    "summary": "A massive academic scandal has exposed a 'paper mill' operation where a researcher named Zhu claimed authorship of 113 AI-generated papers. The incident highlights how 'vibe coding' and LLM-generated spam are overwhelming the peer-review systems of top conferences like NeurIPS.",
+    "engagement": "High",
+    "raw_text": "There is a massive crisis happening in science right now, and it's absolutely wild. We're calling it the 'Vibe Coding' scandal. A single researcher named Zhu managed to get nearly 90 papers accepted to NeurIPS—the most prestigious AI conference in the world—in one year. How? By using AI to generate plausible-sounding but completely fake research. They call it 'vibe coding'—it looks like code, feels like science, but it's total garbage. This guy was even charging students $3,000 to put their names on these fake papers! This proves that our 'trust layer' is broken. Peer reviewers are so overwhelmed by AI slop that they're using AI to review the AI papers. It's a closed loop of synthetic garbage. If we can't trust the science at the top level, what can we trust?",
+    "id": "ZHU_SCANDAL_003",
+    "category": "Science",
+    "companies": [
+      "NeurIPS",
+      "Algoverse"
+    ],
+    "people": [
+      "Zhu",
+      "Hany Farid"
+    ],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-07",
+    "source_file": "Tech News Report Request (2).pdf",
+    "page": 5,
+    "title": "Apple's Secret Weapon: STARFlow-V Beats Sora?",
+    "summary": "Apple has unexpectedly open-sourced STARFlow-V, a new video generation model that uses 'Normalizing Flows' instead of diffusion. It claims to be 15x faster than competitors and solves the 'shimmering' artifacts common in AI video.",
+    "engagement": "High",
+    "raw_text": "Apple just did something they almost never do—they went open source, and it's a direct shot at OpenAI's Sora. It's called STARFlow-V, and it's a brand new AI video model. But here's the catch: it doesn't use 'diffusion' like everyone else. It uses something called 'Normalizing Flows.' I know, sounds like math jargon, but here's why it matters: It is 15 times faster than current models. 15 times! Plus, it fixes that weird shimmering hallucination thing where objects morph for no reason. Apple is releasing the weights on Hugging Face specifically to drive demand for local compute—aka, they want you buying M-series MacBooks to run this stuff instead of paying for cloud subscriptions. This is a classic 'commoditize the complement' move, and it's brilliant.",
+    "id": "APPLE_STARFLOW_004",
+    "category": "AI",
+    "companies": [
+      "Apple",
+      "Hugging Face",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-02",
+    "source_file": "Act as a top-tier tech news aggregator and researc (23).pdf",
+    "page": 8,
+    "title": "OpenAI Panic: Sam Altman Declares 'Code Red'",
+    "summary": "OpenAI CEO Sam Altman has issued an internal 'code red' memo, pausing non-essential product launches to focus entirely on improving ChatGPT. This comes as Google's Gemini 3 and Anthropic's Claude Opus begin to outperform GPT-4 in key benchmarks.",
+    "engagement": "High",
+    "raw_text": "The panic button has officially been hit at OpenAI. Sam Altman sent out an internal 'Code Red' memo to the entire team, and it paints a pretty desperate picture. They are freezing everything—no new ad agents, no shopping features, no fluff. Every single resource is being diverted back to fixing ChatGPT. Why? Because they are losing. Google's Gemini 3 and Anthropic's new Opus model are starting to eat their lunch in the benchmarks, and top researchers are fleeing the company to join Meta and other rivals. Altman is trying to rally the troops, but admitting that Google's new tech 'poses economic challenges' is a huge deal. The undisputed king of AI is finally looking vulnerable, and 2026 is going to be a bloodbath.",
+    "id": "OPENAI_CODERED_005",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Anthropic"
+    ],
+    "people": [
+      "Sam Altman",
+      "Mira Murati"
+    ],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-05",
+    "source_file": "Act as a top-tier tech news aggregator and researc (23).pdf",
+    "page": 5,
+    "title": "Meta Buys Limitless: The 'Rewind' Pendant is Yours",
+    "summary": "Meta has acquired the AI wearable startup Limitless to integrate its 'memory extension' technology into future hardware. Limitless devices record and summarize conversations, aligning with Meta's goal of 'personal superintelligence.'",
+    "engagement": "Medium",
+    "raw_text": "Remember that creepy-cool 'Limitless' pendant that records everything you hear and helps you remember it later? Well, Mark Zuckerberg just bought the whole company. Meta acquired Limitless this week, and it's a clear signal that they are going all-in on AI hardware. They aren't just satisfied with the Ray-Ban smart glasses; they want 'personal superintelligence' that follows you everywhere. Limitless users are getting their subscriptions wiped, and the tech is getting folded into Meta's labs. This is the next frontier, guys—AI that doesn't just live in a chat window, but physically hangs off your body and listens to your entire life. Convenient? Yes. Dystopian? Absolutely.",
+    "id": "META_LIMITLESS_006",
+    "category": "Hardware",
+    "companies": [
+      "Meta",
+      "Limitless"
+    ],
+    "people": [
+      "Dan Siroker",
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-07",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "DeepSeek V3.2: The Chinese AI That Costs Nothing",
+    "summary": "Chinese startup DeepSeek released V3.2, claiming parity with GPT-5 while reducing inference costs by over 60% via a new 'Sparse Attention' mechanism. The open-source model challenges Western AI dominance by offering frontier performance at a fraction of the price.",
+    "engagement": "Medium",
+    "raw_text": "While we were watching Google and OpenAI fight, a Chinese startup called DeepSeek just sneaked in and changed the game. They released V3.2, and they're claiming it matches GPT-5 performance. But here's the killer feature: it's dirt cheap. They invented a new 'Sparse Attention' mechanism that cuts the cost of running this thing by 60%. We're talking 20 cents per million tokens. This is a massive 'Sputnik moment' for AI. If you can run a GPT-5 class model for pennies, the moat that OpenAI and Google have built around their massive data centers starts to evaporate. Open source is catching up fast, and it's coming from unexpected places.",
+    "id": "DEEPSEEK_V3_007",
+    "category": "AI",
+    "companies": [
+      "DeepSeek",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  },
+  {
+    "date": "2025-12-01",
+    "source_file": "Tech News Roundup (December 7, 2025).pdf",
+    "page": 2,
+    "title": "Apple Fires AI Chief: Siri's Failure Has Consequences",
+    "summary": "John Giannandrea has stepped down as Apple's AI chief, replaced by former Google executive Amar Subramanya. The leadership shakeup follows criticism of Apple Intelligence's slow rollout and Siri's lagging capabilities.",
+    "engagement": "Medium",
+    "raw_text": "Heads are rolling at Apple. John Giannandrea, the guy who's been running their AI division since 2018, is out. This is a direct result of how messy the 'Apple Intelligence' rollout has been. Siri is still… well, Siri, while everyone else is talking to super-geniuses. They've replaced him with Amar Subramanya, a heavy hitter from Google's Gemini team. This confirms what we all suspected: Apple knows they are behind, and they are panicking. They need someone who understands modern LLMs to come in and fix the mess before the iPhone becomes a dumb phone in a smart world.",
+    "id": "APPLE_AI_CHIEF_008",
+    "category": "Business",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "people": [
+      "John Giannandrea",
+      "Amar Subramanya"
+    ],
+    "created_at": "2025-12-07T01:04:02.000Z"
+  }
+]
