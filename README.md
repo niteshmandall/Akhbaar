@@ -55,3 +55,5 @@ By converting daily reports into structured JSON, we enable:
 ---
 
 _Built by [Hox Labs](https://www.linkedin.com/company/hox-labs) - Building 100 Products in 100 Weekends._
+
+> **Note**: Image generation for news items is handled by the **Antigravity Agent** (Nano Banana Pro), ensuring high-quality, context-aware visuals for every story.
