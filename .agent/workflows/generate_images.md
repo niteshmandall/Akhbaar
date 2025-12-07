@@ -44,6 +44,7 @@ Use the `generate_image` tool.
 - Update the JSON file to include the local path in `image_url`.
 - Format: `images/<date_dir>/<id>.png`.
 - Update `image_prompt` field if possible.
+- **CRITICAL**: Do NOT touch, modify, or reformat the `raw_text` field. Preserve it exactly as is.
 
 ### 5. Verify
 
