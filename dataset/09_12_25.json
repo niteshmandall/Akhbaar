@@ -6,7 +6,7 @@
     "title": "Google's \"Android Show\" Tonight: The Vision Pro Killer?",
     "summary": "Google is set to unveil its Android XR platform tonight, featuring deep Gemini AI integration and new smart glasses developed with Magic Leap. The event aims to establish Android as the dominant OS for spatial computing before Meta's next move.",
     "engagement": "High",
-    "raw_text": "So check this out, Google is finally taking the gloves off. Tonight is the 'Android Show: XR Edition,' and if the leaks are true, they are coming straight for Apple's Vision Pro. We're talking about a brand new Android XR platform that isn't just a screen on your face—it's deeply integrated with Gemini AI. Imagine looking at a broken bike chain, and your glasses just tell you how to fix it because the AI sees what you see. They're showing off these new prototype glasses built with Magic Leap using microLEDs, and Samsung is dropping updates for their Galaxy XR headset too. Honestly, this is huge because Google has a tiny window here. With Meta's 'Phoenix' glasses delayed until 2027, tonight is Google's chance to own the operating system for everything that isn't an Apple headset. I'll be watching the livestream, but this could be the moment Android XR becomes the 'Windows' of the spatial computing world.",
+    "raw_text": "So check this out, Google is finally taking the gloves off. Tonight is the 'Android Show: XR Edition,' and if the leaks are true, they are coming straight for Apple's Vision Pro. We're talking about a brand new Android XR platform that isn't just a screen on your face\u2014it's deeply integrated with Gemini AI. Imagine looking at a broken bike chain, and your glasses just tell you how to fix it because the AI sees what you see. They're showing off these new prototype glasses built with Magic Leap using microLEDs, and Samsung is dropping updates for their Galaxy XR headset too. Honestly, this is huge because Google has a tiny window here. With Meta's 'Phoenix' glasses delayed until 2027, tonight is Google's chance to own the operating system for everything that isn't an Apple headset. I'll be watching the livestream, but this could be the moment Android XR becomes the 'Windows' of the spatial computing world.",
     "id": "67f422ab",
     "category": "Hardware",
     "companies": [
@@ -27,7 +27,7 @@
     "title": "DeepSeek-V3.2: The Open-Source Model That Just Killed GPT-5 Hype",
     "summary": "Chinese lab DeepSeek released V3.2, a 685B parameter open-weights model that matches or beats Gemini 3 Pro and GPT-5 on reasoning benchmarks. It features a new 'Sparse Attention' architecture that cuts inference costs by 70%.",
     "engagement": "High",
-    "raw_text": "Okay, the AI wars just got completely flipped on their head. DeepSeek—this Chinese research lab—just dropped V3.2, and the benchmarks are absolutely wild. We are looking at a model that is arguably beating Gemini 3 Pro and matching GPT-5 levels of reasoning, but here is the kicker: it's open weights. You can download this. And because of this new 'Sparse Attention' architecture they built, it's 70% cheaper to run. This is a massive blow to the closed-source giants like OpenAI. If you're a developer, why would you pay a premium for GPT-5 API calls when you can run something this powerful for a fraction of the cost? It's basically a commoditization of super-intelligence happening right in front of us. The 'economic moat' for proprietary models is drying up fast.",
+    "raw_text": "Okay, the AI wars just got completely flipped on their head. DeepSeek\u2014this Chinese research lab\u2014just dropped V3.2, and the benchmarks are absolutely wild. We are looking at a model that is arguably beating Gemini 3 Pro and matching GPT-5 levels of reasoning, but here is the kicker: it's open weights. You can download this. And because of this new 'Sparse Attention' architecture they built, it's 70% cheaper to run. This is a massive blow to the closed-source giants like OpenAI. If you're a developer, why would you pay a premium for GPT-5 API calls when you can run something this powerful for a fraction of the cost? It's basically a commoditization of super-intelligence happening right in front of us. The 'economic moat' for proprietary models is drying up fast.",
     "id": "4e89963f",
     "category": "AI",
     "companies": [
@@ -47,7 +47,7 @@
     "title": "ChatGPT Now Buys Your Groceries: Instacart Integration is Live",
     "summary": "Instacart has launched a fully integrated agent within ChatGPT that can plan meals, check real-time local inventory, and execute purchases without leaving the chat. This marks a shift from simple chatbots to 'Agentic Commerce.'",
     "engagement": "High",
-    "raw_text": "This is what we've been waiting for—AI that actually *does* stuff. Instacart just integrated directly into ChatGPT, but it's not just a recipe recommender anymore. It's a full-blown agent. You can say 'Plan a gluten-free week of dinners for under $150,' and it doesn't just list food; it checks the actual inventory at your local Kroger or Sprouts in real-time. Then, it builds the cart and pays for it using your stored info. You never leave the chat. This is the 'First Moment of Truth' shifting from a store shelf to an AI prompt. If the AI decides Hellmann's mayo is the best fit for your budget, that's what you buy. Brands are going to freak out because visual ads don't matter if the AI is making the shopping list. We are officially in the era of Agentic Commerce.",
+    "raw_text": "This is what we've been waiting for\u2014AI that actually *does* stuff. Instacart just integrated directly into ChatGPT, but it's not just a recipe recommender anymore. It's a full-blown agent. You can say 'Plan a gluten-free week of dinners for under $150,' and it doesn't just list food; it checks the actual inventory at your local Kroger or Sprouts in real-time. Then, it builds the cart and pays for it using your stored info. You never leave the chat. This is the 'First Moment of Truth' shifting from a store shelf to an AI prompt. If the AI decides Hellmann's mayo is the best fit for your budget, that's what you buy. Brands are going to freak out because visual ads don't matter if the AI is making the shopping list. We are officially in the era of Agentic Commerce.",
     "id": "f73c75c5",
     "category": "AI",
     "companies": [
@@ -59,7 +59,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-08T17:38:43Z"
+    "created_at": "2025-12-08T17:38:43Z",
+    "image_url": "images/09_12_25/f73c75c5.png",
+    "image_prompt": "A modern living room with a person engaging on a sleek tablet screen displaying a ChatGPT interface, groceries and fresh produce visible nearby, with a subtle digital overlay illustrating seamless online shopping; vibrant, clean, tech-forward atmosphere."
   },
   {
     "date": "2025-12-08",
@@ -81,7 +83,9 @@
       "Donald Trump",
       "David Ellison"
     ],
-    "created_at": "2025-12-08T17:38:43Z"
+    "created_at": "2025-12-08T17:38:43Z",
+    "image_url": "images/09_12_25/fef732f0.png",
+    "image_prompt": "A dynamic newsroom scene with a large digital screen displaying the words \u201c$72B Deal\u201d and images of Netflix and Warner Bros logos. A serious reporter in front, with an animated politician silhouette gesturing, surrounded by energy of high-stakes corporate negotiation."
   },
   {
     "date": "2025-12-08",
@@ -110,7 +114,7 @@
     "title": "The Paper-Thin Brain Chip: Sci-Fi Just Got Real",
     "summary": "Researchers from Columbia and UPenn unveiled BISC, a wireless brain-computer interface thinner than a human hair. It sits on the brain's surface without penetrating tissue, capable of high-bandwidth data transmission for medical applications.",
     "engagement": "High",
-    "raw_text": "This is some real cyberpunk stuff. Researchers just unveiled a new brain chip called BISC, and get this—it's thinner than a human hair. Unlike Neuralink or those old-school spikes that have to physically penetrate your brain tissue, this thing just sits on top of the brain like a piece of paper. It's wireless, transmits data at 100 Mbps, and because it doesn't stab into the brain, it avoids all that scar tissue buildup that makes other BCIs fail over time. They're saying this could cure blindness or stop seizures. It's a 'transistor moment' for biotech. We are moving away from bulky headsets to literally pasting chips onto our cortex. Wild.",
+    "raw_text": "This is some real cyberpunk stuff. Researchers just unveiled a new brain chip called BISC, and get this\u2014it's thinner than a human hair. Unlike Neuralink or those old-school spikes that have to physically penetrate your brain tissue, this thing just sits on top of the brain like a piece of paper. It's wireless, transmits data at 100 Mbps, and because it doesn't stab into the brain, it avoids all that scar tissue buildup that makes other BCIs fail over time. They're saying this could cure blindness or stop seizures. It's a 'transistor moment' for biotech. We are moving away from bulky headsets to literally pasting chips onto our cortex. Wild.",
     "id": "139b8eb9",
     "category": "Science",
     "companies": [
@@ -149,7 +153,7 @@
     "title": "Microsoft Ditches Nvidia? The Custom Silicon Pivot",
     "summary": "Microsoft and OpenAI are reportedly partnering with Broadcom to design custom AI chips, moving away from Nvidia's expensive hardware. This vertical integration aims to reduce inference costs and reliance on a single supplier.",
     "engagement": "Medium",
-    "raw_text": "Nvidia might actually be sweating a little today. Reports are flying that Microsoft and OpenAI are pivoting to Broadcom to build their own custom AI chips. They are trying to break free from the 'Nvidia tax.' When you are spending billions on hardware, you don't want to pay high margins forever. By building their own ASICs—chips designed specifically for their models—they can run ChatGPT way cheaper. It's exactly what Apple did with the M1 chip, but for massive data centers. If they pull this off, the monopoly on AI hardware is going to crack. Watch Broadcom stock, it's already reacting.",
+    "raw_text": "Nvidia might actually be sweating a little today. Reports are flying that Microsoft and OpenAI are pivoting to Broadcom to build their own custom AI chips. They are trying to break free from the 'Nvidia tax.' When you are spending billions on hardware, you don't want to pay high margins forever. By building their own ASICs\u2014chips designed specifically for their models\u2014they can run ChatGPT way cheaper. It's exactly what Apple did with the M1 chip, but for massive data centers. If they pull this off, the monopoly on AI hardware is going to crack. Watch Broadcom stock, it's already reacting.",
     "id": "60cc686c",
     "category": "Hardware",
     "companies": [
@@ -161,7 +165,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-08T17:38:43Z"
+    "created_at": "2025-12-08T17:38:43Z",
+    "image_url": "images/09_12_25/60cc686c.png",
+    "image_prompt": "A sleek, modern data center with rows of glowing servers blending advanced AI hardware, billowing cables, and metallic textures. Focus on a central, futuristic chip with vibrant circuits, illuminated in blue and green hues, conveying innovation and technological shift."
   },
   {
     "date": "2025-12-08",
@@ -190,7 +196,7 @@
     "title": "The \"Artificial Hivemind\": AI Models Are losing Creativity",
     "summary": "Research presented at NeurIPS 2025 reveals that LLMs are suffering from 'mode collapse' or an 'Artificial Hivemind' effect. As models train on synthetic data, their outputs are becoming homogenized and repetitive.",
     "engagement": "Medium",
-    "raw_text": "There's a spooky paper coming out of NeurIPS called 'Infinity-Chat,' and it highlights a major problem: The 'Artificial Hivemind.' Basically, as we train AI models on data generated by *other* AI models, they all start sounding exactly the same. It's called mode collapse. We tested 70 models, and the creativity is vanishing—they all converge on the same safe, average answers. It's like inbreeding for intelligence. If we don't fix this with new training methods, the internet is just going to become a sludge of identical, boring AI slop. Diversity in AI thought is officially a crisis.",
+    "raw_text": "There's a spooky paper coming out of NeurIPS called 'Infinity-Chat,' and it highlights a major problem: The 'Artificial Hivemind.' Basically, as we train AI models on data generated by *other* AI models, they all start sounding exactly the same. It's called mode collapse. We tested 70 models, and the creativity is vanishing\u2014they all converge on the same safe, average answers. It's like inbreeding for intelligence. If we don't fix this with new training methods, the internet is just going to become a sludge of identical, boring AI slop. Diversity in AI thought is officially a crisis.",
     "id": "49a86036",
     "category": "AI Research",
     "companies": [],
