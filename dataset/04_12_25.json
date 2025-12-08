@@ -7,7 +7,7 @@
     "summary": "Google has officially released Gemini 3, featuring a new 'Generative UI' capability that builds custom interfaces on the fly and a 'Deep Think' reasoning mode. The model is rolling out immediately across Google's ecosystem in 120 countries, marking a significant counter-attack against OpenAI.",
     "engagement": "High",
     "raw_text": "Okay, stop what you are doing because Google just stopped playing nice. They officially launched Gemini 3 today, and it is not just another chatbot update. The killer feature here is something called 'Generative UI.' Imagine asking for a travel itinerary, and instead of a wall of text, the AI literally codes and renders a custom interactive website for you on the fly with maps and buttons. That is wild! They also dropped a 'Deep Think' mode to rival OpenAI's reasoning models. After three years of chasing ChatGPT, Google is claiming they've finally regained the throne. I'm testing the 'vibe coding' feature right now, and honestly, the speed is terrifying. Is this the ChatGPT killer? Let me know in the comments.",
-    "id": "A1B2C3D4",
+    "id": "c85187f0",
     "category": "AI",
     "companies": [
       "Google",
@@ -27,8 +27,8 @@
     "title": "Samsung Galaxy Z TriFold: The 10-Inch Phone is Here",
     "summary": "Samsung has unveiled the Galaxy Z TriFold, a triple-folding smartphone that expands into a 10-inch tablet, launching December 12 in Korea. The device features a dual-hinge system and a sensor-based alarm to warn users of improper folding angles.",
     "engagement": "High",
-    "raw_text": "It\u2019s finally happening. The triple-fold phone is real. Samsung just dropped the Galaxy Z TriFold, and this thing is an absolute beast. It folds... twice. When you open it all the way up, you are holding a massive 10-inch tablet, but it folds down to fit in your pocket. They\u2019ve added this 'Titanium Armour FlexHinge' which sounds like something out of Iron Man, and get this\u2014it has an alarm that screams at you if you try to fold it the wrong way. It\u2019s launching in Korea next week and globally in Q1. RIP to the iPad Mini? Maybe. I need to get my hands on this hinge to see if it actually holds up.",
-    "id": "E5F6G7H8",
+    "raw_text": "It’s finally happening. The triple-fold phone is real. Samsung just dropped the Galaxy Z TriFold, and this thing is an absolute beast. It folds... twice. When you open it all the way up, you are holding a massive 10-inch tablet, but it folds down to fit in your pocket. They’ve added this 'Titanium Armour FlexHinge' which sounds like something out of Iron Man, and get this—it has an alarm that screams at you if you try to fold it the wrong way. It’s launching in Korea next week and globally in Q1. RIP to the iPad Mini? Maybe. I need to get my hands on this hinge to see if it actually holds up.",
+    "id": "cee5643a",
     "category": "Mobile",
     "companies": [
       "Samsung"
@@ -46,7 +46,7 @@
     "summary": "Following Google's aggressive Gemini 3 launch, OpenAI CEO Sam Altman has reportedly issued an internal 'code red,' delaying new agent products to focus on fixing ChatGPT's core reliability. Reports indicate a potential 6% drop in ChatGPT user traffic.",
     "engagement": "High",
     "raw_text": "The tables have officially turned. Remember when Google hit the panic button when ChatGPT came out? Well, now it's Sam Altman's turn. Reports are leaking that OpenAI is in a full-blown 'Code Red' internally. Apparently, they are seeing a 6% drop in users because everyone is jumping ship to Gemini 3. Altman has allegedly frozen the launch of their new AI agents to focus entirely on fixing bugs and reliability. It feels like 2022 in reverse. The competition is getting brutal, and honestly, if OpenAI doesn't drop GPT-5 soon, they might actually lose their lead. What do you guys think? Is ChatGPT getting stale?",
-    "id": "I9J0K1L2",
+    "id": "e2373afb",
     "category": "AI",
     "companies": [
       "OpenAI",
@@ -67,7 +67,7 @@
     "summary": "Chinese AI lab DeepSeek has released V3.2, a model using 'Sparse Attention' to cut inference costs by 70% while allegedly matching GPT-5 performance in math benchmarks. The architecture allows for massive compute efficiency, challenging the US hardware advantage.",
     "engagement": "Medium",
     "raw_text": "While everyone is watching Google and OpenAI, a Chinese lab called DeepSeek just quietly changed the game. They released V3.2, and the tech behind this is genius. It uses something called 'Sparse Attention.' Without getting too nerdy, it means the AI doesn't have to look at every single word every time it thinks, which cuts their costs by like 70%. They are claiming this thing matches GPT-5 levels on math for pennies on the dollar. This is huge because it proves you don't need infinite NVIDIA H100s to win the AI race; you just need better code. The 'compute moat' might be drying up, folks.",
-    "id": "M3N4O5P6",
+    "id": "17c373cf",
     "category": "AI",
     "companies": [
       "DeepSeek"
@@ -84,8 +84,8 @@
     "title": "Mercury: The AI That Writes Code at the Speed of Light",
     "summary": "Inception Labs has unveiled 'Mercury,' a commercial Large Language Model based on diffusion technology rather than the standard Transformer architecture. It generates entire sentences simultaneously rather than word-by-word, offering instant latency for coding and translation.",
     "engagement": "Medium",
-    "raw_text": "We might be done with Transformers. Inception Labs just revealed 'Mercury,' and it\u2019s a Diffusion LLM. Here is why that matters: standard AI writes like a human, one word at a time. Slow. Mercury writes like a printer\u2014generating the whole sentence or block of code all at once. They are clocking this thing at over 1,000 tokens per second. That is instant. For coders, this means you hit tab, and the entire function appears before your finger leaves the key. If this architecture scales, the 'loading' spinner on your chatbots is about to go extinct.",
-    "id": "Q7R8S9T0",
+    "raw_text": "We might be done with Transformers. Inception Labs just revealed 'Mercury,' and it’s a Diffusion LLM. Here is why that matters: standard AI writes like a human, one word at a time. Slow. Mercury writes like a printer—generating the whole sentence or block of code all at once. They are clocking this thing at over 1,000 tokens per second. That is instant. For coders, this means you hit tab, and the entire function appears before your finger leaves the key. If this architecture scales, the 'loading' spinner on your chatbots is about to go extinct.",
+    "id": "d18db93a",
     "category": "AI",
     "companies": [
       "Inception Labs"
@@ -102,8 +102,8 @@
     "title": "Light-Speed Chips: Marvell Buys Celestial AI for $3.25B",
     "summary": "Marvell Technology is acquiring Celestial AI for $3.25 billion to integrate silicon photonics into data centers. The technology replaces copper wiring with light-based data transfer to solve the memory bandwidth bottlenecks in AI training clusters.",
     "engagement": "Medium",
-    "raw_text": "We are hitting the physical limits of copper wires, so Marvell just spent three billion dollars to switch to light beams. They bought a company called Celestial AI that builds 'Photonic Fabrics.' Basically, instead of using electricity to move data between AI chips\u2014which gets hot and slow\u2014they are going to use lasers. This is the 'sci-fi' infrastructure we need to build models bigger than GPT-5. Amazon is already backing this tech. If you\u2019re following the hardware side of AI, this is the signal that we are moving from electronics to photonics.",
-    "id": "U1V2W3X4",
+    "raw_text": "We are hitting the physical limits of copper wires, so Marvell just spent three billion dollars to switch to light beams. They bought a company called Celestial AI that builds 'Photonic Fabrics.' Basically, instead of using electricity to move data between AI chips—which gets hot and slow—they are going to use lasers. This is the 'sci-fi' infrastructure we need to build models bigger than GPT-5. Amazon is already backing this tech. If you’re following the hardware side of AI, this is the signal that we are moving from electronics to photonics.",
+    "id": "1f65c25d",
     "category": "Hardware",
     "companies": [
       "Marvell Technology",
@@ -120,10 +120,10 @@
     "source_file": "Combined",
     "page": 1,
     "title": "Amazon's \"AI Factory\" & The $100k Custom Model",
-    "summary": "Amazon AWS has launched 'Nova Forge,' allowing enterprises to train custom frontier models for a $100,000 subscription, and announced 'AI Factories'\u2014on-premise supercomputers built in partnership with Nvidia. This targets companies who cannot use public clouds due to data sovereignty.",
+    "summary": "Amazon AWS has launched 'Nova Forge,' allowing enterprises to train custom frontier models for a $100,000 subscription, and announced 'AI Factories'—on-premise supercomputers built in partnership with Nvidia. This targets companies who cannot use public clouds due to data sovereignty.",
     "engagement": "Medium",
-    "raw_text": "Amazon just made a massive play for the enterprise. They launched 'Nova Forge,' which basically lets companies build their own mini-GPTs for just $100k a year. But the bigger news? 'AI Factories.' If you are a bank or a government and you can't put your data on the cloud, Amazon will literally drive a truck to your building and install a massive NVIDIA supercomputer in your basement. They call it 'Sovereign AI.' It\u2019s clear that the future isn't just one big cloud; it's thousands of private AI islands.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "Amazon just made a massive play for the enterprise. They launched 'Nova Forge,' which basically lets companies build their own mini-GPTs for just $100k a year. But the bigger news? 'AI Factories.' If you are a bank or a government and you can't put your data on the cloud, Amazon will literally drive a truck to your building and install a massive NVIDIA supercomputer in your basement. They call it 'Sovereign AI.' It’s clear that the future isn't just one big cloud; it's thousands of private AI islands.",
+    "id": "b03296a8",
     "category": "Business",
     "companies": [
       "Amazon",
@@ -142,8 +142,8 @@
     "title": "Anthropic Eyes $300 Billion IPO in 2026",
     "summary": "Anthropic, the creators of Claude, are reportedly preparing for an IPO as early as 2026 with a target valuation of $300 billion. The company has engaged law firm Wilson Sonsini to begin the process, marking a major financial milestone for the AI industry.",
     "engagement": "Medium",
-    "raw_text": "Claude might be going public. Reports are out that Anthropic is prepping for an IPO in 2026, and they are aiming for a valuation of three hundred billion dollars. That is astronomical. For context, that\u2019s bigger than Netflix or Coca-Cola. They are banking on the fact that businesses seem to love Claude more than ChatGPT right now. If this happens, it\u2019s going to be the biggest tech IPO in history. Are we in a bubble, or is this just the new normal? Let me know in the comments.",
-    "id": "C9D0E1F2",
+    "raw_text": "Claude might be going public. Reports are out that Anthropic is prepping for an IPO in 2026, and they are aiming for a valuation of three hundred billion dollars. That is astronomical. For context, that’s bigger than Netflix or Coca-Cola. They are banking on the fact that businesses seem to love Claude more than ChatGPT right now. If this happens, it’s going to be the biggest tech IPO in history. Are we in a bubble, or is this just the new normal? Let me know in the comments.",
+    "id": "eb2c7539",
     "category": "Business",
     "companies": [
       "Anthropic"
@@ -160,8 +160,8 @@
     "title": "India Drops Mandatory Spyware App for Phones",
     "summary": "The Indian government has revoked a mandate that required all smartphones to come pre-installed with the 'Sanchar Saathi' security app following backlash from Apple, Samsung, and privacy advocates. The reversal is seen as a victory for digital privacy and device manufacturers.",
     "engagement": "Medium",
-    "raw_text": "Big win for privacy in India today. The government tried to force companies like Apple and Samsung to pre-install a government security app called 'Sanchar Saathi' on every single new phone. It sounded sketchy, and the tech giants fought back hard. Well, today the government folded and revoked the order. It\u2019s a rare moment where Big Tech and privacy advocates actually won a staring contest with a major government regulator. If you\u2019re buying an iPhone in India, you won't have mandatory government software on it... for now.",
-    "id": "G3H4I5J6",
+    "raw_text": "Big win for privacy in India today. The government tried to force companies like Apple and Samsung to pre-install a government security app called 'Sanchar Saathi' on every single new phone. It sounded sketchy, and the tech giants fought back hard. Well, today the government folded and revoked the order. It’s a rare moment where Big Tech and privacy advocates actually won a staring contest with a major government regulator. If you’re buying an iPhone in India, you won't have mandatory government software on it... for now.",
+    "id": "45be50a2",
     "category": "Policy",
     "companies": [
       "Apple",
