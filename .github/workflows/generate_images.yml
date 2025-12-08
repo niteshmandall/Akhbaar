@@ -29,7 +29,7 @@ jobs:
     - name: Run image generation script
       env:
         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-      run: python scripts/generate_news_images.py
+      run: python scripts/process_dataset.py
 
     - name: Commit and push changes
       run: |
