@@ -6,8 +6,8 @@
     "title": "OpenAI Panics: Code Red Declared as Gemini 3 Crushes Benchmarks",
     "summary": "OpenAI CEO Sam Altman has declared an internal 'code red' to accelerate GPT-5.2 development following the release of Google's Gemini 3, which set new records on LMArena and PhD-level reasoning benchmarks[cite: 115, 116, 123]. The move signals a strategic shift away from side projects to focus entirely on core model performance to counter Google's dominance[cite: 118].",
     "engagement": "High",
-    "raw_text": "Guys, the AI wars just got absolutely brutal. OpenAI is officially in panic mode. Sam Altman just declared a 'Code Red' internally[cite: 115]. Why? Because Google just dropped Gemini 3, and it is crushing everything. We're talking a score of 1501 on LMArena—the first model to ever cross that line—and over 90% on PhD reasoning tasks[cite: 125]. It's honestly embarrassing for GPT-4 at this point. OpenAI is reportedly scrapping their plans for ad integrations and shopping bots just to focus on getting GPT-5.2 out the door by... wait for it... TODAY, December 9th[cite: 117, 118]. If you thought the AI hype was dying down, you were wrong. It's just getting started.",
-    "id": "A1B2C3D4",
+    "raw_text": "Guys, the AI wars just got absolutely brutal. OpenAI is officially in panic mode. Sam Altman just declared a 'Code Red' internally[cite: 115]. Why? Because Google just dropped Gemini 3, and it is crushing everything. We're talking a score of 1501 on LMArena\u2014the first model to ever cross that line\u2014and over 90% on PhD reasoning tasks[cite: 125]. It's honestly embarrassing for GPT-4 at this point. OpenAI is reportedly scrapping their plans for ad integrations and shopping bots just to focus on getting GPT-5.2 out the door by... wait for it... TODAY, December 9th[cite: 117, 118]. If you thought the AI hype was dying down, you were wrong. It's just getting started.",
+    "id": "c5901308",
     "category": "AI",
     "companies": [
       "OpenAI",
@@ -16,7 +16,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/c5901308.png",
+    "image_prompt": "A sleek, modern high-tech conference room with glowing screens displaying AI benchmarks and analytics, diverse engineers and executives in tense discussion, ambient blue lighting illuminating intense expressions, symbolizing urgency and innovation in AI race."
   },
   {
     "date": "2025-12-09",
@@ -25,14 +27,16 @@
     "title": "DeepSeek V3.2: The Chinese AI That Just Killed High Costs",
     "summary": "Chinese lab DeepSeek has released V3.2, utilizing a 'Sparse Attention' architecture that reduces inference costs by 70% while matching GPT-5 and Gemini 3 Pro on math and coding benchmarks[cite: 137, 138, 386]. The 'Speciale' variant achieved gold-medal scores at the International Math Olympiad, challenging the economic dominance of US-based dense models[cite: 397].",
     "engagement": "High",
-    "raw_text": "While everyone is watching Google and OpenAI, a Chinese startup called DeepSeek just quietly changed the entire game. They dropped DeepSeek V3.2, and here's the wild part: it cuts the cost of running AI by 70%[cite: 138]. How? They invented something called 'Sparse Attention'[cite: 383]. Instead of reading everything, the model only looks at what it needs. And it's not dumb—the 'Speciale' version literally won a gold medal at the Math Olympiad[cite: 397]. This proves you don't need infinite money to beat the big guys. Open source is fighting back, and it's winning.",
-    "id": "E5F6G7H8",
+    "raw_text": "While everyone is watching Google and OpenAI, a Chinese startup called DeepSeek just quietly changed the entire game. They dropped DeepSeek V3.2, and here's the wild part: it cuts the cost of running AI by 70%[cite: 138]. How? They invented something called 'Sparse Attention'[cite: 383]. Instead of reading everything, the model only looks at what it needs. And it's not dumb\u2014the 'Speciale' version literally won a gold medal at the Math Olympiad[cite: 397]. This proves you don't need infinite money to beat the big guys. Open source is fighting back, and it's winning.",
+    "id": "cd202272",
     "category": "AI",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/cd202272.png",
+    "image_prompt": "A sleek futuristic laboratory with glowing holographic data displays, scientists studying AI models on large transparent screens, cool blue and silver tones, conveying innovation, progress, and global competition."
   },
   {
     "date": "2025-12-09",
@@ -42,7 +46,7 @@
     "summary": "Samsung has teased a 'Galaxy Z TriFold' device that unfolds into a 10-inch tablet, aiming to solve the screen-size limitations of current foldables[cite: 505, 506]. Additionally, they unveiled the Galaxy XR platform powered by Google's Android XR, positioning it as a direct open-ecosystem competitor to Apple's Vision Pro[cite: 503].",
     "engagement": "High",
     "raw_text": "Samsung is finally making the phone we've all been dreaming about. They just teased the 'Galaxy Z TriFold.' It has two hinges and unfolds into a massive 10-inch tablet[cite: 505, 506]. Imagine having a full iPad in your pocket. But that's not all. They're also teaming up with Google for a new XR headset running Android XR[cite: 503]. They are coming straight for the Apple Vision Pro, but with an open ecosystem. If the hardware holds up, Apple might actually have some real competition next year.",
-    "id": "I9J0K1L2",
+    "id": "c1c7b623",
     "category": "Hardware",
     "companies": [
       "Samsung",
@@ -50,7 +54,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/c1c7b623.png",
+    "image_prompt": "A sleek futuristic tech scene with a close-up of a partially unfolded Samsung Galaxy Z TriFold displaying a vibrant 10-inch tablet screen, alongside a modern XR headset with glowing accents, set against a clean, high-tech background with subtle reflections and ambient lighting."
   },
   {
     "date": "2025-12-09",
@@ -59,24 +65,26 @@
     "title": "Nintendo Switch 2 Specs Revealed: 1080p & Magnetic Joy-Cons",
     "summary": "Leaks for the upcoming Nintendo Switch 2 indicate a sleeker design with magnetic Joy-Cons and a larger 1080p display with HDR support[cite: 210]. The console will also feature significantly stronger performance and mouse control capabilities, marking a major hardware upgrade[cite: 210].",
     "engagement": "High",
-    "raw_text": "It's finally happening! We have real details on the Nintendo Switch 2. The leaks are confirming a larger 1080p HDR display—finally, no more 720p jagged edges[cite: 210]. But the coolest part? Magnetic Joy-Cons. No more rails that break or get stuck. It's also going to have way more power under the hood and... get this... mouse control support?[cite: 210]. Nintendo is actually modernizing. If this drops next year, it's going to sell out instantly.",
-    "id": "M3N4O5P6",
+    "raw_text": "It's finally happening! We have real details on the Nintendo Switch 2. The leaks are confirming a larger 1080p HDR display\u2014finally, no more 720p jagged edges[cite: 210]. But the coolest part? Magnetic Joy-Cons. No more rails that break or get stuck. It's also going to have way more power under the hood and... get this... mouse control support?[cite: 210]. Nintendo is actually modernizing. If this drops next year, it's going to sell out instantly.",
+    "id": "c2e4c098",
     "category": "Hardware",
     "companies": [
       "Nintendo"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/c2e4c098.png",
+    "image_prompt": "A sleek, modern Nintendo Switch 2 console with a large, vibrant 1080p HDR display, magnetic Joy-Cons detached to reveal their sleek design, set against a clean, futuristic background showcasing enhanced hardware and mouse control icons, high-resolution, realistic lighting."
   },
   {
     "date": "2025-12-09",
-    "source_file": "Tech News Roundup – December 9, 2025.pdf",
+    "source_file": "Tech News Roundup \u2013 December 9, 2025.pdf",
     "page": 4,
     "title": "Australia Bans Social Media for Under-16s",
     "summary": "Australia has become the first country to ban children under 16 from social media, with the law taking effect on December 10[cite: 56]. Major platforms like TikTok and Instagram face fines up to A$49.5 million if they fail to verify ages and block underage users[cite: 56].",
     "engagement": "High",
-    "raw_text": "This is history in the making. Australia just became the first country in the world to completely ban social media for anyone under 16[cite: 56]. No TikTok, no Instagram, no exceptions. If the platforms don't block the kids, they get hit with massive fines—we're talking nearly 50 million dollars[cite: 56]. This law literally starts tomorrow. The whole world is watching this. Is this the future of the internet, or is it government overreach? Let me know in the comments because this is going to be controversial.",
-    "id": "Q7R8S9T0",
+    "raw_text": "This is history in the making. Australia just became the first country in the world to completely ban social media for anyone under 16[cite: 56]. No TikTok, no Instagram, no exceptions. If the platforms don't block the kids, they get hit with massive fines\u2014we're talking nearly 50 million dollars[cite: 56]. This law literally starts tomorrow. The whole world is watching this. Is this the future of the internet, or is it government overreach? Let me know in the comments because this is going to be controversial.",
+    "id": "019008ca",
     "category": "Policy",
     "companies": [
       "TikTok",
@@ -84,7 +92,9 @@
       "YouTube"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/019008ca.png",
+    "image_prompt": "A busy urban street scene in Australia, with a large digital billboard displaying news of the social media ban for under-16s, surrounded by diverse adults and teenagers, bright daylight, modern architecture, and a serious, informative mood."
   },
   {
     "date": "2025-12-09",
@@ -94,7 +104,7 @@
     "summary": "Apple has replaced retiring AI chief John Giannandrea with Amar Subramanya, a former executive at Google and Microsoft[cite: 470, 474]. Subramanya, who previously led engineering for Gemini Assistant, is tasked with overseeing Apple's proprietary foundation models and integrating generative AI into iOS[cite: 478, 479].",
     "engagement": "High",
     "raw_text": "Apple knows they're behind on AI, and they just made a massive move to fix it. Their old AI chief is out, and they've hired Amar Subramanya to take over[cite: 474]. Who is he? He's the guy who led engineering for Google's Gemini Assistant[cite: 478]. Apple is basically admitting they need outside help to save Siri. He's reporting directly to the software chief, which means we might finally get a Siri that doesn't just say 'Here's what I found on the web'[cite: 482].",
-    "id": "U1V2W3X4",
+    "id": "49fa3b5b",
     "category": "Business",
     "companies": [
       "Apple",
@@ -105,24 +115,28 @@
       "John Giannandrea",
       "Amar Subramanya"
     ],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/49fa3b5b.png",
+    "image_prompt": "A sleek, modern Apple office with a professional man in his 40s, sharp suit, confident stance, surrounded by futuristic AI interface holograms, in a minimalist high-tech setting, conveying innovation and leadership."
   },
   {
     "date": "2025-12-09",
-    "source_file": "Tech News Roundup – December 9, 2025.pdf",
+    "source_file": "Tech News Roundup \u2013 December 9, 2025.pdf",
     "page": 3,
     "title": "ChatGPT Can Now Buy Your Groceries via Instacart",
     "summary": "Instacart has launched a fully integrated shopping app within ChatGPT, allowing users to browse stores and check out directly through the AI interface[cite: 27]. The integration uses OpenAI's commerce protocol to convert natural language queries like 'apple pie ingredients' into a ready-to-buy shopping cart[cite: 28].",
     "engagement": "High",
-    "raw_text": "ChatGPT just got a major upgrade for your real life. You can now buy groceries directly inside the chat. Instacart just integrated their full app into ChatGPT[cite: 27]. So you can literally say, 'I want to bake an apple pie,' and it will find the recipe, put the ingredients in your cart, and let you check out instantly[cite: 28]. No more switching apps. This is the 'Agent' future we've been talking about—AI actually *doing* things for you, not just talking.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "ChatGPT just got a major upgrade for your real life. You can now buy groceries directly inside the chat. Instacart just integrated their full app into ChatGPT[cite: 27]. So you can literally say, 'I want to bake an apple pie,' and it will find the recipe, put the ingredients in your cart, and let you check out instantly[cite: 28]. No more switching apps. This is the 'Agent' future we've been talking about\u2014AI actually *doing* things for you, not just talking.",
+    "id": "f1413fda",
     "category": "AI",
     "companies": [
       "Instacart",
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/f1413fda.png",
+    "image_prompt": "A sleek, modern home kitchen with a person casually speaking to a tablet displaying a shopping app. Vibrant produce and grocery items subtly visible, warm lighting highlighting a futuristic yet cozy atmosphere, emphasizing effortless AI-driven shopping."
   },
   {
     "date": "2025-12-09",
@@ -132,14 +146,16 @@
     "summary": "A critical remote code execution vulnerability (CVSS 10.0) has been discovered in React versions prior to 19.0.1, allowing unauthenticated attackers to take control of systems[cite: 200, 201]. Threat actors linked to China are already actively exploiting this flaw, necessitating immediate patching[cite: 202].",
     "engagement": "High",
     "raw_text": "Developers, stop what you are doing and listen. There is a confirmed 10.0 critical vulnerability in React[cite: 201]. That is a perfect 'game over' score. It allows remote code execution without any authentication. If you are running versions older than 19.0.1, you are exposed[cite: 200]. Hackers are already exploiting this in the wild right now[cite: 202]. Do not wait. Patch your systems immediately. This is not a drill.",
-    "id": "C9D0E1F2",
+    "id": "727bcf8c",
     "category": "Cybersecurity",
     "companies": [
       "Meta",
       "React"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/727bcf8c.png",
+    "image_prompt": "A tense newsroom scene with a large digital screen displaying code snippets and warning signs, security analysts focused and worried, dark shades, sharp contrasts, hinting at urgency and cyber threat, with a backdrop of rows of monitors and digital security visuals."
   },
   {
     "date": "2025-12-09",
@@ -148,12 +164,14 @@
     "title": "NeurIPS Shock: AI Models Are Collapsing Into a 'Hivemind'",
     "summary": "Research presented at NeurIPS 2025 reveals an 'Artificial Hivemind' effect where LLMs converge on identical outputs regardless of architecture, driven by shared training data and RLHF[cite: 5, 220]. This homogeneity raises significant risks for cybersecurity and reduces the diversity of AI-generated solutions[cite: 427].",
     "engagement": "Medium",
-    "raw_text": "Is AI losing its creativity? A scary new paper from NeurIPS says yes. Researchers found that all the major AI models are slowly turning into a 'Hivemind'[cite: 5]. It doesn't matter if it's GPT, Claude, or Gemini—they are all converging on the exact same safe, boring answers[cite: 424]. It's called 'Model Collapse,' and it's happening because they're all trained on the same data and human feedback[cite: 425]. If we're not careful, we might end up with one giant, global AI brain that can't think outside the box.",
-    "id": "G3H4I5J6",
+    "raw_text": "Is AI losing its creativity? A scary new paper from NeurIPS says yes. Researchers found that all the major AI models are slowly turning into a 'Hivemind'[cite: 5]. It doesn't matter if it's GPT, Claude, or Gemini\u2014they are all converging on the exact same safe, boring answers[cite: 424]. It's called 'Model Collapse,' and it's happening because they're all trained on the same data and human feedback[cite: 425]. If we're not careful, we might end up with one giant, global AI brain that can't think outside the box.",
+    "id": "16a5ac7e",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/16a5ac7e.png",
+    "image_prompt": "A futuristic newsroom with multiple large screens displaying interconnected neural network visualizations, glowing in shades of blue and purple, with scientists observing anxious expressions, amidst dark, high-tech surroundings radiating a tense, ominous atmosphere."
   },
   {
     "date": "2025-12-09",
@@ -163,14 +181,16 @@
     "summary": "Waymo has surpassed 450,000 weekly paid autonomous rides, significantly widening its lead over competitors in the robotaxi market[cite: 207]. The service has expanded operations to freeways in three cities and launched in new markets including Miami and Dallas[cite: 208].",
     "engagement": "Medium",
     "raw_text": "While Tesla talks about Robotaxies, Waymo is actually doing it. They just hit a massive milestone: 450,000 paid rides every single week[cite: 207]. They are now driving completely autonomously on freeways in three different cities[cite: 208]. They're expanding to Miami, Dallas, and Orlando. This isn't a beta test anymore. Self-driving cars are a real business, and right now, Waymo is leaving everyone else in the dust.",
-    "id": "K7L8M9N0",
+    "id": "1690d467",
     "category": "Auto",
     "companies": [
       "Waymo",
       "Alphabet"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/1690d467.png",
+    "image_prompt": "A bustling urban street at dusk featuring a sleek Waymo autonomous vehicle with glowing sensors, surrounded by diverse pedestrians and other cars, city skyline in the background, vibrant but realistic lighting, capturing innovation and progress."
   },
   {
     "date": "2025-12-09",
@@ -184,7 +204,9 @@
     "category": "Cybersecurity",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/O1P2Q3R4.png",
+    "image_prompt": "A tense police scene in a modern office with digital screens displaying signals and cyber attack graphics, officers apprehending three individuals surrounded by high-tech gadgets like Flipper Zero devices, antennas, and hacking paraphernalia under cold, focused lighting."
   },
   {
     "date": "2025-12-09",
@@ -204,11 +226,13 @@
       "Matt Garman",
       "Andy Jassy"
     ],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/S5T6U7V8.png",
+    "image_prompt": "A sleek, modern conference room bustling with professionals and tech visuals on large screens showcasing AI agents and cloud infrastructure. Bright, dynamic lighting highlights cutting-edge AI hardware like Trainium3 chips, evoking innovation and future-ready enterprise technology."
   },
   {
     "date": "2025-12-09",
-    "source_file": "Tech News Roundup – December 9, 2025.pdf",
+    "source_file": "Tech News Roundup \u2013 December 9, 2025.pdf",
     "page": 3,
     "title": "Spotify Adds Music Videos to Battle YouTube",
     "summary": "Spotify has rolled out full music videos for Premium subscribers in the US and Canada, directly competing with YouTube Music[cite: 29]. The feature is designed to increase engagement, with data showing that tracks with video are replayed 34% more often[cite: 30].",
@@ -221,7 +245,9 @@
       "YouTube"
     ],
     "people": [],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/W9X0Y1Z2.png",
+    "image_prompt": "A sleek, modern living room with a large flat-screen TV displaying a vibrant music video, a person in headphones excitedly reacting, ambient lighting, and a smartphone showing Spotify interface, cityscape outside window, emphasizing streaming competition."
   },
   {
     "date": "2025-12-09",
@@ -230,7 +256,7 @@
     "title": "US Approves Nvidia H200 Exports to China (With a Catch)",
     "summary": "The US government has authorized Nvidia to export its H200 AI chips to China, subject to a 25% tariff per sale[cite: 45]. This compromise allows US firms to maintain market share while security officials warn the chips are six times more powerful than previous allowances[cite: 180, 184].",
     "engagement": "Medium",
-    "raw_text": "In a huge geopolitical twist, the US is letting Nvidia sell their powerful H200 AI chips to China again[cite: 45]. But there's a catch: a 25% tariff on every single chip[cite: 45]. It's a weird compromise—Nvidia gets the money, the US government gets a cut, and China gets the tech... well, tech that is about 18 months old[cite: 180]. Security experts are worried because these chips are still super powerful[cite: 184], but money talks.",
+    "raw_text": "In a huge geopolitical twist, the US is letting Nvidia sell their powerful H200 AI chips to China again[cite: 45]. But there's a catch: a 25% tariff on every single chip[cite: 45]. It's a weird compromise\u2014Nvidia gets the money, the US government gets a cut, and China gets the tech... well, tech that is about 18 months old[cite: 180]. Security experts are worried because these chips are still super powerful[cite: 184], but money talks.",
     "id": "A3B4C5D6",
     "category": "Business",
     "companies": [
@@ -239,7 +265,9 @@
     "people": [
       "Donald Trump"
     ],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/A3B4C5D6.png",
+    "image_prompt": "A sleek, futuristic server room illuminated by cool blue and white LED lights, featuring high-tech Nvidia H200 AI chips displayed prominently on a cutting-edge circuit board, with a backdrop of digital data streams and a neutral, professional environment."
   },
   {
     "date": "2025-12-09",
@@ -248,7 +276,7 @@
     "title": "Microsoft bets $17.5 Billion on India's AI Future",
     "summary": "Microsoft has committed $17.5 billion to build AI infrastructure and data centers in India between 2026 and 2029[cite: 146]. The investment includes expanding Azure regions and training 20 million people in AI skills, following a meeting between CEO Satya Nadella and PM Modi[cite: 149, 150].",
     "engagement": "Medium",
-    "raw_text": "Microsoft is going all in on India. They just dropped a staggering $17.5 billion investment plan[cite: 146]. This isn't just talk—they are building massive new data centers and promising to train 20 million people in AI skills[cite: 150]. Satya Nadella met with PM Modi to seal the deal. Big Tech sees India as the next major AI superpower, and they are putting their money where their mouth is.",
+    "raw_text": "Microsoft is going all in on India. They just dropped a staggering $17.5 billion investment plan[cite: 146]. This isn't just talk\u2014they are building massive new data centers and promising to train 20 million people in AI skills[cite: 150]. Satya Nadella met with PM Modi to seal the deal. Big Tech sees India as the next major AI superpower, and they are putting their money where their mouth is.",
     "id": "E7F8G9H0",
     "category": "Business",
     "companies": [
@@ -258,6 +286,8 @@
       "Satya Nadella",
       "Narendra Modi"
     ],
-    "created_at": "2025-12-09T23:47:03+05:30"
+    "created_at": "2025-12-09T23:47:03+05:30",
+    "image_url": "images/10_12_25/E7F8G9H0.png",
+    "image_prompt": "A bustling modern Indian city skyline at sunset with shimmering city lights, showcasing towering data centers with illuminated blue and white accents, a diverse group of professionals collaborating nearby, symbolizing technological growth and innovation."
   }
 ]
