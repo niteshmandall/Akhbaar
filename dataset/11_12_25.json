@@ -6,15 +6,17 @@
     "title": "Google Drops Gemini 3 Pro: Smashes Every AI Benchmark",
     "summary": "Google has officially released Gemini 3 Pro, creating a new state-of-the-art standard with a record-breaking score of 1501 on LMArena and 91.9% on GPQA. The model is now integrated into Search and Workspace, featuring enhanced reasoning capabilities across text, audio, and video.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you are doing because the AI wars just got absolutely nuclear. Google just dropped Gemini 3 Pro, and the benchmarks are honestly ridiculous. We are talking about a score of 1501 on LMArena—it is the first model to ever cross that threshold. It’s also crushing PhD-level reasoning tests with nearly 92% accuracy. But here is the wild part: they aren't just showing us a whitepaper; they are rolling this out into Workspace and Search immediately. This isn't just a chatbot update; it's a complete overhaul of their reasoning engine. If you thought GPT-4 or even the early Gemini models were good, this is claiming to be in a completely different league. I'm going to be testing this all week, but my first impression? Google is tired of being second place.",
-    "id": "A1B2C3D4",
+    "raw_text": "Okay, stop what you are doing because the AI wars just got absolutely nuclear. Google just dropped Gemini 3 Pro, and the benchmarks are honestly ridiculous. We are talking about a score of 1501 on LMArena\u2014it is the first model to ever cross that threshold. It\u2019s also crushing PhD-level reasoning tests with nearly 92% accuracy. But here is the wild part: they aren't just showing us a whitepaper; they are rolling this out into Workspace and Search immediately. This isn't just a chatbot update; it's a complete overhaul of their reasoning engine. If you thought GPT-4 or even the early Gemini models were good, this is claiming to be in a completely different league. I'm going to be testing this all week, but my first impression? Google is tired of being second place.",
+    "id": "b59c4569",
     "category": "AI",
     "companies": [
       "Google",
       "DeepMind"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/b59c4569.png",
+    "image_prompt": "A sleek, futuristic AI hub with glowing blue and silver accents, featuring holographic displays of code and data streams, surrounded by analysts and engineers in a modern workspace, conveying innovation and cutting-edge technology amid a vibrant, high-tech environment."
   },
   {
     "date": "2025-12-01",
@@ -24,23 +26,25 @@
     "summary": "Chinese AI firm DeepSeek released V3.2 and V3.2-Speciale, open-source models that reportedly match GPT-5 performance levels while reducing computational costs by 70%. The release highlights the rapid convergence of frontier model capabilities between US and Chinese tech sectors.",
     "engagement": "High",
     "raw_text": "You need to pay attention to this because the gap between US and Chinese AI is vanishing. DeepSeek just released V3.2, and they are claiming it matches GPT-5 level performance. The craziest part? It's open-source. They used a new 'Sparse Attention' mechanism that drops compute costs by 70%. Imagine getting top-tier, frontier-level intelligence for a fraction of the price of OpenAI's API. They are even claiming gold-medal level performance in math competitions. This is a massive wake-up call. If independent benchmarks verify this, the entire moat for companies like OpenAI and Google just got a lot shallower. Open source is winning, and it's coming from unexpected places.",
-    "id": "E5F6G7H8",
+    "id": "7aa7aab4",
     "category": "AI",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/7aa7aab4.png",
+    "image_prompt": "A sleek, modern data center with glowing server racks, holographic AI interfaces floating above, and a futuristic city skyline at night in the background, evoking innovation, global competition, and cutting-edge technology."
   },
   {
     "date": "2025-11-24",
-    "source_file": "Today’s AI & Tech News (Dec 10, 2025).pdf",
+    "source_file": "Today\u2019s AI & Tech News (Dec 10, 2025).pdf",
     "page": 1,
     "title": "Anthropic Releases Claude Opus 4.5: The New King of Coding?",
     "summary": "Anthropic has launched Claude Opus 4.5, a model specifically optimized for agentic workflows, complex coding, and deep research. Available across major cloud platforms, it aims to outperform previous iterations in visual and quantitative reasoning.",
     "engagement": "High",
     "raw_text": "If you are a developer, your workflow just changed. Anthropic quietly dropped Claude Opus 4.5, and they are going all-in on 'agentic' capabilities. This isn't just about writing a poem; this model is built to control computers, handle massive spreadsheets, and write complex code better than anything else on the market. Analysts are saying this marks the shift from 'chatbots' to 'specialized workers.' I've been waiting for a model that can actually handle end-to-end engineering tasks without hallucinating halfway through, and Opus 4.5 might be it. It's available on AWS and Azure right now. I'm going to put it against Cursor and GitHub Copilot to see if it really holds up.",
-    "id": "I9J0K1L2",
+    "id": "72694692",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -49,7 +53,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/72694692.png",
+    "image_prompt": "A sleek, futuristic workspace featuring a high-resolution monitor displaying complex coding and data visuals, with a user interacting intelligently, glow effects highlighting advanced tech, ambient lighting creating a focused, innovative atmosphere."
   },
   {
     "date": "2025-12-10",
@@ -58,8 +64,8 @@
     "title": "SpaceX IPO: Musk Targets $1 Trillion Valuation in 2026",
     "summary": "SpaceX is reportedly preparing for an initial public offering in mid-2026, targeting a valuation exceeding $1 trillion. The offering would encompass the Starlink satellite internet division and the commercial launch business.",
     "engagement": "High",
-    "raw_text": "Get your wallets ready, because the biggest IPO of the decade is finally on the horizon. Reports are leaking that SpaceX is targeting a mid-2026 IPO with a valuation of over one trillion dollars. Yes, trillion with a 'T'. This includes everything—the rockets, the government contracts, and the cash cow that is Starlink. Elon is essentially creating the backbone of space infrastructure, and soon you might actually be able to buy a piece of it. This is going to set a new benchmark for tech valuations. If they pull this off, it's not just a space company; it's a utility company for the entire planet... and maybe Mars.",
-    "id": "M3N4O5P6",
+    "raw_text": "Get your wallets ready, because the biggest IPO of the decade is finally on the horizon. Reports are leaking that SpaceX is targeting a mid-2026 IPO with a valuation of over one trillion dollars. Yes, trillion with a 'T'. This includes everything\u2014the rockets, the government contracts, and the cash cow that is Starlink. Elon is essentially creating the backbone of space infrastructure, and soon you might actually be able to buy a piece of it. This is going to set a new benchmark for tech valuations. If they pull this off, it's not just a space company; it's a utility company for the entire planet... and maybe Mars.",
+    "id": "2d5231f0",
     "category": "Business",
     "companies": [
       "SpaceX",
@@ -68,24 +74,28 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/2d5231f0.png",
+    "image_prompt": "A futuristic scene showing a sleek SpaceX rocket launching at dawn, with a bustling satellite ground station in the foreground, starry sky overhead, and a glowing Earth beneath, conveying innovation, ambition, and technological excellence."
   },
   {
     "date": "2025-12-10",
-    "source_file": "Today’s AI & Tech News (Dec 10, 2025).pdf",
+    "source_file": "Today\u2019s AI & Tech News (Dec 10, 2025).pdf",
     "page": 1,
     "title": "Supersonic Jet Engines Are Now Powering AI Data Centers",
     "summary": "Boom Supersonic has secured $300 million to deploy its 'Superpower' natural gas turbines for AI data centers. Derived from jet engine tech, these turbines provide reliable gigawatt-scale power without water cooling, addressing critical energy bottlenecks.",
     "engagement": "Medium",
     "raw_text": "This is one of the coolest crossovers I've seen. You know Boom Supersonic? The guys trying to bring back Concorde-style jets? Well, they realized their jet engine tech is actually perfect for... powering AI. They just raised $300 million to stick their 'Superpower' turbines into data centers. These things generate massive electricity, don't use water for cooling, and run at full capacity in extreme heat. It turns out the biggest bottleneck for AI isn't chips anymore, it's electricity. So, we are literally putting jet engines on the ground to keep ChatGPT running. It sounds sci-fi, but it makes total sense.",
-    "id": "Q7R8S9T0",
+    "id": "28bdf0a5",
     "category": "Hardware",
     "companies": [
       "Boom Supersonic",
       "Crusoe"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/28bdf0a5.png",
+    "image_prompt": "A sleek, futuristic AI data center with towering, jet-engine-inspired turbines emitting blue-tinged energy arcs, set against a clear sky; surrounding high-tech infrastructure, glowing lights, and a sense of power efficiency and innovation."
   },
   {
     "date": "2025-12-10",
@@ -95,13 +105,15 @@
     "summary": "Meta has released SAM 3D, a tool capable of reconstructing full 3D scenes from a single 2D image. This eliminates the need for multi-camera rigs, democratizing high-quality 3D modeling for creators and developers.",
     "engagement": "Medium",
     "raw_text": "Meta just changed the game for game devs and creators. They launched SAM 3D, and the demo is mind-blowing. You feed it a single, flat 2D photo, and it reconstructs a fully navigable 3D environment. No lidar, no complex camera rigs, just one picture. Imagine taking a photo of your room and instantly dropping it into a VR game or a VFX shot. This is going to democratize 3D asset creation in a way we haven't seen before. If you're into Unity or Unreal Engine, your workflow just got about ten times faster.",
-    "id": "U1V2W3X4",
+    "id": "55528298",
     "category": "AI",
     "companies": [
       "Meta"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/55528298.png",
+    "image_prompt": "A vibrant digital studio scene with a sleek computer screen displaying a 3D reconstruction from a single photo, surrounded by creative tools, modern equipment, and subtle tech glow, conveying innovation and accessible high-quality 3D modeling."
   },
   {
     "date": "2025-12-10",
@@ -110,8 +122,8 @@
     "title": "US Approves Nvidia H200 Exports to China (With a Catch)",
     "summary": "The US Dept of Commerce has green-lit the export of Nvidia H200 chips to China, reversing previous bans but limiting approval to older inventory. Chinese tech giants like ByteDance and Alibaba are scrambling to secure these limited strategic assets.",
     "engagement": "Medium",
-    "raw_text": "Massive geopolitical shift happening right now: The US government just quietly approved Nvidia to sell H200 chips to China again. But there is a massive catch—it's limited stock, and they are watching every shipment like a hawk. Companies like ByteDance and Alibaba are scrambling to buy whatever they can because they know this window might close instantly. This proves that despite all the talk of domestic chips like Huawei's, the big players still desperately need Nvidia hardware to train their models. It's a weird grey-zone moment in the chip wars.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "Massive geopolitical shift happening right now: The US government just quietly approved Nvidia to sell H200 chips to China again. But there is a massive catch\u2014it's limited stock, and they are watching every shipment like a hawk. Companies like ByteDance and Alibaba are scrambling to buy whatever they can because they know this window might close instantly. This proves that despite all the talk of domestic chips like Huawei's, the big players still desperately need Nvidia hardware to train their models. It's a weird grey-zone moment in the chip wars.",
+    "id": "a7672bcb",
     "category": "Business",
     "companies": [
       "Nvidia",
@@ -119,23 +131,27 @@
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/a7672bcb.png",
+    "image_prompt": "A sleek, modern semiconductor manufacturing facility illuminated in cool blue and white tones, with towering server racks and technicians in lab coats inspecting high-tech Nvidia H200 chips, contrasted by a backdrop of a bustling Chinese tech city skyline at dusk, conveying tension and innovation."
   },
   {
     "date": "2025-12-10",
-    "source_file": "Today’s AI & Tech News (Dec 10, 2025).pdf",
+    "source_file": "Today\u2019s AI & Tech News (Dec 10, 2025).pdf",
     "page": 1,
     "title": "Stanford Breakthrough: Quantum Computing at Room Temperature",
     "summary": "Researchers at Stanford have developed a nanophotonic device achieving quantum entanglement at room temperature. This eliminates the need for cryogenic cooling, potentially paving the way for practical, scalable quantum networks.",
     "engagement": "Medium",
     "raw_text": "Okay, this is the heavy science story of the day, but it's huge. Stanford researchers just achieved quantum entanglement at room temperature. Usually, quantum computers need to be frozen to near absolute zero to work, which makes them expensive and impossible to scale. These guys used a new 'twisted light' chip to do it without the super-freezers. This is the 'transistor moment' for quantum tech. If we can run quantum processors at room temp, we are talking about a completely different timeline for when this tech actually hits the mainstream.",
-    "id": "C9D0E1F2",
+    "id": "fab280e3",
     "category": "Science",
     "companies": [
       "Stanford University"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/fab280e3.png",
+    "image_prompt": "A sleek laboratory scene with a glowing nanophotonic device in the center, surrounded by scientists in casual tech attire examining the setup. Bright, modern background with digital data overlays, conveying innovation and breakthrough in quantum technology."
   },
   {
     "date": "2025-12-10",
@@ -145,7 +161,7 @@
     "summary": "Microsoft and Amazon have announced combined investments exceeding $50 billion in India to build AI data centers and logistics infrastructure. This marks a strategic pivot to establish India as a primary global hub for AI development outside the US and China.",
     "engagement": "Low",
     "raw_text": "We are seeing a massive shift in where the money is going. Microsoft and Amazon just committed over $50 billion combined to build AI infrastructure in India. We're talking hyperscale data centers, skilling programs, the works. It's clear that Big Tech views India not just as a market, but as the next major engine for AI compute, especially as things get tense with China. If you are in the tech scene in Bangalore or Hyderabad, things are about to get very busy.",
-    "id": "G3H4I5J6",
+    "id": "df4bd689",
     "category": "Business",
     "companies": [
       "Microsoft",
@@ -156,7 +172,9 @@
       "Satya Nadella",
       "Narendra Modi"
     ],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/df4bd689.png",
+    "image_prompt": "A bustling AI data center in India with modern server racks, engineers in safety gear walking through, vibrant city skyline in the background, illuminated by sunset hues, conveying innovation, scale, and global tech investment."
   },
   {
     "date": "2025-12-10",
@@ -165,14 +183,16 @@
     "title": "Google Faces Massive EU Antitrust Probe Over AI Content",
     "summary": "The European Commission has launched an investigation into Google's use of publisher content for AI Overviews. The probe focuses on whether Google is scraping web content without fair compensation, threatening potential fines of up to 10% of global revenue.",
     "engagement": "Low",
-    "raw_text": "Google is in hot water in Europe again. The EU just launched a massive antitrust probe into 'AI Overviews'—you know, those AI summaries that pop up at the top of search results. Publishers are furious because Google is basically scraping their content to train the AI that steals their traffic. The EU is looking into whether this breaks the internet's 'bargain.' The fines here could be up to 10% of global revenue. This case is going to decide how—or if—content creators get paid in the age of AI.",
-    "id": "K7L8M9N0",
+    "raw_text": "Google is in hot water in Europe again. The EU just launched a massive antitrust probe into 'AI Overviews'\u2014you know, those AI summaries that pop up at the top of search results. Publishers are furious because Google is basically scraping their content to train the AI that steals their traffic. The EU is looking into whether this breaks the internet's 'bargain.' The fines here could be up to 10% of global revenue. This case is going to decide how\u2014or if\u2014content creators get paid in the age of AI.",
+    "id": "38c2c0f1",
     "category": "Policy",
     "companies": [
       "Google",
       "European Commission"
     ],
     "people": [],
-    "created_at": "2025-12-10T22:13:47.000Z"
+    "created_at": "2025-12-10T22:13:47.000Z",
+    "image_url": "images/11_12_25/38c2c0f1.png",
+    "image_prompt": "A bustling office with a large screen displaying a European Union flag, surrounded by journalists and tech professionals. In the foreground, a monument of a gavel and a stack of digital data, evoking legal and digital themes, under neutral, serious lighting."
   }
 ]
