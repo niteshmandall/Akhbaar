@@ -6,7 +6,7 @@
     "title": "Disney Invests $1B in OpenAI: Mickey Mouse Meets Sora",
     "summary": "Disney has invested $1 billion in OpenAI and licensed its full IP library for the Sora video platform. The deal excludes actor likenesses but allows for the creation of content using iconic characters like Iron Man and Mickey Mouse.",
     "engagement": "High",
-    "raw_text": "Okay, this is absolutely massive. Disney just officially ended the war against AI. Instead of suing OpenAI, they just dropped a cool ONE BILLION dollars to buy a stake in the company. But here is the wild part: they are licensing their entire library—Marvel, Star Wars, Pixar, everything—directly into Sora. Imagine typing 'Iron Man fighting Darth Vader' and getting an official, high-fidelity clip generated instantly. They’ve drawn a line in the sand though: no deepfaking human actors. But for animators and VFX artists? This is a game-changer, and frankly, a little terrifying for the industry. The 'Clean AI' era is here, and Disney is building the moat.",
+    "raw_text": "Okay, this is absolutely massive. Disney just officially ended the war against AI. Instead of suing OpenAI, they just dropped a cool ONE BILLION dollars to buy a stake in the company. But here is the wild part: they are licensing their entire library\u2014Marvel, Star Wars, Pixar, everything\u2014directly into Sora. Imagine typing 'Iron Man fighting Darth Vader' and getting an official, high-fidelity clip generated instantly. They\u2019ve drawn a line in the sand though: no deepfaking human actors. But for animators and VFX artists? This is a game-changer, and frankly, a little terrifying for the industry. The 'Clean AI' era is here, and Disney is building the moat.",
     "id": "A1B2C3D4E5",
     "category": "Business",
     "companies": [
@@ -14,16 +14,18 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/A1B2C3D4E5.png",
+    "image_prompt": "A vibrant digital scene showing a sleek, modern newsroom with a large high-resolution monitor displaying animated characters like Mickey Mouse, Iron Man, and Sora connecting via holographic lines in a futuristic setting, conveying innovation and excitement."
   },
   {
     "date": "2025-12-11",
-    "source_file": "Today’s Tech News (December 11, 2025).pdf",
+    "source_file": "Today\u2019s Tech News (December 11, 2025).pdf",
     "page": 1,
     "title": "OpenAI Declares 'Code Red' to Rush GPT-5.2 Launch",
     "summary": "OpenAI has initiated a 'Code Red' protocol, delaying other projects to fast-track the release of GPT-5.2. This move is a direct response to Google's Gemini 3, which has reportedly outperformed current models.",
     "engagement": "High",
-    "raw_text": "The AI wars just got personal. Sam Altman has apparently hit the big red button at OpenAI. Reports are coming in that they’ve declared a literal 'Code Red' internally. Why? Because Google's Gemini 3 is apparently so good that it spooked them. OpenAI is now delaying ad platforms and other features to shove GPT-5.2 out the door immediately. We're talking about a focus on 'reasoning' and 'reliability'—basically trying to prove they are still the kings of the hill. If you thought things were slowing down, you're wrong. We are about to see another massive leap in model capabilities in like... days.",
+    "raw_text": "The AI wars just got personal. Sam Altman has apparently hit the big red button at OpenAI. Reports are coming in that they\u2019ve declared a literal 'Code Red' internally. Why? Because Google's Gemini 3 is apparently so good that it spooked them. OpenAI is now delaying ad platforms and other features to shove GPT-5.2 out the door immediately. We're talking about a focus on 'reasoning' and 'reliability'\u2014basically trying to prove they are still the kings of the hill. If you thought things were slowing down, you're wrong. We are about to see another massive leap in model capabilities in like... days.",
     "id": "F6G7H8I9J0",
     "category": "AI",
     "companies": [
@@ -34,7 +36,9 @@
       "Sam Altman",
       "Sundar Pichai"
     ],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/F6G7H8I9J0.png",
+    "image_prompt": "A sleek, high-tech server room illuminated by blue and red lights, screens displaying code and data streams, a large digital clock counting down, tensioned engineers in dark attire analyzing the environment, conveying urgency and high stakes."
   },
   {
     "date": "2025-12-11",
@@ -43,7 +47,7 @@
     "title": "Elon Musk Claims Fully Driverless Robotaxis in 3 Weeks",
     "summary": "Elon Musk announced that Tesla will remove safety monitors from robotaxis in Austin within three weeks. He stated that 'unsupervised' autonomous driving is effectively solved.",
     "engagement": "High",
-    "raw_text": "Alright, buckle up because Elon is making promises again. He just told a hackathon crowd that Tesla is removing the safety drivers from their Robotaxis in Austin in just THREE WEEKS. He literally said, 'Unsupervised is pretty much solved.' Now, we've heard 'two weeks' or 'next month' from Elon for about a decade, but this specific timeline for removing human monitors is aggressive even for him. If this actually happens, it’s the end of the beta era. If it doesn't... well, it's just another Tuesday for Tesla shareholders.",
+    "raw_text": "Alright, buckle up because Elon is making promises again. He just told a hackathon crowd that Tesla is removing the safety drivers from their Robotaxis in Austin in just THREE WEEKS. He literally said, 'Unsupervised is pretty much solved.' Now, we've heard 'two weeks' or 'next month' from Elon for about a decade, but this specific timeline for removing human monitors is aggressive even for him. If this actually happens, it\u2019s the end of the beta era. If it doesn't... well, it's just another Tuesday for Tesla shareholders.",
     "id": "K1L2M3N4O5",
     "category": "Automotive",
     "companies": [
@@ -53,7 +57,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/K1L2M3N4O5.png",
+    "image_prompt": "A sleek Tesla robotaxi on a city street at dusk, illuminated by streetlights and neon signs, with a futuristic, autonomous vehicle design. The background shows a busy urban scene with skyscrapers, pedestrians, and a clear sky hinting at advanced technology and innovation."
   },
   {
     "date": "2025-12-11",
@@ -69,7 +75,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/P6Q7R8S9T0.png",
+    "image_prompt": "A bustling Apple Store opening in Noida with modern glass architecture, excited crowds, sleek display tables showcasing the latest iPad Pro and 14-inch MacBook Pro, subtle hints of Apple branding, vibrant lighting, high clarity, energetic and anticipatory mood."
   },
   {
     "date": "2025-12-11",
@@ -78,7 +86,7 @@
     "title": "DeepSeek V3.2 Crushes AI Pricing with 'Thinking' Models",
     "summary": "Chinese lab DeepSeek released V3.2, introducing 'Sparse Attention' to drastically reduce compute costs. The model features a distinct 'thinking' mode for complex logic, undercutting Western competitors.",
     "engagement": "Medium",
-    "raw_text": "You need to pay attention to what's coming out of China right now. DeepSeek just dropped V3.2, and it's doing something really smart called 'Sparse Attention.' Basically, instead of the AI looking at everything all at once, it only activates the neurons it needs. The result? It's dirt cheap to run. They also split the model into a fast 'Chat' mode and a slow 'Reasoner' mode—basically copying how the human brain works with System 1 and System 2 thinking. While the West is building massive $100 billion supercomputers, DeepSeek is proving you can compete just by writing more efficient code.",
+    "raw_text": "You need to pay attention to what's coming out of China right now. DeepSeek just dropped V3.2, and it's doing something really smart called 'Sparse Attention.' Basically, instead of the AI looking at everything all at once, it only activates the neurons it needs. The result? It's dirt cheap to run. They also split the model into a fast 'Chat' mode and a slow 'Reasoner' mode\u2014basically copying how the human brain works with System 1 and System 2 thinking. While the West is building massive $100 billion supercomputers, DeepSeek is proving you can compete just by writing more efficient code.",
     "id": "U1V2W3X4Y5",
     "category": "AI",
     "companies": [
@@ -88,7 +96,9 @@
     "people": [
       "Liang Wenfeng"
     ],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/U1V2W3X4Y5.png",
+    "image_prompt": "A sleek AI researcher presenting a futuristic digital interface with glowing blue and green neural network graphics, symbolizing efficient \"thinking\" models, with a modern lab background and a confident expression, conveying innovation and technological breakthrough."
   },
   {
     "date": "2025-12-11",
@@ -97,7 +107,7 @@
     "title": "Boston Dynamics & Toyota Reveal 'Large Behavior Model' for Robots",
     "summary": "Boston Dynamics and Toyota demonstrated an Atlas robot powered by a 'Large Behavior Model' (LBM). This allows the robot to learn complex, continuous tasks via demonstration rather than manual coding.",
     "engagement": "High",
-    "raw_text": "We've had Large Language Models (LLMs) for text, but now we have LBMs—Large Behavior Models—for robots. Boston Dynamics and Toyota just showed off the Atlas robot running on this new system. Instead of coding 'lift leg, move arm,' the AI controls the whole body fluently, just like a human. They showed it doing long, complex tasks without that robotic 'pause-and-think' motion we're used to. This is the moment robotics moves from 'cool demo' to 'actually useful worker.' If the software can finally keep up with the hardware, the humanoid revolution is actually happening.",
+    "raw_text": "We've had Large Language Models (LLMs) for text, but now we have LBMs\u2014Large Behavior Models\u2014for robots. Boston Dynamics and Toyota just showed off the Atlas robot running on this new system. Instead of coding 'lift leg, move arm,' the AI controls the whole body fluently, just like a human. They showed it doing long, complex tasks without that robotic 'pause-and-think' motion we're used to. This is the moment robotics moves from 'cool demo' to 'actually useful worker.' If the software can finally keep up with the hardware, the humanoid revolution is actually happening.",
     "id": "Z6A7B8C9D0",
     "category": "Robotics",
     "companies": [
@@ -105,7 +115,9 @@
       "Toyota Research Institute"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/Z6A7B8C9D0.png",
+    "image_prompt": "A sleek Boston Dynamics Atlas robot, mid-action, in a modern, high-tech demonstration lab with Toyota branding in the background, showcasing agility and intelligence, with dynamic lighting highlighting its advanced features in a realistic, high-resolution scene."
   },
   {
     "date": "2025-12-11",
@@ -114,7 +126,7 @@
     "title": "Google Quantum AI Hits 13,000x Speedup",
     "summary": "Google's Quantum AI division used a 65-qubit processor to perform a physics simulation 13,000 times faster than the world's fastest supercomputer, Frontier. They utilized a new 'Quantum Echoes' algorithm.",
     "engagement": "Medium",
-    "raw_text": "Google just dropped a mic on the physics world. Their quantum computer didn't just beat a supercomputer; it smoked it by a factor of 13,000. They used a 65-qubit processor to run a simulation that would take the Frontier supercomputer—currently the fastest on Earth—years to finish. They call the technique 'Quantum Echoes.' This isn't just theory anymore; they are starting to do calculations that are literally impossible for classical computers. We are inching closer to the point where encryption breaks and materials science goes exponential.",
+    "raw_text": "Google just dropped a mic on the physics world. Their quantum computer didn't just beat a supercomputer; it smoked it by a factor of 13,000. They used a 65-qubit processor to run a simulation that would take the Frontier supercomputer\u2014currently the fastest on Earth\u2014years to finish. They call the technique 'Quantum Echoes.' This isn't just theory anymore; they are starting to do calculations that are literally impossible for classical computers. We are inching closer to the point where encryption breaks and materials science goes exponential.",
     "id": "E1F2G3H4I5",
     "category": "Science",
     "companies": [
@@ -122,7 +134,9 @@
       "Google Quantum AI"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/E1F2G3H4I5.png",
+    "image_prompt": "A sleek, high-tech laboratory scene featuring a large, glowing 65-qubit quantum processor with intricate circuits and luminous blue energy pulses, surrounded by scientists in futuristic attire, amidst data streams and holographic displays, conveying innovation and cutting-edge science."
   },
   {
     "date": "2025-12-11",
@@ -139,7 +153,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/J6K7L8M9N0.png",
+    "image_prompt": "A sleek, modern workspace with a user interacting with a large digital screen displaying vibrant images and video previews. The background features subtle Adobe branding, seamlessly blending technology and creativity, illuminated by soft, professional lighting."
   },
   {
     "date": "2025-12-11",
@@ -148,7 +164,7 @@
     "title": "Oracle Stock Plummets 11% Despite $523B AI Backlog",
     "summary": "Oracle shares dropped over 11% after reporting a revenue miss, despite a massive $523 billion backlog. The market is reacting negatively to a forecasted $50 billion capital expenditure plan.",
     "engagement": "Low",
-    "raw_text": "If you hold tech stocks, don't look at your portfolio today. Oracle just tanked 11%, and it dragged Nvidia and AMD down with it. Here is the crazy part: they have 500 BILLION dollars in signed contracts (backlog). But Wall Street is freaking out because Oracle plans to spend $50 billion building data centers before they actually see that cash. It's the classic 'AI Bubble' fear—investors are worried that companies are spending too much cash on GPUs today for profits that might not show up for years. The infrastructure bill is coming due.",
+    "raw_text": "If you hold tech stocks, don't look at your portfolio today. Oracle just tanked 11%, and it dragged Nvidia and AMD down with it. Here is the crazy part: they have 500 BILLION dollars in signed contracts (backlog). But Wall Street is freaking out because Oracle plans to spend $50 billion building data centers before they actually see that cash. It's the classic 'AI Bubble' fear\u2014investors are worried that companies are spending too much cash on GPUs today for profits that might not show up for years. The infrastructure bill is coming due.",
     "id": "O1P2Q3R4S5",
     "category": "Finance",
     "companies": [
@@ -157,7 +173,9 @@
       "AMD"
     ],
     "people": [],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/O1P2Q3R4S5.png",
+    "image_prompt": "A bustling stock exchange trading floor with digital screens displaying downward-trending graphs, focused on a large LED board showing an 11% drop, surrounded by diverse traders in business attire, conveying tension and uncertainty under bright fluorescent lighting."
   },
   {
     "date": "2025-12-11",
@@ -166,7 +184,7 @@
     "title": "DeepMind Launches 'AI for Science' Lab in UK",
     "summary": "Google DeepMind is establishing a fully automated 'AI for Science' laboratory in the UK. The facility will use AI to discover and synthesize new materials for clean energy and computing.",
     "engagement": "Medium",
-    "raw_text": "Google DeepMind is building a lab in the UK, but no humans are going to be working there. Well, mostly robots. They announced a new 'AI for Science' facility where AI models will dream up new materials—like better battery components or solar cells—and robotic arms will actually mix the chemicals and test them in real life. It's a closed loop: AI invents, robot tests, AI learns. This is how we get to the next level of physics and energy storage. It opens in 2026, and it's basically the future of scientific discovery.",
+    "raw_text": "Google DeepMind is building a lab in the UK, but no humans are going to be working there. Well, mostly robots. They announced a new 'AI for Science' facility where AI models will dream up new materials\u2014like better battery components or solar cells\u2014and robotic arms will actually mix the chemicals and test them in real life. It's a closed loop: AI invents, robot tests, AI learns. This is how we get to the next level of physics and energy storage. It opens in 2026, and it's basically the future of scientific discovery.",
     "id": "T6U7V8W9X0",
     "category": "Science",
     "companies": [
@@ -175,6 +193,8 @@
     "people": [
       "Demis Hassabis"
     ],
-    "created_at": "2025-12-11T21:25:02.000Z"
+    "created_at": "2025-12-11T21:25:02.000Z",
+    "image_url": "images/12_12_25/T6U7V8W9X0.png",
+    "image_prompt": "A sleek, modern laboratory with glass walls and advanced AI equipment, scientists in lab coats monitoring interactive digital displays, bright ambient lighting emphasizing innovation and discovery, set in a high-tech UK research facility with a focus on clean energy and new material synthesis."
   }
 ]
