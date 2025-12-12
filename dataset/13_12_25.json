@@ -6,7 +6,7 @@
     "title": "OpenAI Drops GPT-5.2: The \"Thinking\" Model That Replaces Workers",
     "summary": "OpenAI has released GPT-5.2 with three variants: Instant, Thinking, and Pro, introducing 'inference-time reasoning' to reduce hallucinations. The model achieves a 70.9% score on the new GDPval benchmark, indicating it can perform nearly 71% of standardized economic tasks.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you're doing. OpenAI just dropped GPT-5.2, and this isn't just another chatbot update—it's a fundamental shift. They've split the model into three brains: Instant, Thinking, and Pro. The 'Thinking' model is the real game-changer. It literally pauses to create a hidden 'chain of thought' before it answers you, which basically kills those annoying hallucinations we're used to. But here's the wild part: they introduced a new metric called 'GDPval.' It measures economic utility, not just test scores. GPT-5.2 scored nearly 71%, meaning it can theoretically do 71% of the tasks in a standard white-collar economy. We are officially leaving the 'chatbot' era and entering the 'digital labor' era. Honestly, this is huge.",
+    "raw_text": "Okay, stop what you're doing. OpenAI just dropped GPT-5.2, and this isn't just another chatbot update\u2014it's a fundamental shift. They've split the model into three brains: Instant, Thinking, and Pro. The 'Thinking' model is the real game-changer. It literally pauses to create a hidden 'chain of thought' before it answers you, which basically kills those annoying hallucinations we're used to. But here's the wild part: they introduced a new metric called 'GDPval.' It measures economic utility, not just test scores. GPT-5.2 scored nearly 71%, meaning it can theoretically do 71% of the tasks in a standard white-collar economy. We are officially leaving the 'chatbot' era and entering the 'digital labor' era. Honestly, this is huge.",
     "id": "gpt52_release_2025",
     "category": "AI",
     "companies": [
@@ -16,7 +16,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-12T10:55:53+05:30"
+    "created_at": "2025-12-12T10:55:53+05:30",
+    "image_url": "images/13_12_25/gpt52_release_2025.png",
+    "image_prompt": "A modern newsroom with a large digital screen displaying AI code and graphs, diverse professionals collaborating intently, a sleek AI device at center, vibrant lighting emphasizing innovation, conveying high-tech urgency and breakthrough."
   },
   {
     "date": "2025-12-12",
@@ -25,7 +27,7 @@
     "title": "Google \"Disco\" Just Killed the Web Browser",
     "summary": "Google has unveiled \"Disco,\" an experimental browser powered by Gemini 3 that generates custom applications on the fly instead of opening tabs. The \"GenTabs\" feature analyzes user intent to build unified interfaces, potentially disintermediating traditional websites.",
     "engagement": "High",
-    "raw_text": "So, Google might have just killed the website as we know it. They launched this new experimental browser called 'Disco,' and it's insane. You know how you usually open ten tabs to book a trip—flights, hotels, maps? Disco doesn't do that. It uses Gemini 3 to look at what you're trying to do and literally *codes* a custom app for you right there in the tab. It's called 'GenTabs.' You're not visiting websites anymore; you're visiting a Google-generated interface that pulls data *from* the websites. For us users? It's amazing. For publishers and website owners? It's an absolute nightmare. This is the 'Generative UI' revolution we've been hearing about.",
+    "raw_text": "So, Google might have just killed the website as we know it. They launched this new experimental browser called 'Disco,' and it's insane. You know how you usually open ten tabs to book a trip\u2014flights, hotels, maps? Disco doesn't do that. It uses Gemini 3 to look at what you're trying to do and literally *codes* a custom app for you right there in the tab. It's called 'GenTabs.' You're not visiting websites anymore; you're visiting a Google-generated interface that pulls data *from* the websites. For us users? It's amazing. For publishers and website owners? It's an absolute nightmare. This is the 'Generative UI' revolution we've been hearing about.",
     "id": "google_disco_launch",
     "category": "Software",
     "companies": [
@@ -33,7 +35,9 @@
       "Google DeepMind"
     ],
     "people": [],
-    "created_at": "2025-12-12T10:55:53+05:30"
+    "created_at": "2025-12-12T10:55:53+05:30",
+    "image_url": "images/13_12_25/google_disco_launch.png",
+    "image_prompt": "A sleek, futuristic computer interface displaying a holographic 3D globe with interconnected nodes, a user interacting with floating, dynamic application windows, glowing neon accents, conveying innovation and a shift from traditional browsing in a high-tech newsroom setting."
   },
   {
     "date": "2025-12-11",
@@ -42,7 +46,7 @@
     "title": "Disney Invests $1 Billion in OpenAI: Star Wars AI is Here",
     "summary": "Disney has invested $1 billion in OpenAI, granting the AI firm access to its library of IP including Star Wars, Marvel, and Pixar for training the Sora video model. The partnership aims to enable 'Sanctioned Fan Fiction' within strict legal guardrails.",
     "engagement": "High",
-    "raw_text": "This is the crossover we didn't know we needed, but wow. Disney just dropped a massive ONE BILLION dollar investment into OpenAI. And it's not just for equity—they are actually licensing the Crown Jewels. I'm talking Star Wars, Marvel, Pixar. They're feeding all that content into OpenAI's Sora video model. The goal? 'Sanctioned Fan Fiction.' Imagine paying a subscription to generate your own legit Iron Man short film or a Mickey Mouse clip, all legal and high-quality. While everyone else is getting sued for copyright, OpenAI just bought the ultimate data moat. The 'Premium Web' is officially here, and it's paywalled.",
+    "raw_text": "This is the crossover we didn't know we needed, but wow. Disney just dropped a massive ONE BILLION dollar investment into OpenAI. And it's not just for equity\u2014they are actually licensing the Crown Jewels. I'm talking Star Wars, Marvel, Pixar. They're feeding all that content into OpenAI's Sora video model. The goal? 'Sanctioned Fan Fiction.' Imagine paying a subscription to generate your own legit Iron Man short film or a Mickey Mouse clip, all legal and high-quality. While everyone else is getting sued for copyright, OpenAI just bought the ultimate data moat. The 'Premium Web' is officially here, and it's paywalled.",
     "id": "disney_openai_deal",
     "category": "Business",
     "companies": [
@@ -50,7 +54,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-12T10:55:53+05:30"
+    "created_at": "2025-12-12T10:55:53+05:30",
+    "image_url": "images/13_12_25/disney_openai_deal.png",
+    "image_prompt": "A sleek, modern newsroom scene featuring a large digital screen displaying a futuristic logo combining Disney, OpenAI, and Star Wars motifs, with diverse professionals analyzing data nearby; vibrant, high-tech atmosphere with dynamic lighting."
   },
   {
     "date": "2025-12-12",
@@ -59,7 +65,7 @@
     "title": "Runway GWM-1: The AI That Simulates Physics",
     "summary": "Runway has released GWM-1 (General World Model), an AI that moves beyond video generation to physics simulation. The model predicts future states based on implicit physical laws, allowing for the creation of interactive 3D environments and synthetic data for robotics.",
     "engagement": "Medium",
-    "raw_text": "Runway is done just making pretty videos. They just released GWM-1, and they're calling it a 'General World Model.' Here's the difference: normal AI video generators just guess where pixels go. GWM-1 actually understands the physics behind them. It knows that if you drop a glass, it shatters. It understands gravity and collision. This isn't just for movies—they're using it to train robots in simulated burning buildings and to create interactive 3D worlds. It's basically an infinite game engine that runs on AI dreaming. If you're into game dev or robotics, this is the breakthrough you've been waiting for.",
+    "raw_text": "Runway is done just making pretty videos. They just released GWM-1, and they're calling it a 'General World Model.' Here's the difference: normal AI video generators just guess where pixels go. GWM-1 actually understands the physics behind them. It knows that if you drop a glass, it shatters. It understands gravity and collision. This isn't just for movies\u2014they're using it to train robots in simulated burning buildings and to create interactive 3D worlds. It's basically an infinite game engine that runs on AI dreaming. If you're into game dev or robotics, this is the breakthrough you've been waiting for.",
     "id": "runway_gwm1_launch",
     "category": "AI",
     "companies": [
@@ -95,7 +101,7 @@
     "title": "New App Diagnoses Anemia with a Fingernail Selfie",
     "summary": "A study from Chapman University reveals a new smartphone app that uses AI to screen for anemia by analyzing photos of fingernail beds. The app has achieved accuracy comparable to lab tests across 1.4 million screenings.",
     "engagement": "High",
-    "raw_text": "Check this out—you can now diagnose anemia just by taking a picture of your fingernails. Researchers at Chapman University built an AI app that analyzes the color of your nail beds to estimate hemoglobin levels, and it's getting results comparable to actual blood tests. It's already been used 1.4 million times. The coolest part? It gets 50% more accurate when you calibrate it with your own data over time. This is exactly what we mean when we talk about AI democratizing healthcare. No needles, no labs, just a selfie.",
+    "raw_text": "Check this out\u2014you can now diagnose anemia just by taking a picture of your fingernails. Researchers at Chapman University built an AI app that analyzes the color of your nail beds to estimate hemoglobin levels, and it's getting results comparable to actual blood tests. It's already been used 1.4 million times. The coolest part? It gets 50% more accurate when you calibrate it with your own data over time. This is exactly what we mean when we talk about AI democratizing healthcare. No needles, no labs, just a selfie.",
     "id": "anemia_fingernail_app",
     "category": "Science",
     "companies": [
@@ -171,6 +177,8 @@
     "people": [
       "Dario Amodei"
     ],
-    "created_at": "2025-12-12T10:55:53+05:30"
+    "created_at": "2025-12-12T10:55:53+05:30",
+    "image_url": "images/13_12_25/claude_opus_45.png",
+    "image_prompt": "A sleek, modern tech workspace with multiple high-resolution monitors displaying code snippets and AI interfaces, illuminated by soft ambient lighting, conveying innovation, focus, and advanced coding technology in a professional environment."
   }
 ]
