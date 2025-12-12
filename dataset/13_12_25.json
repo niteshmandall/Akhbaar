@@ -1,0 +1,176 @@
+[
+  {
+    "date": "2025-12-12",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "OpenAI Drops GPT-5.2: The \"Thinking\" Model That Replaces Workers",
+    "summary": "OpenAI has released GPT-5.2 with three variants: Instant, Thinking, and Pro, introducing 'inference-time reasoning' to reduce hallucinations. The model achieves a 70.9% score on the new GDPval benchmark, indicating it can perform nearly 71% of standardized economic tasks.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you're doing. OpenAI just dropped GPT-5.2, and this isn't just another chatbot update—it's a fundamental shift. They've split the model into three brains: Instant, Thinking, and Pro. The 'Thinking' model is the real game-changer. It literally pauses to create a hidden 'chain of thought' before it answers you, which basically kills those annoying hallucinations we're used to. But here's the wild part: they introduced a new metric called 'GDPval.' It measures economic utility, not just test scores. GPT-5.2 scored nearly 71%, meaning it can theoretically do 71% of the tasks in a standard white-collar economy. We are officially leaving the 'chatbot' era and entering the 'digital labor' era. Honestly, this is huge.",
+    "id": "gpt52_release_2025",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Databricks"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Combined",
+    "page": 5,
+    "title": "Google \"Disco\" Just Killed the Web Browser",
+    "summary": "Google has unveiled \"Disco,\" an experimental browser powered by Gemini 3 that generates custom applications on the fly instead of opening tabs. The \"GenTabs\" feature analyzes user intent to build unified interfaces, potentially disintermediating traditional websites.",
+    "engagement": "High",
+    "raw_text": "So, Google might have just killed the website as we know it. They launched this new experimental browser called 'Disco,' and it's insane. You know how you usually open ten tabs to book a trip—flights, hotels, maps? Disco doesn't do that. It uses Gemini 3 to look at what you're trying to do and literally *codes* a custom app for you right there in the tab. It's called 'GenTabs.' You're not visiting websites anymore; you're visiting a Google-generated interface that pulls data *from* the websites. For us users? It's amazing. For publishers and website owners? It's an absolute nightmare. This is the 'Generative UI' revolution we've been hearing about.",
+    "id": "google_disco_launch",
+    "category": "Software",
+    "companies": [
+      "Google",
+      "Google DeepMind"
+    ],
+    "people": [],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-11",
+    "source_file": "Combined",
+    "page": 8,
+    "title": "Disney Invests $1 Billion in OpenAI: Star Wars AI is Here",
+    "summary": "Disney has invested $1 billion in OpenAI, granting the AI firm access to its library of IP including Star Wars, Marvel, and Pixar for training the Sora video model. The partnership aims to enable 'Sanctioned Fan Fiction' within strict legal guardrails.",
+    "engagement": "High",
+    "raw_text": "This is the crossover we didn't know we needed, but wow. Disney just dropped a massive ONE BILLION dollar investment into OpenAI. And it's not just for equity—they are actually licensing the Crown Jewels. I'm talking Star Wars, Marvel, Pixar. They're feeding all that content into OpenAI's Sora video model. The goal? 'Sanctioned Fan Fiction.' Imagine paying a subscription to generate your own legit Iron Man short film or a Mickey Mouse clip, all legal and high-quality. While everyone else is getting sued for copyright, OpenAI just bought the ultimate data moat. The 'Premium Web' is officially here, and it's paywalled.",
+    "id": "disney_openai_deal",
+    "category": "Business",
+    "companies": [
+      "Disney",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Combined",
+    "page": 6,
+    "title": "Runway GWM-1: The AI That Simulates Physics",
+    "summary": "Runway has released GWM-1 (General World Model), an AI that moves beyond video generation to physics simulation. The model predicts future states based on implicit physical laws, allowing for the creation of interactive 3D environments and synthetic data for robotics.",
+    "engagement": "Medium",
+    "raw_text": "Runway is done just making pretty videos. They just released GWM-1, and they're calling it a 'General World Model.' Here's the difference: normal AI video generators just guess where pixels go. GWM-1 actually understands the physics behind them. It knows that if you drop a glass, it shatters. It understands gravity and collision. This isn't just for movies—they're using it to train robots in simulated burning buildings and to create interactive 3D worlds. It's basically an infinite game engine that runs on AI dreaming. If you're into game dev or robotics, this is the breakthrough you've been waiting for.",
+    "id": "runway_gwm1_launch",
+    "category": "AI",
+    "companies": [
+      "Runway"
+    ],
+    "people": [],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Tech News Highlights_ December 12, 2025.pdf",
+    "page": 7,
+    "title": "SpaceX & Blue Origin Building Data Centers in Orbit",
+    "summary": "Jeff Bezos' Blue Origin and Elon Musk's SpaceX are both developing orbital data centers to bypass terrestrial power and cooling limits. Blue Origin is hiring for space-hardened computing, while SpaceX plans to equip Starlink satellites with AI compute payloads.",
+    "engagement": "High",
+    "raw_text": "Bezos and Musk are taking the cloud... literally to the clouds. Both Blue Origin and SpaceX have leaked plans to build massive data centers in orbit. Why? Two reasons: 24/7 solar power and zero cooling bills because, well, space is freezing. Musk is planning to put AI compute chips directly onto Starlink satellites, and Blue Origin is building radiation-hardened server racks. We're running out of power on Earth for AI, so the billionaires are moving the servers to space. It sounds like sci-fi, but the hardware recruiting has already started. The Space Race 2.0 is about compute, not just rockets.",
+    "id": "space_data_centers",
+    "category": "Hardware",
+    "companies": [
+      "Blue Origin",
+      "SpaceX"
+    ],
+    "people": [
+      "Jeff Bezos",
+      "Elon Musk"
+    ],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Tech News Highlights_ December 12, 2025.pdf",
+    "page": 1,
+    "title": "New App Diagnoses Anemia with a Fingernail Selfie",
+    "summary": "A study from Chapman University reveals a new smartphone app that uses AI to screen for anemia by analyzing photos of fingernail beds. The app has achieved accuracy comparable to lab tests across 1.4 million screenings.",
+    "engagement": "High",
+    "raw_text": "Check this out—you can now diagnose anemia just by taking a picture of your fingernails. Researchers at Chapman University built an AI app that analyzes the color of your nail beds to estimate hemoglobin levels, and it's getting results comparable to actual blood tests. It's already been used 1.4 million times. The coolest part? It gets 50% more accurate when you calibrate it with your own data over time. This is exactly what we mean when we talk about AI democratizing healthcare. No needles, no labs, just a selfie.",
+    "id": "anemia_fingernail_app",
+    "category": "Science",
+    "companies": [
+      "Chapman University"
+    ],
+    "people": [],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Tech News Highlights_ December 12, 2025.pdf",
+    "page": 3,
+    "title": "Trump Signs Executive Order to Crush State AI Laws",
+    "summary": "President Trump has signed an executive order directing federal agencies to preempt state-level AI regulations in favor of a unified national framework. The move aims to prevent a patchwork of local laws but faces criticism for potentially creating legal limbo.",
+    "engagement": "High",
+    "raw_text": "Trump just signed a massive Executive Order on AI, and he's effectively telling the states to back off. The order is designed to stop places like California from making their own strict AI safety rules. He wants one single national playbook. The goal is to stop a 'patchwork' of laws that makes it hard for startups to build, but critics are saying it's going to cause a messy legal battle between the Feds and the states. Love it or hate it, the 'Wild West' era of AI regulation is officially ending. The Feds are taking the wheel.",
+    "id": "trump_ai_eo",
+    "category": "Business",
+    "companies": [],
+    "people": [
+      "Donald Trump"
+    ],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Combined",
+    "page": 7,
+    "title": "Google DeepMind Builds Automated Scientist in UK",
+    "summary": "Google DeepMind is constructing a fully automated materials science laboratory in the UK, set to go online in 2026. The facility will use AI to hypothesize new materials and robots to synthesize and test them in a closed loop 24/7.",
+    "engagement": "Medium",
+    "raw_text": "Google is building a scientist that never sleeps. DeepMind just announced a fully automated lab in the UK where AI designs new materials and robots actually mix the chemicals and test them. It's a closed loop: the AI predicts a superconductor, the robot builds it, the AI learns from the result, and repeats. It runs 24/7. We're talking about accelerating science by orders of magnitude. This isn't just software anymore; AI is starting to manipulate the physical world to invent new tech.",
+    "id": "deepmind_auto_lab",
+    "category": "Science",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [
+      "Demis Hassabis"
+    ],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Tech News Highlights_ December 12, 2025.pdf",
+    "page": 1,
+    "title": "Stanford Debuts Revolutionary 3D AI Chip",
+    "summary": "Stanford engineers have unveiled a US-built monolithic 3D AI chip that stacks computing layers vertically. The design increases throughput by 4x and could lead to 100-1000x improvements in energy efficiency by reducing data travel distance.",
+    "engagement": "Medium",
+    "raw_text": "Hardware nerds, listen up. Stanford just built a monolithic 3D AI chip right here in a US foundry. Instead of laying transistors flat like a pancake, they're stacking them like a skyscraper. This cuts down the distance data has to travel, which is the biggest bottleneck in AI right now. Early tests show 4x better performance, but simulations say this architecture could eventually be 1,000 times more efficient. This is the blueprint for how we keep Moore's Law alive in the AI age.",
+    "id": "stanford_3d_chip",
+    "category": "Hardware",
+    "companies": [
+      "Stanford University",
+      "SkyWater Tech"
+    ],
+    "people": [],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  },
+  {
+    "date": "2025-12-12",
+    "source_file": "Act as a top-tier tech news aggregator and researc (30).pdf",
+    "page": 3,
+    "title": "Anthropic Releases Claude Opus 4.5 for Coders",
+    "summary": "Anthropic has released Claude Opus 4.5, positioning it as the industry's most capable model for coding and agentic tasks. It features a 200K context window and superior performance in autonomous software engineering benchmarks.",
+    "engagement": "Medium",
+    "raw_text": "If you write code, you need to see this. Anthropic just dropped Claude Opus 4.5, and they are gunning for the developer crown. It's got a massive 200k context window and it's specifically tuned for 'long-horizon' coding tasks. They claim it can iterate on its own code and fix bugs way faster than GPT-4. While OpenAI is chasing the general public, Anthropic is doubling down on being the best pair programmer on the planet. If you're tired of debugging, this might be your new best friend.",
+    "id": "claude_opus_45",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [
+      "Dario Amodei"
+    ],
+    "created_at": "2025-12-12T10:55:53+05:30"
+  }
+]
