@@ -6,7 +6,7 @@
     "title": "Disney Invests $1B in OpenAI: Mickey Mouse Comes to Sora",
     "summary": "In a historic $1 billion deal, Disney has partnered with OpenAI to license over 200 characters (including Star Wars and Marvel) for use in the Sora video model. Simultaneously, Disney has issued cease-and-desist orders against Google for unauthorized use of its IP in the Veo and Imagen models.",
     "engagement": "High",
-    "raw_text": "You guys, the entertainment industry just changed forever. Disney—yes, the Mouse House—just dropped a massive one billion dollar investment into OpenAI. But here's the wild part: they aren't just writing a check. They are officially licensing over 200 of their biggest characters to be used in Sora. We're talking Star Wars, Marvel, and Mickey Mouse, all legally available inside OpenAI's video generator. Imagine generating your own Star Wars scenes that actually look official! But there's a catch—Disney is building a 'walled garden,' so this content will likely be exclusive to Disney+ or specific apps. And get this: at the exact same time, they are suing Google for 'hallucinating' Mickey Mouse in their AI models. It's a total power move: pay up like OpenAI, or get sued like Google. The AI copyright wars have officially begun.",
+    "raw_text": "You guys, the entertainment industry just changed forever. Disney\u2014yes, the Mouse House\u2014just dropped a massive one billion dollar investment into OpenAI. But here's the wild part: they aren't just writing a check. They are officially licensing over 200 of their biggest characters to be used in Sora. We're talking Star Wars, Marvel, and Mickey Mouse, all legally available inside OpenAI's video generator. Imagine generating your own Star Wars scenes that actually look official! But there's a catch\u2014Disney is building a 'walled garden,' so this content will likely be exclusive to Disney+ or specific apps. And get this: at the exact same time, they are suing Google for 'hallucinating' Mickey Mouse in their AI models. It's a total power move: pay up like OpenAI, or get sued like Google. The AI copyright wars have officially begun.",
     "id": "25502f4c",
     "category": "Business",
     "companies": [
@@ -18,11 +18,13 @@
       "Bob Iger",
       "Sam Altman"
     ],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/25502f4c.png",
+    "image_prompt": "A sleek modern newsroom with a large digital screen displaying Disney and OpenAI logos, featuring a vibrant montage of Mickey Mouse, Sora, Star Wars, and Marvel characters, illuminated by dynamic blue and gold lighting, conveying innovation and high-stakes collaboration."
   },
   {
     "date": "2025-12-15",
-    "source_file": "Today’s Tech & AI News (Dec 15, 2025).pdf",
+    "source_file": "Today\u2019s Tech & AI News (Dec 15, 2025).pdf",
     "page": 2,
     "title": "Samsung Galaxy Z TriFold: The 10-Inch Phone is Here",
     "summary": "Samsung has unveiled the Galaxy Z TriFold, a dual-hinge smartphone that unfolds twice to reveal a massive 10-inch display. Powered by the Snapdragon 8 Elite, it features a 5,600 mAh battery and is optimized for multimodal AI multitasking.",
@@ -35,16 +37,18 @@
       "Qualcomm"
     ],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/b21d1a0e.png",
+    "image_prompt": "A sleek, futuristic smartphone with a triple-fold design opens to reveal a vibrant, 10-inch flexible display; the device glows softly against a modern tech background, emphasizing innovation, sophistication, and cutting-edge mobile technology in a realistic, high-resolution style."
   },
   {
     "date": "2025-12-15",
     "source_file": "Combined",
     "page": 2,
     "title": "OpenAI Launches GPT-5.2: The \"Thinking\" Model for Pros",
-    "summary": "OpenAI has released GPT-5.2, featuring a 38% reduction in hallucinations and new 'Thinking' capabilities for complex problem solving. The model comes in three versions—Instant, Thinking, and Pro—and is positioned to compete directly with Google's Gemini 3.",
+    "summary": "OpenAI has released GPT-5.2, featuring a 38% reduction in hallucinations and new 'Thinking' capabilities for complex problem solving. The model comes in three versions\u2014Instant, Thinking, and Pro\u2014and is positioned to compete directly with Google's Gemini 3.",
     "engagement": "High",
-    "raw_text": "Just when we thought the AI wars were cooling down, OpenAI hits back hard. They just dropped GPT-5.2, and this isn't a small update. They're claiming a 38% drop in hallucinations, which is huge if you're trying to use this for actual work. But the real headline is the new 'Thinking' mode. It's designed specifically for coding and complex math, basically allowing the AI to pause and reason before it answers—similar to what we've seen from other reasoning models. It looks like Sam Altman hit the 'code red' button to get this out because Google's Gemini 3 has been eating their lunch lately. We're going to test this live on the channel later, so make sure you're subscribed.",
+    "raw_text": "Just when we thought the AI wars were cooling down, OpenAI hits back hard. They just dropped GPT-5.2, and this isn't a small update. They're claiming a 38% drop in hallucinations, which is huge if you're trying to use this for actual work. But the real headline is the new 'Thinking' mode. It's designed specifically for coding and complex math, basically allowing the AI to pause and reason before it answers\u2014similar to what we've seen from other reasoning models. It looks like Sam Altman hit the 'code red' button to get this out because Google's Gemini 3 has been eating their lunch lately. We're going to test this live on the channel later, so make sure you're subscribed.",
     "id": "8bec9c19",
     "category": "AI",
     "companies": [
@@ -54,7 +58,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/8bec9c19.png",
+    "image_prompt": "A sleek, futuristic workspace with a sophisticated AI interface on a large screen displaying dynamic data streams, a confident scientist or engineer observing intently, with soft blue and silver tones, conveying innovation, focus, and high-tech progress."
   },
   {
     "date": "2025-12-15",
@@ -63,12 +69,14 @@
     "title": "FBI Alert: \"Unjammable\" AI Drones Spotted in US Airspace",
     "summary": "The FBI has issued a warning regarding a new class of drones that utilize visual odometry and AI instead of GPS, rendering standard electronic jamming ineffective. These drones navigate visually, similar to cruise missile technology, but are now accessible to non-state actors.",
     "engagement": "High",
-    "raw_text": "This story is honestly terrifying. The FBI just put out a warning about a new type of drone operating in US airspace that they literally cannot stop. Usually, if a drone enters a restricted area, authorities just jam the GPS signal and it drops. But these new AI drones? They don't use GPS. They use 'visual odometry'—basically, they have onboard AI that 'sees' the world and navigates by landmarks, just like a human pilot (or a cruise missile). That means electronic jammers are totally useless against them. It's a massive security gap, and it shows how fast consumer AI hardware is outpacing actual defense tech. We're entering a weird era of autonomous security threats.",
+    "raw_text": "This story is honestly terrifying. The FBI just put out a warning about a new type of drone operating in US airspace that they literally cannot stop. Usually, if a drone enters a restricted area, authorities just jam the GPS signal and it drops. But these new AI drones? They don't use GPS. They use 'visual odometry'\u2014basically, they have onboard AI that 'sees' the world and navigates by landmarks, just like a human pilot (or a cruise missile). That means electronic jammers are totally useless against them. It's a massive security gap, and it shows how fast consumer AI hardware is outpacing actual defense tech. We're entering a weird era of autonomous security threats.",
     "id": "e3d2dac1",
     "category": "Security",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/e3d2dac1.png",
+    "image_prompt": "A sleek, stealthy drone with glowing sensors navigates a cloudy US sky, cityscape below, with faint radar overlays and digital grid lines highlighting visual navigation; ominous, tense mood, realistic detail, high-resolution for a news site."
   },
   {
     "date": "2025-12-15",
@@ -77,7 +85,7 @@
     "title": "Runway Gen-4.5: The World Model That Understands Physics",
     "summary": "Runway has launched Gen-4.5, a video generation model that functions as a General World Model (GWM), simulating physics, gravity, and object permanence. It ranks #1 on industry leaderboards, surpassing both Google Veo and OpenAI Sora in visual quality and coherence.",
     "engagement": "High",
-    "raw_text": "Video AI just had its 'ChatGPT moment.' Runway released Gen-4.5, and they aren't calling it a video generator—they're calling it a 'General World Model.' Why? Because it actually understands physics. If you ask it to drop a glass, it knows exactly how it should shatter and how the light should bounce off the shards. It tracks object permanence, gravity, and collision better than anything else out there. It's currently ranked number one, beating out Sora and Google Veo. Creators are already making clips that look like Hollywood B-roll. If you're a filmmaker, you need to be looking at this right now, because the barrier to entry just disappeared.",
+    "raw_text": "Video AI just had its 'ChatGPT moment.' Runway released Gen-4.5, and they aren't calling it a video generator\u2014they're calling it a 'General World Model.' Why? Because it actually understands physics. If you ask it to drop a glass, it knows exactly how it should shatter and how the light should bounce off the shards. It tracks object permanence, gravity, and collision better than anything else out there. It's currently ranked number one, beating out Sora and Google Veo. Creators are already making clips that look like Hollywood B-roll. If you're a filmmaker, you need to be looking at this right now, because the barrier to entry just disappeared.",
     "id": "8d2a735a",
     "category": "AI",
     "companies": [
@@ -86,7 +94,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/8d2a735a.png",
+    "image_prompt": "A sleek, futuristic laboratory with scientists observing a large holographic display of dynamic 3D physics simulations, vibrant colors highlighting gravity and object interactions, symbolizing cutting-edge AI technology and innovation in a bright, modern newsroom setting."
   },
   {
     "date": "2025-12-15",
@@ -95,14 +105,16 @@
     "title": "Columbia's \"BISC\" Chip: Wireless Brain Streaming is Real",
     "summary": "Columbia University researchers have unveiled BISC, an ultra-thin, wireless brain interface capable of streaming human thoughts and motor intent in real-time. The floating single-chip device is designed to minimize tissue damage, marking a significant leap over current BCI technology.",
     "engagement": "High",
-    "raw_text": "We are getting dangerously close to cyberpunk territory. Researchers at Columbia just unveiled a new brain chip called BISC, and it makes Neuralink look huge. This thing is ultra-thin—about the size of a hair—and it floats on the brain tissue to prevent scarring. But the crazy part? It streams data wirelessly in real-time. They've demonstrated it decoding motor intent and even speech with incredibly low latency. This isn't just about moving a mouse cursor anymore; this is about full-bandwidth communication between your brain and a computer. It's a massive win for medical tech, but also... are we ready for wireless thought streaming? Let me know if you'd ever get one of these.",
+    "raw_text": "We are getting dangerously close to cyberpunk territory. Researchers at Columbia just unveiled a new brain chip called BISC, and it makes Neuralink look huge. This thing is ultra-thin\u2014about the size of a hair\u2014and it floats on the brain tissue to prevent scarring. But the crazy part? It streams data wirelessly in real-time. They've demonstrated it decoding motor intent and even speech with incredibly low latency. This isn't just about moving a mouse cursor anymore; this is about full-bandwidth communication between your brain and a computer. It's a massive win for medical tech, but also... are we ready for wireless thought streaming? Let me know if you'd ever get one of these.",
     "id": "77693480",
     "category": "Science",
     "companies": [
       "Columbia University"
     ],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/77693480.png",
+    "image_prompt": "A close-up shot of a sleek, ultra-thin black chip floating above a human brain model, connected with subtle, glowing neural pathways, intense focus lighting, futuristic lab background, evoking innovation, precision, and the dawn of wireless mind technology."
   },
   {
     "date": "2025-12-15",
@@ -123,7 +135,9 @@
       "Johny Srouji",
       "Tim Cook"
     ],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/cf2b3c6e.png",
+    "image_prompt": "A sleek, modern newsroom with a large digital screen showing Apple's logo fading, coworkers looking concerned, and a figure symbolizing departing executives walking past. Dark, tense atmosphere with cold lighting emphasizing uncertainty and change."
   },
   {
     "date": "2025-12-15",
@@ -132,7 +146,7 @@
     "title": "Tesla Optimus Gen 3: Robots Learning Kung Fu",
     "summary": "Tesla's Optimus Gen 3 humanoid robot has demonstrated the ability to learn complex tasks like Kung Fu and household cleaning purely through observation. Tesla plans to deploy 5,000 units by the end of 2025, marking a rapid shift toward commercial embodied AI.",
     "engagement": "High",
-    "raw_text": "Elon Musk's robots are getting good. Too good. The new Tesla Optimus Gen 3 just dropped a demo where it's learning tasks purely by watching humans. We're seeing it do household chores, cook, and yes—it apparently learned Kung Fu sequences just by observation. This isn't hard-coded programming; it's end-to-end neural net learning. Tesla is aiming to have 5,000 of these units working by the end of the year. We are moving from 'clunky prototype' to 'actual worker' way faster than anyone expected. If this timeline holds, 2026 is going to be the year of the android.",
+    "raw_text": "Elon Musk's robots are getting good. Too good. The new Tesla Optimus Gen 3 just dropped a demo where it's learning tasks purely by watching humans. We're seeing it do household chores, cook, and yes\u2014it apparently learned Kung Fu sequences just by observation. This isn't hard-coded programming; it's end-to-end neural net learning. Tesla is aiming to have 5,000 of these units working by the end of the year. We are moving from 'clunky prototype' to 'actual worker' way faster than anyone expected. If this timeline holds, 2026 is going to be the year of the android.",
     "id": "340aa130",
     "category": "Robotics",
     "companies": [
@@ -141,11 +155,13 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/340aa130.png",
+    "image_prompt": "A sleek humanoid robot practicing Kung Fu moves on a modern training dojo floor, surrounded by high-tech equipment, with a determined expression. Bright, realistic lighting highlights its metallic limbs and focused stance, conveying innovation and agility."
   },
   {
     "date": "2025-12-15",
-    "source_file": "Today’s Tech & AI News (Dec 15, 2025).pdf",
+    "source_file": "Today\u2019s Tech & AI News (Dec 15, 2025).pdf",
     "page": 1,
     "title": "Stanford's Quantum Breakthrough: No More Super-Cooling",
     "summary": "Stanford researchers have developed a room-temperature quantum device that entangles photons and electrons without the need for absolute zero cooling. Using 'twisted light' and molybdenum diselenide, this breakthrough could drastically shrink quantum computers for everyday use.",
@@ -157,11 +173,13 @@
       "Stanford University"
     ],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/eeaa20d2.png",
+    "image_prompt": "A sleek laboratory scene showcasing scientists in safety gear operating a compact, glowing quantum device with intricate, swirling light patterns. Bright, high-tech environment with close-up of twisted light beams interacting with layered molybdenum diselenide, emphasizing innovation."
   },
   {
     "date": "2025-12-15",
-    "source_file": "Today’s Tech & AI News (Dec 15, 2025).pdf",
+    "source_file": "Today\u2019s Tech & AI News (Dec 15, 2025).pdf",
     "page": 1,
     "title": "Amazon's Trainium3: A Warning Shot to Nvidia",
     "summary": "AWS has announced the Trainium3 AI chip, boasting 4x the speed and memory of its predecessor, and previewed the Nvidia-compatible Trainium4. The chips are housed in 'UltraServers' capable of linking 1 million units, aiming to reduce reliance on Nvidia hardware.",
@@ -176,7 +194,9 @@
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2025-12-15T00:31:31.000Z"
+    "created_at": "2025-12-15T00:31:31.000Z",
+    "image_url": "images/15_12_25/2d445b11.png",
+    "image_prompt": "A sleek, futuristic data center with glowing server racks labeled \"AWS\" and \"Trainium3,\" illuminated by cool blue and green lights, showcasing massive, angular hardware modules. In the foreground, a high-tech UltraServer linked in a vast network, symbolizing innovation."
   },
   {
     "date": "2025-12-15",
