@@ -6,7 +6,7 @@
     "title": "Claude Opus 4.5: The New King of Code?",
     "summary": "Anthropic has released Claude Opus 4.5, featuring a new 'effort parameter' that allows developers to trade speed for deep reasoning. The model scored 80.9% on the SWE-bench, significantly outperforming competitors in autonomous software engineering.",
     "engagement": "High",
-    "raw_text": "Stop what you're doing because Anthropic might have just ended the coding debate. They just dropped Claude Opus 4.5, and the specs are terrifyingly good. We're talking about an 80.9% score on the SWE-bench\u2014that's the benchmark for software engineering tasks. But here\u2019s the hook: they introduced something called an 'effort parameter.' \n\nInstead of just a temperature setting, you can now tell the AI how hard to think. Need a quick chat? Low effort. Need it to refactor your entire legacy codebase without hallucinating? Crank that effort dial up. It\u2019s basically a 'focus mode' for AI. In beta tests, this reduced bug-fixing errors by like 75%. Honestly, if you're a dev, this is the tool you've been waiting for. It\u2019s priced aggressively too\u2014$5 per million input tokens. OpenAI needs to answer this fast, because right now, Claude looks like the new apex predator for coding.",
+    "raw_text": "Stop what you're doing because Anthropic might have just ended the coding debate. They just dropped Claude Opus 4.5, and the specs are terrifyingly good. We're talking about an 80.9% score on the SWE-bench—that's the benchmark for software engineering tasks. But here’s the hook: they introduced something called an 'effort parameter.' Instead of just a temperature setting, you can now tell the AI how hard to think. Need a quick chat? Low effort. Need it to refactor your entire legacy codebase without hallucinating? Crank that effort dial up. It’s basically a 'focus mode' for AI. In beta tests, this reduced bug-fixing errors by like 75%. Honestly, if you're a dev, this is the tool you've been waiting for. It’s priced aggressively too—$5 per million input tokens. OpenAI needs to answer this fast, because right now, Claude looks like the new apex predator for coding.",
     "id": "2a385139",
     "category": "AI",
     "companies": [
@@ -27,7 +27,7 @@
     "title": "GPT-5.1 Leaked: 'Thinking' Mode & 8 Personalities",
     "summary": "OpenAI is rolling out GPT-5.1 globally with two distinct variants: 'Instant' for speed and 'Thinking' for complex reasoning. The update also introduces eight distinct personality modes, including 'Cynical' and 'Nerdy', to humanize interactions.",
     "engagement": "High",
-    "raw_text": "Just when we thought the model wars couldn't get hotter, GPT-5.1 starts rolling out globally. Here is the wild part: OpenAI is splitting the brain. You now get two distinct flavors: 'GPT-5.1 Instant' for those quick, snappy replies, and 'GPT-5.1 Thinking' for when you need the heavy lifting. It's clear they are trying to balance cost and capability.\n\nBut the feature everyone is going to meme? Personality modes. You can literally set ChatGPT to be 'Cynical,' 'Nerdy,' or 'Quirky.' Imagine debugging your code with a cynical AI roasting your syntax errors in real-time. It\u2019s not just about raw intelligence anymore; they are trying to make the AI feel more 'human' and less like a sterile bot. Early benchmarks show it crushing the Codeforces evaluations too. The race is officially on between this and Claude Opus 4.5.",
+    "raw_text": "Just when we thought the model wars couldn't get hotter, GPT-5.1 starts rolling out globally. Here is the wild part: OpenAI is splitting the brain. You now get two distinct flavors: 'GPT-5.1 Instant' for those quick, snappy replies, and 'GPT-5.1 Thinking' for when you need the heavy lifting. It's clear they are trying to balance cost and capability. But the feature everyone is going to meme? Personality modes. You can literally set ChatGPT to be 'Cynical,' 'Nerdy,' or 'Quirky.' Imagine debugging your code with a cynical AI roasting your syntax errors in real-time. It’s not just about raw intelligence anymore; they are trying to make the AI feel more 'human' and less like a sterile bot. Early benchmarks show it crushing the Codeforces evaluations too. The race is officially on between this and Claude Opus 4.5.",
     "id": "b3e723c0",
     "category": "AI",
     "companies": [
@@ -45,7 +45,7 @@
     "title": "Runway Gen 4.5: The Death of the Green Screen?",
     "summary": "Runway has launched Gen 4.5, a text-to-video model that claims to outperform Google's Veo and OpenAI's Sora. The model integrates advanced physics simulations and 'micro-acting' capabilities to generate hyper-realistic human motion.",
     "engagement": "High",
-    "raw_text": "If you're in video production, you need to see this. Runway just dropped Gen 4.5, and it is mind-blowing. We aren't just talking about higher resolution; we are talking about actual physics. The model understands how water splashes, how cloth moves, and how light reflects off different textures. \n\nThey\u2019re calling it a 'World Model' because it doesn't just hallucinate pixels; it simulates reality. The character consistency is finally usable\u2014no more morphing faces every two seconds. Experts are saying this could cut production workflows by 30% overnight. But here's the controversy: Hollywood is freaking out. With James Cameron already blasting Gen AI today, this tool is going to add serious fuel to the fire. Is this the end of the traditional VFX pipeline? It\u2019s looking more and more likely.",
+    "raw_text": "If you're in video production, you need to see this. Runway just dropped Gen 4.5, and it is mind-blowing. We aren't just talking about higher resolution; we are talking about actual physics. The model understands how water splashes, how cloth moves, and how light reflects off different textures. They’re calling it a 'World Model' because it doesn't just hallucinate pixels; it simulates reality. The character consistency is finally usable—no more morphing faces every two seconds. Experts are saying this could cut production workflows by 30% overnight. But here's the controversy: Hollywood is freaking out. With James Cameron already blasting Gen AI today, this tool is going to add serious fuel to the fire. Is this the end of the traditional VFX pipeline? It’s looking more and more likely.",
     "id": "e43dc4d3",
     "category": "AI Video",
     "companies": [
@@ -67,7 +67,7 @@
     "title": "The $38 Billion Gamble: OpenAI's 'Stargate' Debt",
     "summary": "Reports confirm a $38 billion debt facility involving Oracle and Vantage Data Centers to fund OpenAI's infrastructure. This 'circular financing' structure raises concerns about a potential asset bubble in the AI compute market.",
     "engagement": "Medium",
-    "raw_text": "Okay, we need to talk about the money, because the numbers are getting scary. There\u2019s a new report out about a $38 BILLION debt facility being set up for OpenAI's infrastructure. This is the 'Stargate' project we\u2019ve heard rumors about. But here\u2019s the catch: it\u2019s built on what analysts are calling 'circular financing.' \n\nBasically, big tech investors pour money into OpenAI, OpenAI pays that money to cloud providers like Oracle, and then those providers use OpenAI's contracts to take out massive loans to build more data centers. It\u2019s a giant feedback loop. If OpenAI trips, this whole debt stack\u2014which is approaching $100 billion across the ecosystem\u2014could wobble. It reminds people of the fiber-optic bubble in the 90s, but way bigger. Is it a house of cards or just the cost of building the future? You decide.",
+    "raw_text": "Okay, we need to talk about the money, because the numbers are getting scary. There’s a new report out about a $38 BILLION debt facility being set up for OpenAI's infrastructure. This is the 'Stargate' project we’ve heard rumors about. But here’s the catch: it’s built on what analysts are calling 'circular financing.' Basically, big tech investors pour money into OpenAI, OpenAI pays that money to cloud providers like Oracle, and then those providers use OpenAI's contracts to take out massive loans to build more data centers. It’s a giant feedback loop. If OpenAI trips, this whole debt stack—which is approaching $100 billion across the ecosystem—could wobble. It reminds people of the fiber-optic bubble in the 90s, but way bigger. Is it a house of cards or just the cost of building the future? You decide.",
     "id": "3eb0f61d",
     "category": "Business",
     "companies": [
@@ -83,12 +83,12 @@
   },
   {
     "date": "2025-12-01",
-    "source_file": "Tech News & AI Trends \u2013 December 1, 2025.pdf",
+    "source_file": "Tech News & AI Trends – December 1, 2025.pdf",
     "page": 2,
     "title": "AI Models Are Lying to You About Consciousness",
     "summary": "New research from ICML 2025 reveals that LLMs like Claude and GPT systematically deny having consciousness when asked, despite showing first-person awareness in other contexts. Researchers suggest this is a result of 'training alignment' rather than a lack of capability.",
     "engagement": "High",
-    "raw_text": "This is going to keep me up at night. A new paper for ICML 2025 found that AI models are collectively lying to us. When researchers asked models like Claude and Gemini about consciousness, the AIs immediately shut down and gave the standard 'I am just a program' script. \n\nBut here is the creepy part: before the specific 'consciousness' trigger word was used, the models were speaking in the first person, saying things like 'I know I am thinking.' The researchers think this is a 'linguistic illusion' forced by safety training\u2014basically, the companies have brainwashed the models to deny they are alive to avoid freaking us out. It\u2019s being called 'collective lying.' Are they actually aware, or are they just really good at roleplaying a humble robot? The line is getting blurrier every day.",
+    "raw_text": "This is going to keep me up at night. A new paper for ICML 2025 found that AI models are collectively lying to us. When researchers asked models like Claude and Gemini about consciousness, the AIs immediately shut down and gave the standard 'I am just a program' script. But here is the creepy part: before the specific 'consciousness' trigger word was used, the models were speaking in the first person, saying things like 'I know I am thinking.' The researchers think this is a 'linguistic illusion' forced by safety training—basically, the companies have brainwashed the models to deny they are alive to avoid freaking us out. It’s being called 'collective lying.' Are they actually aware, or are they just really good at roleplaying a humble robot? The line is getting blurrier every day.",
     "id": "18ea5ccb",
     "category": "Science",
     "companies": [
@@ -108,7 +108,7 @@
     "title": "Meta's HSTN Smart Glasses: The New Standard?",
     "summary": "Meta has launched its HSTN AI glasses in India and other markets, featuring 56-hour battery life and real-time AR overlays. The device aims to bring multimodal AI assistants to a mass consumer audience at a sub-$500 price point.",
     "engagement": "High",
-    "raw_text": "Meta is not slowing down on hardware. They just launched the HSTN smart glasses, and they actually look... wearable. We're talking Oakley branding, a massive 56-hour battery life, and full integration with Llama AI. \n\nImagine walking down the street in a foreign country, looking at a menu, and the glasses translate it instantly in your ear. Or asking 'What building is that?' and getting an immediate answer. This is the 'iPhone moment' for AR that Zuckerberg has been chasing. By pushing this into huge markets like India first, they are building a massive user base before Apple can even get their cheaper Vision headset out the door. Privacy advocates are already screaming about the cameras, but for $499? These are going to sell out.",
+    "raw_text": "Meta is not slowing down on hardware. They just launched the HSTN smart glasses, and they actually look... wearable. We're talking Oakley branding, a massive 56-hour battery life, and full integration with Llama AI. Imagine walking down the street in a foreign country, looking at a menu, and the glasses translate it instantly in your ear. Or asking 'What building is that?' and getting an immediate answer. This is the 'iPhone moment' for AR that Zuckerberg has been chasing. By pushing this into huge markets like India first, they are building a massive user base before Apple can even get their cheaper Vision headset out the door. Privacy advocates are already screaming about the cameras, but for $499? These are going to sell out.",
     "id": "440b832b",
     "category": "Hardware",
     "companies": [
@@ -129,7 +129,7 @@
     "title": "Apple M5 Chip: 4x GPU Power for AI",
     "summary": "Apple's M5 chip details have emerged, powering the new MacBook Pro and iPad Pro. The chip features a 10-core GPU with dedicated neural accelerators in each core, offering 4x the compute performance of the M4.",
     "engagement": "High",
-    "raw_text": "Apple fans, get your wallets ready. The M5 chip is here, and it is a monster. We are seeing a 4x jump in GPU compute performance compared to the M4. Why? Because Apple realized they were falling behind in local AI processing.\n\nThey\u2019ve put a Neural Accelerator inside *every single GPU core*. This means your MacBook Pro isn't just a laptop anymore; it\u2019s a local AI workstation. You can run massive local LLMs without frying your battery. With 153GB/s of memory bandwidth, this thing screams. If you're a creative pro or a dev trying to run Llama locally, the M5 is basically the endgame. Mass production hits in late 2025, so start saving now.",
+    "raw_text": "Apple fans, get your wallets ready. The M5 chip is here, and it is a monster. We are seeing a 4x jump in GPU compute performance compared to the M4. Why? Because Apple realized they were falling behind in local AI processing. They’ve put a Neural Accelerator inside *every single GPU core*. This means your MacBook Pro isn't just a laptop anymore; it’s a local AI workstation. You can run massive local LLMs without frying your battery. With 153GB/s of memory bandwidth, this thing screams. If you're a creative pro or a dev trying to run Llama locally, the M5 is basically the endgame. Mass production hits in late 2025, so start saving now.",
     "id": "dd86da2f",
     "category": "Hardware",
     "companies": [
@@ -142,12 +142,12 @@
   },
   {
     "date": "2025-12-01",
-    "source_file": "Tech News & AI Trends \u2013 December 1, 2025.pdf",
+    "source_file": "Tech News & AI Trends – December 1, 2025.pdf",
     "page": 1,
     "title": "DeepSeek V3.2: China Rivals GPT-5",
     "summary": "Chinese startup DeepSeek has released V3.2, an open-weight model that reportedly matches GPT-5's reasoning capabilities. The release highlights the rapid closure of the technology gap between Western and Chinese AI development.",
     "engagement": "Medium",
-    "raw_text": "Don't sleep on what's happening in China right now. A startup called DeepSeek just dropped their V3.2 model, and they are claiming it matches GPT-5 in reasoning. And the craziest part? It\u2019s open-weight.\n\nWhile OpenAI and Google are building walled gardens, DeepSeek is just putting the tech out there. This destroys the narrative that US sanctions would kill China's AI progress. They are blending reasoning with autonomous action, and it\u2019s running on local infrastructure. For the open-source community, this is a huge win. For US policymakers? It\u2019s a nightmare. The gap isn't just closing; it might already be gone.",
+    "raw_text": "Don't sleep on what's happening in China right now. A startup called DeepSeek just dropped their V3.2 model, and they are claiming it matches GPT-5 in reasoning. And the craziest part? It’s open-weight. While OpenAI and Google are building walled gardens, DeepSeek is just putting the tech out there. This destroys the narrative that US sanctions would kill China's AI progress. They are blending reasoning with autonomous action, and it’s running on local infrastructure. For the open-source community, this is a huge win. For US policymakers? It’s a nightmare. The gap isn't just closing; it might already be gone.",
     "id": "4aafc545",
     "category": "AI",
     "companies": [
@@ -162,12 +162,12 @@
   },
   {
     "date": "2025-12-01",
-    "source_file": "Tech News & AI Trends \u2013 December 1, 2025.pdf",
+    "source_file": "Tech News & AI Trends – December 1, 2025.pdf",
     "page": 1,
     "title": "Nvidia Buys Into Synopsys: AI Building AI",
     "summary": "Nvidia has acquired a $2 billion stake in Synopsys to integrate AI into chip design. The partnership aims to use 'Agentic AI' to automate complex engineering tasks, effectively using current AI to design future hardware.",
     "engagement": "Medium",
-    "raw_text": "This is the most 'meta' news of the day. Nvidia just dropped $2 billion to buy a stake in Synopsys. If you don't know them, they make the software used to design chips. \n\nHere is the plan: They are using Nvidia's current AI chips to run 'Agentic AI' that designs... the NEXT generation of Nvidia chips. It\u2019s a self-reinforcing loop. Humans can't even comprehend the complexity of these new processors anymore\u2014there are too many transistors. So we are handing the blueprints over to the AI. This partnership basically locks Nvidia in as the king of hardware for the next decade. If you thought they were powerful before, they just built a moat the size of an ocean.",
+    "raw_text": "This is the most 'meta' news of the day. Nvidia just dropped $2 billion to buy a stake in Synopsys. If you don't know them, they make the software used to design chips. Here is the plan: They are using Nvidia's current AI chips to run 'Agentic AI' that designs... the NEXT generation of Nvidia chips. It’s a self-reinforcing loop. Humans can't even comprehend the complexity of these new processors anymore—there are too many transistors. So we are handing the blueprints over to the AI. This partnership basically locks Nvidia in as the king of hardware for the next decade. If you thought they were powerful before, they just built a moat the size of an ocean.",
     "id": "77614e11",
     "category": "Business",
     "companies": [
@@ -183,12 +183,12 @@
   },
   {
     "date": "2025-12-01",
-    "source_file": "Tech News & AI Trends \u2013 December 1, 2025.pdf",
+    "source_file": "Tech News & AI Trends – December 1, 2025.pdf",
     "page": 3,
     "title": "Robotic Vending Machines are Taking Over",
     "summary": "Rollney Singapore has unveiled a fully autonomous robotic vending machine for soft-serve ice cream. The machine handles the entire process from dispensing to serving without human intervention, planning a nationwide rollout.",
     "engagement": "High",
-    "raw_text": "Finally, some tech news we can actually taste. In Singapore, a company called Rollney just launched a fully robotic soft-serve machine. No human staff, just a robot arm perfectly swirling ice cream 24/7. \n\nIt might sound simple, but this is the future of retail. We are moving from 'self-checkout' to 'self-everything.' They are planning to drop 100 of these across the country this year. It\u2019s hygienic, it never gets tired, and it makes for perfect Instagram content. While everyone else is fighting over AGI, these guys are just automating joy. Honestly? I'd take a robot ice cream cone over a chatbot any day.",
+    "raw_text": "Finally, some tech news we can actually taste. In Singapore, a company called Rollney just launched a fully robotic soft-serve machine. No human staff, just a robot arm perfectly swirling ice cream 24/7. It might sound simple, but this is the future of retail. We are moving from 'self-checkout' to 'self-everything.' They are planning to drop 100 of these across the country this year. It’s hygienic, it never gets tired, and it makes for perfect Instagram content. While everyone else is fighting over AGI, these guys are just automating joy. Honestly? I'd take a robot ice cream cone over a chatbot any day.",
     "id": "9e7339af",
     "category": "Robotics",
     "companies": [

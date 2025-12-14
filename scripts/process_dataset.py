@@ -7,6 +7,7 @@ import random
 import uuid
 import glob
 from collections import defaultdict
+import re
 
 # --- ID Management Functions ---
 
@@ -112,8 +113,57 @@ def ensure_unique_ids(dataset_dir):
         for filepath in files_modified:
             save_json(filepath, file_data_map[filepath])
         print("ID Uniqueness Check Completed: Fixes Applied.")
+
     else:
         print("ID Uniqueness Check Completed: No duplicates found.")
+
+
+def clean_citations(dataset_dir):
+    """Removes citations like [cite: 45] from title, summary, and raw_text."""
+    print(f"\n{'='*40}")
+    print("Cleaning Citations...")
+    print(f"{'='*40}")
+
+    json_files = glob.glob(os.path.join(dataset_dir, '*.json'))
+    
+    if not json_files:
+        print("No JSON files found to check.")
+        return
+
+    citation_pattern = re.compile(r'\[cite:\s*[\d,\s]+\]')
+    files_modified = 0
+
+    for filepath in json_files:
+        data = load_json(filepath)
+        if data is None or not isinstance(data, list):
+            continue
+
+        file_changed = False
+        for item in data:
+            fields_to_clean = ['title', 'summary', 'raw_text']
+            for field in fields_to_clean:
+                if field in item and isinstance(item[field], str):
+                    original_text = item[field]
+                    cleaned_text = citation_pattern.sub('', original_text).strip()
+                    # Also clean up any double spaces created by removal
+                    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+                    
+                    if original_text != cleaned_text:
+                        item[field] = cleaned_text
+                        file_changed = True
+                        # print(f"Cleaned {field} in {item.get('id', 'unknown')}: {original_text} -> {cleaned_text}")
+
+        if file_changed:
+            save_json(filepath, data)
+            files_modified += 1
+            print(f"Cleaned citations in: {os.path.basename(filepath)}")
+
+    if files_modified > 0:
+        print(f"Citation Cleaning Completed: {files_modified} files updated.")
+    else:
+        print("Citation Cleaning Completed: No citations found.")
+
+
 
 
 # --- Image Generation Functions ---
@@ -292,8 +342,12 @@ def main():
 
     # 1. Ensure IDs are unique
     ensure_unique_ids(dataset_dir)
+
+    # 2. Clean Citations
+    clean_citations(dataset_dir)
     
-    # 2. Process Images
+    # 3. Process Images
+
     process_images(dataset_dir)
 
 if __name__ == "__main__":
