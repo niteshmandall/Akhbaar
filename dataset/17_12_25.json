@@ -6,7 +6,7 @@
     "title": "Google Drops Gemini 3: The \"Deep Think\" Era Begins",
     "summary": "Google has officially launched Gemini 3, featuring a new \"Deep Think\" mode that utilizes a latent reasoning layer to verify intermediate steps and reduce hallucinations. The launch includes a Deep Research agent capable of autonomous web navigation, hypothesis formulation, and visual report generation.",
     "engagement": "High",
-    "raw_text": "Stop what you're doing—Google just changed the game. They've officially dropped Gemini 3, and this isn't just a speed upgrade. They've introduced something called 'Deep Think' mode. Basically, instead of just guessing the next word, the model now has a 'latent reasoning layer'—it actually pauses to think, plans out its logic, and self-corrects before it even types a single letter. It's Google's answer to OpenAI's reasoning models, but integrated directly into the ecosystem. Plus, they launched a Deep Research agent that doesn't just search; it browses the web, finds missing info, and writes full reports with charts. The chatbot era is over; the agent era is here.",
+    "raw_text": "Stop what you're doing\u2014Google just changed the game. They've officially dropped Gemini 3, and this isn't just a speed upgrade. They've introduced something called 'Deep Think' mode. Basically, instead of just guessing the next word, the model now has a 'latent reasoning layer'\u2014it actually pauses to think, plans out its logic, and self-corrects before it even types a single letter. It's Google's answer to OpenAI's reasoning models, but integrated directly into the ecosystem. Plus, they launched a Deep Research agent that doesn't just search; it browses the web, finds missing info, and writes full reports with charts. The chatbot era is over; the agent era is here.",
     "id": "GEMINI3_RELEASE_001",
     "category": "AI",
     "companies": [
@@ -15,7 +15,9 @@
       "Warby Parker"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/GEMINI3_RELEASE_001.png",
+    "image_prompt": "A sleek, futuristic tech lab with immersive digital interfaces displaying neural network graphics, holographic Gemini 3 logo glowing in cool blue hues, researchers analyzing data on transparent screens, and a central AI core pulsing with vibrant light."
   },
   {
     "date": "2025-12-16",
@@ -35,7 +37,9 @@
     "people": [
       "Austin Russell"
     ],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/LUMINAR_BANKRUPTCY_002.png",
+    "image_prompt": "A sleek, modern newsroom with a large digital screen displaying a car factory silhouette fading into darkness, illuminated by blue and gray tones, conveying industry shifts and uncertainty; subtle hints of LiDAR sensors and semiconductor chips on a table."
   },
   {
     "date": "2025-12-11",
@@ -44,7 +48,7 @@
     "title": "Disney Invests $1B in OpenAI: Mickey Meets Sora",
     "summary": "Disney has formed a strategic partnership with OpenAI, investing $1 billion and licensing its IP for use in the Sora video model. The deal allows users to generate content with characters like Mickey Mouse and Simba, though it excludes actor likenesses.",
     "engagement": "High",
-    "raw_text": "This is the crossover we didn't know we needed. Disney just dropped a cool one billion dollars into OpenAI. But here is the wild part: they are licensing their actual characters for Sora. Yes, you heard me. We are talking about official support to generate video content with Mickey Mouse, Simba, and Star Wars droids. They are drawing the line at real actors' faces, but for animation, the floodgates are open. This validates AI video in a massive way—Hollywood isn't fighting it anymore; they are buying in.",
+    "raw_text": "This is the crossover we didn't know we needed. Disney just dropped a cool one billion dollars into OpenAI. But here is the wild part: they are licensing their actual characters for Sora. Yes, you heard me. We are talking about official support to generate video content with Mickey Mouse, Simba, and Star Wars droids. They are drawing the line at real actors' faces, but for animation, the floodgates are open. This validates AI video in a massive way\u2014Hollywood isn't fighting it anymore; they are buying in.",
     "id": "DISNEY_OPENAI_003",
     "category": "Media",
     "companies": [
@@ -52,7 +56,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/DISNEY_OPENAI_003.png",
+    "image_prompt": "A vibrant, high-resolution scene featuring Mickey Mouse and Sora from Kingdom Hearts, collaborating in a futuristic digital landscape illuminated by colorful holograms and glowing tech elements, conveying innovation, partnership, and playful creativity."
   },
   {
     "date": "2025-11-24",
@@ -70,16 +76,18 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/CLAUDE_OPUS_004.png",
+    "image_prompt": "A sleek, modern newsroom setting with an advanced AI interface displaying vibrant multi-layered code on high-resolution monitors, illuminated by cool blue and white lighting, conveying innovation, dominance, and technological mastery."
   },
   {
     "date": "2025-12-16",
-    "source_file": "Today’s Tech & AI News (December 16, 2025).pdf",
+    "source_file": "Today\u2019s Tech & AI News (December 16, 2025).pdf",
     "page": 2,
     "title": "World's Smallest Autonomous Robots Unveiled",
     "summary": "Researchers have developed microrobots measuring just 0.2mm wide that are powered by light and capable of autonomous navigation. These devices use electric fields to move through liquid and can sense temperature variations with high precision.",
     "engagement": "High",
-    "raw_text": "Okay, this is straight-up sci-fi. Scientists just built the world's smallest autonomous robots. We are talking about the size of a credit card's *thickness*—literally dust-sized specks. They are powered by light, so no batteries needed, and they swim by manipulating the water around them with electric fields. They can even 'talk' to each other using a waggle-dance signal like bees. Imagine injecting these to hunt down disease cells in your body. The micro-bot revolution is officially underway.",
+    "raw_text": "Okay, this is straight-up sci-fi. Scientists just built the world's smallest autonomous robots. We are talking about the size of a credit card's *thickness*\u2014literally dust-sized specks. They are powered by light, so no batteries needed, and they swim by manipulating the water around them with electric fields. They can even 'talk' to each other using a waggle-dance signal like bees. Imagine injecting these to hunt down disease cells in your body. The micro-bot revolution is officially underway.",
     "id": "MICROROBOTS_005",
     "category": "Science",
     "companies": [
@@ -87,7 +95,9 @@
       "University of Michigan"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/MICROROBOTS_005.png",
+    "image_prompt": "A close-up of ultra-miniature, glowing microrobots 0.2mm wide navigating a clear liquid, illuminated by soft blue and white light; intricate electric field patterns visible, with tiny sensors detecting temperature variations, set against a sleek, high-tech laboratory background."
   },
   {
     "date": "2025-12-16",
@@ -101,23 +111,27 @@
     "category": "Software",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/DEEPCODE_006.png",
+    "image_prompt": "A sleek, modern tech lab with a large digital screen displaying intricate code and scientific graphs, surrounded by focused researchers and AI-generated abstract patterns, evoking innovation, intelligence, and cutting-edge scientific achievement."
   },
   {
     "date": "2025-12-16",
-    "source_file": "Today’s Tech & AI News (December 16, 2025).pdf",
+    "source_file": "Today\u2019s Tech & AI News (December 16, 2025).pdf",
     "page": 2,
     "title": "Foldable iPhone Leak: It's Smaller Than You Think",
     "summary": "New leaks indicate Apple's first foldable iPhone, slated for late 2026, will feature a compact 5.25-inch external screen and a 7.58-inch internal display. The device is rumored to replace Face ID with Touch ID to save space and may cost upwards of $2,000.",
     "engagement": "High",
-    "raw_text": "Apple's foldable is finally leaking, and it is... small? Rumors are pointing to a 'Foldable iPhone' coming late 2026 with a tiny 5.25-inch outer screen. That is smaller than the old iPhone mini! Inside, it opens up to about 7.6 inches. It looks like they are ditching Face ID for Touch ID to keep it thin. If you've been waiting for a foldable that actually fits in your pocket, this might be it—but start saving now, because the price tag is rumored to be over two grand.",
+    "raw_text": "Apple's foldable is finally leaking, and it is... small? Rumors are pointing to a 'Foldable iPhone' coming late 2026 with a tiny 5.25-inch outer screen. That is smaller than the old iPhone mini! Inside, it opens up to about 7.6 inches. It looks like they are ditching Face ID for Touch ID to keep it thin. If you've been waiting for a foldable that actually fits in your pocket, this might be it\u2014but start saving now, because the price tag is rumored to be over two grand.",
     "id": "APPLE_FOLDABLE_007",
     "category": "Mobile",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/APPLE_FOLDABLE_007.png",
+    "image_prompt": "A sleek, realistic foldable iPhone with a closed 5.25-inch external screen, showcasing a minimalist black finish, subtle reflections, against a blurred tech-themed background, emphasizing compactness and premium design with soft natural lighting."
   },
   {
     "date": "2025-12-16",
@@ -126,14 +140,16 @@
     "title": "Google DeepMind Builds \"AlphaGo for Matter\" Lab",
     "summary": "Google DeepMind is establishing an automated materials science laboratory in the UK to discover new superconductors and battery materials. The facility will employ AI to orchestrate robots in a 'Design-Make-Test-Analyze' cycle to accelerate physical discovery.",
     "engagement": "Medium",
-    "raw_text": "DeepMind is taking AI out of the cloud and into the lab. They are building a fully automated materials science facility in the UK. Think of it as 'AlphaGo for atoms.' The plan is to have AI design new crystals and battery materials, and then have robots actually mix and test them in the real world, feeding the data back into the model. They are hunting for room-temperature superconductors—the holy grail of energy. This is how we get the materials for the next century of tech.",
+    "raw_text": "DeepMind is taking AI out of the cloud and into the lab. They are building a fully automated materials science facility in the UK. Think of it as 'AlphaGo for atoms.' The plan is to have AI design new crystals and battery materials, and then have robots actually mix and test them in the real world, feeding the data back into the model. They are hunting for room-temperature superconductors\u2014the holy grail of energy. This is how we get the materials for the next century of tech.",
     "id": "DEEPMIND_LAB_008",
     "category": "Science",
     "companies": [
       "Google DeepMind"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/DEEPMIND_LAB_008.png",
+    "image_prompt": "A cutting-edge laboratory with gleaming robotic arms and intricate equipment, illuminated by cool blue and white lights, as scientists in lab coats oversee AI-driven robots in a sleek, modern setting focused on advanced materials research."
   },
   {
     "date": "2025-12-16",
@@ -142,14 +158,16 @@
     "title": "Apple SHARP: 3D Worlds from One Photo",
     "summary": "Apple Research has released details on SHARP, a model that generates high-fidelity 3D environments from a single 2D image in under one second. The technology uses Gaussian Splatting and is intended for 'Spatial Memories' on the Vision Pro.",
     "engagement": "Medium",
-    "raw_text": "Apple is quietly solving one of the hardest problems in VR. Their new SHARP model can take a single flat 2D photo and turn it into a fully navigable 3D scene in less than a second. It uses something called Gaussian Splatting. This is the tech behind 'Spatial Memories' on the Vision Pro. Basically, you snap a pic with your iPhone, and boom—you can step inside it later. The speed here is the breakthrough; doing this in real-time on a consumer device is wild.",
+    "raw_text": "Apple is quietly solving one of the hardest problems in VR. Their new SHARP model can take a single flat 2D photo and turn it into a fully navigable 3D scene in less than a second. It uses something called Gaussian Splatting. This is the tech behind 'Spatial Memories' on the Vision Pro. Basically, you snap a pic with your iPhone, and boom\u2014you can step inside it later. The speed here is the breakthrough; doing this in real-time on a consumer device is wild.",
     "id": "APPLE_SHARP_009",
     "category": "AI",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/APPLE_SHARP_009.png",
+    "image_prompt": "A sleek, modern Apple research lab with engineers observing a large screen displaying a vibrant, realistic 3D room generated from a single photo. Soft ambient lighting, futuristic equipment, and a sense of innovation and excitement fill the scene."
   },
   {
     "date": "2025-12-16",
@@ -158,13 +176,15 @@
     "title": "Vidu Agent: The One-Click Ad Generator",
     "summary": "ShengShu Technology has launched the Vidu Agent, capable of generating 15-30 second commercial videos from static images and text prompts. The tool maintains high consistency in subject identity and automates the entire production workflow including scripting and shot sequencing.",
     "engagement": "Medium",
-    "raw_text": "Content creators, check this out. There's a new tool called Vidu Agent that is trying to automate commercials. You upload a static picture of a product—like a shoe—and it generates a full 30-second video ad where the shoe is running, rotating, and being worn. It even writes the script and sequences the shots. It's doing this in about three minutes. For e-commerce brands, this is a cheat code. The quality of AI video is getting scary consistent.",
+    "raw_text": "Content creators, check this out. There's a new tool called Vidu Agent that is trying to automate commercials. You upload a static picture of a product\u2014like a shoe\u2014and it generates a full 30-second video ad where the shoe is running, rotating, and being worn. It even writes the script and sequences the shots. It's doing this in about three minutes. For e-commerce brands, this is a cheat code. The quality of AI video is getting scary consistent.",
     "id": "VIDU_AGENT_010",
     "category": "AI",
     "companies": [
       "ShengShu Technology"
     ],
     "people": [],
-    "created_at": "2025-12-16T22:33:50+05:30"
+    "created_at": "2025-12-16T22:33:50+05:30",
+    "image_url": "images/17_12_25/VIDU_AGENT_010.png",
+    "image_prompt": "A sleek modern office scene with a computer screen displaying vibrant, dynamic commercial videos generated from static images, surrounded by digital design tools, with a professional tech team collaborating, bright lighting, clean aesthetic, conveying innovation and automation."
   }
 ]
