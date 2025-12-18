@@ -6,12 +6,18 @@
     "title": "Amazon's $10 Billion OpenAI Bet: The End of Nvidia's Monopoly?",
     "summary": "Amazon is reportedly in talks to invest $10 billion into OpenAI, valuing the lab at $750 billion, contingent on OpenAI using Amazon's proprietary Trainium chips. This moves OpenAI toward a cloud-agnostic model and challenges Nvidia's hardware dominance.",
     "engagement": "High",
-    "raw_text": "Okay, this is actually massive news for the chip wars. Rumors are swirling that Amazon is about to drop a staggering $10 billion investment into OpenAI. But—and here is the catch—it comes with strings attached. OpenAI would have to start using Amazon's custom 'Trainium' chips for their training. \n\nWhy does this matter? Because right now, Nvidia basically owns the AI hardware market. If OpenAI, the biggest player in the game, starts shifting workloads to Amazon's silicon, that 'Nvidia Premium' we're all used to seeing might finally crack. It’s a huge power play by AWS to force their hardware into the mainstream, and it pushes OpenAI's valuation to a mind-bending $750 billion. The monopoly might finally be ending, folks.",
+    "raw_text": "Okay, this is actually massive news for the chip wars. Rumors are swirling that Amazon is about to drop a staggering $10 billion investment into OpenAI. But\u2014and here is the catch\u2014it comes with strings attached. OpenAI would have to start using Amazon's custom 'Trainium' chips for their training. Why does this matter? Because right now, Nvidia basically owns the AI hardware market. If OpenAI, the biggest player in the game, starts shifting workloads to Amazon's silicon, that 'Nvidia Premium' we're all used to seeing might finally crack. It\u2019s a huge power play by AWS to force their hardware into the mainstream, and it pushes OpenAI's valuation to a mind-bending $750 billion. The monopoly might finally be ending, folks.",
     "id": "AMZ_OAI_10B",
     "category": "Business",
-    "companies": ["Amazon", "OpenAI", "Nvidia"],
+    "companies": [
+      "Amazon",
+      "OpenAI",
+      "Nvidia"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/AMZ_OAI_10B.png",
+    "image_prompt": "A sleek, modern data center with glowing server racks in cool blue hues, featuring a large digital map displaying interconnected neural networks, with a focused businessman in a sharp suit observing, emphasizing innovation, power, and tech rivalry amidst a dark, high-tech ambiance."
   },
   {
     "date": "2025-12-18",
@@ -20,12 +26,16 @@
     "title": "Google Drops Gemini 3 Flash: PhD Reasoning at Budget Prices",
     "summary": "Google has released Gemini 3 Flash as the default model for its apps, boasting 90.4% on GPQA Diamond benchmarks while costing significantly less than Pro models. It is engineered for high-frequency 'agentic' workflows where low latency is critical.",
     "engagement": "High",
-    "raw_text": "Google just completely flipped the script on AI pricing. They launched Gemini 3 Flash today, and it's now the default model for the Gemini app. Here is the wild part: this thing is hitting 90% on PhD-level reasoning benchmarks. That is 'Pro' level intelligence, but it's optimized for speed and cost.\n\nThis is a huge deal for anyone building AI agents. If you need an AI to loop and 'think' fifty times to solve a problem, you can't afford expensive models. Gemini 3 Flash is basically Google saying, 'We are making high-level intelligence too cheap to ignore.' If you're a dev or a power user, your workflow just got way faster and way cheaper.",
+    "raw_text": "Google just completely flipped the script on AI pricing. They launched Gemini 3 Flash today, and it's now the default model for the Gemini app. Here is the wild part: this thing is hitting 90% on PhD-level reasoning benchmarks. That is 'Pro' level intelligence, but it's optimized for speed and cost. This is a huge deal for anyone building AI agents. If you need an AI to loop and 'think' fifty times to solve a problem, you can't afford expensive models. Gemini 3 Flash is basically Google saying, 'We are making high-level intelligence too cheap to ignore.' If you're a dev or a power user, your workflow just got way faster and way cheaper.",
     "id": "GEMINI_3_FLASH",
     "category": "AI",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/GEMINI_3_FLASH.png",
+    "image_prompt": "A sleek, modern tech workspace with a large monitor displaying vibrant data analytics, a confident engineer in casual attire analyzing code, minimalistic futuristic office with glowing blue accents, conveying innovation and high performance."
   },
   {
     "date": "2025-12-18",
@@ -34,26 +44,36 @@
     "title": "Sony's AFEELA Car Turns Into a PS5 on Wheels",
     "summary": "Sony Honda Mobility announced that their AFEELA EV, coming in 2026, will feature fully integrated PS Remote Play. This allows users to stream games from their home console directly to the car's infotainment system.",
     "engagement": "High",
-    "raw_text": "Gamers, you are going to love this. Sony just confirmed that their upcoming AFEELA electric car is basically a PS5 on wheels. They are integrating PS Remote Play directly into the dashboard.\n\nSo, imagine you're charging your car or waiting to pick someone up—you can literally stream games from your home PlayStation straight to the car's screen. They're recommending a 15Mbps connection for it to run smoothly. It’s clear Sony isn't just trying to build a car; they're trying to build a 'third living space.' Tesla has Steam, but native PlayStation integration? That is a console war move in the automotive space.",
+    "raw_text": "Gamers, you are going to love this. Sony just confirmed that their upcoming AFEELA electric car is basically a PS5 on wheels. They are integrating PS Remote Play directly into the dashboard. So, imagine you're charging your car or waiting to pick someone up\u2014you can literally stream games from your home PlayStation straight to the car's screen. They're recommending a 15Mbps connection for it to run smoothly. It\u2019s clear Sony isn't just trying to build a car; they're trying to build a 'third living space.' Tesla has Steam, but native PlayStation integration? That is a console war move in the automotive space.",
     "id": "SONY_AFEELA_PS5",
     "category": "Automotive",
-    "companies": ["Sony", "Honda"],
+    "companies": [
+      "Sony",
+      "Honda"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/SONY_AFEELA_PS5.png",
+    "image_prompt": "A sleek, modern electric car parked in a city street at dusk, illuminated by urban lights reflecting off its polished surface. Inside, a large infotainment screen displays vibrant PlayStation game graphics, with the driver immersed in gaming, blending technology and everyday life seamlessly."
   },
   {
     "date": "2025-12-18",
-    "source_file": "Today’s Top Tech & AI News – Dec 18, 2025.pdf",
+    "source_file": "Today\u2019s Top Tech & AI News \u2013 Dec 18, 2025.pdf",
     "page": 1,
     "title": "YouTube's New AI Tool Let's You CREATE Games",
     "summary": "YouTube is beta-testing 'Playables Builder', a Gemini-powered tool that lets creators generate interactive games from text or video prompts. Users can ask for a '2D platformer with a squirrel' and get a playable demo instantly.",
     "engagement": "High",
-    "raw_text": "This is honestly mind-blowing. YouTube is beta testing a new feature called 'Playables Builder,' and it uses Gemini to let you generate actual video games from a text prompt. \n\nYou can literally type 'Make a 2D platformer about a squirrel in a forest,' and it spits out a playable game right there on the platform. We've seen AI generate images and video, but generating interactive mechanics instantly? That is the next level. This is going to change how creators engage with their fans—imagine making a mini-game for your subscribers in seconds. The 'Gen-AI' game era is officially starting.",
+    "raw_text": "This is honestly mind-blowing. YouTube is beta testing a new feature called 'Playables Builder,' and it uses Gemini to let you generate actual video games from a text prompt. You can literally type 'Make a 2D platformer about a squirrel in a forest,' and it spits out a playable game right there on the platform. We've seen AI generate images and video, but generating interactive mechanics instantly? That is the next level. This is going to change how creators engage with their fans\u2014imagine making a mini-game for your subscribers in seconds. The 'Gen-AI' game era is officially starting.",
     "id": "YT_AI_GAMES",
     "category": "AI",
-    "companies": ["YouTube", "Google"],
+    "companies": [
+      "YouTube",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/YT_AI_GAMES.png",
+    "image_prompt": "A vibrant digital scene showing a diverse group of creators in a modern workspace, engaging with a large screen displaying a colorful 2D squirrel game, with sleek computers, bright lighting, and a sense of innovation and excitement."
   },
   {
     "date": "2025-12-18",
@@ -62,12 +82,16 @@
     "title": "GPT-5.2's Scary Good 'Wet Lab' Breakthrough",
     "summary": "OpenAI's GPT-5.2 has achieved a 79-fold improvement in molecular cloning efficiency during controlled wet lab experiments. The model independently proposed a novel enzymatic mechanism, signaling a major leap in scientific reasoning.",
     "engagement": "High",
-    "raw_text": "Okay, forget the chatbots for a second—GPT-5.2 just did something actually terrifyingly impressive in a biology lab. OpenAI ran a controlled test where the model independently figured out a way to improve molecular cloning efficiency by 79 times.\n\nIt didn't just recite a textbook; it proposed a brand new enzymatic mechanism that human scientists hadn't used before. This is the moment AI moves from 'writing emails' to 'inventing science.' It's huge for medicine and biotech, but it also shows why safety testing is getting so intense. We are officially in the sci-fi timeline now.",
+    "raw_text": "Okay, forget the chatbots for a second\u2014GPT-5.2 just did something actually terrifyingly impressive in a biology lab. OpenAI ran a controlled test where the model independently figured out a way to improve molecular cloning efficiency by 79 times. It didn't just recite a textbook; it proposed a brand new enzymatic mechanism that human scientists hadn't used before. This is the moment AI moves from 'writing emails' to 'inventing science.' It's huge for medicine and biotech, but it also shows why safety testing is getting so intense. We are officially in the sci-fi timeline now.",
     "id": "GPT5_WET_LAB",
     "category": "Science",
-    "companies": ["OpenAI"],
+    "companies": [
+      "OpenAI"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/GPT5_WET_LAB.png",
+    "image_prompt": "A sleek modern laboratory with scientists in blue lab coats working at high-tech microscopes and robotic equipment, illuminated by bright LED lights, capturing a moment of breakthrough innovation, with glowing molecular models floating mid-air, evoking excitement and discovery."
   },
   {
     "date": "2025-12-18",
@@ -76,12 +100,16 @@
     "title": "Major iPhone Leak: Foldable in 2026, 'All-Screen' in 2027",
     "summary": "New roadmap leaks suggest Apple will launch a horizontal folding iPhone in 2026 and a completely uninterrupted 'all-screen' iPhone 20 in 2027. The iPhone 20 would feature under-display camera technology.",
     "engagement": "High",
-    "raw_text": "Apple fans, we just got a massive roadmap leak, and the next few years look insane. First up, 2026 is reportedly the year we finally get the foldable iPhone. It's rumored to be a horizontal folder, kind of like a mini iPad.\n\nBut 2027? That's the 20th anniversary of the iPhone, and leaks say Apple is dropping the 'iPhone 20.' The killer feature? A completely uninterrupted all-screen design. No notch, no dynamic island, just pure screen with cameras hidden under the display. If you've been holding off on upgrading, you might want to wait for these beasts.",
+    "raw_text": "Apple fans, we just got a massive roadmap leak, and the next few years look insane. First up, 2026 is reportedly the year we finally get the foldable iPhone. It's rumored to be a horizontal folder, kind of like a mini iPad. But 2027? That's the 20th anniversary of the iPhone, and leaks say Apple is dropping the 'iPhone 20.' The killer feature? A completely uninterrupted all-screen design. No notch, no dynamic island, just pure screen with cameras hidden under the display. If you've been holding off on upgrading, you might want to wait for these beasts.",
     "id": "IPHONE_ROADMAP",
     "category": "Mobile",
-    "companies": ["Apple"],
+    "companies": [
+      "Apple"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/IPHONE_ROADMAP.png",
+    "image_prompt": "A sleek, modern iPhone in a futuristic setting, partially folded to showcase its horizontal foldable design, with a glowing holographic display highlighting the all-screen, bezel-less front and under-display camera, ambient lighting emphasizing its innovation and premium quality."
   },
   {
     "date": "2025-12-18",
@@ -90,40 +118,54 @@
     "title": "Apple's SHARP AI: 2D Photos to 3D Worlds in 1 Second",
     "summary": "Apple published research on SHARP, a system that generates photorealistic 3D views from a single 2D image in less than a second. It uses Gaussian splatting technology and is likely a precursor for Vision Pro features.",
     "engagement": "High",
-    "raw_text": "Apple is quietly cooking up some magic for the Vision Pro. They just published research on a new AI called SHARP, and it is wild. It can take a single, flat 2D photo and turn it into a fully navigable 3D environment in less than one second.\n\nImagine taking a picture of your living room or a vacation spot, and then instantly being able to step inside it and look around in 3D. It uses something called Gaussian splatting. This is going to be the killer feature for spatial computing—memories you can actually walk into.",
+    "raw_text": "Apple is quietly cooking up some magic for the Vision Pro. They just published research on a new AI called SHARP, and it is wild. It can take a single, flat 2D photo and turn it into a fully navigable 3D environment in less than one second. Imagine taking a picture of your living room or a vacation spot, and then instantly being able to step inside it and look around in 3D. It uses something called Gaussian splatting. This is going to be the killer feature for spatial computing\u2014memories you can actually walk into.",
     "id": "APPLE_SHARP_3D",
     "category": "AI",
-    "companies": ["Apple"],
+    "companies": [
+      "Apple"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/APPLE_SHARP_3D.png",
+    "image_prompt": "A sleek Apple researcher workspace showcasing a high-resolution 2D photo transforming into a vibrant 3D scene on a futuristic screen, with holographic data overlays, soft ambient lighting, and a minimalist modern backdrop highlighting cutting-edge AR technology."
   },
   {
     "date": "2025-12-18",
-    "source_file": "Today’s Top Tech & AI News – Dec 18, 2025.pdf",
+    "source_file": "Today\u2019s Top Tech & AI News \u2013 Dec 18, 2025.pdf",
     "page": 3,
     "title": "Massive Pornhub Data Breach: Millions of Users Exposed",
     "summary": "Hackers known as ShinyHunters claim to have stolen personal data on premium Pornhub subscribers and are demanding a ransom. The breach includes login and payment information, raising severe privacy concerns.",
     "engagement": "High",
-    "raw_text": "This is a serious privacy nightmare. A hacking group called ShinyHunters is claiming they've breached Pornhub's premium subscriber database. We are talking names, login details, and payment info.\n\nThe hackers are demanding a ransom to keep it quiet, and Reuters has verified that some of the leaked sample data is real. This isn't just about embarrassing usage history; it's a massive security risk for millions of people. If you've ever used a premium account there, you need to be on high alert right now. Digital privacy is getting harder and harder to guarantee.",
+    "raw_text": "This is a serious privacy nightmare. A hacking group called ShinyHunters is claiming they've breached Pornhub's premium subscriber database. We are talking names, login details, and payment info. The hackers are demanding a ransom to keep it quiet, and Reuters has verified that some of the leaked sample data is real. This isn't just about embarrassing usage history; it's a massive security risk for millions of people. If you've ever used a premium account there, you need to be on high alert right now. Digital privacy is getting harder and harder to guarantee.",
     "id": "PORNHUB_BREACH",
     "category": "Security",
-    "companies": ["Pornhub", "ShinyHunters"],
+    "companies": [
+      "Pornhub",
+      "ShinyHunters"
+    ],
     "people": [],
     "created_at": "2025-12-18T22:12:04+05:30"
   },
   {
     "date": "2025-12-18",
-    "source_file": "Today’s Top Tech & AI News – Dec 18, 2025.pdf",
+    "source_file": "Today\u2019s Top Tech & AI News \u2013 Dec 18, 2025.pdf",
     "page": 2,
     "title": "The AI 'Land Grab' in India: Free Premium Models for Everyone",
     "summary": "OpenAI, Google, and Perplexity are aggressively offering free premium AI plans in India to gather diverse training data. Google is giving 500M Jio users free Gemini AI Pro, while OpenAI made its 'Go' plan free nationwide.",
     "engagement": "High",
-    "raw_text": "If you are in India, you are currently the most valuable user in the world for AI companies. There is a massive 'land grab' happening right now. Google just gave 500 million Jio users free access to Gemini AI Pro, and OpenAI made their premium 'Go' plan free across the country.\n\nWhy? Because they are desperate for data. They need diverse, multilingual training data to build better global models, and India's internet usage is exploding. Daily active ChatGPT users in India just soared 600%. Basically, you get free premium AI tools, and they get to train their models on your data. It's a win-win, but definitely know your worth!",
+    "raw_text": "If you are in India, you are currently the most valuable user in the world for AI companies. There is a massive 'land grab' happening right now. Google just gave 500 million Jio users free access to Gemini AI Pro, and OpenAI made their premium 'Go' plan free across the country. Why? Because they are desperate for data. They need diverse, multilingual training data to build better global models, and India's internet usage is exploding. Daily active ChatGPT users in India just soared 600%. Basically, you get free premium AI tools, and they get to train their models on your data. It's a win-win, but definitely know your worth!",
     "id": "INDIA_AI_WAR",
     "category": "Business",
-    "companies": ["Google", "OpenAI", "Perplexity", "Reliance Jio"],
+    "companies": [
+      "Google",
+      "OpenAI",
+      "Perplexity",
+      "Reliance Jio"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/INDIA_AI_WAR.png",
+    "image_prompt": "A vibrant urban scene in India with diverse people using smartphones and laptops, digital screens displaying AI symbols, and a backdrop of high-tech buildings illuminated at dusk, capturing the energetic rush of AI accessibility and innovation."
   },
   {
     "date": "2025-12-18",
@@ -132,12 +174,17 @@
     "title": "Netflix & FIFA Team Up for 2026 World Cup Game",
     "summary": "Netflix has partnered with FIFA to launch an exclusive football simulation game in Summer 2026. The game will be included with Netflix subscriptions and aims to be accessible yet competitive.",
     "engagement": "High",
-    "raw_text": "Netflix is getting serious about gaming. They just announced an official partnership with FIFA to drop a major football simulation game just in time for the 2026 World Cup.\n\nAnd the best part? It's included in your subscription. No extra fees, no microtransactions cluttering it up right away. After the split between EA Sports and FIFA, this is FIFA's big attempt to get back into the gaming world with a new partner. It’s going to be playable on mobile and TVs using your phone as a controller. If Netflix pulls this off, they might actually become a real player in the gaming space.",
+    "raw_text": "Netflix is getting serious about gaming. They just announced an official partnership with FIFA to drop a major football simulation game just in time for the 2026 World Cup. And the best part? It's included in your subscription. No extra fees, no microtransactions cluttering it up right away. After the split between EA Sports and FIFA, this is FIFA's big attempt to get back into the gaming world with a new partner. It\u2019s going to be playable on mobile and TVs using your phone as a controller. If Netflix pulls this off, they might actually become a real player in the gaming space.",
     "id": "NETFLIX_FIFA",
     "category": "Gaming",
-    "companies": ["Netflix", "FIFA"],
+    "companies": [
+      "Netflix",
+      "FIFA"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/NETFLIX_FIFA.png",
+    "image_prompt": "A vibrant, realistic scene in a modern living room: a large flat-screen TV displays a dynamic football game, with excited players and cheering virtual crowds. Cozy lighting, a Netflix interface glowing subtly, and a diverse group of friends watching intently, capturing excitement and innovation."
   },
   {
     "date": "2025-12-18",
@@ -146,25 +193,36 @@
     "title": "Nvidia Releases 'Nemotron 3' to Dominate Open Source",
     "summary": "Nvidia released the Nemotron 3 family of open models, featuring a hybrid 'latent mixture-of-experts' architecture. The models are designed for multi-agent systems and offer transparent training data for enterprise customization.",
     "engagement": "Medium",
-    "raw_text": "Nvidia isn't just a hardware company anymore. They just dropped 'Nemotron 3,' a new family of open-source AI models that use a really clever 'hybrid' architecture. \n\nThey are designed specifically for 'multi-agent' systems—basically teams of AI bots working together. The cool part is they are releasing the training data and customization tools, which is a direct shot at closed models like GPT-4. Nvidia is basically saying, 'Here, build your own sovereign AI on our stack.' For developers and enterprises who want control over their AI, this is a very attractive alternative to the big black-box models.",
+    "raw_text": "Nvidia isn't just a hardware company anymore. They just dropped 'Nemotron 3,' a new family of open-source AI models that use a really clever 'hybrid' architecture. They are designed specifically for 'multi-agent' systems\u2014basically teams of AI bots working together. The cool part is they are releasing the training data and customization tools, which is a direct shot at closed models like GPT-4. Nvidia is basically saying, 'Here, build your own sovereign AI on our stack.' For developers and enterprises who want control over their AI, this is a very attractive alternative to the big black-box models.",
     "id": "NVIDIA_NEMOTRON",
     "category": "AI",
-    "companies": ["Nvidia"],
+    "companies": [
+      "Nvidia"
+    ],
     "people": [],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/NVIDIA_NEMOTRON.png",
+    "image_prompt": "A sleek, futuristic data center with glowing blue and green server racks, holographic interfaces displaying neural networks and interconnected AI agents, evoking innovation and technological dominance in a high-tech environment."
   },
   {
     "date": "2025-12-18",
-    "source_file": "Today’s Top Tech & AI News – Dec 18, 2025.pdf",
+    "source_file": "Today\u2019s Top Tech & AI News \u2013 Dec 18, 2025.pdf",
     "page": 2,
     "title": "Yann LeCun's New 'World Model' Startup",
-    "summary": "Meta's AI Chief Yann LeCun is reportedly raising €500 million for a new startup, AMI Labs, valued at €3 billion. The venture will focus on 'World Models' that understand physical reality, not just text.",
+    "summary": "Meta's AI Chief Yann LeCun is reportedly raising \u20ac500 million for a new startup, AMI Labs, valued at \u20ac3 billion. The venture will focus on 'World Models' that understand physical reality, not just text.",
     "engagement": "Medium",
-    "raw_text": "One of the godfathers of AI is branching out. Yann LeCun, Meta's AI Chief, is reportedly raising half a billion Euros for a new startup called AMI Labs. \n\nHe is doubling down on his theory of 'World Models'—AI that actually understands physics and the real world, not just predicting the next word in a sentence like ChatGPT. This is a big bet that the current LLM technology is hitting a wall and we need something smarter. With a valuation already hitting 3 billion Euros before they've even launched, the hype train is officially leaving the station.",
+    "raw_text": "One of the godfathers of AI is branching out. Yann LeCun, Meta's AI Chief, is reportedly raising half a billion Euros for a new startup called AMI Labs. He is doubling down on his theory of 'World Models'\u2014AI that actually understands physics and the real world, not just predicting the next word in a sentence like ChatGPT. This is a big bet that the current LLM technology is hitting a wall and we need something smarter. With a valuation already hitting 3 billion Euros before they've even launched, the hype train is officially leaving the station.",
     "id": "LECUN_STARTUP",
     "category": "AI",
-    "companies": ["Meta", "AMI Labs"],
-    "people": ["Yann LeCun"],
-    "created_at": "2025-12-18T22:12:04+05:30"
+    "companies": [
+      "Meta",
+      "AMI Labs"
+    ],
+    "people": [
+      "Yann LeCun"
+    ],
+    "created_at": "2025-12-18T22:12:04+05:30",
+    "image_url": "images/19_12_25/LECUN_STARTUP.png",
+    "image_prompt": "A sleek, modern tech office with Yann LeCun, focused and contemplative, overlooking an expansive digital map displaying interconnected 3D models of physical environments. Ambient lighting highlights cutting-edge AI visuals and futuristic interfaces."
   }
 ]
