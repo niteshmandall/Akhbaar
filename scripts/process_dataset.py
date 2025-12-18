@@ -43,7 +43,7 @@ def ensure_unique_ids(dataset_dir):
     print("Checking for Duplicate IDs...")
     print(f"{'='*40}")
 
-    json_files = glob.glob(os.path.join(dataset_dir, '*.json'))
+    json_files = glob.glob(os.path.join(dataset_dir, '**', '*.json'), recursive=True)
     
     if not json_files:
         print("No JSON files found to check.")
@@ -124,7 +124,7 @@ def clean_citations(dataset_dir):
     print("Cleaning Citations...")
     print(f"{'='*40}")
 
-    json_files = glob.glob(os.path.join(dataset_dir, '*.json'))
+    json_files = glob.glob(os.path.join(dataset_dir, '**', '*.json'), recursive=True)
     
     if not json_files:
         print("No JSON files found to check.")
@@ -252,23 +252,23 @@ def process_images(dataset_dir):
     print("Checking for Missing Images...")
     print(f"{'='*40}")
 
-    files = [f for f in os.listdir(dataset_dir) if f.endswith('.json')]
+    json_files = glob.glob(os.path.join(dataset_dir, '**', '*.json'), recursive=True)
     
-    if not files:
+    if not json_files:
         print(f"No JSON files found in {dataset_dir}")
         return
 
-    print(f"Found {len(files)} JSON files to process.")
+    print(f"Found {len(json_files)} JSON files to process.")
 
-    for filename in files:
-        dataset_file = os.path.join(dataset_dir, filename)
+    for dataset_file in json_files:
+        filename = os.path.basename(dataset_file)
         
         # Determine output directory based on dataset filename
         base_name = os.path.splitext(filename)[0]
         output_dir = os.path.join(dataset_dir, 'images', base_name)
         
         try:
-            with open(dataset_file, 'r') as f:
+            with open(dataset_file, 'r', encoding='utf-8') as f:
                 news_items = json.load(f)
         except Exception as e:
             print(f"Error loading {filename}: {e}")
