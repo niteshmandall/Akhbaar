@@ -9,9 +9,13 @@
     "raw_text": "Alright, gamers and builders, stop what you're doing. NVIDIA just dropped the hammer with the RTX 50 series. We're talking about the Blackwell architecture finally hitting consumer desktops. The flagship RTX 5090 is landing on January 30th, and yeah, the price tag is a steep $1,999, but the specs? Absolute insanity. They've moved to GDDR7 memory, which gives us nearly 1800 GB/s of bandwidth. That is massive for local AI models. But the real game-changer is something they're calling 'Neural Shaders.' They are literally integrating AI inference into the shader pipeline to render textures like skin and hair in real-time without the heavy compute load. If you've been waiting to upgrade, start saving now.",
     "id": "NVDA5090BW25",
     "category": "Hardware",
-    "companies": ["NVIDIA"],
+    "companies": [
+      "NVIDIA"
+    ],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/NVDA5090BW25.png",
+    "image_prompt": "A sleek, futuristic GPU tower illuminated by vibrant blue and purple LED accents, showcasing intricate circuits and glowing GDDR7 chips, set against a dark, high-tech background with dynamic light streaks and digital abstract patterns, exuding power and innovation."
   },
   {
     "date": "2025-12-25",
@@ -20,12 +24,19 @@
     "title": "Tesla Holiday Update: Grok AI Takes Over Your Car",
     "summary": "Tesla's 2025 Holiday Update integrates xAI's Grok LLM directly into the vehicle OS for natural language navigation and queries. It also rolls out FSD v14.2.2 with end-to-end neural networks.",
     "engagement": "High",
-    "raw_text": "So, Tesla's Holiday Update is here, and it’s actually huge this year. The biggest news? They’ve officially integrated Grok into the car. No more robotic voice commands. You can literally say, 'Find me a coffee shop near a charger that has 5-star reviews and is open,' and Grok figures it out using live data. It’s finally acting like a real assistant. Plus, FSD v14.2.2 is rolling out to everyone. They’ve gone full end-to-end neural net, meaning they deleted hundreds of thousands of lines of hard-coded C++ rules. The car is learning to drive just by looking at video. Honestly, this feels like the biggest shift in the Tesla UX since the Model 3 launch.",
+    "raw_text": "So, Tesla's Holiday Update is here, and it\u2019s actually huge this year. The biggest news? They\u2019ve officially integrated Grok into the car. No more robotic voice commands. You can literally say, 'Find me a coffee shop near a charger that has 5-star reviews and is open,' and Grok figures it out using live data. It\u2019s finally acting like a real assistant. Plus, FSD v14.2.2 is rolling out to everyone. They\u2019ve gone full end-to-end neural net, meaning they deleted hundreds of thousands of lines of hard-coded C++ rules. The car is learning to drive just by looking at video. Honestly, this feels like the biggest shift in the Tesla UX since the Model 3 launch.",
     "id": "TSLAGROK25",
     "category": "AI",
-    "companies": ["Tesla", "xAI"],
-    "people": ["Elon Musk"],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "companies": [
+      "Tesla",
+      "xAI"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/TSLAGROK25.png",
+    "image_prompt": "A sleek Tesla car parked indoors illuminated by bright holiday lights reflecting off its glossy surface, with a futuristic digital dashboard displaying complex AI interfaces and a holographic projection of Grok AI interacting with the driver, amid a festive, tech-savvy atmosphere."
   },
   {
     "date": "2025-12-25",
@@ -37,9 +48,15 @@
     "raw_text": "OpenAI is being sneaky again. While everyone was busy making those viral AI Santa videos on ChatGPT yesterday, the engineers were quietly pushing a massive update to the API. They dropped new versions of the Realtime and TTS models specifically to fix 'turn-taking' latency. Basically, they want the AI to reply instantly, like a human, without that awkward pause. And that Santa feature? That wasn't just for fun. It was a Trojan Horse to stress-test their video generation servers with millions of simultaneous requests. We are definitely inching closer to a full public release of Sora if they're confident enough to run it at this scale.",
     "id": "OPENAIREL25",
     "category": "AI",
-    "companies": ["OpenAI"],
-    "people": ["Sam Altman"],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/OPENAIREL25.png",
+    "image_prompt": "A sleek, modern newsroom scene with large screens displaying code and data streams, a futuristic computer setup emitting glowing lights, and a digital Santa figure animated on a monitor, capturing the high-tech, festive atmosphere of a tech company's holiday update."
   },
   {
     "date": "2025-12-25",
@@ -48,12 +65,21 @@
     "title": "The Christmas Server Crash: Steam, Epic & AWS Meltdown",
     "summary": "A massive server outage struck Steam, Epic Games Store, and PSN on Christmas Day, largely attributed to AWS infrastructure failures. Epic Games attempted to mitigate anger by giving away 'The Callisto Protocol'.",
     "engagement": "High",
-    "raw_text": "If you tried to game yesterday, you probably raged. It was a total meltdown. Steam, Epic Games, PlayStation—everything went down. We're talking global outages. It looks like AWS had a major infrastructure failure that cascaded and took down the login servers for Fortnite and Rocket League. It was so bad that Tim Sweeney tweeted about the servers 'melting down.' But hey, silver lining? To apologize, Epic made 'The Callisto Protocol' free. Yeah, the AAA horror game. It’s a strategic move to get people back on the launcher after the crash, but honestly, I'll take a free $60 game any day.",
+    "raw_text": "If you tried to game yesterday, you probably raged. It was a total meltdown. Steam, Epic Games, PlayStation\u2014everything went down. We're talking global outages. It looks like AWS had a major infrastructure failure that cascaded and took down the login servers for Fortnite and Rocket League. It was so bad that Tim Sweeney tweeted about the servers 'melting down.' But hey, silver lining? To apologize, Epic made 'The Callisto Protocol' free. Yeah, the AAA horror game. It\u2019s a strategic move to get people back on the launcher after the crash, but honestly, I'll take a free $60 game any day.",
     "id": "GAMECRASH25",
     "category": "Gaming",
-    "companies": ["Valve", "Epic Games", "Amazon", "Sony"],
-    "people": ["Tim Sweeney"],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "companies": [
+      "Valve",
+      "Epic Games",
+      "Amazon",
+      "Sony"
+    ],
+    "people": [
+      "Tim Sweeney"
+    ],
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/GAMECRASH25.png",
+    "image_prompt": "A tense, dimly lit newsroom scene showing multiple screens with error messages and crashed game logos for Steam, Epic, and PSN, with a worried journalist in the foreground. Cold blue tones convey chaos and impact, highlighting technological failure on a festive holiday."
   },
   {
     "date": "2025-12-25",
@@ -62,12 +88,20 @@
     "title": "Nvidia 'Acquihires' Groq: The Chip War Just Got Weird",
     "summary": "Nvidia has announced a licensing deal with AI chip startup Groq, hiring its CEO Jonathan Ross and key engineers. This allows Nvidia to integrate Groq's ultra-fast inference tech without a full antitrust-triggering acquisition.",
     "engagement": "Medium",
-    "raw_text": "Nvidia just pulled a classic Silicon Valley power move. They aren't buying AI chip rival Groq outright—probably to avoid the antitrust regulators breathing down their necks—but they are hiring the CEO and licensing the tech. Groq is famous for its LPU, which makes LLMs run insanely fast. By absorbing this talent and IP, Nvidia is basically securing its dominance in 'inference'—that's the actual running of the AI, not just the training. It's a brilliant, if slightly ruthless, way to kill the competition by absorbing them. If you're holding Nvidia stock, you're loving this.",
+    "raw_text": "Nvidia just pulled a classic Silicon Valley power move. They aren't buying AI chip rival Groq outright\u2014probably to avoid the antitrust regulators breathing down their necks\u2014but they are hiring the CEO and licensing the tech. Groq is famous for its LPU, which makes LLMs run insanely fast. By absorbing this talent and IP, Nvidia is basically securing its dominance in 'inference'\u2014that's the actual running of the AI, not just the training. It's a brilliant, if slightly ruthless, way to kill the competition by absorbing them. If you're holding Nvidia stock, you're loving this.",
     "id": "NVDAGROQ25",
     "category": "Business",
-    "companies": ["Nvidia", "Groq"],
-    "people": ["Jonathan Ross", "Jensen Huang"],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "companies": [
+      "Nvidia",
+      "Groq"
+    ],
+    "people": [
+      "Jonathan Ross",
+      "Jensen Huang"
+    ],
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/NVDAGROQ25.png",
+    "image_prompt": "A sleek, modern tech conference scene featuring a futuristic Nvidia logo glowing on a dark backdrop, alongside a transparent hologram of Groq\u2019s CEO Jonathan Ross and engineers sharing ideas. Bright, high-tech atmosphere with vibrant blue and silver accents."
   },
   {
     "date": "2025-12-25",
@@ -76,12 +110,17 @@
     "title": "LG's 'Unremovable' AI Copilot Sparks User Backlash",
     "summary": "Reports confirm LG's 2026 TV lineup will feature a mandatory Microsoft Copilot integration. Privacy advocates and users are criticizing the inability to uninstall or disable the AI features.",
     "engagement": "High",
-    "raw_text": "This is exactly what we feared would happen. Reports are coming out that LG's new 2026 TVs are going to ship with Microsoft Copilot baked in... and you can't turn it off. That's right, mandatory AI on your television. They're calling it an 'evolution of the interface,' but users are already furious. It raises huge privacy questions—is my TV listening to my living room conversations to feed the model? It’s the ultimate bloatware nightmare. If this is the future of smart TVs, I think a lot of us are going to just buy dumb monitors and plug in a PC.",
+    "raw_text": "This is exactly what we feared would happen. Reports are coming out that LG's new 2026 TVs are going to ship with Microsoft Copilot baked in... and you can't turn it off. That's right, mandatory AI on your television. They're calling it an 'evolution of the interface,' but users are already furious. It raises huge privacy questions\u2014is my TV listening to my living room conversations to feed the model? It\u2019s the ultimate bloatware nightmare. If this is the future of smart TVs, I think a lot of us are going to just buy dumb monitors and plug in a PC.",
     "id": "LGCOPILOT25",
     "category": "Consumer Tech",
-    "companies": ["LG", "Microsoft"],
+    "companies": [
+      "LG",
+      "Microsoft"
+    ],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/LGCOPILOT25.png",
+    "image_prompt": "A sleek modern living room featuring a large LG TV with a glowing screen displaying complex AI interface overlays, users looking frustrated and discontent, shadowy privacy protest icons in the background, tense atmosphere highlighting tech backlash."
   },
   {
     "date": "2025-12-25",
@@ -90,12 +129,16 @@
     "title": "Lenovo's 3D OLED Laptop: No Glasses Required",
     "summary": "Lenovo unveiled the Legion 9i Gen 10, featuring a glasses-free 3D OLED display and liquid metal cooling to handle the RTX 5090 Mobile GPU.",
     "engagement": "Medium",
-    "raw_text": "Lenovo is trying to make 3D cool again, and honestly? It might work this time. They just showed off the Legion 9i Gen 10. It’s got an 18-inch OLED screen that tracks your eyes to do glasses-free 3D. But the specs are the real story—it's rocking the mobile RTX 5090 and a cooling system with liquid metal and a forged carbon chassis. It’s basically a portable supercomputer for AI devs and 3D artists. They had to redesign the whole thermal system just to keep this thing from melting. It’s overkill in the best way possible.",
+    "raw_text": "Lenovo is trying to make 3D cool again, and honestly? It might work this time. They just showed off the Legion 9i Gen 10. It\u2019s got an 18-inch OLED screen that tracks your eyes to do glasses-free 3D. But the specs are the real story\u2014it's rocking the mobile RTX 5090 and a cooling system with liquid metal and a forged carbon chassis. It\u2019s basically a portable supercomputer for AI devs and 3D artists. They had to redesign the whole thermal system just to keep this thing from melting. It\u2019s overkill in the best way possible.",
     "id": "LENOVO3D25",
     "category": "Hardware",
-    "companies": ["Lenovo"],
+    "companies": [
+      "Lenovo"
+    ],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/LENOVO3D25.png",
+    "image_prompt": "A sleek, modern gaming laptop with a vibrant, glasses-free 3D OLED display showcasing dynamic 3D visuals, illuminated by ambient lighting. The laptop is open slightly, revealing metallic accents, cooling vents, and a futuristic tech environment background, captured in high detail."
   },
   {
     "date": "2025-12-24",
@@ -104,12 +147,17 @@
     "title": "Fujitsu's Physical AI: Robots That Do Your Paperwork",
     "summary": "Fujitsu launched 'Kozuchi Physical AI 1.0', a platform combining agentic AI with robotics to automate secure business workflows and procurement, cutting workloads by 50% in trials.",
     "engagement": "Medium",
-    "raw_text": "We talk a lot about AI writing code, but what about AI moving atoms? Fujitsu just launched a new platform called Kozuchi Physical AI. It’s designed to bridge the gap between software agents and actual robots. In their trials, they used it to automate procurement—basically reading documents and checking compliance—and it cut the workload by 50%. This is the boring-but-profitable side of AI. It’s not generating art; it’s doing the tedious office work and eventually controlling the robots that move the boxes. This is where the enterprise money is going in 2026.",
+    "raw_text": "We talk a lot about AI writing code, but what about AI moving atoms? Fujitsu just launched a new platform called Kozuchi Physical AI. It\u2019s designed to bridge the gap between software agents and actual robots. In their trials, they used it to automate procurement\u2014basically reading documents and checking compliance\u2014and it cut the workload by 50%. This is the boring-but-profitable side of AI. It\u2019s not generating art; it\u2019s doing the tedious office work and eventually controlling the robots that move the boxes. This is where the enterprise money is going in 2026.",
     "id": "FUJITSUAI25",
     "category": "AI",
-    "companies": ["Fujitsu", "NVIDIA"],
+    "companies": [
+      "Fujitsu",
+      "NVIDIA"
+    ],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/FUJITSUAI25.png",
+    "image_prompt": "A sleek office environment with a modern robot arm and human workers collaborating over digital tablets, showcasing seamless automation; bright, professional lighting highlights cutting-edge technology and efficiency, conveying innovation and productivity."
   },
   {
     "date": "2025-12-24",
@@ -118,12 +166,17 @@
     "title": "Italy Blocks Meta: WhatsApp Can't Hide Rival AIs",
     "summary": "Italy's antitrust watchdog ordered Meta to suspend WhatsApp terms that blocked third-party AI chatbots, aiming to preserve competition in the AI market.",
     "engagement": "Low",
-    "raw_text": "Europe is not letting Big Tech breathe right now. Italy’s antitrust regulators just slapped Meta with an order to stop blocking rival AI bots on WhatsApp. Basically, Meta wanted to make sure that if you use an AI on WhatsApp, it’s *their* Meta AI. Italy said absolutely not. They're forcing the platform to stay open to third-party chatbots. This is a big deal because it sets a precedent—messaging apps might have to become neutral platforms for AI agents, rather than walled gardens for the owner's tech.",
+    "raw_text": "Europe is not letting Big Tech breathe right now. Italy\u2019s antitrust regulators just slapped Meta with an order to stop blocking rival AI bots on WhatsApp. Basically, Meta wanted to make sure that if you use an AI on WhatsApp, it\u2019s *their* Meta AI. Italy said absolutely not. They're forcing the platform to stay open to third-party chatbots. This is a big deal because it sets a precedent\u2014messaging apps might have to become neutral platforms for AI agents, rather than walled gardens for the owner's tech.",
     "id": "ITALYMETA25",
     "category": "Policy",
-    "companies": ["Meta", "WhatsApp"],
+    "companies": [
+      "Meta",
+      "WhatsApp"
+    ],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/ITALYMETA25.png",
+    "image_prompt": "A sleek modern newsroom with a large digital screen displaying a map of Italy and tech icons, tense journalists debating; foreground features a smartphone with WhatsApp logo crossed out, symbolizing AI restrictions, under bright, focused lighting."
   },
   {
     "date": "2025-12-23",
@@ -132,11 +185,13 @@
     "title": "AI's Dirty Secret: Old Power Plants Are Coming Back Online",
     "summary": "Soaring energy demands from AI data centers have forced the un-retirement of the Fisk oil-fired power plant in Chicago, highlighting the conflict between AI growth and green energy goals.",
     "engagement": "Medium",
-    "raw_text": "We need to talk about the energy cost of all this AI. A report just dropped that a 1960s-era oil-fired power plant in Chicago—which was supposed to be retired—is being brought back online. Why? Because the local data centers are sucking up so much power for AI training that the grid can't keep up. We're literally burning oil to train LLMs. It’s a massive reality check. While tech companies preach sustainability, the physical reality is that 'intelligence' requires electricity, and right now, the grid is struggling to provide it without getting dirty.",
+    "raw_text": "We need to talk about the energy cost of all this AI. A report just dropped that a 1960s-era oil-fired power plant in Chicago\u2014which was supposed to be retired\u2014is being brought back online. Why? Because the local data centers are sucking up so much power for AI training that the grid can't keep up. We're literally burning oil to train LLMs. It\u2019s a massive reality check. While tech companies preach sustainability, the physical reality is that 'intelligence' requires electricity, and right now, the grid is struggling to provide it without getting dirty.",
     "id": "AIPOWER25",
     "category": "Environment",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-25T11:20:00.000Z"
+    "created_at": "2025-12-25T11:20:00.000Z",
+    "image_url": "images/25_12_25/AIPOWER25.png",
+    "image_prompt": "A gritty, realistic scene at dusk of the Fisk oil-fired power plant in Chicago, with towering smokestacks emitting thick, dark smoke against a moody, cloud-filled sky. Industrial structures glow with orange hues, juxtaposed with modern AI data centers in the background, symbolizing energy conflict."
   }
 ]
