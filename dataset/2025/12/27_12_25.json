@@ -6,12 +6,17 @@
     "title": "Finally! Google Lets You Change Your Gmail Address",
     "summary": "After 20 years, Google is rolling out a feature allowing users to change their @gmail.com handle without creating a new account. The old address is kept as an alias to ensure no data loss.",
     "engagement": "High",
-    "raw_text": "Okay, stop scrolling because this is the news we have literally been waiting twenty years for. Google is finally—finally—letting you change your Gmail address. You know that embarrassing handle you made when you were fourteen? 'SkaterBoi2005'? Yeah, it can finally be gone. According to reports dropping today, a new feature has been spotted on their support pages that lets you swap your primary address without losing all your emails or creating a totally new account. Your old address just becomes an alias, so you still get your mail. This is huge for anyone trying to look professional without nuking their entire digital life. It's currently spotting in specific regions, but expect a massive rollout soon. Honestly, this might be the best feature Google has released all year.",
+    "raw_text": "Okay, stop scrolling because this is the news we have literally been waiting twenty years for. Google is finally\u2014finally\u2014letting you change your Gmail address. You know that embarrassing handle you made when you were fourteen? 'SkaterBoi2005'? Yeah, it can finally be gone. According to reports dropping today, a new feature has been spotted on their support pages that lets you swap your primary address without losing all your emails or creating a totally new account. Your old address just becomes an alias, so you still get your mail. This is huge for anyone trying to look professional without nuking their entire digital life. It's currently spotting in specific regions, but expect a massive rollout soon. Honestly, this might be the best feature Google has released all year.",
     "id": "GMAIL2025CHANGE",
     "category": "Mobile",
-    "companies": ["Google", "Alphabet"],
+    "companies": [
+      "Google",
+      "Alphabet"
+    ],
     "people": [],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/GMAIL2025CHANGE.png",
+    "image_prompt": "A modern computer screen displaying the Gmail interface with a user editing their email address, surrounded by digital icons symbolizing messaging and data security. Bright, clean, professional tone with a sleek, tech-inspired background emphasizing innovation and ease."
   },
   {
     "date": "2025-12-27",
@@ -20,12 +25,20 @@
     "title": "Nvidia swallows Groq to Dominate AI Inference",
     "summary": "Nvidia has executed a strategic partnership effectively absorbing Groq's engineering team and LPU technology. This move consolidates Nvidia's control over the low-latency inference market.",
     "engagement": "High",
-    "raw_text": "Nvidia just checkmated the entire industry again. Remember Groq? The startup that was making waves with those insanely fast LPU chips for instant AI responses? Well, Nvidia just swooped in and basically absorbed their core engineering team and licensed their tech. This is a massive 'acqui-hire.' Nvidia knows that training models is cool, but the real money is in 'inference'—actually running the models for users. By grabbing Groq's low-latency tech, Nvidia is making sure that no one—not AMD, not Intel—can flank them on speed. If you're betting against Jensen Huang right now, you're losing money. They aren't just selling the shovels anymore; they're buying the people who know how to dig faster.",
+    "raw_text": "Nvidia just checkmated the entire industry again. Remember Groq? The startup that was making waves with those insanely fast LPU chips for instant AI responses? Well, Nvidia just swooped in and basically absorbed their core engineering team and licensed their tech. This is a massive 'acqui-hire.' Nvidia knows that training models is cool, but the real money is in 'inference'\u2014actually running the models for users. By grabbing Groq's low-latency tech, Nvidia is making sure that no one\u2014not AMD, not Intel\u2014can flank them on speed. If you're betting against Jensen Huang right now, you're losing money. They aren't just selling the shovels anymore; they're buying the people who know how to dig faster.",
     "id": "NVDA_GROQ_ACQ",
     "category": "Hardware",
-    "companies": ["Nvidia", "Groq"],
-    "people": ["Jensen Huang", "Jonathan Ross"],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "companies": [
+      "Nvidia",
+      "Groq"
+    ],
+    "people": [
+      "Jensen Huang",
+      "Jonathan Ross"
+    ],
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/NVDA_GROQ_ACQ.png",
+    "image_prompt": "A sleek, futuristic data center with rows of glowing Nvidia logo-lit servers converging into a massive digital dragon-like figure representing dominance, with a shadowy team of engineers overseeing in a high-tech environment, evoking power and innovation."
   },
   {
     "date": "2025-12-27",
@@ -34,26 +47,40 @@
     "title": "GPT-5.2 vs Claude Opus 4.5: The December AI War",
     "summary": "The 'December AI War' escalates as OpenAI's GPT-5.2 scores 71% on economic benchmarks, while Anthropic's Claude Opus 4.5 takes the coding crown with 80.9% on SWE-bench.",
     "engagement": "High",
-    "raw_text": "The December AI wars are absolutely heating up, and we have a split decision on the belt. On one corner, we have Anthropic's new Claude Opus 4.5—it is officially the coding king, scoring an 80.9% on the SWE-bench, which means it's better than the median human software engineer. If you code, you need to be using this. But OpenAI isn't sleeping. They just pushed GPT-5.2 under a 'Code Red' urgency. It's crushing economic reasoning tasks and feels noticeably sharper on logic. It's basically a slugfest right now. 2025 isn't ending with a whimper; it's ending with the two biggest labs trying to kill each other with updates. Pick your fighter, because the gap between these models is getting razor thin.",
+    "raw_text": "The December AI wars are absolutely heating up, and we have a split decision on the belt. On one corner, we have Anthropic's new Claude Opus 4.5\u2014it is officially the coding king, scoring an 80.9% on the SWE-bench, which means it's better than the median human software engineer. If you code, you need to be using this. But OpenAI isn't sleeping. They just pushed GPT-5.2 under a 'Code Red' urgency. It's crushing economic reasoning tasks and feels noticeably sharper on logic. It's basically a slugfest right now. 2025 isn't ending with a whimper; it's ending with the two biggest labs trying to kill each other with updates. Pick your fighter, because the gap between these models is getting razor thin.",
     "id": "AI_WARS_DEC25",
     "category": "AI",
-    "companies": ["OpenAI", "Anthropic", "Google"],
-    "people": ["Sam Altman"],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "Google"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/AI_WARS_DEC25.png",
+    "image_prompt": "A futuristic newsroom with split screens showcasing glowing AI interfaces: on one side, a sleek robot with digital currency graphs representing GPT-5.2's economic success; on the other, a sophisticated AI coding interface symbolizing Claude Opus 4.5, with a tense, competitive atmosphere."
   },
   {
     "date": "2025-12-27",
-    "source_file": "AI & Tech News Roundup – Dec 27, 2025.pdf",
+    "source_file": "AI & Tech News Roundup \u2013 Dec 27, 2025.pdf",
     "page": 4,
     "title": "Tesla Optimus Robot Falls Face First in Demo",
     "summary": "During a demo in Miami, Tesla's Optimus robot lost its balance and fell, with arm movements suggesting it was being teleoperated by a human in a VR headset.",
     "engagement": "High",
-    "raw_text": "You guys have to see this clip. Tesla had an event in Miami for the Optimus robot, and it... well, it didn't go great. The robot is handing out water bottles, looks okay, and then suddenly—bam—face plants backward. But here's the kicker: watch the arms. As it falls, it flails exactly like a human trying to rip off a VR headset. Everyone is saying this proves the robot was being teleoperated by a human 'pilot' the whole time. It's the 'Wizard of Oz' moment all over again. Elon keeps promising autonomy, but if the robot can't even stand up without a human pulling the strings remotely, we are a long way from I, Robot. Embarrassing? Yes. Viral? Absolutely.",
+    "raw_text": "You guys have to see this clip. Tesla had an event in Miami for the Optimus robot, and it... well, it didn't go great. The robot is handing out water bottles, looks okay, and then suddenly\u2014bam\u2014face plants backward. But here's the kicker: watch the arms. As it falls, it flails exactly like a human trying to rip off a VR headset. Everyone is saying this proves the robot was being teleoperated by a human 'pilot' the whole time. It's the 'Wizard of Oz' moment all over again. Elon keeps promising autonomy, but if the robot can't even stand up without a human pulling the strings remotely, we are a long way from I, Robot. Embarrassing? Yes. Viral? Absolutely.",
     "id": "OPTIMUS_FALL_FAIL",
     "category": "Hardware",
-    "companies": ["Tesla"],
-    "people": ["Elon Musk"],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/OPTIMUS_FALL_FAIL.png",
+    "image_prompt": "A high-resolution image of a humanoid robot robot in a sleek, futuristic lab setting, staggering forward face-first as a human operator with a VR headset controls its arm movements, with onlookers surprised in the background, capturing a tense moment of technological mishap."
   },
   {
     "date": "2025-12-27",
@@ -62,12 +89,20 @@
     "title": "Google Buys Its Own Power Grid for $4.75 Billion",
     "summary": "Alphabet has acquired Intersect Power for $4.75 billion to secure 'islanded' renewable energy grids specifically for its AI data centers, bypassing public utility queues.",
     "engagement": "Medium",
-    "raw_text": "Google just spent nearly 5 billion dollars—not on chips, not on software—but on electricity. They acquired Intersect Power for $4.75 billion. Why? Because AI is eating so much energy that the public grid can't keep up. Google is literally building 'islanded' grids—private power plants connecting directly to their data centers to bypass the public lines. We've been saying 'data is the new oil,' but honestly, electricity is the new oil. If you can't plug the chips in, they're worthless. This is the start of Big Tech turning into Big Utility. Expect Amazon and Microsoft to do the exact same thing very soon.",
+    "raw_text": "Google just spent nearly 5 billion dollars\u2014not on chips, not on software\u2014but on electricity. They acquired Intersect Power for $4.75 billion. Why? Because AI is eating so much energy that the public grid can't keep up. Google is literally building 'islanded' grids\u2014private power plants connecting directly to their data centers to bypass the public lines. We've been saying 'data is the new oil,' but honestly, electricity is the new oil. If you can't plug the chips in, they're worthless. This is the start of Big Tech turning into Big Utility. Expect Amazon and Microsoft to do the exact same thing very soon.",
     "id": "GOOG_POWER_BUY",
     "category": "Business",
-    "companies": ["Google", "Alphabet", "Intersect Power"],
-    "people": ["Sundar Pichai"],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "companies": [
+      "Google",
+      "Alphabet",
+      "Intersect Power"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/GOOG_POWER_BUY.png",
+    "image_prompt": "A wide-angle shot of a modern data center with sleek, futuristic architecture surrounded by expansive solar panels and wind turbines, set against a vibrant blue sky at sunset; power lines connect seamlessly to a high-tech, isolated renewable energy facility, symbolizing independence and innovation."
   },
   {
     "date": "2025-12-27",
@@ -79,23 +114,34 @@
     "raw_text": "Black Mirror is officially here. Amazon just updated your Ring doorbell with a feature called 'Familiar Faces.' It uses facial recognition to scan everyone who comes to your door and tells you 'Hey, John is here' instead of just 'Motion detected.' Cool convenience, or terrifying surveillance net? Privacy advocates are screaming about this because Amazon is effectively building a biometric map of your entire neighborhood. It's already so controversial that it's banned in states like Illinois and Texas. If you turn this on, you're basically feeding your friends' faces directly into the cloud. Would you use this, or is this where we draw the line?",
     "id": "RING_PRIVACY_SCARE",
     "category": "Mobile",
-    "companies": ["Amazon", "Ring"],
+    "companies": [
+      "Amazon",
+      "Ring"
+    ],
     "people": [],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/RING_PRIVACY_SCARE.png",
+    "image_prompt": "A sleek modern front porch at dusk, a neighbor\u2019s Ring doorbell with a subtle illuminated camera lens, blurred suburban houses in the background, evoking privacy concerns. Moody lighting emphasizes the camera\u2019s presence amid a quiet, residential neighborhood."
   },
   {
     "date": "2025-12-27",
-    "source_file": "AI & Tech News Roundup – Dec 27, 2025.pdf",
+    "source_file": "AI & Tech News Roundup \u2013 Dec 27, 2025.pdf",
     "page": 3,
     "title": "Apple's New iPad Pro with M5 Chip Leaks",
     "summary": "Apple has unveiled the new iPad Pro with the M5 silicon, featuring a 3.5x jump in AI performance to handle complex on-device generative tasks.",
     "engagement": "High",
-    "raw_text": "Apple is finally taking the gloves off. We just got details on the new iPad Pro powered by the M5 chip, and the specs are ridiculous. We're talking a 3.5x jump in AI performance compared to the M4. Why? Because Apple wants you running generative AI locally—generating images, editing video, doing the heavy lifting—without sending your data to the cloud. They are doubling down on privacy as their killer feature. If you're a creative pro, this isn't just a tablet update; it's a portable AI studio. It drops in October, but the hype train starts today.",
+    "raw_text": "Apple is finally taking the gloves off. We just got details on the new iPad Pro powered by the M5 chip, and the specs are ridiculous. We're talking a 3.5x jump in AI performance compared to the M4. Why? Because Apple wants you running generative AI locally\u2014generating images, editing video, doing the heavy lifting\u2014without sending your data to the cloud. They are doubling down on privacy as their killer feature. If you're a creative pro, this isn't just a tablet update; it's a portable AI studio. It drops in October, but the hype train starts today.",
     "id": "APPLE_IPAD_M5",
     "category": "Hardware",
-    "companies": ["Apple"],
-    "people": ["Tim Cook"],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "companies": [
+      "Apple"
+    ],
+    "people": [
+      "Tim Cook"
+    ],
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/APPLE_IPAD_M5.png",
+    "image_prompt": "A sleek, modern iPad Pro with a vibrant display, sitting on a minimalist desk with a blurred tech workspace background. The device glows subtly, emphasizing its slim profile and high-resolution screen, conveying innovation and cutting-edge technology in a realistic, professional style."
   },
   {
     "date": "2025-12-27",
@@ -107,9 +153,14 @@
     "raw_text": "Okay, ignore the silly name for a second. Google just released an image generator called 'Nano Banana Pro.' I know, I know. But under the hood? This thing is a beast. It's part of Gemini 3, and it finally solves the two biggest problems with AI art: it can render perfect text (no more gibberish signs), and it keeps characters consistent across different images. That is a holy grail for storytellers and comic creators. You can actually make a storyboard where your main character doesn't change faces in every panel. Google is coming straight for Midjourney with this one. Don't let the name fool you.",
     "id": "NANO_BANANA_PRO",
     "category": "AI",
-    "companies": ["Google", "DeepMind"],
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
     "people": [],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/NANO_BANANA_PRO.png",
+    "image_prompt": "A sleek, modern computer workstation with multiple high-resolution monitors displaying vibrant, detailed digital art, set in a high-tech, futuristic office environment. Bright, focused lighting highlights the screens, conveying innovation and advanced technology."
   },
   {
     "date": "2025-12-27",
@@ -118,12 +169,16 @@
     "title": "Disney Goes All-In on 'Core Operating' AI",
     "summary": "Disney announced the full integration of generative AI into its core operating model, using proprietary data to automate script analysis, VFX, and post-production.",
     "engagement": "High",
-    "raw_text": "Disney just admitted what everyone in Hollywood was afraid of. They aren't just 'experimenting' with AI anymore; they announced they are integrating it into their 'core operating model.' That means AI is now part of the pipeline for scripts, storyboards, VFX, and even editing. They're training models on their own massive library of movies to create a 'walled garden' Disney AI. This is the future of media—proprietary data is the moat. If you're in the creative industry, this is the signal that the tools are changing permanently. The House of Mouse is becoming the House of AI.",
+    "raw_text": "Disney just admitted what everyone in Hollywood was afraid of. They aren't just 'experimenting' with AI anymore; they announced they are integrating it into their 'core operating model.' That means AI is now part of the pipeline for scripts, storyboards, VFX, and even editing. They're training models on their own massive library of movies to create a 'walled garden' Disney AI. This is the future of media\u2014proprietary data is the moat. If you're in the creative industry, this is the signal that the tools are changing permanently. The House of Mouse is becoming the House of AI.",
     "id": "DISNEY_AI_PIVOT",
     "category": "Business",
-    "companies": ["Disney"],
+    "companies": [
+      "Disney"
+    ],
     "people": [],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/DISNEY_AI_PIVOT.png",
+    "image_prompt": "A sleek, modern film studio control room with multiple large monitors displaying vibrant AI-generated visual effects, diverse engineers analyzing data on screens, ambient blue and white lighting, conveying innovation and technological advancement."
   },
   {
     "date": "2025-12-27",
@@ -135,8 +190,12 @@
     "raw_text": "For the tech nerds out there, Nvidia just dropped something fascinating called Nemotron 3. It's not just another LLM. It uses a new architecture that mixes 'Mamba' models with Transformers. Why do you care? Because standard AI gets slower and more expensive the more text you feed it. This new design scales linearly. That means you can feed it entire books, massive codebases, or legal archives, and it doesn't choke or bankrupt you. This is the tech that's going to power the next wave of 'Agentic AI' that can actually remember what you told it last week. The 'goldfish memory' era of AI is ending.",
     "id": "NVIDIA_NEMOTRON3",
     "category": "AI",
-    "companies": ["Nvidia"],
+    "companies": [
+      "Nvidia"
+    ],
     "people": [],
-    "created_at": "2025-12-27T01:14:07.000Z"
+    "created_at": "2025-12-27T01:14:07.000Z",
+    "image_url": "images/27_12_25/NVIDIA_NEMOTRON3.png",
+    "image_prompt": "A sleek, futuristic data center illuminated by cool blue and neon accents, with a large, glowing Nvidia Nemotron 3 chip at the center, surrounded by digital streams and floating holographic data, conveying cutting-edge AI technology and innovation."
   }
 ]
