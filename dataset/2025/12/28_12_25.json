@@ -7,10 +7,16 @@
     "summary": "Disney has confirmed a $1 billion equity investment in OpenAI, granting the AI firm access to over 200 iconic characters from Star Wars, Marvel, and Pixar for use in tools like Sora. This partnership signals a major shift from litigation to licensing in the creative industries.",
     "engagement": "High",
     "raw_text": "Okay, this is absolutely massive news for the entertainment world. Disney just dropped a cool one billion dollars into OpenAI. But it's not just about the money—it's about the access. We're talking about OpenAI's video generator, Sora, officially getting the keys to the Magic Kingdom. Imagine generating high-quality clips using actual Star Wars, Marvel, or Pixar assets without getting sued into oblivion. Disney CEO Bob Iger and Sam Altman were on stage together, basically confirming that the era of 'pay-to-play' for AI copyright is here. Instead of fighting the AI wave, Disney is surfing it. For creators, this could be a dream come true or a nightmare depending on how they gatekeep these tools, but one thing is for sure: AI-generated content just got a Hollywood upgrade.",
-    "id": "A1B2C3D4",
+    "id": "1d8dad4a",
     "category": "AI",
-    "companies": ["Disney", "OpenAI"],
-    "people": ["Bob Iger", "Sam Altman"],
+    "companies": [
+      "Disney",
+      "OpenAI"
+    ],
+    "people": [
+      "Bob Iger",
+      "Sam Altman"
+    ],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
   {
@@ -23,7 +29,11 @@
     "raw_text": "If you own a Tesla, you know the pain of the 'phone key' failing just when you're in a hurry. Well, good news might be on the way. Digging into the code of the latest Tesla app update, developers found references to native wallet key cards. This is huge because it means Tesla is finally adopting standard protocols—specifically mentioning Huawei's HarmonyOS, but experts are 99% sure this points to Apple Car Key support too. Instead of relying on a background app and Bluetooth—which we all know can be flaky—your car key would live in your phone's secure wallet element. It works even if your phone battery is dead. Rivian and BMW have been doing this for a while, so it's about time Elon caught up. No more doing the 'airplane mode toggle' dance in the parking lot!",
     "id": "T5E6S7L8",
     "category": "Hardware",
-    "companies": ["Tesla", "Apple", "Huawei"],
+    "companies": [
+      "Tesla",
+      "Apple",
+      "Huawei"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -37,8 +47,12 @@
     "raw_text": "Gamers, you might want to sit down for this one. If you were planning to build a PC in 2026, it's going to get rough. Rumors are flying from the supply chain that Nvidia is planning a massive 40% cut in RTX 5000 series production. Why? Because AI is eating the world. They are reportedly shifting that manufacturing capacity over to their Blackwell data center chips because that's where the real money is right now. We're looking at a potential repeat of the GPU shortage era—scalpers, price hikes, the whole nightmare. If you care about local gaming hardware, this is a red alert. It looks like Nvidia is prioritizing the AI gold rush over their gaming roots, and honestly, can you blame them financially? It still hurts though.",
     "id": "G9P0U1S2",
     "category": "Hardware",
-    "companies": ["Nvidia"],
-    "people": ["Jensen Huang"],
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
   {
@@ -51,8 +65,13 @@
     "raw_text": "So, the ad-free utopia of ChatGPT is officially crumbling. Reports are confirming that OpenAI is testing 'sponsored responses.' Yes, ads. But it's trickier than a banner on a website. Imagine asking ChatGPT for a dinner recommendation and it subtly nudging you toward a restaurant that paid for the spot. That introduces a massive 'trust' problem. If the AI is being paid to give you an answer, is it giving you the *best* answer or the *profitable* one? They call it a 'Principal-Agent Problem.' Basically, your helpful AI assistant might actually be a double agent for advertisers. Sam Altman is trying to monetize the free tier aggressively, and this puts them directly in a cage match with Google. Get ready for 'This answer is brought to you by...' in your chats.",
     "id": "O3P4E5N6",
     "category": "Business",
-    "companies": ["OpenAI", "Google"],
-    "people": ["Sam Altman"],
+    "companies": [
+      "OpenAI",
+      "Google"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
   {
@@ -65,7 +84,9 @@
     "raw_text": "This is a huge win for the open-source community. Usually, the really big, smart AI models—the ones with over 100 billion parameters—are locked behind closed doors at Google or OpenAI. But Prime Intellect just dropped INTELLECT-3. It's a massive 106-billion parameter beast, but it uses a 'Mixture of Experts' architecture, so it's actually efficient to run. The crazy part? It's beating proprietary models like DeepSeek v3 on math benchmarks. But the real story isn't just the model; it's the recipe. They open-sourced the entire training stack, called 'prime-rl'. This means smaller labs and companies can now train their own GPT-4 level models without needing a Google-sized budget. The monopoly on 'smart' AI is cracking, folks.",
     "id": "I7N8T9L0",
     "category": "AI",
-    "companies": ["Prime Intellect"],
+    "companies": [
+      "Prime Intellect"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -79,7 +100,9 @@
     "raw_text": "CES 2026 leaks are starting, and LG is doing something wild with their new UltraGear monitor. We all know running games at native 5K resolution destroys your frame rate, even with a 5090. So LG put an AI processor *inside* the monitor itself. It takes whatever resolution your PC spits out and uses on-device AI to upscale it to a crisp 5K2K in real-time. This is different from DLSS because it's happening on the screen, not your graphics card. It’s a 39-inch OLED beauty, and if this tech works without adding input lag, it could change the game. We're finally seeing AI hardware that solves a real problem for gamers: getting high pixels without melting your GPU.",
     "id": "L1G2M3O4",
     "category": "Hardware",
-    "companies": ["LG"],
+    "companies": [
+      "LG"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -93,7 +116,9 @@
     "raw_text": "We hear 'Quantum Breakthrough' a lot, but this one from Google is actually legit. Their new chip, 'Willow,' just ran circles around traditional supercomputers. It solved a complex molecular problem 13,000 times faster than the fastest classical computer on Earth. We're talking about a task that would take years being done in minutes. They used a new algorithm called 'Quantum Echoes' to do it. This isn't just theoretical math anymore; Google claims this opens the door to real-world applications in chemistry and materials science. We are inching closer to that moment where quantum computers stop being science fiction and start curing diseases or inventing new materials. Google calls it a 'verifiable quantum advantage,' and it's a mic-drop moment for the industry.",
     "id": "Q5U6A7N8",
     "category": "Science",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -107,8 +132,13 @@
     "raw_text": "Sam Altman just said the quiet part out loud. In a recent statement, he admitted that AI agents are now capable of finding zero-day vulnerabilities in software on their own. That is terrifying. It confirms what security experts have feared: the barrier to entry for hacking is dropping to zero. You don't need to be a coding wizard anymore; you just need an AI agent. This comes right as we're seeing reports of state-sponsored hackers using tools like Claude Code to automate attacks on financial institutions. OpenAI is scrambling to hire a 'Head of Preparedness' to deal with catastrophic risks, but the cat is already out of the bag. 'Agentic AI' isn't just a helpful assistant; it's a potential cyber-weapon.",
     "id": "S9A0M1A2",
     "category": "AI",
-    "companies": ["OpenAI", "Anthropic"],
-    "people": ["Sam Altman"],
+    "companies": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
   {
@@ -121,7 +151,9 @@
     "raw_text": "Geek out with me for a second. Almost every AI you use—ChatGPT, Gemini—doesn't actually read words; it reads 'tokens,' which are like little chunks of text. This is efficient but causes huge problems for languages other than English or for things like coding. Enter 'Bolmo' from the Allen Institute. This new model ditches tokens entirely and reads raw bytes. It literally reads the digital DNA of the text. People thought this would be too slow, but Bolmo is matching the speed of traditional models while being way better at understanding messy data, typos, and binary code. It's a 'vocabulary-free' AI. This is a massive step forward for making AI truly universal and not just optimized for English speakers.",
     "id": "B3O4L5M6",
     "category": "AI",
-    "companies": ["Allen Institute for AI"],
+    "companies": [
+      "Allen Institute for AI"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -135,7 +167,9 @@
     "raw_text": "Google is going hard for the Indian market. They just dropped a new 'AI Plus' subscription that costs ₹399 a month—and it's half off for the first six months. For that price, you're not just getting their best AI model, Gemini 3 Pro; you're also getting 2 TB of storage and access to new video generation tools. This is a direct shot at OpenAI, who launched a cheaper tier earlier, but Google is bundling it with the stuff you actually use, like Drive and Photos. If you're in India, the AI war is officially driving prices down, which is a win for consumers. It's affordable, it's powerful, and it's putting pressure on everyone else to lower their rates.",
     "id": "G7I8N9D0",
     "category": "Business",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
@@ -149,7 +183,9 @@
     "raw_text": "Meta is on a roll with open source. You remember SAM, the model that could cut out any object from a photo? Well, meet SAM Audio. It does the same thing but for sound. You can feed it a noisy recording and just type 'isolate the drums' or 'remove the dog barking,' and it does it instantly. It uses a diffusion architecture to separate the audio layers. For YouTubers, podcasters, and music producers, this is a magic wand. No more fiddling with EQ for hours. There is a bit of controversy—some experts say it might 'hallucinate' sounds to fill in the gaps—but for creative work, this tool is going to save us all a ton of time.",
     "id": "M1E2T3A4",
     "category": "AI",
-    "companies": ["Meta"],
+    "companies": [
+      "Meta"
+    ],
     "people": [],
     "created_at": "2025-12-28T23:47:25+05:30"
   },
