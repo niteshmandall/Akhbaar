@@ -7,10 +7,16 @@
     "summary": "OpenAI has released GPT-5.2, topping the FrontierScience benchmark and demonstrating a 79x efficiency boost in gene-editing protocols. The model is positioned as a 'PhD-level' tool for professional knowledge work, with massive improvements in reasoning and enterprise tasks.",
     "engagement": "High",
     "raw_text": "Okay, this is the big one we've been waiting for. OpenAI just officially dropped GPT-5.2, and the specs are absolutely wild. We aren't just talking about a better chatbot here—this thing is putting up PhD-level performance on science benchmarks. The craziest part? In a test with Red Queen Bio, it redesigned a gene-editing protocol and boosted efficiency by 79 times. That is actual scientific discovery happening on autopilot! It’s also crushing enterprise tasks, solving over 70% of complex workflow problems compared to just 38% for the last model. If you're using AI for work or coding, this is the upgrade that changes everything. Honestly, the gap between 'smart chatbot' and 'digital coworker' just got a whole lot smaller.",
-    "id": "A1B2C3D4",
+    "id": "0244ccdf",
     "category": "AI",
-    "companies": ["OpenAI", "Red Queen Bio", "Microsoft"],
-    "people": ["Sam Altman"],
+    "companies": [
+      "OpenAI",
+      "Red Queen Bio",
+      "Microsoft"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
   {
@@ -21,9 +27,12 @@
     "summary": "Samsung has unveiled the Galaxy Z TriFold, a triple-folding smartphone that expands into a full 10-inch tablet. It features dual 'Armor Flex' hinges, a Snapdragon 8 Elite chip, and has passed a rigorous 200,000-fold durability test.",
     "engagement": "High",
     "raw_text": "So, Samsung finally did it. We've been seeing concepts for years, but the Galaxy Z TriFold is real, and it looks insane. Imagine a phone that fits in your pocket but unfolds—not once, but twice—into a full 10-inch tablet. It’s running the Snapdragon 8 Elite, has a massive 5,600 mAh battery, and they claim the new 'Armor Flex' hinges can survive 200,000 folds. That's basically 100 folds a day for five years! This isn't just a phone anymore; it’s a laptop replacement that fits in your jeans. I’m really curious to see if the crease situation is fixed, but honestly, this might be the device that finally makes foldables mainstream for power users.",
-    "id": "E5F6G7H8",
+    "id": "56afe0cf",
     "category": "Mobile",
-    "companies": ["Samsung", "Qualcomm"],
+    "companies": [
+      "Samsung",
+      "Qualcomm"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -35,9 +44,11 @@
     "summary": "China's DeepSeek has released V3.2, an open-source model that scores 99.2% on elite math benchmarks. Its sparse-attention architecture offers performance rivalling proprietary US models at a fraction of the inference cost.",
     "engagement": "High",
     "raw_text": "You guys need to pay attention to what's coming out of China right now. DeepSeek just dropped V3.2, and it is an absolute beast. We're talking about an open-source model that is hitting 99.2% on elite math tests—that is right up there with the best closed models from OpenAI and Google. But here's the kicker: it’s wildly efficient. Because of its 'sparse-attention' architecture, it costs about 84% less to run than the big proprietary models. This is huge for developers who can't afford massive API bills. If you can run GPT-4 level intelligence on your own hardware for pennies, the whole game changes. The gap between 'paid' AI and 'free' AI is basically gone.",
-    "id": "I9J0K1L2",
+    "id": "ac854ca4",
     "category": "AI",
-    "companies": ["DeepSeek"],
+    "companies": [
+      "DeepSeek"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -49,9 +60,12 @@
     "summary": "Disney has announced a $1 billion investment in OpenAI, licensing its massive IP library including Star Wars and Marvel for use with the Sora video generation tool. This marks a major shift from litigation to monetization regarding AI copyright.",
     "engagement": "High",
     "raw_text": "Okay, this is a watershed moment for AI and Hollywood. Instead of suing OpenAI, Disney just decided to buy in—big time. They dropped $1 billion into OpenAI and are officially licensing Star Wars and Marvel content to train the Sora video generator. Think about what that means. We could be seeing officially sanctioned, AI-generated content using Iron Man or Darth Vader very soon. It’s a total flip of the script. While everyone else is worried about copyright, Disney is saying, 'Let's monetize it.' I have mixed feelings about this, but from a business perspective? It’s genius. Get ready for the 'Infinite Content' era of Disney.",
-    "id": "M3N4O5P6",
+    "id": "075312a7",
     "category": "Business",
-    "companies": ["Disney", "OpenAI"],
+    "companies": [
+      "Disney",
+      "OpenAI"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -63,9 +77,11 @@
     "summary": "Google is rolling out a highly requested feature allowing users to change their existing Gmail address to a new one without losing their account history. The old address remains as an alias for receiving emails.",
     "engagement": "High",
     "raw_text": "If you're still stuck with 'skaterboi2005@gmail.com' on your resume, I have the best news ever. Google is finally—FINALLY—rolling out a feature that lets you change your Gmail address without creating a whole new account. You keep all your emails, your Drive files, everything. Your old address just becomes an alias, so you don't even miss emails sent to the cringe one. It's rolling out gradually, so you might not see it yet, but keep checking. Honestly, this is probably the most useful update Google has released in a decade. Go save your professional life right now!",
-    "id": "Q7R8S9T0",
+    "id": "7926648c",
     "category": "Apps",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -77,9 +93,14 @@
     "summary": "The UAE has announced 'Stargate UAE,' a 5-gigawatt AI supercomputing campus backed by a $147 billion investment. This facility will be 50-100 times larger than standard data centers, aiming to convert 'petrodollars' into 'compute-dollars'.",
     "engagement": "Medium",
     "raw_text": "We talk a lot about 'big data,' but the UAE is redefining what 'big' means. They just announced project 'Stargate,' and the numbers are hard to even comprehend. They are building a 5-gigawatt AI campus. For context, a normal massive data center is maybe 100 megawatts. This is 50 times bigger. They're pouring $147 billion into this, partnering with Microsoft and Nvidia. It's basically a national bet to swap oil money for AI power. We are moving into an era where computing power is a national resource, just like electricity or oil. The geopolitics of tech just got very real.",
-    "id": "U1V2W3X4",
+    "id": "1ceb06c5",
     "category": "Infrastructure",
-    "companies": ["Microsoft", "Nvidia", "BlackRock", "MGX"],
+    "companies": [
+      "Microsoft",
+      "Nvidia",
+      "BlackRock",
+      "MGX"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -91,9 +112,14 @@
     "summary": "Security researchers have discovered a vulnerability in Airoha chipsets used by major brands like Sony and JBL. The 'RACE' exploit allows attackers to bypass pairing and hijack audio or extract keys without authentication.",
     "engagement": "Medium",
     "raw_text": "If you own Bluetooth headphones from Sony, JBL, or Marshall, you need to listen to this. Researchers found a nasty vulnerability in the chips these headphones use. It's called the 'RACE' exploit. Basically, a hacker nearby can connect to your headphones without even pairing, steal your connection keys, and hijack your audio or voice assistant. It’s a classic case of 'security by obscurity' gone wrong. The manufacturers are scrambling to patch this, so please, check for firmware updates on your headphones app today. Don't leave your digital door open just because you wanted to listen to some tunes.",
-    "id": "Y5Z6A7B8",
+    "id": "33fbcc01",
     "category": "Security",
-    "companies": ["Sony", "JBL", "Marshall", "Airoha"],
+    "companies": [
+      "Sony",
+      "JBL",
+      "Marshall",
+      "Airoha"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -105,10 +131,16 @@
     "summary": "A proposed 'Billionaire Tax' in California targeting unrealized gains has triggered threats of exodus from top tech figures. Investors like David Sacks and Bill Ackman warn this could decentralize the US tech industry to states like Texas and Florida.",
     "engagement": "Medium",
     "raw_text": "There is a massive fight brewing in Silicon Valley right now. California is proposing a new tax on unrealized gains—basically taxing money you haven't even made yet—and the tech elite are furious. David Sacks and other big VCs are practically packing their bags on Twitter, threatening to move their companies to Texas or Florida. If this passes, we might see the end of Silicon Valley as the singular hub of the tech world. It’s a classic showdown: government revenue vs. innovation incentives. Whether you love them or hate them, if these founders leave, they take the jobs and the money with them.",
-    "id": "C9D0E1F2",
+    "id": "bb5c1258",
     "category": "Business",
-    "companies": ["Anduril"],
-    "people": ["David Sacks", "Palmer Luckey", "Bill Ackman"],
+    "companies": [
+      "Anduril"
+    ],
+    "people": [
+      "David Sacks",
+      "Palmer Luckey",
+      "Bill Ackman"
+    ],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
   {
@@ -119,9 +151,11 @@
     "summary": "Google has launched Gemini 3 Flash, combining Pro-level reasoning with high speed and low cost. The model aims to make state-of-the-art AI accessible, continuing the trend of Flash variants outperforming previous flagship generations.",
     "engagement": "High",
     "raw_text": "Google is absolutely not letting OpenAI have all the fun. They just launched Gemini 3 Flash, and the value proposition here is killer. It’s got the reasoning capabilities of their 'Pro' models but runs at the speed and cost of their 'Flash' tier. This is becoming a pattern—every new 'Flash' model is better than the old 'Pro' model. For us users, this is amazing news. It means high-level AI is getting cheaper and faster every single month. If you're building apps or just using AI daily, Gemini 3 Flash might actually be the best bang for your buck right now.",
-    "id": "G3H4I5J6",
+    "id": "a7009ee5",
     "category": "AI",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   },
@@ -133,9 +167,12 @@
     "summary": "Chinese startup LandSpace successfully launched and attempted to land its Zhuque-3 reusable rocket. While the landing wasn't perfect, it marks a significant shift towards commercial, SpaceX-style reusable rocketry in China.",
     "engagement": "Medium",
     "raw_text": "SpaceX finally has some real competition heating up, and it's coming from China. A startup called LandSpace just tested their reusable rocket, the Zhuque-3. They launched it and tried to land it vertically, just like a Falcon 9. Okay, the landing wasn't perfect, but the fact that they are this close is a huge deal. China is aggressively moving toward reusable space tech to build their own mega-constellations of satellites. The space race isn't just about governments anymore; it's about commercial scale, and LandSpace is proving they're ready to play in the big leagues.",
-    "id": "K7L8M9N0",
+    "id": "b01ea184",
     "category": "Space",
-    "companies": ["LandSpace", "SpaceX"],
+    "companies": [
+      "LandSpace",
+      "SpaceX"
+    ],
     "people": [],
     "created_at": "2025-12-29T21:52:21+05:30"
   }
