@@ -6,7 +6,7 @@
     "title": "Disney Invests $1 Billion in OpenAI: Star Wars Coming to Sora?",
     "summary": "Disney has confirmed a $1 billion equity investment in OpenAI, granting the AI firm access to over 200 iconic characters from Star Wars, Marvel, and Pixar for use in tools like Sora. This partnership signals a major shift from litigation to licensing in the creative industries.",
     "engagement": "High",
-    "raw_text": "Okay, this is absolutely massive news for the entertainment world. Disney just dropped a cool one billion dollars into OpenAI. But it's not just about the money—it's about the access. We're talking about OpenAI's video generator, Sora, officially getting the keys to the Magic Kingdom. Imagine generating high-quality clips using actual Star Wars, Marvel, or Pixar assets without getting sued into oblivion. Disney CEO Bob Iger and Sam Altman were on stage together, basically confirming that the era of 'pay-to-play' for AI copyright is here. Instead of fighting the AI wave, Disney is surfing it. For creators, this could be a dream come true or a nightmare depending on how they gatekeep these tools, but one thing is for sure: AI-generated content just got a Hollywood upgrade.",
+    "raw_text": "Okay, this is absolutely massive news for the entertainment world. Disney just dropped a cool one billion dollars into OpenAI. But it's not just about the money\u2014it's about the access. We're talking about OpenAI's video generator, Sora, officially getting the keys to the Magic Kingdom. Imagine generating high-quality clips using actual Star Wars, Marvel, or Pixar assets without getting sued into oblivion. Disney CEO Bob Iger and Sam Altman were on stage together, basically confirming that the era of 'pay-to-play' for AI copyright is here. Instead of fighting the AI wave, Disney is surfing it. For creators, this could be a dream come true or a nightmare depending on how they gatekeep these tools, but one thing is for sure: AI-generated content just got a Hollywood upgrade.",
     "id": "1d8dad4a",
     "category": "AI",
     "companies": [
@@ -17,16 +17,18 @@
       "Bob Iger",
       "Sam Altman"
     ],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/1d8dad4a.png",
+    "image_prompt": "A sleek digital studio with a holographic projection of iconic characters from Star Wars, Marvel, and Pixar swirling around a modern, glowing Disney and OpenAI logos, set against a futuristic cityscape with vibrant neon lights and a sense of innovation and collaboration."
   },
   {
     "date": "2025-12-28",
-    "source_file": "Today’s Tech News (Dec 28, 2025).pdf",
+    "source_file": "Today\u2019s Tech News (Dec 28, 2025).pdf",
     "page": 2,
     "title": "Tesla App Leak Reveals Native Smartphone Keys Coming Soon",
     "summary": "Code found in the Tesla app v4.52.0 references 'Harmony Wallet Key Cards' and system-level digital keys. This suggests Tesla is moving away from Bluetooth-only phone keys to support native wallet integration on Android and potentially Apple Car Key.",
     "engagement": "High",
-    "raw_text": "If you own a Tesla, you know the pain of the 'phone key' failing just when you're in a hurry. Well, good news might be on the way. Digging into the code of the latest Tesla app update, developers found references to native wallet key cards. This is huge because it means Tesla is finally adopting standard protocols—specifically mentioning Huawei's HarmonyOS, but experts are 99% sure this points to Apple Car Key support too. Instead of relying on a background app and Bluetooth—which we all know can be flaky—your car key would live in your phone's secure wallet element. It works even if your phone battery is dead. Rivian and BMW have been doing this for a while, so it's about time Elon caught up. No more doing the 'airplane mode toggle' dance in the parking lot!",
+    "raw_text": "If you own a Tesla, you know the pain of the 'phone key' failing just when you're in a hurry. Well, good news might be on the way. Digging into the code of the latest Tesla app update, developers found references to native wallet key cards. This is huge because it means Tesla is finally adopting standard protocols\u2014specifically mentioning Huawei's HarmonyOS, but experts are 99% sure this points to Apple Car Key support too. Instead of relying on a background app and Bluetooth\u2014which we all know can be flaky\u2014your car key would live in your phone's secure wallet element. It works even if your phone battery is dead. Rivian and BMW have been doing this for a while, so it's about time Elon caught up. No more doing the 'airplane mode toggle' dance in the parking lot!",
     "id": "T5E6S7L8",
     "category": "Hardware",
     "companies": [
@@ -35,7 +37,9 @@
       "Huawei"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/T5E6S7L8.png",
+    "image_prompt": "A sleek Tesla vehicle parked in a modern city dusk scene, smartphone displaying a digital wallet with key card icons, glowing digital key signals activating, high-detail realism, vibrant yet sophisticated lighting, emphasizing innovation and security."
   },
   {
     "date": "2025-12-28",
@@ -44,7 +48,7 @@
     "title": "Gamers Beware: Nvidia Rumored to Slash RTX 5000 Production",
     "summary": "Supply chain reports suggest Nvidia plans to reduce consumer supply of the RTX 5000 series by 40% in 2026. Capacity is reportedly being reallocated to Blackwell data center chips to meet insatiable AI demand.",
     "engagement": "High",
-    "raw_text": "Gamers, you might want to sit down for this one. If you were planning to build a PC in 2026, it's going to get rough. Rumors are flying from the supply chain that Nvidia is planning a massive 40% cut in RTX 5000 series production. Why? Because AI is eating the world. They are reportedly shifting that manufacturing capacity over to their Blackwell data center chips because that's where the real money is right now. We're looking at a potential repeat of the GPU shortage era—scalpers, price hikes, the whole nightmare. If you care about local gaming hardware, this is a red alert. It looks like Nvidia is prioritizing the AI gold rush over their gaming roots, and honestly, can you blame them financially? It still hurts though.",
+    "raw_text": "Gamers, you might want to sit down for this one. If you were planning to build a PC in 2026, it's going to get rough. Rumors are flying from the supply chain that Nvidia is planning a massive 40% cut in RTX 5000 series production. Why? Because AI is eating the world. They are reportedly shifting that manufacturing capacity over to their Blackwell data center chips because that's where the real money is right now. We're looking at a potential repeat of the GPU shortage era\u2014scalpers, price hikes, the whole nightmare. If you care about local gaming hardware, this is a red alert. It looks like Nvidia is prioritizing the AI gold rush over their gaming roots, and honestly, can you blame them financially? It still hurts though.",
     "id": "G9P0U1S2",
     "category": "Hardware",
     "companies": [
@@ -53,7 +57,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/G9P0U1S2.png",
+    "image_prompt": "A detailed, realistic image of a high-tech Nvidia production facility with sleek semiconductor manufacturing equipment, glowing green and blue LED indicators, and a blurred background of server racks, symbolizing supply chain shifts and AI-driven innovation."
   },
   {
     "date": "2025-12-28",
@@ -72,7 +78,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/O3P4E5N6.png",
+    "image_prompt": "A sleek computer screen showing ChatGPT interface with subtle banner ads and sponsored responses, in a modern office setting. Soft lighting, attentive user interacting with AI, conveying a shift from pure subscription to commercial influences."
   },
   {
     "date": "2025-12-28",
@@ -81,14 +89,16 @@
     "title": "INTELLECT-3: The Open Source Model That Breaks the 100B Barrier",
     "summary": "Prime Intellect has released INTELLECT-3, a 106-billion parameter Mixture-of-Experts model, along with the 'prime-rl' training stack. It outperforms DeepSeek v3 on math benchmarks while democratizing the training of frontier-class models.",
     "engagement": "Medium",
-    "raw_text": "This is a huge win for the open-source community. Usually, the really big, smart AI models—the ones with over 100 billion parameters—are locked behind closed doors at Google or OpenAI. But Prime Intellect just dropped INTELLECT-3. It's a massive 106-billion parameter beast, but it uses a 'Mixture of Experts' architecture, so it's actually efficient to run. The crazy part? It's beating proprietary models like DeepSeek v3 on math benchmarks. But the real story isn't just the model; it's the recipe. They open-sourced the entire training stack, called 'prime-rl'. This means smaller labs and companies can now train their own GPT-4 level models without needing a Google-sized budget. The monopoly on 'smart' AI is cracking, folks.",
+    "raw_text": "This is a huge win for the open-source community. Usually, the really big, smart AI models\u2014the ones with over 100 billion parameters\u2014are locked behind closed doors at Google or OpenAI. But Prime Intellect just dropped INTELLECT-3. It's a massive 106-billion parameter beast, but it uses a 'Mixture of Experts' architecture, so it's actually efficient to run. The crazy part? It's beating proprietary models like DeepSeek v3 on math benchmarks. But the real story isn't just the model; it's the recipe. They open-sourced the entire training stack, called 'prime-rl'. This means smaller labs and companies can now train their own GPT-4 level models without needing a Google-sized budget. The monopoly on 'smart' AI is cracking, folks.",
     "id": "I7N8T9L0",
     "category": "AI",
     "companies": [
       "Prime Intellect"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/I7N8T9L0.png",
+    "image_prompt": "A sleek, futuristic data center illuminated with blue and white neon lights, rows of glowing servers and holographic AI interface displays, symbolizing advanced technology. The scene conveys innovation, progress, and the power of open-source artificial intelligence."
   },
   {
     "date": "2025-12-28",
@@ -97,14 +107,16 @@
     "title": "CES Leak: LG's New Monitor Uses AI to Fake 5K Resolution",
     "summary": "LG has announced the UltraGear evo (39GX950B), a 39-inch OLED gaming monitor featuring the world's first on-device AI upscaling. It uses a dedicated processor to upscale content to 5K2K resolution in real-time, offloading the burden from the GPU.",
     "engagement": "Medium",
-    "raw_text": "CES 2026 leaks are starting, and LG is doing something wild with their new UltraGear monitor. We all know running games at native 5K resolution destroys your frame rate, even with a 5090. So LG put an AI processor *inside* the monitor itself. It takes whatever resolution your PC spits out and uses on-device AI to upscale it to a crisp 5K2K in real-time. This is different from DLSS because it's happening on the screen, not your graphics card. It’s a 39-inch OLED beauty, and if this tech works without adding input lag, it could change the game. We're finally seeing AI hardware that solves a real problem for gamers: getting high pixels without melting your GPU.",
+    "raw_text": "CES 2026 leaks are starting, and LG is doing something wild with their new UltraGear monitor. We all know running games at native 5K resolution destroys your frame rate, even with a 5090. So LG put an AI processor *inside* the monitor itself. It takes whatever resolution your PC spits out and uses on-device AI to upscale it to a crisp 5K2K in real-time. This is different from DLSS because it's happening on the screen, not your graphics card. It\u2019s a 39-inch OLED beauty, and if this tech works without adding input lag, it could change the game. We're finally seeing AI hardware that solves a real problem for gamers: getting high pixels without melting your GPU.",
     "id": "L1G2M3O4",
     "category": "Hardware",
     "companies": [
       "LG"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/L1G2M3O4.png",
+    "image_prompt": "A sleek 39-inch OLED gaming monitor with thin bezels, displaying vibrant, detailed 5K-like visuals, glowing subtly in a modern gaming setup. Ambient lighting enhances the futuristic, cutting-edge atmosphere, emphasizing advanced AI technology in action."
   },
   {
     "date": "2025-12-28",
@@ -120,7 +132,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/Q5U6A7N8.png",
+    "image_prompt": "A sleek, futuristic laboratory with a glowing, high-tech quantum processor labeled 'Willow' prominently at the center, surrounded by holographic molecular models and digital data streams, illuminated by cool blue and white lighting, conveying innovation and breakthrough."
   },
   {
     "date": "2025-12-28",
@@ -139,7 +153,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/S9A0M1A2.png",
+    "image_prompt": "A high-tech newsroom with screens displaying code and cybersecurity alerts, a worried businessman observing a digital map highlighting cyberattack points, dim lighting, tense atmosphere, emphasizing urgency and digital vulnerability."
   },
   {
     "date": "2025-12-28",
@@ -148,30 +164,34 @@
     "title": "Bolmo: The AI That Reads Raw Bytes Instead of Text",
     "summary": "The Allen Institute for AI has introduced Bolmo, a model that processes raw UTF-8 bytes rather than tokens. This 'vocabulary-free' approach allows for better handling of low-resource languages and technical data without the biases of tokenization.",
     "engagement": "Medium",
-    "raw_text": "Geek out with me for a second. Almost every AI you use—ChatGPT, Gemini—doesn't actually read words; it reads 'tokens,' which are like little chunks of text. This is efficient but causes huge problems for languages other than English or for things like coding. Enter 'Bolmo' from the Allen Institute. This new model ditches tokens entirely and reads raw bytes. It literally reads the digital DNA of the text. People thought this would be too slow, but Bolmo is matching the speed of traditional models while being way better at understanding messy data, typos, and binary code. It's a 'vocabulary-free' AI. This is a massive step forward for making AI truly universal and not just optimized for English speakers.",
+    "raw_text": "Geek out with me for a second. Almost every AI you use\u2014ChatGPT, Gemini\u2014doesn't actually read words; it reads 'tokens,' which are like little chunks of text. This is efficient but causes huge problems for languages other than English or for things like coding. Enter 'Bolmo' from the Allen Institute. This new model ditches tokens entirely and reads raw bytes. It literally reads the digital DNA of the text. People thought this would be too slow, but Bolmo is matching the speed of traditional models while being way better at understanding messy data, typos, and binary code. It's a 'vocabulary-free' AI. This is a massive step forward for making AI truly universal and not just optimized for English speakers.",
     "id": "B3O4L5M6",
     "category": "AI",
     "companies": [
       "Allen Institute for AI"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/B3O4L5M6.png",
+    "image_prompt": "A sleek, modern computer server room illuminated by cool blue and white LEDs, with a close-up of a high-tech processor displaying glowing fiber optic cables, symbolizing raw data processing; a subtle digital matrix overlay evokes advanced AI innovation."
   },
   {
     "date": "2025-12-28",
     "source_file": "Combined",
     "page": 2,
-    "title": "Google Launches ₹399 'AI Plus' Plan for India",
-    "summary": "Google has rolled out a competitively priced 'AI Plus' subscription in India at ₹399/month. The plan includes Gemini 3 Pro access, 200GB of cloud storage, and new creative tools, undercutting global competitors.",
+    "title": "Google Launches \u20b9399 'AI Plus' Plan for India",
+    "summary": "Google has rolled out a competitively priced 'AI Plus' subscription in India at \u20b9399/month. The plan includes Gemini 3 Pro access, 200GB of cloud storage, and new creative tools, undercutting global competitors.",
     "engagement": "High",
-    "raw_text": "Google is going hard for the Indian market. They just dropped a new 'AI Plus' subscription that costs ₹399 a month—and it's half off for the first six months. For that price, you're not just getting their best AI model, Gemini 3 Pro; you're also getting 2 TB of storage and access to new video generation tools. This is a direct shot at OpenAI, who launched a cheaper tier earlier, but Google is bundling it with the stuff you actually use, like Drive and Photos. If you're in India, the AI war is officially driving prices down, which is a win for consumers. It's affordable, it's powerful, and it's putting pressure on everyone else to lower their rates.",
+    "raw_text": "Google is going hard for the Indian market. They just dropped a new 'AI Plus' subscription that costs \u20b9399 a month\u2014and it's half off for the first six months. For that price, you're not just getting their best AI model, Gemini 3 Pro; you're also getting 2 TB of storage and access to new video generation tools. This is a direct shot at OpenAI, who launched a cheaper tier earlier, but Google is bundling it with the stuff you actually use, like Drive and Photos. If you're in India, the AI war is officially driving prices down, which is a win for consumers. It's affordable, it's powerful, and it's putting pressure on everyone else to lower their rates.",
     "id": "G7I8N9D0",
     "category": "Business",
     "companies": [
       "Google"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/G7I8N9D0.png",
+    "image_prompt": "A vibrant, modern office scene featuring a diverse group of young professionals engaging with a sleek digital display showcasing AI icons, cloud storage symbols, and creative tools. Bright lighting emphasizes innovation and accessibility, with subtle Indian cultural elements in the background."
   },
   {
     "date": "2025-12-28",
@@ -180,14 +200,16 @@
     "title": "Meta's 'SAM Audio' Lets You Edit Sound with Words",
     "summary": "Meta has released SAM Audio, an open-source model that isolates specific sounds in a recording using text prompts. It extends the 'Segment Anything' revolution to audio, allowing creators to remix and edit soundscapes effortlessly.",
     "engagement": "Medium",
-    "raw_text": "Meta is on a roll with open source. You remember SAM, the model that could cut out any object from a photo? Well, meet SAM Audio. It does the same thing but for sound. You can feed it a noisy recording and just type 'isolate the drums' or 'remove the dog barking,' and it does it instantly. It uses a diffusion architecture to separate the audio layers. For YouTubers, podcasters, and music producers, this is a magic wand. No more fiddling with EQ for hours. There is a bit of controversy—some experts say it might 'hallucinate' sounds to fill in the gaps—but for creative work, this tool is going to save us all a ton of time.",
+    "raw_text": "Meta is on a roll with open source. You remember SAM, the model that could cut out any object from a photo? Well, meet SAM Audio. It does the same thing but for sound. You can feed it a noisy recording and just type 'isolate the drums' or 'remove the dog barking,' and it does it instantly. It uses a diffusion architecture to separate the audio layers. For YouTubers, podcasters, and music producers, this is a magic wand. No more fiddling with EQ for hours. There is a bit of controversy\u2014some experts say it might 'hallucinate' sounds to fill in the gaps\u2014but for creative work, this tool is going to save us all a ton of time.",
     "id": "M1E2T3A4",
     "category": "AI",
     "companies": [
       "Meta"
     ],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/M1E2T3A4.png",
+    "image_prompt": "A sleek modern workspace with a digital audio workstation on a high-resolution monitor, surrounded by sound equipment, headphones, and abstract soundwave visuals, illuminated by soft, focused lighting, conveying innovation and cutting-edge audio technology."
   },
   {
     "date": "2025-12-28",
@@ -201,6 +223,8 @@
     "category": "Security",
     "companies": [],
     "people": [],
-    "created_at": "2025-12-28T23:47:25+05:30"
+    "created_at": "2025-12-28T23:47:25+05:30",
+    "image_url": "images/28_12_25/K5I6M7W8.png",
+    "image_prompt": "A dark, digital-themed image depicting a sprawling network of interconnected IoT devices\u2014smartphones, cameras, home appliances\u2014blinking with red warning indicators. A shadowy, wolf-like figure emerges in the background, symbolizing the 'Kimwolf' botnet threat, evoking tension and cybersecurity danger."
   }
 ]
