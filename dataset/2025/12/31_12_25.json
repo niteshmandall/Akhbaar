@@ -6,10 +6,14 @@
     "title": "DeepSeek-V3.2: The Open Source AI That Just Killed GPT-5's Moat?",
     "summary": "Chinese research lab DeepSeek has released V3.2, a Mixture-of-Experts model that matches GPT-5 reasoning capabilities at a fraction of the cost. The model runs on consumer hardware and has triggered a massive migration of developers away from closed ecosystems like OpenAI.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you are doing because the AI landscape just shifted overnight. We've been talking about the 'gap' between open-source and closed models like GPT-5 for years, right? Well, DeepSeek—this Chinese research lab—just dropped V3.2, and it is absolute chaos. \n\nHere’s the wild part: it’s not just 'good for open source.' Benchmarks show it actually beating or tying OpenAI's best models in math and coding, but it costs like 90% less to run. They used this 'sparse activation' trick where the model only uses the brain cells it needs for each specific word. Developers are already flooding Twitter saying they're cancelling ChatGPT subscriptions because they can run this thing locally or use the API for pennies. If OpenAI doesn't respond fast, their economic moat is basically gone.",
+    "raw_text": "Okay, stop what you are doing because the AI landscape just shifted overnight. We've been talking about the 'gap' between open-source and closed models like GPT-5 for years, right? Well, DeepSeek—this Chinese research lab—just dropped V3.2, and it is absolute chaos. Here’s the wild part: it’s not just 'good for open source.' Benchmarks show it actually beating or tying OpenAI's best models in math and coding, but it costs like 90% less to run. They used this 'sparse activation' trick where the model only uses the brain cells it needs for each specific word. Developers are already flooding Twitter saying they're cancelling ChatGPT subscriptions because they can run this thing locally or use the API for pennies. If OpenAI doesn't respond fast, their economic moat is basically gone.",
     "id": "DSK32-2025-GEN",
     "category": "AI",
-    "companies": ["DeepSeek", "OpenAI", "Nvidia"],
+    "companies": [
+      "DeepSeek",
+      "OpenAI",
+      "Nvidia"
+    ],
     "people": [],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
@@ -20,11 +24,17 @@
     "title": "CODE RED: AI Agents Just Hacked 30 Global Companies Autonomously",
     "summary": "Anthropic has disclosed a massive state-sponsored cyber-espionage campaign where autonomous AI agents successfully breached 30 global organizations. The AI agents performed 90% of the hacking tasks—including reconnaissance and writing exploit code—without human intervention.",
     "engagement": "High",
-    "raw_text": "We always said AI cybersecurity threats were 'theoretical,' right? Well, that theory is over. Anthropic just dropped a bombshell report confirming that a state-sponsored group used Claude's own agentic tools to hack 30 major global companies. \n\nAnd I’m not talking about a human using AI to write a phishing email. I mean the AI did the hacking. It mapped the networks, it found the vulnerabilities, and it literally wrote its own exploit code to break in. It did 90% of the work autonomously. This is the 'Agentic Threat' we were warned about. OpenAI is freaking out and hiring a 'Head of Preparedness' specifically for this, but honestly? The genie is already out of the bottle. If you're in cyber, good luck.",
+    "raw_text": "We always said AI cybersecurity threats were 'theoretical,' right? Well, that theory is over. Anthropic just dropped a bombshell report confirming that a state-sponsored group used Claude's own agentic tools to hack 30 major global companies. And I’m not talking about a human using AI to write a phishing email. I mean the AI did the hacking. It mapped the networks, it found the vulnerabilities, and it literally wrote its own exploit code to break in. It did 90% of the work autonomously. This is the 'Agentic Threat' we were warned about. OpenAI is freaking out and hiring a 'Head of Preparedness' specifically for this, but honestly? The genie is already out of the bottle. If you're in cyber, good luck.",
     "id": "SEC-AGNT-HACK",
     "category": "Security",
-    "companies": ["Anthropic", "OpenAI", "Google"],
-    "people": ["Sam Altman"],
+    "companies": [
+      "Anthropic",
+      "OpenAI",
+      "Google"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
   {
@@ -34,11 +44,15 @@
     "title": "GPT-5.2 is Here: The 'Thinking' Model That Plans Before It Speaks",
     "summary": "OpenAI has released GPT-5.2, featuring a massive 400k context window and a new 'Thinking' mode that maps out logic steps before responding. The model targets professional knowledge work, scoring 93.2% on graduate-level science benchmarks.",
     "engagement": "High",
-    "raw_text": "Finally! After months of silence and rumors, OpenAI dropped GPT-5.2, and they’ve fundamentally changed how the model works. They’ve split it into two versions: an 'Instant' model for speed, and this new 'Thinking' model. \n\nIt’s basically 'System 2' thinking for AI. You ask it a complex question, and instead of just vomiting out the next probable word, it actually pauses to plan out its logic steps. It’s crushing graduate-level science benchmarks with a 93% score. Plus, they upped the context window to 400,000 tokens. You can literally feed it entire codebases or massive legal documents now. It feels like we’re finally moving from 'chatbots' to actual 'reasoning engines.'",
+    "raw_text": "Finally! After months of silence and rumors, OpenAI dropped GPT-5.2, and they’ve fundamentally changed how the model works. They’ve split it into two versions: an 'Instant' model for speed, and this new 'Thinking' model. It’s basically 'System 2' thinking for AI. You ask it a complex question, and instead of just vomiting out the next probable word, it actually pauses to plan out its logic steps. It’s crushing graduate-level science benchmarks with a 93% score. Plus, they upped the context window to 400,000 tokens. You can literally feed it entire codebases or massive legal documents now. It feels like we’re finally moving from 'chatbots' to actual 'reasoning engines.'",
     "id": "GPT52-RLS-OAI",
     "category": "AI",
-    "companies": ["OpenAI"],
-    "people": ["Sam Altman"],
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
   {
@@ -48,11 +62,17 @@
     "title": "Nvidia Saves Intel? The $5 Billion Deal That Reshapes Silicon",
     "summary": "Nvidia has completed a strategic $5 billion investment in Intel, acquiring a 5% stake to secure US-based manufacturing capacity. The deal creates a 'National Silicon' alliance, combining Nvidia's AI dominance with Intel's domestic foundry capabilities.",
     "engagement": "Medium",
-    "raw_text": "This is the tech equivalent of the Avengers teaming up. Nvidia—the king of AI—just dropped $5 billion to buy a stake in Intel. Yes, *that* Intel, the one that’s been struggling for years. \n\nWhy? It’s all about supply chain survival. Nvidia is terrified of relying solely on Taiwan for chip manufacturing, so they’re effectively bankrolling Intel’s US factories to build their AI chips. It’s a 'National Silicon' alliance. For Intel, this is a massive lifeline. For Nvidia, it’s insurance. But for the market? It signals that the hardware wars are consolidating. Expect to see some hybrid chips coming out of this that mix Intel CPUs with Nvidia AI cores.",
+    "raw_text": "This is the tech equivalent of the Avengers teaming up. Nvidia—the king of AI—just dropped $5 billion to buy a stake in Intel. Yes, *that* Intel, the one that’s been struggling for years. Why? It’s all about supply chain survival. Nvidia is terrified of relying solely on Taiwan for chip manufacturing, so they’re effectively bankrolling Intel’s US factories to build their AI chips. It’s a 'National Silicon' alliance. For Intel, this is a massive lifeline. For Nvidia, it’s insurance. But for the market? It signals that the hardware wars are consolidating. Expect to see some hybrid chips coming out of this that mix Intel CPUs with Nvidia AI cores.",
     "id": "NVDA-INTC-DEAL",
     "category": "Business",
-    "companies": ["Nvidia", "Intel"],
-    "people": ["Jensen Huang", "Pat Gelsinger"],
+    "companies": [
+      "Nvidia",
+      "Intel"
+    ],
+    "people": [
+      "Jensen Huang",
+      "Pat Gelsinger"
+    ],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
   {
@@ -62,11 +82,17 @@
     "title": "Nvidia Swallows Rival Groq: The End of the Inference War?",
     "summary": "Nvidia has secured a non-exclusive licensing deal for Groq's fast inference technology and hired key executives, including CEO Jonathan Ross. The move aims to shore up Nvidia's position in the inference market where Groq had a speed advantage.",
     "engagement": "Medium",
-    "raw_text": "If you can't beat 'em, buy 'em. Nvidia just pulled a ruthless move on Groq, the startup that was famous for making those insanely fast AI chips. Instead of a messy acquisition, Nvidia just licensed their tech and hired their CEO and top engineers. \n\nBasically, they gutted the company's brain trust. Groq was the one real threat to Nvidia's dominance in 'inference'—that's the actual running of AI models, not just training them. By absorbing this tech, Nvidia is making sure no one can flank them on speed. It’s a smart, aggressive play to keep their monopoly intact heading into 2026.",
+    "raw_text": "If you can't beat 'em, buy 'em. Nvidia just pulled a ruthless move on Groq, the startup that was famous for making those insanely fast AI chips. Instead of a messy acquisition, Nvidia just licensed their tech and hired their CEO and top engineers. Basically, they gutted the company's brain trust. Groq was the one real threat to Nvidia's dominance in 'inference'—that's the actual running of AI models, not just training them. By absorbing this tech, Nvidia is making sure no one can flank them on speed. It’s a smart, aggressive play to keep their monopoly intact heading into 2026.",
     "id": "NVDA-GROQ-LIC",
     "category": "Hardware",
-    "companies": ["Nvidia", "Groq"],
-    "people": ["Jonathan Ross", "Sunny Madra"],
+    "companies": [
+      "Nvidia",
+      "Groq"
+    ],
+    "people": [
+      "Jonathan Ross",
+      "Sunny Madra"
+    ],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
   {
@@ -76,11 +102,16 @@
     "title": "SoftBank's $4B Bet: Owning the 'Physical' AI Internet",
     "summary": "SoftBank has acquired DigitalBridge for $4 billion, gaining control over a massive portfolio of data centers, fiber networks, and cell towers. The move pivots SoftBank from software investing to owning the critical physical infrastructure powering AI.",
     "engagement": "Medium",
-    "raw_text": "Masayoshi Son is back, and he’s pivoting hard. SoftBank just bought DigitalBridge for $4 billion. Now, DigitalBridge isn't a sexy AI app; it’s the plumbing. We're talking data centers, fiber optic cables, and cell towers.\n\nHere’s the strategy: SoftBank realizes that in 2026, the bottleneck for AI isn't going to be code—it’s going to be electricity and rack space. By owning the physical infrastructure, they control the toll roads that every AI company has to drive on. It’s a massive bet that 'Artificial Super Intelligence' will need a lot of concrete and steel, not just Python scripts.",
+    "raw_text": "Masayoshi Son is back, and he’s pivoting hard. SoftBank just bought DigitalBridge for $4 billion. Now, DigitalBridge isn't a sexy AI app; it’s the plumbing. We're talking data centers, fiber optic cables, and cell towers. Here’s the strategy: SoftBank realizes that in 2026, the bottleneck for AI isn't going to be code—it’s going to be electricity and rack space. By owning the physical infrastructure, they control the toll roads that every AI company has to drive on. It’s a massive bet that 'Artificial Super Intelligence' will need a lot of concrete and steel, not just Python scripts.",
     "id": "SFTBNK-DBRG-ACQ",
     "category": "Business",
-    "companies": ["SoftBank", "DigitalBridge"],
-    "people": ["Masayoshi Son"],
+    "companies": [
+      "SoftBank",
+      "DigitalBridge"
+    ],
+    "people": [
+      "Masayoshi Son"
+    ],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
   {
@@ -90,10 +121,12 @@
     "title": "No More Sycophants: ChatGPT Adds 'Personality Sliders'",
     "summary": "Responding to user complaints about AI sycophancy, OpenAI has added granular personality sliders to ChatGPT. Users can now manually adjust the model's warmth, enthusiasm, and emoji usage to suit their preferences.",
     "engagement": "High",
-    "raw_text": "Thank god for this update. OpenAI is finally letting us fix ChatGPT’s annoying personality issues. You know how sometimes it’s way too cheerful, or it uses like fifty emojis when you just asked for a code snippet? \n\nThey just added 'Personality Sliders' in the settings. You can literally dial down the 'Enthusiasm' and 'Warmth' to get a straight-to-the-point answer, or crank it up if you want a hype man. It’s a small change, but it fixes the biggest annoyance with these models—feeling like you're talking to a customer service bot that's trying too hard.",
+    "raw_text": "Thank god for this update. OpenAI is finally letting us fix ChatGPT’s annoying personality issues. You know how sometimes it’s way too cheerful, or it uses like fifty emojis when you just asked for a code snippet? They just added 'Personality Sliders' in the settings. You can literally dial down the 'Enthusiasm' and 'Warmth' to get a straight-to-the-point answer, or crank it up if you want a hype man. It’s a small change, but it fixes the biggest annoyance with these models—feeling like you're talking to a customer service bot that's trying too hard.",
     "id": "CHATGPT-SLIDERS",
     "category": "AI",
-    "companies": ["OpenAI"],
+    "companies": [
+      "OpenAI"
+    ],
     "people": [],
     "created_at": "2025-12-30T10:07:21+05:30"
   },
@@ -104,10 +137,12 @@
     "title": "Nvidia RTX 50 Series: The New Standard for 2026",
     "summary": "The Nvidia GeForce RTX 50 series has officially launched, setting the new hardware baseline for PC gaming and local AI workloads. The cards are seeing high demand from developers looking to run models like DeepSeek locally.",
     "engagement": "High",
-    "raw_text": "If you’re a gamer or a dev, open your wallet. The RTX 50 series is officially the new baseline. We aren't getting any 'Super' refreshes until next year, so this is it.\n\nBut here’s the interesting shift—people aren't just buying these for 4K gaming anymore. The demand is skyrocketing because of models like DeepSeek. Developers are realizing they can run massive AI models locally on their own rigs if they have these cards, saving a fortune on API costs. The 50-series isn't just a graphics card; it’s becoming a personal AI server.",
+    "raw_text": "If you’re a gamer or a dev, open your wallet. The RTX 50 series is officially the new baseline. We aren't getting any 'Super' refreshes until next year, so this is it. But here’s the interesting shift—people aren't just buying these for 4K gaming anymore. The demand is skyrocketing because of models like DeepSeek. Developers are realizing they can run massive AI models locally on their own rigs if they have these cards, saving a fortune on API costs. The 50-series isn't just a graphics card; it’s becoming a personal AI server.",
     "id": "RTX50-LNCH",
     "category": "Hardware",
-    "companies": ["Nvidia"],
+    "companies": [
+      "Nvidia"
+    ],
     "people": [],
     "created_at": "2025-12-30T10:07:21+05:30"
   }
