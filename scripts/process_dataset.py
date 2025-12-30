@@ -186,14 +186,25 @@ def generate_image_prompt(title, summary):
     try:
         # Encode the prompt for the URL
         encoded_prompt = urllib.parse.quote(prompt)
-        # Pollinations AI text endpoint
-        url = f"https://text.pollinations.ai/{encoded_prompt}"
         
-        response = requests.get(url, timeout=30)
+        # Use authenticated text endpoint if key is available, else fallback might fail
+        api_key = os.getenv("POLLINATIONS_API_KEY")
+        headers = {}
+        if api_key:
+            headers["Authorization"] = f"Bearer {api_key}"
+            # Use gen.pollinations.ai for authenticated requests
+            url = f"https://gen.pollinations.ai/text/{encoded_prompt}"
+        else:
+            # Fallback to old endpoint (might be deprecated)
+            url = f"https://text.pollinations.ai/{encoded_prompt}"
+        
+        response = requests.get(url, headers=headers, timeout=30)
         if response.status_code == 200:
             return response.text.strip()
         else:
             print(f"Error generating prompt: Status {response.status_code}")
+            try: print(f"  Response: {response.text[:200]}")
+            except: pass
             return None
             
     except Exception as e:
@@ -203,13 +214,26 @@ def generate_image_prompt(title, summary):
 from dotenv import load_dotenv
 
 # Load environment variables
-load_dotenv()
+# Try to find .env file explicitly
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# Check current dir
+env_path = os.path.join(current_dir, '.env')
+if not os.path.exists(env_path):
+    # Check parent dir (project root)
+    env_path = os.path.join(os.path.dirname(current_dir), '.env')
+
+if os.path.exists(env_path):
+    load_dotenv(env_path)
+    print(f"Loaded .env from: {env_path}")
+else:
+    load_dotenv() # Fallback to default search
+    print("Warning: Could not enable explicit .env path, using default search.")
 
 def generate_image(prompt):
     """Generates an image using Pollinations.AI API with authentication."""
     api_key = os.getenv("POLLINATIONS_API_KEY")
     if not api_key:
-        print("  Error: POLLINATIONS_API_KEY not found in environment variables.")
+        print(f"  Error: POLLINATIONS_API_KEY not found in environment variables. Checked path: {env_path if 'env_path' in locals() else 'default'}")
         return None
 
     # Encode the prompt for the URL
