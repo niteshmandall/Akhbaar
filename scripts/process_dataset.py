@@ -200,22 +200,43 @@ def generate_image_prompt(title, summary):
         print(f"Error generating prompt with Pollinations AI: {e}")
         return None
 
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
 def generate_image(prompt):
-    """Generates an image using Pollinations AI (Free) with retry logic."""
+    """Generates an image using Pollinations.AI API with authentication."""
+    api_key = os.getenv("POLLINATIONS_API_KEY")
+    if not api_key:
+        print("  Error: POLLINATIONS_API_KEY not found in environment variables.")
+        return None
+
     # Encode the prompt for the URL
     encoded_prompt = urllib.parse.quote(prompt)
     # Add a random seed to ensure variety
     seed = random.randint(0, 10000)
-    # Use the correct endpoint and add model=sdxl
-    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=sdxl"
+    
+    # Use the authenticated endpoint
+    # https://gen.pollinations.ai/image/{prompt}
+    url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
+    
+    headers = {
+        "Authorization": f"Bearer {api_key}"
+    }
     
     for attempt in range(5):  # 5 retry attempts
         try:
-            response = requests.get(url, timeout=30)
+            response = requests.get(url, headers=headers, timeout=60) # Increased timeout for generation
             if response.status_code == 200:
                 return response.content
             else:
                 print(f"  Attempt {attempt+1} failed with status: {response.status_code}")
+                # Print response body for debugging if possible, but keep it brief or suppressed if binary
+                try: 
+                    print(f"  Response: {response.text[:200]}")
+                except: pass
+                
         except Exception as e:
             print(f"  Attempt {attempt+1} failed with error: {e}")
 
