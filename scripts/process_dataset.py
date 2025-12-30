@@ -201,6 +201,9 @@ def generate_image_prompt(title, summary):
         response = requests.get(url, headers=headers, timeout=30)
         if response.status_code == 200:
             return response.text.strip()
+        elif response.status_code == 400:
+            print("  Warning: content filtered by AI provider (likely safety policy). Skipping.")
+            return None
         else:
             print(f"Error generating prompt: Status {response.status_code}")
             try: print(f"  Response: {response.text[:200]}")
