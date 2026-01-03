@@ -6,12 +6,18 @@
     "title": "OpenAI's Poisoned Oracle: Ads Coming to ChatGPT Free Tier",
     "summary": "OpenAI is reportedly preparing to introduce sponsored content and search ads into the free version of ChatGPT, driven by the high costs of inference. Leaked beta code suggests ads could appear in the sidebar or even be prioritized within conversational responses.",
     "engagement": "High",
-    "raw_text": "Okay, we need to talk about OpenAI right now because this is going to make a lot of people angry. Leaks are coming out that they are actively testing 'sponsored content' inside ChatGPT. Yes, ads. But it's not just a banner on the side. The rumors—backed by code found in the Android beta—suggest we might see a 'poisoned oracle' situation. Imagine asking for a headache cure and the AI recommends Advil because they paid the most, not because it's medically the best. They’re calling it the 'Trust Paradox'—if you turn an impartial AI into a billboard, do you destroy the product? Honestly, with the cost of running these models, we knew the free lunch had to end eventually, but inserting ads directly into the answers? That feels like a dangerous line to cross.",
+    "raw_text": "Okay, we need to talk about OpenAI right now because this is going to make a lot of people angry. Leaks are coming out that they are actively testing 'sponsored content' inside ChatGPT. Yes, ads. But it's not just a banner on the side. The rumors\u2014backed by code found in the Android beta\u2014suggest we might see a 'poisoned oracle' situation. Imagine asking for a headache cure and the AI recommends Advil because they paid the most, not because it's medically the best. They\u2019re calling it the 'Trust Paradox'\u2014if you turn an impartial AI into a billboard, do you destroy the product? Honestly, with the cost of running these models, we knew the free lunch had to end eventually, but inserting ads directly into the answers? That feels like a dangerous line to cross.",
     "id": "oa_ads_001",
     "category": "AI",
-    "companies": ["OpenAI", "Microsoft", "Google"],
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/oa_ads_001.png",
+    "image_prompt": "Realistic newsroom-style image: concerned user at laptop viewing ChatGPT-like chat window with highlighted sidebar ads, faint corporate logos, gold coins hovering, dim newsroom lighting, moody, high-detail, no visible text."
   },
   {
     "date": "2026-01-03",
@@ -20,12 +26,18 @@
     "title": "DeepMind Co-Founder Warns: AI to Replace Remote Cognitive Jobs",
     "summary": "Shane Legg, Co-Founder of Google DeepMind, predicts that remote white-collar jobs are at high risk of obsolescence, suggesting a future 100-to-20 efficiency ratio for software teams. He argues that if a job can be done entirely via a screen, an AI agent will eventually do it faster and cheaper.",
     "engagement": "High",
-    "raw_text": "If you work remotely, you need to hear this. Shane Legg from Google DeepMind just dropped a massive reality check. He’s predicting that the 'digital nomad' era is basically walking into a trap. His rule of thumb is brutal: 'If you can do the job remotely... just using a computer, then that job is potentially at risk.' He’s talking about an 80% reduction in headcount for software teams—shrinking 100 engineers down to just 20 super-augmented ones. This isn't just about 'tools helping us' anymore; it's about the 'hollowing out' of the middle class in tech. If you're doing purely cognitive work behind a screen, the safety net is gone. It’s time to skill up or get hands-on, literally.",
+    "raw_text": "If you work remotely, you need to hear this. Shane Legg from Google DeepMind just dropped a massive reality check. He\u2019s predicting that the 'digital nomad' era is basically walking into a trap. His rule of thumb is brutal: 'If you can do the job remotely... just using a computer, then that job is potentially at risk.' He\u2019s talking about an 80% reduction in headcount for software teams\u2014shrinking 100 engineers down to just 20 super-augmented ones. This isn't just about 'tools helping us' anymore; it's about the 'hollowing out' of the middle class in tech. If you're doing purely cognitive work behind a screen, the safety net is gone. It\u2019s time to skill up or get hands-on, literally.",
     "id": "deepmind_jobs_002",
     "category": "Future of Work",
-    "companies": ["Google DeepMind"],
-    "people": ["Shane Legg"],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [
+      "Shane Legg"
+    ],
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/deepmind_jobs_002.png",
+    "image_prompt": "Photorealistic newsroom-style photo: Shane Legg, mid-40s tech co-founder, sits pensively at a glass desk in a dim open-plan office, empty laptops and chairs behind him, a translucent AI hologram rising from a laptop, cool muted tones, dramatic window light, somber mood."
   },
   {
     "date": "2026-01-03",
@@ -34,12 +46,21 @@
     "title": "NVIDIA Crisis: RTX 50 Series Canceled Over Memory Shortage?",
     "summary": "Rumors suggest NVIDIA may cancel its RTX 50 Super refresh due to a critical shortage of GDDR memory, as manufacturers pivot to High Bandwidth Memory (HBM) for AI data centers. This prioritization of enterprise AI customers over gamers could lead to significant price hikes.",
     "engagement": "High",
-    "raw_text": "Gamers, we are officially second-class citizens now. The rumor mill is on fire with reports that NVIDIA might straight-up cancel the RTX 50 Super refresh. Why? Because the AI boom is eating all the memory. Companies like Samsung and SK Hynix are pivoting their factories to make HBM for data centers to train things like GPT-5, leaving barely any capacity for the GDDR memory used in gaming cards. We’re looking at a 'product vacuum' in 2026 and likely massive price hikes for whatever stock is left. It’s the clearest sign yet that NVIDIA cares way more about their enterprise AI clients than the people who built their brand. If you were waiting to upgrade, you might be in trouble.",
+    "raw_text": "Gamers, we are officially second-class citizens now. The rumor mill is on fire with reports that NVIDIA might straight-up cancel the RTX 50 Super refresh. Why? Because the AI boom is eating all the memory. Companies like Samsung and SK Hynix are pivoting their factories to make HBM for data centers to train things like GPT-5, leaving barely any capacity for the GDDR memory used in gaming cards. We\u2019re looking at a 'product vacuum' in 2026 and likely massive price hikes for whatever stock is left. It\u2019s the clearest sign yet that NVIDIA cares way more about their enterprise AI clients than the people who built their brand. If you were waiting to upgrade, you might be in trouble.",
     "id": "nvidia_gpu_003",
     "category": "Hardware",
-    "companies": ["NVIDIA", "Samsung", "SK Hynix", "AMD"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "companies": [
+      "NVIDIA",
+      "Samsung",
+      "SK Hynix",
+      "AMD"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/nvidia_gpu_003.png",
+    "image_prompt": "Realistic newsroom photo: halted GPU production line with empty conveyor, close-up of a high-end graphics card PCB in foreground, worried engineers consulting tablets, cool blue-lit AI server racks looming in background, tense dramatic lighting, shallow depth"
   },
   {
     "date": "2026-01-03",
@@ -48,12 +69,18 @@
     "title": "Neuralink Goes Mass Production: Automated Surgery by 2026",
     "summary": "Elon Musk has announced that Neuralink will begin high-volume production of brain-computer interfaces in 2026, transitioning to fully automated surgical procedures. The goal is to scale adoption rapidly, allowing users to control devices via thought.",
     "engagement": "High",
-    "raw_text": "Elon Musk is hitting the accelerator on Neuralink. He just announced they are moving to 'high-volume production' starting in 2026. But the crazy part is how—they are shifting to fully automated surgery. Imagine walking into a clinic and having a robot install a chip in your brain with almost no human surgeon involvement. The new 'threads' will go through the dura without needing to remove it, which is a massive leap for safety and speed. They're positioning this as the future of interacting with technology—no keyboards, no voice, just thought. It sounds like sci-fi, but if they pull off the manufacturing scale this year, Cyberpunk 2077 is getting a lot more real.",
+    "raw_text": "Elon Musk is hitting the accelerator on Neuralink. He just announced they are moving to 'high-volume production' starting in 2026. But the crazy part is how\u2014they are shifting to fully automated surgery. Imagine walking into a clinic and having a robot install a chip in your brain with almost no human surgeon involvement. The new 'threads' will go through the dura without needing to remove it, which is a massive leap for safety and speed. They're positioning this as the future of interacting with technology\u2014no keyboards, no voice, just thought. It sounds like sci-fi, but if they pull off the manufacturing scale this year, Cyberpunk 2077 is getting a lot more real.",
     "id": "neuralink_mass_004",
     "category": "Science",
-    "companies": ["Neuralink"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "companies": [
+      "Neuralink"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/neuralink_mass_004.png",
+    "image_prompt": "Photorealistic news image: sterile, high-tech operating suite with robotic arms performing automated neural implant surgery on a calm patient; nearby conveyor line producing sleek brain-computer chips; technicians monitor data; cool blue clinical lighting."
   },
   {
     "date": "2026-01-03",
@@ -62,12 +89,18 @@
     "title": "Google & Apple Battle for Your Face: New AI Smart Glasses",
     "summary": "Google is preparing two versions of Gemini-powered smart glasses for 2026, while reports indicate Apple is launching smart eyewear later this year. Google's devices include an audio-only version and a display version running Android XR.",
     "engagement": "High",
-    "raw_text": "The smartphone era might actually be ending. Google is coming back for a second try after the Google Glass failure, but this time they have a secret weapon: Gemini. They are launching two pairs of smart glasses in 2026. One is audio-only—think 'Her' in real life—and one has a display running the new Android XR. But they aren't alone. Apple is celebrating its 50th anniversary with a massive product blitz that reportedly includes their own smart glasses. We are moving from 'staring at screens' to 'ambient intelligence.' If these things actually work and don't look dorky, we might finally be able to leave our phones in our pockets.",
+    "raw_text": "The smartphone era might actually be ending. Google is coming back for a second try after the Google Glass failure, but this time they have a secret weapon: Gemini. They are launching two pairs of smart glasses in 2026. One is audio-only\u2014think 'Her' in real life\u2014and one has a display running the new Android XR. But they aren't alone. Apple is celebrating its 50th anniversary with a massive product blitz that reportedly includes their own smart glasses. We are moving from 'staring at screens' to 'ambient intelligence.' If these things actually work and don't look dorky, we might finally be able to leave our phones in our pockets.",
     "id": "smart_glasses_005",
     "category": "Mobile",
-    "companies": ["Google", "Apple", "Samsung"],
+    "companies": [
+      "Google",
+      "Apple",
+      "Samsung"
+    ],
     "people": [],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/smart_glasses_005.png",
+    "image_prompt": "Photorealistic news image: two people facing each other on a sleek stage, one wearing slim audio-only smart glasses, the other wearing display AR glasses with soft holographic glow; dramatic but neutral studio lighting, modern newsroom background, shallow depth of field, high-res"
   },
   {
     "date": "2026-01-03",
@@ -76,12 +109,19 @@
     "title": "U.S. Kills H-1B Lottery: New Wage-Based Visa Rules",
     "summary": "The U.S. Department of Homeland Security is abolishing the random H-1B lottery in favor of a wage-based selection process effective February 2026. This move prioritizes high-salary applicants to curb abuse by outsourcing consultancies.",
     "engagement": "High",
-    "raw_text": "This is a massive shake-up for anyone trying to work in US tech. The random H-1B lottery is officially dead. Starting February 2026, the US government is switching to a wage-based selection system. Here's what that means: if you have a high-paying offer from a company like Google or Open AI (Level 4 wages), you get 4x the entries. If you're entry-level or working for a 'body shop' consultancy, you are statistically pushed to the back of the line. They are trying to stop outsourcing firms from gaming the system, but the side effect is that it's going to be incredibly hard for fresh grads to get in. It’s strictly 'pay-to-play' now—higher salary equals higher priority.",
+    "raw_text": "This is a massive shake-up for anyone trying to work in US tech. The random H-1B lottery is officially dead. Starting February 2026, the US government is switching to a wage-based selection system. Here's what that means: if you have a high-paying offer from a company like Google or Open AI (Level 4 wages), you get 4x the entries. If you're entry-level or working for a 'body shop' consultancy, you are statistically pushed to the back of the line. They are trying to stop outsourcing firms from gaming the system, but the side effect is that it's going to be incredibly hard for fresh grads to get in. It\u2019s strictly 'pay-to-play' now\u2014higher salary equals higher priority.",
     "id": "h1b_visa_006",
     "category": "Policy",
-    "companies": ["Google", "Microsoft", "TCS", "Infosys"],
+    "companies": [
+      "Google",
+      "Microsoft",
+      "TCS",
+      "Infosys"
+    ],
     "people": [],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/h1b_visa_006.png",
+    "image_prompt": "Photorealistic news image: DHS building under gray sky; foreground diverse tech workers watching a giant glass sphere of lottery balls morph into ascending wage bars built from stacked coins and paystubs; newsroom lighting, somber, tense, high-detail"
   },
   {
     "date": "2026-01-03",
@@ -93,22 +133,33 @@
     "raw_text": "Keep your eyes on DeepSeek. This Chinese AI lab is quietly rewriting the rules of the AI arms race. They just dropped a new paper on something called 'Manifold-Constrained Hyper-Connections,' and while the name is a mouthful, the implication is huge. They figured out how to train massive models without the massive compute cost that US companies are paying. Remember, they already matched OpenAI's reasoning capabilities with their R1 model for pennies on the dollar. This new architecture suggests they are about to leapfrog again. While Google and Microsoft are building nuclear power plants for compute, DeepSeek is just building smarter algorithms. Efficiency might win this war.",
     "id": "deepseek_mhc_007",
     "category": "AI Research",
-    "companies": ["DeepSeek"],
+    "companies": [
+      "DeepSeek"
+    ],
     "people": [],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/deepseek_mhc_007.png",
+    "image_prompt": "Photorealistic newsroom-style image of a sleek Chinese AI lab: engineers and a confident lead researcher beside towering server racks, glowing blue-green manifold ribbons connecting nodes above, cinematic warm-cool lighting, tense yet optimistic mood, ultra-detailed, high-res"
   },
   {
     "date": "2026-01-03",
-    "source_file": "Today’s Tech News – January 3, 2026.pdf",
+    "source_file": "Today\u2019s Tech News \u2013 January 3, 2026.pdf",
     "page": 1,
     "title": "OpenAI Planning Dedicated Audio-First Device for 2027",
     "summary": "OpenAI has reorganized its teams to focus on a dedicated audio-first personal device, expected around 2027, with a new natural voice model coming sooner. The move signals a shift away from screens toward ubiquitous voice computing.",
     "engagement": "High",
-    "raw_text": "OpenAI isn't just a software company anymore—they are coming for hardware. Reports are confirming they've completely reorganized their teams to build a dedicated 'audio-first' device. Think of the movie 'Her' again. They want to get away from screens entirely. They are launching a new voice model early this year that can handle interruptions and speak while you speak, but the end game is a physical gadget in 2027. Jony Ive (the guy who designed the iPhone) is involved, so it’s going to look slick. They are betting that the future isn't typing into a chatbot; it's having a constant conversation with an agent that lives in your ear.",
+    "raw_text": "OpenAI isn't just a software company anymore\u2014they are coming for hardware. Reports are confirming they've completely reorganized their teams to build a dedicated 'audio-first' device. Think of the movie 'Her' again. They want to get away from screens entirely. They are launching a new voice model early this year that can handle interruptions and speak while you speak, but the end game is a physical gadget in 2027. Jony Ive (the guy who designed the iPhone) is involved, so it\u2019s going to look slick. They are betting that the future isn't typing into a chatbot; it's having a constant conversation with an agent that lives in your ear.",
     "id": "openai_audio_008",
     "category": "Hardware",
-    "companies": ["OpenAI"],
-    "people": ["Sam Altman", "Jony Ive"],
-    "created_at": "2026-01-03T21:50:18.000Z"
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman",
+      "Jony Ive"
+    ],
+    "created_at": "2026-01-03T21:50:18.000Z",
+    "image_url": "images/04_01_26/openai_audio_008.png",
+    "image_prompt": "Photorealistic image of a sleek, pebble-shaped audio-first device on a modern kitchen island, soft pulsing LED, person mid-speech smiling, ambient warm light, no visible screens, minimalist home, shallow depth of field, high-detail, news-style composition"
   }
 ]
