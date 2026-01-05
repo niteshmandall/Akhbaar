@@ -6,7 +6,7 @@
     "title": "Nvidia's $20 Billion Christmas Shock: Buying Groq?",
     "summary": "Nvidia has executed a strategic maneuver to acquire Groq's talent and license its IP for $20 billion, neutralizing a key rival. The deal pivots Nvidia from training-focused GPUs to a dominance in the inference market.",
     "engagement": "High",
-    "raw_text": "Okay, stop scrolling because the chip wars just ended on Christmas Eve. Nvidia just dropped a massive twenty-billion-dollar bomb on the industry. They aren't fully buying Groq\u2014they're doing something smarter. They're licensing Groq\u2019s 'LPU' technology and hiring their founder, Jonathan Ross. Why does this matter? Because Groq was the one company making chips faster than Nvidia for *running* AI, not just training it. By swallowing up their tech and talent, Nvidia effectively just checkmated the entire industry. They now own the training stack with Blackwell and the speed stack with Groq. If you're an investor, this is Nvidia saying 'we are not losing.' If you're a dev, get ready for insane inference speeds coming to team Green.",
+    "raw_text": "Okay, stop scrolling because the chip wars just ended on Christmas Eve. Nvidia just dropped a massive twenty-billion-dollar bomb on the industry. They aren't fully buying Groq—they're doing something smarter. They're licensing Groq’s 'LPU' technology and hiring their founder, Jonathan Ross. Why does this matter? Because Groq was the one company making chips faster than Nvidia for *running* AI, not just training it. By swallowing up their tech and talent, Nvidia effectively just checkmated the entire industry. They now own the training stack with Blackwell and the speed stack with Groq. If you're an investor, this is Nvidia saying 'we are not losing.' If you're a dev, get ready for insane inference speeds coming to team Green.",
     "id": "NVDA20BGROQ",
     "category": "Hardware",
     "companies": [
@@ -29,7 +29,7 @@
     "title": "OpenAI's 'Code Red': GPT-5.2 is Here",
     "summary": "Following an internal 'code red', OpenAI released GPT-5.2 with three variants, boasting 38% fewer hallucinations and a 'Thinking' model that outperforms humans in 70% of professional tasks.",
     "engagement": "High",
-    "raw_text": "We have to talk about OpenAI's panic button. Sam Altman literally issued a 'code red' and the result is GPT-5.2. They've split it into three versions: Instant, Thinking, and Pro. The 'Thinking' model is the real story here\u2014it's reportedly crushing 70% of professional tasks eleven times faster than a human expert. But the stat that actually matters? 38% fewer hallucinations. If you've been frustrated by ChatGPT making stuff up, this is the update you've been waiting for. It feels like they are genuinely scared of Google's Gemini 3, and honestly, this rapid release cycle is proof that the competition is finally heating up. I'm testing the 'Thinking' mode right now, and the math capabilities are actually scary good.",
+    "raw_text": "We have to talk about OpenAI's panic button. Sam Altman literally issued a 'code red' and the result is GPT-5.2. They've split it into three versions: Instant, Thinking, and Pro. The 'Thinking' model is the real story here—it's reportedly crushing 70% of professional tasks eleven times faster than a human expert. But the stat that actually matters? 38% fewer hallucinations. If you've been frustrated by ChatGPT making stuff up, this is the update you've been waiting for. It feels like they are genuinely scared of Google's Gemini 3, and honestly, this rapid release cycle is proof that the competition is finally heating up. I'm testing the 'Thinking' mode right now, and the math capabilities are actually scary good.",
     "id": "GPT52CODERED",
     "category": "AI",
     "companies": [
@@ -50,7 +50,7 @@
     "title": "TikTok is Staying: The Oracle Joint Venture Explained",
     "summary": "The US TikTok saga has concluded with the creation of 'TikTok USDS Joint Venture LLC', 50% owned by Oracle and US investors. The algorithm will be retrained exclusively on US data to satisfy national security concerns.",
     "engagement": "High",
-    "raw_text": "So, TikTok isn't getting banned. But the TikTok you know is basically getting a lobotomy. Here's the deal: ByteDance is keeping a chunk of the company, but they are creating a new 'Joint Venture' with Oracle. The wildest part? They have to retrain the entire recommendation algorithm\u2014the 'secret sauce' that makes TikTok so addictive\u2014exclusively on US data. Oracle engineers are going to be watching over the code like hawks. This is a huge precedent. We're seeing the internet fracture in real-time. If you're a creator, your reach might feel different soon because the algorithm feeds are being partitioned. It's 'Managed Sovereignty,' and it's the new normal for the internet.",
+    "raw_text": "So, TikTok isn't getting banned. But the TikTok you know is basically getting a lobotomy. Here's the deal: ByteDance is keeping a chunk of the company, but they are creating a new 'Joint Venture' with Oracle. The wildest part? They have to retrain the entire recommendation algorithm—the 'secret sauce' that makes TikTok so addictive—exclusively on US data. Oracle engineers are going to be watching over the code like hawks. This is a huge precedent. We're seeing the internet fracture in real-time. If you're a creator, your reach might feel different soon because the algorithm feeds are being partitioned. It's 'Managed Sovereignty,' and it's the new normal for the internet.",
     "id": "TIKTOKORACLEJV",
     "category": "Social Media",
     "companies": [
@@ -73,7 +73,7 @@
     "title": "Amazon Ring's 'Creepy' New Update: Facial Recognition",
     "summary": "Amazon has rolled out a 'Familiar Faces' feature for Ring doorbells, allowing the AI to identify and label frequent visitors. Privacy groups like the EFF are pushing back, citing non-consensual biometric scanning of neighbors.",
     "engagement": "High",
-    "raw_text": "Check your doorbell settings, because things just got very Black Mirror. Amazon just pushed an update to Ring cameras called 'Familiar Faces.' It uses Generative AI to learn who your friends and family are\u2014labelling 'Mom' or 'The Delivery Guy' automatically. Cool convenience, right? Well, privacy groups are screaming about this. The problem is, your mailman didn't consent to being face-scanned and added to your private database. It's getting so messy that this feature is actually geo-blocked in places like Illinois and Texas because of biometric laws. It creates this weird reality where your doorbell has superpowers in one state and is dumb in another. Would you turn this on, or is it too much surveillance?",
+    "raw_text": "Check your doorbell settings, because things just got very Black Mirror. Amazon just pushed an update to Ring cameras called 'Familiar Faces.' It uses Generative AI to learn who your friends and family are—labelling 'Mom' or 'The Delivery Guy' automatically. Cool convenience, right? Well, privacy groups are screaming about this. The problem is, your mailman didn't consent to being face-scanned and added to your private database. It's getting so messy that this feature is actually geo-blocked in places like Illinois and Texas because of biometric laws. It creates this weird reality where your doorbell has superpowers in one state and is dumb in another. Would you turn this on, or is it too much surveillance?",
     "id": "AMZNRINGFACE",
     "category": "Consumer Tech",
     "companies": [
@@ -92,7 +92,7 @@
     "title": "Tesla Under Investigation: The 'Hidden' Door Latch Problem",
     "summary": "The NHTSA has opened a formal defect petition regarding the Tesla Model 3's emergency door release mechanisms. Regulators allege the mechanical releases are hidden and unintuitive, posing risks in power-failure scenarios.",
     "engagement": "High",
-    "raw_text": "This is a serious safety alert for Tesla owners. The NHTSA\u2014the federal safety regulators\u2014are officially investigating the Model 3's door handles. We all know the electronic button is cool, but what happens when the battery dies or there's a fire? There *is* a manual latch, but regulators are saying it's too hidden. In the back seat, you literally have to dig under a flap in the door pocket to find it. In a panic situation with smoke filling the car, nobody is going to find that. This investigation challenges the whole 'minimalist' design philosophy. We might see a massive recall to force physical, obvious door handles back into these cars. Form over function might have finally hit a wall.",
+    "raw_text": "This is a serious safety alert for Tesla owners. The NHTSA—the federal safety regulators—are officially investigating the Model 3's door handles. We all know the electronic button is cool, but what happens when the battery dies or there's a fire? There *is* a manual latch, but regulators are saying it's too hidden. In the back seat, you literally have to dig under a flap in the door pocket to find it. In a panic situation with smoke filling the car, nobody is going to find that. This investigation challenges the whole 'minimalist' design philosophy. We might see a massive recall to force physical, obvious door handles back into these cars. Form over function might have finally hit a wall.",
     "id": "TESLADOORPROBE",
     "category": "Automotive",
     "companies": [
@@ -132,8 +132,8 @@
     "title": "Samsung's CES Leak: Your Fridge Will Use Google Gemini",
     "summary": "Ahead of CES 2026, Samsung revealed its 'Ambient AI' strategy, embedding Google's Gemini LLM directly into appliances. The new Bespoke fridge uses vision AI to identify food inside Tupperware and generate recipes.",
     "engagement": "Medium",
-    "raw_text": "Samsung is trying to make 'Ambient AI' happen at CES next month. The big news? They aren't building their own AI brain. They're putting Google Gemini inside everything. Your fridge is going to have Gemini-powered vision. It can look at a stack of Tupperware, guess what leftovers are inside based on context, and suggest a recipe to use them up before they go bad. It sounds kind of unnecessary until you realize this is the end of 'dumb' appliances. Samsung is admitting that hardware is dead\u2014the value is in the software ecosystem. If my vacuum cleaner can actually distinguish between a dog toy and a... well, a mess the dog made... I'm buying it.",
-    "id": "SAMSUNGCES26",
+    "raw_text": "Samsung is trying to make 'Ambient AI' happen at CES next month. The big news? They aren't building their own AI brain. They're putting Google Gemini inside everything. Your fridge is going to have Gemini-powered vision. It can look at a stack of Tupperware, guess what leftovers are inside based on context, and suggest a recipe to use them up before they go bad. It sounds kind of unnecessary until you realize this is the end of 'dumb' appliances. Samsung is admitting that hardware is dead—the value is in the software ecosystem. If my vacuum cleaner can actually distinguish between a dog toy and a... well, a mess the dog made... I'm buying it.",
+    "id": "311a1e4b",
     "category": "Consumer Tech",
     "companies": [
       "Samsung",
@@ -141,7 +141,7 @@
     ],
     "people": [],
     "created_at": "2025-12-26T18:36:34+05:30",
-    "image_url": "images/26_12_25/SAMSUNGCES26.png",
+    "image_url": "images/26_12_25/311a1e4b.png",
     "image_prompt": "A sleek, modern kitchen featuring a futuristic Samsung Bespoke fridge with open door revealing vibrant, well-organized Tupperware containers filled with colorful food. Soft ambient lighting highlights the fridge's digital interface and built-in vision AI, exuding innovation and efficiency."
   },
   {
@@ -151,7 +151,7 @@
     "title": "Disney Invests $1B in OpenAI: Sora Movies Coming?",
     "summary": "Disney has invested $1 billion in OpenAI and secured a licensing deal to use the Sora video model with its IP. The partnership suggests future Disney+ content may feature AI-generated elements involving Marvel and Star Wars characters.",
     "engagement": "Medium",
-    "raw_text": "This is the collaboration we all feared or hoped for. Disney just dropped a cool billion dollars into OpenAI. But here is the kicker: they are the first major partner for Sora, the video generation AI. They are officially licensing their IP\u2014Marvel, Star Wars, Pixar\u2014to be used with these models. We aren't just talking about better CGI tools for animators. They are talking about user-generated content on Disney+. Imagine generating your own Star Wars short film legally on their platform. It\u2019s a massive pivot for a company that is usually so protective of its copyright. Hollywood is changing fast, and Disney just bought a first-class ticket on the AI train.",
+    "raw_text": "This is the collaboration we all feared or hoped for. Disney just dropped a cool billion dollars into OpenAI. But here is the kicker: they are the first major partner for Sora, the video generation AI. They are officially licensing their IP—Marvel, Star Wars, Pixar—to be used with these models. We aren't just talking about better CGI tools for animators. They are talking about user-generated content on Disney+. Imagine generating your own Star Wars short film legally on their platform. It’s a massive pivot for a company that is usually so protective of its copyright. Hollywood is changing fast, and Disney just bought a first-class ticket on the AI train.",
     "id": "DISNEYOPENAI1B",
     "category": "Business",
     "companies": [
