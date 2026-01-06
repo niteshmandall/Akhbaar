@@ -1,219 +1,222 @@
 [
   {
-    "id": "GEO-VEN-001",
-    "date": "2026-01-06",
-    "category": "Geopolitics",
-    "sub_category": "Latin America Crisis",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "US Spec Ops KIDNAP Maduro? (War Started?)",
-    "title_professional": "US Forces Extract Venezuelan President Maduro; Global Tensions Rise",
-    "virality_score": 10,
-    "summary_short": "US special forces executed a precision extraction of Nicolas Maduro in Caracas, charging him with narco-terrorism in NYC. The move has created a power vacuum and signaled a return to aggressive resource-driven US foreign policy.",
-    "script_hook": "Wait, did the US actually just kidnap a sitting president? You need to see this.",
-    "script_body": "Okay, stop scrolling because history just changed overnight. In a move that looks straight out of a Tom Clancy novel, US special forces breached security in Caracas and literally extracted President Nicolás Maduro. Yes, he is currently sitting in a jail cell in New York City facing narco-terrorism charges. The White House is calling it a 'surgical law enforcement operation,' but let's be real—this is a massive geopolitical earthquake. China and Russia are furious, calling it a violation of sovereignty, while the US is openly talking about 'temporarily running' Venezuela to stabilize oil markets. We are talking about the world's largest oil reserves suddenly changing hands. Is this the return of 19th-century imperialism? The markets are rallying, but diplomatic ties are snapping everywhere. This is the biggest power play we've seen in decades.",
-    "script_cta": "Subscribe and comment 'WAR' if you think this escalates into WW3.",
-    "visual_prompt_thumbnail": "Cinematic split screen: On the left, US special forces night raid in Caracas with green night vision; on the right, Nicolas Maduro in an orange jumpsuit in a US court. High contrast, bold red text 'EXTRACTED'. 8k resolution.",
-    "visual_prompt_broll": "Map of Venezuela turning from red to American flag colors; oil barrels rolling over a map of South America; footage of US naval ships moving in the Caribbean.",
-    "entities": {
-      "companies": ["Chevron", "Valero Energy"],
-      "people": ["Nicolás Maduro", "Donald Trump", "Cilia Flores"],
-      "locations": ["Caracas", "New York City", "Venezuela"]
-    },
-    "hashtags": [
-      "#Venezuela",
-      "#Maduro",
-      "#USMilitary",
-      "#Geopolitics",
-      "#BreakingNews",
-      "#OilCrisis"
-    ],
-    "tone": "Urgent",
-    "created_at": "2026-01-06T15:36:30.000Z"
-  },
-  {
-    "id": "GEO-GRN-002",
-    "date": "2026-01-06",
-    "category": "Geopolitics",
-    "sub_category": "NATO Crisis",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "Trump Buys Greenland OR ELSE? (NATO Over?)",
-    "title_professional": "US Issues Ultimatum for Greenland Purchase; Denmark Warns of NATO Collapse",
-    "virality_score": 9,
-    "summary_short": "President Trump has issued a 20-day timeline to buy Greenland, threatening the stability of NATO. Denmark and Greenland have rejected the offer, with European leaders rallying behind Danish sovereignty.",
-    "script_hook": "The US just gave an ultimatum to buy an entire country. I'm not joking.",
-    "script_body": "If you thought the Venezuela thing was wild, look at the Arctic. The US President has officially revived the plan to buy Greenland, but this time it's not a request—it's a threat. He gave Denmark a 20-day timeline, saying 'We need Greenland.' Why? It's all about the GIUK gap—stopping Russia and China in the Arctic. But here is the scary part: Denmark's Prime Minister just said if the US tries to take it by force, NATO is done. Finished. We are looking at the potential end of the Western military alliance because the US wants to buy the world's largest island. European leaders are panicking, and the map of Greenland was literally posted by US officials draped in an American flag with the caption 'SOON.' This is aggressive, it's unprecedented, and it could break Europe apart.",
-    "script_cta": "Hit like if you think countries shouldn't be for sale!",
-    "visual_prompt_thumbnail": "A map of Greenland being cracked open by a giant golden hammer. US flag on one side, Danish flag on the other. Dramatic lightning background. Text: 'FOR SALE?'",
-    "visual_prompt_broll": "Animated map showing the 'GIUK Gap' with warships; icy landscapes of Greenland; split screen of Trump and Mette Frederiksen looking angry.",
-    "entities": {
-      "companies": [],
-      "people": ["Donald Trump", "Mette Frederiksen", "Jens-Frederik Nielsen"],
-      "locations": ["Greenland", "Denmark", "Arctic"]
-    },
-    "hashtags": [
-      "#Greenland",
-      "#NATO",
-      "#Trump",
-      "#WW3",
-      "#Geopolitics",
-      "#Europe"
-    ],
-    "tone": "Alarmed",
-    "created_at": "2026-01-06T15:36:30.000Z"
-  },
-  {
-    "id": "TECH-NVDA-003",
-    "date": "2026-01-06",
+    "date": "2025-11-22",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Google Gemini 3.0: The 'Deep Think' Era Begins",
+    "summary": "Google has launched Gemini 3.0, featuring a new 'Deep Think' mode that employs recursive reasoning to self-correct before answering. The model also introduces 'Vibe Coding,' allowing developers to generate complex software architecture through intent-based prompts.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you're doing because Google just arguably took the AI crown back. They just dropped Gemini 3.0, and itâ€™s not just a speed upgradeâ€”itâ€™s a fundamental shift. Theyâ€™ve introduced something called 'Deep Think' mode. Unlike previous AIs that just guess the next word, this thing actually pauses to 'think' recursively. It spawns multiple thought paths, checks its own logic, and corrects itself before it even answers you. Think of it like System 2 thinking for machines. Plus, for my devs out there, they added 'Vibe Coding.' You don't need perfect syntax anymore; you just describe the 'vibe' or intent of the app, and it handles the boilerplate. Is this the GPT-killer we've been waiting for? Let me know in the comments.",
+    "id": "99d57298",
     "category": "AI",
-    "sub_category": "Hardware",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "Nvidia Just Killed ChatGPT (Physical AI is Here)",
-    "title_professional": "Nvidia Unveils Vera Rubin Platform; Shifts Focus to Physical AI",
-    "virality_score": 8,
-    "summary_short": "At CES 2026, Nvidia revealed the 'Vera Rubin' AI platform, a 6-chip system designed for robotics and 'physical AI.' It promises 10x lower inference costs and is already in full production.",
-    "script_hook": "Forget chatbots. Nvidia just announced the brain for actual robots.",
-    "script_body": "We are at CES 2026 and Jensen Huang just dropped the mic. Meet the 'Vera Rubin' platform. This isn't just a faster chip; it's a six-chip beast designed to move us from Generative AI—like typing to ChatGPT—to *Physical AI*. We are talking about the computing power needed for humanoid robots to walk, work, and reason in the real world. It has 10x lower costs and 5x power efficiency compared to the old Blackwell chips. But the kicker? It creates a 'Trusted Execution Environment,' meaning it's secure enough for military and government secrets. Nvidia says this is in full production right now. The age of software AI is over; the age of Robot AI has just begun. If you hold stock, you're probably smiling today.",
-    "script_cta": "Are you ready for robot workers? Let me know in the comments.",
-    "visual_prompt_thumbnail": "Jensen Huang holding a glowing futuristic chip on stage at CES. Behind him, a silhouette of a humanoid robot with glowing eyes. Text: 'THE RUBIN ERA'. Cyberpunk aesthetic.",
-    "visual_prompt_broll": "Footage of Boston Dynamics robots dancing overlaid with Nvidia chip schematics; server racks glowing green; Jensen Huang keynote highlights.",
-    "entities": {
-      "companies": ["Nvidia", "Arm"],
-      "people": ["Jensen Huang"],
-      "locations": ["Las Vegas", "CES 2026"]
-    },
-    "hashtags": [
-      "#Nvidia",
-      "#AI",
-      "#CES2026",
-      "#Robotics",
-      "#TechNews",
-      "#VeraRubin"
+    "companies": [
+      "Google",
+      "DeepMind"
     ],
-    "tone": "Excited",
-    "created_at": "2026-01-06T15:36:30.000Z"
+    "people": [
+      "Sundar Pichai",
+      "Demis Hassabis"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/99d57298.png",
+    "image_prompt": "A sleek, modern AI laboratory with holographic blueprints of futuristic software, glowing data streams, and a central digital brain interface emitting vibrant light, symbolizing innovation and advanced recursive reasoning technology."
   },
   {
-    "id": "HLTH-VAC-004",
-    "date": "2026-01-06",
-    "category": "Health",
-    "sub_category": "Policy",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "CDC BANS Vaccines? (New Trump Policy)",
-    "title_professional": "Trump Administration Slashes Recommended Pediatric Vaccine Schedule",
-    "virality_score": 9,
-    "summary_short": "The US administration has overhauled public health guidance, reducing the childhood vaccine schedule from 17 to 11 shots. The move, influenced by RFK Jr.-aligned advisors, removes universal recommendations for Flu and Hepatitis A.",
-    "script_hook": "The US government just cut the childhood vaccine schedule in half. Parents, listen up.",
-    "script_body": "This is going to be the most controversial story of the year. The Trump administration, backed by advisors aligned with RFK Jr., has radically slashed the CDC's recommended vaccine list. We went from 17 recommended shots down to 11. Hep B at birth? Gone. Universal Flu shots? Gone. Rotavirus? Gone. They are calling it the 'Denmark Model,' arguing the US gives too many shots. But doctors are freaking out. We are in the middle of a massive flu surge, and the government just told everyone 'it's up to you.' The American Academy of Pediatrics calls it 'political,' not medical. This shifts all the decision-making to parents and could cause insurance companies to drop coverage for these shots. Whatever side you're on, the standard of care in America just changed overnight.",
-    "script_cta": "Is this freedom or dangerous? Debate in the comments, keep it civil!",
-    "visual_prompt_thumbnail": "Close up of a syringe being broken in half by a hand in a suit. Background is a blurred hospital hallway. Text overlay: 'CDC SLASHES LIST'.",
-    "visual_prompt_broll": "Footage of a pediatrician shaking their head; graphics showing the list of 17 vaccines crossing out 6 items; Robert F. Kennedy Jr. clip.",
-    "entities": {
-      "companies": ["CDC", "American Academy of Pediatrics"],
-      "people": ["Robert F. Kennedy Jr.", "Donald Trump"],
-      "locations": ["USA"]
-    },
-    "hashtags": [
-      "#Vaccines",
-      "#RFKJr",
-      "#HealthNews",
-      "#CDC",
-      "#Trump2026",
-      "#Parenting"
+    "date": "2025-11-22",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "SpaceX Starship Disaster: Booster Crumples Like a Soda Can",
+    "summary": "SpaceX's first 'Version 3' Super Heavy booster (Booster 18) suffered a catastrophic structural failure during cryo-proof testing, crumpling due to pressure issues. This total loss of the test vehicle is expected to delay the Artemis III timeline significantly.",
+    "engagement": "High",
+    "raw_text": "You guys have to see the images coming out of Starbase today. It is not good news for the Mars mission. SpaceX was testing their brand new Version 3 Super Heavy boosterâ€”this is the big boy meant for the Artemis moon landingsâ€”and it literally crumpled like an empty soda can. It wasn't an explosion; it was a structural buckling during a pressure test. This is a massive setback. Weâ€™re talking about a total loss of the primary test vehicle. NASA's timelines were already tight, but this? This might push the moon landing back by months. Elon has got some serious engineering headaches to solve before this thing flies.",
+    "id": "554b215b",
+    "category": "Space",
+    "companies": [
+      "SpaceX",
+      "NASA"
     ],
-    "tone": "Serious",
-    "created_at": "2026-01-06T15:36:30.000Z"
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/554b215b.png",
+    "image_prompt": "A high-resolution image of a massive, industrial cryo-test stand with a crumpled SpaceX Starship Booster 18 in the foreground, smoke and sparks billowing, technicians in safety gear observing the wreckage under a cloudy, tense sky, evoking disaster and urgency."
   },
   {
-    "id": "ENT-RIP-005",
-    "date": "2026-01-06",
-    "category": "Entertainment",
-    "sub_category": "Crime",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "Rob Reiner MURDERED? (Hollywood in Shock)",
-    "title_professional": "Director Rob Reiner and Wife Found Dead; Son Arrested",
-    "virality_score": 10,
-    "summary_short": "Legendary director Rob Reiner and his wife Michele were found stabbed to death in their LA home. Their son, Nick Reiner, has been arrested and is held on $4 million bail.",
-    "script_hook": "This is absolutely tragic. A Hollywood legend has been found murdered in his own home.",
-    "script_body": "It is a dark day in Hollywood. Rob Reiner, the genius behind 'The Princess Bride' and 'When Harry Met Sally,' was found dead alongside his wife Michele in their Los Angeles home. They were stabbed to death. And the details get even worse—police have arrested their own son, Nick Reiner. He's currently being held on $4 million bail. This isn't just a celebrity death; it's a familial tragedy of Shakespearean proportions. The entire industry is in shock. Reiner defined comedy and heart for a generation, and to go out like this... it's just heartbreaking. 2026 is starting off with some incredibly heavy news.",
-    "script_cta": "Drop an 'RIP' for a legend who gave us so many classics.",
-    "visual_prompt_thumbnail": "Black and white photo of Rob Reiner looking happy, with a torn paper effect showing police tape and a mugshot of his son in the background. Text: 'TRAGEDY'.",
-    "visual_prompt_broll": "Clips from 'The Princess Bride' and 'Stand By Me'; aerial shot of the LA home with police cars; photo of Rob and his son Nick from happier times.",
-    "entities": {
-      "companies": [],
-      "people": ["Rob Reiner", "Michele Reiner", "Nick Reiner"],
-      "locations": ["Los Angeles"]
-    },
-    "hashtags": [
-      "#RobReiner",
-      "#Hollywood",
-      "#BreakingNews",
-      "#TrueCrime",
-      "#RIP",
-      "#Movies"
+    "date": "2025-11-22",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "GPT-5.1 Update: ChatGPT Gets 'Thinking' Mode & Group Chats",
+    "summary": "OpenAI has released GPT-5.1 with two distinct modes: 'Instant' for speed and 'Thinking' for complex reasoning, alongside a new 'Codex Max' model for project-scale coding. Additionally, a new global feature allows multiple users to collaborate with ChatGPT in a single group chat.",
+    "engagement": "High",
+    "raw_text": "ChatGPT just got a massive glow-up, and itâ€™s clearly a response to Google. OpenAI released GPT-5.1, and theyâ€™ve split it into two personalities: 'Instant' for when you just need a quick answer, and 'Thinking' for when you need it to solve hard math or logic puzzles. But the feature that's going to change your family group chat? You can now add ChatGPT directly into group threads. Imagine planning a trip with friends and having the AI right there to book flights or settle debates instantly. Also, for the coders, there's a new 'Codex Max' agent that can apparently debug code for 24 hours straight without sleeping. The AI wars are heating up!",
+    "id": "3b47d532",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
     ],
-    "tone": "Somber",
-    "created_at": "2026-01-06T15:36:30.000Z"
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/3b47d532.png",
+    "image_prompt": "A sleek modern workspace with a large digital screen displaying complex AI code and thoughtful interfaces, diverse professionals engaged in a lively group chat on sleek laptops, vibrant tech-inspired lighting creating an innovative, collaborative mood."
   },
   {
-    "id": "CRYPTO-XRP-006",
-    "date": "2026-01-06",
-    "category": "Economy",
-    "sub_category": "Crypto",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "XRP Explodes +11%! Dogecoin to $10?",
-    "title_professional": "Crypto Markets Surge; XRP Up 11.5% on SEC Rumors",
-    "virality_score": 7,
-    "summary_short": "Cryptocurrencies are outperforming traditional assets, with XRP jumping 11.5% on rumors of an SEC settlement. Bitcoin is eyeing $100k, and Dogecoin speculation is rampant.",
-    "script_hook": "If you hold XRP, you just made a lot of money.",
-    "script_body": "The crypto markets are absolutely loving the chaos right now. While the world is worrying about war, crypto is printing green candles. XRP is the star of the show today, surging over 11.5% to hit $2.39. Why? Rumors are flying that with the new administration, the SEC lawsuit is finally getting settled favorably. Bitcoin is back near $94k and traders are betting we smash $100k again very soon. And of course, the meme coin mania is back—Dogecoin is seeing wild speculation of a massive surge. It looks like investors are treating crypto as a safe haven while governments fight over oil and ice. Are we entering the biggest bull run yet?",
-    "script_cta": "What are you buying? XRP, BTC, or memes? Tell me below.",
-    "visual_prompt_thumbnail": "A golden XRP coin rocket launching into space, leaving a trail of green chart lines. Background is the moon. Text: 'XRP MOONING'.",
-    "visual_prompt_broll": "Live crypto charts showing green candles; Elon Musk tweeting (mockup); split screen of Bitcoin and XRP logos.",
-    "entities": {
-      "companies": ["Ripple", "SEC"],
-      "people": [],
-      "locations": []
-    },
-    "hashtags": [
-      "#XRP",
-      "#Crypto",
-      "#Bitcoin",
-      "#Dogecoin",
-      "#ToTheMoon",
-      "#Investing"
+    "date": "2025-11-21",
+    "source_file": "Tech News Highlights (November 22, 2025).pdf",
+    "page": 2,
+    "title": "Pixel 10 Hack: Google Cracks AirDrop",
+    "summary": "Google announced that Pixel 10 phones can now use Quick Share to send files directly to Apple devices via AirDrop without Apple's official cooperation. This feature preserves end-to-end encryption and bridges the file-sharing gap between Android and iOS.",
+    "engagement": "High",
+    "raw_text": "The green bubble vs. blue bubble war just took a wild turn. Google just dropped a bombshell feature for the Pixel 10: it can now AirDrop files directly to iPhones and Macs. Yes, you heard me. They didn't get Apple's permission; they just engineered a bridge using Quick Share to mimic the AirDrop protocol. It works peer-to-peer, itâ€™s encrypted, and it finally solves the 'can you send me that photo' nightmare between Android and iOS. Apple is reportedly furious and might try to block it, but for now, the walls of the walled garden just got breached. Would you switch to Pixel for this?",
+    "id": "e17d21bc",
+    "category": "Mobile",
+    "companies": [
+      "Google",
+      "Apple"
     ],
-    "tone": "Enthusiastic",
-    "created_at": "2026-01-06T15:36:30.000Z"
+    "people": [],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/e17d21bc.png",
+    "image_prompt": "A sleek Pixel 10 phone and an iPhone face-to-face in a modern, well-lit urban setting, holographic lines of encryption connecting their screens, showcasing a seamless, futuristic file-sharing scene amid a vibrant city backdrop."
   },
   {
-    "id": "SCI-MIG-007",
-    "date": "2026-01-06",
-    "category": "Science",
-    "sub_category": "Biology",
-    "source_file": "Global News Aggregation and Analysis Report.pdf",
-    "title": "Viruses Have Vehicles? (Scary Discovery)",
-    "title_professional": "Scientists Discover 'Migrions': Viruses That Use Cells as Vehicles",
-    "virality_score": 6,
-    "summary_short": "Researchers have identified 'migrions,' a mechanism where viruses hijack moving cells to transport themselves, overturning previous models of infection spread.",
-    "script_hook": "Scientists just found out viruses are smarter than we thought.",
-    "script_body": "You know how we thought viruses just float around and infect cells one by one? Wrong. Researchers have discovered something called 'migrions.' Basically, the virus hijacks a cell and turns it into a literal vehicle—a taxi—to drive itself to new parts of the body. This is a game-changer for understanding how infections spread and even how cancer metastasis works. It's like finding out the enemy has been using armored personnel carriers while we were looking for foot soldiers. This could lead to totally new treatments, but honestly? It's kind of terrifying how complex biology actually is.",
-    "script_cta": "Science is wild. Subscribe for more daily discoveries.",
-    "visual_prompt_thumbnail": "Microscopic view of a virus cell with little wheels or an engine attached, driving through a vein. 3D render, high detail. Text: 'IT CAN DRIVE?'",
-    "visual_prompt_broll": "Animation of a cell moving through a bloodstream carrying viral particles; lab footage of scientists looking into microscopes.",
-    "entities": {
-      "companies": [],
-      "people": [],
-      "locations": []
-    },
-    "hashtags": [
-      "#Science",
-      "#Biology",
-      "#Virus",
-      "#MedicalBreakthrough",
-      "#Migrions",
-      "#Health"
+    "date": "2025-11-22",
+    "source_file": "Act as a top-tier tech news aggregator and researc (12).pdf",
+    "page": 12,
+    "title": "Tesla Optimus Robot: $20k Price Tag Confirmed?",
+    "summary": "Elon Musk provided an update on the Optimus humanoid robot, targeting a retail price of $20,000-$30,000 and showcasing a prototype assembly line. Musk aims for these robots to handle internal Tesla factory tasks before a broader consumer rollout.",
+    "engagement": "High",
+    "raw_text": "Imagine buying a humanoid robot for less than the price of a Honda Civic. That is exactly what Elon Musk is promising with the Tesla Optimus. At the latest shareholder meeting, they showed off the assembly line and Musk doubled down on a price point of $20,000 to $30,000. Heâ€™s claiming these bots will eventually make physical labor 'optional' and money 'irrelevant.' Okay, thatâ€™s classic Elon hype, but seeing the actual production line is a game changer. Theyâ€™re going to deploy them in Tesla factories first to move parts around. If they actually pull this off at that price, the world changes overnight.",
+    "id": "039141ab",
+    "category": "Robotics",
+    "companies": [
+      "Tesla"
     ],
-    "tone": "Educational",
-    "created_at": "2026-01-06T15:36:30.000Z"
+    "people": [
+      "Elon Musk",
+      "Julian Ibarz"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/039141ab.png",
+    "image_prompt": "A sleek, futuristic factory floor with a highly detailed humanoid Tesla Optimus robot assembly in progress, surrounded by advanced machinery and robotics, under bright, industrial lighting with a focused technician overseeing the scene, conveying innovation and progress."
+  },
+  {
+    "date": "2025-11-22",
+    "source_file": "Tech News Aggregation and Analysis Request (8).pdf",
+    "page": 10,
+    "title": "Crypto Crash: Bitcoin Plunges Below $80k",
+    "summary": "Bitcoin has suffered a severe crash, dropping below the psychological $80,000 support level due to a 'gamma squeeze' in the options market. The sell-off was exacerbated by massive outflows from Spot Bitcoin ETFs.",
+    "engagement": "High",
+    "raw_text": "If you hold crypto, don't look at your portfolio today. It is a bloodbath out there. Bitcoin just smashed down below $80,000, and itâ€™s looking ugly. Analysts are calling it a 'gamma squeeze'â€”basically, options dealers were forced to sell massive amounts of BTC to hedge their bets, triggering a death spiral. Combined with huge outflows from the Bitcoin ETFs, we are officially in bear market territory. The 'institutional money' that everyone was so excited about? Yeah, theyâ€™re panic selling. Is this the time to buy the dip, or are we heading for a long crypto winter?",
+    "id": "946fc35d",
+    "category": "Crypto",
+    "companies": [],
+    "people": [],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/946fc35d.png",
+    "image_prompt": "A dramatic financial scene inside a modern trading room with multiple large screens displaying plummeting Bitcoin graphs and red decline indicators. Amidst the chaos, traders with worried expressions, flickering flashing red on screens, conveying urgency and volatility."
+  },
+  {
+    "date": "2025-11-22",
+    "source_file": "Combined",
+    "page": 6,
+    "title": "OpenAI & Foxconn: The $5B American Factory Plan",
+    "summary": "OpenAI has partnered with Foxconn to build a massive AI hardware manufacturing hub in the US (Wisconsin and Texas). The collaboration aims to produce 'sovereign racks' for AI data centers, reducing reliance on foreign supply chains.",
+    "engagement": "Medium",
+    "raw_text": "Sam Altman isn't just building software anymore; he's building the physical brain of AI right here in the USA. OpenAI just signed a massive deal with Foxconnâ€”the same people who make your iPhoneâ€”to build AI servers in Wisconsin and Texas. They're calling it the 'Sovereign Rack' strategy. Basically, they're terrified of a supply chain collapse in Taiwan, so they're moving production of the hardware needed for GPT-6 onto American soil. This is a multi-billion dollar bet that proves AI infrastructure is becoming a national security issue.",
+    "id": "74fe34ab",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "Foxconn"
+    ],
+    "people": [
+      "Sam Altman",
+      "Young Liu"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/74fe34ab.png",
+    "image_prompt": "A sprawling industrial AI manufacturing facility in rural Wisconsin and Texas, showcasing sleek futuristic racks labeled \"sovereign,\" bustling with engineers and robots under bright LED lighting, capturing innovation, scale, and high-tech collaboration."
+  },
+  {
+    "date": "2025-11-21",
+    "source_file": "Tech News Highlights (November 22, 2025).pdf",
+    "page": 1,
+    "title": "White House Pauses AI Regulation Order",
+    "summary": "The White House has delayed a proposed executive order that would have overridden state AI laws, following bipartisan pushback. The draft order aimed to preempt state rules to spur innovation but faced criticism for potentially stripping consumer protections.",
+    "engagement": "Medium",
+    "raw_text": "Big news from Washington: the government just hit the pause button on AI regulation. The White House was about to sign an Executive Order that would have wiped out all the individual state laws on AIâ€”basically giving companies like OpenAI and Google a free pass to ignore local rules in favor of one federal standard. But, governors and attorneys general from both parties freaked out, calling it federal overreach. This is a huge win for privacy advocates but a headache for Big Tech, who just want one set of rules to follow. The regulatory fight is just getting started.",
+    "id": "76b11a48",
+    "category": "Policy",
+    "companies": [
+      "Google",
+      "OpenAI",
+      "a16z"
+    ],
+    "people": [],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/76b11a48.png",
+    "image_prompt": "A busy White House press briefing room with officials gathered at a podium, tense expressions, large screens displaying AI graphics and charts behind them, illuminated by bright, focused lighting, reflecting a moment of pause and deliberation."
+  },
+  {
+    "date": "2025-11-22",
+    "source_file": "Combined",
+    "page": 9,
+    "title": "Hospital Hack: Akira Ransomware Targets Healthcare",
+    "summary": "A joint FBI/CISA advisory warns that the Akira ransomware group is actively targeting healthcare institutions by exploiting VPN vulnerabilities without Multi-Factor Authentication. The attacks threaten patient safety and have led to data exfiltration in under two hours.",
+    "engagement": "Medium",
+    "raw_text": "This is the dark side of the tech boom. The FBI just issued a terrifying warning about the 'Akira' ransomware group. These guys aren't just stealing credit cards; they are actively targeting hospitals. They're getting in through unpatched VPNsâ€”stuff that should have been fixed years agoâ€”and locking down patient data. It's getting so bad that the American Hospital Association is asking if we should start calling this cyber-terrorism. Itâ€™s a stark reminder that while we're obsessing over AI chatbots, our basic cybersecurity hygiene is still failing in life-or-death situations.",
+    "id": "4edf94d3",
+    "category": "Security",
+    "companies": [
+      "Cisco",
+      "SonicWall"
+    ],
+    "people": [
+      "John Riggi"
+    ],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/4edf94d3.png",
+    "image_prompt": "A tense hospital control room with glowing monitors displaying cyber attack alerts, a worried healthcare staff member watching a digital map highlighting breaches, dark shadows cast by server racks, conveying urgency, vulnerability, and digital threat."
+  },
+  {
+    "date": "2025-11-19",
+    "source_file": "Tech News Highlights (November 22, 2025).pdf",
+    "page": 4,
+    "title": "Adobe Acquires Semrush for $1.9 Billion",
+    "summary": "Adobe has agreed to acquire SEO and marketing analytics firm Semrush for approximately $1.9 billion. Adobe plans to integrate Semrush's data to help brands manage their visibility across AI-driven search engines like ChatGPT and Gemini.",
+    "engagement": "Low",
+    "raw_text": "For my marketing friends, Adobe is basically buying the internet. They just dropped nearly $2 billion to acquire Semrush. If you work in SEO, you know Semrush is the holy grail tool. Adobe says they're doing this to help creators survive in the 'AI Search' era. Basically, since everyone is asking ChatGPT for answers instead of Googling, brands are terrified of becoming invisible. Adobe wants to build the tools to help you rank in AI responses. Itâ€™s a smart B2B play, but it definitely signals more consolidation in the creative tech space.",
+    "id": "8dbf8216",
+    "category": "Business",
+    "companies": [
+      "Adobe",
+      "Semrush"
+    ],
+    "people": [],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/8dbf8216.png",
+    "image_prompt": "A sleek corporate office scene with a large digital screen displaying interconnected data graphs, SEO analytics, and search engine icons. Professionals in business attire collaborate around futuristic, holographic interfaces emphasizing innovation and digital growth."
+  },
+  {
+    "date": "2025-11-22",
+    "source_file": "Act as a top-tier tech news aggregator and researc (12).pdf",
+    "page": 5,
+    "title": "Project Rainier: Amazon Turns On Huge AI Supercomputer",
+    "summary": "AWS has activated 'Project Rainier,' one of the world's most powerful AI supercomputers, built in collaboration with Anthropic. The system utilizes nearly 500,000 custom Trainium2 chips to train massive AI models.",
+    "engagement": "Medium",
+    "raw_text": "Amazon isn't letting Microsoft and Google have all the fun. They just flipped the switch on 'Project Rainier,' which is a monstrous new AI supercomputer. We're talking about a system running nearly half a million of their custom Trainium2 chips. They built this thing specifically for Anthropicâ€”the makers of Claudeâ€”to train their next-gen models. This proves that the bottleneck for AI right now isn't code; it's raw electricity and silicon. The scale of this infrastructure is mind-boggling.",
+    "id": "22fb599e",
+    "category": "Hardware",
+    "companies": [
+      "AWS",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2025-11-22T18:33:21+05:30",
+    "image_url": "images/19_11_25/22fb599e.png",
+    "image_prompt": "A sleek, futuristic data center illuminated by cool blue and white lights, with hundreds of server racks embedded with glowing Trainium2 chips, overhead cooling systems, and a technician monitoring the setup, capturing a scene of cutting-edge AI technology in action."
   }
 ]
