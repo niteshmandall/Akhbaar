@@ -6,12 +6,18 @@
     "title": "NVIDIA's New Vera Rubin Chip is a Physics Engine for the World",
     "summary": "NVIDIA unveiled its Vera Rubin AI platform, featuring a GPU with 336 billion transistors and HBM4 memory. The system is designed not just for text, but to simulate physical physics for robotics and autonomous agents.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you're doing because NVIDIA just dropped a nuclear bomb on the tech industry at CES. Jensen Huang unveiled the 'Vera Rubin' platform, and honestly, the specs are terrifying. We're talking about a GPU with 336 billion transistors. But here's the wild part—it's not just for Chatbots anymore. Jensen is calling this a simulation engine for 'Physical AI.' \n\nBasically, they've built a rack-scale computer that acts as a single super-brain to simulate the laws of physics. Why? So robots can learn how to move in the real world without actually breaking things. They're moving from just generating text to simulating reality itself. If you thought the H100 was crazy, the Rubin architecture is about to make everything else look like a pocket calculator. This is the infrastructure for the next ten years of AI.",
+    "raw_text": "Okay, stop what you're doing because NVIDIA just dropped a nuclear bomb on the tech industry at CES. Jensen Huang unveiled the 'Vera Rubin' platform, and honestly, the specs are terrifying. We're talking about a GPU with 336 billion transistors. But here's the wild part\u2014it's not just for Chatbots anymore. Jensen is calling this a simulation engine for 'Physical AI.' Basically, they've built a rack-scale computer that acts as a single super-brain to simulate the laws of physics. Why? So robots can learn how to move in the real world without actually breaking things. They're moving from just generating text to simulating reality itself. If you thought the H100 was crazy, the Rubin architecture is about to make everything else look like a pocket calculator. This is the infrastructure for the next ten years of AI.",
     "id": "NVDA_RUBIN_2026_001",
     "category": "Hardware",
-    "companies": ["NVIDIA"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-08T14:20:00Z"
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/NVDA_RUBIN_2026_001.png",
+    "image_prompt": "Photorealistic news-style image: sleek server rack with a glowing Vera Rubin GPU and exposed massive silicon die, intricate transistor lattice and HBM4 memory stacks, holographic simulation of robotic arms and physics fields above, engineers observing, cool blue lighting"
   },
   {
     "date": "2026-01-01",
@@ -20,12 +26,16 @@
     "title": "China's DeepSeek Just Proved Math Beats Silicon",
     "summary": "Chinese lab DeepSeek published a paper on Manifold-Constrained Hyper-Connections (mHC), a training method that drastically reduces computational instability. Analysts say this allows powerful AI scaling without needing banned US hardware.",
     "engagement": "High",
-    "raw_text": "You need to pay attention to this story because it changes the entire AI war. While the US is trying to ban chips sent to China, a Chinese startup called DeepSeek just pulled an 'Uno Reverse' card. They published a paper on a new training method called 'mHC'—Manifold-Constrained Hyper-Connections.\n\nI know, it sounds like Star Trek techno-babble, but here's the translation: They figured out the math to make AI models way smarter without needing massive, unstable amounts of raw compute. They basically used a mathematical trick from the 1960s to stabilize the training process. The analysts are calling this 'Math beats Silicon.' It suggests that even with chip sanctions, China might just out-code the hardware limitations. This is a massive wake-up call for Silicon Valley.",
+    "raw_text": "You need to pay attention to this story because it changes the entire AI war. While the US is trying to ban chips sent to China, a Chinese startup called DeepSeek just pulled an 'Uno Reverse' card. They published a paper on a new training method called 'mHC'\u2014Manifold-Constrained Hyper-Connections. I know, it sounds like Star Trek techno-babble, but here's the translation: They figured out the math to make AI models way smarter without needing massive, unstable amounts of raw compute. They basically used a mathematical trick from the 1960s to stabilize the training process. The analysts are calling this 'Math beats Silicon.' It suggests that even with chip sanctions, China might just out-code the hardware limitations. This is a massive wake-up call for Silicon Valley.",
     "id": "DEEPSEEK_MHC_2026_002",
     "category": "AI Research",
-    "companies": ["DeepSeek"],
+    "companies": [
+      "DeepSeek"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/DEEPSEEK_MHC_2026_002.png",
+    "image_prompt": "Photojournalistic image of a modern Chinese research lab: focused Chinese scientists in lab coats clustered around a holographic manifold\u2014glowing geometric web hovering above a table\u2014cinematic lighting, shallow depth of field, realistic, high-detail"
   },
   {
     "date": "2026-01-05",
@@ -34,12 +44,17 @@
     "title": "US Government Buys 10% of Intel: The End of Free Market Chips?",
     "summary": "The US government has finalized an $8.9 billion deal to acquire a 10% equity stake in Intel, effectively nationalizing part of the company. This move aims to secure domestic chip production for national security.",
     "engagement": "High",
-    "raw_text": "This is historic. We are watching the 'Boeing-ification' of Intel in real-time. It's official: the US government is buying a 10% stake in Intel for nearly 9 billion dollars. This isn't a grant; this is equity. They effectively just nationalized a chunk of America's biggest chipmaker.\n\nWhy? Because Intel is too big to fail. The government needs to guarantee that we have domestic factories for military and AI chips, and they aren't trusting the free market to get it done anymore. Intel also launched their new 'Panther Lake' chips to fight off Apple and AMD, but frankly, the tech is secondary to the politics here. We're officially in the era of 'Sovereign Silicon,' where chips are treated like nuclear weapons assets.",
+    "raw_text": "This is historic. We are watching the 'Boeing-ification' of Intel in real-time. It's official: the US government is buying a 10% stake in Intel for nearly 9 billion dollars. This isn't a grant; this is equity. They effectively just nationalized a chunk of America's biggest chipmaker. Why? Because Intel is too big to fail. The government needs to guarantee that we have domestic factories for military and AI chips, and they aren't trusting the free market to get it done anymore. Intel also launched their new 'Panther Lake' chips to fight off Apple and AMD, but frankly, the tech is secondary to the politics here. We're officially in the era of 'Sovereign Silicon,' where chips are treated like nuclear weapons assets.",
     "id": "INTEL_GOVT_2026_003",
     "category": "Business",
-    "companies": ["Intel", "US Government"],
+    "companies": [
+      "Intel",
+      "US Government"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/INTEL_GOVT_2026_003.png",
+    "image_prompt": "Photo\u2011realistic news photo: US official (suit, American flag lapel) shakes hands with a chip engineer in a cleanroom; reflective silicon wafer and fab machinery behind; dramatic cool lighting, tense documentary mood, no logos or text"
   },
   {
     "date": "2026-01-05",
@@ -48,12 +63,18 @@
     "title": "Boston Dynamics Robots Finally Get a Brain (Thanks to Google)",
     "summary": "Boston Dynamics and Google DeepMind announced a partnership to integrate Gemini AI into the Atlas humanoid robot. This combines Atlas's physical agility with Gemini's reasoning capabilities for industrial tasks.",
     "engagement": "High",
-    "raw_text": "We all know Boston Dynamics robots can do backflips, but they've always been kinda... dumb. They just followed scripts. Well, that ends today. They just announced a partnership with Google DeepMind to put the Gemini AI model inside the Atlas robot.\n\nThis is the 'brain transplant' we've been waiting for. Now, instead of just walking over a box, Atlas can look at a table, recognize a tool, understand a voice command like 'hand me the wrench,' and actually do it. It's the merger of Physical AI and agility. They're already deploying these into Hyundai factories. The era of dumb robots is over; the sci-fi droids are actually here.",
+    "raw_text": "We all know Boston Dynamics robots can do backflips, but they've always been kinda... dumb. They just followed scripts. Well, that ends today. They just announced a partnership with Google DeepMind to put the Gemini AI model inside the Atlas robot. This is the 'brain transplant' we've been waiting for. Now, instead of just walking over a box, Atlas can look at a table, recognize a tool, understand a voice command like 'hand me the wrench,' and actually do it. It's the merger of Physical AI and agility. They're already deploying these into Hyundai factories. The era of dumb robots is over; the sci-fi droids are actually here.",
     "id": "ATLAS_GEMINI_2026_004",
     "category": "Robotics",
-    "companies": ["Boston Dynamics", "Google", "Hyundai"],
+    "companies": [
+      "Boston Dynamics",
+      "Google",
+      "Hyundai"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/ATLAS_GEMINI_2026_004.png",
+    "image_prompt": "Photoreal, high\u2011res: Boston Dynamics Atlas humanoid robot in a sleek industrial lab, mid\u2011motion adjusting machinery. Translucent glowing neural core projects a holographic AI brain halo in blue\u2011teal light. Engineers in safety gear observe, cinematic lighting"
   },
   {
     "date": "2026-01-06",
@@ -62,12 +83,17 @@
     "title": "Apple & Google Partnership: Siri is Getting a Gemini Transplant",
     "summary": "Apple officially announced a partnership with Google to power a reimagined Siri using the Gemini 1.2T model. The update is targeted for release in March 2026 with iOS 26.4.",
     "engagement": "High",
-    "raw_text": "It's actually happening. After months of rumors, Apple just confirmed they are partnering with Google to overhaul Siri. And yes, they are using Google's 1.2 Trillion parameter Gemini model to do it.\n\nThis is coming in March with iOS 26.4. The idea is that Siri will finally have 'on-screen awareness'—it can see what app you're looking at and understand context. Apple is running this through their 'Private Cloud Compute' to keep your data safe, but it's a huge admission that they couldn't build the best model alone. If you've been hating on Siri for the last five years, get ready. Your iPhone is about to get a massive IQ upgrade.",
+    "raw_text": "It's actually happening. After months of rumors, Apple just confirmed they are partnering with Google to overhaul Siri. And yes, they are using Google's 1.2 Trillion parameter Gemini model to do it. This is coming in March with iOS 26.4. The idea is that Siri will finally have 'on-screen awareness'\u2014it can see what app you're looking at and understand context. Apple is running this through their 'Private Cloud Compute' to keep your data safe, but it's a huge admission that they couldn't build the best model alone. If you've been hating on Siri for the last five years, get ready. Your iPhone is about to get a massive IQ upgrade.",
     "id": "APPLE_GEMINI_2026_005",
     "category": "Mobile",
-    "companies": ["Apple", "Google"],
+    "companies": [
+      "Apple",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/APPLE_GEMINI_2026_005.png",
+    "image_prompt": "Photorealistic newsroom shot: an iPhone on a sleek table projects a translucent, swirling neural ribbon merging into Siri's waveform; two engineers (Apple and Google) shake hands in soft-focus background; cool blue lighting, crisp detail."
   },
   {
     "date": "2026-01-06",
@@ -76,12 +102,17 @@
     "title": "Meta Delays Ray-Ban Glasses Because You Bought Them All",
     "summary": "Meta has indefinitely paused the global rollout of its Ray-Ban Display smart glasses due to overwhelming demand in the US. New features include a 'Teleprompter' mode and neural wristband typing.",
     "engagement": "High",
-    "raw_text": "If you were hoping to grab a pair of the new Meta Ray-Bans outside the US, I have bad news. Meta just paused the global rollout because they literally cannot make them fast enough. Demand in the US is absolutely crushing their supply chain.\n\nAnd it makes sense when you see the new features they just dropped at CES. They added a 'Teleprompter' mode so you can see your notes while speaking, and they're integrating that 'Neural Band' wrist sensor. It lets you type by just twitching your fingers. This is the 'iPhone moment' for AR glasses. People aren't buying Vision Pros; they're buying these. If you can find a pair, buy them.",
+    "raw_text": "If you were hoping to grab a pair of the new Meta Ray-Bans outside the US, I have bad news. Meta just paused the global rollout because they literally cannot make them fast enough. Demand in the US is absolutely crushing their supply chain. And it makes sense when you see the new features they just dropped at CES. They added a 'Teleprompter' mode so you can see your notes while speaking, and they're integrating that 'Neural Band' wrist sensor. It lets you type by just twitching your fingers. This is the 'iPhone moment' for AR glasses. People aren't buying Vision Pros; they're buying these. If you can find a pair, buy them.",
     "id": "META_RAYBAN_2026_006",
     "category": "Wearables",
-    "companies": ["Meta", "Luxottica"],
+    "companies": [
+      "Meta",
+      "Luxottica"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/META_RAYBAN_2026_006.png",
+    "image_prompt": "High-resolution photojournalistic scene: busy US electronics store with empty Ray-Ban Display shelves, diverse anxious customers, a close-up of glossy smart glasses reflecting subtle teleprompter lines, a wrist wearing a sleek neural-typing band, tense energetic mood, no text"
   },
   {
     "date": "2026-01-07",
@@ -90,12 +121,18 @@
     "title": "ChatGPT Health: OpenAI Wants to Be Your Doctor",
     "summary": "OpenAI introduced ChatGPT Health, a specialized mode for medical queries that integrates with apps like Apple Health and MyFitnessPal. The feature emphasizes privacy and is currently in limited beta.",
     "engagement": "High",
-    "raw_text": "OpenAI is making its biggest move into your personal life yet with 'ChatGPT Health.' This isn't just asking GPT-4 for advice; this is a dedicated mode that connects to your real data—your Apple Health records, your MyFitnessPal diet logs, even your Peloton workouts.\n\nImagine feeding it your lab results and having it explain them to you in plain English, or asking it to build a meal plan based on the calories you actually burned today. They claim the data is encrypted and isolated, so they aren't training on your medical records, but it's still a huge leap of trust. Would you trust Sam Altman with your doctor's notes? Let me know in the comments.",
+    "raw_text": "OpenAI is making its biggest move into your personal life yet with 'ChatGPT Health.' This isn't just asking GPT-4 for advice; this is a dedicated mode that connects to your real data\u2014your Apple Health records, your MyFitnessPal diet logs, even your Peloton workouts. Imagine feeding it your lab results and having it explain them to you in plain English, or asking it to build a meal plan based on the calories you actually burned today. They claim the data is encrypted and isolated, so they aren't training on your medical records, but it's still a huge leap of trust. Would you trust Sam Altman with your doctor's notes? Let me know in the comments.",
     "id": "OPENAI_HEALTH_2026_007",
     "category": "AI",
-    "companies": ["OpenAI", "Apple", "MyFitnessPal"],
+    "companies": [
+      "OpenAI",
+      "Apple",
+      "MyFitnessPal"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/OPENAI_HEALTH_2026_007.png",
+    "image_prompt": "Photo-realistic news image: modern clinic desk with smartphone displaying a sleek medical-AI health interface\u2014activity rings, nutrition chart, subtle privacy lock. Doctor and patient silhouettes in soft natural light, shallow depth of field."
   },
   {
     "date": "2026-01-06",
@@ -104,12 +141,16 @@
     "title": "Stanford's AI Can Predict Your Death From Your Sleep Data",
     "summary": "Stanford Medicine published research on SleepFM, an AI foundation model trained on 600,000 hours of sleep data. It can predict conditions like Parkinson's and sudden death with high accuracy.",
     "engagement": "Medium",
-    "raw_text": "This is spooky but incredible. Stanford researchers just built an AI called 'SleepFM' that listens to your physiology while you sleep. They trained it on 600,000 hours of sleep data, and it can predict diseases years before you even have symptoms.\n\nWe're talking about spotting Parkinson's, heart issues, and even 'sudden death' risk just by analyzing your breathing and heart rate patterns at night. It turns out your sleep is like a fingerprint for your entire health. This is going to change preventative medicine forever. Imagine your Apple Watch telling you to see a specialist because of how you slept last Tuesday. Wild.",
+    "raw_text": "This is spooky but incredible. Stanford researchers just built an AI called 'SleepFM' that listens to your physiology while you sleep. They trained it on 600,000 hours of sleep data, and it can predict diseases years before you even have symptoms. We're talking about spotting Parkinson's, heart issues, and even 'sudden death' risk just by analyzing your breathing and heart rate patterns at night. It turns out your sleep is like a fingerprint for your entire health. This is going to change preventative medicine forever. Imagine your Apple Watch telling you to see a specialist because of how you slept last Tuesday. Wild.",
     "id": "SLEEPFM_STANFORD_2026_008",
     "category": "Science",
-    "companies": ["Stanford Medicine"],
+    "companies": [
+      "Stanford Medicine"
+    ],
     "people": [],
-    "created_at": "2026-01-08T14:20:00Z"
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/SLEEPFM_STANFORD_2026_008.png",
+    "image_prompt": "Photorealistic scene: dim hospital bedroom at night, sleeping patient wearing a sleek sleep sensor, bedside monitor displays abstract sleep-wave graphs, translucent digital brain/AI overlay linking to waves; cool blue clinical lighting, tense investigative mood"
   },
   {
     "date": "2026-01-07",
@@ -118,11 +159,18 @@
     "title": "Elon Musk's xAI Raises $20 Billion to Build Grok 5",
     "summary": "xAI closed a massive $20 billion Series E funding round, valuing the company at over $100 billion. The funds will be used to scale compute for the upcoming Grok 5 model.",
     "engagement": "High",
-    "raw_text": "Elon Musk is not backing down. His AI company, xAI, just closed a twenty billion dollar funding round. That puts the company's valuation over $100 billion. \n\nHe's using this cash pile to build massive data centers for 'Grok 5,' which is rumored to be a 6-trillion parameter model coming in Q1. The regulators in the UK are already sweating about deepfakes, but investors clearly don't care. With NVIDIA backing this round too, it's clear that the AI wars are just getting more expensive. If you thought GPT-5 was going to be the only big release this year, think again.",
+    "raw_text": "Elon Musk is not backing down. His AI company, xAI, just closed a twenty billion dollar funding round. That puts the company's valuation over $100 billion. He's using this cash pile to build massive data centers for 'Grok 5,' which is rumored to be a 6-trillion parameter model coming in Q1. The regulators in the UK are already sweating about deepfakes, but investors clearly don't care. With NVIDIA backing this round too, it's clear that the AI wars are just getting more expensive. If you thought GPT-5 was going to be the only big release this year, think again.",
     "id": "XAI_FUNDING_2026_009",
     "category": "Business",
-    "companies": ["xAI", "NVIDIA"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-01-08T14:20:00Z"
+    "companies": [
+      "xAI",
+      "NVIDIA"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-01-08T14:20:00Z",
+    "image_url": "images/09_01_26/XAI_FUNDING_2026_009.png",
+    "image_prompt": "Photorealistic news-style image: Elon Musk in a tailored suit stands confidently in a vast blue-lit server hall, engineers in the background, a hovering holographic neural-network above GPU racks, dramatic cinematic lighting, crisp high-resolution."
   }
 ]
