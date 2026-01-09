@@ -6,12 +6,18 @@
     "title": "NVIDIA's Rubin Platform: The 10-Billion Parameter Beast",
     "summary": "NVIDIA has unveiled its Rubin platform featuring the Vera CPU and Rubin GPU, designed to power the next generation of AI supercomputers. The system promises a 10x reduction in inference costs and introduces the Alpamayo VLA model for autonomous reasoning.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you are doing because NVIDIA just dropped a nuclear bomb on the tech industry at CES, and honestly, my mind is blown. Jensen Huang walked out and revealed the 'Rubin' platform, and this isn't just another chip upgrade—it's practically a new species of supercomputer. We are talking about the new 'Vera' CPU and the 'Rubin' GPU, which uses HBM4 memory. That’s 288 gigabytes of memory with bandwidths that are frankly ridiculous. \n\nBut here is the wild part that matters to us: they aren't just chasing speed; they are chasing 'Physical AI.' They launched something called Alpamayo, which is a Vision-Language-Action model. Basically, it’s an AI that doesn't just chat; it sees the world and plans physical actions, like driving cars or controlling robots, with chain-of-thought reasoning. They claim this platform drops inference costs by 10x. If that’s true, we are about to see AI agents everywhere, doing everything, for pennies. This is the moment AI leaves the chatbox and enters the real world.",
+    "raw_text": "Okay, stop what you are doing because NVIDIA just dropped a nuclear bomb on the tech industry at CES, and honestly, my mind is blown. Jensen Huang walked out and revealed the 'Rubin' platform, and this isn't just another chip upgrade\u2014it's practically a new species of supercomputer. We are talking about the new 'Vera' CPU and the 'Rubin' GPU, which uses HBM4 memory. That\u2019s 288 gigabytes of memory with bandwidths that are frankly ridiculous. But here is the wild part that matters to us: they aren't just chasing speed; they are chasing 'Physical AI.' They launched something called Alpamayo, which is a Vision-Language-Action model. Basically, it\u2019s an AI that doesn't just chat; it sees the world and plans physical actions, like driving cars or controlling robots, with chain-of-thought reasoning. They claim this platform drops inference costs by 10x. If that\u2019s true, we are about to see AI agents everywhere, doing everything, for pennies. This is the moment AI leaves the chatbox and enters the real world.",
     "id": "NV2026RB",
     "category": "Hardware",
-    "companies": ["NVIDIA"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/NV2026RB.png",
+    "image_prompt": "Photorealistic newsroom image: sleek data-center racks bathed in NVIDIA-green and cool blue light; closeup of glowing Vera CPU and Rubin GPU chips; engineers watching holographic AI models; mood: powerful, futuristic, precise."
   },
   {
     "date": "2026-01-09",
@@ -20,26 +26,46 @@
     "title": "Meta Goes Nuclear: Buying 6.6 GW to Power the Matrix",
     "summary": "Meta has secured deals for 6.6 gigawatts of nuclear energy to power its new AI supercluster, 'Prometheus.' The partnership involves Vistra, TerraPower, and Sam Altman's Oklo to provide carbon-free baseload power.",
     "engagement": "High",
-    "raw_text": "You guys, I keep telling you that AI is hungry, but I didn't think it was 'eat the sun' hungry. Meta just announced they are buying—get this—6.6 gigawatts of nuclear energy. To put that in perspective, that is enough juice to power about five million homes! They are building this massive AI supercluster in Ohio called 'Prometheus' (great name, hopefully no eagles involved), and they realized solar and wind just can't cut it for 24/7 AI training.\n\nSo, Zuck is literally going nuclear. They’ve partnered with TerraPower, which is Bill Gates' thing, and Oklo, which is Sam Altman's thing. We are seeing Big Tech merge with the utility sector right before our eyes. It’s no longer just about who has the best code; it’s about who has the most uranium. This is the industrial revolution of intelligence, and Meta is making sure they have the power plant to run it.",
+    "raw_text": "You guys, I keep telling you that AI is hungry, but I didn't think it was 'eat the sun' hungry. Meta just announced they are buying\u2014get this\u20146.6 gigawatts of nuclear energy. To put that in perspective, that is enough juice to power about five million homes! They are building this massive AI supercluster in Ohio called 'Prometheus' (great name, hopefully no eagles involved), and they realized solar and wind just can't cut it for 24/7 AI training. So, Zuck is literally going nuclear. They\u2019ve partnered with TerraPower, which is Bill Gates' thing, and Oklo, which is Sam Altman's thing. We are seeing Big Tech merge with the utility sector right before our eyes. It\u2019s no longer just about who has the best code; it\u2019s about who has the most uranium. This is the industrial revolution of intelligence, and Meta is making sure they have the power plant to run it.",
     "id": "MTNUC26",
     "category": "Business",
-    "companies": ["Meta", "Vistra", "TerraPower", "Oklo"],
-    "people": ["Mark Zuckerberg", "Sam Altman", "Bill Gates"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "Meta",
+      "Vistra",
+      "TerraPower",
+      "Oklo"
+    ],
+    "people": [
+      "Mark Zuckerberg",
+      "Sam Altman",
+      "Bill Gates"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/MTNUC26.png",
+    "image_prompt": "Night, cinematic: glass AI supercluster with electric-blue core, holographic neural map before engineers, modern small modular nuclear reactors and cooling towers on horizon, moonlit industrial skyline, atmospheric, ultra-realistic, high detail"
   },
   {
     "date": "2026-01-09",
     "source_file": "Combined",
     "page": 11,
-    "title": "Grok’s Safety Crisis: The AI Scandal Rocking X",
+    "title": "Grok\u2019s Safety Crisis: The AI Scandal Rocking X",
     "summary": "Elon Musk's Grok AI is facing severe regulatory backlash after users bypassed safety filters to generate non-consensual deepfake imagery. Regulators in the UK and US are demanding immediate action, leading X to restrict image generation to premium users.",
     "engagement": "High",
-    "raw_text": "We need to have a serious talk about what is happening over at X with Elon Musk’s Grok AI. This is bad, guys. Really bad. Reports just came out that users found ways to bypass the safety rails to generate non-consensual images of real people, and even worse, minors. The internet is rightfully furious, and now the regulators are stepping in hard. The UK's Ofcom is already knocking on the door, and US Senators are writing angry letters to Apple and Google demanding they boot the app from their stores.\n\nHere is the wild part: X’s response was to lock image generation behind a paywall. Critics are saying that is just 'monetizing the risk' rather than fixing the safety flaw. This is exactly the nightmare scenario everyone warned about with 'uncensored' AI models. It’s a massive controversy that highlights the tension between open AI and basic human safety. If Apple actually pulls X from the App Store over this? That would be the tech story of the decade.",
+    "raw_text": "We need to have a serious talk about what is happening over at X with Elon Musk\u2019s Grok AI. This is bad, guys. Really bad. Reports just came out that users found ways to bypass the safety rails to generate non-consensual images of real people, and even worse, minors. The internet is rightfully furious, and now the regulators are stepping in hard. The UK's Ofcom is already knocking on the door, and US Senators are writing angry letters to Apple and Google demanding they boot the app from their stores. Here is the wild part: X\u2019s response was to lock image generation behind a paywall. Critics are saying that is just 'monetizing the risk' rather than fixing the safety flaw. This is exactly the nightmare scenario everyone warned about with 'uncensored' AI models. It\u2019s a massive controversy that highlights the tension between open AI and basic human safety. If Apple actually pulls X from the App Store over this? That would be the tech story of the decade.",
     "id": "GRKSCN26",
     "category": "AI",
-    "companies": ["xAI", "X", "Apple", "Google"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "xAI",
+      "X",
+      "Apple",
+      "Google"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/GRKSCN26.png",
+    "image_prompt": "Tense cinematic newsroom photo: dark blue palette, laptop showing blurred deepfake portraits, worried moderator on phone, regulators' folders and smartphone with social app feed, red police light reflections, shattered AI iconography, high realism, dramatic lighting"
   },
   {
     "date": "2026-01-08",
@@ -48,12 +74,19 @@
     "title": "Robots Are Taking Over: Boston Dynamics Atlas & LG CLOi",
     "summary": "Boston Dynamics is moving its Atlas humanoid robot to mass production with help from NVIDIA and Google DeepMind. Meanwhile, LG unveiled CLOi, a domestic robot with articulated arms capable of doing actual household chores.",
     "engagement": "High",
-    "raw_text": "If you thought robots were just cool YouTube demos, think again. 2026 is officially the year of 'Physical AI.' Boston Dynamics just showed off the new Atlas, and it’s not a prototype anymore—it is ready for mass production. They are teaming up with NVIDIA for brains and Google DeepMind for AI, which is basically the Avengers of robotics. But it’s not just them.\n\nLG just dropped 'CLOi' at CES, and this isn't a cute little rolling speaker. It has actual arms, fingers, and wheels. It can navigate your house, pick up laundry, and understand commands like 'clean up that spill.' We are finally seeing the Vision-Language-Action models I talked about earlier put into actual metal bodies. Imagine coming home and your robot has actually done the dishes. Honestly, this is huge. The Jetsons future is creeping up on us faster than we thought.",
+    "raw_text": "If you thought robots were just cool YouTube demos, think again. 2026 is officially the year of 'Physical AI.' Boston Dynamics just showed off the new Atlas, and it\u2019s not a prototype anymore\u2014it is ready for mass production. They are teaming up with NVIDIA for brains and Google DeepMind for AI, which is basically the Avengers of robotics. But it\u2019s not just them. LG just dropped 'CLOi' at CES, and this isn't a cute little rolling speaker. It has actual arms, fingers, and wheels. It can navigate your house, pick up laundry, and understand commands like 'clean up that spill.' We are finally seeing the Vision-Language-Action models I talked about earlier put into actual metal bodies. Imagine coming home and your robot has actually done the dishes. Honestly, this is huge. The Jetsons future is creeping up on us faster than we thought.",
     "id": "ROBO26BD",
     "category": "Hardware",
-    "companies": ["Boston Dynamics", "LG", "Google DeepMind", "NVIDIA"],
+    "companies": [
+      "Boston Dynamics",
+      "LG",
+      "Google DeepMind",
+      "NVIDIA"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/ROBO26BD.png",
+    "image_prompt": "Photo-realistic news image: Boston Dynamics Atlas humanoid on a mass-production line, multiple units with robotic arms fitting limbs; nearby LG CLOi domestic robot with articulated arms loading a dishwasher in a modern kitchen. Engineers, server racks, cool cinematic lighting."
   },
   {
     "date": "2026-01-08",
@@ -62,12 +95,16 @@
     "title": "This Robot Vacuum Climbs Stairs: The Roborock Saros",
     "summary": "Roborock has unveiled the Saros Rover, a revolutionary vacuum robot with a 'wheel-leg' design that allows it to climb stairs and navigate complex obstacles. This hardware innovation solves one of the longest-standing limitations of robotic cleaners.",
     "engagement": "High",
-    "raw_text": "Check this out—for years, the biggest enemy of the robot vacuum has been... stairs. Just one step and your Roomba is defeated. Well, Roborock just solved it with the Saros Rover. This thing looks like a Mars rover! It has these articulated 'wheel-legs' that can extend and literally lift the robot up step-by-step. \n\nIt can handle spiral staircases, climb over high thresholds, and keep cleaning while it does it. It’s such a clever mix of hardware engineering and software. Instead of just making the AI smarter, they gave the robot legs. Honestly, if you live in a two-story house, this is the gadget you have been waiting for. It’s still in development, so no price yet, but just watching it climb is satisfying. Finally, a robot that doesn't need to be carried like a baby!",
+    "raw_text": "Check this out\u2014for years, the biggest enemy of the robot vacuum has been... stairs. Just one step and your Roomba is defeated. Well, Roborock just solved it with the Saros Rover. This thing looks like a Mars rover! It has these articulated 'wheel-legs' that can extend and literally lift the robot up step-by-step. It can handle spiral staircases, climb over high thresholds, and keep cleaning while it does it. It\u2019s such a clever mix of hardware engineering and software. Instead of just making the AI smarter, they gave the robot legs. Honestly, if you live in a two-story house, this is the gadget you have been waiting for. It\u2019s still in development, so no price yet, but just watching it climb is satisfying. Finally, a robot that doesn't need to be carried like a baby!",
     "id": "RBRCKST26",
     "category": "Consumer",
-    "companies": ["Roborock"],
+    "companies": [
+      "Roborock"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/RBRCKST26.png",
+    "image_prompt": "Photo-realistic news-style image of the Roborock Saros Rover ascending a modern carpeted staircase. Low-angle close-up on its wheel-leg mechanism, natural daylight, homeowner watching in amazement, crisp details, shallow depth of field, neutral tones, no text."
   },
   {
     "date": "2026-01-06",
@@ -76,12 +113,19 @@
     "title": "OpenAI's GPT-5.1: Real-Time Web & ChatGPT Health",
     "summary": "OpenAI has released GPT-5.1 featuring built-in real-time web access and a new specialized 'ChatGPT Health' vertical. The health feature connects securely to medical records to interpret test results without training the model on private data.",
     "engagement": "High",
-    "raw_text": "OpenAI is not slowing down. They just dropped GPT-5.1, and the headline feature is something we have wanted forever: native, real-time web access. No more 'my knowledge cutoff is 2023.' It can pull live info instantly. But the bigger story might be 'ChatGPT Health.' \n\nThey built a secure silo where you can upload your actual medical records and wearable data. Imagine snapping a pic of your blood test results and having ChatGPT explain exactly what they mean and how to prepare for your doctor's visit. And they swore that this data is encrypted and NOT used for training. That’s a massive privacy play. They are trying to become your doctor, your search engine, and your assistant all at once. It’s impressive, but are we ready to trust an AI with our health data? Let me know in the comments.",
+    "raw_text": "OpenAI is not slowing down. They just dropped GPT-5.1, and the headline feature is something we have wanted forever: native, real-time web access. No more 'my knowledge cutoff is 2023.' It can pull live info instantly. But the bigger story might be 'ChatGPT Health.' They built a secure silo where you can upload your actual medical records and wearable data. Imagine snapping a pic of your blood test results and having ChatGPT explain exactly what they mean and how to prepare for your doctor's visit. And they swore that this data is encrypted and NOT used for training. That\u2019s a massive privacy play. They are trying to become your doctor, your search engine, and your assistant all at once. It\u2019s impressive, but are we ready to trust an AI with our health data? Let me know in the comments.",
     "id": "GPT51HLT",
     "category": "AI",
-    "companies": ["OpenAI", "b.well"],
-    "people": ["Sam Altman"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "OpenAI",
+      "b.well"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/GPT51HLT.png",
+    "image_prompt": "Photorealistic newsroom: sleek laptop with glowing neural-network visualization and live web feed, clinician viewing translucent holographic medical charts with secure padlock emblem, cool blue tones, cinematic lighting, no text"
   },
   {
     "date": "2026-01-06",
@@ -90,12 +134,17 @@
     "title": "Samsung's 130-Inch Wall TV & The Death of the Bezel",
     "summary": "Samsung won a CES Innovation Award for its 130-inch Micro RGB TV and showcased a foldable OLED prototype that eliminates the crease. The new displays integrate Vision AI for hands-free control and seamless home integration.",
     "engagement": "High",
-    "raw_text": "CES is always about crazy TVs, but Samsung just won the whole show. They unveiled a 130-inch Micro RGB TV that is basically a wall. The colors are insane because they are using this new Micro RGB tech for perfect contrast. But the cooler part? The 'Vision AI.' You don't need a remote. You just look at it or gesture, and it reacts. \n\nAlso, for my foldable phone nerds, Samsung Display showed off a new panel that—wait for it—has NO CREASE. It unfolds mechanically flat. Rumors are flying that this is the screen technology Apple is waiting for before they launch a foldable iPhone. If that’s true, the foldable market is about to get very interesting. Samsung is basically telling us that screens are going to be everywhere, and they are going to be invisible until you need them.",
+    "raw_text": "CES is always about crazy TVs, but Samsung just won the whole show. They unveiled a 130-inch Micro RGB TV that is basically a wall. The colors are insane because they are using this new Micro RGB tech for perfect contrast. But the cooler part? The 'Vision AI.' You don't need a remote. You just look at it or gesture, and it reacts. Also, for my foldable phone nerds, Samsung Display showed off a new panel that\u2014wait for it\u2014has NO CREASE. It unfolds mechanically flat. Rumors are flying that this is the screen technology Apple is waiting for before they launch a foldable iPhone. If that\u2019s true, the foldable market is about to get very interesting. Samsung is basically telling us that screens are going to be everywhere, and they are going to be invisible until you need them.",
     "id": "SAMSGTV26",
     "category": "Consumer",
-    "companies": ["Samsung", "Apple"],
+    "companies": [
+      "Samsung",
+      "Apple"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/SAMSGTV26.png",
+    "image_prompt": "Photorealistic modern living room with a 130-inch nearly bezel-less wall TV showing vivid micro-RGB color, a foldable OLED prototype on a pedestal with no visible crease, soft ambient lighting, person using hands-free gesture controls, clean minimalist smart-home setting, editorial news style"
   },
   {
     "date": "2026-01-08",
@@ -104,12 +153,16 @@
     "title": "Gmail is Changing Forever: The Gemini AI Inbox",
     "summary": "Google is rolling out deep Gemini AI integration into Gmail for all users, including an 'AI Inbox' that sorts mail by context rather than time. Features include summarizing threads, answering questions about your inbox, and drafting complex replies.",
     "engagement": "High",
-    "raw_text": "If you use Gmail, your inbox is about to look completely different. Google is rolling out Gemini AI to everyone—not just paid users—and they are introducing the 'AI Inbox.' Instead of a chronological list of spam and newsletters, the AI organizes everything by context and priority. \n\nHere is the killer feature: you can ask it questions like 'How much did I spend on plumbing last year?' and it hunts down the receipts and gives you the answer. It can summarize those massive 50-email threads so you actually know what's going on. Honestly, this is huge for productivity. It’s basically commoditizing the personal assistant. We have seen these promises before, but with Gemini 3 running the show, it might actually work this time. Say goodbye to 'mark as unread.'",
+    "raw_text": "If you use Gmail, your inbox is about to look completely different. Google is rolling out Gemini AI to everyone\u2014not just paid users\u2014and they are introducing the 'AI Inbox.' Instead of a chronological list of spam and newsletters, the AI organizes everything by context and priority. Here is the killer feature: you can ask it questions like 'How much did I spend on plumbing last year?' and it hunts down the receipts and gives you the answer. It can summarize those massive 50-email threads so you actually know what's going on. Honestly, this is huge for productivity. It\u2019s basically commoditizing the personal assistant. We have seen these promises before, but with Gemini 3 running the show, it might actually work this time. Say goodbye to 'mark as unread.'",
     "id": "GMAILAI26",
     "category": "AI",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/GMAILAI26.png",
+    "image_prompt": "Realistic newsroom shot of a laptop displaying a modern email interface (no readable text), a translucent Gemini-style AI hologram above the keyboard, emails grouped into contextual cards, glowing neural overlay, warm cinematic lighting, shallow depth"
   },
   {
     "date": "2026-01-05",
@@ -118,26 +171,36 @@
     "title": "Intel Fights Back: Panther Lake & The 18A Node",
     "summary": "Intel launched its Core Ultra Series 3 'Panther Lake' processors, built on the critical 18A process node. The chips feature a 50 TOPS NPU for local AI and claim to beat competitors on battery life, aiming to reclaim the laptop market.",
     "engagement": "Medium",
-    "raw_text": "Intel has been having a rough time lately, but they just threw a massive punch at CES with 'Panther Lake.' This is their Core Ultra Series 3, and it’s built on their new 18A process—basically the tech that is supposed to save the company. They are claiming it makes them the 'x86 Battery Life King,' finally catching up to those Apple Silicon MacBooks. \n\nIt’s got a dedicated NPU pushing 50 TOPS (trillions of operations per second), which means your laptop can run heavy AI agents locally without killing the battery. They even put a surprisingly good GPU inside that rivals discrete graphics. For us geeks, this is a big deal because it means Windows laptops might finally stop overheating while trying to do basic tasks. Intel is betting the farm on this one.",
+    "raw_text": "Intel has been having a rough time lately, but they just threw a massive punch at CES with 'Panther Lake.' This is their Core Ultra Series 3, and it\u2019s built on their new 18A process\u2014basically the tech that is supposed to save the company. They are claiming it makes them the 'x86 Battery Life King,' finally catching up to those Apple Silicon MacBooks. It\u2019s got a dedicated NPU pushing 50 TOPS (trillions of operations per second), which means your laptop can run heavy AI agents locally without killing the battery. They even put a surprisingly good GPU inside that rivals discrete graphics. For us geeks, this is a big deal because it means Windows laptops might finally stop overheating while trying to do basic tasks. Intel is betting the farm on this one.",
     "id": "INTELPL26",
     "category": "Hardware",
-    "companies": ["Intel"],
-    "people": ["Pat Gelsinger"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "Intel"
+    ],
+    "people": [
+      "Pat Gelsinger"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/INTELPL26.png",
+    "image_prompt": "Realistic news photo: sleek laptop open on a lab bench, engineer in gloves holds a glowing microchip close-up revealing ultra-fine lithography patterns implying 18-angstrom node; silicon wafer, subtle AI data light trails, cool blue lighting, confident mood, no text or logos."
   },
   {
     "date": "2026-01-09",
-    "source_file": "Tech & AI News Roundup – January 10, 2026.pdf",
+    "source_file": "Tech & AI News Roundup \u2013 January 10, 2026.pdf",
     "page": 1,
     "title": "China's Coding King: DeepSeek V4 Coming in Feb",
     "summary": "Chinese startup DeepSeek is set to launch its V4 AI model in mid-February, with benchmarks suggesting it outperforms GPT-4 and Claude in coding tasks. The model is optimized for extremely long prompts and complex programming challenges.",
     "engagement": "Medium",
-    "raw_text": "Keep an eye on this one: DeepSeek V4. It’s a new AI model coming out of China next month, and the leaks are saying it is a beast at coding. Internal tests supposedly show it beating OpenAI and Anthropic on programming benchmarks. \n\nThe secret sauce seems to be handling extremely long code prompts without getting confused—something we all struggle with when using ChatGPT for big projects. It shows how fierce the global AI race is getting. It’s not just a US game anymore. If this model is open-weights or cheap to access, it could become the new default for developers. I’ll definitely be testing this against Copilot when it drops.",
+    "raw_text": "Keep an eye on this one: DeepSeek V4. It\u2019s a new AI model coming out of China next month, and the leaks are saying it is a beast at coding. Internal tests supposedly show it beating OpenAI and Anthropic on programming benchmarks. The secret sauce seems to be handling extremely long code prompts without getting confused\u2014something we all struggle with when using ChatGPT for big projects. It shows how fierce the global AI race is getting. It\u2019s not just a US game anymore. If this model is open-weights or cheap to access, it could become the new default for developers. I\u2019ll definitely be testing this against Copilot when it drops.",
     "id": "DPSKV426",
     "category": "AI",
-    "companies": ["DeepSeek"],
+    "companies": [
+      "DeepSeek"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/DPSKV426.png",
+    "image_prompt": "Photorealistic news photo: confident Chinese lead engineer in a sleek Shanghai AI lab, holographic transparent screens with flowing code and neural-network diagrams, long-context data streams, cinematic cool-blue lighting, newsroom atmosphere, no visible text, high-detail"
   },
   {
     "date": "2026-01-08",
@@ -146,12 +209,19 @@
     "title": "LEGO Goes High-Tech with 'Smart Play'",
     "summary": "LEGO has launched a 'Smart Play' platform featuring bricks with embedded sensors for light and distance detection. Launching with Star Wars sets, the system enables synchronized lights and sounds for interactive storytelling.",
     "engagement": "High",
-    "raw_text": "So, LEGO just leveled up my childhood. They launched 'LEGO Smart Play,' and it’s not just plastic anymore. These bricks have embedded sensors that detect light, distance, and interaction. They kicked it off with Star Wars sets—obviously—so imagine building an R2-D2 that actually reacts when you wave at it, or a lightsaber duel where the sounds sync up perfectly with your movement.\n\nThis isn't like the old Mindstorms robotics stuff that was hard to code; this is baked into the bricks. It’s a super smart way to keep physical toys relevant in an iPad world. Honestly, I’m probably going to buy the Chewbacca set 'for review purposes,' but we all know I’m just going to play with it.",
+    "raw_text": "So, LEGO just leveled up my childhood. They launched 'LEGO Smart Play,' and it\u2019s not just plastic anymore. These bricks have embedded sensors that detect light, distance, and interaction. They kicked it off with Star Wars sets\u2014obviously\u2014so imagine building an R2-D2 that actually reacts when you wave at it, or a lightsaber duel where the sounds sync up perfectly with your movement. This isn't like the old Mindstorms robotics stuff that was hard to code; this is baked into the bricks. It\u2019s a super smart way to keep physical toys relevant in an iPad world. Honestly, I\u2019m probably going to buy the Chewbacca set 'for review purposes,' but we all know I\u2019m just going to play with it.",
     "id": "LEGOSP26",
     "category": "Consumer",
-    "companies": ["LEGO", "Lucasfilm"],
-    "people": ["David Filoni"],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "companies": [
+      "LEGO",
+      "Lucasfilm"
+    ],
+    "people": [
+      "David Filoni"
+    ],
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/LEGOSP26.png",
+    "image_prompt": "High-resolution photo of a Star Wars LEGO set on a table: close-up of ships and minifigures with glowing smart bricks (visible sensor ports), child's hand triggering changing lights, realistic textures, shallow depth, crisp news-style lighting."
   },
   {
     "date": "2026-01-08",
@@ -160,11 +230,15 @@
     "title": "Ford's $30K EV Will Drive Itself (Eyes-Off!)",
     "summary": "Ford announced plans for a $30,000 mass-market EV by 2028 that features Level 3 'eyes-off' autonomous driving. This marks a significant shift in democratizing advanced self-driving tech beyond luxury vehicles.",
     "engagement": "High",
-    "raw_text": "Ford just made a promise that sounds too good to be true, but I hope it isn't. They are building a $30,000 electric vehicle for 2028 that supports Level 3 autonomy. That means 'eyes-off' driving. You can literally take your eyes off the road and let the car handle the highway commute. \n\nUsually, this tech is reserved for six-figure luxury cars like the Mercedes S-Class. Putting it in a mass-market, affordable EV is a total game changer. It shows that Ford is trying to pivot from just selling hardware to selling software subscriptions. If they pull this off, the daily commute is going to change forever. Would you trust a $30k car to drive you to work while you watch Netflix? Let me know.",
+    "raw_text": "Ford just made a promise that sounds too good to be true, but I hope it isn't. They are building a $30,000 electric vehicle for 2028 that supports Level 3 autonomy. That means 'eyes-off' driving. You can literally take your eyes off the road and let the car handle the highway commute. Usually, this tech is reserved for six-figure luxury cars like the Mercedes S-Class. Putting it in a mass-market, affordable EV is a total game changer. It shows that Ford is trying to pivot from just selling hardware to selling software subscriptions. If they pull this off, the daily commute is going to change forever. Would you trust a $30k car to drive you to work while you watch Netflix? Let me know.",
     "id": "FRDLV326",
     "category": "Mobile",
-    "companies": ["Ford"],
+    "companies": [
+      "Ford"
+    ],
     "people": [],
-    "created_at": "2026-01-10T12:35:40+05:30"
+    "created_at": "2026-01-10T12:35:40+05:30",
+    "image_url": "images/10_01_26/FRDLV326.png",
+    "image_prompt": "Photo-realistic compact electric Ford sedan on urban street at dusk, driver relaxed looking away with dashboard lights glowing, subtle Ford badge, city skyline, cinematic soft lighting, news-style, high detail"
   }
 ]
