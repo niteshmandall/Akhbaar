@@ -6,12 +6,19 @@
     "title": "NVIDIA's 'System 2' Moment: Alpamayo & The End of Dumb Self-Driving",
     "summary": "NVIDIA unveiled Alpamayo, a 10-billion-parameter Vision-Language-Action model that brings 'chain-of-thought' reasoning to autonomous vehicles, moving beyond simple pattern matching. The system was demonstrated navigating complex, unmapped scenarios and is open-sourced to standardize industry safety.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you're doing because NVIDIA just dropped the biggest bombshell in self-driving history. It's called Alpamayo, and it’s basically a brain transplant for autonomous cars. Jensen Huang revealed this beast at CES, and here's the wild part: it doesn't just 'see' the road—it literally *thinks* about it. We're talking 'System 2' reasoning, guys. If a ball rolls into the street, old AI would just slam the brakes. Alpamayo actually generates an internal monologue like, 'I see a ball, physics says a kid probably kicked it, so I better watch for a toddler running out.' It’s the difference between a reflex and an actual thought. They're even open-sourcing the data! This is the 'ChatGPT moment' for physical robots. If this actually works in the wild, the self-driving race is completely reset.",
+    "raw_text": "Okay, stop what you're doing because NVIDIA just dropped the biggest bombshell in self-driving history. It's called Alpamayo, and it\u2019s basically a brain transplant for autonomous cars. Jensen Huang revealed this beast at CES, and here's the wild part: it doesn't just 'see' the road\u2014it literally *thinks* about it. We're talking 'System 2' reasoning, guys. If a ball rolls into the street, old AI would just slam the brakes. Alpamayo actually generates an internal monologue like, 'I see a ball, physics says a kid probably kicked it, so I better watch for a toddler running out.' It\u2019s the difference between a reflex and an actual thought. They're even open-sourcing the data! This is the 'ChatGPT moment' for physical robots. If this actually works in the wild, the self-driving race is completely reset.",
     "id": "NVDA_ALP_001",
     "category": "AI",
-    "companies": ["NVIDIA", "Mercedes-Benz"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "companies": [
+      "NVIDIA",
+      "Mercedes-Benz"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/NVDA_ALP_001.png",
+    "image_prompt": "Photo-realistic news-style image: sleek self-driving car navigating a chaotic, unmapped urban construction site at dusk, subtle LIDAR point cloud and translucent neural-network strands overlaying the scene, engineers watching with laptops, dramatic cinematic lighting."
   },
   {
     "date": "2026-01-06",
@@ -20,12 +27,16 @@
     "title": "Falcon H1R-7B: The Tiny AI That Beats Giants at Math",
     "summary": "The Technology Innovation Institute released Falcon H1R-7B, a compact 7-billion parameter model that outperforms much larger models in reasoning tasks. Using a hybrid architecture, it allows for high-level logic on consumer-grade hardware.",
     "engagement": "Medium",
-    "raw_text": "Alright developers, listen up. We've been obsessed with massive models, but the team over at TII in Abu Dhabi just proved size isn't everything. They dropped Falcon H1R-7B, and honestly, the benchmarks are kind of embarrassing for the big guys. This thing is tiny—only 7 billion parameters—so you can run it on your laptop, yet it’s beating models five times its size in math and coding scores. It uses this new 'DeepConf' feature to filter out bad logic on the fly. It's huge for anyone trying to build AI agents on the edge without burning a hole in their wallet for API credits. Efficient AI is the new meta for 2026.",
+    "raw_text": "Alright developers, listen up. We've been obsessed with massive models, but the team over at TII in Abu Dhabi just proved size isn't everything. They dropped Falcon H1R-7B, and honestly, the benchmarks are kind of embarrassing for the big guys. This thing is tiny\u2014only 7 billion parameters\u2014so you can run it on your laptop, yet it\u2019s beating models five times its size in math and coding scores. It uses this new 'DeepConf' feature to filter out bad logic on the fly. It's huge for anyone trying to build AI agents on the edge without burning a hole in their wallet for API credits. Efficient AI is the new meta for 2026.",
     "id": "FALC_H1R_002",
     "category": "AI Research",
-    "companies": ["Technology Innovation Institute"],
+    "companies": [
+      "Technology Innovation Institute"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/FALC_H1R_002.png",
+    "image_prompt": "Close-up realistic photo of a compact black AI module resting on a laptop keyboard, projecting cyan holographic math formulas and 3D graphs above it; blurred towering server racks loom in the background; cinematic studio lighting, high-detail, shallow depth"
   },
   {
     "date": "2026-01-07",
@@ -34,12 +45,18 @@
     "title": "OpenAI Officially Enters Healthcare with 'ChatGPT Health'",
     "summary": "OpenAI launched a dedicated 'ChatGPT Health' feature that securely connects to medical records and wellness apps while ensuring data privacy. The tool is designed to explain lab results and prep users for doctor visits, but explicitly avoids offering diagnoses.",
     "engagement": "High",
-    "raw_text": "It’s finally happening. OpenAI is officially your new health buddy. They just launched 'ChatGPT Health,' a dedicated mode that connects to your Apple Health, MyFitnessPal, and even your electronic medical records. And before you panic—no, they aren't training GPT-6 on your blood test results; it's in a secure, private silo. I think this is a game-changer for anyone who's ever stared at a lab report confused about what 'high LDL' actually means. It won't diagnose you—legally it can't—but having an AI that knows your actual history and can prep you for a doctor's visit? That is powerful. The 'Doctor in your Pocket' era is starting right now.",
+    "raw_text": "It\u2019s finally happening. OpenAI is officially your new health buddy. They just launched 'ChatGPT Health,' a dedicated mode that connects to your Apple Health, MyFitnessPal, and even your electronic medical records. And before you panic\u2014no, they aren't training GPT-6 on your blood test results; it's in a secure, private silo. I think this is a game-changer for anyone who's ever stared at a lab report confused about what 'high LDL' actually means. It won't diagnose you\u2014legally it can't\u2014but having an AI that knows your actual history and can prep you for a doctor's visit? That is powerful. The 'Doctor in your Pocket' era is starting right now.",
     "id": "OPEN_HLTH_003",
     "category": "AI",
-    "companies": ["OpenAI", "Apple", "MyFitnessPal"],
+    "companies": [
+      "OpenAI",
+      "Apple",
+      "MyFitnessPal"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/OPEN_HLTH_003.png",
+    "image_prompt": "Photo-realistic scene: calm patient at home holding tablet with blurred medical charts and subtle shield overlay; friendly doctor on video call in background; soft natural light, modern clinical aesthetic, trustworthy mood, no visible text."
   },
   {
     "date": "2026-01-06",
@@ -48,12 +65,18 @@
     "title": "Google Brains + Boston Dynamics Brawn: The Robot Takeover Begins",
     "summary": "Google DeepMind announced a partnership to integrate Gemini AI into Boston Dynamics' Atlas and Spot robots. This collaboration aims to give agile robots contextual awareness and decision-making capabilities for industrial use.",
     "engagement": "High",
-    "raw_text": "You guys, the crossover we were all afraid of (or excited for) is here. Google DeepMind is putting their Gemini AI brain inside Boston Dynamics' Atlas robot body. Imagine that backflipping robot, but now it can actually understand what it's looking at and take complex orders. They're testing this at Hyundai factories right now. It's 'Embodied Intelligence'—the robot isn't just following a script; it's using Gemini to reason about the world around it. We are speeding towards a sci-fi future faster than I expected. If this works, manual labor is going to look very different in five years.",
+    "raw_text": "You guys, the crossover we were all afraid of (or excited for) is here. Google DeepMind is putting their Gemini AI brain inside Boston Dynamics' Atlas robot body. Imagine that backflipping robot, but now it can actually understand what it's looking at and take complex orders. They're testing this at Hyundai factories right now. It's 'Embodied Intelligence'\u2014the robot isn't just following a script; it's using Gemini to reason about the world around it. We are speeding towards a sci-fi future faster than I expected. If this works, manual labor is going to look very different in five years.",
     "id": "GOOG_BD_004",
     "category": "Robotics",
-    "companies": ["Google DeepMind", "Boston Dynamics", "Hyundai"],
+    "companies": [
+      "Google DeepMind",
+      "Boston Dynamics",
+      "Hyundai"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/GOOG_BD_004.png",
+    "image_prompt": "Realistic news-style photo of sleek humanoid Atlas mid-stride and a quadruped Spot in an industrial warehouse, engineers observing, Gemini-like glowing neural network overlay around robots, cool cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-01-06",
@@ -62,12 +85,16 @@
     "title": "Stanford's 'SleepFM': Your Apple Watch Could Predict Heart Attacks",
     "summary": "Stanford Medicine published research on SleepFM, a foundation model trained on 585,000 hours of sleep data. The model can predict diseases like Parkinson's and heart conditions years in advance by analyzing sleep biosignals.",
     "engagement": "Medium",
-    "raw_text": "This is spooky but incredible. Stanford just dropped a paper on 'SleepFM,' an AI that watches you sleep—literally. They trained it on half a million hours of sleep data, and it can predict diseases like Parkinson's and heart attacks years before you show symptoms. It detects these tiny 'decouplings' between your heart rate and brain waves that doctors miss. The crazy part? They think this could eventually run on consumer wearables. Imagine your Apple Watch waking you up to tell you to see a cardiologist. Preventative medicine just got a massive AI upgrade.",
+    "raw_text": "This is spooky but incredible. Stanford just dropped a paper on 'SleepFM,' an AI that watches you sleep\u2014literally. They trained it on half a million hours of sleep data, and it can predict diseases like Parkinson's and heart attacks years before you show symptoms. It detects these tiny 'decouplings' between your heart rate and brain waves that doctors miss. The crazy part? They think this could eventually run on consumer wearables. Imagine your Apple Watch waking you up to tell you to see a cardiologist. Preventative medicine just got a massive AI upgrade.",
     "id": "STNF_SLP_005",
     "category": "Science",
-    "companies": ["Stanford Medicine"],
+    "companies": [
+      "Stanford Medicine"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/STNF_SLP_005.png",
+    "image_prompt": "Photorealistic nighttime bedroom: middle-aged person sleeping, wrist with Apple Watch visible, soft blue moonlight and warm lamp, subtle translucent biosignal waveforms and neural-network overlay rising from watch and chest, faint red ECG spike over heart, calm clinical-news mood."
   },
   {
     "date": "2026-01-06",
@@ -76,12 +103,17 @@
     "title": "Historic Shift: US Govt Takes 10% Stake in Intel",
     "summary": "In a major geopolitical move, the US government acquired a 10% equity stake in Intel by converting CHIPS Act funding. This 'golden share' effectively nationalizes part of the company to secure domestic semiconductor manufacturing.",
     "engagement": "High",
-    "raw_text": "Politics just smashed into tech in a huge way. The US government just bought 10% of Intel. Yes, you heard that right. They converted billions in CHIPS Act loans into actual equity. This is basically the end of the 'free market' for chips—the US is declaring that Intel is too big to fail and too important to leave alone. They're treating chip fabs like nuclear silos now. For Intel stock holders, it's a safety net, but for the industry? It means Uncle Sam is now sitting in the boardroom. The 'Sovereign Chip' era is officially here.",
+    "raw_text": "Politics just smashed into tech in a huge way. The US government just bought 10% of Intel. Yes, you heard that right. They converted billions in CHIPS Act loans into actual equity. This is basically the end of the 'free market' for chips\u2014the US is declaring that Intel is too big to fail and too important to leave alone. They're treating chip fabs like nuclear silos now. For Intel stock holders, it's a safety net, but for the industry? It means Uncle Sam is now sitting in the boardroom. The 'Sovereign Chip' era is officially here.",
     "id": "INTL_GOV_006",
     "category": "Business",
-    "companies": ["Intel", "US Government"],
+    "companies": [
+      "Intel",
+      "US Government"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/INTL_GOV_006.png",
+    "image_prompt": "Photorealistic, dramatic news-style image: a gleaming golden semiconductor wafer like a coin engraved with tiny circuits held between a suited government official\u2019s gloved hand and a chip engineer in a cleanroom; soft US flag glow, dusk, solemn mood."
   },
   {
     "date": "2026-01-10",
@@ -90,12 +122,18 @@
     "title": "JPMorgan Buys Apple Card: Goldman Sachs Bows Out",
     "summary": "JPMorgan Chase has agreed to acquire the Apple Card portfolio from Goldman Sachs, taking over $20 billion in loans. The deal stabilizes the Apple Card program after Goldman's failed attempt to enter consumer banking.",
     "engagement": "High",
-    "raw_text": "If you have an Apple Card, your bank is changing. Goldman Sachs is officially out, and JPMorgan Chase is in. Goldman lost billions trying to be a consumer bank, and they just couldn't make the math work. Chase is swooping in to take over the $20 billion portfolio. For us users, the 3% cash back isn't going anywhere, and the app stays the same. But behind the scenes, the biggest bank in America is now powering your iPhone wallet. It’s a massive flex for Chase and a humble retreat for Goldman.",
+    "raw_text": "If you have an Apple Card, your bank is changing. Goldman Sachs is officially out, and JPMorgan Chase is in. Goldman lost billions trying to be a consumer bank, and they just couldn't make the math work. Chase is swooping in to take over the $20 billion portfolio. For us users, the 3% cash back isn't going anywhere, and the app stays the same. But behind the scenes, the biggest bank in America is now powering your iPhone wallet. It\u2019s a massive flex for Chase and a humble retreat for Goldman.",
     "id": "AAPL_JPM_007",
     "category": "Fintech",
-    "companies": ["Apple", "JPMorgan Chase", "Goldman Sachs"],
+    "companies": [
+      "Apple",
+      "JPMorgan Chase",
+      "Goldman Sachs"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/AAPL_JPM_007.png",
+    "image_prompt": "Close-up of two suited executives shaking hands over a polished titanium credit card on a dark wood table; sleek smartphone with blurred app screen nearby; glass bank skyscrapers seen through a window at dusk; serious, stabilizing mood, high-realism news photo"
   },
   {
     "date": "2026-01-08",
@@ -104,12 +142,16 @@
     "title": "Meta Ray-Ban Update: Write on Tables with 'Neural Bands'",
     "summary": "Meta introduced updates for Ray-Ban smart glasses, including a neural wristband that allows users to 'write' on any surface and have the text appear digitally. A new teleprompter feature was also revealed for public speaking.",
     "engagement": "High",
-    "raw_text": "Meta's Ray-Bans just got a sci-fi upgrade. They showed off this new 'Neural Band'—a wristband that detects your nerve signals. You can literally trace your finger on a table, and the glasses turn it into digital text. No keyboard, no phone, just tapping on a coffee shop table. They also added a teleprompter mode so your notes float in front of your eyes while you're talking. This is the first time AR actually feels useful and not just a gimmick. I need to get my hands on these ASAP.",
+    "raw_text": "Meta's Ray-Bans just got a sci-fi upgrade. They showed off this new 'Neural Band'\u2014a wristband that detects your nerve signals. You can literally trace your finger on a table, and the glasses turn it into digital text. No keyboard, no phone, just tapping on a coffee shop table. They also added a teleprompter mode so your notes float in front of your eyes while you're talking. This is the first time AR actually feels useful and not just a gimmick. I need to get my hands on these ASAP.",
     "id": "META_RAY_008",
     "category": "Hardware",
-    "companies": ["Meta"],
+    "companies": [
+      "Meta"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/META_RAY_008.png",
+    "image_prompt": "Realistic photo of a presenter wearing Ray-Ban smart glasses and a sleek neural wristband, tracing a finger across a wooden table as a soft blue holographic interface rises\u2014glowing symbols and guiding lines, subtle teleprompter HUD on the lens, modern stage, warm lighting"
   },
   {
     "date": "2026-01-06",
@@ -118,12 +160,16 @@
     "title": "LG CLOID: The Robot Butler Is Finally Real?",
     "summary": "LG debuted 'CLOID,' an AI-powered humanoid robot designed for the home. Featuring articulate arms and vision-language models, it can perform complex chores like laundry and retrieving items from the fridge.",
     "engagement": "High",
-    "raw_text": "We’ve seen a million 'home robot' concepts, but LG's new CLOID actually looks promising. This isn't just a rolling iPad; it has arms, fingers, and a torso that extends. They showed it grabbing milk from the fridge and even folding laundry. It’s running on Vision-Language-Action models, so it understands context—it knows what a 'mess' looks like and how to clean it up. It’s part of their 'Zero Labor Home' vision. We're probably still a few years from having a Rosey the Robot, but CLOID is the closest thing I've seen yet.",
+    "raw_text": "We\u2019ve seen a million 'home robot' concepts, but LG's new CLOID actually looks promising. This isn't just a rolling iPad; it has arms, fingers, and a torso that extends. They showed it grabbing milk from the fridge and even folding laundry. It\u2019s running on Vision-Language-Action models, so it understands context\u2014it knows what a 'mess' looks like and how to clean it up. It\u2019s part of their 'Zero Labor Home' vision. We're probably still a few years from having a Rosey the Robot, but CLOID is the closest thing I've seen yet.",
     "id": "LG_CLOID_009",
     "category": "Robotics",
-    "companies": ["LG Electronics"],
+    "companies": [
+      "LG Electronics"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/LG_CLOID_009.png",
+    "image_prompt": "Realistic news-style photo of a sleek humanoid robot in a modern kitchen carrying a laundry basket and opening a fridge. Articulate metallic arms, soft daylight, warm neutral tones, candid, high-detail, shallow depth of field."
   },
   {
     "date": "2026-01-06",
@@ -132,12 +178,18 @@
     "title": "NVIDIA Vera Rubin: The Chip Powering the Next Decade of AI",
     "summary": "NVIDIA announced the 'Vera Rubin' AI platform, promising 5x the performance of the Blackwell series. The platform is designed for extreme-scale AI inference and training, entering production ahead of schedule.",
     "engagement": "High",
-    "raw_text": "Just when you thought NVIDIA couldn't get faster, they dropped the 'Vera Rubin' platform. This new chip setup is an absolute monster—five times more powerful than Blackwell. Five times! Jensen says it cuts the cost of generating tokens by 90%. That means smarter AI models are about to get way cheaper to run. This is the hardware that's going to train GPT-6 and whatever comes after. If you're wondering why NVIDIA stock keeps going up, this is it. They are literally building the engine for the future of intelligence.",
+    "raw_text": "Just when you thought NVIDIA couldn't get faster, they dropped the 'Vera Rubin' platform. This new chip setup is an absolute monster\u2014five times more powerful than Blackwell. Five times! Jensen says it cuts the cost of generating tokens by 90%. That means smarter AI models are about to get way cheaper to run. This is the hardware that's going to train GPT-6 and whatever comes after. If you're wondering why NVIDIA stock keeps going up, this is it. They are literally building the engine for the future of intelligence.",
     "id": "NVDA_VERA_010",
     "category": "Hardware",
-    "companies": ["NVIDIA"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/NVDA_VERA_010.png",
+    "image_prompt": "Photo-realistic news-style image: close-up of a sleek Vera Rubin AI chip glowing emerald, mounted in a server blade inside a high-tech data center, engineers in background reviewing code on tablets, cinematic lighting, crisp details, no text."
   },
   {
     "date": "2026-01-05",
@@ -146,12 +198,16 @@
     "title": "AMD Ryzen AI 400: Your Laptop Is About to Get a Brain Upgrade",
     "summary": "AMD launched the Ryzen AI 400 Series processors for laptops, featuring a powerful 60 TOPS NPU. The chips are designed to handle on-device AI tasks like real-time translation and content creation without cloud lag.",
     "engagement": "Medium",
-    "raw_text": "AMD is coming for your laptop. They just dropped the Ryzen AI 400 series, and the big news here is the NPU—the Neural Processing Unit. It’s pushing 60 trillion operations per second. Why do you care? Because it means your laptop can finally run heavy AI tasks locally without lagging or needing Wi-Fi. We're talking instant real-time translation and generative art tools running directly on your machine. This is the year the 'AI PC' actually becomes a real thing, and AMD is leading the charge.",
+    "raw_text": "AMD is coming for your laptop. They just dropped the Ryzen AI 400 series, and the big news here is the NPU\u2014the Neural Processing Unit. It\u2019s pushing 60 trillion operations per second. Why do you care? Because it means your laptop can finally run heavy AI tasks locally without lagging or needing Wi-Fi. We're talking instant real-time translation and generative art tools running directly on your machine. This is the year the 'AI PC' actually becomes a real thing, and AMD is leading the charge.",
     "id": "AMD_RYZ_011",
     "category": "Hardware",
-    "companies": ["AMD"],
+    "companies": [
+      "AMD"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/AMD_RYZ_011.png",
+    "image_prompt": "Photorealistic newsroom scene: sleek laptop open on desk, Ryzen AI chip glowing like a miniature brain with neural-circuit traces spreading across screen and chassis, warm blue-amber rim light, shallow depth of field, hands typing, high-detail, realistic"
   },
   {
     "date": "2026-01-10",
@@ -163,9 +219,14 @@
     "raw_text": "Shots fired in the browser wars! Brave just rewrote their entire ad-blocking engine in Rust. This is a direct middle finger to Google. Chrome is pushing 'Manifest V3,' which basically cripples ad blockers, but because Brave built this natively into the browser core, they can bypass those rules entirely. Plus, the Rust code makes it use 75% less memory. If you're tired of Chrome eating your RAM and serving you ads, Brave is looking like the only real resistance left.",
     "id": "BRAV_RST_012",
     "category": "Software",
-    "companies": ["Brave", "Google"],
+    "companies": [
+      "Brave",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/BRAV_RST_012.png",
+    "image_prompt": "Photorealistic news image: Brave lion emblem beside a glowing rust-colored gear, a sleek browser window showing Rust-like code, a bronze privacy shield blocking a looming multicolored corporate tower; cinematic lighting, shallow depth of field"
   },
   {
     "date": "2026-01-08",
@@ -174,12 +235,20 @@
     "title": "Mobileye Buys Mentee Robotics: Cars Teaching Robots to Walk",
     "summary": "Mobileye acquired Mentee Robotics for $900 million to merge autonomous driving tech with humanoid robotics. The goal is to use the same 'physical AI' stack to power both self-driving cars and general-purpose robots.",
     "engagement": "High",
-    "raw_text": "Mobileye, the Intel company famous for self-driving cars, just dropped nearly a billion dollars to buy Mentee Robotics. Why? Because it turns out driving a car and walking a robot use the same kind of brain. They want to take their massive driving AI and plug it into humanoid robots. It makes total sense—if an AI can navigate a chaotic intersection, it can probably navigate a warehouse. We are seeing a massive consolidation where car tech and robot tech are merging into one giant industry.",
+    "raw_text": "Mobileye, the Intel company famous for self-driving cars, just dropped nearly a billion dollars to buy Mentee Robotics. Why? Because it turns out driving a car and walking a robot use the same kind of brain. They want to take their massive driving AI and plug it into humanoid robots. It makes total sense\u2014if an AI can navigate a chaotic intersection, it can probably navigate a warehouse. We are seeing a massive consolidation where car tech and robot tech are merging into one giant industry.",
     "id": "MBLY_MNT_013",
     "category": "Business",
-    "companies": ["Mobileye", "Mentee Robotics", "Intel"],
-    "people": ["Amnon Shashua"],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "companies": [
+      "Mobileye",
+      "Mentee Robotics",
+      "Intel"
+    ],
+    "people": [
+      "Amnon Shashua"
+    ],
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/MBLY_MNT_013.png",
+    "image_prompt": "Photorealistic scene: a sleek autonomous car in a modern robotics lab guiding a humanoid robot's first steps, engineers observing on tablets, glowing LiDAR point cloud, polished floor, hopeful, high-tech, cinematic lighting"
   },
   {
     "date": "2026-01-05",
@@ -188,12 +257,17 @@
     "title": "Amazon Ring Expands: Drones, Sensors, and 'Fire Watch'",
     "summary": "Amazon expanded the Ring ecosystem with new independent sensors, a mobile security trailer, and 'Fire Watch' wildfire alerts. The update aims to turn Ring into a comprehensive home and neighborhood safety platform.",
     "engagement": "Medium",
-    "raw_text": "Amazon isn't just watching your porch anymore; they want to watch the whole neighborhood. They just updated the Ring ecosystem with a ton of new gear, including 'Fire Watch' that uses AI to spot wildfires and smoke. They also launched these little standalone sensors that don't even need a hub. It’s moving from just 'security cameras' to a full-blown safety net for your home. Privacy advocates might twitch, but for people in wildfire zones, this tech could literally save homes.",
+    "raw_text": "Amazon isn't just watching your porch anymore; they want to watch the whole neighborhood. They just updated the Ring ecosystem with a ton of new gear, including 'Fire Watch' that uses AI to spot wildfires and smoke. They also launched these little standalone sensors that don't even need a hub. It\u2019s moving from just 'security cameras' to a full-blown safety net for your home. Privacy advocates might twitch, but for people in wildfire zones, this tech could literally save homes.",
     "id": "AMZN_RNG_014",
     "category": "Smart Home",
-    "companies": ["Amazon", "Ring"],
+    "companies": [
+      "Amazon",
+      "Ring"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/AMZN_RNG_014.png",
+    "image_prompt": "Realistic suburban dusk: an Amazon Ring drone hovers above houses, smart sensors visible on porches, a mobile security trailer parked under amber lights, faint wildfire smoke on horizon, neighbors looking on, tense but orderly mood."
   },
   {
     "date": "2026-01-08",
@@ -205,8 +279,12 @@
     "raw_text": "If your inbox is a disaster, Google just threw you a lifeline. They turned on Gemini inside Gmail for everyone. You can now just ask your inbox questions like 'When is my flight?' or 'What did my boss say about the project?' and it pulls the answer instantly. It also summarizes those endless email chains into bullet points. It's rolling out to 3 billion users, so this is probably the biggest AI deployment in history. Email might actually be bearable again.",
     "id": "GOOG_GML_015",
     "category": "Software",
-    "companies": ["Google"],
+    "companies": [
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-01-10T20:52:14.000Z"
+    "created_at": "2026-01-10T20:52:14.000Z",
+    "image_url": "images/11_01_26/GOOG_GML_015.png",
+    "image_prompt": "Photo-realistic newsroom scene: open laptop showing a modern email inbox, a translucent glowing neural-network brain hovering above, light threads connecting to message cards, diverse hands on keyboard, warm focused lighting"
   }
 ]
