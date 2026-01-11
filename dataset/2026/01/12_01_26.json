@@ -6,12 +6,19 @@
     "title": "Meta's $2 Billion AI Deal Blocked by China?",
     "summary": "Meta Platforms' acquisition of Singapore-based AI startup Manus has triggered a national security probe by China's Ministry of Commerce. The conflict centers on 'Agentic AI' technology and the potential brain drain of Chinese engineering talent to a US giant.",
     "engagement": "High",
-    "raw_text": "You guys, the AI wars just got real, and I'm not talking about chatbots. Meta just dropped a massive $2 billion to acquire Manus, an AI agent startup. But here is the wild part—Manus was founded by Chinese entrepreneurs, and Beijing is absolutely losing it. They just launched a massive probe into the deal, basically claiming that the 'agentic' algorithms and the talent behind them are sovereign assets. It is literally a tug-of-war for the brains behind the next generation of AI. If China blocks this, it sets a crazy precedent that AI talent is now property of the state. This is geopolitical drama at its peak.",
+    "raw_text": "You guys, the AI wars just got real, and I'm not talking about chatbots. Meta just dropped a massive $2 billion to acquire Manus, an AI agent startup. But here is the wild part\u2014Manus was founded by Chinese entrepreneurs, and Beijing is absolutely losing it. They just launched a massive probe into the deal, basically claiming that the 'agentic' algorithms and the talent behind them are sovereign assets. It is literally a tug-of-war for the brains behind the next generation of AI. If China blocks this, it sets a crazy precedent that AI talent is now property of the state. This is geopolitical drama at its peak.",
     "id": "1a2b3c4d",
     "category": "Business",
-    "companies": ["Meta Platforms", "Manus"],
-    "people": ["Mark Zuckerberg"],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "companies": [
+      "Meta Platforms",
+      "Manus"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/1a2b3c4d.png",
+    "image_prompt": "Photo-real split scene: left a US tech HQ in cool blue, right China's Ministry with red flags and stern officials, center a Singapore startup with anxious Chinese engineers clutching suitcases, a translucent humanoid AI hologram with circuit light, tense cinematic mood."
   },
   {
     "date": "2026-01-11",
@@ -31,8 +38,13 @@
       "OpenAI",
       "Amazon"
     ],
-    "people": ["Sundar Pichai", "John Furner"],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "people": [
+      "Sundar Pichai",
+      "John Furner"
+    ],
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/5e6f7g8h.png",
+    "image_prompt": "Photorealistic news-style close-up: diverse person taps a smartphone chat that projects holographic product cards and floating packages, colored tiles (blue, green, orange) hinting major retailers (no text), finger pressing a translucent checkout icon, cinematic warm light, shallow depth of field"
   },
   {
     "date": "2026-01-11",
@@ -44,9 +56,15 @@
     "raw_text": "This is actually terrifying for privacy. India is proposing a new law that would force companies like Apple and Samsung to hand over their source code to the government for 'security auditing.' Can you imagine? The secret sauce of iOS and Android, just sitting in a government lab. The industry is obviously fighting back hard, saying it risks trade secrets and opens up backdoors. Plus, they want to force continuous malware scanning that destroys your battery life. If this passes, it changes the smartphone game globally.",
     "id": "9i0j1k2l",
     "category": "Mobile",
-    "companies": ["Apple", "Samsung", "Xiaomi"],
+    "companies": [
+      "Apple",
+      "Samsung",
+      "Xiaomi"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/9i0j1k2l.png",
+    "image_prompt": "Photo-realistic news image: Indian government officials in formal attire inspect rows of Apple and Samsung smartphones on a table, translucent streams of source code overlay, somber neutral lighting, blurred Indian flag and parliament in background, high-detail, no text."
   },
   {
     "date": "2026-01-11",
@@ -55,12 +73,21 @@
     "title": "Nvidia's 'Physical AI' & The New Atlas Robot",
     "summary": "Nvidia unveiled its Cosmos foundation model and Vera Rubin chips to simulate physical laws for robot training. Simultaneously, Boston Dynamics deployed its fully electric Atlas humanoid at a Hyundai plant, capable of learning tasks via VR motion capture.",
     "engagement": "High",
-    "raw_text": "If you thought generative AI was cool, wait until you see 'Physical AI.' Jensen Huang just took the stage at CES and basically said the future is robots. Nvidia launched 'Cosmos,' which is like a text-simulator but for physics—gravity, friction, everything. It lets robots learn in a virtual gym before they enter the real world. And it's already happening: the new electric Atlas robot from Boston Dynamics is working in Hyundai factories right now. It learns by watching humans in VR. We are officially in the sci-fi timeline, folks.",
+    "raw_text": "If you thought generative AI was cool, wait until you see 'Physical AI.' Jensen Huang just took the stage at CES and basically said the future is robots. Nvidia launched 'Cosmos,' which is like a text-simulator but for physics\u2014gravity, friction, everything. It lets robots learn in a virtual gym before they enter the real world. And it's already happening: the new electric Atlas robot from Boston Dynamics is working in Hyundai factories right now. It learns by watching humans in VR. We are officially in the sci-fi timeline, folks.",
     "id": "3m4n5o6p",
     "category": "Hardware",
-    "companies": ["Nvidia", "Boston Dynamics", "Hyundai", "Siemens"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "companies": [
+      "Nvidia",
+      "Boston Dynamics",
+      "Hyundai",
+      "Siemens"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/3m4n5o6p.png",
+    "image_prompt": "Photorealistic news-style image: a sleek electric humanoid robot on an assembly line, mimicking a human operator in a VR motion-capture suit and headset; holographic physics simulation grid and glowing silicon chip wafer hovering nearby; cinematic daylight, sharp, documentary detail."
   },
   {
     "date": "2026-01-11",
@@ -74,7 +101,9 @@
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/7q8r9s0t.png",
+    "image_prompt": "Realistic newsroom scene: a focused researcher studies a large monitor displaying a glowing neural-network brain cracked like glass, drifting dice and dissolving code fragments melting into static; cool moody lighting, investigative tension."
   },
   {
     "date": "2026-01-11",
@@ -86,9 +115,15 @@
     "raw_text": "This story is straight out of Black Mirror. Zomato's CEO just admitted they fire 5,000 people every single month based on an algorithm called 'Karma.' If a rider's score drops because the AI thinks they committed fraud, they are out. No human HR meeting, just a cold, hard algorithmic firing. It's efficient for them, sure, but it's terrifying for the gig economy. We're letting code decide who gets to eat and who doesn't. Is this the future of work we want?",
     "id": "1u2v3w4x",
     "category": "Business",
-    "companies": ["Zomato"],
-    "people": ["Deepinder Goyal"],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "companies": [
+      "Zomato"
+    ],
+    "people": [
+      "Deepinder Goyal"
+    ],
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/1u2v3w4x.png",
+    "image_prompt": "Photojournalistic high-res scene: anxious delivery riders in worn red jackets huddle in rain before a glass corporate tower; an ominous translucent HUD of scrolling numbers and code hovers above, surveillance cameras, cold blue lighting, tense faces, no logos or text."
   },
   {
     "date": "2026-01-11",
@@ -100,9 +135,13 @@
     "raw_text": "Finally, the foldable phone we actually wanted! Samsung just showed off the Galaxy Z TriFold. It's not just a book; it folds out three times into a massive 10-inch tablet. Imagine having an iPad in your pocket. And the best part? They showed a new prototype screen with zero crease. That annoying line down the middle? Gone. Mobile tech has been boring lately, but this form factor actually looks useful for multitasking and gaming. Take my money.",
     "id": "5y6z7a8b",
     "category": "Mobile",
-    "companies": ["Samsung"],
+    "companies": [
+      "Samsung"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/5y6z7a8b.png",
+    "image_prompt": "Realistic high-detail photo of a tri-fold smartphone unfolding into a 10-inch tablet on a sleek newsroom desk; close-up on creaseless foldable display and hinge with no visible crease, soft directional studio lighting, metallic frame, shallow depth of field"
   },
   {
     "date": "2026-01-11",
@@ -114,13 +153,17 @@
     "raw_text": "Forget touchscreens, the future is telepathy. These new earbuds from Naqi just won Best AI Product at CES, and for good reason. They use sensors to pick up neural signals and tiny facial muscle movements. You can literally control your computer just by thinking about it or slightly clenching your jaw. It's a 'telepathic interface.' We are merging with machines faster than we realized. It's super cool, but also... kinda creepy?",
     "id": "9c0d1e2f",
     "category": "Hardware",
-    "companies": ["Naqi"],
+    "companies": [
+      "Naqi"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/9c0d1e2f.png",
+    "image_prompt": "Realistic close-up of a person wearing sleek wireless earbuds, soft blue neural glow arcs from ear to temple, subtle micro-expression tracking dots, shallow depth of field, modern conference stage with blurred award trophy, neutral professional lighting."
   },
   {
     "date": "2026-01-11",
-    "source_file": "Today’s Tech News Brief – Jan 11, 2026.pdf",
+    "source_file": "Today\u2019s Tech News Brief \u2013 Jan 11, 2026.pdf",
     "page": 2,
     "title": "OpenAI Launches 'ChatGPT Health'",
     "summary": "OpenAI has released a dedicated 'ChatGPT Health' mode that connects securely to medical records and wellness apps. It features purpose-built encryption and was designed with physician input to provide health guidance without training the model on user data.",
@@ -128,9 +171,15 @@
     "raw_text": "OpenAI is coming for your doctor's office. They just launched 'ChatGPT Health,' a dedicated mode for medical stuff. You can link it to your actual medical records and wearables, and it gives you advice based on your real data. They swear it's encrypted and doesn't train their models, which is the only way I'd ever use this. But imagine having a doctor in your pocket 24/7 that knows your blood work history. This is going to disrupt healthcare massively.",
     "id": "3g4h5i6j",
     "category": "AI",
-    "companies": ["OpenAI", "b.well Connected Health", "Weight Watchers"],
+    "companies": [
+      "OpenAI",
+      "b.well Connected Health",
+      "Weight Watchers"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/3g4h5i6j.png",
+    "image_prompt": "Realistic news-style photo: diverse physician and patient reviewing a tablet in a bright clinic, subtle holographic health-data icons and translucent shield symbolizing encryption, calm blue-green palette, soft natural light, modern tech feel, no visible text."
   },
   {
     "date": "2026-01-11",
@@ -139,12 +188,18 @@
     "title": "Vivo X300 Pro: The 200MP Camera Monster",
     "summary": "Vivo launched the X300 Pro in India featuring a 200MP Zeiss APO Telephoto camera and a floating lens design. The device runs on the MediaTek Dimensity 9500 chipset and boasts a 4,500 nits brightness display.",
     "engagement": "Medium",
-    "raw_text": "Smartphone cameras just hit a new ceiling. Vivo dropped the X300 Pro, and the specs are absurd. We are talking a 200MP Zeiss telephoto lens that floats to keep your shots steady. It's basically a DSLR attached to a phone. Plus, the screen hits 4,500 nits of brightness—you could probably use it as a flashlight. It's pricey at over a lakh, but for creators, this hardware is next level. MediaTek is also flexing hard with the Dimensity 9500 chip here.",
+    "raw_text": "Smartphone cameras just hit a new ceiling. Vivo dropped the X300 Pro, and the specs are absurd. We are talking a 200MP Zeiss telephoto lens that floats to keep your shots steady. It's basically a DSLR attached to a phone. Plus, the screen hits 4,500 nits of brightness\u2014you could probably use it as a flashlight. It's pricey at over a lakh, but for creators, this hardware is next level. MediaTek is also flexing hard with the Dimensity 9500 chip here.",
     "id": "7k8l9m0n",
     "category": "Mobile",
-    "companies": ["Vivo", "Zeiss", "MediaTek"],
+    "companies": [
+      "Vivo",
+      "Zeiss",
+      "MediaTek"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/7k8l9m0n.png",
+    "image_prompt": "Studio news-style photo of a Vivo X300 Pro smartphone, three-quarter angle, emphasis on massive 200MP Zeiss APO telephoto lens with visible floating lens gap, ultra-bright screen glow, sleek metal frame, MediaTek Dimensity 9500 chip beside device, high-detail, crisp, neutral lighting"
   },
   {
     "date": "2026-01-11",
@@ -156,13 +211,20 @@
     "raw_text": "Nvidia owns the data center, but Intel and AMD are fighting for your laptop. Intel just dropped 'Panther Lake,' their new 2nm chip designed specifically to run AI locally on your device. No internet needed. AMD is doing the same with their Ryzen AI 400 series. This is great for us because it means faster, private AI assistants that don't lag. The 'Edge AI' war is heating up, and it means your next laptop is going to be a supercomputer.",
     "id": "1o2p3q4r",
     "category": "Hardware",
-    "companies": ["Intel", "AMD"],
-    "people": ["Lisa Su"],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "companies": [
+      "Intel",
+      "AMD"
+    ],
+    "people": [
+      "Lisa Su"
+    ],
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/1o2p3q4r.png",
+    "image_prompt": "Photorealistic close-up of two cutting-edge CPU chips on a futuristic circuit board\u2014one cool blue, one emerald green\u2014emitting light beams toward a dark GPU module. Small edge devices (phone, laptop, sensor) around, cinematic lighting, high detail, shallow depth, no text."
   },
   {
     "date": "2026-01-11",
-    "source_file": "Today’s Tech News Brief – Jan 11, 2026.pdf",
+    "source_file": "Today\u2019s Tech News Brief \u2013 Jan 11, 2026.pdf",
     "page": 2,
     "title": "Quantum Computing Just Got Scalable",
     "summary": "D-Wave announced a breakthrough in 'on-chip cryogenic control,' allowing qubit signals to be multiplexed like standard transistors. This solves a major wiring bottleneck, paving the way for larger, commercially viable quantum processors.",
@@ -170,8 +232,12 @@
     "raw_text": "Okay, nerd alert, but this is huge. D-Wave just solved one of the biggest headaches in quantum computing: the wiring. Usually, you need a cable for every single qubit, which is a mess. They just figured out how to put the controls directly on the chip, even in freezing temps. This is the 'transistor moment' for quantum. It means we can finally build massive quantum computers that actually scale. The timeline for real-world quantum apps just sped up.",
     "id": "5s6t7u8v",
     "category": "Science",
-    "companies": ["D-Wave"],
+    "companies": [
+      "D-Wave"
+    ],
     "people": [],
-    "created_at": "2026-01-11T23:15:18.000Z"
+    "created_at": "2026-01-11T23:15:18.000Z",
+    "image_url": "images/12_01_26/5s6t7u8v.png",
+    "image_prompt": "Photo-realistic close-up of a quantum processor inside a cryogenic chamber: superconducting chip with layered circuits, bundled multiplexed control lines replacing dozens of wires, cool blue clinical lighting, condensation on metal, engineer in cleanroom observing, news-style composition, no text"
   }
 ]
