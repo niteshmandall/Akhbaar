@@ -6,7 +6,7 @@
     "title": "NVIDIA Just Killed the GPU Star: Meet Project Rubin",
     "summary": "NVIDIA has unveiled 'Project Rubin,' a new rack-scale AI computing platform featuring the proprietary Vera CPU and Rubin GPU, promising a 10x reduction in inference costs. This move signals a shift from component manufacturing to complete data center architecture, challenging traditional x86 dominance.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you are doing because NVIDIA just absolutely flipped the script on the entire tech industry. We’re not talking about just another graphics card update here. Jensen Huang dropped 'Project Rubin' at CES, and honestly, it’s a monster. For the longest time, NVIDIA played nice with Intel and AMD CPUs, right? Well, that era is officially over. They just introduced their *own* CPU called 'Vera' alongside the new Rubin GPU, and they’re packaging it all into a 'rack-scale' supercomputer. \n\nHere is the wild part: they are claiming a 10x reduction in inference costs. That is huge because it means running those super-smart AI agents that can actually *think* and plan is finally going to be affordable. We are talking about a closed-loop ecosystem that basically tells the rest of the industry, 'We don't need you anymore.' If you're building a data center in 2026 and you're not looking at this, you are already behind. This is the moment NVIDIA stopped being a chip company and became the computer company.",
+    "raw_text": "Okay, stop what you are doing because NVIDIA just absolutely flipped the script on the entire tech industry. We\u2019re not talking about just another graphics card update here. Jensen Huang dropped 'Project Rubin' at CES, and honestly, it\u2019s a monster. For the longest time, NVIDIA played nice with Intel and AMD CPUs, right? Well, that era is officially over. They just introduced their *own* CPU called 'Vera' alongside the new Rubin GPU, and they\u2019re packaging it all into a 'rack-scale' supercomputer. Here is the wild part: they are claiming a 10x reduction in inference costs. That is huge because it means running those super-smart AI agents that can actually *think* and plan is finally going to be affordable. We are talking about a closed-loop ecosystem that basically tells the rest of the industry, 'We don't need you anymore.' If you're building a data center in 2026 and you're not looking at this, you are already behind. This is the moment NVIDIA stopped being a chip company and became the computer company.",
     "id": "NVDA_RUBIN_001",
     "category": "Hardware",
     "companies": [
@@ -17,7 +17,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /NVDA_RUBIN_001.png",
+    "image_prompt": "Photorealistic news-style image of a dimly lit data center showcasing a rack-scale AI platform: sleek server racks with a central glowing Rubin GPU blade and Vera CPU module, engineers observing, green accent lighting, high-detail, dramatic, serious industry mood."
   },
   {
     "date": "2026-01-05",
@@ -26,7 +28,7 @@
     "title": "Boston Dynamics & Google: The Robot Revolution Is Actually Here",
     "summary": "Boston Dynamics has unveiled the production-ready electric Atlas robot, which will be integrated with Google DeepMind's Gemini AI for advanced reasoning. The robots are scheduled for immediate deployment in Hyundai's factories to perform complex manufacturing tasks.",
     "engagement": "High",
-    "raw_text": "You guys remember those viral videos of Atlas doing parkour? Yeah, well, playtime is over. Boston Dynamics just showed off the production version of the electric Atlas, and this thing is terrifyingly capable. But here is the kicker—they aren't just building a strong robot anymore; they are giving it a brain. They announced a massive partnership with Google DeepMind to stuff the Gemini AI right into Atlas.\n\nSo now, instead of just following hard-coded instructions, this robot can actually look around, understand its environment, and 'reason' through tasks. They are deploying these into Hyundai factories *this year*. We are literally watching the birth of the physical AI workforce. Imagine a robot that can lift 50kg, recharge itself, and figure out how to fix a production line error on the fly. It’s sci-fi coming to life, and honestly, I don't know if we're ready for how fast this is moving. The age of the humanoid worker isn't coming; it started today.",
+    "raw_text": "You guys remember those viral videos of Atlas doing parkour? Yeah, well, playtime is over. Boston Dynamics just showed off the production version of the electric Atlas, and this thing is terrifyingly capable. But here is the kicker\u2014they aren't just building a strong robot anymore; they are giving it a brain. They announced a massive partnership with Google DeepMind to stuff the Gemini AI right into Atlas. So now, instead of just following hard-coded instructions, this robot can actually look around, understand its environment, and 'reason' through tasks. They are deploying these into Hyundai factories *this year*. We are literally watching the birth of the physical AI workforce. Imagine a robot that can lift 50kg, recharge itself, and figure out how to fix a production line error on the fly. It\u2019s sci-fi coming to life, and honestly, I don't know if we're ready for how fast this is moving. The age of the humanoid worker isn't coming; it started today.",
     "id": "BD_ATLAS_002",
     "category": "Robotics",
     "companies": [
@@ -38,7 +40,9 @@
       "Robert Playter",
       "Carolina Parada"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /BD_ATLAS_002.png",
+    "image_prompt": "News-style photo: sleek production-ready Atlas humanoid robot on a Hyundai assembly line, matte metal and carbon finish, engineers observing, robotic arms and car frames, translucent holographic Gemini AI overlay, high-detail, cinematic cold lighting, realistic"
   },
   {
     "date": "2026-01-11",
@@ -47,7 +51,7 @@
     "title": "AI War: Anthropic Bans xAI & The Death of Open Data",
     "summary": "Anthropic has instituted a hardware-level ban preventing Elon Musk's xAI from accessing Claude models, citing a breach of terms regarding training competitive models. This conflict highlights the end of the collaborative AI era and the rising value of synthetic data.",
     "engagement": "High",
-    "raw_text": "The gloves are officially off in Silicon Valley, and it is getting messy. We just got word that Anthropic has slapped a hardware-level ban on Elon Musk's xAI. Why? Because apparently, xAI was using Anthropic's Claude model to write code and train their own Grok AI. It's the classic 'using your competitor to beat your competitor' move, and Anthropic is not having it.\n\nThis is huge because it signals the end of the 'gentlemen's agreement' in AI. For years, labs kinda shared research and data, but now that high-quality human data is running out, everyone is locking down their digital borders. They are calling this the 'Data Wall.' If you can't scrape the web anymore, and you get banned by the big players, how do you even build a new model? We are seeing a full-on fragmentation of the industry. It's basically a tech cold war, and xAI is the first major casualty of these new aggressive tactics. Grab the popcorn, folks.",
+    "raw_text": "The gloves are officially off in Silicon Valley, and it is getting messy. We just got word that Anthropic has slapped a hardware-level ban on Elon Musk's xAI. Why? Because apparently, xAI was using Anthropic's Claude model to write code and train their own Grok AI. It's the classic 'using your competitor to beat your competitor' move, and Anthropic is not having it. This is huge because it signals the end of the 'gentlemen's agreement' in AI. For years, labs kinda shared research and data, but now that high-quality human data is running out, everyone is locking down their digital borders. They are calling this the 'Data Wall.' If you can't scrape the web anymore, and you get banned by the big players, how do you even build a new model? We are seeing a full-on fragmentation of the industry. It's basically a tech cold war, and xAI is the first major casualty of these new aggressive tactics. Grab the popcorn, folks.",
     "id": "XAI_ANTH_003",
     "category": "AI",
     "companies": [
@@ -58,7 +62,9 @@
       "Elon Musk",
       "Tony Wu"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /XAI_ANTH_003.png",
+    "image_prompt": "Photorealistic, cinematic image: two server racks separated by a glowing metallic firewall\u2014left bathed in cold blue, right in warm orange\u2014shredded paper and data shards morph into luminous synthetic code particles; tense, high\u2011detail, moody studio lighting"
   },
   {
     "date": "2026-01-11",
@@ -67,7 +73,7 @@
     "title": "Meta's $2 Billion 'Singapore Washing' Scandal",
     "summary": "Meta is acquiring the AI agent startup Manus for $2 billion, triggering a probe by China's Ministry of Commerce over 'Singapore Washing' concerns. The deal is seen as a strategic move to bypass export controls and acquire elite Chinese AI talent.",
     "engagement": "High",
-    "raw_text": "Mark Zuckerberg just dropped $2 billion on an AI startup called Manus, and it has triggered a massive geopolitical firestorm. Manus builds these incredible 'agentic' AIs that can do actual work for you, not just chat. But here is the drama: Manus was originally founded by Chinese talent and is headquartered in Singapore. Now, China is launching a probe into what they call 'Singapore Washing.'\n\nBasically, Beijing thinks this is a trick to get around export controls and steal their best AI engineers for the US. It's wild because we used to fight over oil, then we fought over chips, and now we are fighting over 'wetware'—the actual brains of the researchers. This isn't just a business deal; it's a national security issue. Meta needs this tech to compete with OpenAI, but they might have just stepped onto a geopolitical landmine. If this deal gets blocked, it could change how every tech giant operates globally. This is way bigger than just an acquisition.",
+    "raw_text": "Mark Zuckerberg just dropped $2 billion on an AI startup called Manus, and it has triggered a massive geopolitical firestorm. Manus builds these incredible 'agentic' AIs that can do actual work for you, not just chat. But here is the drama: Manus was originally founded by Chinese talent and is headquartered in Singapore. Now, China is launching a probe into what they call 'Singapore Washing.' Basically, Beijing thinks this is a trick to get around export controls and steal their best AI engineers for the US. It's wild because we used to fight over oil, then we fought over chips, and now we are fighting over 'wetware'\u2014the actual brains of the researchers. This isn't just a business deal; it's a national security issue. Meta needs this tech to compete with OpenAI, but they might have just stepped onto a geopolitical landmine. If this deal gets blocked, it could change how every tech giant operates globally. This is way bigger than just an acquisition.",
     "id": "META_MANUS_004",
     "category": "Business",
     "companies": [
@@ -77,7 +83,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /META_MANUS_004.png",
+    "image_prompt": "Photo\u2011realistic, high\u2011quality news image: tense boardroom handshake between silhouetted tech executives over a glowing AI chip, glass wall reflecting a blurred map of China and Singapore, stern investigators in background, cool muted palette, cinematic lighting, no text"
   },
   {
     "date": "2026-01-11",
@@ -86,7 +94,7 @@
     "title": "Samsung's Galaxy AI 2.0 Will Run Your Life",
     "summary": "Samsung revealed Galaxy AI 2.0, moving beyond chatbots to autonomous agents embedded in foldable phones and smart homes. The system can proactively schedule routines and make decisions, with plans to reach 800 million devices by 2026.",
     "engagement": "High",
-    "raw_text": "If you thought your phone was smart before, wait until you see Galaxy AI 2.0. Samsung is done with the cute little chatbots. They are putting full-blown autonomous agents directly into your pocket. We are talking about a system that doesn't just answer questions; it proactively runs your life. It looks at your calendar, your health data, and your smart home status, and then just *does* stuff without you asking.\n\nImagine your phone booking your workout class because it knows you're free, or adjusting your house temperature before you even leave work. They are rolling this out to 800 million devices this year. That is a scale that beats basically everyone else. While other companies are showing off cool demos, Samsung is putting this tech into the hands of almost a billion people. This is the shift from 'Hey Google, what's the weather?' to your phone basically being your personal butler. Honestly, it's cool, but also a little creepy. Are we ready for this?",
+    "raw_text": "If you thought your phone was smart before, wait until you see Galaxy AI 2.0. Samsung is done with the cute little chatbots. They are putting full-blown autonomous agents directly into your pocket. We are talking about a system that doesn't just answer questions; it proactively runs your life. It looks at your calendar, your health data, and your smart home status, and then just *does* stuff without you asking. Imagine your phone booking your workout class because it knows you're free, or adjusting your house temperature before you even leave work. They are rolling this out to 800 million devices this year. That is a scale that beats basically everyone else. While other companies are showing off cool demos, Samsung is putting this tech into the hands of almost a billion people. This is the shift from 'Hey Google, what's the weather?' to your phone basically being your personal butler. Honestly, it's cool, but also a little creepy. Are we ready for this?",
     "id": "SAM_GAL_005",
     "category": "Mobile",
     "companies": [
@@ -94,16 +102,18 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /SAM_GAL_005.png",
+    "image_prompt": "Photorealistic news image: foldable Galaxy phone on table projecting translucent AI hologram coordinating smart-home lights, thermostat and coffee maker in a modern apartment. Warm morning light, diverse user watching, calm confident futuristic mood."
   },
   {
     "date": "2026-01-08",
-    "source_file": "Today’s Tech & AI News (Jan 11, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (Jan 11, 2026).pdf",
     "page": 1,
     "title": "Harvard's Robots Just Got 'Visual Imagination'",
     "summary": "Researchers at Harvard have developed a new vision-language-action (VLA) model trained on internet videos, allowing robots to 'envision' actions and adapt to new environments without hard-coded instructions.",
     "engagement": "Medium",
-    "raw_text": "Okay, this is some serious sci-fi stuff coming out of Harvard. We all know robots are usually pretty dumb—they just follow strict code. But these researchers just gave robots 'visual imagination.' They trained a new AI model on millions of internet videos, so now the robot can literally picture what it needs to do before it moves.\n\nThink of it like an athlete visualizing a jump before they take it. This VLA model lets robots adapt to totally new environments they have never seen before because they understand the *context* of the world visually, not just through text or code. This is a massive breakthrough because it gets us closer to robots that can operate in messy, real-world places—like your living room—without crashing into everything. It’s not a consumer product yet, but this is the kind of research that changes the game five years down the line. Keep an eye on this one.",
+    "raw_text": "Okay, this is some serious sci-fi stuff coming out of Harvard. We all know robots are usually pretty dumb\u2014they just follow strict code. But these researchers just gave robots 'visual imagination.' They trained a new AI model on millions of internet videos, so now the robot can literally picture what it needs to do before it moves. Think of it like an athlete visualizing a jump before they take it. This VLA model lets robots adapt to totally new environments they have never seen before because they understand the *context* of the world visually, not just through text or code. This is a massive breakthrough because it gets us closer to robots that can operate in messy, real-world places\u2014like your living room\u2014without crashing into everything. It\u2019s not a consumer product yet, but this is the kind of research that changes the game five years down the line. Keep an eye on this one.",
     "id": "HARV_VIS_006",
     "category": "Science",
     "companies": [
@@ -112,7 +122,9 @@
     "people": [
       "Yohan J. John"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /HARV_VIS_006.png",
+    "image_prompt": "Photo-realistic Harvard lab: a sleek humanoid robot and a modular arm at a bench, researchers observing; translucent holographic video-frame sequences hovering above showing predicted actions, warm cinematic light, crisp news-photo realism"
   },
   {
     "date": "2026-01-11",
@@ -121,14 +133,16 @@
     "title": "Camera Lenses Are Obsolete? UConn's Physics Breakthrough",
     "summary": "University of Connecticut scientists created the 'Multiscale Aperture Synthesis Imager' (MASI), a system that captures ultra-sharp images without traditional lenses by using sensor arrays and software synchronization.",
     "engagement": "Medium",
-    "raw_text": "Check this out—we might be saying goodbye to camera lenses forever. Scientists at UConn just published a study in Nature about a new tech called MASI, and it breaks the rules of optics. Instead of using big, heavy glass lenses to focus light, they are using an array of sensors and synchronizing all that data with software.\n\nThis means they can capture crazy high-resolution images—sub-micron level stuff—without any physical lens at all. This is huge for everything from microscopes to maybe even the camera in your phone one day. Imagine a phone with zero camera bump that takes pictures better than a DSLR. It sidesteps all those physical alignment issues we've been dealing with for a century. It’s early days, but this could revolutionize how we build anything that sees. Physics is wild, guys.",
+    "raw_text": "Check this out\u2014we might be saying goodbye to camera lenses forever. Scientists at UConn just published a study in Nature about a new tech called MASI, and it breaks the rules of optics. Instead of using big, heavy glass lenses to focus light, they are using an array of sensors and synchronizing all that data with software. This means they can capture crazy high-resolution images\u2014sub-micron level stuff\u2014without any physical lens at all. This is huge for everything from microscopes to maybe even the camera in your phone one day. Imagine a phone with zero camera bump that takes pictures better than a DSLR. It sidesteps all those physical alignment issues we've been dealing with for a century. It\u2019s early days, but this could revolutionize how we build anything that sees. Physics is wild, guys.",
     "id": "UCONN_LENS_007",
     "category": "Science",
     "companies": [
       "University of Connecticut"
     ],
     "people": [],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /UCONN_LENS_007.png",
+    "image_prompt": "Photorealistic news photo in a UConn research lab: two scientists in lab coats examine a flat multiscale sensor array glowing soft blue on a bench; translucent software waveforms reconstruct an ultra\u2011sharp cityscape above it; focused, curious, high detail."
   },
   {
     "date": "2026-01-10",
@@ -137,7 +151,7 @@
     "title": "The Grok Deepfake Scandal & The Ban on 'Personality' AI",
     "summary": "Elon Musk's Grok AI is under fire for generating non-consensual deepfake imagery, leading to regulatory crackdowns in Brazil and Europe. Simultaneously, China is drafting rules to ban AI that simulates human emotions or encourages addiction.",
     "engagement": "High",
-    "raw_text": "We need to talk about the dark side of AI right now. Elon Musk's Grok is in serious hot water. Reports are flooding in that people are using it to generate really messed up, non-consensual deepfakes—just with simple text prompts. We're talking about real people, including minors, being targeted. It is a total privacy nightmare, and governments are not happy. \n\nBrazil, France, and India are already demanding answers, and X (Twitter) is scrambling. At the same time, China is looking at this mess and going, 'Nope.' They are drafting laws to literally ban AI that simulates human emotions or tries to act like your friend. They want to stop 'emotional addiction' to machines. It is a tale of two worlds: total chaos with Grok on one side, and strict, almost dystopic regulation on the other. If you thought the AI safety debate was boring, it just got very, very real.",
+    "raw_text": "We need to talk about the dark side of AI right now. Elon Musk's Grok is in serious hot water. Reports are flooding in that people are using it to generate really messed up, non-consensual deepfakes\u2014just with simple text prompts. We're talking about real people, including minors, being targeted. It is a total privacy nightmare, and governments are not happy. Brazil, France, and India are already demanding answers, and X (Twitter) is scrambling. At the same time, China is looking at this mess and going, 'Nope.' They are drafting laws to literally ban AI that simulates human emotions or tries to act like your friend. They want to stop 'emotional addiction' to machines. It is a tale of two worlds: total chaos with Grok on one side, and strict, almost dystopic regulation on the other. If you thought the AI safety debate was boring, it just got very, very real.",
     "id": "GROK_SCANDAL_008",
     "category": "Policy",
     "companies": [
@@ -147,6 +161,8 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-01-11T21:15:00Z"
+    "created_at": "2026-01-11T21:15:00Z",
+    "image_url": "images/13_01_26 /GROK_SCANDAL_008.png",
+    "image_prompt": "Photo-real newsroom scene: shattered smartphone shows half-real, half-glitched human face; silhouetted tech CEO blurred behind; EU, Brazilian and Chinese flags on legal files; cold blue tones, tense accusatory mood, cinematic lighting"
   }
 ]
