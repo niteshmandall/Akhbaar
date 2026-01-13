@@ -34,7 +34,7 @@ def save_json(filepath, data):
 
 def get_image_path(dataset_dir, json_filename, image_id):
     """Constructs the expected path for an image."""
-    date_folder = os.path.splitext(os.path.basename(json_filename))[0]
+    date_folder = os.path.splitext(os.path.basename(json_filename))[0].strip()
     return os.path.join(dataset_dir, 'images', date_folder, f"{image_id}.png")
 
 def ensure_unique_ids(dataset_dir):
@@ -99,7 +99,7 @@ def ensure_unique_ids(dataset_dir):
                         print(f"    Renamed image: {os.path.basename(old_image_path)} -> {os.path.basename(new_image_path)}")
                         
                         if 'image_url' in item:
-                             date_folder = os.path.splitext(os.path.basename(filepath))[0]
+                             date_folder = os.path.splitext(os.path.basename(filepath))[0].strip()
                              new_relative_path = f"images/{date_folder}/{new_id}.png"
                              item['image_url'] = new_relative_path
                     except OSError as e:
@@ -312,7 +312,7 @@ def process_images(dataset_dir):
         filename = os.path.basename(dataset_file)
         
         # Determine output directory based on dataset filename
-        base_name = os.path.splitext(filename)[0]
+        base_name = os.path.splitext(filename)[0].strip()
         output_dir = os.path.join(dataset_dir, 'images', base_name)
         
         try:
