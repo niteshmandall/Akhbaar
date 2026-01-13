@@ -3,10 +3,10 @@
     "date": "2026-01-13",
     "source_file": "Tech News Aggregation and Analysis Prompt (1).docx",
     "page": 1,
-    "title": "Nvidia’s $20B Checkmate: Buying the 'Fast Lane' for AI",
+    "title": "Nvidia\u2019s $20B Checkmate: Buying the 'Fast Lane' for AI",
     "summary": "Nvidia has entered a non-exclusive licensing agreement with Groq valued at approximately $20 billion, gaining access to Groq's LPU architecture and compiler stack. The deal includes an 'acqui-hire' of Groq's engineering team and founder Jonathan Ross to solve Nvidia's inference latency bottlenecks.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you're doing. This is the biggest chess move we've seen in hardware this year. Nvidia just dropped twenty billion dollars—yes, with a B—to license Groq’s technology. If you’ve been following the chip wars, you know Groq is the company that makes those insanely fast LPU chips that make AI respond instantly. \n\nHere’s the wild part: it’s technically a 'licensing deal' to keep the antitrust regulators off their backs, but they’re basically acquiring the brainpower. Groq’s founder, Jonathan Ross, is moving to Nvidia. Jensen Huang isn’t just happy winning the training game; he wants to own the inference game too. This effectively kills the 'Nvidia is too slow for real-time voice' argument. If you're betting against Nvidia right now, good luck.",
+    "raw_text": "Okay, stop what you're doing. This is the biggest chess move we've seen in hardware this year. Nvidia just dropped twenty billion dollars\u2014yes, with a B\u2014to license Groq\u2019s technology. If you\u2019ve been following the chip wars, you know Groq is the company that makes those insanely fast LPU chips that make AI respond instantly. Here\u2019s the wild part: it\u2019s technically a 'licensing deal' to keep the antitrust regulators off their backs, but they\u2019re basically acquiring the brainpower. Groq\u2019s founder, Jonathan Ross, is moving to Nvidia. Jensen Huang isn\u2019t just happy winning the training game; he wants to own the inference game too. This effectively kills the 'Nvidia is too slow for real-time voice' argument. If you're betting against Nvidia right now, good luck.",
     "id": "NVDA2026GROQ",
     "category": "Hardware",
     "companies": [
@@ -18,7 +18,9 @@
       "Jonathan Ross",
       "Sunny Madra"
     ],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/NVDA2026GROQ.png",
+    "image_prompt": "Realistic news photo: two corporate executives shake hands over a glowing AI processor on a conference table, neon fast-lane light trails like a highway wrapping the chip, a small team of engineers celebrating in background, cinematic cool tones."
   },
   {
     "date": "2026-01-13",
@@ -27,7 +29,7 @@
     "title": "Universal Commerce Protocol: The Death of the 'Walled Garden'?",
     "summary": "Google and Shopify have launched the Universal Commerce Protocol (UCP), an open standard allowing AI agents to browse, cart, and purchase from any merchant without custom APIs. This creates a unified 'agentic commerce' layer to compete against Amazon's closed ecosystem.",
     "engagement": "High",
-    "raw_text": "This is going to change how you buy everything. Google and Shopify just teamed up to launch something called the Universal Commerce Protocol, or UCP. Sounds boring? It's not. It’s basically a common language for AI agents to go shopping for you. \n\nImagine telling your AI, 'Buy me a red sweater under $50,' and instead of just showing you links, it actually goes to a Shopify store, puts it in the cart, and buys it—completely on its own. They’re doing this to fight Amazon. Amazon wants you trapped in their app; Google and Shopify want the entire open web to be shoppable by AI. We are officially entering the era of 'Agentic Commerce,' folks.",
+    "raw_text": "This is going to change how you buy everything. Google and Shopify just teamed up to launch something called the Universal Commerce Protocol, or UCP. Sounds boring? It's not. It\u2019s basically a common language for AI agents to go shopping for you. Imagine telling your AI, 'Buy me a red sweater under $50,' and instead of just showing you links, it actually goes to a Shopify store, puts it in the cart, and buys it\u2014completely on its own. They\u2019re doing this to fight Amazon. Amazon wants you trapped in their app; Google and Shopify want the entire open web to be shoppable by AI. We are officially entering the era of 'Agentic Commerce,' folks.",
     "id": "UCP2026GOOG",
     "category": "Business",
     "companies": [
@@ -46,7 +48,7 @@
     "title": "It's Official: Gemini is Powering Siri (And Musk is Mad)",
     "summary": "Apple has confirmed a multi-year partnership with Google to power Siri and Apple Intelligence features using Gemini models, effectively outsourcing heavy foundation model tasks. Elon Musk criticized the deal as an 'unreasonable concentration of power'.",
     "engagement": "High",
-    "raw_text": "The rumors were true! Apple has officially surrendered the AI model race. They just confirmed a massive multi-year deal to let Google’s Gemini power Siri. So, when you ask your iPhone a complex question later this year, it’s not Apple answering—it’s Google. \n\nStrategically, this is brilliant for Apple because they don’t have to spend billions training models, but it’s a huge win for Google’s ecosystem. Oh, and of course, Elon Musk is furious. He’s calling it a dangerous monopoly of power. It really feels like the tech world is splitting into two camps: the establishment giants versus the accelerationists. Whose side are you on?",
+    "raw_text": "The rumors were true! Apple has officially surrendered the AI model race. They just confirmed a massive multi-year deal to let Google\u2019s Gemini power Siri. So, when you ask your iPhone a complex question later this year, it\u2019s not Apple answering\u2014it\u2019s Google. Strategically, this is brilliant for Apple because they don\u2019t have to spend billions training models, but it\u2019s a huge win for Google\u2019s ecosystem. Oh, and of course, Elon Musk is furious. He\u2019s calling it a dangerous monopoly of power. It really feels like the tech world is splitting into two camps: the establishment giants versus the accelerationists. Whose side are you on?",
     "id": "APPLGEMINI26",
     "category": "AI",
     "companies": [
@@ -59,7 +61,9 @@
       "Tim Cook",
       "Sundar Pichai"
     ],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/APPLGEMINI26.png",
+    "image_prompt": "Photo-realistic newsroom scene: an iPhone with a glowing Siri waveform and a translucent Gemini neural-cloud overlay connecting to distant Google-style server racks, Elon Musk in the foreground frowning and gesturing angrily, dramatic lighting, cinematic, high-detail."
   },
   {
     "date": "2026-01-13",
@@ -68,7 +72,7 @@
     "title": "Serve Robotics Stock Explodes After Jensen Huang Endorsement",
     "summary": "Serve Robotics (SERV) stock is surging after Nvidia CEO Jensen Huang explicitly endorsed the company at CES, calling out his love for their delivery robots. Analysts are projecting a tenfold revenue increase for 2026 as they scale their fleet to over 2,000 units.",
     "engagement": "High",
-    "raw_text": "If you hold stock in Serve Robotics, dinner is on you tonight. This small delivery robot company just got the golden ticket—an explicit shoutout from the godfather of AI himself, Jensen Huang. At CES, he literally pointed at them and said, 'I love these guys!' \n\nThe market went nuts immediately. But it’s not just hype; they’ve reportedly cracked the code on delivery costs, getting it down to $1 per delivery. Analysts are now predicting their revenue is going to 10x this year. This is what we call 'Physical AI'—AI leaving the screen and entering the real world. Keep an eye on this ticker.",
+    "raw_text": "If you hold stock in Serve Robotics, dinner is on you tonight. This small delivery robot company just got the golden ticket\u2014an explicit shoutout from the godfather of AI himself, Jensen Huang. At CES, he literally pointed at them and said, 'I love these guys!' The market went nuts immediately. But it\u2019s not just hype; they\u2019ve reportedly cracked the code on delivery costs, getting it down to $1 per delivery. Analysts are now predicting their revenue is going to 10x this year. This is what we call 'Physical AI'\u2014AI leaving the screen and entering the real world. Keep an eye on this ticker.",
     "id": "SERVROBOTICS",
     "category": "Robotics",
     "companies": [
@@ -78,7 +82,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/SERVROBOTICS.png",
+    "image_prompt": "Photorealistic CES keynote: Jensen Huang smiling and gesturing toward a Serve Robotics delivery robot on stage, rows of identical robots behind, dynamic stage lighting, cheering audience, large LED screens with abstract upward stock charts, optimistic, high-energy news photo."
   },
   {
     "date": "2026-01-13",
@@ -87,7 +93,7 @@
     "title": "Boston Dynamics Meets DeepMind: The Ultimate Robot Brain",
     "summary": "Boston Dynamics and Google DeepMind have formed a partnership to integrate Gemini's foundation models into the Atlas humanoid robot. This collaboration aims to create robots that can reason about their environment and perform tasks based on natural language commands.",
     "engagement": "High",
-    "raw_text": "This is the crossover episode we’ve been waiting for. Boston Dynamics has the best robot bodies—we’ve all seen Atlas doing backflips. Google DeepMind has the best robot brains. Now, they are officially working together. \n\nThey’re putting Gemini models inside Atlas. This means you won't have to code the robot to 'walk forward 10 steps.' You can just say, 'Hey, clean up that mess in the corner,' and the robot will figure out what the mess is, how to pick it up, and where to put it. We are moving from 'programmed robots' to 'reasoning robots.' It’s exciting, and honestly, just a little bit terrifying.",
+    "raw_text": "This is the crossover episode we\u2019ve been waiting for. Boston Dynamics has the best robot bodies\u2014we\u2019ve all seen Atlas doing backflips. Google DeepMind has the best robot brains. Now, they are officially working together. They\u2019re putting Gemini models inside Atlas. This means you won't have to code the robot to 'walk forward 10 steps.' You can just say, 'Hey, clean up that mess in the corner,' and the robot will figure out what the mess is, how to pick it up, and where to put it. We are moving from 'programmed robots' to 'reasoning robots.' It\u2019s exciting, and honestly, just a little bit terrifying.",
     "id": "BOSDYN26DM",
     "category": "Robotics",
     "companies": [
@@ -96,7 +102,9 @@
       "Hyundai"
     ],
     "people": [],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/BOSDYN26DM.png",
+    "image_prompt": "Photo-realistic news image: Atlas humanoid robot stands in a modern research lab as engineers surround it, a translucent holographic neural-network brain and natural-language waveform float above, cool cinematic lighting, focused optimistic mood, high-detail realism"
   },
   {
     "date": "2026-01-13",
@@ -105,7 +113,7 @@
     "title": "AI Cures Cancer? Google & Yale's 'Cell2Sentence' Breakthrough",
     "summary": "Researchers from Yale and Google DeepMind have used a transformer model called 'Cell2Sentence' to treat gene expression as a language, successfully identifying an existing drug (Silmitasertib) for tumor treatment. The model inferred biological relationships not present in its training data.",
     "engagement": "Medium",
-    "raw_text": "We talk a lot about AI writing emails, but this is AI saving lives. A team from Yale and Google DeepMind just treated human cells like a language. They trained an AI model called 'Cell2Sentence' to read gene expressions like sentences in a book. \n\nAnd guess what? The AI figured out that an existing drug, Silmitasertib, could be used to fight tumors—a connection that human scientists hadn't made yet. It didn't just look up a database; it *reasoned* through the biology. This is a massive win for AI in healthcare. We're not just simulating conversations anymore; we're simulating life.",
+    "raw_text": "We talk a lot about AI writing emails, but this is AI saving lives. A team from Yale and Google DeepMind just treated human cells like a language. They trained an AI model called 'Cell2Sentence' to read gene expressions like sentences in a book. And guess what? The AI figured out that an existing drug, Silmitasertib, could be used to fight tumors\u2014a connection that human scientists hadn't made yet. It didn't just look up a database; it *reasoned* through the biology. This is a massive win for AI in healthcare. We're not just simulating conversations anymore; we're simulating life.",
     "id": "CELL2SENT26",
     "category": "Science",
     "companies": [
@@ -113,23 +121,27 @@
       "Yale University"
     ],
     "people": [],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/CELL2SENT26.png",
+    "image_prompt": "Photoreal lab: two diverse scientists examine a computer with a glowing neural-network visualization, microscope and unlabeled drug vial in foreground, 3D molecular models and microscopic tumor cells, hopeful cinematic clinical lighting."
   },
   {
     "date": "2026-01-13",
-    "source_file": "Daily Tech & AI Briefing — 13 January 2026.pdf",
+    "source_file": "Daily Tech & AI Briefing \u2014 13 January 2026.pdf",
     "page": 2,
     "title": "Creality's New 3D Printer Wants to Fix Your Bad Prints With AI",
     "summary": "Creality has launched the SPARKX i7 3D printer, featuring integrated AI for model generation and real-time print assistance. The device targets non-experts with a setup that allows users to generate 3D models from a single photo.",
     "engagement": "Medium",
-    "raw_text": "3D printing is awesome, but it's usually a pain in the neck to get right. Creality is trying to fix that with their new SPARKX i7. They showed this off at CES, and it’s finally hitting the news cycle. \n\nIt’s got built-in AI that monitors your prints in real-time to stop failures before they turn into spaghetti. But the cooler part? It has a feature where you can take a single photo of an object, and the AI generates a printable 3D model right there. No CAD skills required. This is exactly what the industry needs to go mainstream—less tinkering, more making.",
+    "raw_text": "3D printing is awesome, but it's usually a pain in the neck to get right. Creality is trying to fix that with their new SPARKX i7. They showed this off at CES, and it\u2019s finally hitting the news cycle. It\u2019s got built-in AI that monitors your prints in real-time to stop failures before they turn into spaghetti. But the cooler part? It has a feature where you can take a single photo of an object, and the AI generates a printable 3D model right there. No CAD skills required. This is exactly what the industry needs to go mainstream\u2014less tinkering, more making.",
     "id": "CREALITYSPARKX",
     "category": "Hardware",
     "companies": [
       "Creality"
     ],
     "people": [],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/CREALITYSPARKX.png",
+    "image_prompt": "Realistic newsroom-style photo of a modern desktop 3D printer in a bright home studio, mid-print object visible, a smiling novice holds a smartphone photographing a toy while a translucent AI holographic model floats above the build plate, warm natural light, shallow depth of field, high detail"
   },
   {
     "date": "2026-01-13",
@@ -138,7 +150,7 @@
     "title": "Meta's 'Gigawatt' Plan Collides with Reality in Ohio",
     "summary": "Meta has formalized its 'Meta Compute' infrastructure strategy, planning to build tens of gigawatts of capacity this decade, equivalent to the power usage of medium-sized nations. This expansion is driving electricity prices up by 267% in regions like Ohio, sparking local political backlash.",
     "engagement": "Medium",
-    "raw_text": "Zuckerberg is building an empire, but he might be breaking the power grid. Meta just announced 'Meta Compute,' a plan to build *tens of gigawatts* of AI data centers. To give you some context, that is enough power to run a medium-sized country. \n\nBut there's a cost. In Ohio, where a lot of these centers are being built, electricity prices have spiked almost 300%. Regular people are seeing their bills skyrocket so your AI can run faster. We are heading for a major clash between Big Tech and local communities in 2026. Energy is the new gold, and Meta is buying it all.",
+    "raw_text": "Zuckerberg is building an empire, but he might be breaking the power grid. Meta just announced 'Meta Compute,' a plan to build *tens of gigawatts* of AI data centers. To give you some context, that is enough power to run a medium-sized country. But there's a cost. In Ohio, where a lot of these centers are being built, electricity prices have spiked almost 300%. Regular people are seeing their bills skyrocket so your AI can run faster. We are heading for a major clash between Big Tech and local communities in 2026. Energy is the new gold, and Meta is buying it all.",
     "id": "METAOHIO26",
     "category": "Business",
     "companies": [
@@ -150,6 +162,8 @@
       "Santosh Janardhan",
       "Daniel Gross"
     ],
-    "created_at": "2026-01-13T17:27:54"
+    "created_at": "2026-01-13T17:27:54",
+    "image_url": "images/14_01_26/METAOHIO26.png",
+    "image_prompt": "Photoreal scene in Ohio: massive windowless data centers and towering transmission lines, glowing electrical substation, a crowd of angry local residents and farmers with blank handmade protest signs, stormy late-afternoon sky, tense mood"
   }
 ]
