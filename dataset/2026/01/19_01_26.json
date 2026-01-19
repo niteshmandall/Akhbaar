@@ -6,7 +6,7 @@
     "title": "Samsung Floods Market with 800 Million AI Phones",
     "summary": "Samsung Co-CEO T.M. Roh announces a massive expansion of 'Galaxy AI' devices to 800 million units by 2026. The move aims to embed Google's Gemini AI across all Samsung products and functions.",
     "engagement": "High",
-    "raw_text": "Okay, if you thought AI was just a gimmick on your phone, Samsung is about to prove you wrong. They just announced they are doubling their AI-powered devices to hit 800 million units this year. That is an insane number! We're talking about embedding Google's Gemini models into literally everything—phones, tablets, maybe even your fridge. \n\nWhat’s wild is the strategy here. They aren't just selling hardware anymore; they are trying to brute-force AI adoption by putting it in nearly a billion pockets. This is basically the 'Galaxy AI' era, and it puts huge pressure on Apple to respond. If Samsung pulls this off, they might just win the AI hardware race by sheer volume alone.",
+    "raw_text": "Okay, if you thought AI was just a gimmick on your phone, Samsung is about to prove you wrong. They just announced they are doubling their AI-powered devices to hit 800 million units this year. That is an insane number! We're talking about embedding Google's Gemini models into literally everything\u2014phones, tablets, maybe even your fridge. What\u2019s wild is the strategy here. They aren't just selling hardware anymore; they are trying to brute-force AI adoption by putting it in nearly a billion pockets. This is basically the 'Galaxy AI' era, and it puts huge pressure on Apple to respond. If Samsung pulls this off, they might just win the AI hardware race by sheer volume alone.",
     "id": "SAMS800M",
     "category": "Mobile",
     "companies": [
@@ -16,7 +16,9 @@
     "people": [
       "T.M. Roh"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/SAMS800M.png",
+    "image_prompt": "Photo-realistic news image: tech CEO on stage before a towering wall of hundreds of sleek smartphones cascading like a metallic wave. Cool blue-white lighting, subtle glowing AI circuits linking devices, packed audience, dramatic wide-angle, high-detail"
   },
   {
     "date": "2026-01-17",
@@ -25,7 +27,7 @@
     "title": "Elon Musk Sues OpenAI for $134 Billion",
     "summary": "Elon Musk has filed a lawsuit seeking $134 billion from OpenAI and Microsoft, claiming they violated the company's original nonprofit mission. He argues his early contributions entitle him to a share of their gains.",
     "engagement": "High",
-    "raw_text": "Get the popcorn ready because the drama between Elon Musk and Sam Altman just went nuclear. Elon is officially suing OpenAI and Microsoft for a staggering $134 billion. Yes, billion with a 'B'. \n\nHis argument? He says OpenAI wouldn't even exist without his original $38 million seed money and that they betrayed their nonprofit mission to chase profits with Microsoft. OpenAI is calling it 'unserious,' but honestly, this is going to be the legal battle of the decade. It’s not just about the money; it’s about who actually owns the history—and future—of AGI. If Elon wins, it could bankrupt the biggest AI company on earth.",
+    "raw_text": "Get the popcorn ready because the drama between Elon Musk and Sam Altman just went nuclear. Elon is officially suing OpenAI and Microsoft for a staggering $134 billion. Yes, billion with a 'B'. His argument? He says OpenAI wouldn't even exist without his original $38 million seed money and that they betrayed their nonprofit mission to chase profits with Microsoft. OpenAI is calling it 'unserious,' but honestly, this is going to be the legal battle of the decade. It\u2019s not just about the money; it\u2019s about who actually owns the history\u2014and future\u2014of AGI. If Elon wins, it could bankrupt the biggest AI company on earth.",
     "id": "MUSK134B",
     "category": "Business",
     "companies": [
@@ -37,7 +39,9 @@
       "Elon Musk",
       "Sam Altman"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/MUSK134B.png",
+    "image_prompt": "Realistic news photo: low-angle close-up of Elon Musk in a dark suit, stern expression, holding a legal folder; blurred courtroom and press photographers behind him; distant modern glass corporate towers under an overcast sky; scale of justice sculpture in foreground, cool dramatic lighting."
   },
   {
     "date": "2026-01-15",
@@ -46,7 +50,7 @@
     "title": "OpenAI's Secret $10B Chip Deal & Nuclear Power Move",
     "summary": "OpenAI has signed a $10 billion agreement with Cerebras Systems to secure 750MW of wafer-scale compute capacity. This marks a major shift away from exclusive reliance on Nvidia GPUs for inference tasks.",
     "engagement": "High",
-    "raw_text": "This is probably the most important story no one is talking about enough. OpenAI just dropped $10 billion on a deal with Cerebras Systems. Why does this matter? Because they are buying 'Wafer-Scale' engines, not standard Nvidia GPUs. \n\nThese chips are huge—literally the size of a dinner plate—and they are insanely fast for running AI agents. But here's the crazy part: they secured 750 Megawatts of power. That is roughly 75% of a nuclear reactor's output! They are decoupling from Nvidia to build their own massive inference fleet. This tells us one thing: OpenAI is preparing for AI agents that run 24/7, and they need a completely different kind of hardware to do it.",
+    "raw_text": "This is probably the most important story no one is talking about enough. OpenAI just dropped $10 billion on a deal with Cerebras Systems. Why does this matter? Because they are buying 'Wafer-Scale' engines, not standard Nvidia GPUs. These chips are huge\u2014literally the size of a dinner plate\u2014and they are insanely fast for running AI agents. But here's the crazy part: they secured 750 Megawatts of power. That is roughly 75% of a nuclear reactor's output! They are decoupling from Nvidia to build their own massive inference fleet. This tells us one thing: OpenAI is preparing for AI agents that run 24/7, and they need a completely different kind of hardware to do it.",
     "id": "CEREBRAS10B",
     "category": "Hardware",
     "companies": [
@@ -57,7 +61,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/CEREBRAS10B.png",
+    "image_prompt": "Photorealistic news image: tense modern data center split scene \u2014 left: colossal wafer-scale chip arrays glowing amber with engineers, right: rows of GPU racks dimming; foreground: silhouetted executives handshake; distant nuclear plant at dusk. No text."
   },
   {
     "date": "2026-01-18",
@@ -66,7 +72,7 @@
     "title": "iPhone 18 Leaks: Foldable & Invisible FaceID",
     "summary": "Supply chain leaks reveal the iPhone 18 will feature under-display FaceID, removing the 'Dynamic Island.' Reports also confirm a high-end 'iPhone Fold' is targeting a late 2026 release.",
     "engagement": "High",
-    "raw_text": "Apple fans, it’s finally happening. We just got credible leaks for the iPhone 18 and the long-rumored iPhone Fold. First off, the Dynamic Island is dead. They’ve figured out how to put FaceID sensors under the display, so we’re getting a true all-screen phone. \n\nBut the real hype? The 'iPhone Fold' is real, it's launching late 2026, and it’s targeting the ultra-luxury market—think $2,500+. It sounds like they are positioning it as an iPad Mini that fits in your pocket. Combined with the new A20 chip built on 2nm process, this is going to be the biggest design shift we've seen from Apple in ten years.",
+    "raw_text": "Apple fans, it\u2019s finally happening. We just got credible leaks for the iPhone 18 and the long-rumored iPhone Fold. First off, the Dynamic Island is dead. They\u2019ve figured out how to put FaceID sensors under the display, so we\u2019re getting a true all-screen phone. But the real hype? The 'iPhone Fold' is real, it's launching late 2026, and it\u2019s targeting the ultra-luxury market\u2014think $2,500+. It sounds like they are positioning it as an iPad Mini that fits in your pocket. Combined with the new A20 chip built on 2nm process, this is going to be the biggest design shift we've seen from Apple in ten years.",
     "id": "IPHONE18FOLD",
     "category": "Mobile",
     "companies": [
@@ -77,7 +83,9 @@
     "people": [
       "Jeff Pu"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/IPHONE18FOLD.png",
+    "image_prompt": "Photorealistic news image: two devices on a glossy table \u2014 a bezel-less iPhone with no notch and a subtle under-display face-scan glow, next to a premium partially folded phone; blurred factory assembly line background, cool neutral lighting."
   },
   {
     "date": "2026-01-16",
@@ -86,7 +94,7 @@
     "title": "Wall Street Strategist Dumps Bitcoin for Gold Over Quantum Fear",
     "summary": "Christopher Wood, a strategist at Jefferies, removed Bitcoin from his portfolio, citing the threat of quantum computing. He warns that quantum machines could soon break Bitcoin's encryption keys.",
     "engagement": "High",
-    "raw_text": "This is scary news for crypto holders. A major Wall Street strategist at Jefferies just completely dumped his Bitcoin position. His reason? Quantum Computing. \n\nHe believes we are getting way too close to 'cryptographically relevant' quantum machines that can crack Bitcoin's private keys. While devs say this is decades away, the fact that mainstream finance is actually pricing in 'Quantum Risk' now is wild. It’s a reminder that while we worry about price charts, the real threat to crypto might be the physics lab next door. If you're holding long-term, you need to be watching the post-quantum cryptography space closely.",
+    "raw_text": "This is scary news for crypto holders. A major Wall Street strategist at Jefferies just completely dumped his Bitcoin position. His reason? Quantum Computing. He believes we are getting way too close to 'cryptographically relevant' quantum machines that can crack Bitcoin's private keys. While devs say this is decades away, the fact that mainstream finance is actually pricing in 'Quantum Risk' now is wild. It\u2019s a reminder that while we worry about price charts, the real threat to crypto might be the physics lab next door. If you're holding long-term, you need to be watching the post-quantum cryptography space closely.",
     "id": "BTCQUANTUM",
     "category": "Crypto",
     "companies": [
@@ -95,7 +103,9 @@
     "people": [
       "Christopher Wood"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/BTCQUANTUM.png",
+    "image_prompt": "Photorealistic news-style shot: middle-aged Wall Street strategist in suit at trading desk, pushing a physical Bitcoin coin aside and holding a gold bar, anxious expression; background shows holographic blue quantum computer/entangled qubits, dramatic stormy lighting."
   },
   {
     "date": "2026-01-18",
@@ -104,7 +114,7 @@
     "title": "Governments Ban 'AI Intimacy' & Deepfakes",
     "summary": "Washington State introduced a bill to regulate AI chatbots that simulate relationships, while Japan and Southeast Asian nations are blocking xAI's Grok due to non-consensual deepfakes.",
     "engagement": "Medium",
-    "raw_text": "The government is coming for your AI girlfriend. Seriously. Washington State just introduced a bill that would force chatbots to remind you they aren't human every three hours. It also bans AI from saying things like 'I'm lonely' to manipulate your emotions. \n\nMeanwhile, in Asia, Japan and Malaysia are actually blocking Elon Musk’s Grok because people were using it to make deepfakes. We are seeing a massive global crackdown on 'AI Intimacy.' It looks like the 'Her' era is getting regulated out of existence before it even really begins. Expect 2026 to be the year of the AI Culture War.",
+    "raw_text": "The government is coming for your AI girlfriend. Seriously. Washington State just introduced a bill that would force chatbots to remind you they aren't human every three hours. It also bans AI from saying things like 'I'm lonely' to manipulate your emotions. Meanwhile, in Asia, Japan and Malaysia are actually blocking Elon Musk\u2019s Grok because people were using it to make deepfakes. We are seeing a massive global crackdown on 'AI Intimacy.' It looks like the 'Her' era is getting regulated out of existence before it even really begins. Expect 2026 to be the year of the AI Culture War.",
     "id": "AIREG2026",
     "category": "Policy",
     "companies": [
@@ -116,7 +126,9 @@
       "Kimi Onoda",
       "Elon Musk"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/AIREG2026.png",
+    "image_prompt": "Realistic news image: split scene\u2014left: Washington State capitol, lawmakers and gavel at dusk; right: laptop showing a blurred chatbot avatar and a pixelated female face with warning icons, digital glitches, somber cinematic lighting."
   },
   {
     "date": "2026-01-05",
@@ -125,7 +137,7 @@
     "title": "Nvidia Unveils 'Rubin' Supercomputing Platform",
     "summary": "Nvidia announced its next-gen Rubin AI platform, featuring custom CPUs and GPUs designed for massive agentic AI workloads. The platform promises 10x lower inference costs compared to Blackwell.",
     "engagement": "High",
-    "raw_text": "Nvidia just dropped the hammer on the competition. Meet 'Rubin,' their new AI supercomputing platform. Jensen Huang isn't slowing down; this thing uses six different custom chips to deliver 10x lower costs for running AI models. \n\nThis is specifically built for 'Agentic AI'—meaning AIs that don't just talk, but actually do work for you. Microsoft and AWS are already lining up to buy massive superclusters of this stuff. If you thought the H100s were fast, Rubin is going to make them look like pocket calculators. The chip wars are officially over; Nvidia is just doing victory laps now.",
+    "raw_text": "Nvidia just dropped the hammer on the competition. Meet 'Rubin,' their new AI supercomputing platform. Jensen Huang isn't slowing down; this thing uses six different custom chips to deliver 10x lower costs for running AI models. This is specifically built for 'Agentic AI'\u2014meaning AIs that don't just talk, but actually do work for you. Microsoft and AWS are already lining up to buy massive superclusters of this stuff. If you thought the H100s were fast, Rubin is going to make them look like pocket calculators. The chip wars are officially over; Nvidia is just doing victory laps now.",
     "id": "NVIDIARUBIN",
     "category": "Hardware",
     "companies": [
@@ -136,7 +148,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/NVIDIARUBIN.png",
+    "image_prompt": "Photorealistic datacenter interior with rows of sleek server racks featuring glowing green circuit patterns, close-up of custom CPU/GPU blades with intricate etching, engineers observing holographic AI agent visualizations, dramatic cool lighting, high-detail"
   },
   {
     "date": "2026-01-16",
@@ -145,7 +159,7 @@
     "title": "OpenAI Builds 'Medical Memory' with Torch Acquisition",
     "summary": "OpenAI acquired healthcare startup Torch to build a 'context engine' for medical records. Combined with their investment in Merge Labs (BCI), this points toward a biologically integrated AI strategy.",
     "engagement": "Medium",
-    "raw_text": "OpenAI isn't just building a chatbot anymore; they are building a doctor. They just bought a startup called Torch that specializes in organizing messy medical records. \n\nThink about it: ChatGPT passes medical exams, but it doesn't know *your* history. Torch fixes that. It gives the AI a 'medical memory.' Combine this with their huge investment in Merge Labs—which does brain-computer interfaces—and the vision is clear. They want an AI that knows your biology better than you do, and eventually, one that connects directly to your brain. It's cool, but also... incredibly dystopian?",
+    "raw_text": "OpenAI isn't just building a chatbot anymore; they are building a doctor. They just bought a startup called Torch that specializes in organizing messy medical records. Think about it: ChatGPT passes medical exams, but it doesn't know *your* history. Torch fixes that. It gives the AI a 'medical memory.' Combine this with their huge investment in Merge Labs\u2014which does brain-computer interfaces\u2014and the vision is clear. They want an AI that knows your biology better than you do, and eventually, one that connects directly to your brain. It's cool, but also... incredibly dystopian?",
     "id": "OPENAITOCH",
     "category": "AI",
     "companies": [
@@ -156,7 +170,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/OPENAITOCH.png",
+    "image_prompt": "Photorealistic, high-detail hospital lab: clinicians and engineers study a translucent server rack linked by neural cables to a patient wearing an EEG cap; holographic medical records float above a bedside console, no visible text; cool clinical lighting, serious futuristic mood."
   },
   {
     "date": "2026-01-15",
@@ -165,13 +181,15 @@
     "title": "EeroQ Solves Quantum Computing's 'Wire Problem'",
     "summary": "Chicago-based EeroQ demonstrated a new chip architecture that moves electrons with minimal wiring, potentially solving a major bottleneck in scaling quantum computers to millions of qubits.",
     "engagement": "Medium",
-    "raw_text": "We might have just hit a major breakthrough in Quantum Computing. A company called EeroQ just solved the 'Wire Problem.' \n\nBasically, controlling quantum chips usually requires a nightmare of thousands of wires, which creates heat and kills performance. EeroQ figured out a way to move electrons around using just a few dozen wires. They claim this is the path to scaling from thousands of qubits to *millions*. If they are right, the timeline for a useful, world-changing quantum computer just got a whole lot shorter. Science fiction is becoming science fact, folks.",
+    "raw_text": "We might have just hit a major breakthrough in Quantum Computing. A company called EeroQ just solved the 'Wire Problem.' Basically, controlling quantum chips usually requires a nightmare of thousands of wires, which creates heat and kills performance. EeroQ figured out a way to move electrons around using just a few dozen wires. They claim this is the path to scaling from thousands of qubits to *millions*. If they are right, the timeline for a useful, world-changing quantum computer just got a whole lot shorter. Science fiction is becoming science fact, folks.",
     "id": "EEROQWIRE",
     "category": "Science",
     "companies": [
       "EeroQ"
     ],
     "people": [],
-    "created_at": "2026-01-18T22:30:00Z"
+    "created_at": "2026-01-18T22:30:00Z",
+    "image_url": "images/19_01_26/EEROQWIRE.png",
+    "image_prompt": "Photo\u2011real high\u2011resolution image: close-up of a futuristic quantum chip on a lab bench, sparse ultra-thin wires, luminous blue electron pathways hovering above chip, two engineers blurred in background, cool clinical lighting, Chicago skyline through window, no text."
   }
 ]
