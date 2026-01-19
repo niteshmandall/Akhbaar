@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2026-01-19",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Apple Finally Dumps Siri's Brain for Google Gemini",
+    "summary": "Apple has announced a multi-year deal to utilize Google's Gemini models to power the next generation of Siri, signaling a major shift in its AI strategy. The integration aims to bring context-aware, conversational capabilities to Apple devices by late 2026.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you are doing because the biggest wall in tech just crumbled. We’ve been complaining for years that Siri is... well, dumb. And Apple apparently heard us. They just signed a massive deal to put Google's Gemini AI directly inside your iPhone. \n\nThis is wild because Apple hates relying on competitors, right? But clearly, they needed a heavy hitter to compete with ChatGPT, and they needed it yesterday. So, later this year, when you ask Siri a complex question, it’s not going to give you that annoying 'Here’s what I found on the web' nonsense. It’s going to use Google’s massive cloud infrastructure to actually reason and answer you. It's a huge win for Google, but honestly, I'm just happy my $1,200 phone might finally be as smart as a free chatbot. This changes the entire mobile landscape.",
+    "id": "A1G9L2E4",
+    "category": "AI",
+    "companies": [
+      "Apple",
+      "Google",
+      "Alphabet"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-19",
+    "source_file": "Tech News Aggregation Prompt.docx",
+    "page": 4,
+    "title": "RIP Gaming Phones: Asus Quits the Smartphone Market",
+    "summary": "Asus has confirmed it will cease development of new mobile phones, ending the ROG Phone and Zenfone lines. The company is pivoting resources toward robotics and smart glasses due to high component costs and market saturation.",
+    "engagement": "High",
+    "raw_text": "If you're a mobile gamer, this is a sad day. Asus just confirmed they are completely exiting the smartphone game. That means no more ROG Phones, no more Zenfones. It's over. \n\nChairman Jonney Shih basically said the market is a 'red ocean'—it’s too crowded, margins are too thin, and memory prices are skyrocketing. They can't compete with the Apples and Samsungs of the world anymore. But here's the twist—they aren't leaving consumer tech. They are taking all that R&D money and dumping it into robotics and smart glasses. So, while we're losing the best gaming phone on the market, we might be getting some insane AR glasses from them soon. It’s the end of an era for niche phones, but maybe the start of something cooler?",
+    "id": "B7X3M9Q1",
+    "category": "Mobile",
+    "companies": [
+      "Asus"
+    ],
+    "people": [
+      "Jonney Shih"
+    ],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-19",
+    "source_file": "Tech News Aggregation Prompt.docx",
+    "page": 4,
+    "title": "Stanford Solves the EV Battery Crisis with... Silver?",
+    "summary": "Stanford researchers have developed a silver-based coating for solid-state batteries that prevents microcracking and dendrite formation. This breakthrough could enable EVs to charge in minutes and significantly extend their range.",
+    "engagement": "High",
+    "raw_text": "Electric cars have one massive problem: the batteries take forever to charge and degrade too fast. Well, Stanford scientists just dropped a mic-drop moment. They figured out that by diffusing a tiny layer of silver—literally 3 nanometers thick—into the battery's electrolyte, they can stop it from cracking.\n\nWhy does this matter? Because solid-state batteries were supposed to be the 'holy grail'—super safe, super dense energy—but they kept breaking under pressure. This silver shield makes them five times more resistant to fracture. This is the tech that lets you charge your car in 5 minutes and drive 800 miles. We've been waiting for the 'next big thing' in batteries for a decade, and this looks like the real deal. Your next Tesla might actually hold a charge longer than your patience.",
+    "id": "S8B2T5Y6",
+    "category": "Science",
+    "companies": [
+      "Stanford University",
+      "Howeyes"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-19",
+    "source_file": "Tech News – January 19, 2026.pdf",
+    "page": 3,
+    "title": "OpenAI Launches 'ChatGPT Health' to Read Your Medical Records",
+    "summary": "OpenAI has released ChatGPT Health, a feature allowing users to securely link medical records and wellness apps for personalized health advice. The system is designed with privacy safeguards and does not use personal health data for model training.",
+    "engagement": "High",
+    "raw_text": "Okay, this is either incredibly useful or the start of a dystopian sci-fi movie. OpenAI just launched 'ChatGPT Health.' You can now plug your actual medical records and fitness apps directly into ChatGPT.\n\nImagine dragging your blood test PDF into the chat and asking, 'Explain this to me like I'm five,' or 'What should I eat to fix my iron levels?' and getting an instant, personalized plan. They swear up and down that the data is private and won't be used to train their models, which is... reassuring? I mean, Dr. Google is bad enough, but Dr. ChatGPT having your actual biological data is a whole new level. It's wildly convenient, but are we ready to trust the AI with our literal vitals? Let me know in the comments if you'd do it.",
+    "id": "C9H4P2L8",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-06",
+    "source_file": "Tech News – January 19, 2026.pdf",
+    "page": 3,
+    "title": "Hyundai is Putting Boston Dynamics Robots on the Assembly Line",
+    "summary": "Hyundai Motor Group announced plans to deploy Boston Dynamics' 'Atlas' humanoid robots in a Georgia factory by 2028. The robots will initially handle parts sequencing before moving to full assembly tasks by 2030.",
+    "engagement": "High",
+    "raw_text": "We all saw those viral videos of the Atlas robot doing backflips, right? We laughed, we shared them. Well, the laughing is over because they are officially clocking in for work. Hyundai just announced they are putting those exact humanoids into their Georgia factory by 2028.\n\nThis isn't a pilot program; they are talking about mass production of robots to build cars. By 2030, they want these things doing full assembly. It’s the moment we’ve been talking about—'Physical AI.' The software is finally meeting the hardware. It’s cool tech, undeniably, but it definitely brings up the scary question: If the robot can do a backflip AND build a car, what are the humans going to do? The factory floor is about to look very different.",
+    "id": "H7R1B9D3",
+    "category": "Robotics",
+    "companies": [
+      "Hyundai",
+      "Boston Dynamics",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-13",
+    "source_file": "Tech News – January 19, 2026.pdf",
+    "page": 3,
+    "title": "Apple Takes on Adobe with 'Creator Studio' Bundle",
+    "summary": "Apple has introduced 'Creator Studio,' a subscription bundle combining Final Cut Pro, Logic Pro, and Pixelmator Pro for $12.99/month. The suite features new on-device AI tools for visual search and editing.",
+    "engagement": "Medium",
+    "raw_text": "Creative pros, listen up. Apple is finally coming for Adobe's lunch money. They just dropped 'Creator Studio,' and the pricing is aggressive. For $13 a month, you get Final Cut Pro, Logic Pro, and the newly acquired Pixelmator Pro all in one bundle.\n\nCompare that to the Creative Cloud subscription fee, and your wallet starts to look a lot happier. But the killer feature here isn't the price; it's the AI. Because it's Apple, all the AI processing happens on-device. You can search your video footage just by describing it, and it finds the clip instantly. No uploading to the cloud, no privacy weirdness. If you're in the Apple ecosystem, this is a no-brainer. Adobe should be nervous.",
+    "id": "A4C7S2B1",
+    "category": "Software",
+    "companies": [
+      "Apple",
+      "Adobe"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-19",
+    "source_file": "Tech News Aggregation Prompt.docx",
+    "page": 5,
+    "title": "Balenciaga's Sci-Fi Fashion: 3D Weaving is Here",
+    "summary": "Balenciaga's Spring 2026 collection features garments created via 3D weaving, where structure is embedded directly during manufacturing, eliminating cutting and sewing. They also debuted a bioengineered fossil-fuel-free silk.",
+    "engagement": "High",
+    "raw_text": "I never thought I'd be talking about Balenciaga on a tech update, but this is legit engineering. For their Spring '26 show, they didn't just sew clothes—they 3D printed them... sort of. \n\nThey used '3D weaving,' which means the jacket isn't pieces of cloth stitched together. The loom weaves the pockets, the lapels, and the shape directly into the fabric in one go. It unfolds like origami. Zero waste, zero cutting. Plus, they rolled out a bioengineered silk that's completely fossil-fuel-free but feels like the real thing. Fashion is usually just aesthetics, but this is material science. We're looking at the future of manufacturing, and it happens to look like a luxury coat.",
+    "id": "B3D9W6F2",
+    "category": "Innovation",
+    "companies": [
+      "Balenciaga",
+      "AMSilk"
+    ],
+    "people": [],
+    "created_at": "2026-01-19T21:30:00Z"
+  },
+  {
+    "date": "2026-01-19",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "e& and IBM Launch 'Agentic AI' for Corporate Control",
+    "summary": "Telecom giant e& and IBM have partnered to deploy 'agentic AI' systems that can autonomously manage governance, risk, and compliance workflows. This marks a shift from passive chatbots to active AI agents in enterprise settings.",
+    "engagement": "Low",
+    "raw_text": "Okay, shifting gears to the business world—this is for the enterprise nerds. 'Agentic AI' is the buzzword of the year, and we just saw the first real massive deployment. The telecom giant e& teamed up with IBM to let AI agents handle their compliance and risk.\n\nHere’s why it matters: We aren't talking about a chatbot you ask for holiday hours. These are AI agents that have permission to go into corporate systems, read legal docs, and actually *do* work to ensure the company isn't breaking laws. It’s less flashy than a robot backflip, but this is where the money is going. If you work in a big office, get ready—your next coworker might be an AI agent running the compliance desk.",
+    "id": "E2I5A8C9",
+    "category": "Business",
+    "companies": [
+      "e&",
+      "IBM"
+    ],
+    "people": [
+      "Hatem Dowidar"
+    ],
+    "created_at": "2026-01-19T21:30:00Z"
+  }
+]
