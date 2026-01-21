@@ -6,7 +6,7 @@
     "title": "OpenAI Sells Out? Ads Are Coming to ChatGPT",
     "summary": "OpenAI has officially confirmed the testing of advertising within ChatGPT, specifically targeting free and 'Go' tier users. This marks a significant strategic pivot from CEO Sam Altman's previous stance against ad-supported models, driven by the escalating costs of compute.",
     "engagement": "High",
-    "raw_text": "It finally happened. The days of an ad-free ChatGPT are officially numbered. OpenAI just confirmed they are testing ads for free users and the new 'Go' tier. \n\nRemember when Sam Altman said ads were a 'last resort'? Well, apparently, burning billions of dollars on compute changes your mind pretty fast. They are calling it a 'Pay-Per-Impression' model, so it's less about tracking your every click and more like a digital billboard inside your chat. They promise it will be visually separated—think 'sponsored boxes'—but let’s be real: this changes the vibe. We aren't just chatting with an AI anymore; we're chatting with a marketing platform. It was inevitable, but it still stings. If you want to keep your convos clean, you're going to have to pay up. Welcome to the new internet, same as the old internet.",
+    "raw_text": "It finally happened. The days of an ad-free ChatGPT are officially numbered. OpenAI just confirmed they are testing ads for free users and the new 'Go' tier. Remember when Sam Altman said ads were a 'last resort'? Well, apparently, burning billions of dollars on compute changes your mind pretty fast. They are calling it a 'Pay-Per-Impression' model, so it's less about tracking your every click and more like a digital billboard inside your chat. They promise it will be visually separated\u2014think 'sponsored boxes'\u2014but let\u2019s be real: this changes the vibe. We aren't just chatting with an AI anymore; we're chatting with a marketing platform. It was inevitable, but it still stings. If you want to keep your convos clean, you're going to have to pay up. Welcome to the new internet, same as the old internet.",
     "id": "A1X9L2P4",
     "category": "AI",
     "companies": [
@@ -15,16 +15,18 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/A1X9L2P4.png",
+    "image_prompt": "Realistic news photo: laptop and smartphone showing a chat interface overlaid by floating ad banners; silhouetted tech CEO watches; glass-walled data center with glowing server racks in background; moody cool blues, cinematic contrast, high detail"
   },
   {
     "date": "2026-01-21",
-    "source_file": "Tech News Summary – January 21, 2026.pdf",
+    "source_file": "Tech News Summary \u2013 January 21, 2026.pdf",
     "page": 2,
     "title": "Elon Musk's New Plan: AI Data Centers... In Space?",
     "summary": "Elon Musk has revived Tesla's Dojo3 chip project with a new focus on 'space-based AI compute.' The initiative aims to launch solar-powered data centers via SpaceX to offload high-volume processing from terrestrial grids.",
     "engagement": "High",
-    "raw_text": "Just when you thought Elon Musk couldn't get more sci-fi, he drops this: Tesla is restarting its Dojo3 chip project, but not for cars. For space. \n\nYes, you heard that right. Musk wants to put AI data centers in orbit. The plan is to use SpaceX to launch solar-powered server farms that sit off-planet. It sounds insane, but think about it—solar energy is abundant up there, and you don't have to worry about cooling or crashing the US power grid (which Google just complained about). He's calling Dojo3 the 'highest volume chips in the world.' We've been worried about AI eating all our electricity, and Elon's solution is literally 'let's just put the computers on the moon.' It’s a classic Musk moonshot, but if anyone is going to try it, it’s him.",
+    "raw_text": "Just when you thought Elon Musk couldn't get more sci-fi, he drops this: Tesla is restarting its Dojo3 chip project, but not for cars. For space. Yes, you heard that right. Musk wants to put AI data centers in orbit. The plan is to use SpaceX to launch solar-powered server farms that sit off-planet. It sounds insane, but think about it\u2014solar energy is abundant up there, and you don't have to worry about cooling or crashing the US power grid (which Google just complained about). He's calling Dojo3 the 'highest volume chips in the world.' We've been worried about AI eating all our electricity, and Elon's solution is literally 'let's just put the computers on the moon.' It\u2019s a classic Musk moonshot, but if anyone is going to try it, it\u2019s him.",
     "id": "T7M3S9Q1",
     "category": "Hardware",
     "companies": [
@@ -34,7 +36,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/T7M3S9Q1.png",
+    "image_prompt": "Realistic newsroom-style image: SpaceX rocket deploying modular solar-array data center satellites above Earth at dusk, glowing server racks and circuit-patterned Dojo3 modules, Earth city lights below, mission-control with Elon Musk silhouetted watching, cool blue cinematic lighting."
   },
   {
     "date": "2026-01-21",
@@ -43,7 +47,7 @@
     "title": "Science Confirmed: Your Brain is Basically an LLM",
     "summary": "A groundbreaking study published in Nature Communications reveals that the human brain processes spoken language in a stepwise layering method that mirrors modern AI Large Language Models. Neural activity aligns with AI processing layers from basic features to complex context.",
     "engagement": "High",
-    "raw_text": "This might be the most mind-blowing story of the year. Scientists at Hebrew University and Google just proved that your brain works almost exactly like ChatGPT. \n\nThey hooked people up to scanners while listening to podcasts and found that the brain processes language in 'layers.' The early signals look just like the shallow layers of an AI model—handling basic sounds and words. But then, deep in the brain, the signals match the 'deep' layers of an LLM, where context and meaning happen. We used to think AI was trying to copy us, but it turns out we might have just accidentally built a digital version of our own minds. It challenges everything we thought we knew about linguistics. Are we just biological transformers predicting the next token? The evidence is starting to say yes.",
+    "raw_text": "This might be the most mind-blowing story of the year. Scientists at Hebrew University and Google just proved that your brain works almost exactly like ChatGPT. They hooked people up to scanners while listening to podcasts and found that the brain processes language in 'layers.' The early signals look just like the shallow layers of an AI model\u2014handling basic sounds and words. But then, deep in the brain, the signals match the 'deep' layers of an LLM, where context and meaning happen. We used to think AI was trying to copy us, but it turns out we might have just accidentally built a digital version of our own minds. It challenges everything we thought we knew about linguistics. Are we just biological transformers predicting the next token? The evidence is starting to say yes.",
     "id": "B2R5A1N9",
     "category": "Science",
     "companies": [
@@ -54,7 +58,9 @@
     "people": [
       "Ariel Goldstein"
     ],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/B2R5A1N9.png",
+    "image_prompt": "Photorealistic news photo: side-profile adult speaking, semi-transparent brain revealing stacked glowing layers like neural-network planes with connecting nodes and subtle speech waveform, cool clinical lighting, high-detail, neutral investigative mood"
   },
   {
     "date": "2026-01-21",
@@ -63,14 +69,16 @@
     "title": "China's 'DeepSeek V4' is Coming to Crush GPT-4",
     "summary": "Chinese startup DeepSeek is preparing to launch its V4 model in mid-February 2026. The 700B+ parameter model claims to outperform Claude Opus and GPT-4 in coding tasks while utilizing a massive 1M+ token context window.",
     "engagement": "High",
-    "raw_text": "If you thought the AI wars were cooling down, look at China. DeepSeek—the startup that already shook the market with their cheap R1 model—is about to drop a nuclear bomb called V4. \n\nComing in February, this thing is a beast: 700 billion parameters and a context window of over a million tokens. But here is the kicker: their internal benchmarks show it beating BOTH Claude Opus and GPT-4 in coding. They are using a new 'DeepConf' filter to stop hallucinations and a 'Mixture-of-Experts' architecture to keep it cheap. This isn't just a copycat; this is indigenous innovation that could genuinely rival Silicon Valley. If this V4 model is as good as they say, the US dominance in AI might be slipping faster than we think.",
+    "raw_text": "If you thought the AI wars were cooling down, look at China. DeepSeek\u2014the startup that already shook the market with their cheap R1 model\u2014is about to drop a nuclear bomb called V4. Coming in February, this thing is a beast: 700 billion parameters and a context window of over a million tokens. But here is the kicker: their internal benchmarks show it beating BOTH Claude Opus and GPT-4 in coding. They are using a new 'DeepConf' filter to stop hallucinations and a 'Mixture-of-Experts' architecture to keep it cheap. This isn't just a copycat; this is indigenous innovation that could genuinely rival Silicon Valley. If this V4 model is as good as they say, the US dominance in AI might be slipping faster than we think.",
     "id": "D4E5E6K7",
     "category": "AI",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/D4E5E6K7.png",
+    "image_prompt": "High-tech Chinese AI lab: towering matte-black server cluster shaped like a dragon, neon red-gold accents, holographic code and neural-network arcs, silhouetted engineers, cinematic dramatic lighting, tense futuristic newsroom atmosphere"
   },
   {
     "date": "2026-01-21",
@@ -79,14 +87,16 @@
     "title": "Lego's 'Smart Brick' Changes Toys Forever",
     "summary": "Lego has introduced a 'Smart Brick' containing an ASIC chip that allows physical builds to interact with digital games. This 'Phygital' innovation enables real-world creations to appear instantly in virtual environments.",
     "engagement": "High",
-    "raw_text": "Lego just did something genius. They announced a 'Smart Brick.' It looks like a normal Lego piece, but inside it has a tiny computer chip (ASIC). \n\nWhy does this matter? Because now, when you build a spaceship in your living room, the game console *knows*. You build it in real life, and boom—it appears in the video game. It’s the bridge between physical toys and digital gaming we’ve been waiting for. This isn't just a toy; it's training wheels for the metaverse. Kids are going to grow up expecting every inanimate object to be smart. Honestly, I'm a grown adult and I want this immediately. The 'Phygital' era is officially here.",
+    "raw_text": "Lego just did something genius. They announced a 'Smart Brick.' It looks like a normal Lego piece, but inside it has a tiny computer chip (ASIC). Why does this matter? Because now, when you build a spaceship in your living room, the game console *knows*. You build it in real life, and boom\u2014it appears in the video game. It\u2019s the bridge between physical toys and digital gaming we\u2019ve been waiting for. This isn't just a toy; it's training wheels for the metaverse. Kids are going to grow up expecting every inanimate object to be smart. Honestly, I'm a grown adult and I want this immediately. The 'Phygital' era is officially here.",
     "id": "L3G0S8B1",
     "category": "Innovation",
     "companies": [
       "Lego"
     ],
     "people": [],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/L3G0S8B1.png",
+    "image_prompt": "Photo-realistic news photo: close-up of hands assembling colorful LEGO pieces with a small smart brick revealing a glowing ASIC chip; nearby tablet displays instant 3D virtual replica hovering as a hologram; warm natural light, shallow depth, no text"
   },
   {
     "date": "2026-01-21",
@@ -95,14 +105,16 @@
     "title": "LG's 'Rosie the Robot' is Finally Real",
     "summary": "LG's new 'CLOiD' robot has received rave reviews for its ability to autonomously manage household tasks. Unlike basic vacuums, CLOiD uses multi-modal AI to sort laundry, understand messy rooms, and follow complex verbal instructions.",
     "engagement": "High",
-    "raw_text": "We've all been waiting for 'Rosie the Robot' from The Jetsons, and LG might have actually built her. The reviews are in for their new 'CLOiD' bot, and it’s mind-blowing. \n\nThis isn't a Roomba that bumps into walls. It uses multi-modal AI to actually *see* and understand your house. It can look at a pile of clothes, identify what's laundry, and sort it. You can tell it, 'Clean up the mess in the kitchen,' and it knows what that means. It’s moving us from 'remote-controlled' homes to fully autonomous ones. Sure, it's probably expensive as hell, but for the first time, a robot butler feels like a real product, not just a sci-fi dream. Physical AI is taking over the living room.",
+    "raw_text": "We've all been waiting for 'Rosie the Robot' from The Jetsons, and LG might have actually built her. The reviews are in for their new 'CLOiD' bot, and it\u2019s mind-blowing. This isn't a Roomba that bumps into walls. It uses multi-modal AI to actually *see* and understand your house. It can look at a pile of clothes, identify what's laundry, and sort it. You can tell it, 'Clean up the mess in the kitchen,' and it knows what that means. It\u2019s moving us from 'remote-controlled' homes to fully autonomous ones. Sure, it's probably expensive as hell, but for the first time, a robot butler feels like a real product, not just a sci-fi dream. Physical AI is taking over the living room.",
     "id": "R0B1T2L9",
     "category": "Robotics",
     "companies": [
       "LG"
     ],
     "people": [],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/R0B1T2L9.png",
+    "image_prompt": "Photorealistic modern home interior: sleek LG CLOiD humanoid robot folding laundry from a basket, scanning cluttered living room with soft LED eyes, homeowner gesturing and speaking, warm morning light, clean appliances, documentary news style, high-resolution"
   },
   {
     "date": "2026-01-21",
@@ -111,12 +123,14 @@
     "title": "AI Just Wrote Military-Grade Malware in One Week",
     "summary": "Security researchers analyzed 'VoidLink,' a sophisticated Linux malware framework primarily authored by an AI coding agent. The AI reduced the development timeline from an estimated 16 weeks for a human team to just one week for a single individual.",
     "engagement": "High",
-    "raw_text": "This is the story that should keep you up at night. Researchers dissected a new malware called 'VoidLink,' and they found out it was written by an AI.\n\nHere is the scary math: A human team of hackers would take about 16 to 30 weeks to build something this complex. The AI? It did it in *one week*. One single person with an AI coding agent built a military-grade cyberweapon in days. This democratizes cyberwarfare in the worst way possible. You don't need a team of elite hackers anymore; you just need a good prompt. We are entering an era where malware eats the software, and the barriers to entry for cybercrime just hit zero.",
+    "raw_text": "This is the story that should keep you up at night. Researchers dissected a new malware called 'VoidLink,' and they found out it was written by an AI. Here is the scary math: A human team of hackers would take about 16 to 30 weeks to build something this complex. The AI? It did it in *one week*. One single person with an AI coding agent built a military-grade cyberweapon in days. This democratizes cyberwarfare in the worst way possible. You don't need a team of elite hackers anymore; you just need a good prompt. We are entering an era where malware eats the software, and the barriers to entry for cybercrime just hit zero.",
     "id": "V0I4D5L6",
     "category": "Security",
     "companies": [],
     "people": [],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/V0I4D5L6.png",
+    "image_prompt": "Realistic photo: lone developer at laptop in dim lab, red and blue cinematic lighting, holographic code and neural-network glow above screen, faint tactical map and server rack in background, tense, high-detail, news-style"
   },
   {
     "date": "2026-01-20",
@@ -125,13 +139,15 @@
     "title": "Academic Scandal: AI Fakes 1% of Top Research Papers",
     "summary": "An investigation into the NeurIPS 2025 conference revealed that 1.1% of accepted papers contained AI-hallucinated citations. This marks the first documented case of fake AI references entering the official record of a premier machine learning venue.",
     "engagement": "Medium",
-    "raw_text": "Academia has a massive problem. NeurIPS is like the Olympics for AI research—it's where the smartest people in the world publish their work. But an investigation just found that over 1% of the accepted papers had fake, AI-hallucinated citations. \n\nThat means researchers used ChatGPT to write their papers, the AI made up studies that don't exist, and *nobody caught it*. These papers passed peer review and got published. It’s a huge embarrassment and a wake-up call. If we can't trust the research papers *about* AI because they were lazily written *by* AI, the whole scientific process starts to break down. We need better detectors, fast.",
+    "raw_text": "Academia has a massive problem. NeurIPS is like the Olympics for AI research\u2014it's where the smartest people in the world publish their work. But an investigation just found that over 1% of the accepted papers had fake, AI-hallucinated citations. That means researchers used ChatGPT to write their papers, the AI made up studies that don't exist, and *nobody caught it*. These papers passed peer review and got published. It\u2019s a huge embarrassment and a wake-up call. If we can't trust the research papers *about* AI because they were lazily written *by* AI, the whole scientific process starts to break down. We need better detectors, fast.",
     "id": "N3U4R5I1",
     "category": "Science",
     "companies": [
       "NeurIPS"
     ],
     "people": [],
-    "created_at": "2026-01-21T21:45:00Z"
+    "created_at": "2026-01-21T21:45:00Z",
+    "image_url": "images/22_01_26/N3U4R5I1.png",
+    "image_prompt": "High-resolution photo of an academic AI conference: dim auditorium, table strewn with printed papers, one page glitching with ghostly citation lines dissolving into pixels; worried researchers peer with a magnifying glass; tense, investigative mood"
   }
 ]
