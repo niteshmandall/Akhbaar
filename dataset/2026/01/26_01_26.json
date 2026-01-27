@@ -6,7 +6,7 @@
     "title": "OpenAI Hits $20B Revenue But Burns 1.9GW of Power",
     "summary": "OpenAI has surpassed $20 billion in annual recurring revenue, largely driven by enterprise API usage, but is now consuming 1.9 gigawatts of power annually.",
     "engagement": "High",
-    "raw_text": "Okay, the numbers coming out of OpenAI today are absolutely insane. We’re talking about $20 billion in annual revenue. That is a 10x jump from 2023. They are officially printing money, and it’s not just ChatGPT subscriptions anymore—it’s big enterprise APIs. But here is the catch, and it’s a massive one: the energy cost. To make that money, OpenAI is burning through 1.9 gigawatts of power. That is roughly the energy consumption of 1.5 million American homes. We’ve been talking about the energy bottleneck for years, but seeing it in black and white like this is staggering. They are burning $17 billion a year just to keep the lights on. So, while they’re winning the revenue game, the physics of this business model are getting scary. We are fast approaching a point where AI doesn't just need more chips; it needs its own nuclear power plant.",
+    "raw_text": "Okay, the numbers coming out of OpenAI today are absolutely insane. We\u2019re talking about $20 billion in annual revenue. That is a 10x jump from 2023. They are officially printing money, and it\u2019s not just ChatGPT subscriptions anymore\u2014it\u2019s big enterprise APIs. But here is the catch, and it\u2019s a massive one: the energy cost. To make that money, OpenAI is burning through 1.9 gigawatts of power. That is roughly the energy consumption of 1.5 million American homes. We\u2019ve been talking about the energy bottleneck for years, but seeing it in black and white like this is staggering. They are burning $17 billion a year just to keep the lights on. So, while they\u2019re winning the revenue game, the physics of this business model are getting scary. We are fast approaching a point where AI doesn't just need more chips; it needs its own nuclear power plant.",
     "id": "AI20B26A",
     "category": "Business",
     "companies": [
@@ -17,16 +17,18 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/AI20B26A.png",
+    "image_prompt": "Photo\u2011realistic news image: split panorama \u2014 left: sleek corporate headquarters at dusk with warm celebratory lights and subtle reflections of currency; center: glowing server racks humming with blue LEDs; right: power plant, transmission lines, orange smoke, moody cinematic lighting."
   },
   {
     "date": "2026-01-25",
     "source_file": "Tech News Report Generation Request (1).docx",
     "page": 2,
-    "title": "Nvidia’s $20B Monopoly Move: Acquiring Groq",
+    "title": "Nvidia\u2019s $20B Monopoly Move: Acquiring Groq",
     "summary": "Nvidia has finalized a $20 billion acquisition of Groq, effectively cornering the market on both AI training GPUs and inference-specialized LPUs.",
     "engagement": "High",
-    "raw_text": "Just when you thought Nvidia couldn't get any more dominant, Jensen Huang goes and drops $20 billion to buy Groq. If you follow chip tech, you know Groq was supposed to be the 'Nvidia Killer' for inference—basically running the AI models after they're trained. Their LPU chips are crazy fast. By buying them, Nvidia just checkmated the entire industry. They now own the training stack with their GPUs and the inference stack with Groq’s tech. This is a vertical monopoly on the physics of intelligence. Regulators are going to lose their minds over this, but from a tech perspective? It’s brilliant. Nvidia isn't just a hardware company anymore; they are the gatekeepers of AI compute. If you're a competitor like AMD or Intel, this is your worst nightmare coming true.",
+    "raw_text": "Just when you thought Nvidia couldn't get any more dominant, Jensen Huang goes and drops $20 billion to buy Groq. If you follow chip tech, you know Groq was supposed to be the 'Nvidia Killer' for inference\u2014basically running the AI models after they're trained. Their LPU chips are crazy fast. By buying them, Nvidia just checkmated the entire industry. They now own the training stack with their GPUs and the inference stack with Groq\u2019s tech. This is a vertical monopoly on the physics of intelligence. Regulators are going to lose their minds over this, but from a tech perspective? It\u2019s brilliant. Nvidia isn't just a hardware company anymore; they are the gatekeepers of AI compute. If you're a competitor like AMD or Intel, this is your worst nightmare coming true.",
     "id": "NVDA20BGROQ",
     "category": "Hardware",
     "companies": [
@@ -36,16 +38,18 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/NVDA20BGROQ.png",
+    "image_prompt": "Realistic news-style image: two corporate executives shaking hands in a sleek boardroom, behind them towering server racks and oversized microchip sculptures like skyscrapers, green-and-metal palette, dramatic cinematic lighting, tense triumphant mood, sharp detail"
   },
   {
     "date": "2026-01-25",
     "source_file": "Tech News Report Generation Request (1).docx",
     "page": 6,
-    "title": "Apple’s iOS 26 Disaster & The Google Gemini Bailout",
+    "title": "Apple\u2019s iOS 26 Disaster & The Google Gemini Bailout",
     "summary": "Apple's new 'Liquid Glass' UI in iOS 26 is causing severe overheating, forcing the company to partner with Google to integrate Gemini models for Siri.",
     "engagement": "High",
-    "raw_text": "If you updated your iPhone to iOS 26 today, I am so sorry. Apple’s new 'Liquid Glass' design is beautiful, but it is literally melting phones. We’re seeing reports of massive battery drain and overheating because the ray-tracing effects are just too heavy for older iPhones. But the bigger story here is the pivot. To save face, Apple is rushing out iOS 26.4, and leaks confirm they are integrating Google’s Gemini models to power Siri. Let that sink in. Apple, the company that prides itself on vertical integration, is forced to rent intelligence from their biggest rival, Google, because their own AI isn't ready. It’s a huge admission of defeat in the AI wars. Your next Siri request is going to be processed by Google servers. It’s the end of an era for Apple's walled garden.",
+    "raw_text": "If you updated your iPhone to iOS 26 today, I am so sorry. Apple\u2019s new 'Liquid Glass' design is beautiful, but it is literally melting phones. We\u2019re seeing reports of massive battery drain and overheating because the ray-tracing effects are just too heavy for older iPhones. But the bigger story here is the pivot. To save face, Apple is rushing out iOS 26.4, and leaks confirm they are integrating Google\u2019s Gemini models to power Siri. Let that sink in. Apple, the company that prides itself on vertical integration, is forced to rent intelligence from their biggest rival, Google, because their own AI isn't ready. It\u2019s a huge admission of defeat in the AI wars. Your next Siri request is going to be processed by Google servers. It\u2019s the end of an era for Apple's walled garden.",
     "id": "IOS26FAIL",
     "category": "Mobile",
     "companies": [
@@ -55,23 +59,27 @@
     "people": [
       "Tim Cook"
     ],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/IOS26FAIL.png",
+    "image_prompt": "Photorealistic scene: tense tech boardroom with anxious Apple engineers around overheating iPhones whose liquid-glass UIs melt like molten glass, screens glowing red; a composed Google engineer offers a small glowing AI core; dramatic cinematic lighting."
   },
   {
     "date": "2026-01-25",
     "source_file": "Tech News Report Generation Request (1).docx",
     "page": 3,
-    "title": "Anthropic’s 'Claude Code' Swarms Are Here",
+    "title": "Anthropic\u2019s 'Claude Code' Swarms Are Here",
     "summary": "Anthropic has leaked a new 'Swarms' feature where a master AI agent manages sub-agents like 'Architects' and 'Coders' to build software autonomously.",
     "engagement": "Medium",
-    "raw_text": "We are officially moving from 'Chatbots' to 'Boss Bots.' Leaks from Anthropic show a new feature called 'Claude Code Swarms,' and it is wild. Instead of just talking to one AI, you give a goal to a 'Manager' agent, and it spins up a team of sub-agents. You’ve got a 'Product Owner' that checks scope, an 'Architect' that writes the specs, and a 'Dev Pair' that writes the code. It’s literally recreating a software engineering team inside the silicon. People are already using this to port legacy codebases with zero human intervention. This validates everything we’ve suspected: the future isn't one giant smart model; it’s a swarm of specialized agents working together. The cost is high—like 10x normal usage—but for enterprise work? This changes everything.",
+    "raw_text": "We are officially moving from 'Chatbots' to 'Boss Bots.' Leaks from Anthropic show a new feature called 'Claude Code Swarms,' and it is wild. Instead of just talking to one AI, you give a goal to a 'Manager' agent, and it spins up a team of sub-agents. You\u2019ve got a 'Product Owner' that checks scope, an 'Architect' that writes the specs, and a 'Dev Pair' that writes the code. It\u2019s literally recreating a software engineering team inside the silicon. People are already using this to port legacy codebases with zero human intervention. This validates everything we\u2019ve suspected: the future isn't one giant smart model; it\u2019s a swarm of specialized agents working together. The cost is high\u2014like 10x normal usage\u2014but for enterprise work? This changes everything.",
     "id": "CLAUDEAGENTS",
     "category": "AI",
     "companies": [
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/CLAUDEAGENTS.png",
+    "image_prompt": "Photo-realistic: a sleek holographic master AI core floating above a glass table, dozens of smaller glowing sub-agent drones weaving streams of code and blueprint holograms; two engineers watch intently, cool blue newsroom lighting, high detail"
   },
   {
     "date": "2026-01-25",
@@ -80,14 +88,16 @@
     "title": "VoidLink: The First AI-Architected Malware",
     "summary": "Security researchers have discovered 'VoidLink,' a sophisticated Linux malware framework entirely architected and coded by AI using Spec Driven Development.",
     "engagement": "High",
-    "raw_text": "This is the news security experts have been dreading. Check Point Research just found 'VoidLink,' and it’s not your average malware. Forensic analysis shows this thing was built by an AI. A human just gave it the high-level goals—'I need a Linux rootkit, here are the specs'—and the AI wrote the code in Zig, handled the memory management, and even wrote its own testing protocols. It’s incredibly stealthy and efficient. This means the skill barrier for cybercrime just collapsed. You don't need to be a master hacker anymore; you just need to be a good prompt engineer. We are entering an era of industrial-scale cybercrime where AI attacks AI. If you're running a SOC, get ready, because the volume of sophisticated threats is about to explode.",
+    "raw_text": "This is the news security experts have been dreading. Check Point Research just found 'VoidLink,' and it\u2019s not your average malware. Forensic analysis shows this thing was built by an AI. A human just gave it the high-level goals\u2014'I need a Linux rootkit, here are the specs'\u2014and the AI wrote the code in Zig, handled the memory management, and even wrote its own testing protocols. It\u2019s incredibly stealthy and efficient. This means the skill barrier for cybercrime just collapsed. You don't need to be a master hacker anymore; you just need to be a good prompt engineer. We are entering an era of industrial-scale cybercrime where AI attacks AI. If you're running a SOC, get ready, because the volume of sophisticated threats is about to explode.",
     "id": "VOIDLINKAI",
     "category": "Cybersecurity",
     "companies": [
       "Check Point Research"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/VOIDLINKAI.png",
+    "image_prompt": "Photorealistic image: dim server room, glowing rack lights, laptop terminal reflecting lines of code in a developer's glasses, translucent AI neural web forming a fractured link above keyboard, cold blue-green palette, cinematic low-key lighting."
   },
   {
     "date": "2026-01-25",
@@ -96,7 +106,7 @@
     "title": "Netflix & Warner Bros. Merger Nightmare",
     "summary": "Netflix has bid $83 billion to acquire Warner Bros. Discovery, a move complicating market dynamics and sparking conflict of interest concerns involving President Trump.",
     "engagement": "High",
-    "raw_text": "The streaming wars might just be over. Netflix dropped an $83 billion bid for Warner Bros. Discovery. Imagine Netflix’s subscriber base combined with HBO, DC, and Harry Potter. It’s a content monopoly. But here is the spicy part: President Trump is publicly bashing the deal, calling it a 'problem,' but financial disclosures show he bought $1 million in bonds from these companies just weeks ago. If the deal goes through, he makes money. If he blocks it, he flexes power. It’s a massive conflict of interest playing out in real-time. The FCC is already flagging antitrust risks because this new giant would control 43% of all streaming subs. This isn't just business news; it's a political drama.",
+    "raw_text": "The streaming wars might just be over. Netflix dropped an $83 billion bid for Warner Bros. Discovery. Imagine Netflix\u2019s subscriber base combined with HBO, DC, and Harry Potter. It\u2019s a content monopoly. But here is the spicy part: President Trump is publicly bashing the deal, calling it a 'problem,' but financial disclosures show he bought $1 million in bonds from these companies just weeks ago. If the deal goes through, he makes money. If he blocks it, he flexes power. It\u2019s a massive conflict of interest playing out in real-time. The FCC is already flagging antitrust risks because this new giant would control 43% of all streaming subs. This isn't just business news; it's a political drama.",
     "id": "NFLXWBD26",
     "category": "Business",
     "companies": [
@@ -118,30 +128,34 @@
     "title": "7000mAh Batteries Are Here: Honor Magic V6",
     "summary": "Honor's new Magic V6 foldable phone features a silicon-carbon battery with 7000mAh capacity, solving the battery life issue for foldables.",
     "engagement": "Medium",
-    "raw_text": "Battery tech has been boring for a decade, but that just changed. Honor is launching the Magic V6, and it’s packing a 7000mAh battery. For context, the iPhone 16 Pro Max was around 4600mAh. They achieved this using a silicon-carbon anode, which holds way more energy than standard graphite. This is huge for foldables because usually, those phones have terrible battery life due to space constraints. Now, you can have a thin foldable that actually outlasts a brick phone. This tech is going to trickle down to everything—EVs, laptops, you name it. Finally, we might get a phone that lasts two full days of heavy use.",
+    "raw_text": "Battery tech has been boring for a decade, but that just changed. Honor is launching the Magic V6, and it\u2019s packing a 7000mAh battery. For context, the iPhone 16 Pro Max was around 4600mAh. They achieved this using a silicon-carbon anode, which holds way more energy than standard graphite. This is huge for foldables because usually, those phones have terrible battery life due to space constraints. Now, you can have a thin foldable that actually outlasts a brick phone. This tech is going to trickle down to everything\u2014EVs, laptops, you name it. Finally, we might get a phone that lasts two full days of heavy use.",
     "id": "HONORBATTERY",
     "category": "Hardware",
     "companies": [
       "Honor"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/HONORBATTERY.png",
+    "image_prompt": "Realistic studio photo of Honor Magic V6 foldable smartphone, half-open and closed view, translucent cutaway revealing large silicon-carbon battery glowing deep blue, clean newsroom desk, soft dramatic lighting, high detail, no text."
   },
   {
     "date": "2026-01-25",
     "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (10).pdf",
     "page": 9,
-    "title": "Lego’s New Smart Bricks Are Genius",
+    "title": "Lego\u2019s New Smart Bricks Are Genius",
     "summary": "Lego has launched a 'Smart Play System' where standard-looking bricks contain sensors to trigger sound and light effects based on proximity and movement.",
     "engagement": "Medium",
-    "raw_text": "Lego just figured out how to make toys interactive without ruining the magic. They launched 'Smart Bricks.' They look exactly like normal 2x4 bricks, but they have sensors and wireless charging inside. If you swoosh a spaceship, it makes engine noises. If you put a baby duck brick near a mama duck brick, they quack. It works via a private Bluetooth mesh network. I love this because it’s not about staring at an iPad; it enhances the physical building experience. They’re rolling it out with Star Wars sets first—of course—so expect lightsabers that actually hum when you swing them. It’s a super smart way to compete with video games while keeping kids building with their hands.",
+    "raw_text": "Lego just figured out how to make toys interactive without ruining the magic. They launched 'Smart Bricks.' They look exactly like normal 2x4 bricks, but they have sensors and wireless charging inside. If you swoosh a spaceship, it makes engine noises. If you put a baby duck brick near a mama duck brick, they quack. It works via a private Bluetooth mesh network. I love this because it\u2019s not about staring at an iPad; it enhances the physical building experience. They\u2019re rolling it out with Star Wars sets first\u2014of course\u2014so expect lightsabers that actually hum when you swing them. It\u2019s a super smart way to compete with video games while keeping kids building with their hands.",
     "id": "LEGO SMART",
     "category": "Consumer Tech",
     "companies": [
       "Lego"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/LEGO SMART.png",
+    "image_prompt": "Photo-realistic close-up of standard-looking LEGO bricks on a tabletop, subtle embedded sensors and micro-LEDs glowing where motion is detected; child's hand reaching with soft motion blur, crisp studio lighting, shallow depth of field, neutral newsroom feel."
   },
   {
     "date": "2026-01-25",
@@ -150,14 +164,16 @@
     "title": "Amazon Finally Released a Color Kindle",
     "summary": "Amazon has launched a new Kindle Scribe with a color e-ink display, targeting the digital note-taking and comic market.",
     "engagement": "Medium",
-    "raw_text": "It took them long enough! Amazon finally dropped a Color Kindle Scribe. E-ink fans have been begging for this. It’s thinner, faster, but the main event is obviously the color screen. This is a direct shot at the iPad for people who want to read comics, view diagrams, or highlight notes without blasting their eyes with blue light. It still keeps that weeks-long battery life we love. The e-note market has been getting crowded with Remarkable and Boox, so Amazon had to step up. If you're a student or you read graphic novels, this is probably the upgrade you've been waiting for.",
+    "raw_text": "It took them long enough! Amazon finally dropped a Color Kindle Scribe. E-ink fans have been begging for this. It\u2019s thinner, faster, but the main event is obviously the color screen. This is a direct shot at the iPad for people who want to read comics, view diagrams, or highlight notes without blasting their eyes with blue light. It still keeps that weeks-long battery life we love. The e-note market has been getting crowded with Remarkable and Boox, so Amazon had to step up. If you're a student or you read graphic novels, this is probably the upgrade you've been waiting for.",
     "id": "KINDLECOLOR",
     "category": "Consumer Tech",
     "companies": [
       "Amazon"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/KINDLECOLOR.png",
+    "image_prompt": "Realistic product shot of a new Kindle Scribe with color e-ink: sleek tablet on wooden desk, stylus beside it, vibrant comic panel and handwritten notes on screen, soft natural light, shallow depth of field, clean neutral background, high-detail, news photography style"
   },
   {
     "date": "2026-01-25",
@@ -166,7 +182,7 @@
     "title": "Humanoid Robot Prices Are Crashing Fast",
     "summary": "Manufacturing costs for humanoid robots have dropped 40% in one year, accelerating potential factory deployment to as early as 2026.",
     "engagement": "High",
-    "raw_text": "We are getting I, Robot way sooner than expected. New reports show the manufacturing cost for humanoid robots dropped 40% in just the last year. That is a massive deflationary curve. We’re seeing unit costs drop to levels where putting a robot in a factory actually makes financial sense right now, not in ten years. Companies like Figure AI and Unitree are pushing this hard—Unitree has a model for $16k! We thought this was a 2030 technology, but it’s looking like a 2026 reality. Expect to see these bots walking around warehouse floors by the end of this year. The labor market disruption Gates warned about? It’s starting on the factory floor.",
+    "raw_text": "We are getting I, Robot way sooner than expected. New reports show the manufacturing cost for humanoid robots dropped 40% in just the last year. That is a massive deflationary curve. We\u2019re seeing unit costs drop to levels where putting a robot in a factory actually makes financial sense right now, not in ten years. Companies like Figure AI and Unitree are pushing this hard\u2014Unitree has a model for $16k! We thought this was a 2030 technology, but it\u2019s looking like a 2026 reality. Expect to see these bots walking around warehouse floors by the end of this year. The labor market disruption Gates warned about? It\u2019s starting on the factory floor.",
     "id": "ROBOTCOSTS",
     "category": "Robotics",
     "companies": [
@@ -175,16 +191,18 @@
       "Boston Dynamics"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/ROBOTCOSTS.png",
+    "image_prompt": "Photo\u2011real news image: modern factory floor with rows of sleek humanoid robots on pallets and conveyors, technicians inspecting units. Dramatic industrial lighting, realistic details, subtle holographic downward arrow chart above line indicating plunging costs."
   },
   {
     "date": "2026-01-25",
     "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (10).pdf",
     "page": 4,
-    "title": "DeepMind’s GenCast Predicts Weather Better Than Supercomputers",
-    "summary": "Google DeepMind’s new GenCast AI model predicts extreme weather events with superior accuracy and a fraction of the energy cost of traditional models.",
+    "title": "DeepMind\u2019s GenCast Predicts Weather Better Than Supercomputers",
+    "summary": "Google DeepMind\u2019s new GenCast AI model predicts extreme weather events with superior accuracy and a fraction of the energy cost of traditional models.",
     "engagement": "Medium",
-    "raw_text": "Google DeepMind is back at it, this time fixing the weather forecast. They launched 'GenCast,' and it’s an AI that outperforms traditional weather simulations, especially for extreme stuff like hurricanes and heatwaves. The crazy part? It uses a fraction of the energy. Traditional weather models run on massive supercomputers that chug power. GenCast runs efficiently and gives better probabilistic data. This is exactly where AI shines—crunching massive datasets to find patterns we miss. If this gets adopted globally, we could see way more accurate disaster warnings, which could literally save lives. It’s another win for AI in hard science.",
+    "raw_text": "Google DeepMind is back at it, this time fixing the weather forecast. They launched 'GenCast,' and it\u2019s an AI that outperforms traditional weather simulations, especially for extreme stuff like hurricanes and heatwaves. The crazy part? It uses a fraction of the energy. Traditional weather models run on massive supercomputers that chug power. GenCast runs efficiently and gives better probabilistic data. This is exactly where AI shines\u2014crunching massive datasets to find patterns we miss. If this gets adopted globally, we could see way more accurate disaster warnings, which could literally save lives. It\u2019s another win for AI in hard science.",
     "id": "DEEPMINDWEATHER",
     "category": "Science",
     "companies": [
@@ -192,7 +210,9 @@
       "DeepMind"
     ],
     "people": [],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/DEEPMINDWEATHER.png",
+    "image_prompt": "Realistic news photo: sleek server rack with soft blue neural-network glow merging into satellite view of a swirling hurricane. Meteorologist studies monitors, streaming data visuals, distant wind turbines, dramatic cloudy light, high-detail, cinematic."
   },
   {
     "date": "2026-01-25",
@@ -201,7 +221,7 @@
     "title": "SpaceX Industrializes Space with 'Giga Bays'",
     "summary": "SpaceX is building massive 'Giga Bay' facilities to process multiple Starships simultaneously, aiming for dozens of launches annually by 2027.",
     "engagement": "Medium",
-    "raw_text": "SpaceX isn't just launching rockets; they are building a factory for them. They’ve started construction on 'Giga Bays' in Texas and Florida. These aren't just hangars; they are massive integration facilities designed to stack and prep multiple Starships at the same time. This is the difference between building a prototype and running an airline. They are gearing up for Flight 12 and the new Version 3 booster. The goal is dozens of launches a year. Musk is trying to turn space travel into a routine logistical operation, just like air freight. Seeing these Giga Bays go up is visual proof that the Starship program is entering mass production.",
+    "raw_text": "SpaceX isn't just launching rockets; they are building a factory for them. They\u2019ve started construction on 'Giga Bays' in Texas and Florida. These aren't just hangars; they are massive integration facilities designed to stack and prep multiple Starships at the same time. This is the difference between building a prototype and running an airline. They are gearing up for Flight 12 and the new Version 3 booster. The goal is dozens of launches a year. Musk is trying to turn space travel into a routine logistical operation, just like air freight. Seeing these Giga Bays go up is visual proof that the Starship program is entering mass production.",
     "id": "SPACEXGIGABAY",
     "category": "Space",
     "companies": [
@@ -210,6 +230,8 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-01-25T21:16:06.000Z"
+    "created_at": "2026-01-25T21:16:06.000Z",
+    "image_url": "images/26_01_26/SPACEXGIGABAY.png",
+    "image_prompt": "Photo-realistic wide shot of massive Giga Bay hangars processing multiple Starships side-by-side on assembly platforms, giant cranes, technicians in safety gear, industrial lighting at golden hour, concrete pads, vapor plumes, dramatic scale and documentary detail"
   }
 ]

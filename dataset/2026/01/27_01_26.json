@@ -1,0 +1,319 @@
+[
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Microsoft Declares War on Nvidia with Maia 200 Chip",
+    "summary": "Microsoft has launched the Maia 200, a custom 3nm AI accelerator designed specifically to cut inference costs, claiming 3x the performance of Amazon's Trainium 3. The move signals a major shift as Microsoft seeks to reduce reliance on Nvidia GPUs for running models like GPT-5.2.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014Microsoft just dropped a massive bomb on the AI hardware market, and Nvidia should honestly be a little nervous. They just unveiled the Maia 200, their second-gen custom AI chip, and the specs are wild. We're talking a 3nm process with over 100 billion transistors, optimized specifically for inference\u2014that's the actual running of AI models, not just training them. Microsoft is claiming this thing has three times the performance of Amazon's Trainium 3 and beats Google's TPUs in floating-point efficiency. But here's the kicker: they're moving their own massive workloads, like GPT-5.2, onto these chips immediately. This is huge because it's basically Microsoft saying, 'We're tired of paying the Nvidia tax.' They've even ditched proprietary cables for standard Ethernet to keep costs down. If these benchmarks hold up, we might finally see AI costs come down for everyone. Is this the end of Nvidia's total monopoly? Let me know in the comments!",
+    "id": "MSFTMAIA2026",
+    "category": "Hardware",
+    "companies": [
+      "Microsoft",
+      "Nvidia",
+      "Amazon",
+      "Google",
+      "TSMC"
+    ],
+    "people": [
+      "Scott Guthrie",
+      "Mustafa Suleyman"
+    ],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/MSFTMAIA2026.png",
+    "image_prompt": "Photorealistic close-up of a sleek 3nm AI accelerator chip on a motherboard, cold blue and warm gold rim light, blurred server racks and engineers in background, dramatic newsroom mood, split-frame composition implying tech rivalry, no text"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 4,
+    "title": "Nvidia's $20 Billion Loophole: The Groq 'Acquihire'",
+    "summary": "Nvidia has entered a controversial $20 billion licensing agreement with AI chip startup Groq, hiring its leadership to bypass antitrust regulations. The deal secures Groq's ultra-fast inference technology for Nvidia while preventing competitors from acquiring it.",
+    "engagement": "High",
+    "raw_text": "Okay, this is actually genius... and maybe a little terrifying. Nvidia just pulled off what might be the smartest corporate maneuver of the year. They couldn't technically buy the AI chip startup Groq because the antitrust regulators would have shut that down instantly. So what did they do? They spent $20 billion to 'license' the tech and just... hired the CEO and the engineering team. It's an 'acquihire' on steroids. Groq is famous for their LPUs which are insanely fast for real-time AI, and now that tech belongs to Team Green. This is Nvidia basically saying, 'Nice tech you got there, we'll take it,' without technically buying the company. It solidifies their moat around the AI inference market just as competitors like Microsoft are trying to break in. The regulators are going to be furious, but for now, Nvidia just won another round.",
+    "id": "NVDAGROQ26",
+    "category": "Business",
+    "companies": [
+      "Nvidia",
+      "Groq"
+    ],
+    "people": [
+      "Jonathan Ross",
+      "Sunny Madra",
+      "Simon Edwards"
+    ],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/NVDAGROQ26.png",
+    "image_prompt": "Photo\u2011realistic news image: Nvidia and Groq executives\u2019 silhouetted handshake over a glowing AI chip on a glass table, stacks of circuit boards and shadowy corporate towers behind, cold blue lighting, tense investigative mood, high detail"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 6,
+    "title": "Amazon Fires 16,000 Employees: The 'AI Bureaucracy Tax'",
+    "summary": "Amazon is cutting 16,000 corporate roles, primarily in AWS and HR, targeting middle management to streamline operations and fund a $35 billion AI capex. CEO Andy Jassy framed the cuts as removing a 'bureaucracy tax,' though automation is a clear driver.",
+    "engagement": "High",
+    "raw_text": "We need to talk about what's happening at Amazon because it is brutal. They just confirmed they are cutting another 16,000 corporate jobs starting today. This isn't just warehouse staff; we're talking AWS, Prime Video, and HR. CEO Andy Jassy is calling it a 'culture reset' to kill the 'bureaucracy tax,' but if you read between the lines, it's terrifying. They are literally swapping salaries for GPUs. Amazon is spending $35 billion\u2014yes, billion\u2014this quarter alone on AI infrastructure while cutting humans. They're automating HR and coding workflows, proving that the 'AI replacement' theory isn't just a theory anymore; it's a business strategy. If you work in tech middle management, this is the wake-up call. The pivot from human capital to silicon capital is officially here.",
+    "id": "AMZLAYOFFS26",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "AWS"
+    ],
+    "people": [
+      "Andy Jassy"
+    ],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/AMZLAYOFFS26.png",
+    "image_prompt": "Photo-realistic: glass tech HQ interior with rows of empty desks, somber middle managers packing boxes, HR area and AWS-like server racks in background, holographic golden neural-network arcs symbolizing AI investment, cool desaturated tones, cinematic lighting"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 1,
+    "title": "Atlas Goes Pro: Boston Dynamics Robots Hit Mass Production",
+    "summary": "Boston Dynamics has moved its humanoid robot, Atlas, into mass production for deployment in Hyundai factories. The new units will integrate Google DeepMind's Gemini AI to handle complex vision and planning tasks.",
+    "engagement": "High",
+    "raw_text": "It is finally happening. The robot uprising... I mean, the robot *economy* is here. Boston Dynamics just announced that Atlas\u2014you know, the parkour-doing robot that scares us all\u2014is officially entering mass production. This isn't a research project anymore. They are putting these things into Hyundai factories to do actual work. And the coolest part? They are stuffing Google's Gemini AI inside its brain. So now, Atlas doesn't just do backflips; it has advanced computer vision and planning capabilities. While Tesla's Optimus is still figuring things out, Boston Dynamics is actually shipping. We are stepping into a world where physical AI labor is a real product you can buy. Honestly, seeing thousands of these rolling off an assembly line is going to be the most sci-fi thing of 2026.",
+    "id": "ATLASBOT26",
+    "category": "Robotics",
+    "companies": [
+      "Boston Dynamics",
+      "Hyundai",
+      "Google DeepMind"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/ATLASBOT26.png",
+    "image_prompt": "Photorealistic news photo of multiple Atlas humanoid robots on a Hyundai factory assembly line, engineers in safety gear supervising, robotic arms fitting components, subtle holographic blue neural-network visuals above robot heads, cinematic industrial lighting, high detail"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 4,
+    "title": "No More Free Lunch: OpenAI Testing Ads in ChatGPT",
+    "summary": "OpenAI has officially begun testing advertisements in the free and low-cost 'Go' tiers of ChatGPT to monetize its massive user base. The company promises privacy controls and clearly labeled ads that won't influence model responses.",
+    "engagement": "High",
+    "raw_text": "Well, we all knew this day was coming. OpenAI has officially started testing ads in ChatGPT. If you're on the free plan or the new cheaper 'Go' tier, get ready to see sponsored results. They promise it's going to be clearly labeled and that advertisers won't be able to influence what the AI actually *says*, but come on\u2014it's still ads in your personal assistant. They need to pay for all that compute somehow, right? This is a massive pivot from a research lab to a full-blown ad-supported tech giant like Google. It brings up a huge question: can we trust an AI that's trying to sell us stuff? Personally, I think this changes the vibe of the platform entirely. Would you pay extra just to avoid ads, or are you cool with it? Sound off below.",
+    "id": "GPTADS26",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/GPTADS26.png",
+    "image_prompt": "Realistic newsroom photo: young professional at desk, viewing a laptop showing a chat AI interface with a subtle ad banner and a privacy toggle icon; soft studio lighting, shallow depth of field, neutral tones, serious, contemporary news mood."
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Act as a top-tier tech news aggregator and researc (65).pdf",
+    "page": 7,
+    "title": "Vivo X200T Launches with Insane 100x Zeiss Camera",
+    "summary": "Vivo has launched the X200T in India, featuring a Zeiss-engineered triple 50MP camera system and a 100x HyperZoom. The device runs on the MediaTek Dimensity 9400+ and targets the premium mid-flagship market.",
+    "engagement": "High",
+    "raw_text": "Smartphone photography just leveled up again. Vivo dropped the X200T in India today, and the camera specs are actually ridiculous. They've partnered with Zeiss\u2014yes, the lens legends\u2014to put a triple 50MP setup on the back. But the standout feature is the 100x HyperZoom and a dedicated telephoto macro mode. If you're a content creator, this thing is basically a DSLR in your pocket. It's rocking the MediaTek Dimensity 9400+ chip, so it's not just a camera; it's a beast for gaming too. It's priced around $720, which puts it in a really competitive spot against Samsung and OnePlus. If you care about portrait shots or zooming into your neighbor's house (don't do that), this might be the phone to beat right now.",
+    "id": "VIVOX200T26",
+    "category": "Mobile",
+    "companies": [
+      "Vivo",
+      "Zeiss",
+      "MediaTek"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/VIVOX200T26.png",
+    "image_prompt": "Hyper-realistic studio photo of a Vivo X200T angled to showcase rear triple 50MP cameras with a prominent periscope telephoto lens and blue Zeiss-style accent, slick metallic finish, subtle circuit-pattern backdrop, crisp news lighting, no visible text or logos"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 4,
+    "title": "Samsung's 800 Million Device AI Takeover",
+    "summary": "Samsung aims to double its AI-enabled device footprint to 800 million units in 2026 by integrating Google Gemini across its product line. The strategy is designed to fend off competition from Apple and Chinese manufacturers.",
+    "engagement": "Medium",
+    "raw_text": "Samsung isn't playing around with AI adoption. They just announced a goal to have AI running on 800 million devices by the end of this year. That is nearly a billion phones, tablets, and probably fridges running Google's Gemini models. They are doubling down on their partnership with Google to basically brute-force AI into everyone's hands. This is clearly a defensive move against Apple Intelligence and the rising Chinese brands, but for us consumers, it means features like live translation and AI photo editing are about to become standard everywhere, not just on the flagship S-series. Whether you want it or not, your next gadget is going to have a brain.",
+    "id": "SAMSUAI800M",
+    "category": "Mobile",
+    "companies": [
+      "Samsung",
+      "Google",
+      "Apple"
+    ],
+    "people": [
+      "T.M. Roh"
+    ],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/SAMSUAI800M.png",
+    "image_prompt": "High-res news image: Samsung devices\u2014phone, TV, fridge, smartwatch, laptop\u2014on glossy surface, linked by glowing blue network converging into a twin-orb hologram above, faint world map backdrop, sleek futuristic, competitive mood; no on-screen text"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Nvidia Drops $2 Billion on CoreWeave for 'AI Factories'",
+    "summary": "Nvidia has invested another $2 billion in CoreWeave, a specialized cloud provider, to build massive 'AI factory' data centers. The deal helps Nvidia secure a dedicated infrastructure partner as hyperscalers build their own chips.",
+    "engagement": "Medium",
+    "raw_text": "Nvidia is playing 4D chess right now. Aside from that massive Groq deal, they just poured another $2 billion into CoreWeave. If you don't know CoreWeave, they used to be crypto miners, but now they are basically Nvidia's favorite cloud partner. While Amazon and Microsoft are busy building their own chips to dump Nvidia, Nvidia is funding CoreWeave to build massive 'AI Factories' full of... you guessed it, Nvidia GPUs. It's a strategic pincer movement. Nvidia is ensuring there's always a massive customer for their chips, even if the big tech giants try to cut them out. It's a huge bet on the future of specialized AI clouds.",
+    "id": "NVDACOREWEAVE",
+    "category": "Business",
+    "companies": [
+      "Nvidia",
+      "CoreWeave"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/NVDACOREWEAVE.png",
+    "image_prompt": "Photo-realistic image of a massive \"AI factory\" data center: towering rows of GPU server racks glowing lime-green, industrial hall with cranes and engineers in safety vests inspecting hardware, dramatic cinematic lighting, high detail"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Act as a top-tier tech news aggregator and researc (65).pdf",
+    "page": 4,
+    "title": "IonQ Buys SkyWater for $1.8B: Quantum Goes Vertical",
+    "summary": "Quantum computing firm IonQ is acquiring semiconductor foundry SkyWater Technology for $1.8 billion to secure a domestic manufacturing supply chain. The deal accelerates their roadmap for a 200,000-qubit processor.",
+    "engagement": "Medium",
+    "raw_text": "Quantum computing just got real. IonQ is buying a literal chip factory, SkyWater Technology, for $1.8 billion. This is a big deal because usually, quantum startups just design the stuff and hope someone else can build it. By owning the factory, IonQ is going full vertical integration\u2014think Tesla but for quantum physics. They say this is going to speed up their 200,000-qubit processor by a full year. Plus, SkyWater is a trusted supplier for the US government, so IonQ just locked down some serious defense contracts. If you follow hard tech, this is the moment quantum starts looking less like a science experiment and more like an industry.",
+    "id": "IONQSKY18",
+    "category": "Science",
+    "companies": [
+      "IonQ",
+      "SkyWater Technology"
+    ],
+    "people": [
+      "Thomas Stierman"
+    ],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/IONQSKY18.png",
+    "image_prompt": "Photorealistic news photo: engineer in cleanroom suit holding a silicon wafer etched with faint glowing quantum circuitry, behind them a vertical stack of chip modules and a modern foundry interior, cool blue lighting, confident, forward-looking mood."
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregator Report Request (5).pdf",
+    "page": 7,
+    "title": "Synthesia hits $4B Valuation with 'Agentic Avatars'",
+    "summary": "Synthesia has raised $200 million at a $4 billion valuation, pivoting from simple AI videos to interactive 'AI Agents' for enterprise. The new avatars can read documents and converse with employees, automating corporate knowledge work.",
+    "engagement": "Medium",
+    "raw_text": "Those eerie AI avatars are getting a massive upgrade. Synthesia just raised $200 million and is now worth $4 billion. But they aren't just making training videos anymore; they are building 'Agentic Avatars.' Imagine an AI face that doesn't just read a script but can actually read your company's entire handbook and then answer your questions in real-time. It's like a face for ChatGPT. They've already got 90% of the Fortune 100 using them. It's a little creepy, sure, but it's clearly where corporate training and customer support are going. We are moving from 'generating media' to 'interacting with media.'",
+    "id": "SYNTHESIA4B",
+    "category": "AI",
+    "companies": [
+      "Synthesia",
+      "Google Ventures"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/SYNTHESIA4B.png",
+    "image_prompt": "Photorealistic corporate scene: a lifelike AI avatar hologram conversing with diverse employees in a modern office; hovering documents and analytics on glass screens, cool cinematic lighting, professional, focused, high-detail."
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 2,
+    "title": "Nvidia & Eli Lilly's $1 Billion AI Drug Lab",
+    "summary": "Nvidia and Eli Lilly are partnering to build a $1 billion AI drug discovery lab in San Francisco. The facility will combine biological wet labs with AI dry labs to automate and accelerate pharmaceutical development.",
+    "engagement": "Medium",
+    "raw_text": "This is where AI actually saves lives. Nvidia and Eli Lilly are dropping $1 billion to build a super-lab in San Francisco. It's a mix of a biological 'wet lab' and an AI 'dry lab.' Basically, robots will do experiments, feed the data to Nvidia's AI, which will then design the next experiment, in a continuous loop 24/7. This could shave years off drug discovery. We're talking about finding cures for diseases faster than humans ever could alone. It's a huge bet that biology is basically just another data processing problem that AI can solve.",
+    "id": "NVDAELILILLY",
+    "category": "Science",
+    "companies": [
+      "Nvidia",
+      "Eli Lilly"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/NVDAELILILLY.png",
+    "image_prompt": "Photorealistic image of a cutting\u2011edge San Francisco lab blending wet benches and robotic liquid handlers with a row of GPU racks and holographic molecular models; diverse scientists in PPE collaborate; glass walls reveal Golden Gate skyline; cool blue, high-tech lighting."
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 2,
+    "title": "Intel's Panther Lake Chips Bring AI to Laptops",
+    "summary": "Intel launched its Core Ultra Series 3 'Panther Lake' processors, built on the 18A process with a focus on AI performance. The chips feature a 50-TOPS NPU and are aimed at powering the next generation of 'AI PCs'.",
+    "engagement": "Medium",
+    "raw_text": "Intel is fighting back. They just released the Core Ultra Series 3, codenamed Panther Lake, and it's their first chip on the new 18A process. The big selling point? A massive 50-TOPS Neural Processing Unit (NPU) built right in. This is Intel trying to own the 'AI PC' market, making sure your laptop can run local AI models without destroying your battery. They're claiming huge gains in gaming and multithreaded performance too. Laptops with these chips start shipping today. If you've been waiting to upgrade, this might be the generation that actually matters.",
+    "id": "fc83399a",
+    "category": "Hardware",
+    "companies": [
+      "Intel"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/fc83399a.png",
+    "image_prompt": "Realistic high-res news image: close-up of a slim laptop on a modern desk, a metallic CPU chip hovering above the keyboard with glowing circuit traces and holographic neural-network overlays. Cool blue-silver tones, cinematic lighting, shallow depth of field, crisp professional detail"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Act as a top-tier tech news aggregator and researc (65).pdf",
+    "page": 5,
+    "title": "Helixer AI Solves Gene Annotation",
+    "summary": "Researchers have published 'Helixer', a deep learning tool that automates gene annotation across species with near-human accuracy. The tool removes a decades-old bottleneck in genomics, enabling rapid analysis of new genomes.",
+    "engagement": "Low",
+    "raw_text": "Quick science update: researchers just published a new AI tool called Helixer in Nature Methods, and it solves a massive headache in biology. Basically, figuring out where genes are in a DNA sequence used to take humans months. Helixer does it instantly using deep learning, and it works on everything from plants to fungi. It's a huge win for things like crop research and medicine, proving that AI is revolutionizing the boring, hard parts of science just as much as the flashy stuff.",
+    "id": "HELIXERGENE",
+    "category": "Science",
+    "companies": [
+      "Forschungszentrum J\u00fclich"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/HELIXERGENE.png",
+    "image_prompt": "High\u2011res photo\u2011real scene in a modern genomics lab: diverse researchers clustered around a glowing monitor showing colorful gene maps and a DNA helix, subtle holographic AI mesh above the screen, warm cinematic lighting, crisp news\u2011photo composition"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregator Report Request (5).pdf",
+    "page": 7,
+    "title": "DeepMind's D4RT Understands the World in 4D",
+    "summary": "Google DeepMind released D4RT, a new AI model capable of reconstructing and tracking 3D scenes in motion (4D). The technology is a breakthrough for robotics and autonomous driving, allowing machines to understand physics and time.",
+    "engagement": "Low",
+    "raw_text": "DeepMind is showing off again. They just dropped D4RT, a new AI that understands the world in 4D\u2014that's 3D plus time. Most computer vision struggles with things moving around, but D4RT can track objects and reconstruct scenes dynamically. This is the kind of foundational tech that robots need to stop bumping into things and that self-driving cars need to understand complex traffic. It's distinctively nerdy, but it's the building block for the next generation of visual AI.",
+    "id": "DEEPMINDD4RT",
+    "category": "AI",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/DEEPMINDD4RT.png",
+    "image_prompt": "Photorealistic urban street at dusk: an autonomous car and a service robot track moving pedestrians with translucent 3D wireframes, floating point-cloud motion trails and holographic depth maps; engineers watch on tablets, cinematic cool lighting"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Highlights \u2013 January 27, 2026.pdf",
+    "page": 1,
+    "title": "DeepSeek's Efficient AI Training Framework",
+    "summary": "Chinese AI startup DeepSeek has published a new training method called 'Manifold-Constrained Hyper-Connections' to improve model scalability. The research highlights China's focus on software efficiency to counter hardware restrictions.",
+    "engagement": "Low",
+    "raw_text": "DeepSeek, a Chinese AI lab, just published a new paper on a training method that makes building AI models way more efficient. It's called Manifold-Constrained Hyper-Connections... yeah, a mouthful. But the point is, with hardware sanctions limiting their access to Nvidia chips, Chinese researchers are getting incredibly good at optimizing software to do more with less. It's a reminder that the AI race isn't just about who has the most GPUs, but who has the smartest math.",
+    "id": "DEEPSEEKMANI",
+    "category": "AI",
+    "companies": [
+      "DeepSeek"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/DEEPSEEKMANI.png",
+    "image_prompt": "Photorealistic newsroom-style image of a Chinese AI startup lab: diverse engineers around screens displaying complex neural network visuals and glowing manifold-shaped connection overlays, compact server racks, modern Shanghai skyline through window, focused, efficient mood"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregator Report Request (5).pdf",
+    "page": 8,
+    "title": "Claroty Raises $150M for Cyber-Physical Security",
+    "summary": "Cybersecurity firm Claroty raised $150 million at a $3 billion valuation to secure critical infrastructure. The funding will support AI-driven threat detection for operational technology like power grids and pipelines.",
+    "engagement": "Low",
+    "raw_text": "Claroty just raised $150 million to protect the stuff that actually matters\u2014power grids, water plants, and pipelines. As everything gets connected to the cloud, 'Cyber-Physical' attacks are becoming a real nightmare. Claroty is using this cash to build AI that detects threats in these industrial systems. It's not flashy consumer tech, but keeping the lights on and the water running is pretty important, so this is a solid win for infrastructure security.",
+    "id": "CLAROTY150M",
+    "category": "Business",
+    "companies": [
+      "Claroty"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T02:34:34.000Z",
+    "image_url": "images/27_01_26/CLAROTY150M.png",
+    "image_prompt": "Photorealistic newsroom image: control room of industrial control center, engineers monitor large screens showing holographic overlays of power grid and pipeline maps, AI threat-detection visualizations, cool blue tones, dramatic lighting, crisp news-style composition"
+  }
+]
