@@ -1,182 +1,216 @@
 [
   {
     "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "NASA AI Finds 800+ Hidden Objects in Hubble Data",
+    "summary": "NASA used a new AI tool called 'Anomaly Match' to scan Hubble's archive, discovering over 800 previously unknown cosmic phenomena in just days. The findings include merging galaxies and gravitational lenses that human analysis had missed for decades.",
+    "engagement": "High",
+    "raw_text": "So check this out, NASA just dropped something incredible. We all know the Hubble Space Telescope has been staring at the void for over 35 years, right? Well, it turns out we missed a ton of stuff. NASA unleashed a new AI tool called 'Anomaly Match' on the Hubble archives, and in just two and a half days, it found over 800 never-before-seen cosmic objects! We're talking rare gravitational lenses, merging galaxies—stuff that human astronomers completely overlooked because the dataset was just too massive. This is honestly huge because it proves AI isn't just for writing emails; it's literally unlocking the secrets of the universe that were hiding in plain sight. If we missed this much in Hubble's data, imagine what's hiding in the James Webb archives!",
+    "id": "a1b2c3d4",
+    "category": "Science",
+    "companies": ["NASA", "ESA"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 1,
+    "title": "Quantum Leap: D-Wave Usage Surges 314% & New Hybrid Tech",
+    "summary": "D-Wave Quantum Inc. reported a 314% increase in commercial usage and announced a new hybrid roadmap bridging annealing and gate-model architectures. They also introduced 'Multicolor Annealing' to optimize complex variables independently.",
+    "engagement": "Medium",
+    "raw_text": "Quantum computing has always felt like this far-off sci-fi dream, but D-Wave is proving it's happening right now. They just announced a massive 314% surge in commercial usage for their annealing systems. Companies aren't just testing this stuff anymore; they're using it for real-world logistics and financial modeling. But here's the cool technical part: they introduced something called 'Multicolor Annealing.' Imagine trying to solve a puzzle where you can freeze the pieces you've already solved while shaking the rest of the board to fix the messy parts. That's basically what this does. It's moving quantum from 'science experiment' to 'industrial tool,' and frankly, the market is finally waking up to it.",
+    "id": "q9r8s7t6",
+    "category": "Hardware",
+    "companies": ["D-Wave Quantum Inc.", "Quantum Circuits Inc."],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 1,
+    "title": "UK Gov Partners with Anthropic for 'Sovereign AI'",
+    "summary": "The UK government has partnered with Anthropic to integrate Claude into GOV.UK services, focusing on employment and public service navigation. The deal emphasizes 'Sovereign AI,' ensuring safety and state control over cognitive infrastructure.",
+    "engagement": "High",
+    "raw_text": "This is a pivotal moment for how governments use AI. The UK just teamed up with Anthropic to put Claude—yes, the chatbot—directly into the GOV.UK website. But it's not just a customer service bot. They're calling it 'Sovereign AI.' The idea is that the government needs to own and verify the 'brain' helping its citizens find jobs or benefits. Instead of just letting big tech run wild, the UK Safety Institute is red-teaming these models before they go live. It’s a stark contrast to what we're seeing elsewhere. While some countries are banning tools or struggling with regulations, the UK is literally hiring the AI to be a civil servant. Is this the future of bureaucracy? Probably.",
+    "id": "u5v4w3x2",
+    "category": "AI",
+    "companies": ["Anthropic", "UK Government"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Kimi K2.5: The Open-Source Model Beating GPT-5.2?",
+    "summary": "Moonshot AI released Kimi K2.5, a trillion-parameter open-source model capable of 'System 2' reasoning and spawning up to 100 sub-agents. Benchmarks suggest it outperforms GPT-5.2 on key multimodal tasks.",
+    "engagement": "High",
+    "raw_text": "Okay, the AI wars just got insanely heated. Moonshot AI out of China just dropped Kimi K2.5, and the specs are terrifyingly good. We're talking a trillion parameters and a native 'Thinking Mode' that rivals OpenAI's reasoning models. But here's the wild part: it has an 'Agent Swarm' feature. You give it one big task, and it can spawn up to 100 sub-agents to handle the details—frontend, backend, testing, all at once. It's basically an instant software development team in a box. The benchmarks claim it's beating GPT-5.2 on video tasks. If this is real, the gap between Western proprietary AI and Eastern open-source is officially gone. This is a game-changer for developers.",
+    "id": "k1l2m3n4",
+    "category": "AI",
+    "companies": ["Moonshot AI", "DeepSeek"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 3,
+    "title": "DeepSeek-OCR 2: AI That Reads Like a Human",
+    "summary": "DeepSeek released DeepSeek-OCR 2, using a 'Visual Causal Flow' to read documents based on semantic context rather than scanlines. This drastically reduces token usage and improves accuracy for complex layouts.",
+    "engagement": "Medium",
+    "raw_text": "DeepSeek is back at it, and while OCR sounds boring, this is actually revolutionary for anyone who works with data. They just launched DeepSeek-OCR 2. Traditional OCR reads top-to-bottom, left-to-right, which breaks when you have weird columns or charts. This new model uses 'Visual Causal Flow'—it basically looks at the page and decides the logical order to read, just like a human eye does. The best part? It uses way fewer tokens, making it insanely cheap to process massive archives of PDFs. They're removing the bottleneck that keeps human knowledge trapped in scanned documents. Efficiency is the name of the game in 2026.",
+    "id": "d4e5f6g7",
+    "category": "AI",
+    "companies": ["DeepSeek"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Tech Worker Revolt: 'ICEout.Tech' Protests Erupt",
+    "summary": "Hundreds of employees at Google, Meta, and OpenAI signed an open letter demanding their CEOs cut contracts with ICE and CBP following fatal shootings in Minnesota. The movement threatens to disrupt federal tech partnerships.",
+    "engagement": "High",
+    "raw_text": "Things are getting really tense in Silicon Valley right now. A massive coalition of workers from Google, Meta, and OpenAI just launched the 'ICEout.Tech' movement. This comes after some tragic incidents in Minnesota involving federal agents. These employees aren't just tweeting; they're demanding their CEOs personally call the White House and cancel all contracts with ICE and CBP immediately. It's a huge clash because these companies are trying to win massive government defense contracts, but their own engineers are saying 'absolutely not.' It’s a serious moral fracture that could lead to brain drain or even a government shutdown if lawmakers get involved. The 'neutrality' of big tech is officially dead.",
+    "id": "i9h8g7f6",
+    "category": "Business",
+    "companies": ["Google", "Meta", "OpenAI", "Microsoft"],
+    "people": ["Sundar Pichai", "Satya Nadella"],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-26",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Microsoft Launches Maia 200 Chip to Rival Nvidia",
+    "summary": "Microsoft unveiled the Maia 200, a custom 3nm AI inference chip boasting 216GB of HBM3e memory. It claims to offer 3x the performance of AWS Trainium and is already live in Azure datacenters.",
+    "engagement": "Medium",
+    "raw_text": "Microsoft is done relying solely on Nvidia. They just dropped the Maia 200, their own custom silicon for running AI. This beast is built on a 3nm process and packs 216 gigabytes of high-bandwidth memory. They're claiming it beats Google's TPU v7 and crushes AWS Trainium in performance per dollar. This is huge because it means Microsoft can run ChatGPT and Copilot way cheaper than before. It’s a direct shot at Nvidia's dominance, and it shows that the big players are serious about owning their own hardware stack. If you're using Azure, your AI just got a lot faster.",
+    "id": "m5n6o7p8",
+    "category": "Hardware",
+    "companies": ["Microsoft", "Nvidia", "AWS", "Google"],
+    "people": ["Scott Guthrie"],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 4,
+    "title": "Apple's Siri to Run on Google Gemini?",
+    "summary": "Apple and Google announced a partnership where future 'Apple Foundation Models' for Siri will utilize Google's Gemini AI and cloud infrastructure. Apple emphasized that on-device privacy standards will be maintained.",
+    "engagement": "High",
+    "raw_text": "This is the collaboration we suspected but didn't think would actually happen. Apple has officially tapped Google's Gemini to power the next generation of Siri. Yes, you heard that right. The iPhone's brain is going to be Google-powered. They're saying it's a multi-year deal where Siri will use Gemini for the heavy lifting in the cloud, while Apple handles the on-device privacy stuff. It's a massive admission that Apple's own AI models just aren't catching up fast enough. For us users, it means Siri might finally stop being... well, dumb. But it also means the two biggest rivals in tech are now inseparable.",
+    "id": "a1p2l3e4",
+    "category": "Business",
+    "companies": ["Apple", "Google"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "OpenAI 'Sweetpea': AI Earbuds Coming Soon?",
+    "summary": "Rumors indicate OpenAI is developing 'Sweetpea,' a pair of AI-enabled wireless earbuds. The device aims to provide a voice-driven, screen-free AI assistant experience.",
+    "engagement": "High",
+    "raw_text": "OpenAI isn't satisfied with just being on your screen; they want to be in your ears. Leaks are pointing to a new device codenamed 'Sweetpea'—OpenAI's first consumer hardware, which looks like smart earbuds. Imagine ChatGPT, but always listening and whispering answers, translations, or reminders directly to you without you ever pulling out a phone. It’s the 'Her' movie scenario coming to life. This is a bold pivot into hardware, and if they pull off the latency and voice quality, it could kill the need for screens for a lot of daily tasks. The race for 'ambient AI' is officially on.",
+    "id": "o9i8u7y6",
+    "category": "Hardware",
+    "companies": ["OpenAI"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
+    "page": 2,
+    "title": "NVIDIA Launches Earth-2: Open-Source Weather AI",
+    "summary": "NVIDIA released 'Earth-2,' a fully open-source AI platform for weather and climate forecasting. The system allows localized storm prediction and outperforms traditional physics-based models in speed and accuracy.",
+    "engagement": "Medium",
+    "raw_text": "NVIDIA is saving the planet, or at least helping us predict its moods. They just open-sourced 'Earth-2,' their massive AI weather forecasting platform. This isn't just a weather app; it's a generative AI that can predict storms and climate shifts at a kilometer scale, thousands of times faster than supercomputers. By making it open source, they're letting any researcher or government run high-fidelity climate models without needing a billion-dollar data center. It's already being used by agencies in Taiwan and Israel. This is exactly the kind of AI 'power for good' we need to see more of.",
+    "id": "n1v2i3d4",
+    "category": "Science",
+    "companies": ["NVIDIA"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
     "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
     "page": 3,
-    "title": "OpenAI Going Hardware? The "Sweetpea" Earbuds Rumor",
-    "summary": "Reports indicate OpenAI is developing its first consumer hardware, codenamed "Sweetpea,
-    " likely a pair of AI-enabled wireless earbuds. This move signals a shift towards screen-free, ambient AI computing.",
-    "engagement": "High",
-    "raw_text": "Okay, stop scrolling for a second because this is the rumor everyone is talking about today. OpenAI—the people who built ChatGPT—are reportedly building hardware. It’s codenamed "Sweetpea,
-    " and leaks suggest it’s a pair of AI-powered earbuds. Think about the movie *Her*. We are talking about a screen-free interface where the AI is just whispering in your ear, helping you navigate the world without you looking at your phone. If this is real, it totally changes the game. We're moving from typing into a box to having a constant, ambient assistant. Apple and Google should be terrified because if OpenAI controls the hardware *and* the brain, the iPhone just became a dumb pipe.",
-    "id": "oa1hw26sp",
-    "category": "Hardware",
-    "companies": [
-      "OpenAI"
-    ],
+    "title": "Zscaler Report: AI Security Risks Surge 91%",
+    "summary": "Zscaler's 2026 report reveals a 91% surge in enterprise AI usage, with 100% of tested systems showing critical vulnerabilities. The report warns of a massive 'oversight gap' as companies rush to adopt AI tools.",
+    "engagement": "Low",
+    "raw_text": "Here is the scary side of the AI boom. Zscaler just dropped a report saying enterprise AI usage jumped 91% last year, which sounds great, until you hear that their red team found critical vulnerabilities in 100% of the systems they tested. Literally all of them. Companies are rushing to deploy these tools without locking the doors, creating a massive security gap. We're talking about confidential data leaks and systems that can be cracked in minutes. It’s a classic case of innovation outpacing safety. If you're a CTO, this report should basically be your horror movie of the year.",
+    "id": "z5s4c3a2",
+    "category": "Cybersecurity",
+    "companies": ["Zscaler"],
     "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
+    "created_at": "2026-01-27T21:44:05.000Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
+    "page": 4,
+    "title": "Critical Microsoft Office Zero-Day Attack",
+    "summary": "A high-severity zero-day vulnerability (CVE-2026-21509) in Microsoft Office is being actively exploited in the wild. Microsoft has issued emergency patches, and CISA has mandated federal agencies to update immediately.",
+    "engagement": "Medium",
+    "raw_text": "If you use Microsoft Office, stop what you're doing and update right now. There is a nasty zero-day vulnerability (CVE-2026-21509) that hackers are actively exploiting in the wild. It bypasses security features in Office 2016 through 2021. It's so bad that the US government (CISA) has ordered all federal agencies to patch it by mid-February. There's no public proof-of-concept yet, which usually means sophisticated hackers are using it quietly for targeted attacks. Don't be the low-hanging fruit—patch your systems today.",
+    "id": "m9o8z7d6",
+    "category": "Cybersecurity",
+    "companies": ["Microsoft"],
+    "people": [],
+    "created_at": "2026-01-27T21:44:05.000Z"
   },
   {
     "date": "2026-01-27",
     "source_file": "Combined",
-    "page": 5,
-    "title": "Apple Surrenders? Siri Will Run on Google Gemini",
-    "summary": "In a major strategic partnership, Apple has announced that future versions of Siri and Apple Foundation Models will be powered by Google's Gemini AI. The collaboration aims to bring personalized capabilities to Apple devices later this year.",
-    "engagement": "High",
-    "raw_text": "This is the collaboration of the decade. Apple and Google—the bitterest rivals in mobile—just announced that the next generation of Siri is going to be powered by Google's Gemini. Honestly, this is huge. It basically means Apple realized their own AI models weren't catching up fast enough, so they swallowed their pride to give us a Siri that actually works. They claim it’s still private and runs partly on-device, but let’s be real: your iPhone is about to get a Google brain transplant. This proves that even the biggest walled gardens are opening up because the AI race is just too expensive to fight alone.",
-    "id": "applgem26",
-    "category": "AI",
-    "companies": [
-      "Apple",
-      "Google"
-    ],
-    "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
-    "page": 1,
-    "title": "Silicon Valley Revolt: The "ICEout.Tech" Protests",
-    "summary": "A coalition of over 450 employees from Google, Meta, and OpenAI has launched the "ICEout.Tech" movement, demanding the severance of government contracts following fatal incidents involving federal agents. The protests highlight a growing rift between tech workers and defense/border operations.",
-    "engagement": "High",
-    "raw_text": "Things are getting incredibly tense in Silicon Valley right now. We’re seeing a massive employee revolt called "ICEout.Tech." Over 450 workers from Google, Meta, and OpenAI are demanding their CEOs cut all contracts with US border and immigration agencies. This was triggered by some tragic events in Minnesota recently, and it’s turned into a full-blown moral crisis. It’s the "Project Maven" protests all over again but way more intense. These companies are trying to win billion-dollar government defense contracts, but their own engineers are saying 'absolutely not.' It’s a massive culture clash that could actually threaten the future of American AI development if the talent decides to walk out.",
-    "id": "iceout26rv",
+    "page": 3,
+    "title": "Ricursive Intelligence Raises $300M for AI Chip Design",
+    "summary": "Ricursive Intelligence, founded by former DeepMind researchers, raised $300M to build an AI platform that designs computer chips. The system creates a recursive loop where AI designs better hardware to run better AI.",
+    "engagement": "Medium",
+    "raw_text": "This is very meta: AI is now designing the chips that run AI. A startup called Ricursive Intelligence just raised $300 million, led by the same researchers who built AlphaChip at Google DeepMind. Their whole pitch is a 'recursive' loop—using AI software to design silicon chips that are optimized specifically for... you guessed it, more AI software. It speeds up the chip design cycle from years to months. Investors are betting big that the only way to keep up with Moore's Law is to take humans out of the driver's seat for chip architecture. It's machines building machines, folks.",
+    "id": "r1i2c3u4",
     "category": "Business",
     "companies": [
-      "Google",
-      "Meta",
-      "OpenAI",
-      "Amazon",
-      "Microsoft"
-    ],
-    "people": [
-      "Sundar Pichai",
-      "Satya Nadella"
-    ],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
-    "page": 2,
-    "title": "China's "Thinking" Model: Kimi K2.5 Challenges GPT-5",
-    "summary": "Moonshot AI has released Kimi K2.5, a trillion-parameter model featuring a "Thinking Mode" and agentic swarm capabilities. Benchmarks suggest it outperforms GPT-5.2 on key multimodal tasks.",
-    "engagement": "High",
-    "raw_text": "If you thought the US had the AI race locked down, look at this. Moonshot AI just dropped Kimi K2.5, and it is a beast. We’re talking a trillion parameters and a native "Thinking Mode"—basically System 2 reasoning that allows it to plan and self-correct before it answers. Sound familiar? It’s exactly what OpenAI has been chasing. But here’s the kicker: it can spawn "Agent Swarms." It creates up to 100 sub-agents to do coding, testing, and backend work simultaneously. The benchmarks show it beating GPT-5.2 on video tasks. The gap is closing, folks. The export controls on chips clearly aren't stopping innovation over there.",
-    "id": "kimi25mns",
-    "category": "AI",
-    "companies": [
-      "Moonshot AI"
-    ],
-    "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Combined",
-    "page": 1,
-    "title": "Quantum is Industrializing: D-Wave's 314% Usage Surge",
-    "summary": "D-Wave reports a 314% year-over-year increase in commercial usage and validates a new hybrid annealing/gate-model roadmap. Meanwhile, UChicago researchers declare quantum tech has reached its "transistor moment,
-    " signaling a shift from theory to utility.",
-    "engagement": "Medium",
-    "raw_text": "We usually roll our eyes at Quantum news because it’s always '10 years away,' but D-Wave just dropped a stat that’s hard to ignore. Commercial usage of their systems is up 314% this year. That is not a typo. Companies are using this for real logistics and financial modeling *right now*, not in some distant future. They’ve also announced a hybrid roadmap that combines the best of both quantum worlds. Plus, a new report from UChicago calls this the 'Transistor Moment' for quantum. Basically, we are leaving the science experiment phase and entering the industrial phase. If you aren't paying attention to this sector, you're missing the next compute revolution.",
-    "id": "dwave314q",
-    "category": "Science",
-    "companies": [
-      "D-Wave",
+      "Ricursive Intelligence",
+      "Lightspeed Venture Partners",
       "Nvidia"
     ],
-    "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
+    "people": ["Dr. Anna Goldie", "Dr. Azalia Mirhoseini"],
+    "created_at": "2026-01-27T21:44:05.000Z"
   },
   {
-    "date": "2026-01-27",
+    "date": "2026-01-19",
     "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
     "page": 2,
-    "title": "Microsoft vs. Nvidia: The Maia 200 Chip is Here",
-    "summary": "Microsoft unveiled the Maia 200, a custom 3nm AI inference chip boasting 216 GB of HBM3e memory. It claims to outperform Google's TPU v7 and offers 3x the efficiency of AWS Trainium, positioning Azure to reduce reliance on Nvidia.",
+    "title": "World's First Open-Source Quantum Computer",
+    "summary": "The University of Waterloo and Open Quantum Design released the full stack designs for a trapped-ion quantum computer. The non-profit initiative aims to democratize access to quantum hardware designs for researchers.",
     "engagement": "Medium",
-    "raw_text": "The chip wars just got hotter. Microsoft isn't content just buying Nvidia H100s anymore; they just launched their own beast, the Maia 200. It’s built on a 3nm process with 216 gigs of memory, and Microsoft claims it beats Google's TPU v7. This is strictly for 'inference'—running the models, not training them—which is where the real money is long-term. By building this in-house, Microsoft drastically cuts their costs for running Copilot and GPT-5. Nvidia should be watching this closely because every Maia chip Microsoft plugs in is one less GPU they buy from Jensen. The infrastructure is becoming as important as the AI itself.",
-    "id": "maia200ms",
-    "category": "Hardware",
-    "companies": [
-      "Microsoft",
-      "Nvidia",
-      "Google"
-    ],
+    "raw_text": "We finally have an 'Arduino moment' for quantum computing. Researchers at the University of Waterloo just open-sourced the entire design for a trapped-ion quantum computer. I mean everything—hardware schematics, control electronics, code, the works. It's called Open Quantum Design, and it's a non-profit trying to break the monopoly that big tech giants have on this tech. Now, any university lab or serious startup can build their own quantum rig without paying millions in licensing fees. This is how you democratize a revolution.",
+    "id": "u1w2q3d4",
+    "category": "Science",
+    "companies": ["University of Waterloo", "Open Quantum Design"],
     "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
-    "page": 4,
-    "title": "Apple's Rapid Fire Silicon: M6 Chip Coming in 2026?",
-    "summary": "Leaks suggest Apple is accelerating its silicon roadmap, with M5 Pro/Max arriving in early 2026 and the M6 potentially debuting by late 2026. This compressed 12-month cycle aims to counter rising competition from Qualcomm and Intel.",
-    "engagement": "High",
-    "raw_text": "If you just bought a MacBook, I have bad news. Reports are leaking that Apple is hitting the gas on their silicon roadmap. We’re expecting the M5 chips early this year, but the wild part is that the M6 might drop *late* in 2026. That’s a 12-month upgrade cycle! They haven't moved that fast since the early iPhone days. Why? Because Windows on ARM is finally good, and Intel is fighting back. Apple knows they can't sit on a lead anymore. We’re also hearing about a major OLED redesign. Basically, if you can wait to upgrade, you probably should.",
-    "id": "applem6lk",
-    "category": "Hardware",
-    "companies": [
-      "Apple",
-      "Qualcomm",
-      "Intel"
-    ],
-    "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
+    "created_at": "2026-01-27T21:44:05.000Z"
   },
   {
     "date": "2026-01-27",
     "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
-    "page": 6,
-    "title": "TikTok Down: Massive 36-Hour Outage Hits Creators",
-    "summary": "A power failure at a partner data center caused a cascading 36-hour outage for TikTok in the US and Europe, freezing view counts and breaking algorithms. The incident highlights the fragility of centralized infrastructure for billion-user platforms.",
+    "page": 7,
+    "title": "Vivo X200T Launch: Premium Features for India",
+    "summary": "Vivo launched the X200T in India, featuring a MediaTek Dimensity 9400+ chip, ZEISS optics, and a massive 6200mAh battery. The device targets the premium segment with 'Everyday Flagship' reliability.",
     "engagement": "High",
-    "raw_text": "Did your TikTok feed feel broken yesterday? You weren't crazy. A massive outage took down TikTok for over 36 hours across the US and Europe. View counts froze at zero, uploads failed, and the algorithm completely broke. It turns out a single power failure at a partner data center caused a cascade that their systems couldn't handle. For a platform with a billion users, being down for a day and a half is an eternity. It really shows how fragile these massive content engines actually are. Creators were panicking because, let's face it, if the algo stops, the money stops.",
-    "id": "ttokout26",
+    "raw_text": "Smartphone fans in India, listen up. Vivo just dropped the X200T, and it's looking like a beast. We're talking a MediaTek Dimensity 9400+ processor, a massive 6200mAh battery that probably lasts two days, and of course, those sweet ZEISS camera optics. They're positioning this as the 'everyday flagship'—reliable, powerful, but priced aggressively around 60,000 rupees. It’s also got some cool AI tricks for weather filters and landscape photos. If you're tired of charging your phone three times a day but still want top-tier performance, this might be the one to watch.",
+    "id": "v1i2v3o4",
     "category": "Mobile",
-    "companies": [
-      "TikTok"
-    ],
+    "companies": ["Vivo"],
     "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
-    "page": 2,
-    "title": "Predicting the Future: NVIDIA Launches Earth-2",
-    "summary": "NVIDIA has officially launched Earth-2, an open-source AI weather prediction platform. It runs 1,000x faster than traditional simulations and includes a "Nowcasting" model that generates kilometer-scale forecasts in seconds.",
-    "engagement": "Medium",
-    "raw_text": "This is one of the coolest uses of AI that has nothing to do with chatbots. Nvidia just launched Earth-2, a fully open-source digital twin of our planet's atmosphere. It uses AI to predict weather 1,000 times faster than traditional supercomputers. We are talking about kilometer-scale forecasts generated in seconds. This isn't just about knowing if it'll rain; it's about predicting extreme storms and climate change impacts with insane precision. And because it's open-source, researchers everywhere can use it. This is AI actually saving the world, not just writing emails.",
-    "id": "nvearth2",
-    "category": "Science",
-    "companies": [
-      "Nvidia"
-    ],
-    "people": [
-      "Jensen Huang"
-    ],
-    "created_at": "2026-01-27T21:32:03Z"
-  },
-  {
-    "date": "2026-01-27",
-    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
-    "page": 1,
-    "title": "AI Finds "Aliens"? Hubble Archive Reveals 1,000 Anomalies",
-    "summary": "NASA reports that an AI tool named "Anomaly Match" scanned 35 years of Hubble data in just 2.5 days, discovering over 1,000 previously unseen cosmic anomalies, including rare gravitational lenses and merging galaxies.",
-    "engagement": "Medium",
-    "raw_text": "Space fans, check this out. NASA just pointed an AI at the Hubble Telescope's archives, and in just two and a half days, it found over a thousand "cosmic anomalies" that humans had missed for 35 years. We're talking merging galaxies, gravitational lenses, and 800 objects that we've literally never seen before. It would have taken astronomers lifetimes to comb through this data manually. The AI, called "Anomaly Match,
-    " just did it over a long weekend. It really makes you wonder—what else is hiding in our old data just waiting for an AI to notice it?",
-    "id": "hubbleai26",
-    "category": "Science",
-    "companies": [
-      "NASA",
-      "ESA"
-    ],
-    "people": [],
-    "created_at": "2026-01-27T21:32:03Z"
+    "created_at": "2026-01-27T21:44:05.000Z"
   }
 ]
