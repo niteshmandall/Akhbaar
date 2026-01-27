@@ -8,7 +8,6 @@ Akhbaar is a daily AI & Tech intelligence platform and an open dataset that turn
 
 - **Live Website**: [akhbaar.hoxlabs.com](https://akhbaar.hoxlabs.com)
 - **Open Dataset**: [Available Here](https://lnkd.in/gZKN3sBE)
-- [![Built with Pollinations.ai](https://img.shields.io/badge/Built%20with-Pollinations.ai-4B0082?logo=pollinations&logoColor=white)](https://pollinations.ai)
 
 ## 📦 Open Dataset Structure
 
