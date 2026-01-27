@@ -1,0 +1,182 @@
+[
+  {
+    "date": "2026-01-27",
+    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "page": 3,
+    "title": "OpenAI Going Hardware? The "Sweetpea" Earbuds Rumor",
+    "summary": "Reports indicate OpenAI is developing its first consumer hardware, codenamed "Sweetpea,
+    " likely a pair of AI-enabled wireless earbuds. This move signals a shift towards screen-free, ambient AI computing.",
+    "engagement": "High",
+    "raw_text": "Okay, stop scrolling for a second because this is the rumor everyone is talking about today. OpenAI—the people who built ChatGPT—are reportedly building hardware. It’s codenamed "Sweetpea,
+    " and leaks suggest it’s a pair of AI-powered earbuds. Think about the movie *Her*. We are talking about a screen-free interface where the AI is just whispering in your ear, helping you navigate the world without you looking at your phone. If this is real, it totally changes the game. We're moving from typing into a box to having a constant, ambient assistant. Apple and Google should be terrified because if OpenAI controls the hardware *and* the brain, the iPhone just became a dumb pipe.",
+    "id": "oa1hw26sp",
+    "category": "Hardware",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "page": 5,
+    "title": "Apple Surrenders? Siri Will Run on Google Gemini",
+    "summary": "In a major strategic partnership, Apple has announced that future versions of Siri and Apple Foundation Models will be powered by Google's Gemini AI. The collaboration aims to bring personalized capabilities to Apple devices later this year.",
+    "engagement": "High",
+    "raw_text": "This is the collaboration of the decade. Apple and Google—the bitterest rivals in mobile—just announced that the next generation of Siri is going to be powered by Google's Gemini. Honestly, this is huge. It basically means Apple realized their own AI models weren't catching up fast enough, so they swallowed their pride to give us a Siri that actually works. They claim it’s still private and runs partly on-device, but let’s be real: your iPhone is about to get a Google brain transplant. This proves that even the biggest walled gardens are opening up because the AI race is just too expensive to fight alone.",
+    "id": "applgem26",
+    "category": "AI",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 1,
+    "title": "Silicon Valley Revolt: The "ICEout.Tech" Protests",
+    "summary": "A coalition of over 450 employees from Google, Meta, and OpenAI has launched the "ICEout.Tech" movement, demanding the severance of government contracts following fatal incidents involving federal agents. The protests highlight a growing rift between tech workers and defense/border operations.",
+    "engagement": "High",
+    "raw_text": "Things are getting incredibly tense in Silicon Valley right now. We’re seeing a massive employee revolt called "ICEout.Tech." Over 450 workers from Google, Meta, and OpenAI are demanding their CEOs cut all contracts with US border and immigration agencies. This was triggered by some tragic events in Minnesota recently, and it’s turned into a full-blown moral crisis. It’s the "Project Maven" protests all over again but way more intense. These companies are trying to win billion-dollar government defense contracts, but their own engineers are saying 'absolutely not.' It’s a massive culture clash that could actually threaten the future of American AI development if the talent decides to walk out.",
+    "id": "iceout26rv",
+    "category": "Business",
+    "companies": [
+      "Google",
+      "Meta",
+      "OpenAI",
+      "Amazon",
+      "Microsoft"
+    ],
+    "people": [
+      "Sundar Pichai",
+      "Satya Nadella"
+    ],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 2,
+    "title": "China's "Thinking" Model: Kimi K2.5 Challenges GPT-5",
+    "summary": "Moonshot AI has released Kimi K2.5, a trillion-parameter model featuring a "Thinking Mode" and agentic swarm capabilities. Benchmarks suggest it outperforms GPT-5.2 on key multimodal tasks.",
+    "engagement": "High",
+    "raw_text": "If you thought the US had the AI race locked down, look at this. Moonshot AI just dropped Kimi K2.5, and it is a beast. We’re talking a trillion parameters and a native "Thinking Mode"—basically System 2 reasoning that allows it to plan and self-correct before it answers. Sound familiar? It’s exactly what OpenAI has been chasing. But here’s the kicker: it can spawn "Agent Swarms." It creates up to 100 sub-agents to do coding, testing, and backend work simultaneously. The benchmarks show it beating GPT-5.2 on video tasks. The gap is closing, folks. The export controls on chips clearly aren't stopping innovation over there.",
+    "id": "kimi25mns",
+    "category": "AI",
+    "companies": [
+      "Moonshot AI"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Quantum is Industrializing: D-Wave's 314% Usage Surge",
+    "summary": "D-Wave reports a 314% year-over-year increase in commercial usage and validates a new hybrid annealing/gate-model roadmap. Meanwhile, UChicago researchers declare quantum tech has reached its "transistor moment,
+    " signaling a shift from theory to utility.",
+    "engagement": "Medium",
+    "raw_text": "We usually roll our eyes at Quantum news because it’s always '10 years away,' but D-Wave just dropped a stat that’s hard to ignore. Commercial usage of their systems is up 314% this year. That is not a typo. Companies are using this for real logistics and financial modeling *right now*, not in some distant future. They’ve also announced a hybrid roadmap that combines the best of both quantum worlds. Plus, a new report from UChicago calls this the 'Transistor Moment' for quantum. Basically, we are leaving the science experiment phase and entering the industrial phase. If you aren't paying attention to this sector, you're missing the next compute revolution.",
+    "id": "dwave314q",
+    "category": "Science",
+    "companies": [
+      "D-Wave",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "page": 2,
+    "title": "Microsoft vs. Nvidia: The Maia 200 Chip is Here",
+    "summary": "Microsoft unveiled the Maia 200, a custom 3nm AI inference chip boasting 216 GB of HBM3e memory. It claims to outperform Google's TPU v7 and offers 3x the efficiency of AWS Trainium, positioning Azure to reduce reliance on Nvidia.",
+    "engagement": "Medium",
+    "raw_text": "The chip wars just got hotter. Microsoft isn't content just buying Nvidia H100s anymore; they just launched their own beast, the Maia 200. It’s built on a 3nm process with 216 gigs of memory, and Microsoft claims it beats Google's TPU v7. This is strictly for 'inference'—running the models, not training them—which is where the real money is long-term. By building this in-house, Microsoft drastically cuts their costs for running Copilot and GPT-5. Nvidia should be watching this closely because every Maia chip Microsoft plugs in is one less GPU they buy from Jensen. The infrastructure is becoming as important as the AI itself.",
+    "id": "maia200ms",
+    "category": "Hardware",
+    "companies": [
+      "Microsoft",
+      "Nvidia",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Tech News Aggregation and Analysis Prompt (4).docx",
+    "page": 4,
+    "title": "Apple's Rapid Fire Silicon: M6 Chip Coming in 2026?",
+    "summary": "Leaks suggest Apple is accelerating its silicon roadmap, with M5 Pro/Max arriving in early 2026 and the M6 potentially debuting by late 2026. This compressed 12-month cycle aims to counter rising competition from Qualcomm and Intel.",
+    "engagement": "High",
+    "raw_text": "If you just bought a MacBook, I have bad news. Reports are leaking that Apple is hitting the gas on their silicon roadmap. We’re expecting the M5 chips early this year, but the wild part is that the M6 might drop *late* in 2026. That’s a 12-month upgrade cycle! They haven't moved that fast since the early iPhone days. Why? Because Windows on ARM is finally good, and Intel is fighting back. Apple knows they can't sit on a lead anymore. We’re also hearing about a major OLED redesign. Basically, if you can wait to upgrade, you probably should.",
+    "id": "applem6lk",
+    "category": "Hardware",
+    "companies": [
+      "Apple",
+      "Qualcomm",
+      "Intel"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
+    "page": 6,
+    "title": "TikTok Down: Massive 36-Hour Outage Hits Creators",
+    "summary": "A power failure at a partner data center caused a cascading 36-hour outage for TikTok in the US and Europe, freezing view counts and breaking algorithms. The incident highlights the fragility of centralized infrastructure for billion-user platforms.",
+    "engagement": "High",
+    "raw_text": "Did your TikTok feed feel broken yesterday? You weren't crazy. A massive outage took down TikTok for over 36 hours across the US and Europe. View counts froze at zero, uploads failed, and the algorithm completely broke. It turns out a single power failure at a partner data center caused a cascade that their systems couldn't handle. For a platform with a billion users, being down for a day and a half is an eternity. It really shows how fragile these massive content engines actually are. Creators were panicking because, let's face it, if the algo stops, the money stops.",
+    "id": "ttokout26",
+    "category": "Mobile",
+    "companies": [
+      "TikTok"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Title_ Prompt 1_Content_ Act as a top-tier tech ne (11).pdf",
+    "page": 2,
+    "title": "Predicting the Future: NVIDIA Launches Earth-2",
+    "summary": "NVIDIA has officially launched Earth-2, an open-source AI weather prediction platform. It runs 1,000x faster than traditional simulations and includes a "Nowcasting" model that generates kilometer-scale forecasts in seconds.",
+    "engagement": "Medium",
+    "raw_text": "This is one of the coolest uses of AI that has nothing to do with chatbots. Nvidia just launched Earth-2, a fully open-source digital twin of our planet's atmosphere. It uses AI to predict weather 1,000 times faster than traditional supercomputers. We are talking about kilometer-scale forecasts generated in seconds. This isn't just about knowing if it'll rain; it's about predicting extreme storms and climate change impacts with insane precision. And because it's open-source, researchers everywhere can use it. This is AI actually saving the world, not just writing emails.",
+    "id": "nvearth2",
+    "category": "Science",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-01-27T21:23:10Z"
+  },
+  {
+    "date": "2026-01-27",
+    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "page": 1,
+    "title": "AI Finds "Aliens"? Hubble Archive Reveals 1,000 Anomalies",
+    "summary": "NASA reports that an AI tool named "Anomaly Match" scanned 35 years of Hubble data in just 2.5 days, discovering over 1,000 previously unseen cosmic anomalies, including rare gravitational lenses and merging galaxies.",
+    "engagement": "Medium",
+    "raw_text": "Space fans, check this out. NASA just pointed an AI at the Hubble Telescope's archives, and in just two and a half days, it found over a thousand "cosmic anomalies" that humans had missed for 35 years. We're talking merging galaxies, gravitational lenses, and 800 objects that we've literally never seen before. It would have taken astronomers lifetimes to comb through this data manually. The AI, called "Anomaly Match,
+    " just did it over a long weekend. It really makes you wonder—what else is hiding in our old data just waiting for an AI to notice it?",
+    "id": "hubbleai26",
+    "category": "Science",
+    "companies": [
+      "NASA",
+      "ESA"
+    ],
+    "people": [],
+    "created_at": "2026-01-27T21:23:10Z"
+  }
+]
