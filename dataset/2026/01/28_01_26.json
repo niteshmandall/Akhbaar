@@ -6,7 +6,7 @@
     "title": "NASA AI Finds 800+ Hidden Objects in Hubble Data",
     "summary": "NASA used a new AI tool called 'Anomaly Match' to scan Hubble's archive, discovering over 800 previously unknown cosmic phenomena in just days. The findings include merging galaxies and gravitational lenses that human analysis had missed for decades.",
     "engagement": "High",
-    "raw_text": "So check this out, NASA just dropped something incredible. We all know the Hubble Space Telescope has been staring at the void for over 35 years, right? Well, it turns out we missed a ton of stuff. NASA unleashed a new AI tool called 'Anomaly Match' on the Hubble archives, and in just two and a half days, it found over 800 never-before-seen cosmic objects! We're talking rare gravitational lenses, merging galaxies—stuff that human astronomers completely overlooked because the dataset was just too massive. This is honestly huge because it proves AI isn't just for writing emails; it's literally unlocking the secrets of the universe that were hiding in plain sight. If we missed this much in Hubble's data, imagine what's hiding in the James Webb archives!",
+    "raw_text": "So check this out, NASA just dropped something incredible. We all know the Hubble Space Telescope has been staring at the void for over 35 years, right? Well, it turns out we missed a ton of stuff. NASA unleashed a new AI tool called 'Anomaly Match' on the Hubble archives, and in just two and a half days, it found over 800 never-before-seen cosmic objects! We're talking rare gravitational lenses, merging galaxies\u2014stuff that human astronomers completely overlooked because the dataset was just too massive. This is honestly huge because it proves AI isn't just for writing emails; it's literally unlocking the secrets of the universe that were hiding in plain sight. If we missed this much in Hubble's data, imagine what's hiding in the James Webb archives!",
     "id": "28e63e34",
     "category": "Science",
     "companies": [
@@ -14,7 +14,9 @@
       "ESA"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/28e63e34.png",
+    "image_prompt": "Realistic news photo: scientist in dim lab watching a large monitor displaying Hubble deep-field, highlighted detections and translucent overlays of merging galaxies and gravitational lens arcs; Hubble telescope visible through window; cool blue lighting, awe-filled mood."
   },
   {
     "date": "2026-01-27",
@@ -31,7 +33,9 @@
       "Quantum Circuits Inc."
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/q9r8s7t6.png",
+    "image_prompt": "Photo\u2011realistic image: modern quantum lab with D\u2011Wave annealer rack glowing, multicolored light streams (red, green, blue, purple) weaving between annealer and a superconducting gate\u2011model chip on a workbench; two engineers observing, cool blue lighting, high detail"
   },
   {
     "date": "2026-01-27",
@@ -40,7 +44,7 @@
     "title": "UK Gov Partners with Anthropic for 'Sovereign AI'",
     "summary": "The UK government has partnered with Anthropic to integrate Claude into GOV.UK services, focusing on employment and public service navigation. The deal emphasizes 'Sovereign AI,' ensuring safety and state control over cognitive infrastructure.",
     "engagement": "High",
-    "raw_text": "This is a pivotal moment for how governments use AI. The UK just teamed up with Anthropic to put Claude—yes, the chatbot—directly into the GOV.UK website. But it's not just a customer service bot. They're calling it 'Sovereign AI.' The idea is that the government needs to own and verify the 'brain' helping its citizens find jobs or benefits. Instead of just letting big tech run wild, the UK Safety Institute is red-teaming these models before they go live. It’s a stark contrast to what we're seeing elsewhere. While some countries are banning tools or struggling with regulations, the UK is literally hiring the AI to be a civil servant. Is this the future of bureaucracy? Probably.",
+    "raw_text": "This is a pivotal moment for how governments use AI. The UK just teamed up with Anthropic to put Claude\u2014yes, the chatbot\u2014directly into the GOV.UK website. But it's not just a customer service bot. They're calling it 'Sovereign AI.' The idea is that the government needs to own and verify the 'brain' helping its citizens find jobs or benefits. Instead of just letting big tech run wild, the UK Safety Institute is red-teaming these models before they go live. It\u2019s a stark contrast to what we're seeing elsewhere. While some countries are banning tools or struggling with regulations, the UK is literally hiring the AI to be a civil servant. Is this the future of bureaucracy? Probably.",
     "id": "u5v4w3x2",
     "category": "AI",
     "companies": [
@@ -48,7 +52,9 @@
       "UK Government"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/u5v4w3x2.png",
+    "image_prompt": "Photorealistic news photo: UK minister in suit beside Union flag and stone government building, gesturing toward a translucent humanoid AI hologram above a laptop showing a government-style dashboard and a locked server rack; moody, high-detail, serious tone, no text or logos."
   },
   {
     "date": "2026-01-27",
@@ -57,7 +63,7 @@
     "title": "Kimi K2.5: The Open-Source Model Beating GPT-5.2?",
     "summary": "Moonshot AI released Kimi K2.5, a trillion-parameter open-source model capable of 'System 2' reasoning and spawning up to 100 sub-agents. Benchmarks suggest it outperforms GPT-5.2 on key multimodal tasks.",
     "engagement": "High",
-    "raw_text": "Okay, the AI wars just got insanely heated. Moonshot AI out of China just dropped Kimi K2.5, and the specs are terrifyingly good. We're talking a trillion parameters and a native 'Thinking Mode' that rivals OpenAI's reasoning models. But here's the wild part: it has an 'Agent Swarm' feature. You give it one big task, and it can spawn up to 100 sub-agents to handle the details—frontend, backend, testing, all at once. It's basically an instant software development team in a box. The benchmarks claim it's beating GPT-5.2 on video tasks. If this is real, the gap between Western proprietary AI and Eastern open-source is officially gone. This is a game-changer for developers.",
+    "raw_text": "Okay, the AI wars just got insanely heated. Moonshot AI out of China just dropped Kimi K2.5, and the specs are terrifyingly good. We're talking a trillion parameters and a native 'Thinking Mode' that rivals OpenAI's reasoning models. But here's the wild part: it has an 'Agent Swarm' feature. You give it one big task, and it can spawn up to 100 sub-agents to handle the details\u2014frontend, backend, testing, all at once. It's basically an instant software development team in a box. The benchmarks claim it's beating GPT-5.2 on video tasks. If this is real, the gap between Western proprietary AI and Eastern open-source is officially gone. This is a game-changer for developers.",
     "id": "k1l2m3n4",
     "category": "AI",
     "companies": [
@@ -74,14 +80,16 @@
     "title": "DeepSeek-OCR 2: AI That Reads Like a Human",
     "summary": "DeepSeek released DeepSeek-OCR 2, using a 'Visual Causal Flow' to read documents based on semantic context rather than scanlines. This drastically reduces token usage and improves accuracy for complex layouts.",
     "engagement": "Medium",
-    "raw_text": "DeepSeek is back at it, and while OCR sounds boring, this is actually revolutionary for anyone who works with data. They just launched DeepSeek-OCR 2. Traditional OCR reads top-to-bottom, left-to-right, which breaks when you have weird columns or charts. This new model uses 'Visual Causal Flow'—it basically looks at the page and decides the logical order to read, just like a human eye does. The best part? It uses way fewer tokens, making it insanely cheap to process massive archives of PDFs. They're removing the bottleneck that keeps human knowledge trapped in scanned documents. Efficiency is the name of the game in 2026.",
+    "raw_text": "DeepSeek is back at it, and while OCR sounds boring, this is actually revolutionary for anyone who works with data. They just launched DeepSeek-OCR 2. Traditional OCR reads top-to-bottom, left-to-right, which breaks when you have weird columns or charts. This new model uses 'Visual Causal Flow'\u2014it basically looks at the page and decides the logical order to read, just like a human eye does. The best part? It uses way fewer tokens, making it insanely cheap to process massive archives of PDFs. They're removing the bottleneck that keeps human knowledge trapped in scanned documents. Efficiency is the name of the game in 2026.",
     "id": "d4e5f6g7",
     "category": "AI",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/d4e5f6g7.png",
+    "image_prompt": "Photorealistic newsroom: a researcher studies a complex multi-column document as a translucent holographic AI neural flow overlays semantic nodes and glowing pathways, highlighting sections; cool blue tones, shallow depth of field, modern high-tech realism"
   },
   {
     "date": "2026-01-27",
@@ -90,7 +98,7 @@
     "title": "Tech Worker Revolt: 'ICEout.Tech' Protests Erupt",
     "summary": "Hundreds of employees at Google, Meta, and OpenAI signed an open letter demanding their CEOs cut contracts with ICE and CBP following fatal shootings in Minnesota. The movement threatens to disrupt federal tech partnerships.",
     "engagement": "High",
-    "raw_text": "Things are getting really tense in Silicon Valley right now. A massive coalition of workers from Google, Meta, and OpenAI just launched the 'ICEout.Tech' movement. This comes after some tragic incidents in Minnesota involving federal agents. These employees aren't just tweeting; they're demanding their CEOs personally call the White House and cancel all contracts with ICE and CBP immediately. It's a huge clash because these companies are trying to win massive government defense contracts, but their own engineers are saying 'absolutely not.' It’s a serious moral fracture that could lead to brain drain or even a government shutdown if lawmakers get involved. The 'neutrality' of big tech is officially dead.",
+    "raw_text": "Things are getting really tense in Silicon Valley right now. A massive coalition of workers from Google, Meta, and OpenAI just launched the 'ICEout.Tech' movement. This comes after some tragic incidents in Minnesota involving federal agents. These employees aren't just tweeting; they're demanding their CEOs personally call the White House and cancel all contracts with ICE and CBP immediately. It's a huge clash because these companies are trying to win massive government defense contracts, but their own engineers are saying 'absolutely not.' It\u2019s a serious moral fracture that could lead to brain drain or even a government shutdown if lawmakers get involved. The 'neutrality' of big tech is officially dead.",
     "id": "i9h8g7f6",
     "category": "Business",
     "companies": [
@@ -103,7 +111,9 @@
       "Sundar Pichai",
       "Satya Nadella"
     ],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/i9h8g7f6.png",
+    "image_prompt": "Realistic news photo: diverse tech employees protesting outside a glass corporate campus at dusk, holding blank signs and raised fists, visible lanyards and blurred laptop stickers, tense determined faces, security guards and police nearby, overcast moody light"
   },
   {
     "date": "2026-01-26",
@@ -112,7 +122,7 @@
     "title": "Microsoft Launches Maia 200 Chip to Rival Nvidia",
     "summary": "Microsoft unveiled the Maia 200, a custom 3nm AI inference chip boasting 216GB of HBM3e memory. It claims to offer 3x the performance of AWS Trainium and is already live in Azure datacenters.",
     "engagement": "Medium",
-    "raw_text": "Microsoft is done relying solely on Nvidia. They just dropped the Maia 200, their own custom silicon for running AI. This beast is built on a 3nm process and packs 216 gigabytes of high-bandwidth memory. They're claiming it beats Google's TPU v7 and crushes AWS Trainium in performance per dollar. This is huge because it means Microsoft can run ChatGPT and Copilot way cheaper than before. It’s a direct shot at Nvidia's dominance, and it shows that the big players are serious about owning their own hardware stack. If you're using Azure, your AI just got a lot faster.",
+    "raw_text": "Microsoft is done relying solely on Nvidia. They just dropped the Maia 200, their own custom silicon for running AI. This beast is built on a 3nm process and packs 216 gigabytes of high-bandwidth memory. They're claiming it beats Google's TPU v7 and crushes AWS Trainium in performance per dollar. This is huge because it means Microsoft can run ChatGPT and Copilot way cheaper than before. It\u2019s a direct shot at Nvidia's dominance, and it shows that the big players are serious about owning their own hardware stack. If you're using Azure, your AI just got a lot faster.",
     "id": "m5n6o7p8",
     "category": "Hardware",
     "companies": [
@@ -124,7 +134,9 @@
     "people": [
       "Scott Guthrie"
     ],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/m5n6o7p8.png",
+    "image_prompt": "Photorealistic close-up of a sleek 3nm AI chip with stacked HBM3e memory modules on a server blade in a modern cloud datacenter. Cool blue-green lighting, dramatic shallow depth of field, high-detail metallic textures, blurred engineers in background"
   },
   {
     "date": "2026-01-27",
@@ -141,7 +153,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/a1p2l3e4.png",
+    "image_prompt": "Photorealistic news-style image: an iPhone showing a glowing Siri waveform, linked by a luminous data stream to a high-tech cloud of circuitry and constellation nodes; soft cool lighting, neutral newsroom backdrop, professional serious mood, shallow depth of field."
   },
   {
     "date": "2026-01-27",
@@ -150,14 +164,16 @@
     "title": "OpenAI 'Sweetpea': AI Earbuds Coming Soon?",
     "summary": "Rumors indicate OpenAI is developing 'Sweetpea,' a pair of AI-enabled wireless earbuds. The device aims to provide a voice-driven, screen-free AI assistant experience.",
     "engagement": "High",
-    "raw_text": "OpenAI isn't satisfied with just being on your screen; they want to be in your ears. Leaks are pointing to a new device codenamed 'Sweetpea'—OpenAI's first consumer hardware, which looks like smart earbuds. Imagine ChatGPT, but always listening and whispering answers, translations, or reminders directly to you without you ever pulling out a phone. It’s the 'Her' movie scenario coming to life. This is a bold pivot into hardware, and if they pull off the latency and voice quality, it could kill the need for screens for a lot of daily tasks. The race for 'ambient AI' is officially on.",
+    "raw_text": "OpenAI isn't satisfied with just being on your screen; they want to be in your ears. Leaks are pointing to a new device codenamed 'Sweetpea'\u2014OpenAI's first consumer hardware, which looks like smart earbuds. Imagine ChatGPT, but always listening and whispering answers, translations, or reminders directly to you without you ever pulling out a phone. It\u2019s the 'Her' movie scenario coming to life. This is a bold pivot into hardware, and if they pull off the latency and voice quality, it could kill the need for screens for a lot of daily tasks. The race for 'ambient AI' is officially on.",
     "id": "o9i8u7y6",
     "category": "Hardware",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/o9i8u7y6.png",
+    "image_prompt": "Photorealistic news-style close-up of sleek wireless AI earbuds and compact charging case on a clean desk, one earbud held by a hand, soft studio lighting, shallow depth of field, cool neutral tones, subtle LED glow, blurred laptop in background"
   },
   {
     "date": "2026-01-27",
@@ -173,16 +189,18 @@
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/n1v2i3d4.png",
+    "image_prompt": "Realistic newsroom photo: diverse researchers studying high-resolution weather visualizations on large wall monitors, NVIDIA GPU racks glowing in background, detailed storm prediction overlays, dynamic clouds and coastal city below, urgent, high-tech mood"
   },
   {
     "date": "2026-01-27",
-    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "source_file": "Today\u2019s Tech News (Jan 27\u201328, 2026).pdf",
     "page": 3,
     "title": "Zscaler Report: AI Security Risks Surge 91%",
     "summary": "Zscaler's 2026 report reveals a 91% surge in enterprise AI usage, with 100% of tested systems showing critical vulnerabilities. The report warns of a massive 'oversight gap' as companies rush to adopt AI tools.",
     "engagement": "Low",
-    "raw_text": "Here is the scary side of the AI boom. Zscaler just dropped a report saying enterprise AI usage jumped 91% last year, which sounds great, until you hear that their red team found critical vulnerabilities in 100% of the systems they tested. Literally all of them. Companies are rushing to deploy these tools without locking the doors, creating a massive security gap. We're talking about confidential data leaks and systems that can be cracked in minutes. It’s a classic case of innovation outpacing safety. If you're a CTO, this report should basically be your horror movie of the year.",
+    "raw_text": "Here is the scary side of the AI boom. Zscaler just dropped a report saying enterprise AI usage jumped 91% last year, which sounds great, until you hear that their red team found critical vulnerabilities in 100% of the systems they tested. Literally all of them. Companies are rushing to deploy these tools without locking the doors, creating a massive security gap. We're talking about confidential data leaks and systems that can be cracked in minutes. It\u2019s a classic case of innovation outpacing safety. If you're a CTO, this report should basically be your horror movie of the year.",
     "id": "z5s4c3a2",
     "category": "Cybersecurity",
     "companies": [
@@ -198,14 +216,16 @@
     "title": "Critical Microsoft Office Zero-Day Attack",
     "summary": "A high-severity zero-day vulnerability (CVE-2026-21509) in Microsoft Office is being actively exploited in the wild. Microsoft has issued emergency patches, and CISA has mandated federal agencies to update immediately.",
     "engagement": "Medium",
-    "raw_text": "If you use Microsoft Office, stop what you're doing and update right now. There is a nasty zero-day vulnerability (CVE-2026-21509) that hackers are actively exploiting in the wild. It bypasses security features in Office 2016 through 2021. It's so bad that the US government (CISA) has ordered all federal agencies to patch it by mid-February. There's no public proof-of-concept yet, which usually means sophisticated hackers are using it quietly for targeted attacks. Don't be the low-hanging fruit—patch your systems today.",
+    "raw_text": "If you use Microsoft Office, stop what you're doing and update right now. There is a nasty zero-day vulnerability (CVE-2026-21509) that hackers are actively exploiting in the wild. It bypasses security features in Office 2016 through 2021. It's so bad that the US government (CISA) has ordered all federal agencies to patch it by mid-February. There's no public proof-of-concept yet, which usually means sophisticated hackers are using it quietly for targeted attacks. Don't be the low-hanging fruit\u2014patch your systems today.",
     "id": "m9o8z7d6",
     "category": "Cybersecurity",
     "companies": [
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/m9o8z7d6.png",
+    "image_prompt": "Cinematic news photo: close-up laptop screen with Microsoft Office icons, glitchy red alert overlays and corrupted pixels, hooded hacker reflection, hands on keyboard, emergency-update progress bar, tense newsroom lighting, shallow depth of field"
   },
   {
     "date": "2026-01-27",
@@ -214,7 +234,7 @@
     "title": "Ricursive Intelligence Raises $300M for AI Chip Design",
     "summary": "Ricursive Intelligence, founded by former DeepMind researchers, raised $300M to build an AI platform that designs computer chips. The system creates a recursive loop where AI designs better hardware to run better AI.",
     "engagement": "Medium",
-    "raw_text": "This is very meta: AI is now designing the chips that run AI. A startup called Ricursive Intelligence just raised $300 million, led by the same researchers who built AlphaChip at Google DeepMind. Their whole pitch is a 'recursive' loop—using AI software to design silicon chips that are optimized specifically for... you guessed it, more AI software. It speeds up the chip design cycle from years to months. Investors are betting big that the only way to keep up with Moore's Law is to take humans out of the driver's seat for chip architecture. It's machines building machines, folks.",
+    "raw_text": "This is very meta: AI is now designing the chips that run AI. A startup called Ricursive Intelligence just raised $300 million, led by the same researchers who built AlphaChip at Google DeepMind. Their whole pitch is a 'recursive' loop\u2014using AI software to design silicon chips that are optimized specifically for... you guessed it, more AI software. It speeds up the chip design cycle from years to months. Investors are betting big that the only way to keep up with Moore's Law is to take humans out of the driver's seat for chip architecture. It's machines building machines, folks.",
     "id": "r1i2c3u4",
     "category": "Business",
     "companies": [
@@ -226,16 +246,18 @@
       "Dr. Anna Goldie",
       "Dr. Azalia Mirhoseini"
     ],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/r1i2c3u4.png",
+    "image_prompt": "Photo-realistic newsroom image: sleek R&D lab with diverse engineers around a glowing holographic AI chip model, cascading circuitry loops forming an infinite recursion, warm focused lighting, modern tech atmosphere, high detail."
   },
   {
     "date": "2026-01-19",
-    "source_file": "Today’s Tech News (Jan 27–28, 2026).pdf",
+    "source_file": "Today\u2019s Tech News (Jan 27\u201328, 2026).pdf",
     "page": 2,
     "title": "World's First Open-Source Quantum Computer",
     "summary": "The University of Waterloo and Open Quantum Design released the full stack designs for a trapped-ion quantum computer. The non-profit initiative aims to democratize access to quantum hardware designs for researchers.",
     "engagement": "Medium",
-    "raw_text": "We finally have an 'Arduino moment' for quantum computing. Researchers at the University of Waterloo just open-sourced the entire design for a trapped-ion quantum computer. I mean everything—hardware schematics, control electronics, code, the works. It's called Open Quantum Design, and it's a non-profit trying to break the monopoly that big tech giants have on this tech. Now, any university lab or serious startup can build their own quantum rig without paying millions in licensing fees. This is how you democratize a revolution.",
+    "raw_text": "We finally have an 'Arduino moment' for quantum computing. Researchers at the University of Waterloo just open-sourced the entire design for a trapped-ion quantum computer. I mean everything\u2014hardware schematics, control electronics, code, the works. It's called Open Quantum Design, and it's a non-profit trying to break the monopoly that big tech giants have on this tech. Now, any university lab or serious startup can build their own quantum rig without paying millions in licensing fees. This is how you democratize a revolution.",
     "id": "u1w2q3d4",
     "category": "Science",
     "companies": [
@@ -243,7 +265,9 @@
       "Open Quantum Design"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/u1w2q3d4.png",
+    "image_prompt": "Realistic news photo: modern university lab with trapped\u2011ion vacuum chamber showing a glowing chain of ions, diverse researchers collaborating over translucent holographic blueprints and modular hardware, clean bright optimistic atmosphere"
   },
   {
     "date": "2026-01-27",
@@ -252,13 +276,15 @@
     "title": "Vivo X200T Launch: Premium Features for India",
     "summary": "Vivo launched the X200T in India, featuring a MediaTek Dimensity 9400+ chip, ZEISS optics, and a massive 6200mAh battery. The device targets the premium segment with 'Everyday Flagship' reliability.",
     "engagement": "High",
-    "raw_text": "Smartphone fans in India, listen up. Vivo just dropped the X200T, and it's looking like a beast. We're talking a MediaTek Dimensity 9400+ processor, a massive 6200mAh battery that probably lasts two days, and of course, those sweet ZEISS camera optics. They're positioning this as the 'everyday flagship'—reliable, powerful, but priced aggressively around 60,000 rupees. It’s also got some cool AI tricks for weather filters and landscape photos. If you're tired of charging your phone three times a day but still want top-tier performance, this might be the one to watch.",
+    "raw_text": "Smartphone fans in India, listen up. Vivo just dropped the X200T, and it's looking like a beast. We're talking a MediaTek Dimensity 9400+ processor, a massive 6200mAh battery that probably lasts two days, and of course, those sweet ZEISS camera optics. They're positioning this as the 'everyday flagship'\u2014reliable, powerful, but priced aggressively around 60,000 rupees. It\u2019s also got some cool AI tricks for weather filters and landscape photos. If you're tired of charging your phone three times a day but still want top-tier performance, this might be the one to watch.",
     "id": "v1i2v3o4",
     "category": "Mobile",
     "companies": [
       "Vivo"
     ],
     "people": [],
-    "created_at": "2026-01-27T21:44:05.000Z"
+    "created_at": "2026-01-27T21:44:05.000Z",
+    "image_url": "images/28_01_26/v1i2v3o4.png",
+    "image_prompt": "Photorealistic studio shot of Vivo X200T: sleek midnight-blue smartphone at three-quarter angle, glossy glass back, prominent triple-camera cluster with large glass lenses and cool blue reflections, slim metallic frame, faint oversized battery silhouette in soft background, premium cool lighting"
   }
 ]
