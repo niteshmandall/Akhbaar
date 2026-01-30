@@ -187,27 +187,32 @@ def generate_image_prompt(title, summary):
         # Encode the prompt for the URL
         encoded_prompt = urllib.parse.quote(prompt)
         
-        # Use authenticated text endpoint if key is available, else fallback might fail
+        # 1. Try Authenticated Endpoint (if key exists)
         api_key = os.getenv("POLLINATIONS_API_KEY")
         headers = {}
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
-            # Use gen.pollinations.ai for authenticated requests
             url = f"https://gen.pollinations.ai/text/{encoded_prompt}"
-        else:
-            # Fallback to old endpoint (might be deprecated)
-            url = f"https://text.pollinations.ai/{encoded_prompt}"
+            try:
+                response = requests.get(url, headers=headers, timeout=10)
+                if response.status_code == 200:
+                    return response.text.strip()
+                else:
+                    print(f"  Auth text gen failed ({response.status_code}). Trying public...")
+            except Exception as e:
+                print(f"  Auth text gen error: {e}. Trying public...")
+
+        # 2. Key missing OR Auth failed -> Try Public Endpoint
+        url = f"https://text.pollinations.ai/{encoded_prompt}"
+        response = requests.get(url, timeout=30)
         
-        response = requests.get(url, headers=headers, timeout=30)
         if response.status_code == 200:
             return response.text.strip()
         elif response.status_code == 400:
-            print("  Warning: content filtered by AI provider (likely safety policy). Skipping.")
+            print("  Warning: content filtered by AI provider. Skipping.")
             return None
         else:
             print(f"Error generating prompt: Status {response.status_code}")
-            try: print(f"  Response: {response.text[:200]}")
-            except: pass
             return None
             
     except Exception as e:
@@ -241,38 +246,40 @@ def generate_image(prompt):
 
     # Encode the prompt for the URL
     encoded_prompt = urllib.parse.quote(prompt)
-    # Add a random seed to ensure variety
     seed = random.randint(0, 10000)
     
-    # Use the authenticated endpoint
-    # https://gen.pollinations.ai/image/{prompt}
-    url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
-    
-    headers = {
-        "Authorization": f"Bearer {api_key}"
-    }
-    
-    for attempt in range(5):  # 5 retry attempts
+    # 1. Try Authenticated Endpoint
+    if api_key:
+        url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
+        headers = {"Authorization": f"Bearer {api_key}"}
+        
         try:
-            response = requests.get(url, headers=headers, timeout=60) # Increased timeout for generation
+            response = requests.get(url, headers=headers, timeout=60)
             if response.status_code == 200:
                 return response.content
             else:
-                print(f"  Attempt {attempt+1} failed with status: {response.status_code}")
-                # Print response body for debugging if possible, but keep it brief or suppressed if binary
-                try: 
-                    print(f"  Response: {response.text[:200]}")
-                except: pass
-                
+                print(f"  Auth image gen failed ({response.status_code}). Trying public endpoint...")
         except Exception as e:
-            print(f"  Attempt {attempt+1} failed with error: {e}")
+             print(f"  Auth image gen error: {e}. Trying public endpoint...")
 
-        if attempt < 4:
-            wait_time = 2 ** attempt  # Exponential backoff: 1, 2, 4, 8 seconds
-            print(f"  Retrying in {wait_time} seconds...")
-            time.sleep(wait_time)
+    # 2. Fallback to Public Endpoint
+    # Remove 'model=flux' as it might be paid-only or restricted
+    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true"
+    
+    for attempt in range(3):  # 3 retry attempts for public
+        try:
+            response = requests.get(url, timeout=60)
+            if response.status_code == 200:
+                return response.content
+            else:
+                print(f"  Public attempt {attempt+1} failed with status: {response.status_code}")
+        except Exception as e:
+            print(f"  Public attempt {attempt+1} failed with error: {e}")
 
-    print("  Failed to generate image after 5 attempts.")
+        if attempt < 2:
+            time.sleep(2)
+
+    print("  Failed to generate image after retries.")
     return None
 
 def save_image_locally(image_bytes, filename, output_dir):
