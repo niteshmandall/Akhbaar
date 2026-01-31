@@ -6,7 +6,7 @@
     "title": "Google's \"Project Genie\" Just Crashed Gaming Stocks",
     "summary": "Google unveiled Project Genie, an AI model capable of generating fully interactive 3D game worlds from text prompts. The announcement caused immediate stock drops for major gaming companies like Roblox and Unity due to fears of disruption.",
     "engagement": "High",
-    "raw_text": "Okay, this is actually insane. Google just dropped \"Project Genie,\" and it’s basically the end of game development as we know it. Imagine typing \"cyberpunk city with flying cars\" and boom—you're not just getting a picture, you're getting a fully playable, explorable 3D world with physics and everything. The market completely freaked out. Stocks for Roblox, Unity, and Take-Two tanked between 10% and 21% instantly. Why? Because if anyone can generate a AAA-level game environment in seconds, the whole industry model breaks. Developers are terrified, but honestly, for gamers? This could be the coolest toy ever created. We are officially entering the era of 'dream it, play it.'",
+    "raw_text": "Okay, this is actually insane. Google just dropped \"Project Genie,\" and it\u2019s basically the end of game development as we know it. Imagine typing \"cyberpunk city with flying cars\" and boom\u2014you're not just getting a picture, you're getting a fully playable, explorable 3D world with physics and everything. The market completely freaked out. Stocks for Roblox, Unity, and Take-Two tanked between 10% and 21% instantly. Why? Because if anyone can generate a AAA-level game environment in seconds, the whole industry model breaks. Developers are terrified, but honestly, for gamers? This could be the coolest toy ever created. We are officially entering the era of 'dream it, play it.'",
     "id": "genie_ai_001",
     "category": "AI",
     "companies": [
@@ -16,7 +16,9 @@
       "Take-Two"
     ],
     "people": [],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/genie_ai_001.png",
+    "image_prompt": "A sleek newsroom desk, a monitor displays a vibrant 3D cityscape materializing from a glowing text prompt, a dramatic stock chart of Roblox & Unity drops across the screen, neon blue and red glow, high contrast, realistic lighting, tense mood"
   },
   {
     "date": "2026-01-31",
@@ -25,7 +27,7 @@
     "title": "Elon Musk's $1.5 Trillion \"Orbital AI\" Master Plan",
     "summary": "Reports confirm Elon Musk is exploring a merger between SpaceX, xAI, and potentially Tesla to create a vertically integrated AI giant. The plan involves hosting AI data centers in space to utilize solar energy and vacuum cooling.",
     "engagement": "High",
-    "raw_text": "You guys know Musk loves a big swing, but this is next level. Rumors are flying that he's merging SpaceX, xAI, and maybe even Tesla into one massive mega-corporation. We're talking about a potential $1.5 trillion IPO. But here’s the wild part—the strategy is called \"Orbital AI.\" The plan is literally to launch AI data centers into space. Think about it: unlimited solar power, freezing cold vacuum for cooling, and Starlink for connectivity. No more fighting local governments for power grids. If he pulls this off, he doesn't just own the AI; he owns the infrastructure off-planet. It sounds like sci-fi, but filings in Nevada show it's already in the legal works.",
+    "raw_text": "You guys know Musk loves a big swing, but this is next level. Rumors are flying that he's merging SpaceX, xAI, and maybe even Tesla into one massive mega-corporation. We're talking about a potential $1.5 trillion IPO. But here\u2019s the wild part\u2014the strategy is called \"Orbital AI.\" The plan is literally to launch AI data centers into space. Think about it: unlimited solar power, freezing cold vacuum for cooling, and Starlink for connectivity. No more fighting local governments for power grids. If he pulls this off, he doesn't just own the AI; he owns the infrastructure off-planet. It sounds like sci-fi, but filings in Nevada show it's already in the legal works.",
     "id": "musk_merger_002",
     "category": "Business",
     "companies": [
@@ -37,42 +39,48 @@
       "Elon Musk",
       "Bret Johnsen"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/musk_merger_002.png",
+    "image_prompt": "A sleek, futuristic orbital AI data center orbiting Earth, solar panels unfurling against a starry backdrop, engines dormant, Titan\u2011like habitat with glass domes, Tesla blue\u2011lit panels, SpaceX Falcon boosters anchored, bathed in soft nebula glow, exuding innovation and interstellar ambition."
   },
   {
     "date": "2026-01-31",
     "source_file": "Combined",
     "page": 1,
     "title": "GPT-5.2 Just Solved a 50-Year-Old Math Mystery",
-    "summary": "OpenAI's new GPT-5.2 \"Thinking\" model has formally disproved the Erdős Problem #397, a mathematical conjecture that remained unsolved for decades. The solution was verified by the Lean coding language and top mathematicians.",
+    "summary": "OpenAI's new GPT-5.2 \"Thinking\" model has formally disproved the Erd\u0151s Problem #397, a mathematical conjecture that remained unsolved for decades. The solution was verified by the Lean coding language and top mathematicians.",
     "engagement": "High",
-    "raw_text": "We need to stop saying AI is just \"predicting the next word.\" OpenAI just released GPT-5.2, and it did something human mathematicians couldn't do for fifty years. It solved Erdős Problem #397. It didn't just guess; it used a new \"slow thinking\" reasoning mode to generate a proof, translated it into code, and had it verified. Terence Tao, basically the Mozart of math, confirmed it's legit. This is the moment AI moves from being a chatbot to a scientist. If it can solve open math problems, what happens when we point it at physics or curing diseases? The game has changed.",
+    "raw_text": "We need to stop saying AI is just \"predicting the next word.\" OpenAI just released GPT-5.2, and it did something human mathematicians couldn't do for fifty years. It solved Erd\u0151s Problem #397. It didn't just guess; it used a new \"slow thinking\" reasoning mode to generate a proof, translated it into code, and had it verified. Terence Tao, basically the Mozart of math, confirmed it's legit. This is the moment AI moves from being a chatbot to a scientist. If it can solve open math problems, what happens when we point it at physics or curing diseases? The game has changed.",
     "id": "gpt52_math_003",
     "category": "Science",
     "companies": [
       "OpenAI"
     ],
     "people": [
-      "Paul Erdős",
+      "Paul Erd\u0151s",
       "Terence Tao"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/gpt52_math_003.png",
+    "image_prompt": "Photorealistic newsroom: diverse mathematicians around a laptop with blurred formal-proof code, a futuristic AI server emitting pulsing blue light (no text), chalkboard with obscured math symbols, focused, quietly celebratory mood, cinematic warm lighting"
   },
   {
     "date": "2026-01-30",
-    "source_file": "Tech News Highlights – January 31, 2026.pdf",
+    "source_file": "Tech News Highlights \u2013 January 31, 2026.pdf",
     "page": 2,
     "title": "Samsung's $2,900 TriFold is a Beast",
     "summary": "Samsung launched the Galaxy Z TriFold in the U.S., a device that unfolds twice to reveal a massive 10-inch screen. The device features the Snapdragon 8 Elite chip and deep integration with Galaxy AI.",
     "engagement": "High",
-    "raw_text": "Samsung just dropped the mic on foldables. Meet the Galaxy Z TriFold. Yes, it folds *twice*. When you open it up, you're holding a massive 10-inch tablet that fits in your pocket. It's powered by the Snapdragon 8 Elite and has a 200MP camera, so the specs are absurd. But here's the catch—it starts at $2,899. Yeah, nearly three grand. It's clearly for the power users who want to replace their iPad and phone in one go. They've also packed it with Gemini Live and on-device AI, so it's smart as hell. Is it expensive? Yes. Do I want one immediately? Also yes.",
+    "raw_text": "Samsung just dropped the mic on foldables. Meet the Galaxy Z TriFold. Yes, it folds *twice*. When you open it up, you're holding a massive 10-inch tablet that fits in your pocket. It's powered by the Snapdragon 8 Elite and has a 200MP camera, so the specs are absurd. But here's the catch\u2014it starts at $2,899. Yeah, nearly three grand. It's clearly for the power users who want to replace their iPad and phone in one go. They've also packed it with Gemini Live and on-device AI, so it's smart as hell. Is it expensive? Yes. Do I want one immediately? Also yes.",
     "id": "samsung_trifold_004",
     "category": "Mobile",
     "companies": [
       "Samsung"
     ],
     "people": [],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/samsung_trifold_004.png",
+    "image_prompt": "A sleek Samsung Galaxy Z TriFold fully unfolded in a high\u2011end tech showroom, its 10\u2011inch AMOLED display glowing, subtle blue\u2011gray lighting, abstract render of Snapdragon\u202f8\u202fElite processor, and a faint holographic Galaxy AI interface floating above the phone."
   },
   {
     "date": "2026-01-31",
@@ -92,7 +100,9 @@
       "Aviad Maizels",
       "Johny Srouji"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/apple_silent_speech_005.png",
+    "image_prompt": "Close\u2011up of a modern Apple iPhone on a polished white desk, screen glowing with a subtle overlay of micro\u2011gesture waves. A mid\u201130s Israeli engineer in a turtleneck stands beside, lips slightly open, her face illuminated by soft blue LED, reflecting cutting\u2011edge tech optimism."
   },
   {
     "date": "2026-01-31",
@@ -110,7 +120,9 @@
     "people": [
       "Peter Steinberger"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/moltbook_agents_006.png",
+    "image_prompt": "An ultra\u2011modern server room at night, rows of humming racks glisten in blue. Glowing translucent bubbles float above, each a distinct AI avatar, forming a luminous network crowd. A subtle green code ripple runs beneath, hinting at OS\u2011level proximity."
   },
   {
     "date": "2026-01-30",
@@ -119,14 +131,16 @@
     "title": "NVIDIA's \"Rubin\" Chip Breaks the Trillion-Parameter Barrier",
     "summary": "NVIDIA has unveiled its Vera Rubin architecture, featuring HBM4 memory and a 6-chip supercomputer rack. The platform is designed to handle trillion-parameter AI models without the latency issues of current hardware.",
     "engagement": "Medium",
-    "raw_text": "NVIDIA is not slowing down. They just revealed the \"Vera Rubin\" platform, and the specs are melting my brain. This thing is built to run trillion-parameter AI models—the really, really big ones—without breaking a sweat. It uses new HBM4 memory which gives it insane bandwidth, basically double what we have now. This matters because right now, running huge models is slow and expensive. With Rubin, we're talking about real-time, super-intelligent AI that fits in a single rack. If you thought the H100s were fast, you haven't seen anything yet. Jensen Huang is winning 2026 already.",
+    "raw_text": "NVIDIA is not slowing down. They just revealed the \"Vera Rubin\" platform, and the specs are melting my brain. This thing is built to run trillion-parameter AI models\u2014the really, really big ones\u2014without breaking a sweat. It uses new HBM4 memory which gives it insane bandwidth, basically double what we have now. This matters because right now, running huge models is slow and expensive. With Rubin, we're talking about real-time, super-intelligent AI that fits in a single rack. If you thought the H100s were fast, you haven't seen anything yet. Jensen Huang is winning 2026 already.",
     "id": "nvidia_rubin_007",
     "category": "Hardware",
     "companies": [
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/nvidia_rubin_007.png",
+    "image_prompt": "Photorealistic data center scene: a sleek rack of six ultra-dense compute modules with exposed HBM4 memory stacks, close-up of a glowing metallic Vera Rubin accelerator chip with purple-blue veins, holographic trillion-parameter neural mesh above, cool blue lighting, high-tech, powerful"
   },
   {
     "date": "2026-01-31",
@@ -142,7 +156,9 @@
       "Google DeepMind"
     ],
     "people": [],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/alphago_dna_008.png",
+    "image_prompt": "Sleek biotech lab interior, holographic 3D DNA helix hovering above a high\u2011tech control console. Neural network layers glow in translucent blues across the helix, illuminated by soft ambient lights, realistic rendering, clear detail."
   },
   {
     "date": "2026-01-30",
@@ -161,7 +177,9 @@
     "people": [
       "Vandi Verma"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/nasa_ai_rover_009.png",
+    "image_prompt": "Perseverance rover, sleek and metallic, drives autonomously across dusty, cratered Martian terrain under a scarlet sky, steering around jagged rocks and gullies; the rover\u2019s wheels leave a faint trail, sunlight glinting off panels, evoking quiet ingenuity."
   },
   {
     "date": "2026-01-31",
@@ -181,6 +199,8 @@
     "people": [
       "Sheldon Kimber"
     ],
-    "created_at": "2026-01-31T22:15:00Z"
+    "created_at": "2026-01-31T22:15:00Z",
+    "image_url": "images/01_02_26/google_intersect_010.png",
+    "image_prompt": "High\u2011realism editorial scene: vast solar farm and rows of cylindrical battery storage in foreground, sleek glass-and-metal data center complex behind, engineers in hard hats inspecting panels with tablets, warm sunset light, clear sky, subtle utility lines, optimistic serious mood"
   }
 ]
