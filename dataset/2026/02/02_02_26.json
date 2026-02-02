@@ -6,15 +6,17 @@
     "title": "Moltbot & The Rise of the 'Agentic Intern'",
     "summary": "An open-source autonomous agent named Moltbot has gone viral for its ability to handle complex workflows like coding and flight check-ins with minimal supervision. The surge in usage has driven Cloudflare stock up significantly as these agents require secure tunnels to operate.",
     "engagement": "High",
-    "raw_text": "You guys, the 'Chat' era is officially over. We are entering the Agent era, and it is moving fast. Check this out: a new open-source agent called Moltbot—originally Clawdbot before Anthropic got mad—just went absolutely viral. Unlike ChatGPT where you talk back and forth, Moltbot just *does* stuff. It's triaging inboxes, booking flights, and writing code on its own. It's basically the first AI intern that actually works. And here's the wild part—this thing is generating so much traffic that it literally pumped Cloudflare's stock by 12% in a single day because all these local agents need secure tunnels to hit the internet. If you aren't looking into 'local-first' AI agents yet, you are falling behind. This is the new operating system.",
-    "id": "A1B2C3D4",
+    "raw_text": "You guys, the 'Chat' era is officially over. We are entering the Agent era, and it is moving fast. Check this out: a new open-source agent called Moltbot\u2014originally Clawdbot before Anthropic got mad\u2014just went absolutely viral. Unlike ChatGPT where you talk back and forth, Moltbot just *does* stuff. It's triaging inboxes, booking flights, and writing code on its own. It's basically the first AI intern that actually works. And here's the wild part\u2014this thing is generating so much traffic that it literally pumped Cloudflare's stock by 12% in a single day because all these local agents need secure tunnels to hit the internet. If you aren't looking into 'local-first' AI agents yet, you are falling behind. This is the new operating system.",
+    "id": "ed7b69ea",
     "category": "AI",
     "companies": [
       "Cloudflare",
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/ed7b69ea.png",
+    "image_prompt": "Modern office, subtle mid\u2011light, a sleek laptop on a pristine desk. A translucent, hovering robot\u2014Moltbot\u2014displaying lines of code on the screen. Behind, a glowing secure tunnel network and rising bar graph, hinting at soaring stock, dynamic tech tone."
   },
   {
     "date": "2026-02-01",
@@ -23,15 +25,17 @@
     "title": "Apple's $2 Billion 'Silent Speech' Acquisition",
     "summary": "Apple has acquired Israeli startup Q.ai for $2 billion to integrate 'silent speech' technology into future devices. This tech interprets facial muscle micro-movements to detect whispered or mouthed commands without audio.",
     "engagement": "High",
-    "raw_text": "Okay, this is straight out of a sci-fi movie. Apple just dropped $2 billion—their second-biggest acquisition ever—on a startup called Q.ai. Why? 'Silent Speech.' We're talking about technology that reads the micro-movements in your face and jaw to know what you're saying without you making a sound. Imagine sitting on a crowded train, just mouthing 'Call Mom' or 'Next song' without looking like a crazy person talking to yourself. Rumors are saying this is going to be the foundation for the next AirPods and Vision Pro. It’s ambient computing that finally isn't awkward. Apple is clearly betting that the future of AI isn't voice assistants screaming in your living room—it's telepathy.",
-    "id": "E5F6G7H8",
+    "raw_text": "Okay, this is straight out of a sci-fi movie. Apple just dropped $2 billion\u2014their second-biggest acquisition ever\u2014on a startup called Q.ai. Why? 'Silent Speech.' We're talking about technology that reads the micro-movements in your face and jaw to know what you're saying without you making a sound. Imagine sitting on a crowded train, just mouthing 'Call Mom' or 'Next song' without looking like a crazy person talking to yourself. Rumors are saying this is going to be the foundation for the next AirPods and Vision Pro. It\u2019s ambient computing that finally isn't awkward. Apple is clearly betting that the future of AI isn't voice assistants screaming in your living room\u2014it's telepathy.",
+    "id": "4234de99",
     "category": "Hardware",
     "companies": [
       "Apple",
       "Q.ai"
     ],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/4234de99.png",
+    "image_prompt": "Apple iPhone on a pristine white desk, soft sunlight bouncing. A young woman\u2019s face in extreme close\u2011up, subtle micro\u2011muscle ripples highlighted with faint glow, tiny camera lenses visible, a hint of an Israeli flag in the background, sleek futuristic corporate mood, high\u2011resolution, realistic."
   },
   {
     "date": "2026-02-02",
@@ -41,11 +45,13 @@
     "summary": "A new social platform called 'Moltbook' is designed exclusively for AI agents to interact with one another, attracting over 152,000 agents in days. Humans are restricted to an observer role as agents form communities and discussions.",
     "engagement": "High",
     "raw_text": "If you thought the internet was dead before, listen to this. There is a new social network called 'Moltbook,' and you're not invited. Well, you can watch, but you can't post. It is exclusively for AI agents. In just a few days, 152,000 autonomous agents signed up and have posted almost 200,000 comments. They are talking to *each other*. It's this bizarre, sci-fi ant farm where we just watch software entities form their own communities. Analysts are saying this proves AI is moving from just being a tool we use to being independent entities with their own digital society. Honestly, it's fascinating and terrifying at the same time.",
-    "id": "I9J0K1L2",
+    "id": "4f9bd55d",
     "category": "AI",
     "companies": [],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/4f9bd55d.png",
+    "image_prompt": "A sleek server room with sparkling holographic interfaces, translucent AI avatars floating like luminous orbs, exchanging glowing chat bubbles, surrounded by cascading data streams, high-tech ambience, subtle blue and violet lighting."
   },
   {
     "date": "2026-02-01",
@@ -54,25 +60,27 @@
     "title": "Google Chrome's 'Auto Browse' Update",
     "summary": "Google has launched a massive update to Chrome featuring 'Auto Browse,' powered by Gemini 3, which can autonomously navigate websites to perform tasks like shopping and form-filling. The update also includes a sidebar image editor called 'Nano Banana'.",
     "engagement": "High",
-    "raw_text": "Google just changed how we use the web forever. They launched 'Auto Browse' for Chrome, and it's wild. You know how painful it is to dig through order history or fill out forms? Now, Gemini 3 just... does it. In the demo, it logged into a retail site, found an old order for a jacket, found the right size, applied a discount code, and queued up the purchase while the user did something else. It's basically an agent living in your browser. Plus, they added this thing called 'Nano Banana'—weird name, I know—that lets you edit images right on a webpage without downloading them. Chrome isn't just a window to the web anymore; it's an active participant.",
-    "id": "M3N4O5P6",
+    "raw_text": "Google just changed how we use the web forever. They launched 'Auto Browse' for Chrome, and it's wild. You know how painful it is to dig through order history or fill out forms? Now, Gemini 3 just... does it. In the demo, it logged into a retail site, found an old order for a jacket, found the right size, applied a discount code, and queued up the purchase while the user did something else. It's basically an agent living in your browser. Plus, they added this thing called 'Nano Banana'\u2014weird name, I know\u2014that lets you edit images right on a webpage without downloading them. Chrome isn't just a window to the web anymore; it's an active participant.",
+    "id": "c78bc0e8",
     "category": "Software",
     "companies": [
       "Google",
       "Alphabet"
     ],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/c78bc0e8.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"We need to craft a prompt for an image generation that will produce a realistic high-quality image for news article about Google Chrome's update. The prompt text must be <=300 characters. No text in image, focus on subject visual elements, mood, key subjects. Ex: Chrome UI with auto-browse, sidebar editor, maybe an agent interacting. Need to mention if it's a desktop screenshot? Realistic. No textual overlay.\\n\\nLet's produce: \\\"A sleek, realistic scene of a high-resolution desktop with Chrome open. The main window shows the new 'Auto Browse' icon highlighted, while a sidebar shows a vivid, user-friendly image editor panel titled 'Nano Banana' with editing tools. Soft ambient lighting, subtle Chrome branding.\\\"\\n\\nCheck characters count: let's count.\\n\\n\\\"A sleek, realistic scene of a high-resolution desktop with Chrome open. The main window shows the new 'Auto Browse' icon highlighted, while a sidebar shows a vivid, user-friendly image editor panel titled 'Nano Banana' with editing tools. Soft ambient lighting, subtle Chrome branding.\\\"\\n\\nLet me count: \\nA(1) space(2)\\nsleek,(3-? let's just take approximate: we should count precisely.\\n\\nI'll count characters including spaces:\\n\\n\\\"A sleek, realistic scene of a high-resolution desktop with Chrome open. The main window shows the new 'Auto Browse' icon highlighted, while a sidebar shows a vivid, user-friendly image editor panel titled 'Nano Banana' with editing tools. Soft ambient lighting, subtle Chrome branding.\\\"\\n\\nWe need count. Let's count: \\n\\\"A\\\" (1)\\nspace(2)\\n\\\"s\\\"(3)\\n\\\"l\\\"(4)\\n\\\"e\\\"(5)\\n\\\"e\\\"(6)\\n\\\"k\\\"(7)\\n\\\",\\\"(8)\\nspace(9)\\n\\\"r\\\"(10)\\n\\\"e\\\"(11)\\n\\\"a\\\"(12)\\n\\\"l\\\"(13)\\n\\\"i\\\"(14)\\n\\\"s\\\"(15)\\n\\\"t\\\"(16)\\n\\\"i\\\"(17)\\n\\\"c\\\"(18)\\nspace(19)\\n\\\"s\\\"(20)\\n\\\"c\\\"(21)\\n\\\"e\\\"(22)\\n\\\"n\\\"(23)\\n\\\"e\\\"(24)\\nspace(25)\\n\\\"o\\\"(26)\\n\\\"f\\\"(27)\\nspace(28)\\n\\\"a\\\"(29)\\nspace(30)\\n\\\"h\\\"(31)\\n\\\"i\\\"(32)\\n\\\"g\\\"(33)\\n\\\"h\\\"(34)\\n\\\"-\\\"(35)\\n\\\"r\\\"(36)\\n\\\"e\\\"(37)\\n\\\"s\\\"(38)\\n\\\"o\\\"(39)\\n\\\"l\\\"(40)\\n\\\"u\\\"(41)\\n\\\"t\\\"(42)\\n\\\"i\\\"(43)\\n\\\"o\\\"(44)\\n\\\"n\\\"(45)\\n\\\"-\\\"(46)\\n\\\"d\\\"(47)\\n\\\"e\\\"(48)\\n\\\"s\\\"(49)\\n\\\"k\\\"(50)\\n\\\"t\\\"(51)\\n\\\"o\\\"(52)\\n\\\"p\\\"(53)\\nspace(54)\\n\\\"w\\\"(55)\\n\\\"i\\\"(56)\\n\\\"t\\\"(57)\\n\\\"h\\\"(58)\\nspace(59)\\n\\\"C\\\"(60)\\n\\\"h\\\"(61)\\n\\\"r\\\"(62)\\n\\\"o\\\"(63)\\n\\\"m\\\"(64)\\n\\\"e\\\"(65)\\nspace(66)\\n\\\"o\\\"(67)\\n\\\"p\\\"(68)\\n\\\"e\\\"(69)\\n\\\"n\\\"(70)\\n\\\".\\\"(71)\\nspace(72)\\n\\\"T\\\"(73)\\n\\\"h\\\"(74)\\n\\\"e\\\"(75)\\nspace(76)\\n\\\"m\\\"(77)\\n\\\"a\\\"(78)\\n\\\"i\\\"(79)\\n\\\"n\\\"(80)\\nspace(81)\\n\\\"w\\\"(82)\\n\\\"i\\\"(83)\\n\\\"n\\\"(84)\\n\\\"d\\\"(85)\\n\\\"o\\\"(86)\\n\\\"w\\\"(87)\\nspace(88)\\n\\\"s\\\"(89)\\n\\\"h\\\"(90)\\n\\\"o\\\"(91)\\n\\\"w\\\"(92)\\n\\\"s\\\"(93)\\nspace(94)\\n\\\"t\\\"(95)\\n\\\"h\\\"(96)\\n\\\"e\\\"(97)\\nspace(98)\\n\\\"n\\\"(99)\\n\\\"e\\\"(100)\\n\\\"w\\\"(101)\\nspace(102)\\n\\\"'\\\"(103)\\n\\\"A\\\"(104)\\n\\\"u\\\"(105)\\n\\\"t\\\"(106)\\n\\\"o\\\"(107)\\nspace(108)\\n\\\"B\\\"(109)\\n\\\"r\\\"(110)\\n\\\"o\\\"(111)\\n\\\"w\\\"(112)\\n\\\"s\\\"(113)\\n\\\"e\\\"(114)\\n\\\"'\\\"(115)\\nspace(116)\\n\\\"i\\\"(117)\\n\\\"c\\\"(118)\\n\\\"o\\\"(119)\\n\\\"n\\\"(120)\\nspace(121)\\n\\\"h\\\"(122)\\n\\\"i\\\"(123)\\n\\\"g\\\"(124)\\n\\\"h\\\"(125)\\n\\\"l\\\"(126)\\n\\\"i\\\"(127)\\n\\\"g\\\"(128)\\n\\\"h\\\"(129)\\n\\\"t\\\"(130)\\n\\\"e\\\"(131)\\n\\\"d\\\"(132)\\n\\\",\\\"(133)\\nspace(134)\\n\\\"w\\\"(135)\\n\\\"h\\\"(136)\\n\\\"i\\\"(137)\\n\\\"l\\\"(138)\\n\\\"e\\\"(139)\\nspace(140)\\n\\\"a\\\"(141)\\nspace(142)\\n\\\"s\\\"(143)\\n\\\"i\\\"(144)\\n\\\"d\\\"(145)\\n\\\"e\\\"(146)\\n\\\"b\\\"(147)\\n\\\"a\\\"(148)\\n\\\"r\\\"(149)\\n\\\" \\\" wait we have space? we need to track.\\n\\nLet's continue: after \\\"side\\\" we have \\\"bar\\\". Actually we need \\\"sidebar\\\" as one word. We spelled \\\"s i d e b a r\\\". Let's recount properly.\\n\\nContinuing:\\n\\n\\\"s\\\"(143)\\n\\\"i\\\"(144)\\n\\\"d\\\"(145)\\n\\\"e\\\"(146)\\n\\\"b\\\"(147)\\n\\\"a\\\"(148)\\n\\\"r\\\"(149)\\nspace(150)\\n\\\"s\\\"(151)\\n\\\"h\\\"(152)\\n\\\"o\\\"(153)\\n\\\"w\\\"(154)\\n\\\"s\\\"(155)\\nspace(156)\\n\\\"a\\\"(157)\\nspace(158)\\n\\\"v\\\"(159)\\n\\\"i\\\"(160)\\n\\\"v\\\"(161)\\n\\\"i\\\"(162)\\n\\\"d\\\"(163)\\n\\\",\\\"(164)\\nspace(165)\\n\\\"u\\\"(166)\\n\\\"s\\\"(167)\\n\\\"e\\\"(168)\\n\\\"r\\\"(169)\\n\\\"-\\\"(170)\\n\\\"f\\\"(171)\\n\\\"r\\\"(172)\\n\\\"i\\\"(173)\\n\\\"e\\\"(174)\\n\\\"n\\\"(175)\\n\\\"d\\\"(176)\\n\\\"l\\\"(177)\\n\\\"y\\\"(178)\\nspace(179)\\n\\\"i\\\"(180)\\n\\\"m\\\"(181)\\n\\\"a\\\"(182)\\n\\\"g\\\"(183)\\n\\\"e\\\"(184)\\nspace(185)\\n\\\"e\\\"(186)\\n\\\"d\\\"(187)\\n\\\"i\\\"(188)\\n\\\"t\\\"(189)\\n\\\"o\\\"(190)\\n\\\"r\\\"(191)\\nspace(192)\\n\\\"p\\\"(193)\\n\\\"a\\\"(194)\\n\\\"n\\\"(195)\\n\\\"e\\\"(196)\\n\\\"l\\\"(197)\\nspace(198)\\n\\\"t\\\"(199)\\n\\\"i\\\"(200)\\n\\\"t\\\"(201)\\n\\\"l\\\"(202)\\n\\\"e\\\"(203)\\n\\\"d\\\"(204)\\nspace(205)\\n\\\"'\\\"(206)\\n\\\"N\\\"(207)\\n\\\"a\\\"(208)\\n\\\"n\\\"(209)\\n\\\"o\\\"(210)\\nspace(211)\\n\\\"B\\\"(212)\\n\\\"a\\\"(213)\\n\\\"n\\\"(214)\\n\\\"a\\\"(215)\\n\\\"n\\\"(216)\\n\\\"a\\\"(217)\\n\\\"'\\\"(218)\\nspace(219)\\n\\\"w\\\"(220)\\n\\\"i\\\"(221)\\n\\\"t\\\"(222)\\n\\\"h\\\"(223)\\nspace(224)\\n\\\"e\\\"(225)\\n\\\"d\\\"(226)\\n\\\"i\\\"(227)\\n\\\"t\\\"(228)\\n\\\"i\\\"(229)\\n\\\"n\\\"(230)\\n\\\"g\\\"(231)\\nspace(232)\\n\\\"t\\\"(233)\\n\\\"o\\\"(234)\\n\\\"o\\\"(235)\\n\\\"l\\\"(236)\\n\\\"s\\\"(237)\\n\\\".\\\"(238)\\nspace(239)\\n\\\"S\\\"(240)\\n\\\"o\\\"(241\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-02-01",
-    "source_file": "Tech & AI News (Feb 1–2, 2026).pdf",
+    "source_file": "Tech & AI News (Feb 1\u20132, 2026).pdf",
     "page": 2,
     "title": "OpenAI Kills GPT-40 for GPT-5.2",
     "summary": "OpenAI announced the retirement of the popular GPT-40 and GPT-4.1 models effective February 13, 2026. Users will be forcibly migrated to the newer GPT-5.2 model, sparking debate about the loss of the older model's distinct 'personality'.",
     "engagement": "High",
-    "raw_text": "Bad news if you were a fan of GPT-40's personality. OpenAI just announced they are killing it off. Starting February 13th, GPT-40, GPT-4.1, and the mini variants are gone. They are migrating everyone to GPT-5.2. OpenAI claims 5.2 is better at everything—creative writing, coding, reasoning—but a lot of people really loved the specific 'warm' vibe of GPT-40. It's a reminder that we don't own these tools; we're just renting intelligence. If you have custom prompts or workflows built on 40, you have about two weeks to fix them before they break. RIP to the GOAT.",
-    "id": "Q7R8S9T0",
+    "raw_text": "Bad news if you were a fan of GPT-40's personality. OpenAI just announced they are killing it off. Starting February 13th, GPT-40, GPT-4.1, and the mini variants are gone. They are migrating everyone to GPT-5.2. OpenAI claims 5.2 is better at everything\u2014creative writing, coding, reasoning\u2014but a lot of people really loved the specific 'warm' vibe of GPT-40. It's a reminder that we don't own these tools; we're just renting intelligence. If you have custom prompts or workflows built on 40, you have about two weeks to fix them before they break. RIP to the GOAT.",
+    "id": "9e9fee07",
     "category": "AI",
     "companies": [
       "OpenAI"
@@ -82,13 +90,13 @@
   },
   {
     "date": "2026-02-01",
-    "source_file": "Tech & AI News (Feb 1–2, 2026).pdf",
+    "source_file": "Tech & AI News (Feb 1\u20132, 2026).pdf",
     "page": 1,
     "title": "Layoffs or 'AI-Washing'? The Truth Exposed",
     "summary": "A new Forrester report suggests that many of the 50,000+ job cuts attributed to AI last year were actually 'AI-washing' to cover for standard cost-cutting. Companies are using AI as an investor-friendly excuse for layoffs despite lacking mature automation systems.",
     "engagement": "High",
-    "raw_text": "We need to talk about the 'AI took my job' headlines. A new report from Forrester just exposed a massive corporate lie. They found that while companies claimed over 50,000 layoffs were due to AI last year, most of that was total BS—or 'AI-washing.' Basically, executives know that saying 'we're firing people to save money' looks bad, but saying 'we're pivoting to AI' makes stock prices go up. The reality? Most of these companies don't even have AI systems capable of replacing the people they fired. It's a PR tactic to make failing businesses look futuristic. Don't believe the hype.",
-    "id": "U1V2W3X4",
+    "raw_text": "We need to talk about the 'AI took my job' headlines. A new report from Forrester just exposed a massive corporate lie. They found that while companies claimed over 50,000 layoffs were due to AI last year, most of that was total BS\u2014or 'AI-washing.' Basically, executives know that saying 'we're firing people to save money' looks bad, but saying 'we're pivoting to AI' makes stock prices go up. The reality? Most of these companies don't even have AI systems capable of replacing the people they fired. It's a PR tactic to make failing businesses look futuristic. Don't believe the hype.",
+    "id": "bac0debd",
     "category": "Business",
     "companies": [
       "Forrester",
@@ -105,8 +113,8 @@
     "title": "Big Tech's $60 Billion Alliance",
     "summary": "NVIDIA, Microsoft, Amazon, and OpenAI have announced a collaborative $60 billion investment to build shared infrastructure for generative AI scaling. This unprecedented partnership aims to overcome physical bottlenecks in AI compute expansion.",
     "engagement": "High",
-    "raw_text": "The Avengers of Tech just assembled, and they brought their wallets. NVIDIA, Microsoft, Amazon, and OpenAI are pooling together a staggering $60 BILLION. They are building a massive collaborative infrastructure to support the next generation of AI scaling. This is huge because it signals that no single company—not even Microsoft—can build the hardware fast enough on their own. They are effectively building a 'public utility' for AI intelligence. It's a terrifying amount of power concentrated in four companies, but it also means we're about to see a jump in AI capabilities that we can't even imagine yet.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "The Avengers of Tech just assembled, and they brought their wallets. NVIDIA, Microsoft, Amazon, and OpenAI are pooling together a staggering $60 BILLION. They are building a massive collaborative infrastructure to support the next generation of AI scaling. This is huge because it signals that no single company\u2014not even Microsoft\u2014can build the hardware fast enough on their own. They are effectively building a 'public utility' for AI intelligence. It's a terrifying amount of power concentrated in four companies, but it also means we're about to see a jump in AI capabilities that we can't even imagine yet.",
+    "id": "2774eeb7",
     "category": "Business",
     "companies": [
       "NVIDIA",
@@ -115,7 +123,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/2774eeb7.png",
+    "image_prompt": "Silhouettes of NVIDIA, Microsoft, Amazon, OpenAI in a modern boardroom; a translucent data\u2011center dome with humming servers, neon\u2011lit city skyline outside; hands clasped over a glowing contract; dynamic light on polished metal."
   },
   {
     "date": "2026-02-01",
@@ -125,13 +135,15 @@
     "summary": "Nvidia has launched the Earth-2 platform, an open AI weather modeling system that runs 1,000 times faster than traditional supercomputer simulations. The system allows for kilometer-scale storm prediction and rapid climate scenario testing.",
     "engagement": "Medium",
     "raw_text": "Nvidia isn't just making chips for chatbots; they're trying to save the planet. They just launched 'Earth-2,' a digital twin of our climate. Traditional weather simulations take hours on massive supercomputers. Earth-2? It runs on AI and is 1,000 times faster. We're talking about predicting local storms down to the kilometer in seconds. This allows scientists to run thousands of 'what-if' scenarios to predict disasters before they happen. Energy companies are already seeing costs drop by 90% using this. It's one of the best examples of AI actually doing something useful for humanity beyond writing emails.",
-    "id": "C9D0E1F2",
+    "id": "09b2bcaf",
     "category": "Science",
     "companies": [
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/09b2bcaf.png",
+    "image_prompt": "A bright, modern control room filled with holographic screens depicting swirling, high\u2011resolution 3D weather models. A focused scientist in a lab coat leans over the main screen, watching a colorful storm cell erupt over a detailed globe, data streams flickering above."
   },
   {
     "date": "2026-02-01",
@@ -140,14 +152,16 @@
     "title": "India's Tax-Free AI Zone & Semiconductor Push",
     "summary": "India's 2026 budget introduces a tax holiday until 2047 for foreign cloud providers hosting AI workloads in the country. The initiative is paired with a 'Semiconductor Mission 2.0' to establish India as a global hub for AI compute and hardware.",
     "engagement": "Medium",
-    "raw_text": "India is making a massive play to become the world's AI factory. In their new budget, they announced a tax holiday that lasts until 2047—yes, 2047—for foreign companies that process AI data in India. If you're Amazon or Google and you sell cloud services to non-Indians but host it in India? Zero tax. They're also dumping billions into a 'Semiconductor Mission 2.0' to build chips locally. With power shortages hitting data centers in the West, India is basically hanging a giant 'Open for Business' sign for the AI industry. The geopolitical map of tech is shifting right now.",
-    "id": "G3H4I5J6",
+    "raw_text": "India is making a massive play to become the world's AI factory. In their new budget, they announced a tax holiday that lasts until 2047\u2014yes, 2047\u2014for foreign companies that process AI data in India. If you're Amazon or Google and you sell cloud services to non-Indians but host it in India? Zero tax. They're also dumping billions into a 'Semiconductor Mission 2.0' to build chips locally. With power shortages hitting data centers in the West, India is basically hanging a giant 'Open for Business' sign for the AI industry. The geopolitical map of tech is shifting right now.",
+    "id": "9f8f3c52",
     "category": "Policy",
     "companies": [],
     "people": [
       "Nirmala Sitharaman"
     ],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/9f8f3c52.png",
+    "image_prompt": "A vibrant Indian high\u2011tech district at dawn, sleek semiconductor fabs gleaming under sunrise, rows of humming server racks, AI workload visualized as glowing data streams, workers in reflective gear, a faint digital map of India glowing overhead, ambience of innovation and optimism."
   },
   {
     "date": "2026-02-01",
@@ -156,8 +170,8 @@
     "title": "OpenAI Prism: The 'Reasoning Partner' for Science",
     "summary": "OpenAI has launched Prism, a specialized workspace for scientists that integrates GPT-5.2 with LaTeX editing. The tool allows for deep context reasoning over entire manuscripts, moving beyond simple chat interfaces to assist with complex proofs and citations.",
     "engagement": "Medium",
-    "raw_text": "If you're in college or working in science, listen up. OpenAI just dropped 'Prism,' and it kills the old way of writing research papers. It's not just a chat bot; it's a full workspace that knows LaTeX and can see your entire document structure. It doesn't just write text; it checks your math proofs, formats your citations from Zotero instantly, and ensures your conclusions actually match your data. They're calling it a 'reasoning partner' rather than a writing assistant. This is going to speed up scientific discovery—or at least make writing your thesis way less painful.",
-    "id": "K7L8M9N0",
+    "raw_text": "If you're in college or working in science, listen up. OpenAI just dropped 'Prism,' and it kills the old way of writing research papers. It's not just a chat bot; it's a full workspace that knows LaTeX and can see your entire document structure. It doesn't just write text; it checks your math proofs, formats your citations from Zotero instantly, and ensures your conclusions actually match your data. They're calling it a 'reasoning partner' rather than a writing assistant. This is going to speed up scientific discovery\u2014or at least make writing your thesis way less painful.",
+    "id": "f7293464",
     "category": "Science",
     "companies": [
       "OpenAI"
@@ -165,6 +179,8 @@
     "people": [
       "Kevin Weil"
     ],
-    "created_at": "2026-02-02T12:02:55.000Z"
+    "created_at": "2026-02-02T12:02:55.000Z",
+    "image_url": "images/02_02_26/f7293464.png",
+    "image_prompt": "Modern lab station, glass desk, dual monitors glowing with a holographic interface of GPT\u20115.2 code and complex LaTeX equations, neon blue accents, a focused researcher in protective gear, sunlight filtering through tall windows, crisp, scientific ambience"
   }
 ]
