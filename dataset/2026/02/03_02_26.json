@@ -6,10 +6,15 @@
     "title": "Oracle's $50 Billion Cash Haul for AI Data Centers",
     "summary": "Oracle has announced a massive plan to raise $45-$50 billion in fiscal 2026 to fund AI infrastructure expansion. The capital is directly tied to 'contracted demand' from heavyweights like OpenAI, Meta, and Nvidia.",
     "engagement": "High",
-    "raw_text": "We need to talk about the insane amount of money moving around today. Oracle just announced they are raising FIFTY BILLION dollars. That is not a typo. They are securing $50 billion in cash specifically to build AI data centers. Why? Because they literally cannot build them fast enough for their clients. They've got contracts with OpenAI, Meta, and xAI, and the demand for compute is so high they are basically printing debt to build the factories. This confirms that the AI hardware boom is nowhere near over. If you thought the infrastructure build-out was slowing down, Oracle just bet the entire company that it’s just getting started.",
+    "raw_text": "We need to talk about the insane amount of money moving around today. Oracle just announced they are raising FIFTY BILLION dollars. That is not a typo. They are securing $50 billion in cash specifically to build AI data centers. Why? Because they literally cannot build them fast enough for their clients. They've got contracts with OpenAI, Meta, and xAI, and the demand for compute is so high they are basically printing debt to build the factories. This confirms that the AI hardware boom is nowhere near over. If you thought the infrastructure build-out was slowing down, Oracle just bet the entire company that it\u2019s just getting started.",
     "id": "oracle_50b_raise_001",
     "category": "Business",
-    "companies": ["Oracle", "OpenAI", "Nvidia", "Meta"],
+    "companies": [
+      "Oracle",
+      "OpenAI",
+      "Nvidia",
+      "Meta"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
@@ -20,10 +25,13 @@
     "title": "Snowflake & OpenAI: The $200M Enterprise Deal",
     "summary": "Snowflake has signed a multi-year, $200 million partnership with OpenAI to integrate GPT-5.2 and other models directly into Snowflake's data cloud. This allows enterprises to build AI agents on proprietary data without data leaving the secure environment.",
     "engagement": "Medium",
-    "raw_text": "This is a massive win for anyone working in enterprise tech. Snowflake just dropped $200 million to partner with OpenAI. Here is why this matters: companies are terrified of sending their private data to ChatGPT. But this deal brings the AI *to* the data. Now, Snowflake users can run OpenAI’s top-tier models—including the unreleased GPT-5.2—directly inside their secure cloud. It’s a huge move that signals we are moving from 'playing with chatbots' to 'building corporate AI agents' that actually know your business secrets without leaking them. If you're a data engineer, your job just got a lot more interesting.",
+    "raw_text": "This is a massive win for anyone working in enterprise tech. Snowflake just dropped $200 million to partner with OpenAI. Here is why this matters: companies are terrified of sending their private data to ChatGPT. But this deal brings the AI *to* the data. Now, Snowflake users can run OpenAI\u2019s top-tier models\u2014including the unreleased GPT-5.2\u2014directly inside their secure cloud. It\u2019s a huge move that signals we are moving from 'playing with chatbots' to 'building corporate AI agents' that actually know your business secrets without leaking them. If you're a data engineer, your job just got a lot more interesting.",
     "id": "snowflake_openai_002",
     "category": "Business",
-    "companies": ["Snowflake", "OpenAI"],
+    "companies": [
+      "Snowflake",
+      "OpenAI"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
@@ -43,15 +51,18 @@
   },
   {
     "date": "2026-01-29",
-    "source_file": "Tech & AI News – February 2, 2026.pdf",
+    "source_file": "Tech & AI News \u2013 February 2, 2026.pdf",
     "page": 2,
     "title": "Google's Project Genie: Playable 3D Worlds from Text",
     "summary": "Google DeepMind has launched 'Project Genie,' a prototype AI that generates interactive, playable 3D worlds from text or image prompts. Currently available to AI Ultra users, it represents a shift from static generation to dynamic world models.",
     "engagement": "High",
-    "raw_text": "Google DeepMind is showing off again, and this time it’s actually magical. They just released 'Project Genie.' You know how we generate images with Midjourney? Well, Genie generates *playable worlds*. You type 'alien jungle platformer,' and it doesn't just give you a screenshot—it builds a 3D environment you can control a character in. It’s basically a Holodeck engine. It’s an 'agentic world model,' meaning it understands physics and interaction, not just pixels. It’s live for AI Ultra users right now. This is the bridge between generative AI and video games, and honestly, the metaverse might finally be getting interesting.",
+    "raw_text": "Google DeepMind is showing off again, and this time it\u2019s actually magical. They just released 'Project Genie.' You know how we generate images with Midjourney? Well, Genie generates *playable worlds*. You type 'alien jungle platformer,' and it doesn't just give you a screenshot\u2014it builds a 3D environment you can control a character in. It\u2019s basically a Holodeck engine. It\u2019s an 'agentic world model,' meaning it understands physics and interaction, not just pixels. It\u2019s live for AI Ultra users right now. This is the bridge between generative AI and video games, and honestly, the metaverse might finally be getting interesting.",
     "id": "project_genie_004",
     "category": "AI",
-    "companies": ["Google", "DeepMind"],
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
@@ -62,12 +73,20 @@
     "title": "Nvidia & OpenAI Rift: The $100 Billion Breakup Rumors",
     "summary": "Reports suggest a planned $100 billion infrastructure deal between Nvidia and OpenAI is 'on ice' due to strategic conflicts and OpenAI's internal chip ambitions. The deal may be restructured into a smaller $30 billion equity investment.",
     "engagement": "High",
-    "raw_text": "There is major drama in Silicon Valley today. That massive $100 billion deal between Nvidia and OpenAI? Reports say it's 'on ice.' Apparently, OpenAI is burning $14 billion a year and wants to build their own chips to stop paying the 'Nvidia tax,' and Jensen Huang is not happy about it. The rumor is the deal might shrink to a $30 billion investment instead. It’s getting messy. This is basically a power struggle for who controls the future of compute: the guy making the chips, or the guy making the models. If this partnership falls apart, the whole AI roadmap for 2026 could change overnight.",
+    "raw_text": "There is major drama in Silicon Valley today. That massive $100 billion deal between Nvidia and OpenAI? Reports say it's 'on ice.' Apparently, OpenAI is burning $14 billion a year and wants to build their own chips to stop paying the 'Nvidia tax,' and Jensen Huang is not happy about it. The rumor is the deal might shrink to a $30 billion investment instead. It\u2019s getting messy. This is basically a power struggle for who controls the future of compute: the guy making the chips, or the guy making the models. If this partnership falls apart, the whole AI roadmap for 2026 could change overnight.",
     "id": "nvidia_openai_rift_005",
     "category": "Business",
-    "companies": ["Nvidia", "OpenAI"],
-    "people": ["Jensen Huang", "Sam Altman"],
-    "created_at": "2026-02-02T22:45:00.000Z"
+    "companies": [
+      "Nvidia",
+      "OpenAI"
+    ],
+    "people": [
+      "Jensen Huang",
+      "Sam Altman"
+    ],
+    "created_at": "2026-02-02T22:45:00.000Z",
+    "image_url": "images/03_02_26/nvidia_openai_rift_005.png",
+    "image_prompt": "Photorealistic cinematic news image: two corporate towers in Nvidia green and OpenAI blue split by a jagged chasm; foreground a high-end GPU and server racks, tangled glowing data cables, scattered coins hinting vast money, tense stormy lighting, high detail, realistic"
   },
   {
     "date": "2026-02-02",
@@ -76,25 +95,32 @@
     "title": "Carbon Robotics: Lasers vs. Weeds (The Large Plant Model)",
     "summary": "Carbon Robotics unveiled the 'Large Plant Model' (LPM) today, an AI trained on 150 million images to identify and laser-zap weeds. The system allows for real-time adaptation to new fields without manual data labeling.",
     "engagement": "Medium",
-    "raw_text": "Farming just got a sci-fi upgrade. Carbon Robotics dropped their 'Large Plant Model' today. Think of it like a specialized LLM, but instead of words, it knows plants—150 million of them. It powers their LaserWeeder robots, which literally drive over fields and shoot weeds with lasers. No chemicals, just thermal physics. The new AI lets the robot adapt to new fields instantly, 'seeing' the difference between a crop and a weed in milliseconds. It is incredibly satisfying to watch, but more importantly, it’s a huge step for autonomous farming. We are officially in the era of AI-powered agriculture.",
+    "raw_text": "Farming just got a sci-fi upgrade. Carbon Robotics dropped their 'Large Plant Model' today. Think of it like a specialized LLM, but instead of words, it knows plants\u2014150 million of them. It powers their LaserWeeder robots, which literally drive over fields and shoot weeds with lasers. No chemicals, just thermal physics. The new AI lets the robot adapt to new fields instantly, 'seeing' the difference between a crop and a weed in milliseconds. It is incredibly satisfying to watch, but more importantly, it\u2019s a huge step for autonomous farming. We are officially in the era of AI-powered agriculture.",
     "id": "carbon_robotics_006",
     "category": "Hardware",
-    "companies": ["Carbon Robotics"],
+    "companies": [
+      "Carbon Robotics"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
   {
     "date": "2026-01-30",
-    "source_file": "Tech & AI News – February 2, 2026.pdf",
+    "source_file": "Tech & AI News \u2013 February 2, 2026.pdf",
     "page": 3,
     "title": "Apple Confirms: Next-Gen Siri Powered by Google Gemini",
     "summary": "Apple CEO Tim Cook confirmed in an earnings call that the next-generation Siri will utilize Google's Gemini AI models for complex tasks, marking a major collaboration between the two mobile giants.",
     "engagement": "High",
-    "raw_text": "The walled garden has a new gate. Tim Cook officially confirmed that the next-gen Siri will run on Google Gemini. Not an Apple model—Google's model. This is a huge admission that Apple needs help on the AI front. While they are keeping sensitive data on-device with their own 'Private Cloud,' for the big brain questions, your iPhone is going to be talking to Google's servers. It’s a smart pivot to catch up fast, but it’s wild to see Apple relying so heavily on their biggest rival. Android and iOS are getting more similar by the day. The question is: will this finally make Siri actually useful?",
+    "raw_text": "The walled garden has a new gate. Tim Cook officially confirmed that the next-gen Siri will run on Google Gemini. Not an Apple model\u2014Google's model. This is a huge admission that Apple needs help on the AI front. While they are keeping sensitive data on-device with their own 'Private Cloud,' for the big brain questions, your iPhone is going to be talking to Google's servers. It\u2019s a smart pivot to catch up fast, but it\u2019s wild to see Apple relying so heavily on their biggest rival. Android and iOS are getting more similar by the day. The question is: will this finally make Siri actually useful?",
     "id": "apple_gemini_007",
     "category": "Mobile",
-    "companies": ["Apple", "Google"],
-    "people": ["Tim Cook"],
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "people": [
+      "Tim Cook"
+    ],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
   {
@@ -104,10 +130,14 @@
     "title": "China's AI War: DeepSeek V4 & The $4 Billion Giveaway",
     "summary": "As the Lunar New Year approaches, Chinese tech giants are escalating the AI race. Alibaba is putting $4.2 billion into a 'New Year Treat' to push Qwen 3.5, while DeepSeek prepares to launch its V4 model with 'visual causal flow' technology.",
     "engagement": "High",
-    "raw_text": "While we are watching OpenAI, there is a massive AI war happening in China right now. Alibaba just committed over $4 billion—yes, billion—to push their new Qwen 3.5 model into apps like Alipay for the Lunar New Year. But the real one to watch is DeepSeek. They are teasing 'DeepSeek V4' for a launch this month, featuring something called 'visual causal flow.' DeepSeek has been crushing it with efficient, open-source models that rival GPT-4 for a fraction of the cost. If V4 delivers on the hype, the global leaderboard is about to get shaken up again. The East vs. West AI race is heating up.",
+    "raw_text": "While we are watching OpenAI, there is a massive AI war happening in China right now. Alibaba just committed over $4 billion\u2014yes, billion\u2014to push their new Qwen 3.5 model into apps like Alipay for the Lunar New Year. But the real one to watch is DeepSeek. They are teasing 'DeepSeek V4' for a launch this month, featuring something called 'visual causal flow.' DeepSeek has been crushing it with efficient, open-source models that rival GPT-4 for a fraction of the cost. If V4 delivers on the hype, the global leaderboard is about to get shaken up again. The East vs. West AI race is heating up.",
     "id": "china_ai_war_008",
     "category": "AI",
-    "companies": ["Alibaba", "DeepSeek", "ByteDance"],
+    "companies": [
+      "Alibaba",
+      "DeepSeek",
+      "ByteDance"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
@@ -118,10 +148,12 @@
     "title": "Stanford's Quantum Leap: 1 Million Qubits?",
     "summary": "Physicists at Stanford published a breakthrough in 'Nature' today, detailing a new optical cavity system that solves the qubit readout bottleneck. The team believes this architecture provides a realistic path to 1-million-qubit networks.",
     "engagement": "Medium",
-    "raw_text": "Quantum computing just took a serious step toward reality. A team at Stanford published a paper in Nature today that might solve the 'readout' problem. Basically, looking at qubits usually messes them up. But they built these tiny optical cavities with microlenses that let them read thousands of atoms at once without destroying the data. They are saying this architecture scales to a MILLION qubits. For context, we are currently struggling to manage a few hundred. If this works, we aren't just talking about faster computers; we're talking about cracking encryption and designing new materials in seconds. It’s still early, but the physics checks out.",
+    "raw_text": "Quantum computing just took a serious step toward reality. A team at Stanford published a paper in Nature today that might solve the 'readout' problem. Basically, looking at qubits usually messes them up. But they built these tiny optical cavities with microlenses that let them read thousands of atoms at once without destroying the data. They are saying this architecture scales to a MILLION qubits. For context, we are currently struggling to manage a few hundred. If this works, we aren't just talking about faster computers; we're talking about cracking encryption and designing new materials in seconds. It\u2019s still early, but the physics checks out.",
     "id": "stanford_quantum_009",
     "category": "Science",
-    "companies": ["Stanford University"],
+    "companies": [
+      "Stanford University"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   },
@@ -132,10 +164,12 @@
     "title": "Samsung Galaxy S26 Launch Date Confirmed",
     "summary": "Leaked promotional material confirms the Samsung Galaxy S26 Unpacked event is set for February 25, 2026. The lineup features the S26, Plus, and Ultra, running on the new Exynos 2600 chip.",
     "engagement": "High",
-    "raw_text": "Samsung fans, we finally have a date. A leaked poster just confirmed the Galaxy S26 Unpacked event is happening on February 25th. They're launching later this year, likely to polish up the software. The big news? The curved 'Edge' screen is officially dead—good riddance—and the new Exynos 2600 chip is looking like a beast in the benchmarks. Samsung is promising to put Gemini-powered AI on 800 million devices this year, so expect this phone to be the smartest Android yet. I'm waiting to see the camera specs, but if you're due for an upgrade, you might want to wait a few weeks.",
+    "raw_text": "Samsung fans, we finally have a date. A leaked poster just confirmed the Galaxy S26 Unpacked event is happening on February 25th. They're launching later this year, likely to polish up the software. The big news? The curved 'Edge' screen is officially dead\u2014good riddance\u2014and the new Exynos 2600 chip is looking like a beast in the benchmarks. Samsung is promising to put Gemini-powered AI on 800 million devices this year, so expect this phone to be the smartest Android yet. I'm waiting to see the camera specs, but if you're due for an upgrade, you might want to wait a few weeks.",
     "id": "samsung_s26_010",
     "category": "Mobile",
-    "companies": ["Samsung"],
+    "companies": [
+      "Samsung"
+    ],
     "people": [],
     "created_at": "2026-02-02T22:45:00.000Z"
   }
