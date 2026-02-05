@@ -6,7 +6,7 @@
     "title": "Elon Musk Merges xAI into SpaceX: The $1.25 Trillion 'Space AI' Giant",
     "summary": "Elon Musk has finalized the merger of xAI into SpaceX, valuing the combined entity at $1.25 trillion. The move aims to utilize Starlink's satellite network for orbital data centers to bypass terrestrial energy and cooling constraints.",
     "engagement": "High",
-    "raw_text": "Okay, this is hands down the biggest story of the decade. Elon Musk has officially merged his AI company, xAI, into SpaceX, creating a massive $1.25 trillion juggernaut. Why? Because running AI on Earth is becoming a nightmare due to power shortages and heat. Musk’s solution is literally 'Space-Based AI.' \n\nThe plan is to use over 8,000 Starlink satellites as a laser-connected mesh network to host orbital data centers. Imagine training the next Grok model in space, cooled by the vacuum of the void, and beaming the intelligence down to Earth. This totally flips the script on Musk’s empire—SpaceX is now the main character, eclipsing Tesla. Investors are already losing their minds over a potential mega-IPO in June. We are officially entering the era of orbital intelligence.",
+    "raw_text": "Okay, this is hands down the biggest story of the decade. Elon Musk has officially merged his AI company, xAI, into SpaceX, creating a massive $1.25 trillion juggernaut. Why? Because running AI on Earth is becoming a nightmare due to power shortages and heat. Musk\u2019s solution is literally 'Space-Based AI.' The plan is to use over 8,000 Starlink satellites as a laser-connected mesh network to host orbital data centers. Imagine training the next Grok model in space, cooled by the vacuum of the void, and beaming the intelligence down to Earth. This totally flips the script on Musk\u2019s empire\u2014SpaceX is now the main character, eclipsing Tesla. Investors are already losing their minds over a potential mega-IPO in June. We are officially entering the era of orbital intelligence.",
     "id": "SPX99XAI",
     "category": "Business",
     "companies": [
@@ -17,7 +17,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-02-05T10:35:00Z"
+    "created_at": "2026-02-05T10:35:00Z",
+    "image_url": "images/05_02_26/SPX99XAI.png",
+    "image_prompt": "Photorealistic portrait of Elon Musk in a SpaceX hangar, arms folded, holographic ring of Starlink satellites and glowing orbital server modules circling Earth above, dramatic cool-blue cinematic lighting, high-detail, crisp news-photo composition, visionary mood"
   },
   {
     "date": "2026-02-05",
@@ -26,7 +28,7 @@
     "title": "Nvidia Drops $20 Billion on OpenAI: The Hardware King Buys In",
     "summary": "Nvidia is finalizing a $20 billion investment in OpenAI as part of a funding round valuing the AI lab at over $100 billion. This strategic move secures Nvidia as the primary hardware supplier and provides equity exposure to OpenAI's inference revenue.",
     "engagement": "High",
-    "raw_text": "If you thought Nvidia was just selling shovels during the gold rush, think again. They are buying the mine. Jensen Huang is dropping a staggering $20 billion investment directly into OpenAI. This isn't just charity; it's a defensive power play. \n\nRumors were flying that OpenAI was looking at AMD or building their own chips. Nvidia just shut that down. By owning a chunk of OpenAI, they guarantee their GPUs stay in the racks for the next generation of models like GPT-6. Plus, Nvidia now gets a cut of the profit every time you use ChatGPT. This is vertical integration on steroids, and it solidifies Nvidia's stranglehold on the AI industry.",
+    "raw_text": "If you thought Nvidia was just selling shovels during the gold rush, think again. They are buying the mine. Jensen Huang is dropping a staggering $20 billion investment directly into OpenAI. This isn't just charity; it's a defensive power play. Rumors were flying that OpenAI was looking at AMD or building their own chips. Nvidia just shut that down. By owning a chunk of OpenAI, they guarantee their GPUs stay in the racks for the next generation of models like GPT-6. Plus, Nvidia now gets a cut of the profit every time you use ChatGPT. This is vertical integration on steroids, and it solidifies Nvidia's stranglehold on the AI industry.",
     "id": "NVDA20OPEN",
     "category": "Business",
     "companies": [
@@ -46,7 +48,7 @@
     "title": "Faraday Future Launches Humanoid Robots: The 'FF Futurist' is Here",
     "summary": "Faraday Future has pivoted to Embodied AI, launching three robot series including a full-size humanoid and a quadruped. Powered by NVIDIA Orin, these robots feature up to 200 TOPS of compute and advanced mobility for home and security use.",
     "engagement": "High",
-    "raw_text": "We’ve seen the Tesla Optimus, but Faraday Future just entered the chat with something wild. They launched three new robots in Las Vegas today, and they are not messing around. The flagship is the 'FF Futurist,' a full-size humanoid that speaks 50 languages and uses LiDAR to navigate your house. \n\nBut here’s the kicker—they also dropped the 'FX Aegis,' a robot dog that can climb 40-degree slopes and is built for security patrols. They’re pricing the humanoid around $35k, which is expensive but actually attainable for early adopters. It looks like 2026 is officially the year AI gets a body and walks into our living rooms. I’m terrified and excited at the same time.",
+    "raw_text": "We\u2019ve seen the Tesla Optimus, but Faraday Future just entered the chat with something wild. They launched three new robots in Las Vegas today, and they are not messing around. The flagship is the 'FF Futurist,' a full-size humanoid that speaks 50 languages and uses LiDAR to navigate your house. But here\u2019s the kicker\u2014they also dropped the 'FX Aegis,' a robot dog that can climb 40-degree slopes and is built for security patrols. They\u2019re pricing the humanoid around $35k, which is expensive but actually attainable for early adopters. It looks like 2026 is officially the year AI gets a body and walks into our living rooms. I\u2019m terrified and excited at the same time.",
     "id": "FARAROBOT26",
     "category": "Hardware",
     "companies": [
@@ -63,7 +65,7 @@
     "title": "Apple Leak: iPhone 17e & M5 Chips Arriving This Month",
     "summary": "Leaks indicate Apple will launch the iPhone 17e on February 19 with a new C1 modem and MagSafe updates. Additionally, the upcoming M5 Pro and Max chips will feature TSMC's SoIC packaging to prevent thermal throttling in AI workloads.",
     "engagement": "High",
-    "raw_text": "Apple fans, get your wallets ready. We just got a massive leak pointing to a February 19th launch for the iPhone 17e. It’s shaping up to be the budget king with next-gen 5G and faster wireless charging. \n\nBut the real news for the pros is the M5 chip. Apple is finally changing how they package these chips using TSMC’s new 3D stacking tech. Why? Heat. The current chips get too hot when running heavy local AI, and Apple knows 'Apple Intelligence' needs more headroom. The M5 is basically designed to be an AI workhorse without melting your MacBook. If you’ve been holding off on an upgrade, this is the one you were waiting for.",
+    "raw_text": "Apple fans, get your wallets ready. We just got a massive leak pointing to a February 19th launch for the iPhone 17e. It\u2019s shaping up to be the budget king with next-gen 5G and faster wireless charging. But the real news for the pros is the M5 chip. Apple is finally changing how they package these chips using TSMC\u2019s new 3D stacking tech. Why? Heat. The current chips get too hot when running heavy local AI, and Apple knows 'Apple Intelligence' needs more headroom. The M5 is basically designed to be an AI workhorse without melting your MacBook. If you\u2019ve been holding off on an upgrade, this is the one you were waiting for.",
     "id": "APPLM5LEAK",
     "category": "Mobile",
     "companies": [
@@ -80,7 +82,7 @@
     "title": "Google Hits $400B Revenue as AI CaPex Doubles to $185 Billion",
     "summary": "Alphabet reported annual revenue topping $400 billion, driven by 48% growth in Google Cloud. The company announced a massive capital expenditure forecast of up to $185 billion for 2026 to build data centers and custom silicon.",
     "engagement": "Medium",
-    "raw_text": "Google just dropped their earnings, and the numbers are absolute insanity. They crossed $400 billion in revenue for the first time, but that’s not the crazy part. The crazy part is how much they are spending. \n\nThey plan to spend up to $185 billion this year alone on AI infrastructure. To put that in perspective, that’s more than the GDP of some countries. They are building data centers and buying chips at a pace we have never seen in history. Sundar Pichai basically said they are still supply-constrained, meaning they can't build this stuff fast enough. This confirms that the AI arms race isn't slowing down; it's actually accelerating. If you're in the cloud business, business is booming.",
+    "raw_text": "Google just dropped their earnings, and the numbers are absolute insanity. They crossed $400 billion in revenue for the first time, but that\u2019s not the crazy part. The crazy part is how much they are spending. They plan to spend up to $185 billion this year alone on AI infrastructure. To put that in perspective, that\u2019s more than the GDP of some countries. They are building data centers and buying chips at a pace we have never seen in history. Sundar Pichai basically said they are still supply-constrained, meaning they can't build this stuff fast enough. This confirms that the AI arms race isn't slowing down; it's actually accelerating. If you're in the cloud business, business is booming.",
     "id": "GOOG400B",
     "category": "Business",
     "companies": [
@@ -91,7 +93,9 @@
       "Sundar Pichai",
       "Anat Ashkenazi"
     ],
-    "created_at": "2026-02-05T10:35:00Z"
+    "created_at": "2026-02-05T10:35:00Z",
+    "image_url": "images/05_02_26/GOOG400B.png",
+    "image_prompt": "Hyperreal photo: dusk aerial of sprawling data\u2011center campus with glowing server halls, cranes and construction, foreground engineer holding a glowing custom AI chip, translucent upward financial graph hologram, cinematic lighting, ultra\u2011detailed, newsworthy mood"
   },
   {
     "date": "2026-02-05",
@@ -100,7 +104,7 @@
     "title": "Amazon launches 'AI Studio' to Automate Hollywood Production",
     "summary": "Amazon MGM Studios has launched 'AI Studio,' a team of engineers and scientists integrating generative AI into film production to reduce costs. The initiative aims to speed up scripts, character design, and post-production, despite labor concerns.",
     "engagement": "Medium",
-    "raw_text": "Amazon is officially bringing AI to Hollywood, and it’s going to ruffle some feathers. They just launched 'AI Studio' inside MGM, and it's not run by creatives—it's run by engineers. \n\nThe goal? Slash those spiraling production budgets. They want to use AI for everything from analyzing scripts to designing characters and speeding up post-production. While they claim it's about 'enhancing creativity,' let's be real: this is about efficiency and cost-cutting. With 16,000 corporate roles already cut at Amazon recently, this signals a massive shift in how movies will be made. The blockbuster of the future might be co-directed by an algorithm.",
+    "raw_text": "Amazon is officially bringing AI to Hollywood, and it\u2019s going to ruffle some feathers. They just launched 'AI Studio' inside MGM, and it's not run by creatives\u2014it's run by engineers. The goal? Slash those spiraling production budgets. They want to use AI for everything from analyzing scripts to designing characters and speeding up post-production. While they claim it's about 'enhancing creativity,' let's be real: this is about efficiency and cost-cutting. With 16,000 corporate roles already cut at Amazon recently, this signals a massive shift in how movies will be made. The blockbuster of the future might be co-directed by an algorithm.",
     "id": "AMZNSTUDIO26",
     "category": "AI",
     "companies": [
@@ -111,7 +115,9 @@
       "Jeff Bezos",
       "Albert Cheng"
     ],
-    "created_at": "2026-02-05T10:35:00Z"
+    "created_at": "2026-02-05T10:35:00Z",
+    "image_url": "images/05_02_26/AMZNSTUDIO26.png",
+    "image_prompt": "Sleek Hollywood soundstage: engineers and filmmakers around a glowing AI holographic storyboard, robotic camera cranes, film reels, worried crew silhouettes, cool blue cinematic lighting, tense futuristic newsroom mood"
   },
   {
     "date": "2026-02-05",
@@ -120,7 +126,7 @@
     "title": "MedBeads: The Blockchain Tech Fixing Medical AI Hallucinations",
     "summary": "A new research paper introduces MedBeads, an architecture that uses immutable cryptographic chains to store medical records. This prevents AI hallucinations by forcing agents to traverse causal links rather than relying on probabilistic search.",
     "engagement": "Medium",
-    "raw_text": "We all know AI lies sometimes, which is terrifying when it comes to medical advice. But a new paper dropped today called 'MedBeads' that might actually fix this. \n\nInstead of letting an AI guess your medical history based on keywords, this system locks every medical event into a cryptographic chain—kind of like a blockchain for your health records. If the AI tries to make something up or if someone tampers with the data, the chain breaks and the system flags it immediately. This moves us from 'probabilistic' guessing to 'deterministic' fact-checking. It’s a huge step toward having AI doctors that we can actually trust.",
+    "raw_text": "We all know AI lies sometimes, which is terrifying when it comes to medical advice. But a new paper dropped today called 'MedBeads' that might actually fix this. Instead of letting an AI guess your medical history based on keywords, this system locks every medical event into a cryptographic chain\u2014kind of like a blockchain for your health records. If the AI tries to make something up or if someone tampers with the data, the chain breaks and the system flags it immediately. This moves us from 'probabilistic' guessing to 'deterministic' fact-checking. It\u2019s a huge step toward having AI doctors that we can actually trust.",
     "id": "MEDBEADS26",
     "category": "Science",
     "companies": [],
@@ -136,7 +142,7 @@
     "title": "TSMC Invests $165 Billion in US for 2nm Chips",
     "summary": "TSMC has committed $165 billion to expand its Arizona manufacturing specifically for 2nm process mass production starting in 2026. This follows a new US-Taiwan trade agreement reducing tariffs on semiconductor materials.",
     "engagement": "Medium",
-    "raw_text": "The chip wars just got even more expensive. TSMC is dropping a mind-blowing $165 billion to build out their 2-nanometer factories in Arizona. \n\nThis is the 'Silicon Shield' in action. 2nm is the bleeding edge—the physics get really weird at that size—and mass production starts this year. This ensures that the US has domestic access to the absolute fastest chips for AI and military use. If you’re wondering why your next GPU is going to be so fast (and probably expensive), this is why. The infrastructure being built right now is astronomical.",
+    "raw_text": "The chip wars just got even more expensive. TSMC is dropping a mind-blowing $165 billion to build out their 2-nanometer factories in Arizona. This is the 'Silicon Shield' in action. 2nm is the bleeding edge\u2014the physics get really weird at that size\u2014and mass production starts this year. This ensures that the US has domestic access to the absolute fastest chips for AI and military use. If you\u2019re wondering why your next GPU is going to be so fast (and probably expensive), this is why. The infrastructure being built right now is astronomical.",
     "id": "TSMC165B",
     "category": "Hardware",
     "companies": [
@@ -152,14 +158,16 @@
     "title": "OpenAI Builds 'Ads Integrity' Team After Ad Integration",
     "summary": "Following the introduction of ads in ChatGPT, OpenAI is hiring a specialized team to prevent fraud and maintain user trust. The team will focus on real-time content evaluation and adversarial risk modeling.",
     "engagement": "Low",
-    "raw_text": "So, ads are coming to ChatGPT. We knew it would happen, but now OpenAI is scrambling to make sure it doesn't turn into a spam fest. They are building a brand new 'Ads Integrity' team from scratch. \n\nThey're hiring engineers specifically to stop scammers and ensure the ads don't trick the AI into saying dangerous stuff. It’s a necessary evil if they want to monetize, but it definitely changes the vibe of the platform. If you see a sponsored link in your next chat, just know there's a team of engineers sweating behind the scenes trying to make sure it's not a crypto scam.",
+    "raw_text": "So, ads are coming to ChatGPT. We knew it would happen, but now OpenAI is scrambling to make sure it doesn't turn into a spam fest. They are building a brand new 'Ads Integrity' team from scratch. They're hiring engineers specifically to stop scammers and ensure the ads don't trick the AI into saying dangerous stuff. It\u2019s a necessary evil if they want to monetize, but it definitely changes the vibe of the platform. If you see a sponsored link in your next chat, just know there's a team of engineers sweating behind the scenes trying to make sure it's not a crypto scam.",
     "id": "OPENAIADS26",
     "category": "Business",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-05T10:35:00Z"
+    "created_at": "2026-02-05T10:35:00Z",
+    "image_url": "images/05_02_26/OPENAIADS26.png",
+    "image_prompt": "High\u2011resolution command center: diverse analysts at curved desks, dozens of monitors with blurred ad thumbnails, glowing graphs, alert icons and abstract AI data streams; cool blue lighting, tense focused mood, cinematic realism"
   },
   {
     "date": "2026-02-05",
@@ -168,7 +176,7 @@
     "title": "UN Launches Global AI Scientific Panel",
     "summary": "The UN has established an Independent International Scientific Panel on AI, modeled after the climate change IPCC. The 40-member panel includes Nobel laureates and tech leaders to advise global policymakers on AI risks.",
     "engagement": "Low",
-    "raw_text": "The United Nations is finally treating AI like the global crisis it is. They just launched a scientific panel for AI, basically the exact same setup they use for climate change. \n\nThey’ve got heavy hitters like Nobel laureate Maria Ressa and AI godfather Yoshua Bengio on board. The goal is to figure out what AI is actually doing to our economies and safety, without the corporate spin. It’s bureaucratic, sure, but having an independent 'referee' for global AI development is something we’ve desperately needed.",
+    "raw_text": "The United Nations is finally treating AI like the global crisis it is. They just launched a scientific panel for AI, basically the exact same setup they use for climate change. They\u2019ve got heavy hitters like Nobel laureate Maria Ressa and AI godfather Yoshua Bengio on board. The goal is to figure out what AI is actually doing to our economies and safety, without the corporate spin. It\u2019s bureaucratic, sure, but having an independent 'referee' for global AI development is something we\u2019ve desperately needed.",
     "id": "UNPANEL26",
     "category": "Business",
     "companies": [
@@ -177,7 +185,7 @@
       "Microsoft"
     ],
     "people": [
-      "António Guterres",
+      "Ant\u00f3nio Guterres",
       "Maria Ressa",
       "Yoshua Bengio"
     ],
