@@ -1,0 +1,183 @@
+[
+  {
+    "date": "2026-02-04",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Elon Musk Merges SpaceX and xAI for \"Orbital Compute\"",
+    "summary": "Elon Musk has officially acquired xAI through SpaceX to create a private tech giant focused on launching orbital data centers. The merger aims to bypass terrestrial power constraints by hosting AI compute clusters in space, utilizing solar power and vacuum cooling[cite: 57, 124].",
+    "engagement": "High",
+    "raw_text": "Okay, stop scrolling because this is actually insane. Elon Musk just merged SpaceX and xAI into one massive company, and the reason is straight out of a sci-fi movie. [cite_start]They aren't just building rockets or chatbots anymore; they are building 'Orbital Data Centers.' [cite: 57]\n\nHere's the wild part: we're running out of power on Earth for all these AI chips, right? So Elon's solution is to launch millions of servers into space. They're going to use the vacuum of space for cooling—which is free—and solar power for energy. It’s a closed-loop intelligence system orbiting the planet. Analysts are calling this a $1.25 trillion play. Honestly, this changes the entire infrastructure game. [cite_start]While we're worried about power grids failing, they're literally taking the cloud... into the actual clouds. [cite: 59, 62]",
+    "id": "SPX-XAI-001",
+    "category": "Business",
+    "companies": [
+      "SpaceX",
+      "xAI"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-04",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Anthropic's Claude Opus 4.6 Just Killed the Context Limit",
+    "summary": "Anthropic has released Claude Opus 4.6, featuring a massive 1-million-token context window and a new 'Adaptive Thinking' mechanism. [cite_start]The model outperforms GPT-5.2 in key benchmarks and introduces 'Opus-class' agentic workflows capable of processing entire software repositories[cite: 8, 10].",
+    "engagement": "High",
+    "raw_text": "If you're a developer or just love AI, you need to hear this. Anthropic just dropped Claude Opus 4.6, and it is a monster. We are talking about a 1-million-token context window. Do you know how big that is? [cite_start]You can feed it entire software repositories, thousands of legal docs, or whole books, and it won't forget a thing. [cite: 9]\n\nBut it's not just about size. It has this new feature called 'Adaptive Thinking.' Basically, the model decides on its own when it needs to stop and think deeply about a problem versus when to just give you a quick answer. It's crushing benchmarks right now—beating GPT-5.2 in economic knowledge and leading in coding. [cite_start]This isn't just a chatbot update; this is a digital coworker. [cite: 10, 12]",
+    "id": "CLD-OPS-002",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "people": [
+      "Dario Amodei"
+    ],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-08",
+    "source_file": "Combined",
+    "page": 4,
+    "title": "Super Bowl LX: The \"AI Ad War\" Explodes",
+    "summary": "Super Bowl LX featured a high-stakes advertising battle between Anthropic and OpenAI, with ad spots costing up to $10 million. [cite_start]Anthropic's campaign directly attacked OpenAI's potential ad-supported model, while other tech giants like Google and Meta showcased consumer AI integration[cite: 73, 76].",
+    "engagement": "High",
+    "raw_text": "Did you catch the Super Bowl ads? Because the real game wasn't on the field—it was between the AI giants. We're calling this the 'AI Super Bowl.' [cite_start]Companies dropped $10 million for 30-second spots, and things got spicy. [cite: 73]\n\nAnthropic literally paid millions to roast OpenAI. Their ad showed a creepy encounter to drive home the point: 'Ads are coming to AI. But not to Claude.' It’s a direct shot at Sam Altman and ChatGPT. Meanwhile, OpenAI is pushing their coding tools as everyday utilities, and Meta has Spike Lee showing off smart glasses. But here's the kicker—audience reaction was mixed. People are actually tweeting 'WTF' at some of these surreal AI visuals. [cite_start]It’s a massive cash burn to win your trust, but are you buying it? [cite: 76, 77]",
+    "id": "SB-ADS-003",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "OpenAI",
+      "Google",
+      "Meta"
+    ],
+    "people": [
+      "Sam Altman",
+      "Dario Amodei",
+      "Spike Lee"
+    ],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-08",
+    "source_file": "Tech News & AI Highlights – February 8, 2026.pdf",
+    "page": 1,
+    "title": "India's Sarvam AI Launches \"Bulbul V3\" Voice Model",
+    "summary": "Indian startup Sarvam AI has unveiled Bulbul V3, a text-to-speech model optimized for 11 Indian languages with 35 lifelike voices. [cite_start]The model handles code-mixing and accents naturally, part of a 14-day product blitz ahead of India's AI Impact Summit[cite: 185].",
+    "engagement": "High",
+    "raw_text": "If you're in India, this is the AI news you've been waiting for. Sarvam AI just launched Bulbul V3, and it's changing the voice game. [cite_start]This isn't just another robotic text-to-speech; it's optimized for 11 Indian languages and handles 'code-mixing'—you know, switching between Hindi and English naturally—like a pro. [cite: 185]\n\nIt features 35 high-quality voices that actually understand tone and pauses. They released this as part of a massive 14-day launch sprint. For developers and creators in India, this is huge because it finally gives us tools that understand *our* accents and *our* way of speaking. [cite_start]We're seeing the rise of 'Sovereign AI' right here. [cite: 185, 186]",
+    "id": "SARVAM-004",
+    "category": "AI",
+    "companies": [
+      "Sarvam AI"
+    ],
+    "people": [],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-06",
+    "source_file": "Tech News Report Generation Request (2).docx",
+    "page": 4,
+    "title": "Crypto.com CEO Buys ai.com for $70M",
+    "summary": "Kris Marszalek, CEO of Crypto.com, purchased the domain ai.com for a record $70 million to launch a platform for personal autonomous agents. [cite_start]The service allows users to create agents that can trade stocks, manage workflows, and handle social logistics[cite: 66, 67].",
+    "engagement": "High",
+    "raw_text": "Okay, imagine spending $70 million on a domain name. That’s what Kris Marszalek from Crypto.com just did for 'ai.com'. [cite_start]But he's not just sitting on it—he's launching a platform for personal AI agents. [cite: 66]\n\nThis isn't another chatbot. You go to the site, and in 60 seconds, you spin up an agent that actually *does* stuff. We're talking trading stocks, sending messages, managing your calendar, even updating your dating profile. And the coolest part? It has 'Network Scale Self-Improvement.' If one agent learns a new skill, they all get smarter. [cite_start]It’s basically a hive mind for productivity. [cite: 68, 71]",
+    "id": "AICOM-005",
+    "category": "AI",
+    "companies": [
+      "Crypto.com",
+      "ai.com"
+    ],
+    "people": [
+      "Kris Marszalek"
+    ],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-08",
+    "source_file": "Tech News Report Generation Request (2).docx",
+    "page": 2,
+    "title": "Moonshot AI Launches Trillion-Parameter \"Kimi K2.5\"",
+    "summary": "Moonshot AI has launched Kimi K2.5, a trillion-parameter Mixture-of-Experts model that uses an 'Agent Swarm' architecture. [cite_start]The model decomposes tasks to spawn up to 100 specialized sub-agents for parallel execution, boosting speed by 4.5x[cite: 23, 24].",
+    "engagement": "High",
+    "raw_text": "We have a new challenger in the trillion-parameter club. Moonshot AI just dropped Kimi K2.5, and its architecture is mind-blowing. [cite_start]It uses something called an 'Agent Swarm.' [cite: 23]\n\nInstead of one AI trying to solve your problem, Kimi splits the task up and spawns up to 100 specialized sub-agents. You get a 'Financial Analyst' agent, a 'Data Extraction' agent, and a 'Synthesizer' agent all working at the same time. They claim it's 4.5 times faster than traditional models. [cite_start]This is what the future of AI looks like—not just one bot, but a whole army of them working for you instantly. [cite: 24]",
+    "id": "KIMI-K25-006",
+    "category": "AI",
+    "companies": [
+      "Moonshot AI"
+    ],
+    "people": [],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-08",
+    "source_file": "Tech News Report Generation Request (2).docx",
+    "page": 5,
+    "title": "World's First Humanoid Robot Gala in Shanghai",
+    "summary": "Shanghai-based robotics firm AGIBOT hosted the world's first live gala completely led by humanoid robots. [cite_start]The event demonstrated the maturity of embodied intelligence with robots performing dance, magic, and comedy routines alongside industrial tasks[cite: 80, 81].",
+    "engagement": "High",
+    "raw_text": "We've seen the demos, but this is next level. A company called AGIBOT just hosted a full-on gala in Shanghai where the hosts and performers were... robots. [cite_start]Not people in suits, actual humanoid robots. [cite: 80]\n\nThey were dancing, doing magic tricks, and cracking jokes. They've already shipped 5,000 of these units. This isn't a lab experiment anymore; these things are walking among us. They showed off robots for everything—industrial work, education, and even showrooms. It’s wild to see them moving so naturally on stage. [cite_start]We are officially entering the era of 'Embodied Intelligence.' [cite: 81, 84]",
+    "id": "AGI-BOT-007",
+    "category": "Hardware",
+    "companies": [
+      "AGIBOT"
+    ],
+    "people": [],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-06",
+    "source_file": "Combined",
+    "page": 8,
+    "title": "Apple Opens CarPlay to ChatGPT and Claude",
+    "summary": "Apple is preparing a CarPlay update that will allow third-party AI voice assistants like ChatGPT, Claude, and Gemini to run directly within the car interface. [cite_start]While Siri remains the default, this move opens the automotive ecosystem to competing AI models[cite: 421].",
+    "engagement": "High",
+    "raw_text": "Finally! Apple is opening up the walled garden. A new report says Apple CarPlay is going to let you use third-party AI chatbots while you drive. [cite_start]So if you prefer chatting with ChatGPT or Claude instead of Siri, you can actually do that now. [cite: 421]\n\nThis is a massive shift for Apple. They usually keep everything locked down, but with everyone wanting smarter AI in their cars, they had to make a move. Siri is still the default, obviously, but having the option to bring your own AI co-pilot on a road trip is a game changer. [cite_start]It looks like the battle for the dashboard is just getting started. [cite: 423]",
+    "id": "APPL-CAR-008",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "OpenAI",
+      "Google",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-06",
+    "source_file": "Combined",
+    "page": 5,
+    "title": "NASA Approved: Astronauts Can Finally Bring iPhones to Space",
+    "summary": "NASA has updated its policy to allow astronauts on upcoming SpaceX Crew-12 and Artemis II missions to bring personal smartphones, including iPhones. [cite_start]This marks a shift away from rigid legacy hardware restrictions toward adopting consumer technology in space[cite: 358].",
+    "engagement": "Medium",
+    "raw_text": "You'd think going to space means you get the coolest tech, but for years NASA astronauts couldn't even bring their phones. That just changed. [cite_start]NASA announced that for the next SpaceX and Artemis missions, astronauts can finally bring their iPhones. [cite: 358]\n\nIt sounds small, but it's actually a big deal. NASA is notorious for strict, slow hardware checks. Allowing consumer phones means they are finally accepting that the tech in your pocket is powerful enough for space travel. Imagine the Instagram stories from the Moon! [cite_start]It’s a cool step toward making space travel feel a little more... normal. [cite: 361]",
+    "id": "NASA-IPH-009",
+    "category": "Science",
+    "companies": [
+      "NASA",
+      "Apple",
+      "SpaceX"
+    ],
+    "people": [
+      "Jared Isaacman"
+    ],
+    "created_at": "2026-02-08T21:45:00Z"
+  },
+  {
+    "date": "2026-02-08",
+    "source_file": "Tech News & AI Highlights – February 8, 2026.pdf",
+    "page": 1,
+    "title": "Flexible \"Bendable\" AI Chips for Next-Gen Wearables",
+    "summary": "Researchers have developed a new bendable AI microchip capable of running neural networks even when flexed. [cite_start]This innovation allows for ultra-thin wearable sensors that process health data locally on the device without needing rigid silicon components[cite: 191].",
+    "engagement": "Medium",
+    "raw_text": "Check this out—scientists just invented a computer chip that you can bend. Like, actually flex it, and it still runs AI. [cite_start]This is huge for wearables. [cite: 191]\n\nRight now, your smartwatch is bulky because the chips inside are rigid silicon. But this new thin-film chip allows for devices that are basically like skin patches. They can monitor your heart rate or motion and process that data right there on your body without sending it to the cloud. It saves battery and keeps your data private. [cite_start]Hardware is finally catching up to the AI software boom. [cite: 191]",
+    "id": "FLEX-CHIP-010",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-02-08T21:45:00Z"
+  }
+]
