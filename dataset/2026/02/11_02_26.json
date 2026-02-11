@@ -6,7 +6,7 @@
     "title": "OpenClaw Goes Viral: The \"ChatGPT Moment\" for Agents",
     "summary": "An open-source tool called OpenClaw (formerly ClawdBot) has gone viral, earning over 20,000 GitHub stars in a day. It enables AI agents to autonomously execute complex workflows across apps like WhatsApp and Slack, sparking a new development trend called \"Vibe Coding.\"",
     "engagement": "High",
-    "raw_text": "Stop what you are doing. We might be looking at the 'ChatGPT moment' for AI agents. A new open-source tool called OpenClaw just dropped, and it is absolutely blowing up—we're talking 20,000 GitHub stars in 24 hours. So, what does it do? Unlike a chatbot that just talks, OpenClaw actually *does* things. It connects to your WhatsApp, Slack, and local files to automate entire workflows. It’s model-agnostic, privacy-focused, and it's fueling a crazy new trend called 'Vibe Coding'—where you just describe the 'vibe' of an app you want, and the AI builds it. SaaS companies like Monday.com are tanking because investors think this tool might make paid software obsolete. If you're a developer, you need to look at this now.",
+    "raw_text": "Stop what you are doing. We might be looking at the 'ChatGPT moment' for AI agents. A new open-source tool called OpenClaw just dropped, and it is absolutely blowing up\u2014we're talking 20,000 GitHub stars in 24 hours. So, what does it do? Unlike a chatbot that just talks, OpenClaw actually *does* things. It connects to your WhatsApp, Slack, and local files to automate entire workflows. It\u2019s model-agnostic, privacy-focused, and it's fueling a crazy new trend called 'Vibe Coding'\u2014where you just describe the 'vibe' of an app you want, and the AI builds it. SaaS companies like Monday.com are tanking because investors think this tool might make paid software obsolete. If you're a developer, you need to look at this now.",
     "id": "OC-VIBE-001",
     "category": "AI",
     "companies": [
@@ -18,7 +18,9 @@
       "Peter Steinberger",
       "Andrej Karpathy"
     ],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/OC-VIBE-001.png",
+    "image_prompt": "Photo\u2011realistic newsroom scene: open laptop showing animated workflow graph bridging WhatsApp and Slack icons, glowing agent nodes, diverse developers gathered around with excited expressions, dynamic motion blur, warm cinematic lighting, shallow depth of field \u2014 no text."
   },
   {
     "date": "2026-02-10",
@@ -27,7 +29,7 @@
     "title": "OpenAI Officially Starts Testing Ads in ChatGPT",
     "summary": "OpenAI has begun testing advertisements within ChatGPT for free-tier users in the US. The ads are clearly labeled and do not influence the AI's answers, marking a major shift toward a hybrid revenue model to subsidize compute costs.",
     "engagement": "High",
-    "raw_text": "It’s finally happening. The ads are coming to ChatGPT. OpenAI just confirmed they are testing ads for free users in the US. Now, before you panic—they promise the advertisers can't influence the actual answers. The ads just show up around the chat. But let's be real, this is a huge shift. They have 800 million weekly users and running those servers costs a fortune, so they are pivoting to a hybrid model: pay with your wallet for Pro, or pay with your attention for Free. It puts them in direct competition with Google Search. Are you sticking with the free version, or is this the push you needed to upgrade?",
+    "raw_text": "It\u2019s finally happening. The ads are coming to ChatGPT. OpenAI just confirmed they are testing ads for free users in the US. Now, before you panic\u2014they promise the advertisers can't influence the actual answers. The ads just show up around the chat. But let's be real, this is a huge shift. They have 800 million weekly users and running those servers costs a fortune, so they are pivoting to a hybrid model: pay with your wallet for Pro, or pay with your attention for Free. It puts them in direct competition with Google Search. Are you sticking with the free version, or is this the push you needed to upgrade?",
     "id": "OAI-ADS-002",
     "category": "Business",
     "companies": [
@@ -37,7 +39,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/OAI-ADS-002.png",
+    "image_prompt": "A modern office setting, a woman in business casual sits at a sleek desk, laptop glowing with ChatGPT open. A subtle banner ad with a bright blue bar tops the conversation. Ambient office light, focused expression, tech vibe, no text overlay."
   },
   {
     "date": "2026-02-10",
@@ -46,7 +50,7 @@
     "title": "OpenAI's \"Jony Ive\" Hardware Delayed to 2027",
     "summary": "OpenAI's highly anticipated consumer hardware device, co-developed with legendary designer Jony Ive, has been delayed. Court filings reveal the device will not ship until at least February 2027, and the \"io\" branding has been scrapped.",
     "engagement": "High",
-    "raw_text": "Bad news if you were waiting for the 'iPhone of AI.' We just got confirmation that OpenAI's secret hardware project with Jony Ive is delayed. We all thought we’d see it this year, but court filings just revealed it won't ship until at least February 2027. That is a massive delay. Building 'physical AI' is apparently way harder than just releasing a model. This gives Apple and Google a huge window to dominate the AI device market before OpenAI even shows up. Honestly, by 2027, will we even need a dedicated AI device, or will our glasses already do everything?",
+    "raw_text": "Bad news if you were waiting for the 'iPhone of AI.' We just got confirmation that OpenAI's secret hardware project with Jony Ive is delayed. We all thought we\u2019d see it this year, but court filings just revealed it won't ship until at least February 2027. That is a massive delay. Building 'physical AI' is apparently way harder than just releasing a model. This gives Apple and Google a huge window to dominate the AI device market before OpenAI even shows up. Honestly, by 2027, will we even need a dedicated AI device, or will our glasses already do everything?",
     "id": "OAI-HW-003",
     "category": "Hardware",
     "companies": [
@@ -57,7 +61,9 @@
       "Jony Ive",
       "Peter Welinder"
     ],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/OAI-HW-003.png",
+    "image_prompt": "Close\u2011up of a sleek, matte black hardware prototype on a minimalist gray workbench, surrounded by scattered design sketches and a faint blue glow from a low\u2011angle laptop screen. A gentle, cool palette, soft studio lighting, an empty calendar page hinting delay, no text."
   },
   {
     "date": "2026-02-10",
@@ -66,7 +72,7 @@
     "title": "Alphabet Raises $20B Debt for \"Capital Supercycle\"",
     "summary": "Alphabet is raising $20 billion via a bond sale to fund a staggering $185 billion capital expenditure plan for 2026. The move signals a massive bet on AI infrastructure, treating compute like a long-term utility.",
     "engagement": "Medium",
-    "raw_text": "We need to talk about the sheer amount of money Google is spending. Alphabet just went to the bond market to raise $20 billion in debt. Why? To fund a projected $185 billion spending spree for 2026. That is more than the GDP of entire countries. They are building data centers, custom chips, and securing energy grids. Financial experts are calling this the 'Capital Supercycle.' They are betting the house that AI compute is going to be as essential as electricity. It’s a high-stakes gamble, but investors are eating it up—the bond sale was oversubscribed by $100 billion.",
+    "raw_text": "We need to talk about the sheer amount of money Google is spending. Alphabet just went to the bond market to raise $20 billion in debt. Why? To fund a projected $185 billion spending spree for 2026. That is more than the GDP of entire countries. They are building data centers, custom chips, and securing energy grids. Financial experts are calling this the 'Capital Supercycle.' They are betting the house that AI compute is going to be as essential as electricity. It\u2019s a high-stakes gamble, but investors are eating it up\u2014the bond sale was oversubscribed by $100 billion.",
     "id": "GOOG-BOND-004",
     "category": "Business",
     "companies": [
@@ -77,23 +83,27 @@
       "Sundar Pichai",
       "Michael Burry"
     ],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/GOOG-BOND-004.png",
+    "image_prompt": "Giant glass Google Tower in a cityscape at dawn, neon\u2011lit billboards flashing code and data streams, a sleek silver drone delivering a translucent gold bond certificate, a glowing holographic HUD of $20B, AI neural net arcs extending like cables across skyline."
   },
   {
     "date": "2026-02-10",
-    "source_file": "Tech News – February 10, 2026.pdf",
+    "source_file": "Tech News \u2013 February 10, 2026.pdf",
     "page": 1,
     "title": "Prima AI: Diagnosing Brain Scans in Seconds",
     "summary": "University of Michigan researchers unveiled Prima, an AI model that interprets brain MRIs with 97.5% accuracy. It can instantly triage life-threatening conditions like strokes, potentially solving radiologist shortages.",
     "engagement": "High",
-    "raw_text": "This is the kind of AI news I love. Researchers at the University of Michigan just released 'Prima,' an AI that reads brain MRIs in seconds. And it’s not just fast—it’s 97.5% accurate. It was trained on over 200,000 real patient scans. It can spot strokes, tumors, and hemorrhages instantly and flag them for doctors. Imagine waiting days for a scary diagnosis, and now AI can triage it in moments. This isn't replacing doctors; it's giving them a superpower. With the global shortage of radiologists, this tech is going to save lives, period.",
+    "raw_text": "This is the kind of AI news I love. Researchers at the University of Michigan just released 'Prima,' an AI that reads brain MRIs in seconds. And it\u2019s not just fast\u2014it\u2019s 97.5% accurate. It was trained on over 200,000 real patient scans. It can spot strokes, tumors, and hemorrhages instantly and flag them for doctors. Imagine waiting days for a scary diagnosis, and now AI can triage it in moments. This isn't replacing doctors; it's giving them a superpower. With the global shortage of radiologists, this tech is going to save lives, period.",
     "id": "PRIMA-MED-005",
     "category": "Science",
     "companies": [
       "University of Michigan"
     ],
     "people": [],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/PRIMA-MED-005.png",
+    "image_prompt": "A close\u2011up of a sleek MRI scanner in a modern hospital room, with radiology staff passionately observing a glowing brain image on a monitor; bright clinical lighting, focused expression, and subtle halo of blue tech vibes."
   },
   {
     "date": "2026-02-10",
@@ -109,7 +119,9 @@
       "NASA"
     ],
     "people": [],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/NASA-MARS-006.png",
+    "image_prompt": "Perseverance rover autonomously traversing a dusty red ridge, silver chassis glinting against a dusky sky. LIDAR sensors extend forward, AI decision\u2011making implied by focused camera arrays, surrounded by jagged Martian canyons."
   },
   {
     "date": "2026-02-10",
@@ -125,7 +137,9 @@
       "Runway"
     ],
     "people": [],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/RUNWAY-315-007.png",
+    "image_prompt": "High-resolution image: sleek tech lab with diverse engineers gathered around a glowing holographic 3D world model\u2014layers reveal simulated cityscapes, robots and game environments. Soft blue-white lighting, glass and metal surfaces, cinematic depth, focused optimistic mood, realistic detail"
   },
   {
     "date": "2026-02-10",
@@ -134,14 +148,16 @@
     "title": "Quantum Breakthrough enables \"GPS-Free\" Navigation",
     "summary": "Researchers at the University of Michigan demonstrated a quantum entanglement-enhanced accelerometer. This technology could enable precise navigation without satellites, crucial for submarines and deep space.",
     "engagement": "Medium",
-    "raw_text": "We might not need GPS satellites forever. Scientists just used quantum entanglement—yeah, the spooky physics stuff—to build a super-precise accelerometer. Why does this matter? Because if you can measure movement perfectly, you know exactly where you are without needing a signal from space. This unlocks 'GPS-free navigation.' Think submarines, underground tunnels, or deep space missions where GPS doesn't work. It’s early tech, but it’s a glimpse into a future where our devices navigate using the fundamental laws of the universe instead of radio waves.",
+    "raw_text": "We might not need GPS satellites forever. Scientists just used quantum entanglement\u2014yeah, the spooky physics stuff\u2014to build a super-precise accelerometer. Why does this matter? Because if you can measure movement perfectly, you know exactly where you are without needing a signal from space. This unlocks 'GPS-free navigation.' Think submarines, underground tunnels, or deep space missions where GPS doesn't work. It\u2019s early tech, but it\u2019s a glimpse into a future where our devices navigate using the fundamental laws of the universe instead of radio waves.",
     "id": "QUANTUM-GPS-008",
     "category": "Science",
     "companies": [
       "University of Michigan"
     ],
     "people": [],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/QUANTUM-GPS-008.png",
+    "image_prompt": "Inside a Michigan lab, a translucent quantum accelerometer floats, emitting pale blue entanglement waves. A researcher in a white coat holds it, with a subtle submarine silhouette on one wall and a starry deep\u2011space scene on the other, rendered in photorealistic detail."
   },
   {
     "date": "2026-02-10",
@@ -155,6 +171,8 @@
     "category": "Business",
     "companies": [],
     "people": [],
-    "created_at": "2026-02-10T21:40:00Z"
+    "created_at": "2026-02-10T21:40:00Z",
+    "image_url": "images/11_02_26/INDIA-AI-LAW-009.png",
+    "image_prompt": "Modern Indian parliament hall, a glowing digital clock at 3:00, holographic stream of tangled AI faces dissolving, a stern regulator in crisp suit pointing to a screen, surrounded by minimalist tech decor."
   }
 ]
