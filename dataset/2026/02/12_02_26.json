@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2026-02-11",
+    "source_file": "Tech News Report Request.docx",
+    "page": 1,
+    "title": "Anthropic Claude Opus 4.6: The \"Thinking\" Model Arrives",
+    "summary": "Anthropic has released Claude Opus 4.6, a new agentic model featuring a 'thinking' capability that prioritizes reasoning depth over speed. It represents a shift from generative content to autonomous agency, designed to correct itself and plan complex workflows.",
+    "engagement": "High",
+    "raw_text": "If you thought the AI wars were cooling down, Anthropic just dropped a nuclear payload. They just released Claude Opus 4.6, and it features something called 'Adaptive Thinking.' Basically, the model now has a brain that decides *how hard* it needs to think before it answers you. \n\nBut here is the killer feature: this isn't just about chatting anymore. This model is designed for 'Agency.' It can plan, self-correct, and execute complex workflows without you holding its hand. We are moving from the era of 'Generative AI' where it just spits out text, to 'Agentic AI' where it actually gets work done. If you're a developer or a power user, this is the upgrade you've been waiting for. The era of 'Thinking Models' is officially here, and the bar just got set incredibly high.",
+    "id": "CLD-OPS-001",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (2).pdf",
+    "page": 6,
+    "title": "OpenAI Begins Testing Ads in ChatGPT",
+    "summary": "OpenAI has officially started testing advertisements within ChatGPT for Free and 'Go' tier users in the US. The ads are clearly labeled and do not influence the AI's answers, marking a pivot to a hybrid revenue model to subsidize compute costs.",
+    "engagement": "High",
+    "raw_text": "It’s finally happening—ads are coming to ChatGPT. OpenAI just confirmed they are testing advertisements for users on the Free and 'Go' plans in the US. Now, before you panic, they promise that the advertisers cannot influence what the AI actually says. The ads just sit there in the interface.\n\nBut let's be real: this is a massive shift. With massive server costs, OpenAI is moving to a hybrid model. You either pay with your wallet for Pro, or you pay with your eyeballs for Free. It puts them on a direct collision course with Google Search. The days of the 'subsidy era'—where we got magical AI for free with no strings attached—are officially over. Are you going to upgrade to avoid the ads, or are you okay with a sponsored chatbot?",
+    "id": "OAI-ADS-002",
+    "category": "Business",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Tech News Report Request.docx",
+    "page": 5,
+    "title": "OpenClaw Goes Viral: The \"ChatGPT Moment\" for Agents",
+    "summary": "An open-source tool called OpenClaw has gone viral, earning over 20,000 GitHub stars in a day. It enables AI agents to autonomously execute complex workflows across apps like WhatsApp and Slack, sparking a new trend called \"Vibe Coding.\"",
+    "engagement": "High",
+    "raw_text": "Stop what you are doing. We might be looking at the 'ChatGPT moment' for AI agents. A new open-source tool called OpenClaw just dropped, and it is absolutely blowing up—we're talking 20,000 GitHub stars in 24 hours. \n\nSo, what does it do? Unlike a chatbot that just talks, OpenClaw actually *does* things. It connects to your apps and local files to automate entire workflows. It’s fueling a crazy new trend called 'Vibe Coding'—where you just describe the 'vibe' of an app you want, and the AI builds it. Investors are freaking out because they think this might make traditional SaaS software obsolete. If you're a developer, you need to look at this now.",
+    "id": "OC-VIBE-003",
+    "category": "AI",
+    "companies": [
+      "OpenClaw",
+      "Monday.com"
+    ],
+    "people": [
+      "Peter Steinberger"
+    ],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Tech News Report Request.docx",
+    "page": 1,
+    "title": "Alphabet Raises $20B Debt for \"Capital Supercycle\"",
+    "summary": "Alphabet is raising $20 billion via a bond sale to fund a staggering $185 billion capital expenditure plan for 2026. The move signals a massive bet on AI infrastructure, treating compute like a long-term utility.",
+    "engagement": "Medium",
+    "raw_text": "We need to talk about the sheer amount of money Google is spending. Alphabet just went to the bond market to raise $20 billion in debt. Why? To fund a projected $185 billion spending spree for 2026. \n\nThat is more than the GDP of entire countries. They are building data centers, custom chips, and securing energy grids. Financial experts are calling this the 'Capital Supercycle.' They are betting the house that AI compute is going to be as essential as electricity. It’s a high-stakes gamble, but investors are eating it up—the bond sale was oversubscribed. The AI infrastructure boom is just getting started.",
+    "id": "GOOG-BOND-004",
+    "category": "Business",
+    "companies": [
+      "Alphabet",
+      "Google"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (2).pdf",
+    "page": 7,
+    "title": "OpenAI's \"Jony Ive\" Hardware Delayed to 2027",
+    "summary": "OpenAI's highly anticipated consumer hardware device, co-developed with legendary designer Jony Ive, has been delayed. Court filings reveal the device will not ship until at least February 2027.",
+    "engagement": "High",
+    "raw_text": "Bad news if you were waiting for the 'iPhone of AI.' We just got confirmation that OpenAI's secret hardware project with Jony Ive is delayed. \n\nWe all thought we’d see it this year, but court filings just revealed it won't ship until at least February 2027. That is a massive delay. Building 'physical AI' is apparently way harder than just releasing a model. This gives Apple and Google a huge window to dominate the AI device market before OpenAI even shows up. Honestly, by 2027, will we even need a dedicated AI device, or will our glasses already do everything?",
+    "id": "OAI-HW-005",
+    "category": "Hardware",
+    "companies": [
+      "OpenAI",
+      "LoveFrom"
+    ],
+    "people": [
+      "Jony Ive"
+    ],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (2).pdf",
+    "page": 4,
+    "title": "Runway Raises $315M to Build \"World Models\"",
+    "summary": "AI video startup Runway has raised $315 million at a $5.3 billion valuation. The company is pivoting from pure video generation to building 'world models' that simulate environments for robotics and gaming.",
+    "engagement": "Medium",
+    "raw_text": "Runway isn't just an AI video company anymore. They just raised a massive $315 million war chest, and they are pivoting to 'World Models.' \n\nWhat does that mean? Instead of just making a funny video, they are building AI that understands physics and environments. This is huge for robotics and gaming. If an AI can simulate the world accurately, it can train robots to walk or build entire video games in real-time. They are valued at $5.3 billion now. The race isn't just for the best chatbot anymore; it's for the best simulation of reality.",
+    "id": "RUNWAY-315-006",
+    "category": "AI",
+    "companies": [
+      "Runway"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-11",
+    "source_file": "Tech News Report Request.docx",
+    "page": 7,
+    "title": "NASA's Rover Drives Itself on Mars for the First Time",
+    "summary": "NASA's Perseverance rover successfully completed its first drive on Mars using purely AI-planned navigation. The onboard AI analyzed terrain and made real-time decisions, removing the need for human-planned routes.",
+    "engagement": "High",
+    "raw_text": "NASA just handed the keys over to the robot. For the first time ever, the Perseverance rover drove itself on Mars using pure AI navigation. \n\nUsually, humans on Earth have to plan every single meter of the drive. But now, the onboard AI looks at the red rocks, figures out the path, and just goes. This drastically speeds up exploration because the rover doesn't have to wait for instructions from Earth. We literally have autonomous vehicles on another planet right now. Elon wants to go to Mars, but it looks like the AI beat him to the driver's seat.",
+    "id": "NASA-MARS-007",
+    "category": "Science",
+    "companies": [
+      "NASA"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (2).pdf",
+    "page": 2,
+    "title": "Prima AI: Diagnosing Brain Scans in Seconds",
+    "summary": "University of Michigan researchers unveiled Prima, an AI model that interprets brain MRIs with 97.5% accuracy. It can instantly triage life-threatening conditions like strokes, potentially solving radiologist shortages.",
+    "engagement": "High",
+    "raw_text": "This is the kind of AI news I love. Researchers at the University of Michigan just released 'Prima,' an AI that reads brain MRIs in seconds. \n\nAnd it’s not just fast—it’s 97.5% accurate. It was trained on over 200,000 real patient scans. It can spot strokes, tumors, and hemorrhages instantly and flag them for doctors. Imagine waiting days for a scary diagnosis, and now AI can triage it in moments. This isn't replacing doctors; it's giving them a superpower. With the global shortage of radiologists, this tech is going to save lives, period.",
+    "id": "PRIMA-MED-008",
+    "category": "Science",
+    "companies": [
+      "University of Michigan"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-11",
+    "source_file": "Tech News Report Request.docx",
+    "page": 3,
+    "title": "Cisco's G300 Chip: The \"Shock Absorber\" for AI",
+    "summary": "Cisco has unveiled the Silicon One G300, a switch chip designed to handle the 'bursty' traffic of AI training clusters. It features a 28% improvement in job completion times, aiming to break Nvidia's stranglehold on AI networking.",
+    "engagement": "Medium",
+    "raw_text": "It’s not as flashy as a robot, but this chip is the reason your AI actually works. Cisco just revealed the Silicon One G300, and it’s a beast built for the 'Agentic Era.'\n\nHere’s the problem it solves: when thousands of GPUs try to talk to each other at once, the network jams. The G300 acts like a 'shock absorber' for data. It improves AI training speeds by 28%. Cisco is betting big that the future of AI isn't just about the processor, but about the pipes connecting them. If you care about infrastructure, this is the pivot you've been waiting for. They are building the highway for the AI traffic jam.",
+    "id": "CSCO-G300-009",
+    "category": "Hardware",
+    "companies": [
+      "Cisco",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (2).pdf",
+    "page": 12,
+    "title": "India Mandates 3-Hour Deepfake Takedowns",
+    "summary": "India has amended its IT Rules to require social media platforms to label AI content and remove unlawful deepfakes within 3 hours of a complaint. The move sets a global precedent for strict AI content regulation.",
+    "engagement": "Medium",
+    "raw_text": "India is not messing around with deepfakes. The government just issued new rules that require social media platforms to take down unlawful AI content within *three hours* of a complaint. \n\nThat is an incredibly tight window. They are also mandating labels for all AI-generated video and audio. With over a billion users, India is effectively beta-testing strict AI regulation for the rest of the world. Platforms are going to have to build automated detection tools just to keep up. This is a preview of the regulatory hammer that's about to drop on AI worldwide.",
+    "id": "INDIA-AI-LAW-010",
+    "category": "Business",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-02-11T21:30:00Z"
+  }
+]
