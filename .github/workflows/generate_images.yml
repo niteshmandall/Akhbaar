@@ -42,5 +42,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-generate images for new news items"
-            git push
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
           fi
