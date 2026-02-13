@@ -1,0 +1,197 @@
+[
+  {
+    "date": "2026-02-13",
+    "source_file": "Tech News Report Generation Request (4).docx",
+    "page": 1,
+    "title": "Elon Musk's $1.25T Merger: SpaceX Buys xAI to Build Moon Factories",
+    "summary": "SpaceX has acquired xAI in a triangular merger valuing the combined entity at over $1.25 trillion, with plans to build orbital data centers and a lunar manufacturing base. The roadmap includes using a 'mass driver' catapult on the moon to launch satellites without chemical propellant.",
+    "engagement": "High",
+    "raw_text": "Okay, stop what you're doing because Elon Musk just went full sci-fi mode. We're talking about a merger between SpaceX and xAI that creates a $1.25 TRILLION dollar juggernaut. But the valuation isn't even the crazy part. Leaked audio reveals they are planning to build AI data centers *in orbit* and—get this—a factory on the Moon. Yes, the actual Moon. They want to use a massive electromagnetic catapult called a 'mass driver' to shoot satellites from the lunar surface into orbit to save on fuel. It sounds like a movie script, but this is their actual roadmap to solve the energy crisis on Earth. While everyone else is fighting over GPU clusters here, Musk is literally leaving the planet. This is the definition of a 'Space-Based Industrial Complex.'",
+    "id": "SPACE_XAI_001",
+    "category": "Space/AI",
+    "companies": [
+      "SpaceX",
+      "xAI",
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk",
+      "Jimmy Ba",
+      "Tony Wu"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "RIP GPT-4o: OpenAI Kills Fan-Favorite Model for GPT-5.3",
+    "summary": "OpenAI has officially retired the popular GPT-4o model, migrating users to the newer GPT-5.2 and unveiling a developer-focused 'GPT-5.3-Codex-Spark' running on non-Nvidia hardware. The move has sparked backlash from users attached to the older model's unique personality.",
+    "engagement": "High",
+    "raw_text": "It is the end of an era. OpenAI just officially killed GPT-4o. If you were one of the 350,000 people who signed the petition to save it, I've got bad news—it's gone. OpenAI says usage dropped to 0.1% as everyone moved to GPT-5.2, but we all know GPT-4o had a certain... vibe that the new models lack. On the flip side, they just dropped 'GPT-5.3-Codex-Spark.' It's a specialized coding model that runs on Cerebras hardware—not Nvidia—and it is blazing fast, outputting 1,000 tokens per second. So, while we mourn the old chatty model, developers are getting a serious speed upgrade. But seriously, why do they keep killing the models we love?",
+    "id": "OPENAI_KILL_002",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Cerebras",
+      "Microsoft"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Anthropic's $380 Billion Valuation: The New King of AI?",
+    "summary": "Anthropic has raised a massive $30 billion Series G round, bringing its valuation to $380 billion and securing a 'compute runway' through 2028. The funding, led by Sovereign Wealth Funds and tech giants, positions it as the primary enterprise alternative to OpenAI.",
+    "engagement": "High",
+    "raw_text": "We need to talk about Anthropic. They just closed a $30 BILLION dollar funding round. Not million, *billion*. This values the company at $380 billion, which is basically the GDP of a small country. While OpenAI is chasing consumers, Anthropic has quietly built a fortress in the enterprise world, raking in $14 billion a year from companies like Salesforce. This is a massive 'defensive wall' against ChatGPT. They're using this cash to secure compute power for the next three years, ensuring they can train Claude 4 and beyond without blinking. If you thought the AI race was over, think again. The wallet wars have just begun.",
+    "id": "ANTHROPIC_RAISE_003",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "Microsoft",
+      "Nvidia",
+      "Coatue",
+      "GIC"
+    ],
+    "people": [
+      "Dario Amodei"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Tech News Report Generation Request (4).docx",
+    "page": 4,
+    "title": "Apple's Folding iPhone & The End of FaceID?",
+    "summary": "Leaks confirm Apple is working on a 'Flip-style' foldable iPhone for 2026, prioritizing an ultra-thin 4.5mm design. To achieve this thinness, reports suggest Apple will abandon FaceID in favor of a side-mounted Touch ID sensor.",
+    "engagement": "High",
+    "raw_text": "Apple is finally—FINALLY—making a foldable. But there's a catch. Reports are confirming a 'Flip-style' iPhone is coming, and it is going to be impossibly thin, like 4.5mm thin. That sounds amazing until you hear the trade-off. To get it that skinny, they are reportedly ditching FaceID. Yeah, we're going back to Touch ID on the power button. It feels like a step backward tech-wise just to have a cool folding screen, but knowing Apple, they'll market it as a 'retro-futuristic revolution.' Would you trade FaceID for a folding iPhone? Let me know in the comments because I'm honestly torn.",
+    "id": "APPLE_FLIP_004",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Samsung",
+      "Google"
+    ],
+    "people": [
+      "Johny Srouji"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Today’s AI & Tech News (February 13, 2026).pdf",
+    "page": 2,
+    "title": "Microsoft vs. OpenAI: The $100B Breakup Begins",
+    "summary": "Microsoft AI CEO Mustafa Suleyman confirmed plans to reduce reliance on OpenAI, announcing the launch of proprietary 'frontier-grade' models in 2026. This marks a strategic shift as Microsoft prepares to compete directly with its former partner.",
+    "engagement": "High",
+    "raw_text": "The tech world's biggest bromance is officially on the rocks. Microsoft's AI chief Mustafa Suleyman just admitted in an interview that they are preparing to 'ditch OpenAI' models. After pouring billions into Sam Altman's company, Microsoft is now building its own 'frontier-grade' models to launch this year. This is huge. It turns them from partners into direct rivals. Rumor has it Microsoft is worried about OpenAI's burn rate—which could empty their bank accounts by 2027—and wants to own its own destiny. The 'AI Arms Race' just turned into a civil war.",
+    "id": "MICROSOFT_OPENAI_SPLIT_005",
+    "category": "Business",
+    "companies": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "people": [
+      "Mustafa Suleyman",
+      "Sam Altman"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Tech News Report Generation Request (4).docx",
+    "page": 4,
+    "title": "Black Mirror IRL: Meta's Glasses Will Dox Everyone",
+    "summary": "Meta is planning an update for its Ray-Ban smart glasses called 'Name Tag' that uses facial recognition to identify people in the real world and pull up their online profiles. The feature is expected to face significant regulatory hurdles.",
+    "engagement": "High",
+    "raw_text": "Okay, this is terrifying. Meta is working on a feature for their Ray-Ban smart glasses called 'Name Tag.' Here's what it does: you look at a stranger on the street, and the glasses use facial recognition to pull up their social media profiles instantly. It's basically the 'doxing' machine from every cyberpunk nightmare we've ever had. Remember when Google Glass failed because people thought cameras were creepy? This is way worse. It indexes physical reality. Expect a massive privacy storm to hit Zuckerberg soon, because I don't think the world is ready to have zero anonymity in public.",
+    "id": "META_NAMETAG_006",
+    "category": "Hardware",
+    "companies": [
+      "Meta",
+      "Ray-Ban"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Indian IT Market Crash: AI Agents Wipe Out $50 Billion",
+    "summary": "Indian IT stocks plummeted, losing $50 billion in value, as new AI agents like Anthropic's 'Claude Code' demonstrate the ability to automate core outsourcing tasks. Analysts call this a 'DeepSeek Moment' for the service sector.",
+    "engagement": "Medium",
+    "raw_text": "We've been talking about AI taking jobs for years, but today it actually hit the stock market. The Indian IT sector just lost $50 BILLION in value. Why? Because of new 'Agentic AI' tools. We're seeing AI agents that can migrate code, test software, and handle maintenance—stuff that huge outsourcing firms charge billions for—done in minutes. Analysts are calling it a 'DeepSeek Moment' for services. If an AI can do the work of ten junior developers for pennies, the whole business model of 'billable hours' collapses. This isn't theoretical anymore; the market is pricing in the end of traditional outsourcing.",
+    "id": "IT_CRASH_007",
+    "category": "Economy",
+    "companies": [
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Combined",
+    "page": 11,
+    "title": "Google's Gemini 3 'Deep Think' & The 100k Clone Attack",
+    "summary": "Google has launched Gemini 3 'Deep Think,' a reasoning model capable of solving PhD-level problems and turning sketches into 3D models. Simultaneously, Google revealed it fended off a massive attack where hackers sent 100,000 prompts to 'clone' the model.",
+    "engagement": "High",
+    "raw_text": "Google is having a wild day. First, they dropped Gemini 3 'Deep Think.' This isn't just a chatbot; it's a reasoning engine that can solve PhD-level math and literally turn a napkin sketch into a 3D model. But here's the crazy part: Google also revealed they just survived a massive 'Cloning Attack.' Hackers slammed Gemini with over 100,000 specific prompts trying to steal its 'thought process' to train their own copycat model. It's corporate espionage in the age of AI. Google blocked it, but it shows how valuable these model weights have become. It's not just code anymore; it's the brain of the company.",
+    "id": "GEMINI_CLONE_008",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
+    "people": [
+      "Sundar Pichai",
+      "Demis Hassabis"
+    ],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Act as a top-tier tech news aggregator and researc (4).pdf",
+    "page": 2,
+    "title": "DeepMind's 'Magic Correlations': How AI Actually Learns",
+    "summary": "A new paper from Google DeepMind reveals that performance on small 'proxy' models often fails to predict how larger models will behave, except in scientific reasoning tasks. The study warns that many common benchmarks are misleading for scaling decisions.",
+    "engagement": "Low",
+    "raw_text": "A new paper from DeepMind just dropped, and it's a reality check for AI researchers. They looked at how AI learns and found that the small models everyone uses to test ideas are actually lying to us. It turns out, performance on small models often has *negative* correlation with the big ones. The only thing that actually scales reliably? Scientific and commonsense reasoning. This is super technical, but it matters because it means companies might be burning millions training models based on bad data. Basically, 'bigger is better' is way more complicated than we thought.",
+    "id": "DEEPMIND_PAPER_009",
+    "category": "Science",
+    "companies": [
+      "Google DeepMind",
+      "EPFL"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T21:45:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Tech News Report Generation Request (4).docx",
+    "page": 5,
+    "title": "Computing with Light: The 'Infinity Mirror' Chip",
+    "summary": "Researchers at Penn State have developed a prototype 'Light-Processing Unit' (LPU) that computes using light beams instead of electricity, potentially reducing data center energy consumption by over 90%.",
+    "engagement": "Medium",
+    "raw_text": "We might have just found the solution to AI's energy problem. Researchers at Penn State built a prototype called an 'LPU'—a Light Processing Unit. Instead of using electricity and hot silicon chips, it computes using light beams bouncing through an 'infinity mirror' loop. If this works at scale, it could cut AI energy usage by 90%. Imagine data centers that don't need massive cooling towers because they're running on literal light. This is early days, but with AI eating up the world's power grid, this 'optical computing' tech could be the miracle save we need.",
+    "id": "LPU_PENN_010",
+    "category": "Science",
+    "companies": [
+      "Penn State"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T21:45:00Z"
+  }
+]
