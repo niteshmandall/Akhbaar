@@ -238,37 +238,43 @@ else:
     print("Warning: Could not enable explicit .env path, using default search.")
 
 def generate_image(prompt):
-    """Generates an image using Pollinations.AI API (v2) with authentication."""
+    """Generates an image using Pollinations.AI API with authentication."""
     api_key = os.getenv("POLLINATIONS_API_KEY")
     if not api_key:
-        print(f"  Warning: POLLINATIONS_API_KEY not found. Using public tier (rate-limited).")
+        print(f"  Error: POLLINATIONS_API_KEY not found in environment variables. Checked path: {env_path if 'env_path' in locals() else 'default'}")
+        return None
 
     # Encode the prompt for the URL
     encoded_prompt = urllib.parse.quote(prompt)
     seed = random.randint(0, 10000)
     
-    # Construct URL for the Gen V2 Endpoint
-    # We use 'model=flux' for better quality allowed on this endpoint
-    base_url = f"https://gen.pollinations.ai/image/{encoded_prompt}"
-    params = f"?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
-    url = base_url + params
-    
-    headers = {}
+    # 1. Try Authenticated Endpoint
     if api_key:
-        headers["Authorization"] = f"Bearer {api_key}"
-
-    for attempt in range(3):  # 3 retry attempts
+        url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
+        headers = {"Authorization": f"Bearer {api_key}"}
+        
         try:
             response = requests.get(url, headers=headers, timeout=60)
             if response.status_code == 200:
                 return response.content
-            elif response.status_code == 429:
-                print(f"  Rate limited (429). Retrying in {2**(attempt+1)}s...")
-                time.sleep(2**(attempt+1))
             else:
-                 print(f"  Image gen failed (Status {response.status_code}). Attempt {attempt+1}/3")
+                print(f"  Auth image gen failed ({response.status_code}). Trying public endpoint...")
         except Exception as e:
-            print(f"  Image gen error: {e}. Attempt {attempt+1}/3")
+             print(f"  Auth image gen error: {e}. Trying public endpoint...")
+
+    # 2. Fallback to Public Endpoint
+    # Remove 'model=flux' as it might be paid-only or restricted
+    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true"
+    
+    for attempt in range(3):  # 3 retry attempts for public
+        try:
+            response = requests.get(url, timeout=60)
+            if response.status_code == 200:
+                return response.content
+            else:
+                print(f"  Public attempt {attempt+1} failed with status: {response.status_code}")
+        except Exception as e:
+            print(f"  Public attempt {attempt+1} failed with error: {e}")
 
         if attempt < 2:
             time.sleep(2)
