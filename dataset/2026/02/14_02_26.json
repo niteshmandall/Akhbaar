@@ -6,7 +6,7 @@
     "title": "Elon Musk's $1.25T Merger: SpaceX Buys xAI to Build Moon Factories",
     "summary": "SpaceX has acquired xAI in a triangular merger valuing the combined entity at over $1.25 trillion, with plans to build orbital data centers and a lunar manufacturing base. The roadmap includes using a 'mass driver' catapult on the moon to launch satellites without chemical propellant.",
     "engagement": "High",
-    "raw_text": "Okay, stop what you're doing because Elon Musk just went full sci-fi mode. We're talking about a merger between SpaceX and xAI that creates a $1.25 TRILLION dollar juggernaut. But the valuation isn't even the crazy part. Leaked audio reveals they are planning to build AI data centers *in orbit* and—get this—a factory on the Moon. Yes, the actual Moon. They want to use a massive electromagnetic catapult called a 'mass driver' to shoot satellites from the lunar surface into orbit to save on fuel. It sounds like a movie script, but this is their actual roadmap to solve the energy crisis on Earth. While everyone else is fighting over GPU clusters here, Musk is literally leaving the planet. This is the definition of a 'Space-Based Industrial Complex.'",
+    "raw_text": "Okay, stop what you're doing because Elon Musk just went full sci-fi mode. We're talking about a merger between SpaceX and xAI that creates a $1.25 TRILLION dollar juggernaut. But the valuation isn't even the crazy part. Leaked audio reveals they are planning to build AI data centers *in orbit* and\u2014get this\u2014a factory on the Moon. Yes, the actual Moon. They want to use a massive electromagnetic catapult called a 'mass driver' to shoot satellites from the lunar surface into orbit to save on fuel. It sounds like a movie script, but this is their actual roadmap to solve the energy crisis on Earth. While everyone else is fighting over GPU clusters here, Musk is literally leaving the planet. This is the definition of a 'Space-Based Industrial Complex.'",
     "id": "SPACE_XAI_001",
     "category": "Space/AI",
     "companies": [
@@ -28,7 +28,7 @@
     "title": "RIP GPT-4o: OpenAI Kills Fan-Favorite Model for GPT-5.3",
     "summary": "OpenAI has officially retired the popular GPT-4o model, migrating users to the newer GPT-5.2 and unveiling a developer-focused 'GPT-5.3-Codex-Spark' running on non-Nvidia hardware. The move has sparked backlash from users attached to the older model's unique personality.",
     "engagement": "High",
-    "raw_text": "It is the end of an era. OpenAI just officially killed GPT-4o. If you were one of the 350,000 people who signed the petition to save it, I've got bad news—it's gone. OpenAI says usage dropped to 0.1% as everyone moved to GPT-5.2, but we all know GPT-4o had a certain... vibe that the new models lack. On the flip side, they just dropped 'GPT-5.3-Codex-Spark.' It's a specialized coding model that runs on Cerebras hardware—not Nvidia—and it is blazing fast, outputting 1,000 tokens per second. So, while we mourn the old chatty model, developers are getting a serious speed upgrade. But seriously, why do they keep killing the models we love?",
+    "raw_text": "It is the end of an era. OpenAI just officially killed GPT-4o. If you were one of the 350,000 people who signed the petition to save it, I've got bad news\u2014it's gone. OpenAI says usage dropped to 0.1% as everyone moved to GPT-5.2, but we all know GPT-4o had a certain... vibe that the new models lack. On the flip side, they just dropped 'GPT-5.3-Codex-Spark.' It's a specialized coding model that runs on Cerebras hardware\u2014not Nvidia\u2014and it is blazing fast, outputting 1,000 tokens per second. So, while we mourn the old chatty model, developers are getting a serious speed upgrade. But seriously, why do they keep killing the models we love?",
     "id": "OPENAI_KILL_002",
     "category": "AI",
     "companies": [
@@ -39,7 +39,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-02-13T21:45:00Z"
+    "created_at": "2026-02-13T21:45:00Z",
+    "image_url": "images/14_02_26/OPENAI_KILL_002.png",
+    "image_prompt": "Photo-realistic, high-res newsroom scene: small group of somber users gathered around a laptop with a fading friendly AI hologram; engineers in background revealing a sleek rack of custom silicon servers with blue sparks; cinematic lighting, shallow depth of field, nostalgia."
   },
   {
     "date": "2026-02-13",
@@ -61,7 +63,9 @@
     "people": [
       "Dario Amodei"
     ],
-    "created_at": "2026-02-13T21:45:00Z"
+    "created_at": "2026-02-13T21:45:00Z",
+    "image_url": "images/14_02_26/ANTHROPIC_RAISE_003.png",
+    "image_prompt": "Hyper-realistic: glowing AI server room stretching like a runway to a vanishing point; golden crown-shaped light over racks; silhouetted diverse executives observing; cool blue tones, cinematic dramatic lighting, news-style composition, high-stakes atmosphere."
   },
   {
     "date": "2026-02-13",
@@ -70,7 +74,7 @@
     "title": "Apple's Folding iPhone & The End of FaceID?",
     "summary": "Leaks confirm Apple is working on a 'Flip-style' foldable iPhone for 2026, prioritizing an ultra-thin 4.5mm design. To achieve this thinness, reports suggest Apple will abandon FaceID in favor of a side-mounted Touch ID sensor.",
     "engagement": "High",
-    "raw_text": "Apple is finally—FINALLY—making a foldable. But there's a catch. Reports are confirming a 'Flip-style' iPhone is coming, and it is going to be impossibly thin, like 4.5mm thin. That sounds amazing until you hear the trade-off. To get it that skinny, they are reportedly ditching FaceID. Yeah, we're going back to Touch ID on the power button. It feels like a step backward tech-wise just to have a cool folding screen, but knowing Apple, they'll market it as a 'retro-futuristic revolution.' Would you trade FaceID for a folding iPhone? Let me know in the comments because I'm honestly torn.",
+    "raw_text": "Apple is finally\u2014FINALLY\u2014making a foldable. But there's a catch. Reports are confirming a 'Flip-style' iPhone is coming, and it is going to be impossibly thin, like 4.5mm thin. That sounds amazing until you hear the trade-off. To get it that skinny, they are reportedly ditching FaceID. Yeah, we're going back to Touch ID on the power button. It feels like a step backward tech-wise just to have a cool folding screen, but knowing Apple, they'll market it as a 'retro-futuristic revolution.' Would you trade FaceID for a folding iPhone? Let me know in the comments because I'm honestly torn.",
     "id": "APPLE_FLIP_004",
     "category": "Mobile",
     "companies": [
@@ -85,12 +89,12 @@
   },
   {
     "date": "2026-02-13",
-    "source_file": "Today’s AI & Tech News (February 13, 2026).pdf",
+    "source_file": "Today\u2019s AI & Tech News (February 13, 2026).pdf",
     "page": 2,
     "title": "Microsoft vs. OpenAI: The $100B Breakup Begins",
     "summary": "Microsoft AI CEO Mustafa Suleyman confirmed plans to reduce reliance on OpenAI, announcing the launch of proprietary 'frontier-grade' models in 2026. This marks a strategic shift as Microsoft prepares to compete directly with its former partner.",
     "engagement": "High",
-    "raw_text": "The tech world's biggest bromance is officially on the rocks. Microsoft's AI chief Mustafa Suleyman just admitted in an interview that they are preparing to 'ditch OpenAI' models. After pouring billions into Sam Altman's company, Microsoft is now building its own 'frontier-grade' models to launch this year. This is huge. It turns them from partners into direct rivals. Rumor has it Microsoft is worried about OpenAI's burn rate—which could empty their bank accounts by 2027—and wants to own its own destiny. The 'AI Arms Race' just turned into a civil war.",
+    "raw_text": "The tech world's biggest bromance is officially on the rocks. Microsoft's AI chief Mustafa Suleyman just admitted in an interview that they are preparing to 'ditch OpenAI' models. After pouring billions into Sam Altman's company, Microsoft is now building its own 'frontier-grade' models to launch this year. This is huge. It turns them from partners into direct rivals. Rumor has it Microsoft is worried about OpenAI's burn rate\u2014which could empty their bank accounts by 2027\u2014and wants to own its own destiny. The 'AI Arms Race' just turned into a civil war.",
     "id": "MICROSOFT_OPENAI_SPLIT_005",
     "category": "Business",
     "companies": [
@@ -129,7 +133,7 @@
     "title": "Indian IT Market Crash: AI Agents Wipe Out $50 Billion",
     "summary": "Indian IT stocks plummeted, losing $50 billion in value, as new AI agents like Anthropic's 'Claude Code' demonstrate the ability to automate core outsourcing tasks. Analysts call this a 'DeepSeek Moment' for the service sector.",
     "engagement": "Medium",
-    "raw_text": "We've been talking about AI taking jobs for years, but today it actually hit the stock market. The Indian IT sector just lost $50 BILLION in value. Why? Because of new 'Agentic AI' tools. We're seeing AI agents that can migrate code, test software, and handle maintenance—stuff that huge outsourcing firms charge billions for—done in minutes. Analysts are calling it a 'DeepSeek Moment' for services. If an AI can do the work of ten junior developers for pennies, the whole business model of 'billable hours' collapses. This isn't theoretical anymore; the market is pricing in the end of traditional outsourcing.",
+    "raw_text": "We've been talking about AI taking jobs for years, but today it actually hit the stock market. The Indian IT sector just lost $50 BILLION in value. Why? Because of new 'Agentic AI' tools. We're seeing AI agents that can migrate code, test software, and handle maintenance\u2014stuff that huge outsourcing firms charge billions for\u2014done in minutes. Analysts are calling it a 'DeepSeek Moment' for services. If an AI can do the work of ten junior developers for pennies, the whole business model of 'billable hours' collapses. This isn't theoretical anymore; the market is pricing in the end of traditional outsourcing.",
     "id": "IT_CRASH_007",
     "category": "Economy",
     "companies": [
@@ -176,7 +180,9 @@
       "EPFL"
     ],
     "people": [],
-    "created_at": "2026-02-13T21:45:00Z"
+    "created_at": "2026-02-13T21:45:00Z",
+    "image_url": "images/14_02_26/DEEPMIND_PAPER_009.png",
+    "image_prompt": "Photo-realistic scene: researcher examines two holographic neural nets\u2014small, bright and fragmented vs vast, dark and complex\u2014diverging performance graphs float between them, cool blue tones, investigative, cautionary mood"
   },
   {
     "date": "2026-02-13",
@@ -185,7 +191,7 @@
     "title": "Computing with Light: The 'Infinity Mirror' Chip",
     "summary": "Researchers at Penn State have developed a prototype 'Light-Processing Unit' (LPU) that computes using light beams instead of electricity, potentially reducing data center energy consumption by over 90%.",
     "engagement": "Medium",
-    "raw_text": "We might have just found the solution to AI's energy problem. Researchers at Penn State built a prototype called an 'LPU'—a Light Processing Unit. Instead of using electricity and hot silicon chips, it computes using light beams bouncing through an 'infinity mirror' loop. If this works at scale, it could cut AI energy usage by 90%. Imagine data centers that don't need massive cooling towers because they're running on literal light. This is early days, but with AI eating up the world's power grid, this 'optical computing' tech could be the miracle save we need.",
+    "raw_text": "We might have just found the solution to AI's energy problem. Researchers at Penn State built a prototype called an 'LPU'\u2014a Light Processing Unit. Instead of using electricity and hot silicon chips, it computes using light beams bouncing through an 'infinity mirror' loop. If this works at scale, it could cut AI energy usage by 90%. Imagine data centers that don't need massive cooling towers because they're running on literal light. This is early days, but with AI eating up the world's power grid, this 'optical computing' tech could be the miracle save we need.",
     "id": "LPU_PENN_010",
     "category": "Science",
     "companies": [
