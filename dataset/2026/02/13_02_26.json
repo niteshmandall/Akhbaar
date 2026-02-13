@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2026-02-13",
+    "source_file": "Google Gemini.pdf",
+    "page": 2,
+    "title": "Nvidia RTX 50-Series Hits Laptops: Local AI Powerhouse",
+    "summary": "Nvidia has officially launched its RTX 50-series GPUs for laptops, bringing the 'Blackwell' architecture to mobile devices. This release democratizes high-performance AI hardware, enabling users to run 'Small Language Models' (SLMs) locally without cloud dependency.",
+    "engagement": "High",
+    "raw_text": "Gamers and devs, listen up. Nvidia just dropped the RTX 50-series for laptops, and it’s a game-changer. We aren't just talking about better frame rates; this is the 'Blackwell' architecture going mobile. \n\nWhy does this matter? Because it means you can finally run serious AI models locally. No more API fees, no more waiting for servers. You can run Llama 3 or Mistral right on your laptop, offline. Nvidia is basically handing you a supercomputer for your backpack. This is a massive step toward 'decentralized AI,' where your personal device is smart enough to be your assistant, coder, and creative partner. If you've been waiting to upgrade, this is the signal.",
+    "id": "RTX-50-MOB",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Google Gemini.pdf",
+    "page": 1,
+    "title": "Google Gemini 3 \"Deep Think\": The Engineering AI",
+    "summary": "Google has upgraded Gemini 3 with a 'Deep Think' mode specialized for scientific reasoning and complex engineering tasks. This agentic model prioritizes multi-step logical processing over speed, targeting research and hard science applications.",
+    "engagement": "High",
+    "raw_text": "Google is done playing catch-up. They just released 'Gemini 3 Deep Think,' and it’s not for writing emails. This mode is built for scientists and engineers. \n\nUnlike standard chatbots that guess the next word, 'Deep Think' actually pauses to reason through messy, complex problems. It’s designed to handle hard science—like figuring out new materials or debugging complex code—where there isn't a simple answer. It’s Google’s direct competitor to OpenAI’s reasoning models, but focused purely on engineering utility. We are seeing the split happen: fast bots for chat, and deep thinkers for inventing the future.",
+    "id": "GEM-THK-002",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-12",
+    "source_file": "Google Gemini.pdf",
+    "page": 1,
+    "title": "Ai2's \"AutoDiscovery\": AI That Writes Its Own Science",
+    "summary": "The Allen Institute for AI (Ai2) has debuted 'AutoDiscovery,' an experimental system that autonomously analyzes millions of scientific papers to generate hypotheses and code. It moves AI from a search tool to a research partner capable of finding patterns humans miss.",
+    "engagement": "Medium",
+    "raw_text": "This is wild. The Allen Institute for AI just released 'AutoDiscovery,' and it basically automates the scientific method. \n\nHere’s how it works: it reads millions of academic papers, finds patterns humans missed, generates a hypothesis, and then *writes the code* to test it. It’s currently being used for oncology and climate science. We are moving from AI that searches for answers to AI that *creates* new knowledge. It uses 'Bayesian surprise' to find the weird anomalies that lead to breakthroughs. If this works at scale, the pace of scientific discovery is about to go vertical.",
+    "id": "AI2-DISC-003",
+    "category": "Science",
+    "companies": [
+      "Allen Institute for AI"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-13",
+    "source_file": "Google Gemini.pdf",
+    "page": 3,
+    "title": "OpenAI vs. DeepSeek: The Data Ethics War Explodes",
+    "summary": "A major conflict has erupted regarding AI data sourcing, with OpenAI lobbying against current practices while DeepSeek defends its open approach. The industry is grappling with the ethical and legal fallout of how 'reasoning' models are trained.",
+    "engagement": "High",
+    "raw_text": "Grab the popcorn, because the AI Cold War is heating up. Reports are confirming a massive clash between OpenAI and the Chinese lab DeepSeek over data ethics. \n\nIt's all about how these models learn. OpenAI is lobbying for stricter regulations on data sourcing, while DeepSeek is pushing an open-data approach. OpenAI says it's about safety and copyright; critics say it's about building a regulatory moat to keep competitors out. This isn't just about code anymore; it's a geopolitical battle over who gets to control the raw material of intelligence. The 'Open' in AI is getting a lot more complicated.",
+    "id": "OAI-DS-WAR",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "DeepSeek"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-12",
+    "source_file": "Google Gemini.pdf",
+    "page": 3,
+    "title": "US Dept of Energy Launches 26 AI \"Genesis\" Challenges",
+    "summary": "The US Department of Energy has announced 26 'Genesis Mission' AI challenges focused on energy security and national defense. This state-level initiative aims to integrate AI into hard science infrastructure to accelerate discovery.",
+    "engagement": "Medium",
+    "raw_text": "The US government is finally treating AI like the Moon Landing. The Department of Energy just announced the 'Genesis Mission'—26 massive AI challenges focused on hard science and defense. \n\nThey aren't asking for chatbots. They want AI that can optimize the power grid, discover new battery materials, and secure national infrastructure. This mirrors China's 'AI for Science' push. It’s a signal that the government realizes AI is key to national survival, not just a tech trend. We are entering the era of 'Sovereign AI,' where nations compete to build the smartest scientific infrastructure.",
+    "id": "DOE-GEN-005",
+    "category": "Science",
+    "companies": [
+      "US Department of Energy"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-12",
+    "source_file": "Act as a top-tier tech news aggregator and researc (3).pdf",
+    "page": 14,
+    "title": "Pentagon Pushes AI Companies to Classified Networks",
+    "summary": "Sources report that the Pentagon is actively pushing AI companies to expand their operations onto classified networks. This move aims to integrate advanced commercial AI capabilities directly into military and defense workflows.",
+    "engagement": "High",
+    "raw_text": "The Pentagon is making a major move. Reports say they are pushing AI companies to get their models onto classified networks *now*. \n\nThis is huge. It means the military wants the same advanced AI we use—like the latest reasoning models—but running inside their secure, top-secret environments. They don't want to build it from scratch; they want to adapt commercial tech for defense. This blurs the line between 'consumer tech' and 'military tech' faster than anyone expected. If you're an AI startup, your biggest new customer might just be the Department of Defense.",
+    "id": "PENT-AI-006",
+    "category": "Business",
+    "companies": [
+      "US Department of Defense"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T09:00:00Z"
+  },
+  {
+    "date": "2026-02-10",
+    "source_file": "Act as a top-tier tech news aggregator and researc (3).pdf",
+    "page": 1,
+    "title": "Runway Raises $315M for \"World Models\"",
+    "summary": "AI video startup Runway has raised $315 million at a $5.3 billion valuation. The company is doubling down on building 'World Models'—AI that understands physics and environments, not just video generation.",
+    "engagement": "Medium",
+    "raw_text": "Runway just secured the bag. They raised $315 million, hitting a $5.3 billion valuation. But here's the pivot: they aren't just making video tools anymore. \n\nThey are building 'World Models.' The goal is AI that understands physics, depth, and how objects move in the real world. This isn't just for making movies; it's the foundational tech for robotics and simulation. While everyone else is fighting over chatbots, Runway is trying to build a simulation of reality itself. If they pull this off, they become the engine for everything from video games to autonomous robots.",
+    "id": "RUNWAY-315",
+    "category": "AI",
+    "companies": [
+      "Runway"
+    ],
+    "people": [],
+    "created_at": "2026-02-13T09:00:00Z"
+  }
+]
