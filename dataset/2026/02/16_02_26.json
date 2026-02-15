@@ -1,0 +1,171 @@
+[
+  {
+    "date": "2026-02-15",
+    "source_file": "Tech News Report Generation Request (5).docx",
+    "page": 4,
+    "title": "US Military Used 'Claude' AI in Raid to Capture Maduro",
+    "summary": "Reports confirm the US military utilized Anthropic's Claude model via Palantir during a classified raid to capture Venezuelan President Nicolás Maduro. This has triggered a standoff between the Pentagon and Anthropic over the ethical use of AI in lethal operations.",
+    "engagement": "High",
+    "raw_text": "Guys, this is the story everyone is going to be talking about this week. We’ve always talked about 'AI Safety' in theory, right? Well, the firewall just collapsed. It turns out the US Delta Force actually used Anthropic’s Claude—yes, the 'safe and ethical' chatbot—to plan the raid that captured Venezuelan President Maduro. They didn't use the public website, obviously; they routed it through Palantir to strip out the safety filters. Now, the Pentagon is reportedly furious at Anthropic for trying to lecture them on ethics, basically saying, 'If you don't let us use this for war, we're cancelling the contracts.' This is the moment AI officially went from a productivity tool to a weapon of war. The 'Do No Harm' era of AI might be over before it even really started.",
+    "id": "A1B2C3D4",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Palantir",
+      "US Dept of Defense"
+    ],
+    "people": [
+      "Dario Amodei",
+      "Nicolás Maduro"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "AI Breakthroughs & Research.pdf",
+    "page": 1,
+    "title": "ByteDance's Doubao 2.0: The 'Agentic' AI That Costs 10x Less",
+    "summary": "ByteDance has launched Doubao 2.0, an AI agent capable of complex multi-step reasoning, reportedly matching GPT-5 class performance at a fraction of the cost. The release includes a viral video generation model, Seedance 2.0.",
+    "engagement": "High",
+    "raw_text": "While everyone is watching OpenAI, ByteDance just dropped a nuclear bomb on the AI market with Doubao 2.0. They’re claiming this thing isn't just a chatbot—it’s a full-blown 'agent' that can handle complex, multi-step tasks in the real world. But here’s the kicker: they say it costs an order of magnitude less to run than Gemini or GPT. That is absolutely wild if true because cost is the only thing holding back massive AI adoption right now. Plus, they dropped 'Seedance 2.0' for video generation, and the clips are already going viral on social media. China is not just catching up; in the efficiency game, they might be winning. If this model comes to the West, the price war is officially on.",
+    "id": "E5F6G7H8",
+    "category": "AI",
+    "companies": [
+      "ByteDance",
+      "OpenAI",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "Tech News Report Generation Request (5).docx",
+    "page": 5,
+    "title": "Google Gemini 3 'Deep Think' Crushes Humanity's Hardest Exam",
+    "summary": "Google's updated Gemini 3 'Deep Think' model has achieved a record-breaking 48.4% on 'Humanity's Last Exam', a benchmark of PhD-level problems. The model is demonstrating genuine deductive reasoning capable of peer-reviewing scientific papers.",
+    "engagement": "High",
+    "raw_text": "Okay, Google is finally taking the gloves off. They just updated Gemini 3 with a new mode called 'Deep Think,' and the benchmarks are honestly terrifying. There's this test called 'Humanity's Last Exam'—it's literally designed to be Google-proof with PhD-level physics and math questions. Most AIs fail it completely. Deep Think just scored nearly 50%. It's not just regurgitating text anymore; it's doing actual deductive reasoning. It even found a flaw in a math proof that human peer reviewers missed! We are rapidly moving from 'chatbots that hallucinate' to 'AI scientists that correct us.' If you're in STEM, you need to see what this thing can do, because the game just changed.",
+    "id": "I9J0K1L2",
+    "category": "Science",
+    "companies": [
+      "Google",
+      "Alphabet"
+    ],
+    "people": [
+      "Sundar Pichai",
+      "Lisa Carbone"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "Tech News Report Generation Request (5).docx",
+    "page": 1,
+    "title": "The 'SaaSpocalypse': Why Software Stocks Are Crashing",
+    "summary": "A massive market sell-off is hitting traditional software companies as 'Agentic AI' begins replacing human seats, undermining the per-user licensing model. Major logistics and real estate firms are seeing valuations slashed by up to 20%.",
+    "engagement": "High",
+    "raw_text": "If you own stock in traditional software companies, you might want to look away. Wall Street is calling it the 'SaaSpocalypse.' Basically, for twenty years, software companies made money by charging for every human employee who used their tool. But now, companies are realizing they can just deploy autonomous AI agents instead of hiring people. No people means no software licenses. We're seeing huge crashes in logistics and real estate tech stocks because of this. It’s a brutal wake-up call: AI isn't just a feature you add to software; it's the thing that might make the software interface—and the pricing model—completely obsolete. The 'per-seat' economy is dying right in front of us.",
+    "id": "M3N4O5P6",
+    "category": "Business",
+    "companies": [
+      "Salesforce",
+      "C.H. Robinson",
+      "CBRE",
+      "Algorhythm Holdings"
+    ],
+    "people": [
+      "Keith Weiss"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "AI Breakthroughs & Research.pdf",
+    "page": 3,
+    "title": "Leak: Apple's $699 MacBook & $599 iPhone 17e Coming Soon",
+    "summary": "Leaks suggest Apple is preparing to launch a low-cost 'iPhone 17e' and a colorful, plastic-shell budget MacBook priced around $699. These devices aim to bring Apple Intelligence features to a mass market.",
+    "engagement": "High",
+    "raw_text": "Apple is finally reading the room! We've got solid leaks about a massive budget-friendly drop coming next month. First, the iPhone 17e—it's rumored to be $599 but still packs the A19 chip so it can run all the new AI features. But the bigger news? A new entry-level MacBook for around $699. Rumor has it they're bringing back the 'fun' colors like blue and pink, and using a new manufacturing process to keep it cheap. This is a huge play to get students and budget buyers locked into their ecosystem before the AI wars really heat up. If these prices hold, they are going to sell an absolute mountain of these things.",
+    "id": "Q7R8S9T0",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [
+      "Mark Gurman"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "Tech News Report Generation Request (5).docx",
+    "page": 6,
+    "title": "NVIDIA Accelerates 'Rubin' Chips: 10x Cheaper AI Inference",
+    "summary": "NVIDIA has reportedly moved up the production timeline for its next-gen 'Rubin' architecture. The new chips promise a 10x reduction in inference costs, a critical step for making always-on AI agents economically viable.",
+    "engagement": "High",
+    "raw_text": "Just when you thought NVIDIA couldn't get further ahead, they hit the gas. Reports are coming in that their next-gen 'Rubin' chips are entering production way ahead of schedule. But here is why this actually matters to you: these chips are designed specifically to slash the cost of running AI by 10x. Right now, having an AI agent run your life is too expensive because the compute costs are insane. Rubin fixes that. This is the hardware that makes 'Agentic AI'—the stuff that actually does work for you 24/7—economically possible. Jensen Huang isn't waiting for the competition to catch up; he's lapping them.",
+    "id": "U1V2W3X4",
+    "category": "Hardware",
+    "companies": [
+      "NVIDIA",
+      "TSMC"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "Act as a top-tier tech news aggregator and researc (6).pdf",
+    "page": 5,
+    "title": "India Launches 17B 'Sovereign' AI Model: PARAM-2",
+    "summary": "India is set to unveil PARAM-2, a 17-billion parameter multilingual AI model designed for government services and local languages. The launch coincides with the massive India AI Impact Summit in New Delhi.",
+    "engagement": "Medium",
+    "raw_text": "India is making a massive power play in the AI space this week. They are launching 'PARAM-2,' a 17-billion parameter 'sovereign' AI model. The idea here is 'AI Sovereignty'—basically, nations don't want to rely on US tech giants for their critical infrastructure. This model is built specifically for India's diversity, handling multiple local languages and integrating directly with their digital public services. With Sam Altman calling India a 'full-stack AI leader' and this massive summit kicking off in Delhi, we are seeing the rise of a third major pole in the global AI race. It's not just US vs. China anymore.",
+    "id": "Y5Z6A7B8",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Govt of India"
+    ],
+    "people": [
+      "Narendra Modi",
+      "Sam Altman"
+    ],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "AI Breakthroughs & Research.pdf",
+    "page": 2,
+    "title": "OpenAI Launches Self-Coding AI 'GPT-5.3-Codex'",
+    "summary": "OpenAI has introduced GPT-5.3-Codex, a model specialized in software engineering that is 25% faster and capable of autonomously building apps from prompts. Notably, it was partially built and debugged by previous AI versions.",
+    "engagement": "Medium",
+    "raw_text": "Developers, heads up. OpenAI just dropped GPT-5.3-Codex, and it’s a beast. It’s 25% faster, but the crazy part is how they built it—OpenAI admits this model was partially built and debugged by *previous* versions of their AI. We're getting closer to that recursive self-improvement loop everyone is scared of. It’s smashing records on software engineering benchmarks and can autonomously build games and websites from a single prompt. If you're a coder, this is your new superpower... or your replacement, depending on how you look at it. Either way, the bar for 'entry-level' coding just got raised into the stratosphere.",
+    "id": "C9D0E1F2",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-02-15T22:42:13Z"
+  },
+  {
+    "date": "2026-02-15",
+    "source_file": "Tech News Report Generation Request (5).docx",
+    "page": 6,
+    "title": "The 'Mecha Comet': A Modular, Repairable Handheld PC",
+    "summary": "The Mecha Comet has launched as a modular, Linux-based handheld computer that allows users to hot-swap components like gamepads and keyboards. It positions itself as a 'Right to Repair' alternative to locked-down devices.",
+    "engagement": "Medium",
+    "raw_text": "If you are tired of glued-shut phones and locked ecosystems, you have to see the Mecha Comet. It launched this weekend, and it's a modular, Linux-based handheld that actually lets you own your hardware. You can hot-swap parts—snap on a gamepad, switch to a keyboard, or even attach a breakout board for robotics projects. It's not a powerhouse spec-wise, but that's not the point. It's a love letter to the 'Right to Repair' movement and open-source computing. In a world of black-box AI and sealed glass slabs, this little gadget is a breath of fresh air for the tinkerers out there.",
+    "id": "G3H4I5J6",
+    "category": "Hardware",
+    "companies": [
+      "Mecha Systems"
+    ],
+    "people": [],
+    "created_at": "2026-02-15T22:42:13Z"
+  }
+]
