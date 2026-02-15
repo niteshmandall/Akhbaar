@@ -6,8 +6,8 @@
     "title": "Google Gemini 3: The AI That Actually Thinks (84.6% ARC Score!)",
     "summary": "Google has released Gemini 3 'Deep Think', a model that utilizes a System 2 thinking process to achieve a massive 84.6% on the ARC-AGI-2 benchmark. The model can pause, simulate outcomes, and self-correct, marking a shift from pattern matching to genuine reasoning.",
     "engagement": "High",
-    "raw_text": "Stop what you are doing. Google just effectively solved the 'Reasoning Gap.' We aren't talking about a chatbot that hallucinates citations anymore. Gemini 3 'Deep Think' just dropped, and it hit an 84.6% on the ARC-AGI-2 benchmark. For context, GPT-5.1 was stuck in the 60s. This thing isn't just predicting the next word; it's using 'System 2' thinking—literally pausing to simulate potential futures and correct itself before it answers you. It's the difference between a reflex and a thought. If you're a developer or a researcher, the game just changed overnight. This is the closest we've ever been to AGI.",
-    "id": "A1B2C3D4",
+    "raw_text": "Stop what you are doing. Google just effectively solved the 'Reasoning Gap.' We aren't talking about a chatbot that hallucinates citations anymore. Gemini 3 'Deep Think' just dropped, and it hit an 84.6% on the ARC-AGI-2 benchmark. For context, GPT-5.1 was stuck in the 60s. This thing isn't just predicting the next word; it's using 'System 2' thinking\u2014literally pausing to simulate potential futures and correct itself before it answers you. It's the difference between a reflex and a thought. If you're a developer or a researcher, the game just changed overnight. This is the closest we've ever been to AGI.",
+    "id": "21477863",
     "category": "AI",
     "companies": [
       "Google",
@@ -23,8 +23,8 @@
     "title": "Claude Opus 4.6 Just Hacked the Planet (Zero-Day Exploits)",
     "summary": "Anthropic's new Claude Opus 4.6 has demonstrated the ability to autonomously identify and exploit zero-day vulnerabilities in decades-old open-source software. The model also introduces 'Visible Extended Thinking,' allowing users to see the AI's internal logic chain.",
     "engagement": "High",
-    "raw_text": "Okay, this is actually terrifying. Anthropic just released Claude Opus 4.6, and they admitted—out loud—that it found 'zero-day' vulnerabilities in software we've been using for twenty years. It didn't just find them; it wrote proof-of-concept exploits in a sandbox. We are officially in the era of weaponized AI. But here's the cool part: with the new 'Sonnet 3.7', you can actually toggle a 'Visible Thinking' mode to watch its internal monologue. No more black box. You can see it debating itself before it gives you an answer. It's like reading the mind of a supercomputer.",
-    "id": "E5F6G7H8",
+    "raw_text": "Okay, this is actually terrifying. Anthropic just released Claude Opus 4.6, and they admitted\u2014out loud\u2014that it found 'zero-day' vulnerabilities in software we've been using for twenty years. It didn't just find them; it wrote proof-of-concept exploits in a sandbox. We are officially in the era of weaponized AI. But here's the cool part: with the new 'Sonnet 3.7', you can actually toggle a 'Visible Thinking' mode to watch its internal monologue. No more black box. You can see it debating itself before it gives you an answer. It's like reading the mind of a supercomputer.",
+    "id": "7b1e2c64",
     "category": "AI Safety",
     "companies": [
       "Anthropic"
@@ -41,18 +41,20 @@
     "title": "Spotify & The Death of Coding: 'Vibe Coding' is Here",
     "summary": "Spotify's leadership revealed their top engineers haven't written manual code in months, relying instead on AI agents like 'Honk'. This aligns with the new trend of 'vibe-coding', where developers provide high-level intent and AI architects the solution.",
     "engagement": "High",
-    "raw_text": "If you're a junior dev, you need to listen to this. Spotify just came out and said their best engineers haven't written a single line of raw code since December. Not one. They're using an internal AI agent called 'Honk' to do the heavy lifting. We're seeing the rise of 'Vibe Coding'—where you just tell the AI the 'vibe' or the high-level goal, and it handles the libraries, the syntax, and the backend. OpenAI's Sherwin Wu is even calling it the era of the 'Sorcerer,' where one person manages a fleet of AI agents. The 'one-person unicorn' startup is about to become real.",
-    "id": "I9J0K1L2",
+    "raw_text": "If you're a junior dev, you need to listen to this. Spotify just came out and said their best engineers haven't written a single line of raw code since December. Not one. They're using an internal AI agent called 'Honk' to do the heavy lifting. We're seeing the rise of 'Vibe Coding'\u2014where you just tell the AI the 'vibe' or the high-level goal, and it handles the libraries, the syntax, and the backend. OpenAI's Sherwin Wu is even calling it the era of the 'Sorcerer,' where one person manages a fleet of AI agents. The 'one-person unicorn' startup is about to become real.",
+    "id": "85897a3a",
     "category": "Future of Work",
     "companies": [
       "Spotify",
       "OpenAI"
     ],
     "people": [
-      "Gustav Söderström",
+      "Gustav S\u00f6derstr\u00f6m",
       "Sherwin Wu"
     ],
-    "created_at": "2026-02-15T08:35:00Z"
+    "created_at": "2026-02-15T08:35:00Z",
+    "image_url": "images/15_02_26/85897a3a.png",
+    "image_prompt": "High-realism image: sleek Spotify office with relaxed engineers and a confident exec, holographic AI agent (translucent architect robot) projecting glowing system blueprints, developers gesturing high-level intent; warm cinematic lighting, subtle green accents, no visible text"
   },
   {
     "date": "2026-02-13",
@@ -61,8 +63,8 @@
     "title": "Disney Sues ByteDance Over Viral 'Seedance' AI",
     "summary": "Disney has issued a cease-and-desist to ByteDance after its new 'Seedance 2.0' video generation model went viral for creating high-fidelity clips of Spider-Man and Darth Vader. This marks a major escalation in the IP war between Hollywood and Chinese AI tech.",
     "engagement": "High",
-    "raw_text": "The Mouse is angry. ByteDance—the parent company of TikTok—just dropped 'Seedance 2.0', a video generation model that honestly blows Sora out of the water. But there's a catch: people immediately started making photorealistic clips of Darth Vader and Spider-Man. Disney wasted zero time and slapped them with a massive cease-and-desist. This is the big one, guys. It's the first major clash between a Chinese AI super-app and American Hollywood IP. If Disney wins this, it could shut down open video generation models for good.",
-    "id": "M3N4O5P6",
+    "raw_text": "The Mouse is angry. ByteDance\u2014the parent company of TikTok\u2014just dropped 'Seedance 2.0', a video generation model that honestly blows Sora out of the water. But there's a catch: people immediately started making photorealistic clips of Darth Vader and Spider-Man. Disney wasted zero time and slapped them with a massive cease-and-desist. This is the big one, guys. It's the first major clash between a Chinese AI super-app and American Hollywood IP. If Disney wins this, it could shut down open video generation models for good.",
+    "id": "075ddf65",
     "category": "Legal",
     "companies": [
       "ByteDance",
@@ -79,15 +81,17 @@
     "title": "Apple Stock Crashes 9% After 'Liberation Day' Tariffs",
     "summary": "Apple stock plunged over 9% following the announcement of new 'Liberation Day' tariffs, which target hardware supply chains in China. Analysts predict the iPhone 17 Pro could see a price hike of up to 43% due to these geopolitical shifts.",
     "engagement": "High",
-    "raw_text": "RIP to your wallet if you were planning on buying the iPhone 17. Apple stock just took a nosedive—down 9% in a single day—wiping out $300 billion in value. Why? The new 'Liberation Day' tariffs are hitting the supply chain exactly where it hurts. Analysts are saying the next iPhone Pro could cost 43% more. We are talking about a $2,000 phone base price. It's a bloodbath in the markets right now, and it proves that no matter how good the AI gets, you can't ignore the geopolitics of where the chips are actually made.",
-    "id": "Q7R8S9T0",
+    "raw_text": "RIP to your wallet if you were planning on buying the iPhone 17. Apple stock just took a nosedive\u2014down 9% in a single day\u2014wiping out $300 billion in value. Why? The new 'Liberation Day' tariffs are hitting the supply chain exactly where it hurts. Analysts are saying the next iPhone Pro could cost 43% more. We are talking about a $2,000 phone base price. It's a bloodbath in the markets right now, and it proves that no matter how good the AI gets, you can't ignore the geopolitics of where the chips are actually made.",
+    "id": "1f5f8d2d",
     "category": "Business",
     "companies": [
       "Apple",
       "Nasdaq"
     ],
     "people": [],
-    "created_at": "2026-02-15T08:35:00Z"
+    "created_at": "2026-02-15T08:35:00Z",
+    "image_url": "images/15_02_26/1f5f8d2d.png",
+    "image_prompt": "Photo-realistic news image: iPhone 17 Pro in sharp foreground, blurred stock ticker wall showing a steep red downward graph, shipping containers with Chinese flag in midground, customs officer silhouette stamping crate, cold dramatic lighting, somber, high-detail"
   },
   {
     "date": "2026-02-13",
@@ -96,14 +100,16 @@
     "title": "OpenAI's GPT-5.2 Discovers New Physics (Verified!)",
     "summary": "OpenAI has released findings showing GPT-5.2 derived a new result in quantum field theory regarding gluon amplitudes. The discovery, which corrected a standard simplification in the field, was formally proved by the model and verified by human physicists.",
     "engagement": "Medium",
-    "raw_text": "We always said AI would eventually do real science, and it just happened. GPT-5.2 didn't just write a poem; it corrected a standard model in quantum physics. Specifically, it found a 'nonzero' regime in gluon amplitudes that human physicists had assumed was zero for decades. And this wasn't a hallucination—it proved it using math that experts at the Institute for Advanced Study have verified. This is the transition from 'Chatbot' to 'Collaborator.' We are looking at AI operating at a Ph.D. research level.",
-    "id": "U1V2W3X4",
+    "raw_text": "We always said AI would eventually do real science, and it just happened. GPT-5.2 didn't just write a poem; it corrected a standard model in quantum physics. Specifically, it found a 'nonzero' regime in gluon amplitudes that human physicists had assumed was zero for decades. And this wasn't a hallucination\u2014it proved it using math that experts at the Institute for Advanced Study have verified. This is the transition from 'Chatbot' to 'Collaborator.' We are looking at AI operating at a Ph.D. research level.",
+    "id": "8c2cd9c5",
     "category": "Science",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-15T08:35:00Z"
+    "created_at": "2026-02-15T08:35:00Z",
+    "image_url": "images/15_02_26/8c2cd9c5.png",
+    "image_prompt": "Photoreal, diverse physicists in a modern lab gathered around a table projecting a glowing holographic visualization of entwined colorful gluon-like ribbons and particle tracks, server racks, cool blue lighting, faces showing awe and collaboration"
   },
   {
     "date": "2026-02-14",
@@ -113,14 +119,16 @@
     "summary": "Reports confirm Apple is overhauling Siri with a new AI chatbot backend codenamed 'Campos', powered by a partnership with Google Gemini. This integration is expected to launch with iOS 27, signaling Apple's reliance on external partners for GenAI.",
     "engagement": "High",
     "raw_text": "The rumor mill was right. Apple is finally killing the old Siri. The new project is codenamed 'Campos,' and here is the kicker: it's running on Google Gemini. That's right, Apple realized they were too far behind to catch up alone, so they signed a massive deal to put Google's brain inside the iPhone. This is coming in iOS 27. Imagine having the power of Gemini 3 Deep Think baked directly into your phone's OS. Siri might actually become useful for the first time in ten years.",
-    "id": "Y5Z6A7B8",
+    "id": "9faf3674",
     "category": "Mobile",
     "companies": [
       "Apple",
       "Google"
     ],
     "people": [],
-    "created_at": "2026-02-15T08:35:00Z"
+    "created_at": "2026-02-15T08:35:00Z",
+    "image_url": "images/15_02_26/9faf3674.png",
+    "image_prompt": "Realistic news photo: sleek iPhone on a polished desk, Siri waveform hologram rising and morphing into a glowing multicolored network of nodes and lines, blurred engineers and screens in background, cool studio lighting, modern serious mood"
   },
   {
     "date": "2026-02-14",
@@ -130,13 +138,15 @@
     "summary": "A security flaw in DJI's Romo robot vacuums allowed a researcher to access live camera feeds and remote control capabilities for thousands of units worldwide. The vulnerability was due to a backend permission error, which DJI has since patched.",
     "engagement": "High",
     "raw_text": "Throw out your robot vacuum. Seriously. A researcher just found a way to take control of 7,000 DJI Romo vacuums using a PS5 controller. He could drive them around people's houses and watch the live camera feed. No complex hack, just a permission error on DJI's backend. This is the absolute worst-case scenario for smart home tech. Imagine a stranger mapping your floor plan and watching your kids play from a vacuum cleaner. DJI patched it, but the trust is gone.",
-    "id": "C9D0E1F2",
+    "id": "66b141a0",
     "category": "Privacy",
     "companies": [
       "DJI"
     ],
     "people": [],
-    "created_at": "2026-02-15T08:35:00Z"
+    "created_at": "2026-02-15T08:35:00Z",
+    "image_url": "images/15_02_26/66b141a0.png",
+    "image_prompt": "Photo-realistic news image: dim living room at night, robot vacuum with tiny camera lens glowing red in foreground, reflection of couch on its shell; blurred hacker silhouette at laptop in background, cool blue cinematic lighting, tense, high-detail"
   },
   {
     "date": "2026-02-12",
@@ -145,8 +155,8 @@
     "title": "OpenAI Launches Real-Time Coding 'Spark' Model",
     "summary": "OpenAI has introduced GPT-5.3-Codex-Spark, a low-latency coding model running on dedicated Cerebras chips. The model is designed for real-time autocomplete and agentic coding workflows, significantly reducing inference costs and speed.",
     "engagement": "Medium",
-    "raw_text": "OpenAI isn't slowing down. They just dropped 'Codex-Spark,' a specialized model designed purely for real-time coding. But the interesting part is the hardware—it's running on Cerebras chips, not just NVIDIA GPUs. This is all about speed. They want the AI to write code as fast as you can think it. If you're a dev, this means your autocomplete just got a brain transplant. It's faster, cheaper, and signals that OpenAI is trying to break free from the NVIDIA monopoly.",
-    "id": "G3H4I5J6",
+    "raw_text": "OpenAI isn't slowing down. They just dropped 'Codex-Spark,' a specialized model designed purely for real-time coding. But the interesting part is the hardware\u2014it's running on Cerebras chips, not just NVIDIA GPUs. This is all about speed. They want the AI to write code as fast as you can think it. If you're a dev, this means your autocomplete just got a brain transplant. It's faster, cheaper, and signals that OpenAI is trying to break free from the NVIDIA monopoly.",
+    "id": "a72eb163",
     "category": "Development",
     "companies": [
       "OpenAI",
@@ -162,8 +172,8 @@
     "title": "Waymo's 'World Model' Simulates Tornadoes & Elephants",
     "summary": "Waymo has unveiled its 'World Model' powered by Google DeepMind's Genie 3, which generates realistic 3D driving environments from text. The system allows Waymo to train its autonomous drivers on rare 'edge cases' like tornadoes or rogue animals without physical risk.",
     "engagement": "High",
-    "raw_text": "Waymo just unlocked the matrix for self-driving cars. They are using Google's Genie 3 to generate a 'World Model'—basically a hyper-realistic video game that simulates reality. But here's the wild part: they can type in 'tornado' or 'rogue elephant on the highway,' and the AI generates that scenario for the car to practice in. They are solving the 'long tail' of driving accidents by hallucinating nightmares for their cars to learn from. This is how we get to Level 5 autonomy.",
-    "id": "K7L8M9N0",
+    "raw_text": "Waymo just unlocked the matrix for self-driving cars. They are using Google's Genie 3 to generate a 'World Model'\u2014basically a hyper-realistic video game that simulates reality. But here's the wild part: they can type in 'tornado' or 'rogue elephant on the highway,' and the AI generates that scenario for the car to practice in. They are solving the 'long tail' of driving accidents by hallucinating nightmares for their cars to learn from. This is how we get to Level 5 autonomy.",
+    "id": "d3a7efef",
     "category": "Robotics",
     "companies": [
       "Waymo",
