@@ -4,10 +4,10 @@
     "source_file": "Tech News Report Generation Request (5).docx",
     "page": 4,
     "title": "US Military Used 'Claude' AI in Raid to Capture Maduro",
-    "summary": "Reports confirm the US military utilized Anthropic's Claude model via Palantir during a classified raid to capture Venezuelan President Nicolás Maduro. This has triggered a standoff between the Pentagon and Anthropic over the ethical use of AI in lethal operations.",
+    "summary": "Reports confirm the US military utilized Anthropic's Claude model via Palantir during a classified raid to capture Venezuelan President Nicol\u00e1s Maduro. This has triggered a standoff between the Pentagon and Anthropic over the ethical use of AI in lethal operations.",
     "engagement": "High",
-    "raw_text": "Guys, this is the story everyone is going to be talking about this week. We’ve always talked about 'AI Safety' in theory, right? Well, the firewall just collapsed. It turns out the US Delta Force actually used Anthropic’s Claude—yes, the 'safe and ethical' chatbot—to plan the raid that captured Venezuelan President Maduro. They didn't use the public website, obviously; they routed it through Palantir to strip out the safety filters. Now, the Pentagon is reportedly furious at Anthropic for trying to lecture them on ethics, basically saying, 'If you don't let us use this for war, we're cancelling the contracts.' This is the moment AI officially went from a productivity tool to a weapon of war. The 'Do No Harm' era of AI might be over before it even really started.",
-    "id": "A1B2C3D4",
+    "raw_text": "Guys, this is the story everyone is going to be talking about this week. We\u2019ve always talked about 'AI Safety' in theory, right? Well, the firewall just collapsed. It turns out the US Delta Force actually used Anthropic\u2019s Claude\u2014yes, the 'safe and ethical' chatbot\u2014to plan the raid that captured Venezuelan President Maduro. They didn't use the public website, obviously; they routed it through Palantir to strip out the safety filters. Now, the Pentagon is reportedly furious at Anthropic for trying to lecture them on ethics, basically saying, 'If you don't let us use this for war, we're cancelling the contracts.' This is the moment AI officially went from a productivity tool to a weapon of war. The 'Do No Harm' era of AI might be over before it even really started.",
+    "id": "574ecc0c",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -16,9 +16,11 @@
     ],
     "people": [
       "Dario Amodei",
-      "Nicolás Maduro"
+      "Nicol\u00e1s Maduro"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/574ecc0c.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"The user wants a prompt for image generation. They want a realistic high-quality image suitable for a news article. No text, under 300 chars. They want a prompt that describes the scene: US military used Claude AI in a raid to capture Maduro. Visual elements, mood, key subjects. No text in image. Should be concise.\\n\\nWe need to craft an image description prompt for machine generation. Example: \\\"A tense urban raid at night, squad of US soldiers with advanced exoskeletons, bright tactical lights, a high-tech drone hovering, a quiet Venezuelan presidential palace interior, an unseen AI interface overlay.\\\" But no text.\\n\\nWe must keep under 300 characters. Use detail. Count approximate characters. Let's draft.\\n\\n\\\"Night scene inside a guarded Venezuelan presidential palace. US soldiers in tactical gear breach a door, headlights paint steel walls. A sleek drone hovers above, projecting glowing on-screen data. A calm, ominous vibe, the focus on soldiers, the palace, and tech.\\\" Count? Let's approximate: \\\"Night scene inside a guarded Venezuelan presidential palace. US soldiers in tactical gear breach a door, headlights paint steel walls. A sleek drone hovers above, projecting glowing on-screen data. A calm, ominous vibe, the focus on soldiers, the palace, and tech.\\\" That's 259 characters? Let's count: Probably near 250. Let me quick approximate: Each word ~4-6 chars. 50 words? Might be okay. Let's count: Night(5) scene(5)=10, inside(6)=16, a(1)=17, guarded(7)=24, Venezuelan(11)=35, presidential(11)=46, palace.(6)=52, US(2)=54, soldiers(8)=62, in(2)=64, tactical(8)=72, gear(4)=76, breach(6)=82, a(1)=83, door,(5)=88, headlights(10)=98, paint(5)=103, steel(5)=108, walls.(6)=114, A(1)=115, sleek(5)=120, drone(5)=125, hovers(6)=131, above,(6)=137, projecting(10)=147, glowing(7)=154, on-screen(8)=162, data.(5)=167, A(1)=168, calm,(5)=173, ominous(7)=180, vibe,(5)=185, the(3)=188, focus(5)=193, on(2)=195, soldiers,(8)=203, the(3)=206, palace,(6)=212, and(3)=215, tech.(5)=220. So under 300.\\n\\nWe must mention \\\"AI\\\", \\\"Claude\\\" indirectly via tech. We can add \\\"AI interface on drone's HUD\\\". Add subtle \\\"blue holographic interface\\\".\\n\\nLet's rewrite: \\\"Dark night inside a fortified Venezuelan presidential palace. US soldiers in tactical gear breach a steel door lit by flashing LEDs. A sleek drone hovers, its HUD displays a blue holographic AI interface. Cold, tense atmosphere focusing on soldiers, the palace architecture, and advanced tech.\\\" Count: Let's approximate: Dark(4)=4; night(5)=9; inside(6)=15; a(1)=16; fortified(8)=24; Venezuelan(11)=35; presidential(11)=46; palace.(6)=52; US(2)=54; soldiers(8)=62; in(2)=64; tactical(8)=72; gear(4)=76; breach(6)=82; a(1)=83; steel(5)=88; door(4)=92; lit(3)=95; by(2)=97; flashing(8)=105; LEDs.(6)=111; A(1)=112; sleek(5)=117; drone(5)=122; hovers,(6)=128; its(3)=131; HUD(3)=134; displays(8)=142; a(1)=143; blue(4)=147; holographic(11)=158; AI(2)=160; interface.(10)=170; Cold,(5)=175; tense(5)=180; atmosphere(10)=190; focusing(8)=198; on(2)=200; soldiers,(8)=208; the(3)=211; palace(6)=217; architecture,(12)=229; and(3)=232; advanced(8)=240; tech.(5)=245. Good. Under 300.\\n\\nWe should mention \\\"capture Maduro\\\" but keep no text. The image could show a silhouette or him in background. We must mention him earlier: The silhouette of a prominent figure in the corner perhaps?\\n\\nAdd \\\"A shadowed figure of Maduro in the doorway, eyes hidden by a hood\\\". Slight additions within 300 chars. Let's add: \\\"A shadowed figure of Maduro in the doorway, eyes masked.\\\" Add words.\\n\\nAdd sentence: \\\"A shadowed figure of Maduro in the doorway, eyes masked.\\\" That is 13 words; ~65 characters. Add to previous, so new total ~310, we exceed 300. We need to reduce elsewhere. Let's reduce some descriptors.\\n\\nWe can trim: \\\"Dark night inside a fortified Venezuelan presidential palace. US soldiers in tactical gear breach a steel door lit by flashing LEDs. A sleek drone hovers, its HUD displays a blue holographic AI interface. Cold, tense atmosphere focusing on soldiers, the palace, and advanced tech.\\\" Let's count approx: Dark(4)=4; night(5)=9; inside(6)=15; a(1)=16; fortified(8)=24; Venezuelan(11)=35; presidential(11)=46; palace.(6)=52; US(2)=54; soldiers(8)=62; in(2)=64; tactical(8)=72; gear(4)=76; breach(6)=82; a(1)=83; steel(5)=88; door(4)=92; lit(3)=95; by(2)=97; flashing(8)=105; LEDs.(6)=111; A(1)=112; sleek(5)=117; drone(5)=122; hovers,(6)=128; its(3)=131; HUD(3)=134; displays(8)=142; a(1)=143; blue(4)=147; holographic(11)=158; AI(2)=160; interface.(10)=170; Cold,(5)=175; tense(5)=180; atmosphere(10)=190; focusing(8)=198; on(2)=200; soldiers,(8)=208; the(3)=211; palace,(6)=217; and(3)=220; advanced(8)=228; tech.(5)=233. So 233 chars. Good.\\n\\nNow add \\\"A shadowed figure of Maduro in the doorway, eyes masked.\\\" That adds 13 words: approximate 60 chars. That would bring to ~293. Under 300. Let's count: \\\"A\\\"(1)=1, \\\"shadowed\\\"(8)=9, \\\"figure\\\"(6)=15, \\\"of\\\"(2)=17, \\\"Maduro\\\"(6)=23, \\\"in\\\"(2)=25, \\\"the\\\"(3)=28\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-02-15",
@@ -27,8 +29,8 @@
     "title": "ByteDance's Doubao 2.0: The 'Agentic' AI That Costs 10x Less",
     "summary": "ByteDance has launched Doubao 2.0, an AI agent capable of complex multi-step reasoning, reportedly matching GPT-5 class performance at a fraction of the cost. The release includes a viral video generation model, Seedance 2.0.",
     "engagement": "High",
-    "raw_text": "While everyone is watching OpenAI, ByteDance just dropped a nuclear bomb on the AI market with Doubao 2.0. They’re claiming this thing isn't just a chatbot—it’s a full-blown 'agent' that can handle complex, multi-step tasks in the real world. But here’s the kicker: they say it costs an order of magnitude less to run than Gemini or GPT. That is absolutely wild if true because cost is the only thing holding back massive AI adoption right now. Plus, they dropped 'Seedance 2.0' for video generation, and the clips are already going viral on social media. China is not just catching up; in the efficiency game, they might be winning. If this model comes to the West, the price war is officially on.",
-    "id": "E5F6G7H8",
+    "raw_text": "While everyone is watching OpenAI, ByteDance just dropped a nuclear bomb on the AI market with Doubao 2.0. They\u2019re claiming this thing isn't just a chatbot\u2014it\u2019s a full-blown 'agent' that can handle complex, multi-step tasks in the real world. But here\u2019s the kicker: they say it costs an order of magnitude less to run than Gemini or GPT. That is absolutely wild if true because cost is the only thing holding back massive AI adoption right now. Plus, they dropped 'Seedance 2.0' for video generation, and the clips are already going viral on social media. China is not just catching up; in the efficiency game, they might be winning. If this model comes to the West, the price war is officially on.",
+    "id": "ff38152b",
     "category": "AI",
     "companies": [
       "ByteDance",
@@ -36,7 +38,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/ff38152b.png",
+    "image_prompt": "Realistic news photo: sleek server rack and a holographic agentic AI avatar projecting layered node-graphs and cascading code; smartphone shows floating short-video thumbnails and cinematic frames; cool blue and crimson lighting, dramatic depth, sharp detail."
   },
   {
     "date": "2026-02-15",
@@ -45,8 +49,8 @@
     "title": "Google Gemini 3 'Deep Think' Crushes Humanity's Hardest Exam",
     "summary": "Google's updated Gemini 3 'Deep Think' model has achieved a record-breaking 48.4% on 'Humanity's Last Exam', a benchmark of PhD-level problems. The model is demonstrating genuine deductive reasoning capable of peer-reviewing scientific papers.",
     "engagement": "High",
-    "raw_text": "Okay, Google is finally taking the gloves off. They just updated Gemini 3 with a new mode called 'Deep Think,' and the benchmarks are honestly terrifying. There's this test called 'Humanity's Last Exam'—it's literally designed to be Google-proof with PhD-level physics and math questions. Most AIs fail it completely. Deep Think just scored nearly 50%. It's not just regurgitating text anymore; it's doing actual deductive reasoning. It even found a flaw in a math proof that human peer reviewers missed! We are rapidly moving from 'chatbots that hallucinate' to 'AI scientists that correct us.' If you're in STEM, you need to see what this thing can do, because the game just changed.",
-    "id": "I9J0K1L2",
+    "raw_text": "Okay, Google is finally taking the gloves off. They just updated Gemini 3 with a new mode called 'Deep Think,' and the benchmarks are honestly terrifying. There's this test called 'Humanity's Last Exam'\u2014it's literally designed to be Google-proof with PhD-level physics and math questions. Most AIs fail it completely. Deep Think just scored nearly 50%. It's not just regurgitating text anymore; it's doing actual deductive reasoning. It even found a flaw in a math proof that human peer reviewers missed! We are rapidly moving from 'chatbots that hallucinate' to 'AI scientists that correct us.' If you're in STEM, you need to see what this thing can do, because the game just changed.",
+    "id": "4f0c66b4",
     "category": "Science",
     "companies": [
       "Google",
@@ -56,7 +60,9 @@
       "Sundar Pichai",
       "Lisa Carbone"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/4f0c66b4.png",
+    "image_prompt": "A lab scene at sunrise, a scientist in a white coat staring at a holographic display of perplexing equations glowing blue. A translucent AI avatar\u2014Gemini 3\u2014emanates light, poised over a digital scoreboard. The atmosphere feels awe\u2011filled and cutting\u2011edge."
   },
   {
     "date": "2026-02-15",
@@ -65,8 +71,8 @@
     "title": "The 'SaaSpocalypse': Why Software Stocks Are Crashing",
     "summary": "A massive market sell-off is hitting traditional software companies as 'Agentic AI' begins replacing human seats, undermining the per-user licensing model. Major logistics and real estate firms are seeing valuations slashed by up to 20%.",
     "engagement": "High",
-    "raw_text": "If you own stock in traditional software companies, you might want to look away. Wall Street is calling it the 'SaaSpocalypse.' Basically, for twenty years, software companies made money by charging for every human employee who used their tool. But now, companies are realizing they can just deploy autonomous AI agents instead of hiring people. No people means no software licenses. We're seeing huge crashes in logistics and real estate tech stocks because of this. It’s a brutal wake-up call: AI isn't just a feature you add to software; it's the thing that might make the software interface—and the pricing model—completely obsolete. The 'per-seat' economy is dying right in front of us.",
-    "id": "M3N4O5P6",
+    "raw_text": "If you own stock in traditional software companies, you might want to look away. Wall Street is calling it the 'SaaSpocalypse.' Basically, for twenty years, software companies made money by charging for every human employee who used their tool. But now, companies are realizing they can just deploy autonomous AI agents instead of hiring people. No people means no software licenses. We're seeing huge crashes in logistics and real estate tech stocks because of this. It\u2019s a brutal wake-up call: AI isn't just a feature you add to software; it's the thing that might make the software interface\u2014and the pricing model\u2014completely obsolete. The 'per-seat' economy is dying right in front of us.",
+    "id": "90bd4549",
     "category": "Business",
     "companies": [
       "Salesforce",
@@ -77,7 +83,9 @@
     "people": [
       "Keith Weiss"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/90bd4549.png",
+    "image_prompt": "Photo-journalistic scene: tense trading floor with somber traders, giant screens ablaze with red plunging charts and ghostly AI humanoid figures replacing rows of empty office chairs; distant skyline shows shuttered warehouses and vacant glass towers, moody overcast light, cinematic depth"
   },
   {
     "date": "2026-02-15",
@@ -86,8 +94,8 @@
     "title": "Leak: Apple's $699 MacBook & $599 iPhone 17e Coming Soon",
     "summary": "Leaks suggest Apple is preparing to launch a low-cost 'iPhone 17e' and a colorful, plastic-shell budget MacBook priced around $699. These devices aim to bring Apple Intelligence features to a mass market.",
     "engagement": "High",
-    "raw_text": "Apple is finally reading the room! We've got solid leaks about a massive budget-friendly drop coming next month. First, the iPhone 17e—it's rumored to be $599 but still packs the A19 chip so it can run all the new AI features. But the bigger news? A new entry-level MacBook for around $699. Rumor has it they're bringing back the 'fun' colors like blue and pink, and using a new manufacturing process to keep it cheap. This is a huge play to get students and budget buyers locked into their ecosystem before the AI wars really heat up. If these prices hold, they are going to sell an absolute mountain of these things.",
-    "id": "Q7R8S9T0",
+    "raw_text": "Apple is finally reading the room! We've got solid leaks about a massive budget-friendly drop coming next month. First, the iPhone 17e\u2014it's rumored to be $599 but still packs the A19 chip so it can run all the new AI features. But the bigger news? A new entry-level MacBook for around $699. Rumor has it they're bringing back the 'fun' colors like blue and pink, and using a new manufacturing process to keep it cheap. This is a huge play to get students and budget buyers locked into their ecosystem before the AI wars really heat up. If these prices hold, they are going to sell an absolute mountain of these things.",
+    "id": "7b696264",
     "category": "Hardware",
     "companies": [
       "Apple"
@@ -95,7 +103,9 @@
     "people": [
       "Mark Gurman"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/7b696264.png",
+    "image_prompt": "Photorealistic news product shot: pastel plastic-shell budget laptop open beside a compact pastel iPhone on a wooden table, soft studio lighting, shallow depth of field, subtle reflections, blurred newsroom background, modern minimalist vibe, no text."
   },
   {
     "date": "2026-02-15",
@@ -104,8 +114,8 @@
     "title": "NVIDIA Accelerates 'Rubin' Chips: 10x Cheaper AI Inference",
     "summary": "NVIDIA has reportedly moved up the production timeline for its next-gen 'Rubin' architecture. The new chips promise a 10x reduction in inference costs, a critical step for making always-on AI agents economically viable.",
     "engagement": "High",
-    "raw_text": "Just when you thought NVIDIA couldn't get further ahead, they hit the gas. Reports are coming in that their next-gen 'Rubin' chips are entering production way ahead of schedule. But here is why this actually matters to you: these chips are designed specifically to slash the cost of running AI by 10x. Right now, having an AI agent run your life is too expensive because the compute costs are insane. Rubin fixes that. This is the hardware that makes 'Agentic AI'—the stuff that actually does work for you 24/7—economically possible. Jensen Huang isn't waiting for the competition to catch up; he's lapping them.",
-    "id": "U1V2W3X4",
+    "raw_text": "Just when you thought NVIDIA couldn't get further ahead, they hit the gas. Reports are coming in that their next-gen 'Rubin' chips are entering production way ahead of schedule. But here is why this actually matters to you: these chips are designed specifically to slash the cost of running AI by 10x. Right now, having an AI agent run your life is too expensive because the compute costs are insane. Rubin fixes that. This is the hardware that makes 'Agentic AI'\u2014the stuff that actually does work for you 24/7\u2014economically possible. Jensen Huang isn't waiting for the competition to catch up; he's lapping them.",
+    "id": "bc8f0223",
     "category": "Hardware",
     "companies": [
       "NVIDIA",
@@ -114,7 +124,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/bc8f0223.png",
+    "image_prompt": "Close-up of a gold-tinted AI chip on a green motherboard, soft blue glow, blurred server racks and engineers in the background bokeh, cool dramatic lighting, razor-sharp detail, realistic news-photo style conveying a technological breakthrough and urgency, no text"
   },
   {
     "date": "2026-02-15",
@@ -123,8 +135,8 @@
     "title": "India Launches 17B 'Sovereign' AI Model: PARAM-2",
     "summary": "India is set to unveil PARAM-2, a 17-billion parameter multilingual AI model designed for government services and local languages. The launch coincides with the massive India AI Impact Summit in New Delhi.",
     "engagement": "Medium",
-    "raw_text": "India is making a massive power play in the AI space this week. They are launching 'PARAM-2,' a 17-billion parameter 'sovereign' AI model. The idea here is 'AI Sovereignty'—basically, nations don't want to rely on US tech giants for their critical infrastructure. This model is built specifically for India's diversity, handling multiple local languages and integrating directly with their digital public services. With Sam Altman calling India a 'full-stack AI leader' and this massive summit kicking off in Delhi, we are seeing the rise of a third major pole in the global AI race. It's not just US vs. China anymore.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "India is making a massive power play in the AI space this week. They are launching 'PARAM-2,' a 17-billion parameter 'sovereign' AI model. The idea here is 'AI Sovereignty'\u2014basically, nations don't want to rely on US tech giants for their critical infrastructure. This model is built specifically for India's diversity, handling multiple local languages and integrating directly with their digital public services. With Sam Altman calling India a 'full-stack AI leader' and this massive summit kicking off in Delhi, we are seeing the rise of a third major pole in the global AI race. It's not just US vs. China anymore.",
+    "id": "4e3315ff",
     "category": "AI",
     "companies": [
       "OpenAI",
@@ -134,7 +146,9 @@
       "Narendra Modi",
       "Sam Altman"
     ],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/4e3315ff.png",
+    "image_prompt": "Photorealistic news image: New Delhi AI summit stage with Indian officials, sleek server racks and a holographic 3D neural-network globe glowing saffron, white, green; packed auditorium, press photographers, formal, forward-looking, high-tech mood"
   },
   {
     "date": "2026-02-15",
@@ -143,14 +157,16 @@
     "title": "OpenAI Launches Self-Coding AI 'GPT-5.3-Codex'",
     "summary": "OpenAI has introduced GPT-5.3-Codex, a model specialized in software engineering that is 25% faster and capable of autonomously building apps from prompts. Notably, it was partially built and debugged by previous AI versions.",
     "engagement": "Medium",
-    "raw_text": "Developers, heads up. OpenAI just dropped GPT-5.3-Codex, and it’s a beast. It’s 25% faster, but the crazy part is how they built it—OpenAI admits this model was partially built and debugged by *previous* versions of their AI. We're getting closer to that recursive self-improvement loop everyone is scared of. It’s smashing records on software engineering benchmarks and can autonomously build games and websites from a single prompt. If you're a coder, this is your new superpower... or your replacement, depending on how you look at it. Either way, the bar for 'entry-level' coding just got raised into the stratosphere.",
-    "id": "C9D0E1F2",
+    "raw_text": "Developers, heads up. OpenAI just dropped GPT-5.3-Codex, and it\u2019s a beast. It\u2019s 25% faster, but the crazy part is how they built it\u2014OpenAI admits this model was partially built and debugged by *previous* versions of their AI. We're getting closer to that recursive self-improvement loop everyone is scared of. It\u2019s smashing records on software engineering benchmarks and can autonomously build games and websites from a single prompt. If you're a coder, this is your new superpower... or your replacement, depending on how you look at it. Either way, the bar for 'entry-level' coding just got raised into the stratosphere.",
+    "id": "f1e7b260",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/f1e7b260.png",
+    "image_prompt": "Photo-realistic news image: software engineer in modern office, holographic glowing neural-network hovering above keyboard, multiple monitors with cascading code, faint translucent silhouettes of earlier AI models helping, cool blue lighting, shallow depth of field."
   },
   {
     "date": "2026-02-15",
@@ -159,13 +175,15 @@
     "title": "The 'Mecha Comet': A Modular, Repairable Handheld PC",
     "summary": "The Mecha Comet has launched as a modular, Linux-based handheld computer that allows users to hot-swap components like gamepads and keyboards. It positions itself as a 'Right to Repair' alternative to locked-down devices.",
     "engagement": "Medium",
-    "raw_text": "If you are tired of glued-shut phones and locked ecosystems, you have to see the Mecha Comet. It launched this weekend, and it's a modular, Linux-based handheld that actually lets you own your hardware. You can hot-swap parts—snap on a gamepad, switch to a keyboard, or even attach a breakout board for robotics projects. It's not a powerhouse spec-wise, but that's not the point. It's a love letter to the 'Right to Repair' movement and open-source computing. In a world of black-box AI and sealed glass slabs, this little gadget is a breath of fresh air for the tinkerers out there.",
-    "id": "G3H4I5J6",
+    "raw_text": "If you are tired of glued-shut phones and locked ecosystems, you have to see the Mecha Comet. It launched this weekend, and it's a modular, Linux-based handheld that actually lets you own your hardware. You can hot-swap parts\u2014snap on a gamepad, switch to a keyboard, or even attach a breakout board for robotics projects. It's not a powerhouse spec-wise, but that's not the point. It's a love letter to the 'Right to Repair' movement and open-source computing. In a world of black-box AI and sealed glass slabs, this little gadget is a breath of fresh air for the tinkerers out there.",
+    "id": "c9694d67",
     "category": "Hardware",
     "companies": [
       "Mecha Systems"
     ],
     "people": [],
-    "created_at": "2026-02-15T22:42:13Z"
+    "created_at": "2026-02-15T22:42:13Z",
+    "image_url": "images/16_02_26/c9694d67.png",
+    "image_prompt": "Realistic studio photo of the Mecha Comet modular handheld PC: sleek matte metal body, detachable gamepad and keyboard mid-swap, visible modular connectors, open repairable chassis, soft newsroom lighting, shallow depth of field, neutral background, high detail"
   }
 ]
