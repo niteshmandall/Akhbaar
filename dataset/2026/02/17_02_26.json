@@ -1,0 +1,161 @@
+[
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregation and Analysis Request (3).docx",
+    "page": 5,
+    "title": "Meta Drops $2 Billion to Build the Ultimate Super-App",
+    "summary": "Meta has acquired AI startup Manus for $2 billion to integrate autonomous agent capabilities into WhatsApp, Instagram, and Facebook. The move aims to transform these platforms into 'super-apps' capable of executing complex tasks like travel booking directly within the chat interface.",
+    "engagement": "High",
+    "raw_text": "Okay, stop scrolling for a second because Zuck just made a massive move. Meta reportedly just dropped two billion dollars—yes, with a 'B'—to acquire a startup called Manus. Here’s why this matters: We all know LLaMA is smart, right? It’s a great brain. But it has no hands. It can write you a poem, but it can’t book your flight. Manus changes that. They specialize in 'agentic AI,' which means software that actually *does* stuff. The plan is to plug this into WhatsApp and turn it into a WeChat-style Super App. Imagine texting 'Book me a flight to Tokyo' and it just happens. No apps, no websites. But here’s the spicy part: Manus had to cut all ties with its Chinese investors just to get the deal through US regulators. The AI wars are getting geopolitical, guys.",
+    "id": "a1b2c3d4",
+    "category": "Business",
+    "companies": [
+      "Meta",
+      "Manus",
+      "WhatsApp"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "OpenAI's Strategic Capture: The End of OpenClaw?",
+    "summary": "OpenAI has hired Peter Steinberger, creator of the popular open-source agent framework OpenClaw, and is transitioning the project into a foundation. This strategic hire is seen as a move to capture the 'personal agent' interface layer and steer developers away from rival models like Anthropic's Claude.",
+    "engagement": "High",
+    "raw_text": "If you're a dev, you know OpenClaw. It’s that open-source tool everyone was using to build AI agents, and frankly, it worked really well with Anthropic’s Claude. Well, Sam Altman just said 'Yoink!' OpenAI hired the creator, Peter Steinberger, and brought the whole project in-house. They say it’s staying open-source, but let’s be real—this is a power play. OpenAI wants to own the 'OS' of AI. They don't just want to be the chatbot; they want to be the layer that controls your computer. By hiring the guy who built the best agent framework, they basically just flipped the default switch from Claude to GPT. It’s a brilliant, ruthless move to dominate the agentic future.",
+    "id": "e5f6g7h8",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "OpenClaw",
+      "Anthropic"
+    ],
+    "people": [
+      "Sam Altman",
+      "Peter Steinberger"
+    ],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregation and Analysis Request (3).docx",
+    "page": 6,
+    "title": "Update Chrome NOW: Zero-Day Exploit Hitting Users",
+    "summary": "Google has issued an emergency patch for Chrome to fix CVE-2026-2441, a high-severity zero-day vulnerability currently being exploited in the wild. The flaw allows attackers to escape the browser sandbox and execute malicious code on the user's operating system.",
+    "engagement": "High",
+    "raw_text": "Public Service Announcement: Go update Chrome right now. Seriously, do it while you’re listening to this. Google just admitted there is a 'Zero-Day' exploit happening in the wild. That means hackers found a hole before Google could fix it, and they are actively using it. It’s a nasty one—a 'Sandbox Escape.' Basically, usually, if you visit a bad website, the damage is contained in the browser tab. This bug lets the bad code jump out of the browser and take over your actual computer. If you're on Windows or Mac, you need version 145.0.7632.75 immediately. Don't wait on this one, folks. Security is no joke in 2026.",
+    "id": "i9j0k1l2",
+    "category": "Security",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregation and Analysis Request (3).docx",
+    "page": 7,
+    "title": "Bitcoin's Nightmare: Quantum Computers Could Break Crypto by 2030",
+    "summary": "New research warns that Cryptographically Relevant Quantum Computers (CRQCs) could emerge within 3-5 years, posing an existential threat to Bitcoin's current encryption. The blockchain industry faces urgent pressure to execute a 'hard fork' to quantum-resistant algorithms to prevent catastrophic theft.",
+    "engagement": "High",
+    "raw_text": "Is Bitcoin doomed? A new report dropped today that is genuinely terrifying for anyone holding crypto. We used to think Quantum Computers—machines powerful enough to crack today's encryption—were 15 years away. New estimate? Three to five years. That is *soon*. If these machines come online, they could theoretically derive your private key from your public wallet address. Boom, wallet drained. The US Department of Defense is already migrating their tech, but Bitcoin moves slowly. The network needs a massive upgrade, a 'hard fork,' to become quantum-resistant, or else the entire trust model collapses. The clock is officially ticking.",
+    "id": "m3n4o5p6",
+    "category": "Science",
+    "companies": [
+      "Bitcoin (Protocol)"
+    ],
+    "people": [],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Today’s Tech News – February 16, 2026.pdf",
+    "page": 2,
+    "title": "Gaming Revolution: No Controllers, Just You",
+    "summary": "South Korean startup HUUCH has announced the completion of its AI-enabled motion gaming platform, which uses 3D skeletal tracking to capture full-body movements without wearables. The system, debuting in H1 2026, aims to lower barriers for casual gamers by eliminating complex controllers.",
+    "engagement": "Medium",
+    "raw_text": "Remember the Xbox Kinect? It was a cool idea but kinda janky. Well, a Korean startup called HUUCH might have just perfected it. They announced a new AI console today that uses '3D skeletal tracking.' No controllers, no weird suits, no VR headsets. You just stand there, and the AI maps your entire body in real-time. They’re launching in the first half of this year. If this actually works with low latency, it could be huge for casual gaming. Imagine playing a fighting game where you actually have to throw the punch, or a dance game that actually knows if your form is trash. I’m skeptical, but I want to try it.",
+    "id": "q7r8s9t0",
+    "category": "Hardware",
+    "companies": [
+      "HUUCH"
+    ],
+    "people": [],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "India's AI Power Play: The 'Sovereign' Chip Revolution",
+    "summary": "The India AI Impact Summit 2026 kicked off with the launch of BharatGen's 'Param2' sovereign model and a major partnership between TCS and AMD to build local AI infrastructure. The initiatives aim to reduce reliance on Western tech giants by establishing domestic compute capacity and indigenous language models.",
+    "engagement": "High",
+    "raw_text": "The Global South is done waiting for Silicon Valley. Today, the India AI Impact Summit kicked off, and the message is loud and clear: 'Sovereign AI.' India just launched 'Param2,' a massive 17-billion parameter model trained on 22 Indian languages. But it’s not just software. TCS and AMD announced a partnership to build 'rack-scale' AI infrastructure right there in India. They don't want to rent intelligence from OpenAI or Google; they want to own the silicon and the code. With 72 million daily ChatGPT users in India alone, this is a massive shift in the balance of power. The next AI giant might not come from San Francisco.",
+    "id": "u1v2w3x4",
+    "category": "Geopolitics",
+    "companies": [
+      "BharatGen",
+      "TCS",
+      "AMD"
+    ],
+    "people": [
+      "Narendra Modi"
+    ],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregation and Analysis Request (3).docx",
+    "page": 7,
+    "title": "Miracle Science: 'Dancing Molecules' Heal Spinal Cords",
+    "summary": "Researchers at Northwestern University have successfully used 'dancing molecules'—highly mobile supramolecular polymers—to repair severe spinal cord injuries in lab-grown human organoids. The breakthrough was enabled by generative biology simulations that predicted molecular interactions with human tissue.",
+    "engagement": "High",
+    "raw_text": "Okay, this is the best news you’ll hear today. Forget chatbots for a second—AI is helping cure paralysis. Researchers at Northwestern used generative AI to design what they call 'Dancing Molecules.' These are super-mobile polymers that wiggle around enough to connect with human cells. They tested this on lab-grown human spinal cord tissue, and it actually repaired severe injuries. It signaled the neurons to regenerate! This is the dream, guys. We are moving from 'AI writes emails' to 'AI heals bodies.' It’s still in the lab, but the potential here is absolutely mind-blowing.",
+    "id": "y5z6a7b8",
+    "category": "Science",
+    "companies": [
+      "Northwestern University"
+    ],
+    "people": [],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Today’s Tech News – February 16, 2026.pdf",
+    "page": 2,
+    "title": "Alibaba's Qwen-3.5: Faster, Cheaper, and Agentic",
+    "summary": "Alibaba has unveiled Qwen-3.5, a new AI model optimized for the 'agentic era' with capabilities to autonomously execute tasks across apps. The company claims it runs 8x faster and is 60% cheaper than its predecessor, aiming to compete with U.S. models like GPT-5.2.",
+    "engagement": "Medium",
+    "raw_text": "The AI race isn't slowing down. Alibaba just dropped Qwen-3.5, and they are coming for the enterprise market. They claim this thing is 60% cheaper and 8x faster than their old models. But the buzzword here is 'Visual Agentic Capabilities.' That means it can look at your screen and click buttons for you. It’s not just text-in, text-out; it’s taking action. While American companies are worried about safety rails, Chinese tech giants are shipping features that let AI control your apps. If you're a dev looking for cheap, high-performance models, you can't ignore what's coming out of the East right now.",
+    "id": "c9d0e1f2",
+    "category": "AI",
+    "companies": [
+      "Alibaba"
+    ],
+    "people": [],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregation and Analysis Request (3).docx",
+    "page": 6,
+    "title": "UK to Ban AI Boyfriends? New Social Media Laws",
+    "summary": "UK Prime Minister Keir Starmer has announced expedited legislation to ban social media for children under 16, which will explicitly include AI chatbots. The law classifies AI companions as social platforms, subjecting them to strict age-gating to prevent emotional manipulation.",
+    "engagement": "High",
+    "raw_text": "The UK is dropping the hammer on social media, and AI is getting caught in the crossfire. The Prime Minister is pushing a ban on social media for anyone under 16. But here is the twist: they are classifying AI Chatbots as 'social media.' So, if you’re a kid in the UK, no more Character.ai, no more AI companions. The government is worried about 'emotional manipulation' and these bots replacing real human connection. It’s a massive debate—is this protecting kids, or is it government overreach blocking access to the future? Let me know in the comments what you think.",
+    "id": "g3h4i5j6",
+    "category": "Policy",
+    "companies": [
+      "Character.ai"
+    ],
+    "people": [
+      "Keir Starmer"
+    ],
+    "created_at": "2026-02-16T22:11:32.000Z"
+  }
+]
