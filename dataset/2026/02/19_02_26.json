@@ -1,13 +1,13 @@
 [
   {
     "date": "2026-02-18",
-    "source_file": "Tech News – February 18, 2026.pdf",
+    "source_file": "Tech News \u2013 February 18, 2026.pdf",
     "page": 1,
     "title": "Apple's Secret March Event: AI Glasses & Camera AirPods?",
     "summary": "Leaks ahead of Apple's March 4th 'Special Experience' reveal plans for AI-powered smart glasses, a wearable 'smart pendant,' and AirPods equipped with cameras for visual intelligence. This hardware push aims to hedge against iPhone saturation by embedding AI into ambient wearable devices.",
     "engagement": "High",
-    "raw_text": "Okay, stop scrolling. Apple is officially up to something massive. We just got confirmation of a 'Special Apple Experience' on March 4th, and the leaks are pointing to a completely new hardware category. We aren't just talking about a new iPhone; we're talking about 'Smart Glasses' and—get this—AirPods with built-in cameras. Yes, cameras in your ears. The concept is that Siri can 'see' what you're looking at and give you real-time answers without you ever pulling out your phone. It's the 'Iron Man' features we've been promised for years. If this is real, Apple is finally trying to kill the screen. Would you wear a camera in your ear, or is that a privacy nightmare? Let me know below.",
-    "id": "A1B2C3D4",
+    "raw_text": "Okay, stop scrolling. Apple is officially up to something massive. We just got confirmation of a 'Special Apple Experience' on March 4th, and the leaks are pointing to a completely new hardware category. We aren't just talking about a new iPhone; we're talking about 'Smart Glasses' and\u2014get this\u2014AirPods with built-in cameras. Yes, cameras in your ears. The concept is that Siri can 'see' what you're looking at and give you real-time answers without you ever pulling out your phone. It's the 'Iron Man' features we've been promised for years. If this is real, Apple is finally trying to kill the screen. Would you wear a camera in your ear, or is that a privacy nightmare? Let me know below.",
+    "id": "f16ad224",
     "category": "Hardware",
     "companies": [
       "Apple"
@@ -16,7 +16,9 @@
       "Mark Gurman",
       "Alexei Oreskovic"
     ],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/f16ad224.png",
+    "image_prompt": "Crisp news-style photo of sleek AI smart glasses with reflective lenses, a minimalist smart pendant, and AirPod-like earbuds with tiny camera lenses, arranged on a matte white table under soft studio lighting, subtle glowing indicators, shallow depth of field, modern suspenseful tech mood"
   },
   {
     "date": "2026-02-18",
@@ -25,8 +27,8 @@
     "title": "Meta's \"Tobacco Moment\": Zuckerberg Sued for Addiction",
     "summary": "In a historic trial, Meta CEO Mark Zuckerberg faces allegations that social media features like infinite scroll are 'defective products' designed to cause addiction. Plaintiffs are bypassing Section 230 immunity by comparing these engagement mechanisms to the tobacco industry's nicotine manipulation.",
     "engagement": "High",
-    "raw_text": "Mark Zuckerberg is back in court, but this time it's different. Lawyers are calling this Big Tech's 'Tobacco Moment.' Here is the strategy: they aren't suing Meta for the content on Instagram; they are suing them for the *design*. They claim that 'infinite scroll' and 'auto-play' are defective product features engineered to create chemical dependency in your brain, exactly like nicotine in cigarettes. We are seeing internal documents where execs admit to 'hooking' users while publicly denying it. If Meta loses this case, it could force a total redesign of the internet—imagine Instagram without a feed that never ends. The 'move fast and break things' era might finally be hitting a brick wall.",
-    "id": "E5F6G7H8",
+    "raw_text": "Mark Zuckerberg is back in court, but this time it's different. Lawyers are calling this Big Tech's 'Tobacco Moment.' Here is the strategy: they aren't suing Meta for the content on Instagram; they are suing them for the *design*. They claim that 'infinite scroll' and 'auto-play' are defective product features engineered to create chemical dependency in your brain, exactly like nicotine in cigarettes. We are seeing internal documents where execs admit to 'hooking' users while publicly denying it. If Meta loses this case, it could force a total redesign of the internet\u2014imagine Instagram without a feed that never ends. The 'move fast and break things' era might finally be hitting a brick wall.",
+    "id": "cf579f05",
     "category": "Social Media",
     "companies": [
       "Meta",
@@ -37,7 +39,9 @@
       "Adam Mosseri",
       "Mark Lanier"
     ],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/cf579f05.png",
+    "image_prompt": "Photorealistic courtroom scene: Mark Zuckerberg at defendant's table under stark spotlight, stern judge and attorneys, crowded gallery, hovering oversized glowing smartphone displaying endless scrolling hypnotic feed, tense, cinematic, documentary news style"
   },
   {
     "date": "2026-02-18",
@@ -46,8 +50,8 @@
     "title": "Google Pixel 10a: Flagship AI for $99?",
     "summary": "Google has launched the Pixel 10a for $499 (with promos dropping it to $99), featuring a 120Hz display and the previously exclusive 'Camera Coach' AI. The aggressive pricing aims to capture the mid-range market by offering flagship-level AI photography tools at a budget price point.",
     "engagement": "High",
-    "raw_text": "Google just dropped the mic on budget phones. This is the Pixel 10a. It's $499 retail, but with promos, you can grab it for like $99. And they didn't gut it. You get a 120Hz screen and the Tensor G4 chip. But the killer feature is 'Camera Coach.' This was a Pro-only feature that uses AI to literally teach you how to take better photos in real-time—telling you to 'move left' or 'fix the angle.' While Apple tries to sell $3,000 headsets, Google is putting a supercomputer in your pocket for the price of a nice dinner. If you are on a budget, this is honestly a no-brainer. Is the budget phone war finally over?",
-    "id": "I9J0K1L2",
+    "raw_text": "Google just dropped the mic on budget phones. This is the Pixel 10a. It's $499 retail, but with promos, you can grab it for like $99. And they didn't gut it. You get a 120Hz screen and the Tensor G4 chip. But the killer feature is 'Camera Coach.' This was a Pro-only feature that uses AI to literally teach you how to take better photos in real-time\u2014telling you to 'move left' or 'fix the angle.' While Apple tries to sell $3,000 headsets, Google is putting a supercomputer in your pocket for the price of a nice dinner. If you are on a budget, this is honestly a no-brainer. Is the budget phone war finally over?",
+    "id": "fd3ac683",
     "category": "Mobile",
     "companies": [
       "Google"
@@ -55,17 +59,19 @@
     "people": [
       "Sundar Pichai"
     ],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/fd3ac683.png",
+    "image_prompt": "A close\u2011up of a Google Pixel\u202f10a on a matte gray surface, OLED screen showing a vibrant 120Hz live photo. A faint AI icon subtly overlays the image, hinting at the \u2018Camera Coach\u2019 feature. Soft, neutral studio lighting and a backdrop of shopping bags evoke budget tech."
   },
   {
     "date": "2026-02-18",
-    "source_file": "Tech News – February 18, 2026.pdf",
+    "source_file": "Tech News \u2013 February 18, 2026.pdf",
     "page": 1,
     "title": "Google's Lyria 3: AI Music That Kills the Stock Industry?",
     "summary": "Google has integrated the Lyria 3 model into its Gemini app, allowing users to generate full 30-second songs with lyrics from simple text prompts. The feature is also launching on YouTube Shorts, potentially disrupting the stock music and creator economy.",
     "engagement": "High",
     "raw_text": "Musicians, you need to see this. Google just added 'Lyria 3' to Gemini, and it is terrifyingly good. You type in a prompt like 'comical R&B about a missing sock,' and it generates a fully produced track with lyrics and vocals in seconds. They are pushing this directly to YouTube Shorts. Think about it: why would a creator pay for a music license when they can generate a unique, copyright-free song instantly? We saw AI take over images; now it's coming for audio. This is the era of 'infinite content,' and while it's cool tech, it might just kill the stock music industry overnight. Are we ready for AI radio?",
-    "id": "M3N4O5P6",
+    "id": "7661ed5a",
     "category": "AI",
     "companies": [
       "Google",
@@ -73,7 +79,9 @@
       "YouTube"
     ],
     "people": [],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/7661ed5a.png",
+    "image_prompt": "Modern Google lab scene \u2013 a polished AI humanoid holding a mic, floating luminous music waveforms, holographic screen with streaming code, soft studio light, high\u2011tech vibe."
   },
   {
     "date": "2026-02-18",
@@ -83,17 +91,19 @@
     "summary": "Anthropic has released Claude Sonnet 4.6 with a beta 1-million-token context window, significantly outperforming competitors in long-context reasoning. The update focuses on 'agentic planning,' allowing the AI to execute complex, multi-step workflows autonomously.",
     "engagement": "Medium",
     "raw_text": "Developers, wake up. Anthropic just quietly dropped a nuke on the AI industry. Claude Sonnet 4.6 is out, and it has a 1-million-token context window. To put that in perspective, you could feed it an entire library of code or legal docs, and it won't forget a thing. But the real upgrade is 'Agentic Planning.' This isn't just a chatbot anymore; it's a worker. It can plan out complex tasks, research companies, and write code with way less hand-holding. While OpenAI is flashy with video, Anthropic is building the ultimate brain for getting work done. If you're a coder or researcher, this is your new daily driver.",
-    "id": "Q7R8S9T0",
+    "id": "b260c44b",
     "category": "AI",
     "companies": [
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/b260c44b.png",
+    "image_prompt": "Sleek modern lab: translucent 3D brain hologram over polished metal desk, glowing data streams around. A focused engineer in lab coat watches while server racks glow faintly, evoking quiet high\u2011tech innovation."
   },
   {
     "date": "2026-02-18",
-    "source_file": "Tech News – February 18, 2026.pdf",
+    "source_file": "Tech News \u2013 February 18, 2026.pdf",
     "page": 1,
     "title": "Sarvam AI: India's Answer to OpenAI",
     "summary": "Indian startup Sarvam has launched a new generation of open-source LLMs (30B and 105B parameters) trained on 16 trillion tokens of Indian language data. The models target 'sovereign AI' needs, offering high performance in local languages for voice and text applications.",
@@ -105,7 +115,9 @@
       "Sarvam AI"
     ],
     "people": [],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/S1T2U3V4.png",
+    "image_prompt": "Photorealistic news image of an Indian AI startup: diverse engineers around sleek servers and workstations, holographic map of India with flowing multilingual glyphs and glowing data streams, voice microphone, modern office, warm confident lighting, cinematic depth, no text"
   },
   {
     "date": "2026-02-18",
@@ -114,8 +126,8 @@
     "title": "Microsoft's $50 Billion \"Global South\" Gamble",
     "summary": "Microsoft President Brad Smith announced a $50 billion investment plan to build AI infrastructure across the Global South by 2030. The initiative aims to train 20 million people and secure Azure's dominance in emerging markets like India.",
     "engagement": "Medium",
-    "raw_text": "Fifty. Billion. Dollars. That is the check Microsoft just wrote to the developing world. Brad Smith dropped this bombshell at the India AI Summit today. They are building data centers, laying fiber cables, and training 20 million people to be AI engineers in the 'Global South.' Why? because the West is saturated. The next trillion dollars of growth is coming from India, Africa, and Latin America. Microsoft is playing the long game—they want to own the infrastructure of the future internet in these regions before anyone else can get a foothold. This is 4D chess, and it proves that the AI race is global.",
-    "id": "U1V2W3X4",
+    "raw_text": "Fifty. Billion. Dollars. That is the check Microsoft just wrote to the developing world. Brad Smith dropped this bombshell at the India AI Summit today. They are building data centers, laying fiber cables, and training 20 million people to be AI engineers in the 'Global South.' Why? because the West is saturated. The next trillion dollars of growth is coming from India, Africa, and Latin America. Microsoft is playing the long game\u2014they want to own the infrastructure of the future internet in these regions before anyone else can get a foothold. This is 4D chess, and it proves that the AI race is global.",
+    "id": "7507b2e8",
     "category": "Business",
     "companies": [
       "Microsoft"
@@ -123,7 +135,9 @@
     "people": [
       "Brad Smith"
     ],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/7507b2e8.png",
+    "image_prompt": "Branded AI hub in a bustling Indian tech campus, neon-lit server racks, diverse team building AI, bright conference room with modeling displays, hopeful, futuristic, high realism."
   },
   {
     "date": "2026-02-18",
@@ -133,7 +147,7 @@
     "summary": "BloombergNEF data reveals battery storage costs have crashed 27% to $78/MWh, making solar-plus-storage cheaper than natural gas for the first time. This shift allows tech giants to build off-grid 'AI Factories' powered entirely by renewables.",
     "engagement": "Medium",
     "raw_text": "This is the most important chart in tech that nobody is talking about. The price of batteries just crashed to $78 per megawatt-hour. For the first time in history, it is officially cheaper to build a solar farm with batteries than to burn natural gas. This changes everything for AI. Companies like Nvidia can now build massive 'AI Factories' in the middle of the desert, completely off the grid, and generate their own power cheaper than the utility company can sell it. We are about to see Big Tech decouple from the energy grid. The economics of saving the planet just aligned with the economics of training AI.",
-    "id": "Y5Z6A7B8",
+    "id": "a34b2903",
     "category": "Science",
     "companies": [
       "BloombergNEF",
@@ -141,17 +155,19 @@
       "Larsen & Toubro"
     ],
     "people": [],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/a34b2903.png",
+    "image_prompt": "A wide shot of a sprawling solar array on a sunlit ridge, sleek batteries in the foreground, sleek steel frames, with a distant city skyline. Bright sky, crisp daylight, calm, hopeful mood, High realism, no text, news\u2011style photography."
   },
   {
     "date": "2026-02-18",
-    "source_file": "Tech News – February 18, 2026.pdf",
+    "source_file": "Tech News \u2013 February 18, 2026.pdf",
     "page": 5,
     "title": "Elon Musk's xAI Gets $3 Billion Saudi Injection",
     "summary": "Saudi Arabian firm Humain has invested $3 billion into Elon Musk's xAI, which has recently been integrated into the SpaceX ecosystem. The deal highlights the growing trend of sovereign wealth funds backing major AI players.",
     "engagement": "High",
     "raw_text": "Elon Musk just secured another massive bag. We're talking $3 billion from a Saudi AI firm called Humain, directly into xAI. But here is the wild part: xAI is now technically under the SpaceX umbrella. So you have Saudi oil money funding an AI company that runs on a rocket company's infrastructure. It's the ultimate tech consolidation. Saudi Arabia is aggressively diversifying, and they are betting that Elon's 'Grok' is the winner. The AI arms race isn't just between companies anymore; it's between nations and sovereign wealth funds. The stakes just got a lot higher.",
-    "id": "C9D0E1F2",
+    "id": "23bcaf01",
     "category": "Business",
     "companies": [
       "xAI",
@@ -161,7 +177,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/23bcaf01.png",
+    "image_prompt": "Elon Musk in a bright, modern office shaking hands with a Saudi-inspired dignitary. Behind them, a subtle xAI logo projected on a wall, with SpaceX rocket parts visible through a display window. Futuristic, professional mood with soft lighting and realistic detail."
   },
   {
     "date": "2026-02-18",
@@ -170,13 +188,15 @@
     "title": "Amazon Kills \"Blue Jay\" Robot for Humanoids",
     "summary": "Amazon has cancelled its 'Blue Jay' warehouse robot project and is pivoting to general-purpose humanoid robots. Despite record revenues of $716.9 billion, the company is laying off 16,000 employees in a push for AI-driven efficiency.",
     "engagement": "Medium",
-    "raw_text": "Amazon is in a weird spot. They just made $716 billion, yet they're firing 16,000 people. It's the 'Efficiency Paradox.' But the real news is hidden in the lab: they killed the 'Blue Jay' robot. This was their big automated arm project. Why kill it? Because it was too dumb. Amazon is betting the farm on *humanoid* robots—general-purpose bots that can walk, lift, and adapt like a human. They don't want machines that just move boxes; they want machines that can replace the *entire* worker. The pivot to 'Agentic' robots is happening now, and it's going to reshape the workforce faster than we think.",
-    "id": "G3H4I5J6",
+    "raw_text": "Amazon is in a weird spot. They just made $716 billion, yet they're firing 16,000 people. It's the 'Efficiency Paradox.' But the real news is hidden in the lab: they killed the 'Blue Jay' robot. This was their big automated arm project. Why kill it? Because it was too dumb. Amazon is betting the farm on *humanoid* robots\u2014general-purpose bots that can walk, lift, and adapt like a human. They don't want machines that just move boxes; they want machines that can replace the *entire* worker. The pivot to 'Agentic' robots is happening now, and it's going to reshape the workforce faster than we think.",
+    "id": "19490393",
     "category": "Business",
     "companies": [
       "Amazon"
     ],
     "people": [],
-    "created_at": "2026-02-18T22:58:00Z"
+    "created_at": "2026-02-18T22:58:00Z",
+    "image_url": "images/19_02_26/19490393.png",
+    "image_prompt": "Photo\u2011real news image: dim Amazon warehouse aisle, deactivated blue birdlike warehouse robot powered down amid scattered parts, humanoid robot prototypes on pallets in background, somber cinematic lighting, anxious workers exiting, high detail"
   }
 ]
