@@ -15,7 +15,9 @@
     "people": [
       "Mark Gurman"
     ],
-    "created_at": "2026-02-19T23:18:27Z"
+    "created_at": "2026-02-19T23:18:27Z",
+    "image_url": "images/20_02_26/APPL-WRBL-2026.png",
+    "image_prompt": "Photorealistic news image: sleek Apple\u2011style AI glasses with tiny sensors, glowing pendant wearable, and white AirPods with micro camera lenses arranged on a minimalist table; soft natural light, modern city cafe background, crisp detail, documentary mood"
   },
   {
     "date": "2026-02-16",
@@ -34,7 +36,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-02-19T23:18:27Z"
+    "created_at": "2026-02-19T23:18:27Z",
+    "image_url": "images/20_02_26/SPCX-DRN-2026.png",
+    "image_prompt": "Modern military ops center, commander in a tactical chair with a mic, speaking, while a sleek black drone swarm forms a geometric lattice overhead, holographic maps pulsing on large screens, tense and focused mood."
   },
   {
     "date": "2026-02-19",
@@ -55,7 +59,9 @@
       "Elizabeth Barnes",
       "David Rein"
     ],
-    "created_at": "2026-02-19T23:18:27Z"
+    "created_at": "2026-02-19T23:18:27Z",
+    "image_url": "images/20_02_26/METR-DEV-2026.png",
+    "image_prompt": "Senior developer, 60s, beard, glasses, hunched over cluttered desk with three monitors showing complex code and red error logs, coffee mug half\u2011empty, digital clock ticking slowly, tense yet curious expression, dim office lights, realistic style."
   },
   {
     "date": "2026-02-19",
@@ -82,7 +88,9 @@
       "Mukesh Ambani",
       "Bill Gates"
     ],
-    "created_at": "2026-02-19T23:18:27Z"
+    "created_at": "2026-02-19T23:18:27Z",
+    "image_url": "images/20_02_26/IND-SUMM-2026.png",
+    "image_prompt": "A bustling India AI Impact Summit stage with PM Modi standing center, shaking fists, while Sam Altman and Dario Amodei on opposite side keep fists apart, gazing into the crowd, crisp lighting, glossy corporate attire, large stage backdrop, vibrant yet tense."
   },
   {
     "date": "2026-02-19",
@@ -91,7 +99,7 @@
     "title": "AI Just Solved a Massive Global Supply Chain Crisis for EVs",
     "summary": "Scientists at the University of New Hampshire used AI to screen 67,573 magnetic compounds, discovering dozens of high-temperature magnetic materials that do not require rare-earth elements. Published in Nature Communications, this breakthrough could eliminate the need for expensive, geopolitically vulnerable rare-earth magnets in electric vehicles, dramatically lowering EV costs.",
     "engagement": "Medium",
-    "raw_text": "Electric vehicles might be about to get a whole lot cheaper, and it's all thanks to an AI breakthrough. You see, the most powerful magnets inside EV motors require rare-earth elements like Neodymium and Dysprosium. These are incredibly expensive, super toxic to mine, and the supply chain is mostly controlled by China. But researchers at the University of New Hampshire just changed the game. Instead of testing materials by hand in a lab—which takes forever and costs a fortune—they unleashed an AI model. The AI read through decades of scientific papers, analyzed over 67,000 compounds, and successfully discovered 25 brand-new magnetic materials that don't need rare-earth elements at all!  This is an absolute gamechanger. By cutting out these volatile, expensive metals, automakers can drastically drop the price of building an EV powertrain. We're looking at a future where EVs finally reach real price parity with gas cars. AI isn't just generating text; it's literally discovering new materials to save the planet.",
+    "raw_text": "Electric vehicles might be about to get a whole lot cheaper, and it's all thanks to an AI breakthrough. You see, the most powerful magnets inside EV motors require rare-earth elements like Neodymium and Dysprosium. These are incredibly expensive, super toxic to mine, and the supply chain is mostly controlled by China. But researchers at the University of New Hampshire just changed the game. Instead of testing materials by hand in a lab\u2014which takes forever and costs a fortune\u2014they unleashed an AI model. The AI read through decades of scientific papers, analyzed over 67,000 compounds, and successfully discovered 25 brand-new magnetic materials that don't need rare-earth elements at all! This is an absolute gamechanger. By cutting out these volatile, expensive metals, automakers can drastically drop the price of building an EV powertrain. We're looking at a future where EVs finally reach real price parity with gas cars. AI isn't just generating text; it's literally discovering new materials to save the planet.",
     "id": "AI-MGNT-2026",
     "category": "Science",
     "companies": [
@@ -102,6 +110,8 @@
       "Jiadong Zang",
       "Yibo Zhang"
     ],
-    "created_at": "2026-02-19T23:18:27Z"
+    "created_at": "2026-02-19T23:18:27Z",
+    "image_url": "images/20_02_26/AI-MGNT-2026.png",
+    "image_prompt": "High\u2011energy lab: a researcher in a white coat points to a glowing holographic table displaying 67,573 magnetic compounds, swirling blue data and metallic sheets, a faint Earth\u2011map overlay, a sleek electric\u2011vehicle silhouette silhouetted in gentle radiance, mood of breakthrough progress."
   }
 ]
