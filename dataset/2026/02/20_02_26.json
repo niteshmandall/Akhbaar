@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-02-18",
+    "source_file": "Tech News Aggregator Report Request (2).docx",
+    "page": 1,
+    "title": "Apple's Screenless Future: AI Glasses and Camera AirPods Are Coming!",
+    "summary": "Apple is accelerating the development of three distinct AI-powered wearables: AI smart glasses (codename N50), an AI-enabled pendant, and camera-equipped AirPods. These ambient computing devices, lacking traditional screens, will rely on audio and visual data ingestion processed through a new Gemini-based Siri, targeting a 2027 launch.",
+    "engagement": "High",
+    "raw_text": "What's up guys, so check this out: Apple is literally trying to kill the screen. Following the heavy, expensive Vision Pro, Apple is pivoting hard into ambient computing. We're talking three brand new wearables dropping in 2027: AI smart glasses codenamed N50, a smart pendant the size of an AirTag, and AirPods with actual cameras built into them! Here's the wild part: the glasses won't even have an AR display. Apple realized making a lightweight AR glass with a decent all-day battery is basically impossible right now. So instead, these devices are designed to be your constant, screenless AI companions. They'll use their cameras to see what you see, feed that visual context into a new Gemini-powered Siri on your iPhone, and talk back to you via audio. Honestly, this is huge for the hardware space, but the privacy implications of millions of people walking around with hidden cameras streaming to AI? That is going to cause a massive societal backlash. Are you guys ready to wear an AI camera pendant?",
+    "id": "APPL-WRBL-2026",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [
+      "Mark Gurman"
+    ],
+    "created_at": "2026-02-19T23:18:27Z"
+  },
+  {
+    "date": "2026-02-16",
+    "source_file": "Tech News Aggregator Report Request (2).docx",
+    "page": 1,
+    "title": "Elon Musk's xAI and SpaceX Building Voice-Controlled Military Drone Swarms",
+    "summary": "SpaceX and its AI subsidiary xAI are participating in a highly classified $100 million Pentagon challenge to develop voice-controlled autonomous drone swarming technology. The initiative aims to allow commanders to direct large fleets of lethal drones using plain-language commands, representing a major shift in modern warfare mechanics and corporate strategy.",
+    "engagement": "High",
+    "raw_text": "Okay, this next story feels straight out of a sci-fi movie, and not necessarily a good one. Elon Musk's companies, specifically SpaceX and his AI branch xAI, are competing for a highly classified $100 million Pentagon contract. The goal? To build voice-controlled, autonomous drone swarms for the military. We're talking about battlefield commanders just speaking plain English to control hundreds of lethal drones at once. What makes this completely wild is that back in 2015 and 2017, Elon publicly campaigned to ban offensive autonomous weapons entirely. Now, his empire is literally building the software layer to translate LLM natural language directly into kill-chain methodology. Honestly, I'm super conflicted on this. AI models hallucinate all the time, right? Imagine an AI misinterpreting a voice command over the radio in the middle of a chaotic battlefield. Analysts are saying this is going to trigger a massive global arms race in AI jamming and swarming tech. Let me know in the comments if you think giving AI control over drone swarms is a necessary defense step or just a terrible idea.",
+    "id": "SPCX-DRN-2026",
+    "category": "Military Tech",
+    "companies": [
+      "SpaceX",
+      "xAI"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-02-19T23:18:27Z"
+  },
+  {
+    "date": "2026-02-19",
+    "source_file": "Tech News Aggregator Report Request (2).docx",
+    "page": 1,
+    "title": "AI is Actually Making Senior Developers SLOWER, New Study Claims",
+    "summary": "A randomized controlled trial by METR found that experienced open-source developers took 19% longer to complete complex tasks when using early-2025 AI coding tools. The study suggests that for senior engineers, the time required to debug and verify AI-generated code often exceeds the time it would take to write it natively.",
+    "engagement": "Medium",
+    "raw_text": "We all keep hearing that AI is going to replace programmers, but this new METR study just dropped a massive reality check. If you're a senior dev, AI coding assistants might actually be slowing you down! A rigorous randomized controlled trial looked at experienced open-source devs and found that those using AI took 19% longer to finish their tasks compared to guys coding from scratch. Here's the deal: AI is fantastic at spitting out boilerplate code for beginners. But for complex, proprietary systems? AI models create these subtle, architecture-specific bugs. So a senior dev ends up spending way more time reading, verifying, and fixing the AI's messy logic than they would have just typing it out natively. Basically, the cognitive load of fixing AI hallucinations is a huge bottleneck. So if you're a junior dev, definitely keep using it to learn, but for the senior engineers out there? Deep architectural logic remains strictly in the human domain.",
+    "id": "METR-DEV-2026",
+    "category": "Software Engineering",
+    "companies": [
+      "METR"
+    ],
+    "people": [
+      "Joel Becker",
+      "Nate Rush",
+      "Elizabeth Barnes",
+      "David Rein"
+    ],
+    "created_at": "2026-02-19T23:18:27Z"
+  },
+  {
+    "date": "2026-02-19",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "The '$210 Billion AI Cold War' Awkwardness at India's AI Summit",
+    "summary": "At the India AI Impact Summit, Reliance and Adani announced a combined $210 billion investment in AI infrastructure, while Tata Group and OpenAI pledged a 1-Gigawatt data center hub. However, the event drew social media attention when PM Modi asked tech CEOs to raise their fists in unity, and rival CEOs Sam Altman (OpenAI) and Dario Amodei (Anthropic) visibly kept their fists apart.",
+    "engagement": "High",
+    "raw_text": "The India AI Impact Summit just wrapped up in New Delhi, and it was equal parts massive news and incredibly awkward drama. First off, the money: Reliance and Adani are dropping a combined $210 billion to build a sovereign AI infrastructure hub. Plus, Tata Group and OpenAI are teaming up to build a massive 1-Gigawatt AI data center. India is completely pivoting from just consuming Western tech to becoming a global AI architect. But here's the viral moment everyone is talking about: Prime Minister Modi got all the tech CEOs together on stage and asked them to raise their fists in unity. Well, OpenAI's Sam Altman and Anthropic's Dario Amodei were standing right next to each other, and they literally refused to touch fists. They held their fists completely apart! It's blowing up on social media as the ultimate symbol of the 'AI Cold War'. Oh, and Bill Gates even canceled his keynote because of past Epstein scrutiny. The tech world is practically high school right now, but with trillions of dollars on the line.",
+    "id": "IND-SUMM-2026",
+    "category": "Business",
+    "companies": [
+      "Reliance",
+      "Adani",
+      "Tata Group",
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "people": [
+      "Narendra Modi",
+      "Sam Altman",
+      "Dario Amodei",
+      "Mukesh Ambani",
+      "Bill Gates"
+    ],
+    "created_at": "2026-02-19T23:18:27Z"
+  },
+  {
+    "date": "2026-02-19",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "AI Just Solved a Massive Global Supply Chain Crisis for EVs",
+    "summary": "Scientists at the University of New Hampshire used AI to screen 67,573 magnetic compounds, discovering dozens of high-temperature magnetic materials that do not require rare-earth elements. Published in Nature Communications, this breakthrough could eliminate the need for expensive, geopolitically vulnerable rare-earth magnets in electric vehicles, dramatically lowering EV costs.",
+    "engagement": "Medium",
+    "raw_text": "Electric vehicles might be about to get a whole lot cheaper, and it's all thanks to an AI breakthrough. You see, the most powerful magnets inside EV motors require rare-earth elements like Neodymium and Dysprosium. These are incredibly expensive, super toxic to mine, and the supply chain is mostly controlled by China. But researchers at the University of New Hampshire just changed the game. Instead of testing materials by hand in a lab—which takes forever and costs a fortune—they unleashed an AI model. The AI read through decades of scientific papers, analyzed over 67,000 compounds, and successfully discovered 25 brand-new magnetic materials that don't need rare-earth elements at all!  This is an absolute gamechanger. By cutting out these volatile, expensive metals, automakers can drastically drop the price of building an EV powertrain. We're looking at a future where EVs finally reach real price parity with gas cars. AI isn't just generating text; it's literally discovering new materials to save the planet.",
+    "id": "AI-MGNT-2026",
+    "category": "Science",
+    "companies": [
+      "University of New Hampshire"
+    ],
+    "people": [
+      "Suman Itani",
+      "Jiadong Zang",
+      "Yibo Zhang"
+    ],
+    "created_at": "2026-02-19T23:18:27Z"
+  }
+]
