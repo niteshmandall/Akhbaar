@@ -16,7 +16,9 @@
       "Perplexity"
     ],
     "people": [],
-    "created_at": "2026-02-26T13:29:49Z"
+    "created_at": "2026-02-26T13:29:49Z",
+    "image_url": "images/26_02_26/S26GenAI99x.png",
+    "image_prompt": "A sleek Samsung Galaxy S26 on a glass surface, backlit by a soft blue LED theme. The screen glows with a subtle privacy display overlay, a clear line of the Snapdragon 8 Elite Gen\u202f5 chipset visible at back. Ambient studio lighting gives a futuristic, polished mood."
   },
   {
     "date": "2026-02-26",
@@ -25,7 +27,7 @@
     "title": "White House Forces Tech Giants to Build Power Plants for AI",
     "summary": "The Trump Administration has issued a 'Ratepayer Protection Pledge' requiring major tech companies to build dedicated power plants for their AI data centers. This policy aims to prevent electricity supply shortfalls and shield consumers from surging energy costs caused by hyperscale computing.",
     "engagement": "High",
-    "raw_text": "Okay, we all know AI uses a ton of power, but the government just stepped in, and things are getting crazy. The White House literally just mandated that massive tech companies—we're talking Google, Amazon, Meta, Microsoft, and OpenAI—have to build their own power plants! It's called the 'Ratepayer Protection Pledge'. Why? Because AI data centers are sucking up so much electricity that they're jacking up the power bills for normal people. In some places, wholesale electricity prices have spiked over 260% in the last five years! Honestly, this makes total sense. We can't have our electrical grid crashing just because someone wants to train a new AI model. Tech giants are going to have to invest billions into nuclear microreactors and geothermal plants just to keep these data centers running. The era of cheap, infinite cloud computing is officially over, guys.",
+    "raw_text": "Okay, we all know AI uses a ton of power, but the government just stepped in, and things are getting crazy. The White House literally just mandated that massive tech companies\u2014we're talking Google, Amazon, Meta, Microsoft, and OpenAI\u2014have to build their own power plants! It's called the 'Ratepayer Protection Pledge'. Why? Because AI data centers are sucking up so much electricity that they're jacking up the power bills for normal people. In some places, wholesale electricity prices have spiked over 260% in the last five years! Honestly, this makes total sense. We can't have our electrical grid crashing just because someone wants to train a new AI model. Tech giants are going to have to invest billions into nuclear microreactors and geothermal plants just to keep these data centers running. The era of cheap, infinite cloud computing is officially over, guys.",
     "id": "WHPowerAI42z",
     "category": "Business",
     "companies": [
@@ -40,11 +42,13 @@
     "people": [
       "Donald Trump"
     ],
-    "created_at": "2026-02-26T13:29:49Z"
+    "created_at": "2026-02-26T13:29:49Z",
+    "image_url": "images/26_02_26/WHPowerAI42z.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"We need to produce a prompt for image generation. Under 300 characters. No text in image. A realistic high-quality image suitable for news website. Focus on visual elements, mood, key subjects. Title: White House Forces Tech Giants to Build Power Plants for AI. So image should depict White House, tech giants, power plants, AI data centers. Might show a command scene: Federal building with tech logos, a wind/sun or hydro power plant. Could show a meeting of governors, or a juxtaposition: an AI running on a cloud with a power plant behind. Provide a prompt: \\\"White House, a large conference room, a speaker giving directives, a backdrop with a screen depicting data center etc.\\\" But we don't need text. Should have realistic high-quality news photo vibe.\\n\\nLet's craft: \\\"A bright, high-res photo of the White House stepped yard, a commander clipboard referencing AI, behind a stack of solar panels and a wind turbine cluster on a nearby hill, with a small group of CEOs in suits walking in.\\\" That's perhaps value.\\n\\nNeed under 300 characters. Let's count. Provide a prompt likely <300 characters.\\n\\nWe must describe the scene: White House, tech logos, power plant. Provide clarity on key subjects: White House, tech giants (briefcase maybe), power plant (solar panels, wind turbines). Mood: authoritative, high drama, urgency. But no text.\\n\\nLet's attempt:\\n\\n\\\"Realistic photo: the White House lawn, a high\u2011profile conference table with a microphone, suits of leading tech CEOs clutching laptops. In the background a sprawling solar farm and a sleek wind turbine tower, all illuminated by the soft dusk light.\\\"\\n\\nCount characters:\\n\\n\\\"Realistic photo: the White House lawn, a high\u2011profile conference table with a microphone, suits of leading tech CEOs clutching laptops. In the background a sprawling solar farm and a sleek wind turbine tower, all illuminated by the soft dusk light.\\\"\\n\\nLet's count: \\nRealistic photo: (18) \\nspace 1 \\nthe White House lawn, (24) \\nspace1 \\na high\u2011profile conference table with a microphone, (49?) Let's just approximate rough. But it may be >300. Let's try to shorten:\\n\\n\\\"High\u2011resolution photo of the White House lawn with a conference table, tech CEOs clutching laptops, amid a sprawling solar farm and sleek wind turbines under a soft dusk sky.\\\"\\n\\nCount characters:\\n\\n\\\"High\u2011resolution photo of the White House lawn with a conference table, tech CEOs clutching laptops, amid a sprawling solar farm and sleek wind turbines under a soft dusk sky.\\\"\\n\\nLet's count: \\nHigh\u2011resolution (15)\\nspace \\nphoto (5) => 21? Actually we need full string. Let's count using a quick method: I'll approximate 150 characters. seems less than 300.\\n\\nWe need to ensure not a bit too short? On news. It's fine.\\n\\nBut the prompt may also mention \\\"smart AI data center\\\" or \\\"digital network overhead cables.\\\" But no text.\\n\\nLet's re-evaluate requirement: It's an image generation prompt for a news article. It should depict that tech giants forced to build power plants for AI. So image could display a power plant in the background of a white house meeting. Or a hand holding a blueprint. Let's conceive:\\n\\n\\\"A crisp, high\u2011resolution image: the White House front lawn, a formal conference table with tech CEOs in dark suits, one holding a digital tablet; nearby a large solar farm and gleaming wind turbines in the distance, all bathed in daylight.\\\" That would show.\\n\\nLet's refine to under 300?\\n\\n\\\"High\u2011resolution image: the White House lawn, a formal table, tech CEOs in dark suits clutching tablets; behind, a sprawling solar farm and a gleaming wind turbine collection, all under bright daylight.\\\"\\n\\nNow count characters roughly: \\\"High\u2011resolution image: the White House lawn, a formal table, tech CEOs in dark suits clutching tablets; behind, a sprawling solar farm and a gleaming wind turbine collection, all under bright daylight.\\\"\\n\\nCount: \\nHigh\u2011resolution (15) \\nspace (1) =>16\\nimage: (6) =>22\\nspace (1)=>23\\nthe (3)=>26 \\nspace(1)=>27\\nWhite(5)=>32\\nspace(1)=>33\\nHouse(5)=>38\\nspace(1)=>39\\nlawn, (6)=>45\\nspace(1)=>46\\na(1)=>47\\nspace(1)=>48\\nformal(6)=>54\\nspace(1)=>55\\ntable, (6)=>61\\nspace(1)=>62\\ntech(4)=>66\\nspace(1)=>67\\nCEOs(4)=>71\\nspace(1)=>72\\nin(2)=>74\\nspace(1)=>75\\ndark(4)=>79\\nspace(1)=>80\\nsuits(5)=>85\\nspace(1)=>86\\nclutching(9)=>95\\nspace(1)=>96\\ntablets;(8)=>104\\nspace(1)=>105\\nbehind,(7)=>112\\nspace(1)=>113\\na(1)=>114\\nspace(1)=>115\\nsprawling(9)=>124\\nspace(1)=>125\\nsolar(5)=>130\\nspace(1)=>131\\nfarm(4)=>135\\nspace(1)=>136\\nand(3)=>139\\nspace(1)=>140\\na(1)=>141\\nspace(1)=>142\\ngleaming(8)=>150\\nspace(1)=>151\\nwind(4)=>155\\nspace(1)=>156\\nturbine(7)=>163\\nspace(1)=>164\\ncollection,(10)=>174\\nspace(1)=>175\\nall(3)=>178\\nspace(1)=>179\\nunder(5)=>184\\nspace(1)=>185\\nbright(6)=>191\\nspace(1)=>192\\ndaylight.(8)=>200\\n\\nAbout 200 chars. Should be fine. No text included.\\n\\nBut the prompt might need to direct to AI image model. Usually prompts have style adjectives. The requirement: \\\"Focus on visual elements, mood, key subjects. Do not include text in the image.\\\" So we need to mention mood: \\\"tense, authoritative.\\\" We can't include text but we can describe mood maybe \\\"authoritative\\\" but that suggested no use of \\\"it's important to\\\" etc. But describing mood is fine.\\n\\nLet's add emotive mood: like \\\"tense, decisive.\\\" That's okay. But we might present it as an adjective.\\n\\n\\\"High\u2011resolution image: the White House lawn, a formal table with tech CEOs in dark suits clutching tablets; behind, a sprawling solar farm and gleaming wind turbines, all under bright daylight, projecting a tense, decisive atmosphere.\\\"\\n\\nCount: maybe 250. Let's approximate: Might still be <300.\\n\\nLet's count quickly:\\n\\n\\\"High\u2011resolution\\\" 15 + space 1 =16\\n\\\"image:\\\" 6 =>22\\nspace1 =>23\\n\\\"the\\\" 3 =>26\\nspace1 =>27\\n\\\"White\\\"5=>32\\nspace1=>33\\n\\\"House\\\"5=>38\\nspace1=>39\\n\\\"lawn,\\\"6=>45\\nspace1=>46\\n\\\"a\\\"1=>47\\nspace1=>48\\n\\\"formal\\\"6=>54\\nspace1=>55\\n\\\"table\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-02-26",
-    "source_file": "Tech & AI News – Feb 26, 2026.docx",
+    "source_file": "Tech & AI News \u2013 Feb 26, 2026.docx",
     "page": 1,
     "title": "Apple's Xcode 26.3 Just Made App Developers Superhuman",
     "summary": "Apple released Xcode 26.3, introducing 'agentic coding' by embedding AI agents like Claude and Codex directly into the developer environment. These autonomous agents can write, refactor, and debug code, significantly boosting productivity for developers.",
@@ -58,14 +62,16 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-26T13:29:49Z"
+    "created_at": "2026-02-26T13:29:49Z",
+    "image_url": "images/26_02_26/AppleXcode88a.png",
+    "image_prompt": "Modern office, bright white desks. A hooded developer glances up at dual monitors glowing with swirling code and floating AI icons. Behind, a holographic AI agent gently flickers blue light, overseeing refactor and debug panels hovering around. Vibe: energized, futuristic, cinematic."
   },
   {
     "date": "2026-02-26",
     "source_file": "Tech News Report Generation Request (7).docx",
     "page": 1,
     "title": "Battery Tech Breakthrough: 700 Wh/kg Changes Everything",
-    "summary": "Chinese researchers synthesized a novel fluorinated hydrocarbon solvent to achieve a record-breaking 700 Wh/kg energy density in lithium batteries. This advancement maintains high performance at -50°C, unlocking commercial viability for eVTOL aircraft and extreme-climate robotics.",
+    "summary": "Chinese researchers synthesized a novel fluorinated hydrocarbon solvent to achieve a record-breaking 700 Wh/kg energy density in lithium batteries. This advancement maintains high performance at -50\u00b0C, unlocking commercial viability for eVTOL aircraft and extreme-climate robotics.",
     "engagement": "High",
     "raw_text": "We talk a lot about AI and software, but this hardware news actually blew my mind. Chinese researchers just hit a massive milestone in battery tech: a lithium battery with a 700 Wh/kg energy density. To put that in perspective, the absolute best ternary lithium batteries we have right now peak around 250 to 255 Wh/kg. They almost tripled it! They did this by completely redesigning the solvent using novel fluorinated hydrocarbons. But here's the best part: it still operates with nearly 400 Wh/kg performance at negative 50 degrees Celsius. This solves so many massive problems! Flying cars, or eVTOLs, are finally commercially viable because the batteries aren't dead weight. Robots can operate in freezing climates, and deep-space missions just got a massive power upgrade. I know chemistry isn't always the sexiest topic, but this is the kind of leap that changes the physical world forever.",
     "id": "Battery700WhKg",
@@ -79,6 +85,8 @@
       "Zhao Qing",
       "Li Yong"
     ],
-    "created_at": "2026-02-26T13:29:49Z"
+    "created_at": "2026-02-26T13:29:49Z",
+    "image_url": "images/26_02_26/Battery700WhKg.png",
+    "image_prompt": "Slick laboratory scene, a massive lithium battery cell under bright, clean light, surrounded by frosty glass tanks. Fluorinated solvent glistens, researchers in lab coats adjust a scanner. Cold 0\u00b0C ambience, faint blue highlights, sleek modern tech aesthetic."
   }
 ]
