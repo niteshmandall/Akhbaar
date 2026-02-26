@@ -1,0 +1,84 @@
+[
+  {
+    "date": "2026-02-26",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Samsung's Galaxy S26 is Here: The First TRUE Agentic AI Phone!",
+    "summary": "Samsung unveiled the Galaxy S26 series featuring a Snapdragon 8 Elite Gen 5 processor, deep Gemini 3 integration, and a built-in Privacy Display. The device supports native third-party AI agents like Perplexity and allows for autonomous task execution.",
+    "engagement": "High",
+    "raw_text": "What's up guys! So check this out, Samsung just dropped the Galaxy S26 at Unpacked, and honestly, this is huge. We are officially in the era of 'agentic AI phones'. This isn't just a basic chatbot update. The S26 has a new Snapdragon 8 Elite Gen 5 chip that lets it run AI models in the background without completely destroying your battery. Here's the wild part: Google's Gemini 3 is integrated directly, meaning you can just hold a button and tell it to 'book a ride home,' and it physically navigates your apps to do it for you in the background! They also added a physical pixel-level Privacy Display so people can't shoulder-surf your sensitive AI chats. And if you don't like Bixby? You can just use the wake word 'Hey Plex' to summon Perplexity AI instead. It's a massive shift towards an open AI ecosystem, and I'm totally here for it.",
+    "id": "S26GenAI99x",
+    "category": "Mobile",
+    "companies": [
+      "Samsung",
+      "Google",
+      "Qualcomm",
+      "Perplexity"
+    ],
+    "people": [],
+    "created_at": "2026-02-26T13:29:49Z"
+  },
+  {
+    "date": "2026-02-26",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "White House Forces Tech Giants to Build Power Plants for AI",
+    "summary": "The Trump Administration has issued a 'Ratepayer Protection Pledge' requiring major tech companies to build dedicated power plants for their AI data centers. This policy aims to prevent electricity supply shortfalls and shield consumers from surging energy costs caused by hyperscale computing.",
+    "engagement": "High",
+    "raw_text": "Okay, we all know AI uses a ton of power, but the government just stepped in, and things are getting crazy. The White House literally just mandated that massive tech companies—we're talking Google, Amazon, Meta, Microsoft, and OpenAI—have to build their own power plants! It's called the 'Ratepayer Protection Pledge'. Why? Because AI data centers are sucking up so much electricity that they're jacking up the power bills for normal people. In some places, wholesale electricity prices have spiked over 260% in the last five years! Honestly, this makes total sense. We can't have our electrical grid crashing just because someone wants to train a new AI model. Tech giants are going to have to invest billions into nuclear microreactors and geothermal plants just to keep these data centers running. The era of cheap, infinite cloud computing is officially over, guys.",
+    "id": "WHPowerAI42z",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Google",
+      "Microsoft",
+      "xAI",
+      "Oracle",
+      "OpenAI"
+    ],
+    "people": [
+      "Donald Trump"
+    ],
+    "created_at": "2026-02-26T13:29:49Z"
+  },
+  {
+    "date": "2026-02-26",
+    "source_file": "Tech & AI News – Feb 26, 2026.docx",
+    "page": 1,
+    "title": "Apple's Xcode 26.3 Just Made App Developers Superhuman",
+    "summary": "Apple released Xcode 26.3, introducing 'agentic coding' by embedding AI agents like Claude and Codex directly into the developer environment. These autonomous agents can write, refactor, and debug code, significantly boosting productivity for developers.",
+    "engagement": "Medium",
+    "raw_text": "Are there any iOS developers in the house? Because Apple just completely changed the game for app development. They just dropped Xcode 26.3, and it features full-blown 'agentic coding'. We aren't talking about basic autocomplete anymore. You can now plug autonomous AI agents, like Anthropic's Claude or OpenAI's Codex, right into your IDE. You give them a prompt, and these agents will explore your project files, write the code, refactor it, run visual previews, and even debug the errors on their own. Honestly, this is a massive productivity hack. Instead of wasting hours hunting down a missing semicolon or setting up boilerplate UI, you can offload all that routine grunt work to the AI. You get to focus on the actual high-level logic and design of your app. If you've been putting off learning Swift, now is probably the time to jump in.",
+    "id": "AppleXcode88a",
+    "category": "Software",
+    "companies": [
+      "Apple",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-02-26T13:29:49Z"
+  },
+  {
+    "date": "2026-02-26",
+    "source_file": "Tech News Report Generation Request (7).docx",
+    "page": 1,
+    "title": "Battery Tech Breakthrough: 700 Wh/kg Changes Everything",
+    "summary": "Chinese researchers synthesized a novel fluorinated hydrocarbon solvent to achieve a record-breaking 700 Wh/kg energy density in lithium batteries. This advancement maintains high performance at -50°C, unlocking commercial viability for eVTOL aircraft and extreme-climate robotics.",
+    "engagement": "High",
+    "raw_text": "We talk a lot about AI and software, but this hardware news actually blew my mind. Chinese researchers just hit a massive milestone in battery tech: a lithium battery with a 700 Wh/kg energy density. To put that in perspective, the absolute best ternary lithium batteries we have right now peak around 250 to 255 Wh/kg. They almost tripled it! They did this by completely redesigning the solvent using novel fluorinated hydrocarbons. But here's the best part: it still operates with nearly 400 Wh/kg performance at negative 50 degrees Celsius. This solves so many massive problems! Flying cars, or eVTOLs, are finally commercially viable because the batteries aren't dead weight. Robots can operate in freezing climates, and deep-space missions just got a massive power upgrade. I know chemistry isn't always the sexiest topic, but this is the kind of leap that changes the physical world forever.",
+    "id": "Battery700WhKg",
+    "category": "Science",
+    "companies": [
+      "Nankai University",
+      "Shanghai Institute of Space Power Sources",
+      "CATL"
+    ],
+    "people": [
+      "Zhao Qing",
+      "Li Yong"
+    ],
+    "created_at": "2026-02-26T13:29:49Z"
+  }
+]
