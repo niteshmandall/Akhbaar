@@ -37,7 +37,9 @@
     "people": [
       "Tim Cook"
     ],
-    "created_at": "2026-02-24T21:43:22Z"
+    "created_at": "2026-02-24T21:43:22Z",
+    "image_url": "images/25_02_26/aapl4928us.png",
+    "image_prompt": "Inside a modern Houston Apple factory, technicians in clean uniforms inspect sleek Mac Mini units on polished metal workbenches. Conveyor belts whisk AI server racks to shipping bays. Bright industrial lighting highlights the calm, focused atmosphere of this U.S. manufacturing hub."
   },
   {
     "date": "2026-02-24",
@@ -55,7 +57,9 @@
     "people": [
       "Geoffrey Hinton"
     ],
-    "created_at": "2026-02-24T21:43:22Z"
+    "created_at": "2026-02-24T21:43:22Z",
+    "image_url": "images/25_02_26/aijob8839x.png",
+    "image_prompt": "Modern office interior, bright glass windows, a weary software engineer in a hoodie at a cluttered desk staring at code, while a sleek silver humanoid robot with glowing LED eyes stands beside a server rack projecting holographic code\u2014juxtaposing human fatigue and AI prowess."
   },
   {
     "date": "2026-02-24",
@@ -76,7 +80,9 @@
       "Mark Zuckerberg",
       "Lisa Su"
     ],
-    "created_at": "2026-02-24T21:43:22Z"
+    "created_at": "2026-02-24T21:43:22Z",
+    "image_url": "images/25_02_26/metaamd992.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"We need to create a prompt for image generation: to produce a realistic high-quality image suitable for news website about Meta spending $100B to destroy Nvidia's monopoly. The image elements: Meta and AMD partnership, 100B, 6 gigawatt, high-performance compute, maybe data center with AMD Instinct GPUs and EPYC CPUs, perhaps a symbolic cartoonish destruction relative to Nvidia? It should be realistic, high-quality, focus on visual elements, mood, key subjects. Avoid text. Under 300 characters.\\n\\nWe should describe an image prompt. Under 300 characters: so around 200-250 characters. Use descriptive words. The style: realistic, news.\\n\\nWe need to describe something like: \\\"A futuristic data center bathed in blue light, rows of AMD Instinct GPUs and EPYC CPUs, golden Meta logo illuminated, a subtle Nvidia logo in shadow fading, towering LED meters showing $100B, energetic atmosphere, sleek, professional.\\\" Maybe reduce length.\\n\\nUnder 300 characters, no text. So no \\\"Meta PHP\\\" etc. Should not include any textual descriptors like words \\\"Meta\\\". But we can mention brand logos as visual icons. But it's okay.\\n\\nWe must output only prompt text. Let's count approximate characters. We'll craft a concise prompt:\\n\\n\\\"Ultra-realistic image of a high\u2011tech data center at sunset, rows of gleaming AMD Instinct GPU racks beside 6th\u2011Gen EPYC CPU towers, Meta\u2019s translucent logo pulsing, a faded Nvidia symbol in shadow, glowing LED panel showing $100B, futuristic lighting, professional mood.\\\"\\n\\nCount: let's count manually:\\n\\n\\\"Ultra-realistic image of a high\u2011tech data center at sunset, rows of gleaming AMD Instinct GPU racks beside 6th\u2011Gen EPYC CPU towers, Meta\u2019s translucent logo pulsing, a faded Nvidia symbol in shadow, glowing LED panel showing $100B, futuristic lighting, professional mood.\\\"\\n\\nCount characters: Let's count roughly: \\n\\\"Ultra-realistic image of a high\u2011tech data center at sunset, rows of gleaming AMD Instinct GPU racks beside 6th\u2011Gen EPYC CPU towers, Meta\u2019s translucent logo pulsing, a faded Nvidia symbol in shadow, glowing LED panel showing $100B, futuristic lighting, professional mood.\\\"\\n\\nWe need to count: I'll count each word length including spaces.\\n\\n\\\"Ultra-realistic\\\" 15\\nspace 1 =>16\\n\\\"image\\\"5=>21\\nspace1=>22\\n\\\"of\\\"2=>24\\nspace1=>25\\n\\\"a\\\"1=>26\\nspace1=>27\\n\\\"high\u2011tech\\\"9=>36\\nspace1=>37\\n\\\"data\\\"4=>41\\nspace1=>42\\n\\\"center\\\"6=>48\\nspace1=>49\\n\\\"at\\\"2=>51\\nspace1=>52\\n\\\"sunset,\\\"7=>59\\nspace1=>60\\n\\\"rows\\\"4=>64\\nspace1=>65\\n\\\"of\\\"2=>67\\nspace1=>68\\n\\\"gleaming\\\"8=>76\\nspace1=>77\\n\\\"AMD\\\"3=>80\\nspace1=>81\\n\\\"Instinct\\\"8=>89\\nspace1=>90\\n\\\"GPU\\\"3=>93\\nspace1=>94\\n\\\"racks\\\"5=>99\\nspace1=>100\\n\\\"beside\\\"6=>106\\nspace1=>107\\n\\\"6th\u2011Gen\\\"7=>114\\nspace1=>115\\n\\\"EPYC\\\"4=>119\\nspace1=>120\\n\\\"CPU\\\"3=>123\\nspace1=>124\\n\\\"towers,\\\"7=>131\\nspace1=>132\\n\\\"Meta\u2019s\\\"6=>138\\nspace1=>139\\n\\\"translucent\\\"11=>150\\nspace1=>151\\n\\\"logo\\\"4=>155\\nspace1=>156\\n\\\"pulsing,\\\"8=>164\\nspace1=>165\\n\\\"a\\\"1=>166\\nspace1=>167\\n\\\"faded\\\"5=>172\\nspace1=>173\\n\\\"Nvidia\\\"6=>179\\nspace1=>180\\n\\\"symbol\\\"6=>186\\nspace1=>187\\n\\\"in\\\"2=>189\\nspace1=>190\\n\\\"shadow,\\\"7=>197\\nspace1=>198\\n\\\"glowing\\\"7=>205\\nspace1=>206\\n\\\"LED\\\"3=>209\\nspace1=>210\\n\\\"panel\\\"5=>215\\nspace1=>216\\n\\\"showing\\\"7=>223\\nspace1=>224\\n\\\"$100B,\\\"6=>230\\nspace1=>231\\n\\\"futuristic\\\"10=>241\\nspace1=>242\\n\\\"lighting,\\\"9=>251\\nspace1=>252\\n\\\"professional\\\"12=>264\\nspace1=>265\\n\\\"mood.\\\"5=>270\\n\\nSo 270 characters, under 300. Good. We should output only that prompt text.\\n\\nMake sure no text like \\\"Meta\\\" is a word; but it's safe. The prompt desired: no text in image: we can mention \\\"Meta\u2019s translucent logo pulsing\\\" but that suggests a logo which may be considered as text? The logo contains text? Probably safe, generally it is a logo but contains text. The task says \\\"do not include text in the image.\\\" That probably means no textual overlay. But logos contain letters. But maybe they'd accept. We could avoid specific brand. But given context, might be okay. To be safe, maybe avoid textual references to Meta or Nvidia, just mention \\\"major tech logo\\\". But the mention of \\\"Meta\\\" might be considered text in image? Could be interpreted yes. So maybe better not.\\n\\nWe can rephrase: \\\"Ultra-realistic image of a high\u2011tech data center at sunset, rows of gleaming AMD Instinct GPU racks beside 6th\u2011Gen EPYC CPU towers, a faint corporate emblem in the background, glowing LED panel showing $100B, futuristic lighting, professional mood.\\\" That removes direct brand names.\\n\\nCount again: \\\"Ultra-realistic image of a high\u2011tech data center at sunset, rows of gleaming AMD Instinct GPU racks beside 6th\u2011Gen EPYC CPU towers, a faint corporate emblem in the background, glowing LED panel showing $100B, futuristic lighting, professional mood.\\\"\\n\\nCount quickly: Ultra-realistic (15)+space=1(16),image(5=21)+space=1(22),of(2=24)+space=1(25),a(1=26)+space=1(27),high\u2011tech(9=36)+space=1(37),data(4=41)+space=1(42),center(6=48)+space=1(49),at(2=51)+space=1(52),sunset,(7=59)+space=1(60),rows(4=64)+space=1(65),of(2=67)+space=1(68),gleaming(8=76)+space=1(77),AMD(3=80)+space=1(81),Instinct(8=89)+space=1(90),GPU(3=93)+space=1(94),racks(5=99)+space=1(100),beside(6=106)+space=1(107),6th\u2011Gen(7=114)+space=1(115\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-02-24",
@@ -92,6 +98,8 @@
       "Kraig Biocraft Laboratories"
     ],
     "people": [],
-    "created_at": "2026-02-24T21:43:22Z"
+    "created_at": "2026-02-24T21:43:22Z",
+    "image_url": "images/25_02_26/spider0012.png",
+    "image_prompt": "Photo of a bustling biotech lab in Vietnam: scientists in white coats monitor bright silkworm trays in large transparent containers, golden spider silk threads streaming into a curated display, industrial equipment in the background, soft natural lighting, high realism, news\u2011worthy atmosphere."
   }
 ]
