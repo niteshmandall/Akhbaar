@@ -7,7 +7,7 @@
     "summary": "OpenAI closed a historic $110 billion funding round, valuing the company at $840 billion, with a massive $50 billion commitment from Amazon. They concurrently launched 'Frontier', an enterprise platform for autonomous AI agents co-developed natively on AWS Bedrock to manage entire organizational workflows.",
     "engagement": "High",
     "raw_text": "So check this out, guys, OpenAI just dropped the biggest nuke in tech history! They literally raised $110 billion in a single funding round, bumping their valuation to $840 billion post-money. I mean, that is absolutely insane! Amazon alone threw in $50 billion. But here's the wild part: they are launching something called 'Frontier', which is basically an operating system for AI agents. Instead of just chatting with a bot in a stateless window, this new stateful system retains persistent memory and manages digital identities across all your company's software. AWS is going to be the exclusive third-party cloud provider for this. Honestly, this is huge. We are moving from AI as just a fun software feature to AI becoming the core corporate infrastructure. If you thought ChatGPT was crazy, imagine an entire team of autonomous agents doing your job for you. Smash that like button if you think the AI takeover is officially here!",
-    "id": "A1B2C3D4",
+    "id": "c17baaac",
     "category": "AI",
     "companies": [
       "OpenAI",
@@ -19,7 +19,9 @@
       "Sam Altman",
       "Andy Jassy"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/c17baaac.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"We need to produce a detailed vivid prompt for image generation, under 300 chars, no text in image. The prompt should describe realistic high-quality image for news website. Should be under 300 characters. The prompt able to be fed into a model like Midjourney or Stable Diffusion. Must not include text.\\n\\nWe need to describe visual elements, mood, key subjects. No text in image. Provide only the prompt, no explanation.\\n\\nLet's outline: We want a dynamic office or tech workspace scene. A large server room with glowing Amazon AWS servers, stylized. People working, maybe CEO in corporate env, holographic UI, AI agents floating. The mood: futuristic, ambitious, corporate. Let's produce prompt: Use ~250-270 chars.\\n\\nCount characters? Let's attempt.\\n\\nDraft: \\\"A sleek, futuristic corporate office at sunrise, Amazon-branded server racks glowing blue beneath polished glass, a diverse team of executives and engineers huddled around a holographic projection of a cloud network. AI agents appear as translucent, semi-structured drones orbiting the screen, symbolizing autonomous enterprise workflow management.\\\"\\n\\nLet's count characters:\\n\\nI'll count manually. Count includes spaces, punctuation.\\n\\n\\\"A\\\"1\\n\\\" \\\"2\\n\\\"s\\\"3\\n\\\"l\\\"4\\n\\\"e\\\"5\\n\\\"e\\\"6\\n\\\"k\\\"7\\n\\\",\\\"8\\n\\\" \\\"9\\n\\\"f\\\"10\\n\\\"u\\\"11\\n\\\"t\\\"12\\n\\\"u\\\"13\\n\\\"r\\\"14\\n\\\"i\\\"15\\n\\\"s\\\"16\\n\\\"t\\\"17\\n\\\"i\\\"18\\n\\\"c\\\"19\\n\\\" \\\"20\\n\\\"c\\\"21\\n\\\"o\\\"22\\n\\\"r\\\"23\\n\\\"p\\\"24\\n\\\"o\\\"25\\n\\\"r\\\"26\\n\\\"a\\\"27\\n\\\"t\\\"28\\n\\\"e\\\"29\\n\\\" \\\"30\\n\\\"o\\\"31\\n\\\"f\\\"32\\n\\\"f\\\"33\\n\\\"i\\\"34\\n\\\"c\\\"35\\n\\\"e\\\"36\\n\\\" \\\"37\\n\\\"a\\\"38\\n\\\"t\\\"39\\n\\\" \\\"40\\n\\\"s\\\"41\\n\\\"u\\\"42\\n\\\"n\\\"43\\n\\\"r\\\"44\\n\\\"i\\\"45\\n\\\"s\\\"46\\n\\\"e\\\"47\\n\\\",\\\"48\\n\\\" \\\"49\\n\\\"A\\\"50\\n\\\"m\\\"51\\n\\\"z\\\"52\\n\\\"o\\\"53\\n\\\"n\\\"54\\n\\\"b\\\"55\\n\\\"r\\\"56\\n\\\"a\\\"57\\n\\\"n\\\"58\\n\\\"d\\\"59\\n\\\"e\\\"60\\n\\\"d\\\"61\\n\\\" \\\"62\\n\\\"s\\\"63\\n\\\"e\\\"64\\n\\\"r\\\"65\\n\\\"v\\\"66\\n\\\"e\\\"67\\n\\\"r\\\"68\\n\\\" \\\"69\\n\\\"r\\\"70\\n\\\"a\\\"71\\n\\\"c\\\"72\\n\\\"k\\\"73\\n\\\"s\\\"74\\n\\\" \\\"75\\n\\\"g\\\"76\\n\\\"l\\\"77\\n\\\"o\\\"78\\n\\\"w\\\"79\\n\\\"i\\\"80\\n\\\"n\\\"81\\n\\\"g\\\"82\\n\\\" \\\"83\\n\\\"b\\\"84\\n\\\"l\\\"85\\n\\\"u\\\"86\\n\\\"e\\\"87\\n\\\" \\\"88\\n\\\"b\\\"89\\n\\\"e\\\"90\\n\\\"n\\\"91\\n\\\"e\\\"92\\n\\\"f\\\"93\\n\\\"o\\\"94\\n\\\"r\\\"95\\n\\\" \\\"96\\n\\\"p\\\"97\\n\\\"o\\\"98\\n\\\"l\\\"99\\n\\\"i\\\"100\\n\\\"s\\\"101\\n\\\"h\\\"102\\n\\\"e\\\"103\\n\\\"d\\\"104\\n\\\" \\\"105\\n\\\"g\\\"106\\n\\\"l\\\"107\\n\\\"a\\\"108\\n\\\"s\\\"109\\n\\\"s\\\"110\\n\\\",\\\"111\\n\\\" \\\"112\\n\\\"a\\\"113\\n\\\" \\\"114\\n\\\"d\\\"115\\n\\\"i\\\"116\\n\\\"v\\\"117\\n\\\"e\\\"118\\n\\\"r\\\"119\\n\\\"s\\\"120\\n\\\"e\\\"121\\n\\\" \\\"122\\n\\\"t\\\"123\\n\\\"e\\\"124\\n\\\"a\\\"125\\n\\\"m\\\"126\\n\\\" \\\"127\\n\\\"o\\\"128\\n\\\"f\\\"129\\n\\\" \\\"130\\n\\\"e\\\"131\\n\\\"x\\\"132\\n\\\"e\\\"133\\n\\\"c\\\"134\\n\\\"u\\\"135\\n\\\"t\\\"136\\n\\\"i\\\"137\\n\\\"v\\\"138\\n\\\"e\\\"139\\n\\\"s\\\"140\\n\\\" \\\"141\\n\\\"a\\\"142\\n\\\"n\\\"143\\n\\\"d\\\"144\\n\\\" \\\"145\\n\\\"e\\\"146\\n\\\"n\\\"147\\n\\\"g\\\"148\\n\\\"i\\\"149\\n\\\"n\\\"150\\n\\\"e\\\"151\\n\\\"e\\\"152\\n\\\"r\\\"153\\n\\\"s\\\"154\\n\\\" \\\"155\\n\\\"h\\\"156\\n\\\"u\\\"157\\n\\\"d\\\"158\\n\\\"d\\\"159\\n\\\"l\\\"160\\n\\\"e\\\"161\\n\\\"d\\\"162\\n\\\" \\\"163\\n\\\"a\\\"164\\n\\\"r\\\"165\\n\\\"o\\\"166\\n\\\"u\\\"167\\n\\\"n\\\"168\\n\\\"d\\\"169\\n\\\" \\\"170\\n\\\"a\\\"171\\n\\\" \\\"172\\n\\\"h\\\"173\\n\\\"o\\\"174\\n\\\"l\\\"175\\n\\\"o\\\"176\\n\\\"g\\\"177\\n\\\"r\\\"178\\n\\\"a\\\"179\\n\\\"p\\\"180\\n\\\"h\\\"181\\n\\\"i\\\"182\\n\\\"c\\\"183\\n\\\" \\\"184\\n\\\"p\\\"185\\n\\\"r\\\"186\\n\\\"o\\\"187\\n\\\"j\\\"188\\n\\\"e\\\"189\\n\\\"c\\\"190\\n\\\"t\\\"191\\n\\\"i\\\"192\\n\\\"o\\\"193\\n\\\"n\\\"194\\n\\\" \\\"195\\n\\\"o\\\"196\\n\\\"f\\\"197\\n\\\" \\\"198\\n\\\"a\\\"199\\n\\\" \\\"200\\n\\\"c\\\"201\\n\\\"l\\\"202\\n\\\"o\\\"203\\n\\\"u\\\"204\\n\\\"d\\\"205\\n\\\" \\\"206\\n\\\"n\\\"207\\n\\\"e\\\"208\\n\\\"t\\\"209\\n\\\"w\\\"210\\n\\\"o\\\"211\\n\\\"r\\\"212\\n\\\"k\\\"213\\n\\\" \\\"214\\n\\\"i\\\"215\\n\\\"n\\\"216\\n\\\" \\\"217\\n\\\"t\\\"218\\n\\\"h\\\"219\\n\\\"e\\\"220\\n\\\" \\\"221\\n\\\"f\\\"222\\n\\\"u\\\"223\\n\\\"t\\\"224\\n\\\"u\\\"225\\n\\\"r\\\"226\\n\\\"i\\\"227\\n\\\"s\\\"228\\n\\\"t\\\"229\\n\\\"i\\\"230\\n\\\"c\\\"231\\n\\\"a\\\"232\\n\\\"l\\\"233\\n\\\",\\\"234\\n\\\" \\\"235\\n\\\"A\\\"236\\n\\\"I\\\"237\\n\\\" \\\"238\\n\\\"a\\\"239\\n\\\"g\\\"240\\n\\\"e\\\"241\\n\\\"n\\\"242\\n\\\"t\\\"243\\n\\\"s\\\"244\\n\\\" \\\"245\\n\\\"a\\\"246\\n\\\"p\\\"247\\n\\\"p\\\"248\\n\\\"e\\\"249\\n\\\"a\\\"250\\n\\\"r\\\"251\\n\\\" \\\"252\\n\\\"f\\\"253\\n\\\"r\\\"254\\n\\\"o\\\"255\\n\\\"m\\\"256\\n\\\" \\\"257\\n\\\"a\\\"258\\n\\\" \\\"259\\n\\\"t\\\"260\\n\\\"r\\\"261\\n\\\"a\\\"262\\n\\\"n\\\"263\\n\\\"s\\\"264\\n\\\"l\\\"265\\n\\\"e\\\"266\\n\\\"n\\\"267\\n\\\"d\\\"268\\n\\\"e\\\"269\\n\\\"r\\\"270\\n\\\"i\\\"271\\n\\\"n\\\"272\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-02-27",
@@ -29,7 +31,7 @@
     "summary": "Apple has accelerated its timeline to launch AI-powered smart glasses and camera-enabled AirPods in 2026 to counter Meta's massive success in the wearables market. Additionally, the company announced a $600 billion commitment to manufacture the Mac mini and AI server hardware at a new Austin-area facility.",
     "engagement": "High",
     "raw_text": "Okay, Apple fans, you need to hear this! We all know Apple has been a bit quiet on the hardware front lately, but they are secretly accelerating their AI wearables. We are talking visual-intelligence smart glasses and camera-equipped AirPods dropping in 2026. They are clearly reacting to Meta moving 7 million units of their Ray-Bans. But wait, it gets crazier. Apple just announced a massive $600 billion commitment to build AI servers and the Mac mini right here in the US, specifically in Austin, Texas. Tim Cook is going all-in on domestic manufacturing and physical AI hardware to insulate Apple from the cloud computing wars affecting pure-play software stocks. Honestly, this is a brilliant play. They are building a massive hardware moat that raw cloud AI companies simply cannot easily replicate. Are you guys ready to wear Apple's AI on your face? Let me know in the comments!",
-    "id": "E5F6G7H8",
+    "id": "197eb7ca",
     "category": "Hardware",
     "companies": [
       "Apple",
@@ -38,7 +40,9 @@
     "people": [
       "Tim Cook"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/197eb7ca.png",
+    "image_prompt": "Sunlit Austin factory site with sleek cranes and a holographic Apple building halo. In the foreground, a transparent AI smart glasses prototype sits beside discreet camera\u2011equipped AirPods, all polished on concrete, hinting 2026 launch."
   },
   {
     "date": "2026-02-27",
@@ -59,7 +63,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/J9K0L1M2.png",
+    "image_prompt": "Sunlit urban street, a glossy high\u2011end smartphone in the foreground with a subtle holographic price tag hovering above it, a distant megaphone brand billboard, a minimalist bar graph neon line dropping midair, shadows of a bustling crowd in muted tones, cinematic lighting, hyper\u2011realistic detail."
   },
   {
     "date": "2026-02-27",
@@ -79,7 +85,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/N3P4Q5R6.png",
+    "image_prompt": "Twin orbital AI data centers\u2014SpaceX and CASC\u2014glow in low Earth orbit, massive solar panels fan out, LED-lit server racks radiate, Earth\u2019s blue curve below, stark contrast of futuristic tech against the dark void."
   },
   {
     "date": "2026-02-26",
@@ -88,7 +96,7 @@
     "title": "Google's New AI Generates PERFECT Images for FREE!",
     "summary": "Google DeepMind has globally deployed Nano Banana 2 (Gemini 3.1 Flash Image), offering professional-grade AI image generation integrated freely across its broad product ecosystem. The model features real-time web grounding for factual accuracy and advanced typographical capabilities that can generate flawless, legible text within graphics.",
     "engagement": "High",
-    "raw_text": "Alright creators, Google just completely changed the game with their new image AI! It's called Nano Banana 2—yes, that's the real technical name—and it is rolling out globally right now. While direct competitors like Midjourney and DALL-E are locking their best generative features behind paywalls, Google is making this pro-level visual tool completely free across Google Search, Ads, and Lens. What makes this absolutely mind-blowing is a novel technique called 'real-time web grounding'. It actively searches live data during generation to ensure specific contemporary subjects and locations are factually correct. Oh, and they finally fixed the biggest problem with AI images: it can render perfect, legible text! You can even automatically translate text directly inside the generated graphic. Honestly, this aggressive move is going to rapidly commoditize professional graphic design overnight. Are we seeing the end of paid AI image generators? Hit subscribe for more AI updates!",
+    "raw_text": "Alright creators, Google just completely changed the game with their new image AI! It's called Nano Banana 2\u2014yes, that's the real technical name\u2014and it is rolling out globally right now. While direct competitors like Midjourney and DALL-E are locking their best generative features behind paywalls, Google is making this pro-level visual tool completely free across Google Search, Ads, and Lens. What makes this absolutely mind-blowing is a novel technique called 'real-time web grounding'. It actively searches live data during generation to ensure specific contemporary subjects and locations are factually correct. Oh, and they finally fixed the biggest problem with AI images: it can render perfect, legible text! You can even automatically translate text directly inside the generated graphic. Honestly, this aggressive move is going to rapidly commoditize professional graphic design overnight. Are we seeing the end of paid AI image generators? Hit subscribe for more AI updates!",
     "id": "S7T8U9V0",
     "category": "AI",
     "companies": [
@@ -98,7 +106,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/S7T8U9V0.png",
+    "image_prompt": "Inside a sleek newsroom, a focused tech lead in a modern suit reviews a crisp, AI-generated image on a transparent tablet; bright holographic displays, sharp details, collaborative vibe, realistic lighting, no text in picture."
   },
   {
     "date": "2026-02-25",
@@ -107,7 +117,7 @@
     "title": "Samsung Galaxy S26 is Here and it's an AI MONSTER!",
     "summary": "Samsung launched its flagship Galaxy S26 series, featuring a dedicated on-board AI Image Signal Processor and built-in agents combining Bixby with Gemini. The S26 Ultra heavily emphasizes advanced generative editing tools like 'Photo Assist' that seamlessly reconstruct photos natively on the device without relying on cloud processing.",
     "engagement": "High",
-    "raw_text": "Samsung just dropped the Galaxy S26 series, and if you care about AI, this phone is an absolute monster! They just wrapped their Galaxy Unpacked event and it's super clear: the raw physical specs don't matter as much as the software ecosystem anymore. They are heavily pushing their 'Galaxy AI' ecosystem with a dedicated on-board AI Image Signal Processor. The S26 Ultra lets you seamlessly remove or entirely reconstruct complex elements in your photographs right on the device using 'Photo Assist', without even touching the cloud. This is huge for preserving your privacy and means drastically reduced latency. Plus, they’ve baked in new agents directly into the phone, blending Bixby with Gemini for natural-language commands. They've essentially made the smartphone totally AI-native. Is it enough to beat the upcoming iPhone? I'm honestly torn. The localized on-device editing alone looks like absolute magic. Drop your thoughts in the chat!",
+    "raw_text": "Samsung just dropped the Galaxy S26 series, and if you care about AI, this phone is an absolute monster! They just wrapped their Galaxy Unpacked event and it's super clear: the raw physical specs don't matter as much as the software ecosystem anymore. They are heavily pushing their 'Galaxy AI' ecosystem with a dedicated on-board AI Image Signal Processor. The S26 Ultra lets you seamlessly remove or entirely reconstruct complex elements in your photographs right on the device using 'Photo Assist', without even touching the cloud. This is huge for preserving your privacy and means drastically reduced latency. Plus, they\u2019ve baked in new agents directly into the phone, blending Bixby with Gemini for natural-language commands. They've essentially made the smartphone totally AI-native. Is it enough to beat the upcoming iPhone? I'm honestly torn. The localized on-device editing alone looks like absolute magic. Drop your thoughts in the chat!",
     "id": "W1X2Y3Z4",
     "category": "Mobile",
     "companies": [
@@ -116,7 +126,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/W1X2Y3Z4.png",
+    "image_prompt": "Sleek black Samsung Galaxy S26 Ultra on a polished steel surface, back camera lens glowing, AI icon pulsing on the display, a floating holographic generative\u2011editing UI above a photo, subtle studio lighting, dusk city skyline in the background, hyper\u2011realistic clarity."
   },
   {
     "date": "2026-02-27",
@@ -125,7 +137,7 @@
     "title": "AI Just Hacked 600+ Firewalls GLOBALLY (Are You Safe?)",
     "summary": "Threat actors utilized generative AI to automate credential stuffing, successfully breaching over 600 Fortinet FortiGate firewalls across 55 countries without exploiting any underlying software vulnerabilities. Amazon Threat Intelligence described the event as an 'AI-powered assembly line for cybercrime,' demonstrating how AI rapidly lowers the skill barrier for executing large-scale attacks.",
     "engagement": "Medium",
-    "raw_text": "Guys, we have a massive cybersecurity situation unfolding right now. Attackers just used generative AI to rip through more than 600 internet-connected firewalls across 55 countries. And here is the truly terrifying part: they didn't even use a complex zero-day software exploit. They simply used AI to supercharge basic credential stuffing, brute-forcing weak admin passwords at an unbelievable scale. Amazon’s CISO literally called it an 'AI-powered assembly line for cybercrime'. This means unsophisticated actors are now leveraging AI tools to automate massive global hacks that used to require serious skill. If your organization is not enforcing strong credentials and multi-factor authentication right now, you are a sitting duck. We are entering a really scary era where AI drastically lowers the barrier to entry for cybercriminals. Make sure your passwords are locked down, folks, because the bots are officially knocking on the door!",
+    "raw_text": "Guys, we have a massive cybersecurity situation unfolding right now. Attackers just used generative AI to rip through more than 600 internet-connected firewalls across 55 countries. And here is the truly terrifying part: they didn't even use a complex zero-day software exploit. They simply used AI to supercharge basic credential stuffing, brute-forcing weak admin passwords at an unbelievable scale. Amazon\u2019s CISO literally called it an 'AI-powered assembly line for cybercrime'. This means unsophisticated actors are now leveraging AI tools to automate massive global hacks that used to require serious skill. If your organization is not enforcing strong credentials and multi-factor authentication right now, you are a sitting duck. We are entering a really scary era where AI drastically lowers the barrier to entry for cybercriminals. Make sure your passwords are locked down, folks, because the bots are officially knocking on the door!",
     "id": "A5B6C7D8",
     "category": "Security",
     "companies": [
@@ -133,7 +145,9 @@
       "Amazon"
     ],
     "people": [],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/A5B6C7D8.png",
+    "image_prompt": "A cybernetic control room with rows of glowing servers, a global network map on a screen, ominous red alerts overlay, a silhouette of a hacker turning AI algorithm, atmosphere tense, high contrast, realistic lighting, digital cyber vibe, no text."
   },
   {
     "date": "2026-02-27",
@@ -153,7 +167,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/E9F0G1H2.png",
+    "image_prompt": "A cutting\u2011edge data\u2011center rack, six gleaming Nvidia ASIC chips interconnected with translucent cabling, a soft blue LED glow, swirling airflow vents, industrial steel walls, high\u2011resolution, sleek, professional mood, minimal distractions."
   },
   {
     "date": "2026-02-27",
@@ -175,7 +191,9 @@
     "people": [
       "Donald J. Trump"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/J3K4L5M6.png",
+    "image_prompt": "Sunrise-lit AI data\u2011center towers with glowing servers stand beside a massive combined\u2011cycle power plant, turbines and solar panels, cables humming under a cloudy sky. A tense, urgent mood emphasizes the federal mandate to power AI."
   },
   {
     "date": "2026-02-26",
@@ -195,6 +213,8 @@
     "people": [
       "Jack Dorsey"
     ],
-    "created_at": "2026-02-27T22:01:12+05:30"
+    "created_at": "2026-02-27T22:01:12+05:30",
+    "image_url": "images/28_02_26/N7P8Q9R0.png",
+    "image_prompt": "Realistic photo: modern fintech open\u2011plan office at dusk with rows of empty desks and packed boxes, a few remaining employees clustered around a glowing holographic AI interface, cool cinematic lighting, reflective glass skyline hinting at a rising market, high-detail"
   }
 ]
