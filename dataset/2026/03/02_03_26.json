@@ -7,7 +7,7 @@
     "summary": "Apple released the iOS 26.4 developer beta, introducing a Gemini-powered Siri and a visually striking 'Liquid Glass' design. The update brings advanced AI context awareness but has sparked intense accessibility debates due to UI clutter.",
     "engagement": "High",
     "raw_text": "So check this out, Apple just dropped the iOS 26.4 beta and it is making massive waves! Honestly, this is huge. After tons of delays, Apple actually partnered with Google to use their 1.2 trillion parameter Gemini model for Siri. Siri can now literally see what is on your screen and trigger actions across different apps. But here is the wild part: the new 'Liquid Glass' design. It looks insane, reacting to how you move your phone, reflecting light and everything. But it is causing a massive uproar! Accessibility experts are saying it is a nightmare to read because of all the blur and translucent effects. Are we sacrificing usability for shiny aesthetics? Drop a comment below. Either way, this completely changes the iPhone experience.",
-    "id": "A1B2C3D4",
+    "id": "7c9187c8",
     "category": "Mobile",
     "companies": [
       "Apple",
@@ -27,7 +27,7 @@
     "summary": "At MWC 2026, Honor debuted a 'Robot Phone' concept featuring a motorized gimbal camera arm alongside a functioning humanoid robot. The phone utilizes multimodal AI to track subjects and perform physical gestures like nodding.",
     "engagement": "High",
     "raw_text": "Okay, you have to see what Honor just unveiled at MWC 2026. They literally made a 'Robot Phone'. Seriously, the camera is on a motorized robotic arm right on the back of the phone. It uses their YOYO AI to physically spin, track you during video calls, and it can even 'nod' or dance to music! I know what you are thinking: is this a gimmick? Maybe, but it is honestly super refreshing to see some crazy hardware innovation instead of just another boring glass slab. Honor also brought out an actual AI humanoid robot that did a synchronized dance on stage. They are betting big on 'embodied AI', blending physical robots with our daily devices. Would you buy a phone that physically moves to look at you?",
-    "id": "E5F6G7H8",
+    "id": "38ea0338",
     "category": "Hardware",
     "companies": [
       "Honor"
@@ -43,7 +43,7 @@
     "summary": "SpaceX is preparing a confidential IPO filing for June 2026, targeting an unprecedented $1.75 trillion valuation. This public offering could raise $50 billion to fund the Starship vehicle and further expand the Starlink network.",
     "engagement": "High",
     "raw_text": "Hold onto your hats because Elon Musk is about to break the stock market. SpaceX is reportedly prepping for a confidential IPO this June, and they are targeting a jaw-dropping valuation of $1.75 trillion. Let that sink in. They just launched their 20th flight of a single Falcon 9 booster like it was nothing. Starlink is essentially an orbital monopoly right now, providing internet globally and even serving as a military backbone. This IPO could pull in $50 billion in cash to accelerate Starship development. If this goes through, Elon Musk will definitively cross the $1 trillion net worth mark. The commercial space race is basically over, and SpaceX won. Will you be buying the stock?",
-    "id": "I9J0K1L2",
+    "id": "cabb8944",
     "category": "Business",
     "companies": [
       "SpaceX"
@@ -61,7 +61,7 @@
     "summary": "CENTCOM utilized Anthropic's Claude AI via Palantir to execute 'Operation Epic Fury', a targeted strike in Iran, despite a presidential ban on Anthropic software. The operation demonstrated the reality of software-defined warfare and exposed massive supply-chain vulnerabilities.",
     "engagement": "High",
     "raw_text": "This is straight out of a sci-fi movie, and it is actually terrifying. The US military just executed a massive strike in Iran, code-named Operation Epic Fury, and the whole thing was run by AI. Here is the wild part: they used Anthropic's Claude AI to map out the battlefield and pick targets. But wait, literally hours before, the President banned all federal agencies from using Anthropic because they refused to remove safety guardrails! The Pentagon basically found a loophole using Palantir's cloud system and did it anyway. This shows that AI is not just a chatbot anymore; it is the core of modern warfare. Corporate rules are clashing hard with military reality, and honestly, this sets a massive precedent for the future of AI control.",
-    "id": "M3N4O5P6",
+    "id": "0deb2574",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -82,7 +82,7 @@
     "summary": "Following the U.S. government's blacklisting of Anthropic, OpenAI immediately secured a $200 million DoD contract to deploy its models in classified networks. The deal includes specific safeguards against autonomous weapons while highlighting intense competition for federal capital.",
     "engagement": "Medium",
     "raw_text": "Talk about perfect timing. Right after Anthropic got blacklisted by the Pentagon, OpenAI swooped in and locked down a $200 million deal with the Department of Defense. Sam Altman says they still have strict red lines—no fully autonomous weapons, no mass surveillance. But people are extremely suspicious because the Pentagon penalized Anthropic for demanding those exact same protections. How did OpenAI get a pass? They claim their specific cloud setup physically prevents the AI from being deployed on lethal drones. Honestly, it really looks like a brutal game of corporate lobbying. The AI arms race is not just about coding anymore; it is about who gets the defense contracts. Is OpenAI selling out, or just playing the game?",
-    "id": "Q7R8S9T0",
+    "id": "205d8deb",
     "category": "Business",
     "companies": [
       "OpenAI"
@@ -100,7 +100,7 @@
     "summary": "A controversial report by Citrini Research predicts that rapid AI adoption will cause massive white-collar job losses and a non-cyclical economic collapse by 2028. The report has divided experts, with figures like Paul Krugman calling it 'science fiction' and Michael Burry validating the concerns.",
     "engagement": "High",
     "raw_text": "Are we heading for an AI-induced apocalypse? A new report from Citrini Research is going incredibly viral, predicting a complete economic free fall by 2028. The theory is that AI agents are going to wipe out so many white-collar jobs—coders, analysts, writers—that consumer spending will just collapse. They are calling it an 'AI Feedback Loop' with no natural brake. Michael 'The Big Short' Burry is sharing this everywhere, saying the speed of AI is terrifying. On the flip side, Nobel laureate Paul Krugman is basically calling it panic-driven science fiction. But let us be real, as AI gets smarter and works entirely on its own, a college degree is not the safety net it used to be. What do you guys think? Are your jobs safe?",
-    "id": "U1V2W3X4",
+    "id": "3f3a37d9",
     "category": "Business",
     "companies": [
       "Citrini Research"
@@ -120,7 +120,7 @@
     "summary": "Anthropic launched Claude Opus 4.6, outperforming OpenAI's models on enterprise benchmarks with a new 'adaptive thinking' capability. OpenAI quickly countered with GPT-5.3-Codex, a faster model optimized for software engineering, alongside a leaked preview of GPT-5.4.",
     "engagement": "High",
     "raw_text": "The AI model wars are heating up again! Anthropic just dropped Claude Opus 4.6, and it absolutely destroyed OpenAI's GPT-5.2 on major benchmarks. It uses this insane new feature called 'adaptive thinking' where the AI decides how much compute power to use to solve really hard problems. But OpenAI was not just going to sit there. They fired back immediately with GPT-5.3-Codex, which is stupid fast and laser-focused on coding. Plus, someone leaked that GPT-5.4 is coming, and it will process raw, uncompressed images. As a tech fan, I am loving this competition. Both companies are moving away from just making bigger chatbots and focusing on AI agents that can actually do our jobs. Which one are you using right now?",
-    "id": "Y5Z6A7B8",
+    "id": "7ce9fdbf",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -137,7 +137,7 @@
     "summary": "A newly published 'First Proof' benchmark demonstrated that current frontier AI models cannot autonomously solve novel math problems. Models like GPT-5.2 Pro and Gemini 3.0 Pro struggled without a human in the loop, highlighting the limits of autoregressive reasoning.",
     "engagement": "Medium",
     "raw_text": "For everyone worried about AI taking over the world, take a breath. Top mathematicians just proved there is a hard limit to what current AI can do. They released a test called the 'First Proof' benchmark. They made sure these were brand new, unpublished math problems so the AI could not just memorize them from the internet. And guess what? Powerhouses like GPT-5.2 Pro and Gemini 3.0 Pro totally bombed. They could not solve these problems on their own. It proves that while AI is great at matching patterns and copying what it has read, it literally cannot do novel, deductive reasoning in complex math without a human holding its hand. We need a whole new type of AI architecture to get past this roadblock. Humanity 1, AI 0... for now.",
-    "id": "C9D0E1F2",
+    "id": "d23bcca6",
     "category": "Science",
     "companies": [
       "Stanford",
@@ -159,7 +159,7 @@
     "summary": "Meta Platforms is facing a major class-action lawsuit for allegedly exploiting a 'localhost' vulnerability in Android to covertly track users' web browsing and link it to their Facebook identities. The lawsuit claims this data enriched Meta's AI algorithms without user consent.",
     "engagement": "High",
     "raw_text": "If you use an Android phone, you need to hear this. Meta is getting slapped with a massive class-action lawsuit for a totally brazen tracking scheme. Apparently, they exploited a developer tool called 'localhost' in Android to secretly watch your web browsing. They took your supposedly anonymous browsing data and tied it directly to your real Facebook and Instagram accounts! Even Google engineers were reportedly shocked by this. Meta then used all that secret data to train their AI models and boost their ad revenue. Honestly, this is a massive privacy violation. Big tech keeps pushing the boundaries to feed their AI machines, and we are the ones paying the price with our data. Check your privacy settings, people!",
-    "id": "G3H4I5J6",
+    "id": "863823f5",
     "category": "Business",
     "companies": [
       "Meta",
@@ -176,7 +176,7 @@
     "summary": "Researchers identified a Niobium-Rhenium (NbRe) triplet superconductor that transmits electricity and electron spin with zero resistance, potentially solving quantum computing's energy and temperature constraints. Concurrently, quantum companies IonQ and D-Wave reported record qubit fidelity and massive revenue growth.",
     "engagement": "Medium",
     "raw_text": "Okay, we have to talk about quantum computing because researchers just found the holy grail. They discovered a new material, an alloy called Niobium-Rhenium, that acts as a triplet superconductor. What does that mean? It transmits power and electron spin with absolutely zero resistance. This could completely solve the massive energy and cooling problems that quantum computers face right now. And the timing is perfect because companies like IonQ and D-Wave are absolutely exploding. IonQ just hit record-level accuracy, and D-Wave is raking in millions by selling quantum-as-a-service to massive enterprises. We are moving out of the sci-fi phase and into actual, usable quantum tech that runs circles around normal supercomputers. The tech world is changing fast, guys!",
-    "id": "K7L8M9N0",
+    "id": "3ce12460",
     "category": "Science",
     "companies": [
       "IonQ",
