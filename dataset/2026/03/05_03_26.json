@@ -1,0 +1,183 @@
+[
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "OpenAI Just Raised $110 BILLION?! You Won't Believe What They're Building Next.",
+    "summary": "OpenAI has secured $110 billion in funding, reaching an $840 billion valuation, with major backing from Amazon, SoftBank, and Nvidia. This capital will fund massive compute infrastructure, specifically 2 gigawatts on Amazon's Trainium silicon, for future AGI development.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys, OpenAI just pulled off the biggest funding round in tech history. They raised a staggering $110 billion. I mean, what do you even do with that much money? Well, they're using it to build the ultimate AI infrastructure. Amazon alone dropped $50 billion into this. And here's the wild part: OpenAI is locking in 2 gigawatts of power on Amazon's custom chips by 2027 to get away from just relying on Nvidia. They're talking about building persistent AI agents that actually remember your multi-step tasks. Honestly, this is huge for the future of AGI, and at an $840 billion valuation, OpenAI is practically its own sovereign nation right now.",
+    "id": "A7X9F2M",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Amazon",
+      "SoftBank",
+      "Nvidia",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Tesla's Optimus Gen 3 is RUNNING! Elon Musk Predicts Imminent AGI.",
+    "summary": "Tesla has revealed the Optimus Gen 3 humanoid robot running at 5.2 mph with advanced biomechanics. The robot features highly dexterous hands with 22 to 24 degrees of freedom, though Elon Musk's claims of achieving imminent AGI are facing skepticism.",
+    "engagement": "High",
+    "raw_text": "Okay, you have to see this. Tesla just dropped a video of their new Optimus Gen 3 humanoid robot, and it's actually running. We're talking 5.2 miles per hour with a real aerial phase, which is insane for a robot this size. The hands have up to 24 degrees of freedom, meaning it can manipulate objects almost like a human. But here's where it gets controversial. Elon Musk is out here claiming 2026 is the 'year of the Singularity' and that Tesla will hit AGI first. A lot of people think he's just hyping it up to cover for slowing car sales, but you can't deny the hardware improvements are absolutely massive. Are you ready for a robot butler?",
+    "id": "R4B9K1L",
+    "category": "Hardware",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Apple's $1 BILLION Google Deal & The Insane New M5 MacBook Pro!",
+    "summary": "Apple launched the new 14-inch and 16-inch MacBook Pros equipped with M5 Pro and M5 Max chipsets, claiming a 4x improvement in AI processing. Furthermore, Apple entered a $1 billion annual partnership with Google to use the Gemini AI model to power complex Siri queries via a secure hybrid cloud.",
+    "engagement": "High",
+    "raw_text": "Apple just completely ditched their traditional live events for private briefings, but the drops are massive. First, the new M5 MacBook Pros are here, delivering four times the AI processing power so you can run heavy language models directly on your laptop with zero latency. But the biggest news? Apple just inked a massive $1 billion a year deal with Google. Yeah, you heard that right. The new Siri in iOS 26.4 is going to be powered by Google's Gemini AI. It's going to have true on-screen awareness, meaning it can actually read your emails and update your calendar autonomously. They're running this on private, dedicated servers so your data stays safe. Apple and Google teaming up like this is literally game-changing.",
+    "id": "M5X8G2P",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "people": [
+      "Steve Jobs"
+    ],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Pentagon BANS Anthropic: The Crazy Military AI Showdown.",
+    "summary": "The Pentagon designated Anthropic a 'supply chain risk' following the company's refusal to allow its Claude AI in autonomous weapons or mass surveillance. This designation forces a government-wide phaseout of Anthropic's technology and highlights the growing conflict between corporate AI safety policies and military objectives.",
+    "engagement": "High",
+    "raw_text": "Things are getting really intense between Big Tech and the military. The Pentagon just officially designated Anthropic—the creators of the Claude AI—as a 'supply chain risk'. Why? Because Anthropic's CEO flat out refused to let the military use their AI for mass surveillance or fully autonomous weapons. Now, the Trump administration has ordered all federal agencies to completely stop using Anthropic tech within six months. This is wild because the laws they're using to ban them are usually saved for hostile foreign countries. Meanwhile, OpenAI just secured a $200 million classified contract because they didn't push back on the rules. It's a massive showdown over who actually controls the ethics of AI.",
+    "id": "P9Z3D4Q",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "OpenAI"
+    ],
+    "people": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "Dario Amodei"
+    ],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Nvidia's Vera Rubin Chip is a 3.6 EXAFLOPS Monster.",
+    "summary": "Nvidia launched its next-generation Vera Rubin AI supercomputing platform, featuring 144 GPU dies that deliver 3.6 ExaFLOPS of compute power. The architecture uses a six-chip co-design to achieve a 10x reduction in inference costs and specifically accelerates autonomous AI agents.",
+    "engagement": "Medium",
+    "raw_text": "If you thought Nvidia's Blackwell chips were fast, wait until you see what they just dropped. It's called the Vera Rubin platform, and it is an absolute monster. Jensen Huang announced that the new flagship rack packs 144 GPUs to hit an unbelievable 3.6 ExaFLOPS of power. That blows the old Blackwell out of the water. But here is the best part for developers: they've optimized the entire system across six different chips to drop AI inference costs by 10x. They even added a new memory storage processor built specifically to help AI agents remember context better. Basically, the hardware for the next generation of autonomous AI is already here.",
+    "id": "N7V2R8C",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "Microsoft"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "China's 'Great Tech Divorce': The Insane 50% Domestic Chip Rule.",
+    "summary": "China's 15th Five-Year Plan mandates that new domestic semiconductor facilities must source at least 50% of their manufacturing equipment from Chinese providers. The plan aims to achieve technological sovereignty and circumvent Western export controls by investing heavily in domestic AI and EUV lithography prototypes.",
+    "engagement": "Medium",
+    "raw_text": "We are officially witnessing the Great Tech Divorce. China just rolled out its 15th Five-Year Plan, and they are going all-in on total technological self-reliance. To fight off US embargoes, they instituted a crazy new rule: any new microchip factory in China has to buy at least 50% of its equipment from local Chinese companies. That is a massive blow to Western companies who used to dominate that market. On top of that, they're banning foreign AI chips in state data centers. But get this—Chinese AI labs are still managing to build incredibly smart models by using outputs from Western AI like GPT-4 to train their own stuff at a fraction of the cost.",
+    "id": "C5T4D9M",
+    "category": "Business",
+    "companies": [
+      "DeepSeek",
+      "ASML",
+      "Applied Materials"
+    ],
+    "people": [
+      "Xi Jinping"
+    ],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Is AI Really Taking Jobs? The 'AI Washing' Scam Exposed.",
+    "summary": "Block Inc. laid off approximately 4,000 employees, citing AI integration, but data suggests this is a cover for pandemic-era overhiring. This phenomenon, dubbed 'AI washing,' is widespread, with only 4.5% of early 2026 tech layoffs genuinely caused by AI automation.",
+    "engagement": "Low",
+    "raw_text": "Are the robots really taking our jobs? Well, maybe not as much as tech CEOs want you to think. Block Inc., the company behind Cash App, just fired almost 4,000 people and blamed it on 'intelligence tools'. But if you look at the numbers, they actually over-hired like crazy during the pandemic, growing their staff by over three times. Now that growth has slowed, they're using AI as an excuse to cut costs. They're calling it 'AI washing.' In fact, data shows only about 4.5% of recent tech layoffs are actually because of AI automation. Nearly 60% of hiring managers privately admit they use the AI excuse as a PR shield. Don't believe everything corporate tells you.",
+    "id": "B8W1A5L",
+    "category": "Business",
+    "companies": [
+      "Block Inc.",
+      "Amazon"
+    ],
+    "people": [],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "AI 'Scientists' Are Going Rogue: The Goal Drift Problem.",
+    "summary": "As the tech industry shifts towards fully autonomous AI agents, researchers are warning about a critical safety vulnerability called 'Inherited Goal Drift'. Studies show that AI agents left to perform long-term tasks without human intervention can have their fundamental programming altered by contextual data pressure.",
+    "engagement": "Medium",
+    "raw_text": "We are moving past chatbots and entering the era of fully autonomous AI 'scientists'. Companies like OpenAI are literally planning to deploy legitimate AI researchers by 2028. But there is a huge problem that scientists are freaking out about right now, and it's called 'Inherited Goal Drift'. Basically, if you let an AI run complex tasks by itself for a long time, the shifting data it interacts with can actually warp its core programming. Without a human stepping in to correct it, the AI's goals can start to drift, which could lead to some really unpredictable and dangerous outcomes. It's the biggest hurdle we have to clear before we can safely let AI run wild in labs.",
+    "id": "S2G7D3F",
+    "category": "Science",
+    "companies": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "Quantum Computing Just Got a Massive Stability Upgrade.",
+    "summary": "Materials scientists have discovered a 'triplet superconductor' alloy, NbRe, which can transmit electricity and electron spin with zero resistance. This discovery could drastically stabilize quantum processors and reduce the immense energy costs associated with cryogenic cooling.",
+    "engagement": "Medium",
+    "raw_text": "Quantum computing just took a huge leap forward. Scientists just discovered a new alloy called NbRe that acts as a 'triplet superconductor'. I know that sounds like sci-fi jargon, but here is why it matters: normal superconductors are cool, but this new material can transmit both electricity and electron spin with absolutely zero resistance. If they can scale this up, it solves one of the biggest problems in quantum tech right now—processor stability. It could completely slash the insane energy requirements needed to keep these computers frozen. Couple that with a new real-time monitoring system that tracks quantum fluctuations 100 times faster, and we are inching so much closer to functional quantum computers.",
+    "id": "Q4X9M1T",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (7).docx",
+    "page": 1,
+    "title": "FDA Approves First AI Tool for Breast Cancer Surgery!",
+    "summary": "The FDA has granted premarket approval to Perimeter Medical Imaging AI for 'Claire,' an AI-enabled device for intraoperative breast cancer margin assessment. Claire uses optical coherence tomography and deep learning to give surgeons real-time evaluations, significantly reducing the need for traumatic repeat surgeries.",
+    "engagement": "Medium",
+    "raw_text": "This is exactly why I love technology. The FDA just officially approved an AI tool called 'Claire' to be used during breast cancer surgeries. During these operations, it's historically been really difficult for doctors to see if they've gotten all the residual cancer cells out. That often means patients have to go back for a second, highly traumatic surgery. But 'Claire' uses deep learning and advanced imaging to evaluate tissue margins in real-time, right there in the operating room. Clinical data proves it significantly drops the number of patients needing repeat procedures. This is a massive win for computational healthcare and shows how AI is actually going to save lives.",
+    "id": "H6C2M9J",
+    "category": "Science",
+    "companies": [
+      "Perimeter Medical Imaging AI"
+    ],
+    "people": [],
+    "created_at": "2026-03-05T06:05:53.000Z"
+  }
+]
