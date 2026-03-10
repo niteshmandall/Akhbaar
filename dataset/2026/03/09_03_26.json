@@ -16,7 +16,9 @@
       "Amazon"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/oa110b26.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"The user asks for a image generation prompt, under 300 chars. Must describe realistic high-quality image for news. No text in image. Focus on visual elements, mood, key subjects.\\n\\nWe need to count. The prompt output only prompt text. No other. So need to produce maybe around 200 chars.\\n\\nWe need to mention the scene: maybe two figures: a CFO / investor, a soldier. Maybe a skyline with a glowing blue AI logo. Visual: dignified, corporate, secure.\\n\\nBut don't include text. Just visuals. Let's craft:\\n\\n\\\"Corporate boardroom, executives in suits, hands shaking over a glowing digital tablet depicting AI circuits; in background, a subtle reflection of a war helmet, suggesting military integration; ambient lighting, crisp realism, subtle blue neon accents.\\\"\\n\\nWe need under 300 characters. Count: let's count approximate.\\n\\n\\\"Corporate boardroom, executives in suits, hands shaking over a glowing digital tablet depicting AI circuits; in background, a subtle reflection of a war helmet, suggesting military integration; ambient lighting, crisp realism, subtle blue neon accents.\\\"\\n\\nCount characters: I'll roughly estimate. Let's count each character including spaces. Use quick mental.\\n\\n\\\"Corporate boardroom, executives in suits, hands shaking over a glowing digital tablet depicting AI circuits; in background, a subtle reflection of a war helmet, suggesting military integration; ambient lighting, crisp realism, subtle blue neon accents.\\\"\\n\\nCount: Let's approximate 200-210. Let's be safer. I'll cut a bit.\\n\\nGet to something like:\\n\\n\\\"Corporate boardroom, executives in tailored suits shaking hands over a glowing digital tablet with AI circuitry; a war helmet silhouette reflected in the screen; poised, atmospheric lighting, sleek realism, soft blue haze, no text.\\\"\\n\\nCount: Let's estimate. \\\"Corporate boardroom, executives in tailored suits shaking hands over a glowing digital tablet with AI circuitry; a war helmet silhouette reflected in the screen; poised, atmospheric lighting, sleek realism, soft blue haze, no text.\\\"\\n\\nLet's count quickly: characters. I'll count manually: \\n\\\"C\\\"1\\n\\\"o\\\"2\\n\\\"r\\\"3\\n\\\"p\\\"4\\n\\\"o\\\"5\\n\\\"r\\\"6\\n\\\"a\\\"7\\n\\\"t\\\"8\\n\\\"e\\\"9\\nspace10\\n\\\"b\\\"11\\n\\\"o\\\"12\\n\\\"a\\\"13\\n\\\"r\\\"14\\n\\\"d\\\"15\\n\\\"r\\\"16\\n\\\"o\\\"17\\n\\\"o\\\"18\\n\\\"m\\\"19\\n\\\",\\\"20\\nspace21\\n\\\"e\\\"22\\n\\\"x\\\"23\\n\\\"e\\\"24\\n\\\"c\\\"25\\n\\\"u\\\"26\\n\\\"t\\\"27\\n\\\"i\\\"28\\n\\\"v\\\"29\\n\\\"e\\\"30\\n\\\"s\\\"31\\nspace32\\n\\\"i\\\"33\\n\\\"n\\\"34\\nspace35\\n\\\"t\\\"36\\n\\\"a\\\"37\\n\\\"l\\\"38\\n\\\"o\\\"39\\n\\\"r\\\"40\\n\\\"e\\\"41\\n\\\"d\\\"42\\nspace43\\n\\\"s\\\"44\\n\\\"u\\\"45\\n\\\"i\\\"46\\n\\\"t\\\"47\\n\\\"s\\\"48\\nspace49\\n\\\"s\\\"50\\n\\\"h\\\"51\\n\\\"a\\\"52\\n\\\"k\\\"53\\n\\\"i\\\"54\\n\\\"n\\\"55\\n\\\"g\\\"56\\nspace57\\n\\\"h\\\"58\\n\\\"a\\\"59\\n\\\"n\\\"60\\n\\\"d\\\"61\\n\\\"s\\\"62\\nspace63\\n\\\"o\\\"64\\n\\\"v\\\"65\\n\\\"e\\\"66\\n\\\"r\\\"67\\nspace68\\n\\\"a\\\"69\\nspace70\\n\\\"g\\\"71\\n\\\"l\\\"72\\n\\\"o\\\"73\\n\\\"w\\\"74\\n\\\"i\\\"75\\n\\\"n\\\"76\\n\\\"g\\\"77\\nspace78\\n\\\"d\\\"79\\n\\\"i\\\"80\\n\\\"g\\\"81\\n\\\"i\\\"82\\n\\\"t\\\"83\\n\\\"a\\\"84\\n\\\"l\\\"85\\nspace86\\n\\\"t\\\"87\\n\\\"a\\\"88\\n\\\"b\\\"89\\n\\\"l\\\"90\\n\\\"e\\\"91\\n\\\"t\\\"92\\n\\\"space93\\n\\\"w\\\"94\\n\\\"i\\\"95\\n\\\"t\\\"96\\n\\\"h\\\"97\\nspace98\\n\\\"A\\\"99\\n\\\"I\\\"100\\nspace101\\n\\\"c\\\"102\\n\\\"y\\\"103\\n\\\"c\\\"104\\n\\\"t\\\"105\\n\\\"u\\\"106\\n\\\"r\\\"107\\n\\\"i\\\"108\\n\\\"t\\\"109\\n\\\"y\\\"110\\n\\\";\\\"111\\nspace112\\n\\\"a\\\"113\\nspace114\\n\\\"w\\\"115\\n\\\"a\\\"116\\n\\\"r\\\"117\\nspace118\\n\\\"h\\\"119\\n\\\"e\\\"120\\n\\\"l\\\"121\\n\\\"m\\\"122\\n\\\"e\\\"123\\n\\\"t\\\"124\\nspace125\\n\\\"s\\\"126\\n\\\"h\\\"127\\n\\\"a\\\"128\\n\\\"d\\\"129\\n\\\"o\\\"130\\n\\\"w\\\"131\\n\\\"l\\\"132\\n\\\"i\\\"133\\n\\\"t\\\"134\\n\\\"e\\\"135\\nspace136\\n\\\"r\\\"137\\n\\\"e\\\"138\\n\\\"f\\\"139\\n\\\"l\\\"140\\n\\\"e\\\"141\\n\\\"c\\\"142\\n\\\"t\\\"143\\n\\\"e\\\"144\\n\\\"d\\\"145\\nspace146\\n\\\"i\\\"147\\n\\\"n\\\"148\\nspace149\\n\\\"t\\\"150\\n\\\"h\\\"151\\n\\\"e\\\"152\\nspace153\\n\\\"s\\\"154\\n\\\"c\\\"155\\n\\\"r\\\"156\\n\\\"e\\\"157\\n\\\"e\\\"158\\n\\\"n\\\"159\\n\\\";\\\"160\\nspace161\\n\\\"p\\\"162\\n\\\"o\\\"163\\n\\\"i\\\"164\\n\\\"s\\\"165\\n\\\"e\\\"166\\n\\\"d\\\"167\\n\\\",\\\"168\\nspace169\\n\\\"a\\\"170\\n\\\"t\\\"171\\n\\\"m\\\"172\\n\\\"o\\\"173\\n\\\"s\\\"174\\n\\\"p\\\"175\\n\\\"h\\\"176\\n\\\"e\\\"177\\n\\\"r\\\"178\\n\\\"i\\\"179\\n\\\"a\\\"180\\n\\\"l\\\"181\\nspace182\\n\\\"l\\\"183\\n\\\"i\\\"184\\n\\\"g\\\"185\\n\\\"h\\\"186\\n\\\"t\\\"187\\n\\\"i\\\"188\\n\\\"n\\\"189\\n\\\"g\\\"190\\n\\\",\\\"191\\nspace192\\n\\\"s\\\"193\\n\\\"l\\\"194\\n\\\"e\\\"195\\n\\\"e\\\"196\\n\\\"k\\\"197\\n\\\"space198\\n\\\"r\\\"199\\n\\\"e\\\"200\\n\\\"a\\\"201\\n\\\"l\\\"202\\n\\\"i\\\"203\\n\\\"s\\\"204\\n\\\"m\\\"205\\n\\\",\\\"206\\nspace207\\n\\\"s\\\"208\\n\\\"o\\\"209\\n\\\"f\\\"210\\n\\\"t\\\"211\\nspace212\\n\\\"b\\\"213\\n\\\"l\\\"214\\n\\\"u\\\"215\\n\\\"e\\\"216\\nspace217\\n\\\"h\\\"218\\n\\\"a\\\"219\\n\\\"z\\\"220\\n\\\"e\\\"221\\n\\\",\\\"222\\nspace223\\n\\\"n\\\"224\\n\\\"o\\\"225\\nspace226\\n\\\"t\\\"227\\n\\\"e\\\"228\\n\\\"x\\\"229\\n\\\"t\\\"230\\n\\\".\\\"231\\n\\nSo about 231 characters. Under 300. Good.\\n\\nThus output the prompt.\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-03-09",
@@ -34,7 +36,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/mtanuc26.png",
+    "image_prompt": "Realistic view of Meta's Prometheus AI data center: tall concrete building with rows of humming server racks, subtle blue LED glow, distant nuclear reactor core faint in the background, sleek tech atmosphere, clean lines."
   },
   {
     "date": "2026-03-09",
@@ -50,7 +54,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/macneo26.png",
+    "image_prompt": "A sleek, minimalist newsroom corner with a single 13\u2011inch black MacBook Neo resting on a polished desk, its matte finish glowing under soft spotlight. Rich shadows, close\u2011up of the gleaming T\u2011bar, subtle Apple logo, with faint city skyline blurred in background."
   },
   {
     "date": "2026-03-09",
@@ -68,7 +74,9 @@
       "TikTok"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/sora0226.png",
+    "image_prompt": "In a buzzing newsroom, a luminous AI avatar Sora\u202f2 floats above a high\u2011tech desk, surrounded by swirling holographic social media icons; dynamic lighting casts an electric, optimistic mood."
   },
   {
     "date": "2026-03-09",
@@ -87,7 +95,9 @@
     "people": [
       "Chris Cox"
     ],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/llama426.png",
+    "image_prompt": "Stunning photo of a modern Meta data center hall, rows of shimmering server racks glowing white. In the foreground, a translucent holographic llama silhouette assembled from circuitry, symbolizing the 2\u2011trillion\u2011parameter Llama\u202f4 model and its efficient Scout variant, evoking high\u2011tech sophistication."
   },
   {
     "date": "2026-03-09",
@@ -96,7 +106,7 @@
     "title": "Google's New AI Just Demolished the Hardest Logic Tests!",
     "summary": "Google DeepMind released Gemini 3.1 Pro and an updated 'Deep Think' mode, pushing the boundaries of mathematical reasoning. The model scored a verified 77.1% on the rigorous ARC-AGI-2 benchmark.",
     "engagement": "Medium",
-    "raw_text": "Google DeepMind is striking back hard! They just launched Gemini 3.1 Pro along with a ridiculously smart 'Deep Think' mode. Forget basic text generation; this thing is built for intense logical deduction and math. It scored a verified 77.1% on the ARC-AGI-2 benchmark, which tests entirely novel logic patterns. For context, that literally doubles the reasoning performance of Gemini 3 Pro! Plus, their Deep Think model took on 'Humanity's Last Exam'—basically the hardest benchmark ever made—and scored 48.4% without even using external tools. It can even write pure code to generate animated graphics directly from your text prompts. Google is clearly focusing on verifiable, academic-level intelligence for enterprise workflows. If you're a developer or a data scientist, Gemini 3.1 Pro is looking like the ultimate powerhouse.",
+    "raw_text": "Google DeepMind is striking back hard! They just launched Gemini 3.1 Pro along with a ridiculously smart 'Deep Think' mode. Forget basic text generation; this thing is built for intense logical deduction and math. It scored a verified 77.1% on the ARC-AGI-2 benchmark, which tests entirely novel logic patterns. For context, that literally doubles the reasoning performance of Gemini 3 Pro! Plus, their Deep Think model took on 'Humanity's Last Exam'\u2014basically the hardest benchmark ever made\u2014and scored 48.4% without even using external tools. It can even write pure code to generate animated graphics directly from your text prompts. Google is clearly focusing on verifiable, academic-level intelligence for enterprise workflows. If you're a developer or a data scientist, Gemini 3.1 Pro is looking like the ultimate powerhouse.",
     "id": "gem31p26",
     "category": "AI",
     "companies": [
@@ -104,7 +114,9 @@
       "DeepMind"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/gem31p26.png",
+    "image_prompt": "Modern tech lab, gleaming white desk with a sleek laptop open to a complex math problem, numbers and logic symbols floating in translucent holographic display; a focused, determined researcher (Mid\u201130s female) with glasses, lighting from overhead, subtle Google blue accents, mood of breakthrough excitement."
   },
   {
     "date": "2026-03-09",
@@ -124,7 +136,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/nvidfeyn.png",
+    "image_prompt": "Close-up of a futuristic NVIDIA \u201cFeynman\u201d chip on a TSMC 1.6nm wafer, bright orange nanowire gold traces replaced by shimmering blue light\u2011wave photonic pathways pulsing across the silicon surface, subtle studio lighting adds depth and a high\u2011tech glow."
   },
   {
     "date": "2026-03-09",
@@ -141,7 +155,9 @@
       "DroidUp"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/zterob26.png",
+    "image_prompt": "A sleek humanoid robot guides a dense crowd at MWC 2026, its glowing visor and articulated arms welcoming travelers among neon\u2011lit booths, with towering skyscrapers framing a vibrant, dynamic scene in realistic detail."
   },
   {
     "date": "2026-03-09",
@@ -157,7 +173,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/gpt54pro.png",
+    "image_prompt": "Modern conference room, a sleek desk with glowing dual monitors displaying code, a midair holographic brain icon, attentive professionals in business attire, warm ambient lighting, high realism, subtle reflections on black table."
   },
   {
     "date": "2026-03-09",
@@ -173,6 +191,8 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-03-09T11:28:32Z"
+    "created_at": "2026-03-09T11:28:32Z",
+    "image_url": "images/09_03_26/pixdrp26.png",
+    "image_prompt": "A sleek Android phone with holographic AI interface displaying a multi\u2011step grocery list, AR virtual try\u2011on overlays, and Circle\u2011to\u2011Search icons, set against a bustling urban grocery aisle with vibrant colors and a futuristic, dynamic mood."
   }
 ]
