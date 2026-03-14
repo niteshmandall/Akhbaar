@@ -6,14 +6,16 @@
     "title": "Apple Drops $499 MacBook Neo: A Repairable Budget Beast?",
     "summary": "Apple launched the MacBook Neo, its most repairable laptop in a decade starting at $499 for education, but its soldered 8GB RAM poses a bottleneck for local AI processing. Additionally, Apple introduced the iPhone 17e and refreshed the iPad and MacBook Pro lines.",
     "engagement": "High",
-    "raw_text": "What's up guys, so check this out: Apple just dropped a massive curveball with the new MacBook Neo. This thing is only $499 if you're a student, and get this, it is their most repairable laptop since 2014. They ditched the glue, using standard screws so even schools can repair them easily. Honestly, this is huge for the budget market. But here is the wild part—the catch. Apple soldered the 8GB of RAM directly to the board. Why does that matter? Because running local AI models takes massive memory. Apple is pushing 'Edge AI' for privacy, but this hardware simply can't handle those massive models locally. You'll still be relying on the cloud. It's an awesome budget laptop, but if you're buying it for future-proof AI, you might want to hold off. Let me know what you think down in the comments!",
-    "id": "A1B2C3D4",
+    "raw_text": "What's up guys, so check this out: Apple just dropped a massive curveball with the new MacBook Neo. This thing is only $499 if you're a student, and get this, it is their most repairable laptop since 2014. They ditched the glue, using standard screws so even schools can repair them easily. Honestly, this is huge for the budget market. But here is the wild part\u2014the catch. Apple soldered the 8GB of RAM directly to the board. Why does that matter? Because running local AI models takes massive memory. Apple is pushing 'Edge AI' for privacy, but this hardware simply can't handle those massive models locally. You'll still be relying on the cloud. It's an awesome budget laptop, but if you're buying it for future-proof AI, you might want to hold off. Let me know what you think down in the comments!",
+    "id": "bc3aa08e",
     "category": "Hardware",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/bc3aa08e.png",
+    "image_prompt": "A sleek, minimalist classroom scene. The new MacBook Neo sits on a polished wood desk, its thin metal chassis and subtle touch\u2011pad highlighted. A student mid\u2011study holds a slim stylus, her laptop display glowing with AI code. Subtle studio lighting, calm focus."
   },
   {
     "date": "2026-03-14",
@@ -22,8 +24,8 @@
     "title": "China Panics Over Viral 'Lobster' AI Agent",
     "summary": "An open-source AI agent named OpenClaw has gone viral in China, prompting enterprise bans due to its capability to completely compromise a user's digital identity. Experts warn that its broad access to authentication keys creates a permanent 'master key' vulnerability if hacked.",
     "engagement": "High",
-    "raw_text": "Okay, the AI space is officially getting terrifying. There is a new open-source AI agent called OpenClaw, and everyone in China is calling it 'the lobster'. People are literally lining up outside Baidu's headquarters just to get it installed. But here is the crazy part: unlike normal chatbots, this thing actually takes over your computer to book flights, send emails, and organize files. To do that, it needs total access to your digital authentication keys. Cybersecurity experts just found 40,000 vulnerable instances online. If a hacker gets in, they don't just steal your data—they get a permanent master key to your entire digital life. The government and massive companies like Tencent and Alibaba are now desperately banning local installations. Are we moving too fast with autonomous AI? I honestly think we might be.",
-    "id": "E5F6G7H8",
+    "raw_text": "Okay, the AI space is officially getting terrifying. There is a new open-source AI agent called OpenClaw, and everyone in China is calling it 'the lobster'. People are literally lining up outside Baidu's headquarters just to get it installed. But here is the crazy part: unlike normal chatbots, this thing actually takes over your computer to book flights, send emails, and organize files. To do that, it needs total access to your digital authentication keys. Cybersecurity experts just found 40,000 vulnerable instances online. If a hacker gets in, they don't just steal your data\u2014they get a permanent master key to your entire digital life. The government and massive companies like Tencent and Alibaba are now desperately banning local installations. Are we moving too fast with autonomous AI? I honestly think we might be.",
+    "id": "93b543ff",
     "category": "AI Security",
     "companies": [
       "Baidu",
@@ -34,7 +36,9 @@
     "people": [
       "Peter Steinberger"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/93b543ff.png",
+    "image_prompt": "High\u2011contrast newsroom, glowing laptop screen with lines of code, a shadowed executive staring in alarm, stylized lobster figure with robotic claws flickering beside, faint red warning holograms, damp, tense mood."
   },
   {
     "date": "2026-03-14",
@@ -44,7 +48,7 @@
     "summary": "Microsoft is launching a voice-powered Gaming Copilot for Xbox Series X|S consoles in late 2026, offering real-time strategies and puzzle solutions during gameplay. This eliminates the need for secondary screens and places immense pressure on competitors like Sony and Nintendo.",
     "engagement": "High",
     "raw_text": "If you're an Xbox player, you're going to want to hear this. Microsoft just confirmed they are bringing an AI Gaming Copilot directly to the Xbox Series X and S later this year. Imagine being stuck on an insanely hard puzzle or a boss fight, and instead of pulling out your phone to search a wiki, you literally just ask your console for help using your voice. The AI has deep context of the Xbox library and acts like a friend sitting right next to you on the couch. Honestly, this is huge. It totally eliminates the friction of looking up guides. Plus, developers can now make games even harder, knowing you have an AI safety net built-in. Sony and Nintendo do not have an answer for this yet. Is this the end of traditional gaming guides? Smash that like button if you'd use this!",
-    "id": "I9J0K1L2",
+    "id": "fd7fea8b",
     "category": "Gaming",
     "companies": [
       "Microsoft",
@@ -54,7 +58,9 @@
     "people": [
       "Sonali Yadav"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/fd7fea8b.png",
+    "image_prompt": "A close-up of a young gamer in a dimly-lit living room, holding an Xbox Series X|S controller, an AI hologram projected from the console with subtle glow of voice commands, vivid colors, giving strategy advice, focused expression."
   },
   {
     "date": "2026-03-14",
@@ -64,7 +70,7 @@
     "summary": "Humanoid robotics startup Sunday has secured a $165 million Series B funding round, reaching a $1.15 billion valuation to build 'Memo', a robot capable of household chores like folding laundry. This reflects strong investor confidence in the commercial viability of general-purpose home robots.",
     "engagement": "High",
     "raw_text": "We've been promised robot butlers for decades, but it's finally happening. A robotics startup called Sunday just raised $165 million, valuing them at over a billion dollars. They are building a humanoid robot named Memo, specifically designed for your house. We are talking about a robot that can fold your laundry and clear your dining table. They just came out of stealth mode and already have a waitlist of a thousand people. Investors are throwing money at this because the AI behind perception and manipulation has gotten so good, so fast. Honestly, the race for the ultimate home robot is heating up. Would you let a billion-dollar humanoid robot fold your underwear? Drop a comment below because I am seriously curious!",
-    "id": "M3N4O5P6",
+    "id": "230c618a",
     "category": "Robotics",
     "companies": [
       "Sunday",
@@ -74,7 +80,9 @@
       "Bain Capital Ventures"
     ],
     "people": [],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/230c618a.png",
+    "image_prompt": "Humanoid robot \u201cMemo\u201d, sleek white chassis folding laundry in a polished modern kitchen, smart appliances gleaming. Soft diffused daylight, minimalist decor, metallic accents, realistic textures. Nearby investor smiles, reviewing a tablet."
   },
   {
     "date": "2026-03-14",
@@ -84,7 +92,7 @@
     "summary": "Upwork CEO Hayden Brown revealed that AI agents are autonomously posting jobs and hiring human freelancers for complex tasks they cannot perform themselves. This trend points toward a new labor market dynamic where humans act as 'AI orchestrators'.",
     "engagement": "High",
     "raw_text": "So check this out, because this literally sounds like a sci-fi movie. The CEO of Upwork just revealed that AI agents are now actively hiring humans on their platform. Yes, you heard that right. A bot is posting job ads, looking for human freelancers to do the complex coding or problem-solving that the AI can't figure out on its own. Your next boss might literally be an algorithm. The CEO calls this the rise of the 'AI orchestrator'. Basically, instead of AI taking all our jobs, businesses are letting AI handle the workflow, and the AI outsources the really hard stuff to us humans. It's a massive shift in how the gig economy works. I honestly think this is wild. Better start polishing up your resume for your new robot overlords!",
-    "id": "Q7R8S9T0",
+    "id": "71cd6ceb",
     "category": "Business",
     "companies": [
       "Upwork"
@@ -92,7 +100,9 @@
     "people": [
       "Hayden Brown"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/71cd6ceb.png",
+    "image_prompt": "Modern coworking space, natural light through glass, a female freelancer with headset on her laptop, a hovering hologram of a neutral AI avatar projecting Upwork\u2011style job listings, vibrant tech vibe, shot in high resolution."
   },
   {
     "date": "2026-03-14",
@@ -102,13 +112,15 @@
     "summary": "Google is integrating its Gemini AI into Maps with a new 'Ask Maps' feature, allowing users to ask complex, free-form queries for personalized travel recommendations. The update also includes 'Immersive Navigation' with enhanced real-time 3D visuals and hazard alerts.",
     "engagement": "Medium",
     "raw_text": "Google Maps is about to change forever. Google just announced a massive update that bakes their Gemini AI directly into the Maps app. They're calling it 'Ask Maps'. You can literally type in something super specific like, 'Where can I charge my phone nearby without waiting for coffee?' and the AI will analyze your preferences and give you a perfectly tailored route. But that's not all. They are also dropping 'Immersive Navigation', which gives you a sick 3D driving view of buildings and overpasses, plus hyper-realistic lane guidance. The voice prompts are even getting smarter, explaining exactly why you should take a toll route versus a longer free route. It's rolling out in the US and India right now for iOS and Android. This is a game-changer for road trips.",
-    "id": "U1V2W3X4",
+    "id": "d73aeb49",
     "category": "Mobile",
     "companies": [
       "Google"
     ],
     "people": [],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/d73aeb49.png",
+    "image_prompt": "Modern city street view with a sleek holographic 3D map overlay showing layered routes, AI\u2011driven directional arrows, traffic hazard alerts in subtle red, a diverse group of travelers viewing a tablet displaying real\u2011time navigation. Dragonfly lighting, crisp detail."
   },
   {
     "date": "2026-03-14",
@@ -118,7 +130,7 @@
     "summary": "Elon Musk confirmed that xAI is being rebuilt 'from the foundations up' after the departure of key co-founders and internal dissatisfaction with the company's coding models. The reboot aims to align xAI's 'Macrohard' agent with Tesla's robotics ambitions.",
     "engagement": "High",
     "raw_text": "Things are getting messy over at Elon Musk's AI company, xAI. Only two of the original 11 co-founders are still at the company. Some top guys just walked out because xAI's coding tools are seriously lagging behind Anthropic's Claude and OpenAI's Codex. Elon literally came out and admitted that the company was quote 'not built right the first time around' and they are now rebuilding it from the ground up. The new strategy? Tying xAI's new white-collar AI agent, codenamed Macrohard, directly into Tesla's robotics like the Optimus bot. Honestly, this shows just how brutal the frontier AI race is right now. Even with billions of dollars and Elon Musk at the helm, catching up to OpenAI is no joke. Do you guys think xAI can bounce back?",
-    "id": "Y5Z6A7B8",
+    "id": "4cd26e26",
     "category": "AI Corporate",
     "companies": [
       "xAI",
@@ -131,7 +143,9 @@
       "Zihang Dai",
       "Guodong Zhang"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/4cd26e26.png",
+    "image_prompt": "Elon Musk in a sleek Tesla HQ, beside a glowing AI console marked 'xAI', holographic code streams above. A robotic arm extends toward a translucent helix, symbolizing the reboot. Mood: optimistic, futuristic, clean lighting."
   },
   {
     "date": "2026-03-14",
@@ -141,7 +155,7 @@
     "summary": "Both Tinder and Bumble are overhauling their apps with AI to combat swipe fatigue; Bumble introduced an AI assistant named 'Bee' to pre-screen matches, while Tinder launched a 'Chemistry' feature that uses algorithmic precision and behavioral monitoring to curate connections.",
     "engagement": "High",
     "raw_text": "Are you guys sick of swiping on dating apps? Well, the apps know it. Gen Z is experiencing massive 'swipe fatigue'. So, Tinder and Bumble are literally letting AI take the wheel. Bumble just launched 'Bee', an AI assistant that chats with you, figures out your relationship goals, and then actively recommends matches for you. Meanwhile, Tinder completely overhauled their platform with a new 'Chemistry' feature. It analyzes thousands of your photos and uses deep behavioral data to give you hyper-curated matches instead of just an endless deck of profiles. Tinder's AI is even jumping into the chats to blur out unsolicited pics and stop people from sending aggressive texts in real-time. Basically, the AI is your new wingman. Would you trust an algorithm to find your soulmate?",
-    "id": "C9D0E1F2",
+    "id": "7613d21c",
     "category": "Social",
     "companies": [
       "Tinder",
@@ -151,7 +165,9 @@
     "people": [
       "Spencer Rascoff"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/7613d21c.png",
+    "image_prompt": "Dual smartphone screens, left a sleek glass tablet with a shimmering AI\u2011foil icon of a stylized bee hovering above Bumble\u2019s modern interface, right a glossy phone displaying Tinder\u2019s bold \u201cChemistry\u201d pulsating graph lines and mimic a neural net, ambient neon glow, dark minimal background."
   },
   {
     "date": "2026-03-14",
@@ -161,13 +177,15 @@
     "summary": "Canadian telecom Telus is investigating a severe cyberattack after the hacker group ShinyHunters claimed to have stolen over 700 terabytes of sensitive data. The breach reportedly includes personally identifiable information, source code, and FBI background checks, highlighting severe vulnerabilities in cloud infrastructure.",
     "engagement": "High",
     "raw_text": "This might be one of the biggest corporate data breaches in history. Canadian telecom giant Telus just got hit hard by a hacker group called ShinyHunters. The hackers are claiming they stole a mind-boggling 700 terabytes of data. We are talking about everything from customer call logs to highly sensitive FBI background checks and proprietary source code. Telus says their business is running normally, but they have forensics teams scrambling behind the scenes right now. What's crazy is that the hackers reportedly got in using credentials from an older cloud breach. If you use any cloud services, this is a massive wake-up call about how vulnerable our data really is. Keep an eye on your accounts, folks, because this kind of leak can impact millions of people.",
-    "id": "G3H4I5J6",
+    "id": "8b496aca",
     "category": "Security",
     "companies": [
       "Telus"
     ],
     "people": [],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/8b496aca.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"User wants a prompt for an image generation. Under 300 characters. No text in image. Must describe a realistic, high-quality image suitable for news website. Visual elements, mood, key subjects. Should describe the scene: likely a dark server room, red alarms, a hacker, email? The subject: Telus corporate building or cloud servers. Summarize. Keep characters <300. Let's construct.\\n\\nPossible prompt: \\\"A dimly lit server room with rows of humming servers, glowing red alarms, a lone figure in a hoodie hunched over a keyboard. Digital lines of code swirl over the glow, symbolizing stolen data. Corporate building backdrop with subtle Canadian flag. Mood: tense, urgent.\\\" That's about 307 maybe. Let's count: Each word? Let's approximate: \\\"A dimly lit server room with rows of humming servers, glowing red alarms, a lone figure in a hoodie hunched over a keyboard. Digital lines of code swirl over the glow, symbolizing stolen data. Corporate building backdrop with subtle Canadian flag. Mood: tense, urgent.\\\" Count characters: Let's count quickly: I'll approximate each character. Might be around 300. Let's count precisely: \\\"A\\\"1 space2 \\\"dim\\\"3+1=4 -> no. Wait easier: I can craft a bit shorter.\\n\\nLet's create: \\\"Dimly lit server room, rows of humming servers, glowing red alarms, hoodie\u2011clad hacker hunched over a keyboard. Swirling code lines symbolize 700\u202fTB data. Corporate building in distance, faint Canadian flag. Tense, urgent mood.\\\"\\n\\nCount characters: Let's count: \\n\\\"S\\\"1? We'll do better: let's use approximate count. But aim < 300.\\n\\nLet's compute precisely: I'll write string.\\n\\n\\\"A dimly lit server room, rows of humming servers, glowing red alarms, hoodie\u2011clad hacker hunched over a keyboard. Swirling code lines symbolize 700\u202fTB data. Corporate building in distance, faint Canadian flag. Tense, urgent mood.\\\"\\n\\nNow count characters: \\n\\\"A\\\"1 \\n\\\" \\\" 2\\n\\\"d\\\"3\\n\\\"i\\\"4\\n\\\"m\\\"5\\n\\\"l\\\"6\\n\\\"y\\\"7\\n\\\" \\\"8\\n\\\"l\\\"9\\n\\\"i\\\"10\\n\\\"t\\\"11\\n\\\" \\\"12\\n\\\"s\\\"13\\n\\\"e\\\"14\\n\\\"r\\\"15\\n\\\"v\\\"16\\n\\\"e\\\"17\\n\\\"r\\\"18\\n\\\" \\\"19\\n\\\"r\\\"20\\n\\\"o\\\"21\\n\\\"o\\\"22\\n\\\"m\\\"23\\n\\\",\\\"24\\n\\\" \\\"25\\n\\\"r\\\"26\\n\\\"o\\\"27\\n\\\"w\\\"28\\n\\\"s\\\"29\\n\\\" \\\"30\\n\\\"o\\\"31\\n\\\"f\\\"32\\n\\\" \\\"33\\n\\\"h\\\"34\\n\\\"u\\\"35\\n\\\"m\\\"36\\n\\\"m\\\"37\\n\\\"i\\\"38\\n\\\"n\\\"39\\n\\\"g\\\"40\\n\\\" \\\"41\\n\\\"s\\\"42\\n\\\"e\\\"43\\n\\\"r\\\"44\\n\\\"v\\\"45\\n\\\"e\\\"46\\n\\\"r\\\"47\\n\\\"s\\\"48\\n\\\",\\\"49\\n\\\" \\\"50\\n\\\"g\\\"51\\n\\\"l\\\"52\\n\\\"o\\\"53\\n\\\"w\\\"54\\n\\\"i\\\"55\\n\\\"n\\\"56\\n\\\"g\\\"57\\n\\\" \\\"58\\n\\\"r\\\"59\\n\\\"e\\\"60\\n\\\"d\\\"61\\n\\\" \\\"62\\n\\\"a\\\"63\\n\\\"l\\\"64\\n\\\"r\\\"65\\n\\\"a\\\"66\\n\\\"m\\\"67\\n\\\"s\\\"68\\n\\\",\\\"69\\n\\\" \\\"70\\n\\\"h\\\"71\\n\\\"o\\\"72\\n\\\"o\\\"73\\n\\\"d\\\"74\\n\\\"i\\\"75\\n\\\"e\\\"76\\n\\\"-\\\"77\\n\\\"c\\\"78\\n\\\"l\\\"79\\n\\\"a\\\"80\\n\\\"d\\\"81\\n\\\" \\\"82\\n\\\"h\\\"83\\n\\\"a\\\"84\\n\\\"c\\\"85\\n\\\"k\\\"86\\n\\\"e\\\"87\\n\\\"r\\\"88\\n\\\" \\\"89\\n\\\"h\\\"90\\n\\\"u\\\"91\\n\\\"n\\\"92\\n\\\"c\\\"93\\n\\\"h\\\"94\\n\\\"e\\\"95\\n\\\"d\\\"96\\n\\\" \\\"97\\n\\\"o\\\"98\\n\\\"v\\\"99\\n\\\"e\\\"100\\n\\\"r\\\"101\\n\\\" \\\"102\\n\\\"a\\\"103\\n\\\" \\\"104\\n\\\"k\\\"105\\n\\\"e\\\"106\\n\\\"y\\\"107\\n\\\"b\\\"108\\n\\\"o\\\"109\\n\\\"a\\\"110\\n\\\"r\\\"111\\n\\\"d\\\"112\\n\\\".\\\"113\\n\\\" \\\"114\\n\\\"S\\\"115\\n\\\"w\\\"116\\n\\\"i\\\"117\\n\\\"r\\\"118\\n\\\"l\\\"119\\n\\\"i\\\"120\\n\\\"n\\\"121\\n\\\"g\\\"122\\n\\\" \\\"123\\n\\\"c\\\"124\\n\\\"o\\\"125\\n\\\"d\\\"126\\n\\\"e\\\"127\\n\\\" \\\"128\\n\\\"l\\\"129\\n\\\"i\\\"130\\n\\\"n\\\"131\\n\\\"e\\\"132\\n\\\"s\\\"133\\n\\\" \\\"134\\n\\\"s\\\"135\\n\\\"y\\\"136\\n\\\"m\\\"137\\n\\\"b\\\"138\\n\\\"o\\\"139\\n\\\"l\\\"140\\n\\\"i\\\"141\\n\\\"z\\\"142\\n\\\"e\\\"143\\n\\\" \\\"144\\n\\\"7\\\"145\\n\\\"0\\\"146\\n\\\"0\\\"147\\n\\\"\u00a0\\\"148 (space? Actually non-breaking space maybe 149)\\n\\\"\u03a4\\\" maybe 150? Wait \\\"TB\\\" letters: \\\"T\\\" 150, \\\"B\\\"151\\n\\\" \\\"152\\n\\\"d\\\"153\\n\\\"a\\\"154\\n\\\"t\\\"155\\n\\\"a\\\"156\\n\\\".\\\"157\\n\\\" \\\"158\\n\\\"C\\\"159\\n\\\"o\\\"160\\n\\\"r\\\"161\\n\\\"p\\\"162\\n\\\"o\\\"163\\n\\\"r\\\"164\\n\\\"a\\\"165\\n\\\"t\\\"166\\n\\\"e\\\"167\\n\\\" \\\"168\\n\\\"b\\\"169\\n\\\"u\\\"170\\n\\\"i\\\"171\\n\\\"l\\\"172\\n\\\"d\\\"173\\n\\\"i\\\"174\\n\\\"n\\\"175\\n\\\"g\\\"176\\n\\\" \\\"177\\n\\\"i\\\"178\\n\\\"n\\\"179\\n\\\" \\\"180\\n\\\"d\\\"181\\n\\\"i\\\"182\\n\\\"s\\\"183\\n\\\"t\\\"184\\n\\\"a\\\"185\\n\\\"n\\\"186\\n\\\"c\\\"187\\n\\\"e\\\"188\\n\\\",\\\"189\\n\\\" \\\"190\\n\\\"f\\\"191\\n\\\"a\\\"192\\n\\\"i\\\"193\\n\\\"n\\\"194\\n\\\"t\\\"195\\n\\\" \\\"196\\n\\\"C\\\"197\\n\\\"a\\\"198\\n\\\"n\\\"199\\n\\\"a\\\"200\\n\\\"d\\\"201\\n\\\"a\\\"202\\n\\\"n\\\"203\\n\\\" \\\"204\\n\\\"f\\\"205\\n\\\"l\\\"206\\n\\\"a\\\"207\\n\\\"g\\\"208\\n\\\".\\\"209\\n\\\" \\\"210\\n\\\"T\\\"211\\n\\\"e\\\"212\\n\\\"n\\\"213\\n\\\"s\\\"214\\n\\\"e\\\"215\\n\\\",\\\"216\\n\\\" \\\"217\\n\\\"u\\\"218\\n\\\"r\\\"219\\n\\\"g\\\"220\\n\\\"e\\\"221\\n\\\"n\\\"222\\n\\\"t\\\"223\\n\\\" \\\"224\\n\\\"m\\\"225\\n\\\"o\\\"226\\n\\\"d\\\"227\\n\\\"e\\\"228\\n\\\".\\\"229\\n\\nTotal 229 characters. Good under 300. Good.\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-03-14",
@@ -177,7 +195,7 @@
     "summary": "Meta has postponed the release of its highly anticipated 'Avocado' AI model to May, as current internal testing shows its performance lagging behind Google's upcoming Gemini 3.0. The delay emphasizes the intense pressure among tech giants to deliver state-of-the-art results upon launch.",
     "engagement": "Medium",
     "raw_text": "Meta is hitting the brakes on their massive new AI model. Codenamed 'Avocado', it was supposed to drop this month, but internal sources say it's been delayed until at least May. Why? Because right now, Avocado's performance is stuck somewhere between Google's Gemini 2.5 and 3.0, and Mark Zuckerberg's team refuses to launch an underpowered model. This just proves how ridiculously high the bar is right now in the AI wars. If you don't drop a model that completely blows people's minds, the market will just ignore it. Meta is choosing to play it safe and train it longer. With xAI struggling and Meta delaying, OpenAI and Google are really dominating the conversation. Let me know which AI model you're using the most right now!",
-    "id": "K7L8M9N0",
+    "id": "16ce745e",
     "category": "AI",
     "companies": [
       "Meta",
@@ -187,6 +205,8 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-03-14T13:46:26Z"
+    "created_at": "2026-03-14T13:46:26Z",
+    "image_url": "images/14_03_26/16ce745e.png",
+    "image_prompt": "Mockboardroom setting: Meta engineers and execs around a polished glass table, holographic displays flickering with avocado\u2011shaped neural net diagrams. A glowing red X overlays the AI logo, while a digital clock reads \u201cMay\u00a01.\u201d Tense, high\u2011tech, focused mood."
   }
 ]
