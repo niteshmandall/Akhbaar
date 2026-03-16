@@ -7,30 +7,34 @@
     "summary": "OpenAI released GPT-5.4 with a 1.05 million-token context window and native computer use capabilities. The model directly processes screen captures to autonomously execute multi-app graphical user interface workflows.",
     "engagement": "High",
     "raw_text": "So check this out, guys, OpenAI just fundamentally changed the game with GPT-5.4. We're not just talking about a text box anymore; this AI has 'native computer use'. Honestly, this is huge. It literally looks at your screen, moves your mouse, and clicks around just like you do, bypassing those clunky old API wrappers. Imagine telling ChatGPT to audit a massive spreadsheet, and it just opens Excel and does it. On top of that, they gave it a massive 1.05 million-token context window, so you can dump an entire codebase into it at once. And get this, to pay for all this compute, they are rolling out an $8 a month 'ChatGPT Go' tier and even testing ads in the US. The crazy part? They delayed the 'adult mode' indefinitely because the competition is just too intense right now. Are human computer jobs officially cooked?",
-    "id": "A1B2C3D4",
+    "id": "cda5ae1a",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-03-16T00:08:26.000Z"
+    "created_at": "2026-03-16T00:08:26.000Z",
+    "image_url": "images/16_03_26/cda5ae1a.png",
+    "image_prompt": "Image of a slick, futuristic workstation: a semi-transparent holographic AI core hovering above a laptop, multiple floating UI windows, graphs, and a human hand tapping a virtual keyboard. Neon blue glow, sleek metallic surfaces, ambient office lighting, tech\u2011savvy mood."
   },
   {
     "date": "2026-03-04",
-    "source_file": "Today’s Tech & AI News (March 15, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (March 15, 2026).pdf",
     "page": 3,
     "title": "Apple's $599 MacBook Neo is Here to Destroy Chromebooks!",
     "summary": "Apple introduced a new entry-level $599 MacBook Neo and the iPhone 17e. The company also updated its iPad Air with the M4 chip and MacBook line with M5 silicon to support robust on-device AI.",
     "engagement": "High",
     "raw_text": "Alright, you guys know Apple rarely does 'cheap,' but here's the wild part: they just dropped a $599 laptop called the MacBook Neo. I genuinely can't believe it. They are going straight for the throat of Chromebooks and budget Windows PCs in schools and offices. Plus, we got the iPhone 17e, also starting at $599, rocking the A19 chip, MagSafe, and Apple's very own custom C1X 5G modem. It feels like Apple is finally giving us high-end features without destroying our wallets. But the real story underneath all this hardware? AI. They've slapped massive neural engines into everything, upgrading the iPad Air to the M4 and the MacBooks to the M5 chip just to handle heavy AI workloads. Oh, and they inked a massive $1 billion a year deal to put Google's Gemini models directly into Siri. Siri might actually be useful now! Let me know in the comments, are you copping the Neo?",
-    "id": "E5F6G7H8",
+    "id": "1b6afc71",
     "category": "Hardware",
     "companies": [
       "Apple",
       "Google"
     ],
     "people": [],
-    "created_at": "2026-03-16T00:08:26.000Z"
+    "created_at": "2026-03-16T00:08:26.000Z",
+    "image_url": "images/16_03_26/1b6afc71.png",
+    "image_prompt": "Front\u2011on view of sleek $599 MacBook Neo on a minimalist desk, spotlighted by soft studio lighting, with subtle chrome finish, Apple logo faint, next to an iPhone 17e and an iPad Air M4, all arranged with a clean, modern workspace vibe."
   },
   {
     "date": "2026-03-13",
@@ -40,7 +44,7 @@
     "summary": "Meta has delayed the launch of its 'Avocado' frontier AI model after it failed internal benchmarks against Google's Gemini 3.0. The company is reportedly planning sweeping layoffs affecting up to 20% of its workforce to offset spiraling AI infrastructure costs.",
     "engagement": "High",
     "raw_text": "I have some crazy news coming out of Meta today, and it is not looking good for Mark Zuckerberg. So, they were supposed to launch their massive new AI model codenamed 'Avocado' this month, but they just delayed it to May or June. Why? Because it literally failed to beat Google's Gemini 3.0 in internal testing. It struggles with the autonomous agent stuff that everyone else is mastering right now. In response, Zuck is reportedly completely shifting away from their open-source vibe to build closed models, which made their chief AI scientist Yann LeCun actually leave the company. But here is the part that affects real people: Reuters is reporting that Meta is about to do sweeping layoffs, potentially cutting up to 20% of their staff. They are burning hundreds of billions on AI data centers and need to cut costs fast. We might even see Meta temporarily license Google's AI just to survive.",
-    "id": "I9J0K1L2",
+    "id": "ada12158",
     "category": "Business",
     "companies": [
       "Meta",
@@ -61,7 +65,7 @@
     "summary": "Tesla confirmed its Optimus Gen 3 humanoid robot is in final development, featuring a new OLED face display and highly dexterous hands. The company targets high-volume manufacturing by 2027 and claims it will eventually self-replicate.",
     "engagement": "High",
     "raw_text": "Okay, the robot takeover is officially accelerating. Tesla just teased their Optimus Gen 3 humanoid robot, and it is honestly looking a little bit sci-fi. They slapped an OLED display on its head to act as a face, which is cool, but the really crazy part is the hands. They've engineered these remarkably human-like, highly dexterous hands. In robotics, hands are the absolute hardest thing to build, but they need them so Optimus can handle weird, irregular tools on a factory floor. Elon Musk is out here saying this is the most advanced robot in the world and envisions these things literally building infrastructure by themselves. They are pushing for high-volume manufacturing by next year, 2027. To power all this, Tesla is building a $25 billion chip facility in Texas called the Terafab Project, completely onshoring their AI silicon. Would you buy an Optimus for your house?",
-    "id": "M3N4O5P6",
+    "id": "33a0dcfa",
     "category": "Hardware",
     "companies": [
       "Tesla"
@@ -69,7 +73,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-03-16T00:08:26.000Z"
+    "created_at": "2026-03-16T00:08:26.000Z",
+    "image_url": "images/16_03_26/33a0dcfa.png",
+    "image_prompt": "A sleek Tesla Optimus Gen 3 robot stands in a high\u2011tech lab, bathed in cool LED blue light. Matte black chassis gleams, OLED face display shines with expressive pixels, and human\u2011like hands grip a precision tool. Behind, open assembly lines hint at future manufacturing."
   },
   {
     "date": "2026-03-15",
@@ -79,7 +85,7 @@
     "summary": "The global software sector experienced a massive market correction, erasing $1 trillion in market capitalization over a month. Investors are pricing in the obsolescence of human-centric, per-seat software licensing as AI agents autonomously execute enterprise workflows.",
     "engagement": "Low",
     "raw_text": "We need to talk about what Wall Street is calling the 'SaaSpocalypse.' I know finance can be dry, but this affects the entire tech industry. Over the last month, a staggering $1 trillion was wiped out from global software stocks like Salesforce, Adobe, and Atlassian. This isn't just a random dip; this is a fundamental structural collapse. Wall Street has realized that traditional 'per-seat' software pricing is dead. Why? Because AI agents, like Anthropic's new Claude Cowork, are doing the jobs of five humans for a fraction of the price. If an AI can review contracts and do compliance checks entirely on its own, companies simply don't need to buy thousands of human software licenses anymore. It's getting so bad that Atlassian just fired 10% of their global workforce to pivot entirely into AI. If you're building traditional SaaS right now, you really need to pivot to usage-based pricing before it's too late.",
-    "id": "Q7R8S9T0",
+    "id": "4eff0476",
     "category": "Business",
     "companies": [
       "Salesforce",
@@ -90,7 +96,9 @@
     "people": [
       "Mike Cannon-Brookes"
     ],
-    "created_at": "2026-03-16T00:08:26.000Z"
+    "created_at": "2026-03-16T00:08:26.000Z",
+    "image_url": "images/16_03_26/4eff0476.png",
+    "image_prompt": "A dim corporate office with a giant digital clock displaying a decreasing stock ticker, holographic AI code spiraling, crumbling blue\u2011green ledger sheets, weary executives in suits, gloomy cloud\u2011filled sky; realism, high\u2011resolution, news\u2011photo style."
   },
   {
     "date": "2026-03-15",
@@ -100,14 +108,16 @@
     "summary": "Google is reportedly acquiring cybersecurity firm Wiz for a record $32 billion. Additionally, Google deeply integrated Gemini 3.1 AI into Google Workspace to act as a comprehensive research and drafting assistant.",
     "engagement": "Medium",
     "raw_text": "Google is making absolute money moves today. First up, they are reportedly dropping a record-shattering $32 billion to acquire the cloud security company Wiz. This is a massive signal that the convergence of AI, cloud infrastructure, and cybersecurity is the ultimate battleground right now. But on the consumer side, Google is completely supercharging Google Workspace. Forget standard text generation; the new Gemini integration acts as a full-on collaborative partner. The new 'Help me create' feature in Docs literally synthesizes your past emails, chats, and drive files to draft perfectly formatted documents that match your corporate writing style. They also rolled out Gemini 3.1 Flash-Lite, which is insanely cheap, driving the baseline cost of frontier AI down by an order of magnitude. Google is clearly not letting Microsoft Copilot take the enterprise crown without a massive fight.",
-    "id": "U1V2W3X4",
+    "id": "bb372286",
     "category": "Business",
     "companies": [
       "Google",
       "Wiz"
     ],
     "people": [],
-    "created_at": "2026-03-16T00:08:26.000Z"
+    "created_at": "2026-03-16T00:08:26.000Z",
+    "image_url": "images/16_03_26/bb372286.png",
+    "image_prompt": "Modern Google HQ lobby with glass walls reflecting a transparent canopy, a translucent teal Gemini logo glows on a digital display, a banker handing an empty briefcase to a suited executive, subtle corporate lighting, polished marble floor."
   },
   {
     "date": "2026-03-15",
@@ -117,7 +127,7 @@
     "summary": "Iran's IRGC executed drone strikes on commercial AWS data centers in the UAE and Bahrain, citing their use in processing data for U.S. military operations. The attacks caused severe digital blackouts and halted hyperscaler expansion in the region.",
     "engagement": "High",
     "raw_text": "This is probably the scariest tech news of the year. The digital world and the physical world are officially colliding in the worst way possible. We are seeing active geopolitical conflict directly targeting AI infrastructure. Reports confirm that drone strikes have hit three commercial Amazon Web Services data centers in the UAE and Bahrain. The attackers explicitly claimed they targeted these facilities because they process data for US military and intelligence operations powered by AI. This isn't just a cyberattack; this is physical destruction of the cloud. It caused massive digital blackouts in Dubai, shutting down banking and cell services. Because of this, tech giants like Google and Microsoft are completely abandoning their massive infrastructure build-outs in the Middle East and pivoting to Europe and India. It proves that no matter how advanced our AI gets, it is still totally vulnerable to physical warfare.",
-    "id": "Y5Z6A7B8",
+    "id": "f961a0a7",
     "category": "Tech",
     "companies": [
       "Amazon",
@@ -130,13 +140,13 @@
   },
   {
     "date": "2026-03-09",
-    "source_file": "Today’s Tech & AI News (March 15, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (March 15, 2026).pdf",
     "page": 3,
     "title": "Microsoft's New AI Agent Does Your Job While You Sleep",
     "summary": "Microsoft launched Copilot Cowork, an autonomous agent framework built with Anthropic that executes complex, multi-step tasks across Microsoft 365 applications. It operates entirely within a customer's secure cloud tenant, governed via the new Agent 365 dashboard.",
     "engagement": "Medium",
     "raw_text": "If you use Microsoft Office for work, your life is about to change. Microsoft just launched Copilot Cowork, and it's not a normal chatbot. It is an autonomous agent built in collaboration with Anthropic. Instead of you typing prompts for every single thing, you just tell Cowork, 'Hey, prep me for my client meeting next Tuesday.' The AI will autonomously scan your Outlook, comb through your Excel sheets, build a PowerPoint deck, and even block out focus time on your calendar to review it. It literally executes long-horizon workflows while you sit back. They are bundling this into an ultra-premium $99 per user tier called Microsoft 365 E7. The genius part is that it runs entirely inside your company's secure cloud, so IT departments don't have to freak out about data leaks. White-collar work is never going to be the same.",
-    "id": "C9D0E1F2",
+    "id": "4797bf2a",
     "category": "Software",
     "companies": [
       "Microsoft",
@@ -156,7 +166,7 @@
     "summary": "Ahead of GTC 2026, leaks reveal NVIDIA's 'Vera Rubin' platform features 336 billion transistors and advanced HBM4 memory, delivering up to 5x performance over Blackwell. NVIDIA is also expected to unveil specialized inference processors aimed at driving agentic AI costs down by 10x.",
     "engagement": "Medium",
     "raw_text": "NVIDIA's GTC event kicks off tomorrow, and the leaks are absolutely insane. Jensen Huang is getting ready to drop the 'Vera Rubin' platform, the successor to the Blackwell architecture, and the specs are mind-blowing. We are talking about a chip with a staggering 336 billion transistors and next-gen HBM4 memory. It is specifically optimized for those massive Mixture-of-Experts models and is expected to be 3 to 5 times faster than Blackwell. But the real secret weapon? Industry insiders say NVIDIA is about to announce a totally new class of chips focused strictly on inference, utilizing tech they got from Groq. As AI agents start running 24/7, inferencing costs are the biggest bottleneck. This new silicon aims to drop those costs by a factor of 10. If true, this secures NVIDIA's total monopoly for the next five years.",
-    "id": "G3H4I5J6",
+    "id": "89888488",
     "category": "Hardware",
     "companies": [
       "NVIDIA",
@@ -175,7 +185,7 @@
     "summary": "SpaceX's eighth Integrated Flight Test (IFT-8) ended in an anomaly when the Starship upper stage suffered premature engine shutdowns and broke apart. This second consecutive loss of an upper stage threatens to significantly delay NASA's Artemis lunar exploration timeline.",
     "engagement": "High",
     "raw_text": "Space fans, I've got some rough news. SpaceX just launched their eighth test flight of the massive Starship rocket, IFT-8, and it ended in a fiery explosion. The Super Heavy booster actually did its job, but the Starship upper stage suffered multiple engine shutdowns during ascent, lost control, and broke apart before making it to orbit. This is a massive deal because it's the second time in a row they've lost the upper stage. I know SpaceX loves their 'fail fast' engineering strategy, but the clock is ticking. NASA's entire Artemis moon landing program is completely reliant on Starship actually working safely so they can refuel in orbit. These persistent engine anomalies mean we might see some severe delays for humanity's return to the moon. Elon Musk is going to have to figure this out fast.",
-    "id": "K7L8M9N0",
+    "id": "835ad0f0",
     "category": "Science",
     "companies": [
       "SpaceX",
