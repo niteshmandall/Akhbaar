@@ -8,6 +8,8 @@ import uuid
 import glob
 from collections import defaultdict
 import re
+from huggingface_hub import InferenceClient
+import io
 
 # --- ID Management Functions ---
 
@@ -237,43 +239,79 @@ else:
     load_dotenv() # Fallback to default search
     print("Warning: Could not enable explicit .env path, using default search.")
 
-def generate_image(prompt):
-    """Generates an image using Pollinations.AI API (v2) with authentication."""
-    api_key = os.getenv("POLLINATIONS_API_KEY")
-    if not api_key:
-        print(f"  Warning: POLLINATIONS_API_KEY not found. Using public tier (rate-limited).")
+def generate_image_hf(prompt):
+    """Generates an image using Hugging Face Inference API."""
+    hf_token = os.getenv("HF_TOKEN")
+    if not hf_token:
+        return None
+    
+    try:
+        client = InferenceClient(api_key=hf_token)
+        # Using FLUX.1 Schnell for fast and high-quality generation
+        image = client.text_to_image(
+            prompt, 
+            model="black-forest-labs/FLUX.1-schnell",
+            width=1024,
+            height=1024
+        )
+        # Convert PIL image to bytes
+        img_byte_arr = io.BytesIO()
+        image.save(img_byte_arr, format='PNG')
+        return img_byte_arr.getvalue()
+    except Exception as e:
+        print(f"  Hugging Face image gen error: {e}")
+        return None
 
-    # Encode the prompt for the URL
+def generate_image(prompt):
+    """Generates an image using a hybrid strategy (HF primary, Pollinations fallback)."""
+    
+    # 1. Try Hugging Face (Primary - Most Stable)
+    hf_token = os.getenv("HF_TOKEN")
+    if hf_token:
+        print("  Attempting Hugging Face generation...")
+        image_bytes = generate_image_hf(prompt)
+        if image_bytes:
+            return image_bytes
+        print("  Hugging Face failed. Falling back to Pollinations...")
+    else:
+        print("  HF_TOKEN not found. Skipping Hugging Face.")
+
+    # 2. Try Pollinations AI (Fallback 1 - High Quality)
+    api_key = os.getenv("POLLINATIONS_API_KEY")
     encoded_prompt = urllib.parse.quote(prompt)
     seed = random.randint(0, 10000)
     
-    # Construct URL for the Gen V2 Endpoint
-    # We use 'model=flux' for better quality allowed on this endpoint
-    base_url = f"https://gen.pollinations.ai/image/{encoded_prompt}"
-    params = f"?seed={seed}&width=1024&height=1024&nologo=true&model=flux"
-    url = base_url + params
+    # Try high-quality flux model first
+    pollinations_variants = [
+        {"model": "flux", "name": "Pollinations Flux"},
+        {"model": "turbo", "name": "Pollinations Turbo"}
+    ]
     
-    headers = {}
-    if api_key:
-        headers["Authorization"] = f"Bearer {api_key}"
+    for variant in pollinations_variants:
+        print(f"  Attempting {variant['name']} generation...")
+        url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model={variant['model']}"
+        
+        headers = {}
+        if api_key:
+            headers["Authorization"] = f"Bearer {api_key}"
 
-    for attempt in range(3):  # 3 retry attempts
-        try:
-            response = requests.get(url, headers=headers, timeout=60)
-            if response.status_code == 200:
-                return response.content
-            elif response.status_code == 429:
-                print(f"  Rate limited (429). Retrying in {2**(attempt+1)}s...")
-                time.sleep(2**(attempt+1))
-            else:
-                 print(f"  Image gen failed (Status {response.status_code}). Attempt {attempt+1}/3")
-        except Exception as e:
-            print(f"  Image gen error: {e}. Attempt {attempt+1}/3")
+        for attempt in range(2):  # 2 retries per variant
+            try:
+                response = requests.get(url, headers=headers, timeout=60)
+                if response.status_code == 200:
+                    return response.content
+                elif response.status_code == 429:
+                    print(f"    Rate limited (429). Waiting...")
+                    time.sleep(5)
+                else:
+                     print(f"    {variant['name']} failed (Status {response.status_code}).")
+            except Exception as e:
+                print(f"    {variant['name']} error: {e}")
+            
+            if attempt < 1:
+                time.sleep(2)
 
-        if attempt < 2:
-            time.sleep(2)
-
-    print("  Failed to generate image after retries.")
+    print("  Failed to generate image after all attempts and fallbacks.")
     return None
 
 def save_image_locally(image_bytes, filename, output_dir):
