@@ -194,7 +194,7 @@ def generate_image_prompt(title, summary):
         headers = {}
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
-            url = f"https://gen.pollinations.ai/text/{encoded_prompt}"
+            url = f"https://text.pollinations.ai/{encoded_prompt}"
             try:
                 response = requests.get(url, headers=headers, timeout=10)
                 if response.status_code == 200:
