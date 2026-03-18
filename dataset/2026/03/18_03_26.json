@@ -6,7 +6,7 @@
     "title": "Nvidia's $1 Trillion AI Bet: Autonomous 'NemoClaw' Agents Are Taking Over Your Job!",
     "summary": "Nvidia has launched NemoClaw, an enterprise-grade agentic AI platform based on the wildly popular OpenClaw framework. This shift toward autonomous software operations has prompted CEO Jensen Huang to project an unprecedented $1 trillion in revenue by 2027.",
     "engagement": "High",
-    "raw_text": "So check this out, guys, Nvidia is literally rewriting the rules of the tech industry today. CEO Jensen Huang just took the stage at GTC 2026 and dropped a massive bombshell. They are launching NemoClaw, an enterprise version of the insanely popular OpenClaw open-source project. Here's the wild part: we are moving from Software-as-a-Service to Agent-as-a-Service. This means human operators won't manually click through software anymore; autonomous AI agents will handle complete workflows with zero step-by-step instructions. Honestly, this is huge. Nvidia is already partnering with massive players like AWS to deploy over a million GPUs just to run these autonomous agents. And get this—Jensen Huang expects this pivot to double Nvidia’s revenue to a staggering $1 trillion by 2027. If you thought the AI hype was cooling down, think again. These new AI agents are going to completely disrupt corporate jobs. Drop a comment below—are you ready for an AI agent to literally do your busywork, or is this getting too creepy?",
+    "raw_text": "So check this out, guys, Nvidia is literally rewriting the rules of the tech industry today. CEO Jensen Huang just took the stage at GTC 2026 and dropped a massive bombshell. They are launching NemoClaw, an enterprise version of the insanely popular OpenClaw open-source project. Here's the wild part: we are moving from Software-as-a-Service to Agent-as-a-Service. This means human operators won't manually click through software anymore; autonomous AI agents will handle complete workflows with zero step-by-step instructions. Honestly, this is huge. Nvidia is already partnering with massive players like AWS to deploy over a million GPUs just to run these autonomous agents. And get this\u2014Jensen Huang expects this pivot to double Nvidia\u2019s revenue to a staggering $1 trillion by 2027. If you thought the AI hype was cooling down, think again. These new AI agents are going to completely disrupt corporate jobs. Drop a comment below\u2014are you ready for an AI agent to literally do your busywork, or is this getting too creepy?",
     "id": "NVDA1T2026",
     "category": "AI",
     "companies": [
@@ -20,7 +20,9 @@
       "Jensen Huang",
       "Peter Steinberger"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/NVDA1T2026.png",
+    "image_prompt": "A dim corporate server room bathed in blue LED light, rows of cutting\u2011edge Nvidia GPUs humming, hologram of a translucent robotic claw hovering over a control panel, subtle reflection on sleek metal surfaces, giving a tense, futuristic vibe"
   },
   {
     "date": "2026-03-17",
@@ -29,7 +31,7 @@
     "title": "Uber's 100,000 Robotaxi Fleet is Coming to Your City Next Year!",
     "summary": "Uber is partnering with Nvidia, Zoox, and Wayve to deploy 100,000 Level 4 autonomous robotaxis globally by 2028, completely bypassing internal vehicle development. The rollout begins in Los Angeles and San Francisco in 2027 using Nvidia's DRIVE Hyperion platform in Lucid Gravity SUVs.",
     "engagement": "High",
-    "raw_text": "Alright, if you use Uber, your next ride might not have a driver! Seriously, Uber just made a post-market announcement that completely blew my mind. They are partnering with Nvidia, Amazon’s Zoox, and Wayve to roll out a staggering 100,000 Level 4 autonomous robotaxis globally by 2028. Here's the crazy thing: Uber isn't even building the cars. They're letting Nvidia handle the autonomous brain using the Alpamayo 1.5 Vision-Language-Action model on the DRIVE Hyperion platform, and they're sticking it into Lucid Gravity SUVs. The rollout starts in LA and San Francisco in the first half of 2027, then expands to 28 cities worldwide. This is a massive middle finger to Tesla's closed ecosystem. Uber’s stock actually surged over 5.6% on this news. Honestly, the 'asset-right' model is genius—Uber just acts as the middleman while Nvidia provides the tech. Would you feel safe letting an AI drive you in a Lucid SUV? Let me know!",
+    "raw_text": "Alright, if you use Uber, your next ride might not have a driver! Seriously, Uber just made a post-market announcement that completely blew my mind. They are partnering with Nvidia, Amazon\u2019s Zoox, and Wayve to roll out a staggering 100,000 Level 4 autonomous robotaxis globally by 2028. Here's the crazy thing: Uber isn't even building the cars. They're letting Nvidia handle the autonomous brain using the Alpamayo 1.5 Vision-Language-Action model on the DRIVE Hyperion platform, and they're sticking it into Lucid Gravity SUVs. The rollout starts in LA and San Francisco in the first half of 2027, then expands to 28 cities worldwide. This is a massive middle finger to Tesla's closed ecosystem. Uber\u2019s stock actually surged over 5.6% on this news. Honestly, the 'asset-right' model is genius\u2014Uber just acts as the middleman while Nvidia provides the tech. Would you feel safe letting an AI drive you in a Lucid SUV? Let me know!",
     "id": "UBERROBO26",
     "category": "Hardware",
     "companies": [
@@ -41,7 +43,9 @@
       "Tesla"
     ],
     "people": [],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/UBERROBO26.png",
+    "image_prompt": "A sleek silver Lucid Gravity SUV, Level\u20114 autonomous, idling on a wide boulevard in downtown Los Angeles. Glowing Nvidia DRIVE Hyperion lights illuminate the vehicle and street. Modern skyscrapers, reflective surfaces, cars, and pedestrians form a futuristic, tech\u2011dense urban scene."
   },
   {
     "date": "2026-03-17",
@@ -50,7 +54,7 @@
     "title": "Picsart Just Killed Manual Photo Editing With Custom AI Agents!",
     "summary": "Picsart has launched an AI Agent Marketplace that allows creators to deploy autonomous digital assistants for bulk photo editing tasks like background replacement and formatting. For around $10 a month, users can integrate these agents directly into messaging apps like WhatsApp to handle repetitive creative workflows asynchronously.",
     "engagement": "High",
-    "raw_text": "Creators, listen up! Editing hundreds of photos manually is officially a thing of the past. Picsart just dropped an AI Agent Marketplace, and it is an absolute game-changer. With over 130 million global users, Picsart is democratizing industrial-scale creative automation. Imagine having a digital assistant that automatically resizes your assets for TikTok and Instagram simultaneously, or removes the background on a hundred product shots while you sleep. You can literally hire these agents starting at $10 a month, and the wild part is you can command them directly through WhatsApp or Telegram! You basically just give the agent a brief, and it does the work asynchronously. But don’t worry, there's human-in-the-loop approval before it saves over everything. Honestly, if you run an e-commerce store or manage social media, this is a massive time-saver. Let's debate: is AI killing the art of editing, or just the boring parts?",
+    "raw_text": "Creators, listen up! Editing hundreds of photos manually is officially a thing of the past. Picsart just dropped an AI Agent Marketplace, and it is an absolute game-changer. With over 130 million global users, Picsart is democratizing industrial-scale creative automation. Imagine having a digital assistant that automatically resizes your assets for TikTok and Instagram simultaneously, or removes the background on a hundred product shots while you sleep. You can literally hire these agents starting at $10 a month, and the wild part is you can command them directly through WhatsApp or Telegram! You basically just give the agent a brief, and it does the work asynchronously. But don\u2019t worry, there's human-in-the-loop approval before it saves over everything. Honestly, if you run an e-commerce store or manage social media, this is a massive time-saver. Let's debate: is AI killing the art of editing, or just the boring parts?",
     "id": "PICSARTAI26",
     "category": "Software",
     "companies": [
@@ -59,27 +63,31 @@
       "Telegram"
     ],
     "people": [],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/PICSARTAI26.png",
+    "image_prompt": "A modern office: a woman at a desk, phone in hand showing a chat with AI assistant icons gently editing photos\u2014background replaced by bright cityscape, holographic UI floating, vibrant colors, quiet productivity vibe."
   },
   {
     "date": "2026-03-17",
-    "source_file": "Tech News Summary – March 17, 2026.docx",
+    "source_file": "Tech News Summary \u2013 March 17, 2026.docx",
     "page": 2,
     "title": "Apple's Insane $599 iPhone 17E & M5 MacBooks Finally Here!",
     "summary": "Apple refreshed its product lineup in early March 2026, launching the $599 entry-level iPhone 17E and a $599 13-inch MacBook 'Neo', both powered by the A18 Pro chip. Additionally, they unveiled the redesigned iPad Air (M4) and refreshed MacBook Pro and Air models featuring the new M5, M5 Pro, and M5 Max chips.",
     "engagement": "High",
-    "raw_text": "Apple fanboys, it's time to upgrade! Apple just held their early-March spring events, and they came out swinging. Check this out: they launched a brand new entry-level iPhone called the iPhone 17E for just $599! It’s rocking a 6.1-inch display, MagSafe, doubled base storage, and the crazy fast A18 Pro chip. But that’s not all. If you thought cheap Macs were dead, they also dropped a $599 13-inch MacBook 'Neo', also powered by the A18 Pro. Honestly, a $600 MacBook is going to destroy the budget laptop market. For the pros out there, they refreshed the MacBook Pro and Air with the brand new M5, M5 Pro, and M5 Max chips. There's also an M4-equipped iPad Air. It's wild to see Apple dominate both the ultra-high-end with the M-series and aggressively attack the budget space with custom silicon. Are you copping the iPhone 17E or the M5 MacBook? Let's talk about it in the comments!",
+    "raw_text": "Apple fanboys, it's time to upgrade! Apple just held their early-March spring events, and they came out swinging. Check this out: they launched a brand new entry-level iPhone called the iPhone 17E for just $599! It\u2019s rocking a 6.1-inch display, MagSafe, doubled base storage, and the crazy fast A18 Pro chip. But that\u2019s not all. If you thought cheap Macs were dead, they also dropped a $599 13-inch MacBook 'Neo', also powered by the A18 Pro. Honestly, a $600 MacBook is going to destroy the budget laptop market. For the pros out there, they refreshed the MacBook Pro and Air with the brand new M5, M5 Pro, and M5 Max chips. There's also an M4-equipped iPad Air. It's wild to see Apple dominate both the ultra-high-end with the M-series and aggressively attack the budget space with custom silicon. Are you copping the iPhone 17E or the M5 MacBook? Let's talk about it in the comments!",
     "id": "APPLESPR26",
     "category": "Hardware",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/APPLESPR26.png",
+    "image_prompt": "An ultra\u2011realistic studio shot of a gleaming $599 Apple iPhone 17E, a 13\u2011inch MacBook Neo and an iPad Air (M4), alongside MacBook Pro and Air with M5 chips, on a sleek white marble table, soft backlight, vibrant product shine, tech\u2011confidential vibe."
   },
   {
     "date": "2026-03-17",
-    "source_file": "Tech News Summary – March 17, 2026.docx",
+    "source_file": "Tech News Summary \u2013 March 17, 2026.docx",
     "page": 2,
     "title": "Google Maps Now Uses AI to Build 3D Worlds As You Drive!",
     "summary": "Google Maps introduced two major AI-powered features: 'Ask Maps' for complex, contextual location queries, and 'Immersive View Navigation', which provides 3D, real-time animated turn-by-turn directions. Both features utilize Gemini models to understand context and generate visual guidance, rolling out first in the U.S..",
@@ -93,7 +101,9 @@
     "people": [
       "Amy Chen"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/GMAPSAI26.png",
+    "image_prompt": "Driver in a sleek car interior, windshield displays glowing 3D map with animated arrows slicing through a bustling city, sunlight reflecting off glass, cockpit details, subtle HUD, focus on immersive navigation, AI\u2011generated guidance, modern U.S. urban setting."
   },
   {
     "date": "2026-03-17",
@@ -102,7 +112,7 @@
     "title": "Rival AI Geniuses Unite to Fight the US Military Over Killer Bots!",
     "summary": "Anthropic has filed a lawsuit against the U.S. Department of Defense after the Pentagon labeled the AI company a 'supply-chain risk' for refusing to allow its models to be used in mass surveillance and autonomous weapons. In an unprecedented move, over 30 top AI researchers from rivals Google DeepMind and OpenAI filed an amicus brief defending Anthropic's ethical stance.",
     "engagement": "High",
-    "raw_text": "The AI wars just went from corporate to political, and it is getting spicy! So Anthropic, the makers of Claude, just sued the U.S. Department of Defense. The Pentagon literally labeled Anthropic a 'supply-chain risk' because the company drew a hard red line and refused to let their AI be used for mass surveillance or fully autonomous lethal weapons. The government essentially tried to blacklist them from defense contracts. But here is the insane twist: over 30 top AI engineers from rival labs like OpenAI and Google DeepMind—including DeepMind's Chief Scientist Jeff Dean—crossed corporate lines to file legal support for Anthropic! It's a massive showdown between Silicon Valley's smartest minds and the military-industrial complex. Honestly, this sets a massive precedent. Should private tech companies be allowed to dictate how the military uses their AI? Let me know your take in the comments!",
+    "raw_text": "The AI wars just went from corporate to political, and it is getting spicy! So Anthropic, the makers of Claude, just sued the U.S. Department of Defense. The Pentagon literally labeled Anthropic a 'supply-chain risk' because the company drew a hard red line and refused to let their AI be used for mass surveillance or fully autonomous lethal weapons. The government essentially tried to blacklist them from defense contracts. But here is the insane twist: over 30 top AI engineers from rival labs like OpenAI and Google DeepMind\u2014including DeepMind's Chief Scientist Jeff Dean\u2014crossed corporate lines to file legal support for Anthropic! It's a massive showdown between Silicon Valley's smartest minds and the military-industrial complex. Honestly, this sets a massive precedent. Should private tech companies be allowed to dictate how the military uses their AI? Let me know your take in the comments!",
     "id": "ANTHRODOD26",
     "category": "Politics",
     "companies": [
@@ -114,7 +124,9 @@
     "people": [
       "Jeff Dean"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/ANTHRODOD26.png",
+    "image_prompt": "A realistic, high\u2011resolution photo: AI researchers from Google, DeepMind, OpenAI, and Anthropic sit gravely at a polished mahogany table while somber U.S. military officials in dark suits stand opposite, in a dim, austere courtroom \u2013 an atmosphere of cautious defiance."
   },
   {
     "date": "2026-03-17",
@@ -123,7 +135,7 @@
     "title": "ChatGPT FAILS Spectacularly at High-Level Business Logic!",
     "summary": "A rigorous study by Washington State University tested standard generative AI tools against 719 complex hypotheses from business journals, resulting in a 'D' grade for the models. The research revealed severe deficits in nuanced logical reasoning, with models frequently providing contradictory true-or-false answers to identical questions.",
     "engagement": "Medium",
-    "raw_text": "Okay, if you use ChatGPT to do all your thinking for you, you need to watch this. A brand new, rigorous study out of Washington State University just exposed a massive weakness in generative AI. Researchers threw 719 complex business hypotheses at commercial LLMs, and the AI models scored a pathetic 'D' grade. Yeah, they failed. It turns out that while these AIs are great at sounding incredibly fluent and confident, their actual nuanced logical reasoning is garbage. The models had massive inconsistency issues—they would literally give contradictory true-or-false answers when asked the exact same question twice. This is a huge warning sign for enterprise companies trying to replace human strategy with raw LLMs. The tech is amazing, but blindly trusting it without human oversight is a recipe for disaster. Have you caught your AI making stupid logical errors lately? Sound off in the comments!",
+    "raw_text": "Okay, if you use ChatGPT to do all your thinking for you, you need to watch this. A brand new, rigorous study out of Washington State University just exposed a massive weakness in generative AI. Researchers threw 719 complex business hypotheses at commercial LLMs, and the AI models scored a pathetic 'D' grade. Yeah, they failed. It turns out that while these AIs are great at sounding incredibly fluent and confident, their actual nuanced logical reasoning is garbage. The models had massive inconsistency issues\u2014they would literally give contradictory true-or-false answers when asked the exact same question twice. This is a huge warning sign for enterprise companies trying to replace human strategy with raw LLMs. The tech is amazing, but blindly trusting it without human oversight is a recipe for disaster. Have you caught your AI making stupid logical errors lately? Sound off in the comments!",
     "id": "WSUAIFAIL26",
     "category": "Science",
     "companies": [
@@ -132,7 +144,9 @@
     "people": [
       "Shawn Vestal"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/WSUAIFAIL26.png",
+    "image_prompt": "A high\u2011tech boardroom: a large monitor shows a blinking AI avatar, a weary researcher looks at a failing bar graph, a small robot with furrowed brow moves beside, tense corporate lighting, muted blues, no text."
   },
   {
     "date": "2026-03-17",
@@ -153,7 +167,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/NVDASPACE26.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"The user wants a prompt to generate a realistic, high-quality image suitable for a news website. The prompt should focus on visual elements, mood, key subjects, no text in image. Under 300 characters. Output ONLY the prompt text. So we need to produce a prompt for an image generator. Example: \\\"Astronaut in satellite control room...\\\". Must be under 300 characters.\\n\\nWe should describe an orbital data center, space station with visible Nvidia Vera Rubin space-1 chips, maybe arranged on panels, bright LEDs, Earth backdrop, in high resolution.\\n\\nWe must remain under 300 characters. Let's count: \\\"Vera Rubin Space-1 chips arrayed on a sleek orbital data hub, glowing blue LEDs. A bright Earth view, satellite network panels, analog control knobs, NASA-like desk, soft backlight, futuristic tech vibe, deep space ambiance.\\\" Count characters: Let's count roughly: \\\"Vera Rubin Space-1 chips arrayed on a sleek orbital data hub, glowing blue LEDs. A bright Earth view, satellite network panels, analog control knobs, NASA-like desk, soft backlight, futuristic tech vibe, deep space ambiance.\\\" That's maybe > 200 characters. Let's count properly.\\n\\nWe can produce a shorter prompt: \\\"Orbital data center with Vera Rubin Space-1 chips, glowing blue LEDs, sleek panels, satellite array, Earth horizon, astronauts in suits, futuristic tech, low-light refraction, high detail.\\\" Count characters: let me approximate.\\n\\nBetter to keep within 300 characters. Actually 300 characters is generous. We can show more detail: \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\" Count: \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nCounting characters: Let's count manually:\\n\\n\\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nWe can count quickly:\\n\\n- \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center.\\\" That's 88 characters? Let's count: \\nCharacters: \\nV(1)e(2)r(3)a(4) (5)R(6)u(7)b(8)i(9)n(10) (11)S(12)p(13)a(14)c(15)e(16)-(17)1(18) (19)c(20)h(21)i(22)p(23)s(24) (25)g(26)l(27)o(28)w(29) (30)b(31)l(32)u(33)e(34) (35)o(36)n(37) (38)p(39)a(40)n(41)e(42)l(43)s(44) (45)i(46)n(47)s(48)i(49)d(50)e(51) (52)a(53) (54)s(55)l(56)e(57)k(58) (59)o(60)b(61)i(62)t(63)a(64)l(65) (66)d(67)a(68)t(69)a(70) (71)c(72)e(73)n(74)t(75)e(76)r(77).(78)\\n\\nSo 78 characters first sentence.\\n\\n\\\"Satelellite array, Earth horizon, astronauts in suits glance at monitors.\\\" Let's compute: space counts as 1.\\n\\n\\\" Satellite array, Earth horizon, astronauts in suits glance at monitors.\\\"\\n\\n- space at start: 1\\nCounts: let's count individually:\\n\\n1 space\\n2 S\\n3 a\\n4 t\\n5 e\\n6 l\\n7 l\\n8 i\\n9 t\\n10 e\\n11 space\\n12 a\\n13 r\\n14 r\\n15 a\\n16 y\\n17 , \\n18 space\\n19 E\\n20 a\\n21 r\\n22 t\\n23 h\\n24 space\\n25 h\\n26 i\\n27 r\\n28 o\\n29 z\\n30 o\\n31 n\\n32 ,\\n33 space\\n34 a\\n35 s\\n36 t\\n37 r\\n38 o\\n39 n\\n40 a\\n41 u\\n42 t\\n43 s\\n44 space\\n45 i\\n46 n\\n47 space\\n48 s\\n49 u\\n50 i\\n51 t\\n52 s\\n53 space\\n54 g\\n55 l\\n56 a\\n57 n\\n58 c\\n59 e\\n60 space\\n61 a\\n62 t\\n63 space\\n64 m\\n65 o\\n66 n\\n67 i\\n68 t\\n69 o\\n70 r\\n71 s\\n72 .\\n\\nSo this sentence: 72 characters (including leading space).\\n\\nAdd to previous: 78 + 72 = 150\\n\\nNext: \\\"Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nLet's count: (no leading space if we include with a comma earlier)\\n\\nContinuing:\\n\\n- space before F? We had 150, no trailing space. We need leading space before \\\"Futuristic\\\". Usually we keep a space.\\n\\nLet's count:\\n\\n1 space\\n2 F\\n3 u\\n4 t\\n5 u\\n6 r\\n7 i\\n8 s\\n9 t\\n10 i\\n11 c\\n12 space\\n13 t\\n14 e\\n15 c\\n16 h\\n17 space\\n18 v\\n19 i\\n20 b\\n21 e\\n22 ,\\n23 space\\n24 s\\n25 o\\n26 f\\n27 t\\n28 space\\n29 l\\n30 o\\n31 w\\n32 -\\n33 l\\n34 i\\n35 g\\n36 h\\n37 t\\n38 space\\n39 g\\n40 l\\n41 o\\n42 w\\n43 ,\\n44 space\\n45 h\\n46 i\\n47 g\\n48 h\\n49 space\\n50 d\\n51 e\\n52 t\\n53 a\\n54 i\\n55 l\\n56 ,\\n57 space\\n58 r\\n59 e\\n60 a\\n61 l\\n62 i\\n63 s\\n64 t\\n65 i\\n66 c\\n67 a\\n68 l\\n69 ,\\n70 space\\n71 n\\n72 e\\n73 w\\n74 s\\n75 space\\n76 m\\n77 a\\n78 g\\n79 a\\n80 z\\n81 i\\n82 n\\n83 e\\n84 space\\n85 s\\n86 t\\n87 y\\n88 l\\n89 e\\n90 .\\n\\n90 characters.\\n\\nAdd to total: 150 + 90 = 240.\\n\\nWe have 240 characters. Under 300. Good.\\n\\nAlternatively we can shorten; it's fine.\\n\\nWe just need to output only the prompt text, no other commentary.\\n\\nMake sure there is no text inside the image (like no words). The prompt can mention moons etc; but the prompt is for image generation, no text in the image means avoid OCR prompts like \\\"text\\\". So we\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-03-17",
@@ -162,7 +178,7 @@
     "title": "This AI Smart Ring VIBRATES Before You Get Sick!",
     "summary": "VITA Technology has launched the VITA RING on Kickstarter, billing it as a proactive health wearable that uses AI and haptics to intervene in real-time. Unlike traditional trackers that passively log data, the VITA RING uses an ultra-low-power motor to provide instant physical alerts when biometric deviations are detected.",
     "engagement": "Medium",
-    "raw_text": "Forget your Apple Watch; the next generation of wearables just dropped on Kickstarter, and it actually talks back to your body! So VITA Technology just launched the VITA RING, and it's being called the 'second phase' of smart rings. Here’s why it’s completely different: standard wearables just passively track your data and leave you to figure it out on a dashboard. The VITA RING is fully proactive. It has a built-in AI Health Agent combined with an ultra-low-power vibration motor. If the AI detects a biometric deviation—like your heart rate spiking or your sleep cycles crashing—it delivers an instantaneous haptic alert right to your finger. It’s designed for real-time preventative care, not just looking back at your stats the next morning. Honestly, I love the idea of my tech warning me before I get sick. Would you wear a smart ring that physically buzzes you to fix your health? Let me know!",
+    "raw_text": "Forget your Apple Watch; the next generation of wearables just dropped on Kickstarter, and it actually talks back to your body! So VITA Technology just launched the VITA RING, and it's being called the 'second phase' of smart rings. Here\u2019s why it\u2019s completely different: standard wearables just passively track your data and leave you to figure it out on a dashboard. The VITA RING is fully proactive. It has a built-in AI Health Agent combined with an ultra-low-power vibration motor. If the AI detects a biometric deviation\u2014like your heart rate spiking or your sleep cycles crashing\u2014it delivers an instantaneous haptic alert right to your finger. It\u2019s designed for real-time preventative care, not just looking back at your stats the next morning. Honestly, I love the idea of my tech warning me before I get sick. Would you wear a smart ring that physically buzzes you to fix your health? Let me know!",
     "id": "VITARING26",
     "category": "Hardware",
     "companies": [
@@ -170,7 +186,9 @@
       "Plentisoft"
     ],
     "people": [],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/VITARING26.png",
+    "image_prompt": "Close\u2011up of a wrist wearing the sleek VITA RING, a subtle teal glow pulsing as a low\u2011power motor vibrates; a muted city background, soft focus on healthy skin, faint holographic lines of heart rate mapping arching around the finger, all in realistic, high\u2011resolution."
   },
   {
     "date": "2026-03-17",
@@ -179,7 +197,7 @@
     "title": "NYU Researchers Fixed AI Hallucinations By Copying BIRDS?!",
     "summary": "Researchers at New York University's Courant Institute have developed a bio-inspired algorithmic framework modeled after bird flocking behavior to drastically reduce LLM hallucinations during large text summarization. The architecture uses localized AI sub-agents that process text segments independently and then align findings, proving that structural innovation is required beyond simply increasing model parameter sizes.",
     "engagement": "Medium",
-    "raw_text": "You know how AI language models sometimes just straight-up lie when reading long documents? Well, researchers at NYU just figured out how to fix it by looking at... birds? Seriously! When current LLMs read massive, noisy texts, their context degrades and they start hallucinating facts. So, NYU researchers Binxu Huang and Anasse Bari created a brand new AI framework inspired by biological self-organization—specifically, bird flocks. Instead of one massive AI trying to read everything, they built localized AI 'sub-agents' that act like individual birds. They process small chunks of text independently and then communicate with neighboring agents to align their findings into one perfectly coherent global summary. This bio-inspired method stops the AI from aggressively deleting crucial peripheral facts. It proves we don't just need bigger models; we need smarter, biologically-inspired algorithms. What do you guys think—are we getting closer to actual artificial general intelligence by copying nature? Tell me in the comments!",
+    "raw_text": "You know how AI language models sometimes just straight-up lie when reading long documents? Well, researchers at NYU just figured out how to fix it by looking at... birds? Seriously! When current LLMs read massive, noisy texts, their context degrades and they start hallucinating facts. So, NYU researchers Binxu Huang and Anasse Bari created a brand new AI framework inspired by biological self-organization\u2014specifically, bird flocks. Instead of one massive AI trying to read everything, they built localized AI 'sub-agents' that act like individual birds. They process small chunks of text independently and then communicate with neighboring agents to align their findings into one perfectly coherent global summary. This bio-inspired method stops the AI from aggressively deleting crucial peripheral facts. It proves we don't just need bigger models; we need smarter, biologically-inspired algorithms. What do you guys think\u2014are we getting closer to actual artificial general intelligence by copying nature? Tell me in the comments!",
     "id": "NYUBIRD26",
     "category": "Research",
     "companies": [
@@ -189,6 +207,8 @@
       "Binxu Huang",
       "Anasse Bari"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/NYUBIRD26.png",
+    "image_prompt": "A realistic interior of NYU Lab, young researchers in white coats watching a large projection screen of color\u2011coded feathers swarming in complex patterns, representing AI sub\u2011agents aligning, soft lighting, crisp tech ambience, birds visible outside window."
   }
 ]

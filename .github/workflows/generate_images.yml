@@ -30,6 +30,7 @@ jobs:
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python scripts/process_dataset.py
 
       - name: Commit and push changes
