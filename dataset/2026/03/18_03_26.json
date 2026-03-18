@@ -124,7 +124,9 @@
     "people": [
       "Jeff Dean"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/ANTHRODOD26.png",
+    "image_prompt": "A realistic, high\u2011resolution photo: AI researchers from Google, DeepMind, OpenAI, and Anthropic sit gravely at a polished mahogany table while somber U.S. military officials in dark suits stand opposite, in a dim, austere courtroom \u2013 an atmosphere of cautious defiance."
   },
   {
     "date": "2026-03-17",
@@ -142,7 +144,9 @@
     "people": [
       "Shawn Vestal"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/WSUAIFAIL26.png",
+    "image_prompt": "A high\u2011tech boardroom: a large monitor shows a blinking AI avatar, a weary researcher looks at a failing bar graph, a small robot with furrowed brow moves beside, tense corporate lighting, muted blues, no text."
   },
   {
     "date": "2026-03-17",
@@ -163,7 +167,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/NVDASPACE26.png",
+    "image_prompt": "{\"role\":\"assistant\",\"reasoning_content\":\"The user wants a prompt to generate a realistic, high-quality image suitable for a news website. The prompt should focus on visual elements, mood, key subjects, no text in image. Under 300 characters. Output ONLY the prompt text. So we need to produce a prompt for an image generator. Example: \\\"Astronaut in satellite control room...\\\". Must be under 300 characters.\\n\\nWe should describe an orbital data center, space station with visible Nvidia Vera Rubin space-1 chips, maybe arranged on panels, bright LEDs, Earth backdrop, in high resolution.\\n\\nWe must remain under 300 characters. Let's count: \\\"Vera Rubin Space-1 chips arrayed on a sleek orbital data hub, glowing blue LEDs. A bright Earth view, satellite network panels, analog control knobs, NASA-like desk, soft backlight, futuristic tech vibe, deep space ambiance.\\\" Count characters: Let's count roughly: \\\"Vera Rubin Space-1 chips arrayed on a sleek orbital data hub, glowing blue LEDs. A bright Earth view, satellite network panels, analog control knobs, NASA-like desk, soft backlight, futuristic tech vibe, deep space ambiance.\\\" That's maybe > 200 characters. Let's count properly.\\n\\nWe can produce a shorter prompt: \\\"Orbital data center with Vera Rubin Space-1 chips, glowing blue LEDs, sleek panels, satellite array, Earth horizon, astronauts in suits, futuristic tech, low-light refraction, high detail.\\\" Count characters: let me approximate.\\n\\nBetter to keep within 300 characters. Actually 300 characters is generous. We can show more detail: \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\" Count: \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nCounting characters: Let's count manually:\\n\\n\\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center. Satellite array, Earth horizon, astronauts in suits glance at monitors. Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nWe can count quickly:\\n\\n- \\\"Vera Rubin Space-1 chips glow blue on panels inside a sleek orbital data center.\\\" That's 88 characters? Let's count: \\nCharacters: \\nV(1)e(2)r(3)a(4) (5)R(6)u(7)b(8)i(9)n(10) (11)S(12)p(13)a(14)c(15)e(16)-(17)1(18) (19)c(20)h(21)i(22)p(23)s(24) (25)g(26)l(27)o(28)w(29) (30)b(31)l(32)u(33)e(34) (35)o(36)n(37) (38)p(39)a(40)n(41)e(42)l(43)s(44) (45)i(46)n(47)s(48)i(49)d(50)e(51) (52)a(53) (54)s(55)l(56)e(57)k(58) (59)o(60)b(61)i(62)t(63)a(64)l(65) (66)d(67)a(68)t(69)a(70) (71)c(72)e(73)n(74)t(75)e(76)r(77).(78)\\n\\nSo 78 characters first sentence.\\n\\n\\\"Satelellite array, Earth horizon, astronauts in suits glance at monitors.\\\" Let's compute: space counts as 1.\\n\\n\\\" Satellite array, Earth horizon, astronauts in suits glance at monitors.\\\"\\n\\n- space at start: 1\\nCounts: let's count individually:\\n\\n1 space\\n2 S\\n3 a\\n4 t\\n5 e\\n6 l\\n7 l\\n8 i\\n9 t\\n10 e\\n11 space\\n12 a\\n13 r\\n14 r\\n15 a\\n16 y\\n17 , \\n18 space\\n19 E\\n20 a\\n21 r\\n22 t\\n23 h\\n24 space\\n25 h\\n26 i\\n27 r\\n28 o\\n29 z\\n30 o\\n31 n\\n32 ,\\n33 space\\n34 a\\n35 s\\n36 t\\n37 r\\n38 o\\n39 n\\n40 a\\n41 u\\n42 t\\n43 s\\n44 space\\n45 i\\n46 n\\n47 space\\n48 s\\n49 u\\n50 i\\n51 t\\n52 s\\n53 space\\n54 g\\n55 l\\n56 a\\n57 n\\n58 c\\n59 e\\n60 space\\n61 a\\n62 t\\n63 space\\n64 m\\n65 o\\n66 n\\n67 i\\n68 t\\n69 o\\n70 r\\n71 s\\n72 .\\n\\nSo this sentence: 72 characters (including leading space).\\n\\nAdd to previous: 78 + 72 = 150\\n\\nNext: \\\"Futuristic tech vibe, soft low-light glow, high detail, realistic, news magazine style.\\\"\\n\\nLet's count: (no leading space if we include with a comma earlier)\\n\\nContinuing:\\n\\n- space before F? We had 150, no trailing space. We need leading space before \\\"Futuristic\\\". Usually we keep a space.\\n\\nLet's count:\\n\\n1 space\\n2 F\\n3 u\\n4 t\\n5 u\\n6 r\\n7 i\\n8 s\\n9 t\\n10 i\\n11 c\\n12 space\\n13 t\\n14 e\\n15 c\\n16 h\\n17 space\\n18 v\\n19 i\\n20 b\\n21 e\\n22 ,\\n23 space\\n24 s\\n25 o\\n26 f\\n27 t\\n28 space\\n29 l\\n30 o\\n31 w\\n32 -\\n33 l\\n34 i\\n35 g\\n36 h\\n37 t\\n38 space\\n39 g\\n40 l\\n41 o\\n42 w\\n43 ,\\n44 space\\n45 h\\n46 i\\n47 g\\n48 h\\n49 space\\n50 d\\n51 e\\n52 t\\n53 a\\n54 i\\n55 l\\n56 ,\\n57 space\\n58 r\\n59 e\\n60 a\\n61 l\\n62 i\\n63 s\\n64 t\\n65 i\\n66 c\\n67 a\\n68 l\\n69 ,\\n70 space\\n71 n\\n72 e\\n73 w\\n74 s\\n75 space\\n76 m\\n77 a\\n78 g\\n79 a\\n80 z\\n81 i\\n82 n\\n83 e\\n84 space\\n85 s\\n86 t\\n87 y\\n88 l\\n89 e\\n90 .\\n\\n90 characters.\\n\\nAdd to total: 150 + 90 = 240.\\n\\nWe have 240 characters. Under 300. Good.\\n\\nAlternatively we can shorten; it's fine.\\n\\nWe just need to output only the prompt text, no other commentary.\\n\\nMake sure there is no text inside the image (like no words). The prompt can mention moons etc; but the prompt is for image generation, no text in the image means avoid OCR prompts like \\\"text\\\". So we\",\"tool_calls\":[]}"
   },
   {
     "date": "2026-03-17",
@@ -180,7 +186,9 @@
       "Plentisoft"
     ],
     "people": [],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/VITARING26.png",
+    "image_prompt": "Close\u2011up of a wrist wearing the sleek VITA RING, a subtle teal glow pulsing as a low\u2011power motor vibrates; a muted city background, soft focus on healthy skin, faint holographic lines of heart rate mapping arching around the finger, all in realistic, high\u2011resolution."
   },
   {
     "date": "2026-03-17",
@@ -199,6 +207,8 @@
       "Binxu Huang",
       "Anasse Bari"
     ],
-    "created_at": "2026-03-17T22:54:33Z"
+    "created_at": "2026-03-17T22:54:33Z",
+    "image_url": "images/18_03_26/NYUBIRD26.png",
+    "image_prompt": "A realistic interior of NYU Lab, young researchers in white coats watching a large projection screen of color\u2011coded feathers swarming in complex patterns, representing AI sub\u2011agents aligning, soft lighting, crisp tech ambience, birds visible outside window."
   }
 ]
