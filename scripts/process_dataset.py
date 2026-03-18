@@ -224,20 +224,26 @@ def generate_image_prompt(title, summary):
 from dotenv import load_dotenv
 
 # Load environment variables
-# Try to find .env file explicitly
-current_dir = os.path.dirname(os.path.abspath(__file__))
-# Check current dir
-env_path = os.path.join(current_dir, '.env')
-if not os.path.exists(env_path):
+# Load environment variables
+def setup_environment():
+    """Sets up environment variables, handling local .env and CI."""
+    if os.getenv("GITHUB_ACTIONS"):
+        # In CI, secrets are passed via environment variables, not .env file
+        return
+        
+    current_dir = os.path.dirname(os.path.abspath(__file__))
     # Check parent dir (project root)
     env_path = os.path.join(os.path.dirname(current_dir), '.env')
+    
+    if os.path.exists(env_path):
+        load_dotenv(env_path)
+        print(f"Loaded .env from: {env_path}")
+    else:
+        load_dotenv() # Fallback to default search
+        if not any(os.getenv(k) for k in ["HF_TOKEN", "POLLINATIONS_API_KEY", "GOOGLE_API_KEY"]):
+             print("Warning: No API keys found in environment or .env file.")
 
-if os.path.exists(env_path):
-    load_dotenv(env_path)
-    print(f"Loaded .env from: {env_path}")
-else:
-    load_dotenv() # Fallback to default search
-    print("Warning: Could not enable explicit .env path, using default search.")
+setup_environment()
 
 def generate_image_hf(prompt):
     """Generates an image using Hugging Face Inference API."""
