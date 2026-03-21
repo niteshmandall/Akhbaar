@@ -170,8 +170,55 @@ def clean_citations(dataset_dir):
 
 # --- Image Generation Functions ---
 
+def generate_image_prompt_hf(title, summary):
+    """Generates a detailed image prompt using Hugging Face (stable)."""
+    hf_token = os.getenv("HF_TOKEN")
+    if not hf_token:
+        return None
+        
+    prompt = f"""
+    Create a detailed and vivid image generation prompt for a news article.
+    
+    Title: {title}
+    Summary: {summary}
+    
+    The prompt should describe a realistic, high-quality image suitable for a news website. 
+    Focus on the visual elements, mood, and key subjects. 
+    Do not include text in the image.
+    Keep the prompt UNDER 300 CHARACTERS.
+    Output ONLY the prompt text.
+    """
+    
+    try:
+        client = InferenceClient(api_key=hf_token)
+        messages = [
+            {"role": "system", "content": "You are a helpful assistant that generates detailed image generation prompts. Output ONLY the prompt text and nothing else."},
+            {"role": "user", "content": prompt}
+        ]
+        # Using a reliable and stable model for chat completion
+        response = client.chat_completion(
+            model="Qwen/Qwen2.5-72B-Instruct",
+            messages=messages,
+            max_tokens=150,
+            temperature=0.7
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"  Hugging Face prompt gen error: {e}")
+    return None
+
 def generate_image_prompt(title, summary):
-    """Generates a detailed image prompt using Pollinations AI (Text)."""
+    """Generates a detailed image prompt using Hybrid strategy (HF primary, Pollinations fallback)."""
+    
+    # 1. Try Hugging Face (Primary - Most Stable)
+    print("  Attempting Hugging Face prompt generation...")
+    image_prompt = generate_image_prompt_hf(title, summary)
+    if image_prompt:
+        return image_prompt
+    
+    print("  Hugging Face prompt gen failed. Falling back to Pollinations...")
+    
+    # Existing Pollinations logic (Fallback)
     prompt = f"""
     Create a detailed and vivid image generation prompt for a news article.
     
