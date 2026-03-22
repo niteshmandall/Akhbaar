@@ -1,186 +1,200 @@
 [
-    {
-        "date": "2026-03-22",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Apple Drops the $599 MacBook Neo and New M5 Chips",
-        "summary": "Apple announced the $599 MacBook Neo, powered by the A18 Pro chip, to aggressively expand its consumer AI hardware footprint. The company also updated its MacBook Air and Pro lines with M5 processors and teased the upcoming iPhone 17e.",
-        "engagement": "High",
-        "raw_text": "So check this out, guys, Apple just dropped a massive bombshell that completely changes the laptop game. They just announced the MacBook Neo, and honestly, this is huge—it starts at just $599! I know, right? An Apple laptop for under 600 bucks. They are using the A18 Pro chip from the iPhone 16 Pro, and it comes in these crazy vibrant colors like blush and citrus. But here's the wild part: to hit this price, they ditched the notch, capped the webcam at 1080p, and made Touch ID an optional upgrade. They are doing this to get their 'Apple Intelligence' into as many hands as possible. We're also seeing an M5 refresh for the MacBook Air and Pro, plus talk of an entry-level iPhone 17e. I'm telling you, if you've been holding off on buying a Mac, this might be the moment to jump in. Drop a comment below—are you copping the Neo?",
-        "id": "A1B2C3D4E5",
-        "category": "Hardware",
-        "companies": [
-            "Apple"
-        ],
-        "people": [],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-16",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Nvidia's $1 Trillion Roadmap: Data Centers in Space",
-        "summary": "At GTC 2026, Nvidia unveiled its Vera Rubin and Feynman computing architectures, alongside the Vera CPU, projecting $1 trillion in AI infrastructure revenue by 2027. Plans also include launching space-based AI data centers by November 2026.",
-        "engagement": "High",
-        "raw_text": "Alright guys, listen up, because what Nvidia just revealed at GTC 2026 is straight out of a sci-fi movie. Jensen Huang basically just flexed on the entire tech industry, projecting a casual one trillion dollars in AI revenue by 2027. Here is the wild part: they announced the Vera Rubin platform and the brand new Vera CPU, which is purpose-built just for agentic AI. We are talking about liquid-cooled racks pushing insane inference speeds. But it doesn't stop there. Nvidia is actually launching data centers into space with their Vera Rubin Space One module by November 2026. Literally, AI data centers in low Earth orbit! And if that wasn't enough, they had over a hundred fully operational robots on the show floor to prove that physical AI is here right now. Honestly, the scale of this is mind-blowing. Are we ready for space-based supercomputers and generalist robots? Let me know what you think!",
-        "id": "F6G7H8I9J0",
-        "category": "Hardware",
-        "companies": [
-            "Nvidia",
-            "AWS",
-            "Starcloud"
-        ],
-        "people": [
-            "Jensen Huang"
-        ],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-22",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Amazon Secretly Building an AI Smartphone",
-        "summary": "Amazon is reportedly engineering a new AI-driven mobile handset to bypass the Apple and Google duopoly and secure the rich multimodal data required for agentic AI. This marks a strategic return to endpoint hardware over a decade after the Fire Phone failure.",
-        "engagement": "High",
-        "raw_text": "So check this out, Amazon is secretly building a brand new AI-powered smartphone, and this could change everything. I know what you're thinking—remember the Fire Phone disaster from a decade ago? Well, here's the wild part: they literally have no choice but to try again. Right now, Amazon's entire AI and cloud empire is held hostage by the Apple iOS and Google Android duopoly. Those two act like a massive tollbooth for AI deployment. To train personal AI agents, you need real-time location, ambient audio, and visual data, which means you need to own the actual endpoint hardware. By building their own device, Amazon wants a frictionless portal straight into their ecosystem. Honestly, this is a massive gamble, but it makes total strategic sense. If they pull this off, it could finally break the iOS and Android stronghold. Would you actually buy an Amazon AI phone? Drop your thoughts below!",
-        "id": "K1L2M3N4O5",
-        "category": "Mobile",
-        "companies": [
-            "Amazon",
-            "Apple",
-            "Google"
-        ],
-        "people": [],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-20",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "OpenAI Acquires Astral, Launches Cost-Killing GPT-5.4 Nano",
-        "summary": "OpenAI has acquired open-source tooling company Astral to dominate developer workflows while launching GPT-5.4 Mini and Nano, focusing on low-latency, high-volume agentic workloads. The company is also vastly expanding its London research hub.",
-        "engagement": "High",
-        "raw_text": "Guys, OpenAI is making some massive moves that every developer needs to know about right now. First up, they just officially acquired Astral, the genius team behind open-source Python tools like uv and Ruff. By pulling this elite engineering talent in-house, they are basically trying to monopolize the entire modern software development lifecycle. But here is the crazy part—they also just dropped GPT-5.4 Mini and Nano. Instead of making massive, power-hungry models, these are hyper-optimized for high-volume, automated workflows. The Nano version is literally designed to be the absolute lowest-cost option for basic, repetitive tasks, commoditizing basic cognitive processing. Plus, they are expanding hard into London, aiming to double their workforce to 8,000 employees by the end of 2026. Honestly, OpenAI is not just building AI anymore; they are building the inescapable foundational layer of the internet. Are you using GPT-5.4 yet? Let me know!",
-        "id": "P6Q7R8S9T0",
-        "category": "AI",
-        "companies": [
-            "OpenAI",
-            "Astral",
-            "Eightco Holdings Inc."
-        ],
-        "people": [],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-14",
-        "source_file": "Tech & AI News – March 22, 2026.pdf",
-        "page": 2,
-        "title": "Tesla Shock: Elon Musk Announces 'Terafab' AI Chip Plant",
-        "summary": "Elon Musk has announced Tesla's immediate plans to build 'Terafab,' a gigawatt-scale AI chip fabrication facility designed for on-site production of next-generation self-driving hardware. This strategic move aims to deeply vertically integrate Tesla's supply chain.",
-        "engagement": "High",
-        "raw_text": "Alright, you guys are not going to believe what Elon Musk just dropped at the Tesla 2026 annual meeting. We all know Tesla makes cars, but Musk just announced they are building a massive gigawatt-scale AI chip factory called 'Terafab'. Here is the wild part: he said this mega project is launching in literally seven days. They are going to start fabricating their own next-generation self-driving AI chips right on site. Tesla is vertically integrating their entire hardware stack to complement their Dojo supercomputers, and there are even rumors they might partner with Intel. Honestly, if Tesla pulls this off, they won't just be an automaker or a robotics company; they will become a powerhouse chip manufacturer competing with the biggest names in the game. This could completely disrupt the global AI supply chain. Do you think Tesla can actually pull off their own chip fab? Hit the comments and let me know!",
-        "id": "U1V2W3X4Y5",
-        "category": "Hardware",
-        "companies": [
-            "Tesla",
-            "Intel"
-        ],
-        "people": [
-            "Elon Musk"
-        ],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-21",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Historic Layoffs: Meta, Oracle, and Alibaba Gut Workforces",
-        "summary": "Over 45,000 tech jobs have been eliminated in Q1 2026 as Meta, Oracle, and Alibaba aggressively execute mass layoffs to finance multi-billion dollar AI infrastructure expansions. Companies are replacing human customer service operations directly with AI agents to cut costs.",
-        "engagement": "Low",
-        "raw_text": "This is some seriously tough news for the tech industry, guys. We are seeing a historic wave of mass layoffs in Q1 2026, with over 45,000 jobs already slashed. Meta is reportedly cutting a staggering 20% of its workforce—that is 16,000 people—just to fund their $600 billion AI data center expansion. Oracle is slashing up to 20,000 roles to handle the insane cash crunch from their own infrastructure buildout. And over in China, Alibaba has dumped 34% of its employees over the last year, replacing half their Taobao customer service team with automated AI. Here is the painful reality: these companies are aggressively shedding highly paid middle-management and operational jobs so they can afford specialized silicon and raw power grids. It is a brutal transition where capital meant for human salaries is literally being traded for server hardware. How is your sector handling this shift? Stay safe out there, and let's talk about it in the comments.",
-        "id": "Z6A7B8C9D0",
-        "category": "Business",
-        "companies": [
-            "Meta",
-            "Oracle",
-            "Alibaba",
-            "Autodesk",
-            "Salesforce"
-        ],
-        "people": [
-            "Eddie Wu"
-        ],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-20",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Google DeepMind Finally Defines AGI with 10-Trait Framework",
-        "summary": "Google DeepMind has introduced an empirical, 10-trait cognitive framework to measure progress toward Artificial General Intelligence, combatting industry hyperbole. DeepMind is hosting a $200,000 Kaggle hackathon to crowdsource AGI evaluation metrics.",
-        "engagement": "Medium",
-        "raw_text": "So check this out, the hype around AGI has been out of control, but Google DeepMind is finally stepping in to set the record straight. They just dropped a comprehensive 10-trait cognitive framework to actually measure how close an AI is to Artificial General Intelligence. Instead of relying on qualitative marketing fluff, they are testing models on perception, metacognition, and even social cognition. But here is the wild part: DeepMind is hosting a $200,000 global hackathon right now to crowdsource the best evaluation tools for this framework. They are even testing demographically representative human adults to establish real-world cognitive baselines for comparison. Honestly, this is a huge turning point. We are finally moving away from random CEOs claiming they've built AGI on Twitter, and moving toward rigorous, empirical science. Do you think we are actually close to hitting all 10 traits? Drop a comment below!",
-        "id": "E1F2G3H4I5",
-        "category": "AI",
-        "companies": [
-            "Google DeepMind"
-        ],
-        "people": [
-            "Edd Gent"
-        ],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-05",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Anthropic Report: AI is Replacing Senior White-Collar Workers",
-        "summary": "Anthropic's newly published 'Observed Exposure' metric reveals that highly educated, senior-level professionals are facing the highest rates of AI job displacement. This super-augmentation of senior staff has resulted in a 14% drop in entry-level hiring for Gen Z demographics.",
-        "engagement": "Medium",
-        "raw_text": "Listen up guys, the conversation about AI taking our jobs just got incredibly real, and the data is honestly mind-blowing. Anthropic just released a massive economic analysis introducing the 'Observed Exposure' metric, tracking what AI is actually doing in live enterprise environments right now. Here is the wild part: the workers most exposed to complete AI replacement aren't doing manual labor; they are statistically older, highly educated, and higher-paid professionals. If you have a graduate degree, you are four times more likely to fall into the highest exposure category! We are talking about massive automation in coding and data entry. The craziest finding? This is completely bottlenecking entry-level hiring, dropping the job-finding rate for 22 to 25-year-olds by 14%. Companies are just supercharging their senior staff with AI instead of hiring juniors. Are you feeling this shift in your industry yet? Let me know down in the comments.",
-        "id": "J6K7L8M9N0",
-        "category": "Business",
-        "companies": [
-            "Anthropic"
-        ],
-        "people": [],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-22",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Google Forced to Throttle AI Due to Grid Blackout Risks",
-        "summary": "Google has executed emergency 'demand response' contracts to make 1 gigawatt of data center electricity available for grid reduction during peak demand periods. The thermodynamic load of AI data centers is actively threatening regional grid stability in the US.",
-        "engagement": "Medium",
-        "raw_text": "Alright, here is a story that proves AI is literally taking over the physical world. Google has just been forced to sign unprecedented power agreements because their AI data centers are pulling so much energy they could destabilize the electrical grid. The biggest bottleneck in AI right now isn't code or microchips; it is raw thermodynamic power. Here is the wild part: under these new 'demand response' deals in Arkansas and Minnesota, Google has to legally offer up a massive 1 gigawatt of power back to the grid during peak times. If there is a summer heatwave, Google literally has to throttle its AI training to prevent catastrophic rolling blackouts. Honestly, tech giants aren't just software companies anymore; their energy footprint is so massive they are basically acting like macro-level grid balancers and pseudo-utilities. It is insane to think that ChatGPT or Gemini could be competing with your air conditioner for electricity. What do you guys think?",
-        "id": "O1P2Q3R4S5",
-        "category": "Business",
-        "companies": [
-            "Google",
-            "Entergy Arkansas",
-            "Minnesota Power",
-            "DTE Energy"
-        ],
-        "people": [],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    },
-    {
-        "date": "2026-03-20",
-        "source_file": "Tech News Aggregator Report Request (13).docx",
-        "page": 1,
-        "title": "Microsoft Sounds Alarm on Agentic AI Hacks with Agent 365",
-        "summary": "Microsoft launched Microsoft Agent 365 at RSAC 2026 to govern the massive security risks associated with autonomous AI deployment. The company is actively integrating autonomous defensive agents into Security Operations Centers to fight hyper-speed, AI-driven cyber threats.",
-        "engagement": "Low",
-        "raw_text": "So check this out, as AI agents get smarter and start acting autonomously, traditional cybersecurity is basically becoming useless, and Microsoft is sounding the alarm. At RSAC 2026, Microsoft dropped a massive end-to-end security framework called Microsoft Agent 365, designed specifically to lock down these wild AI agents. Here is the wild part: hackers are now using AI for hyper-speed attacks, so Microsoft's solution is literally fighting fire with fire. They are deploying their own autonomous defensive agents—like the Security Analyst Agent and the Triage Agent—to hunt down threats at machine speed and prevent AI from accidentally leaking your most sensitive corporate data. Honestly, the industry has realized that the only mathematically viable defense against rogue AI is to build a highly aggressive, deeply integrated AI security force. We are literally entering an era of AI-versus-AI cyber warfare! Is your company ready for this? Let me know your thoughts!",
-        "id": "T6U7V8W9X0",
-        "category": "Software",
-        "companies": [
-            "Microsoft"
-        ],
-        "people": [
-            "Vasu Jakkal"
-        ],
-        "created_at": "2026-03-22T10:41:50+05:30"
-    }
+  {
+    "date": "2026-03-22",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Apple Drops the $599 MacBook Neo and New M5 Chips",
+    "summary": "Apple announced the $599 MacBook Neo, powered by the A18 Pro chip, to aggressively expand its consumer AI hardware footprint. The company also updated its MacBook Air and Pro lines with M5 processors and teased the upcoming iPhone 17e.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys, Apple just dropped a massive bombshell that completely changes the laptop game. They just announced the MacBook Neo, and honestly, this is huge\u2014it starts at just $599! I know, right? An Apple laptop for under 600 bucks. They are using the A18 Pro chip from the iPhone 16 Pro, and it comes in these crazy vibrant colors like blush and citrus. But here's the wild part: to hit this price, they ditched the notch, capped the webcam at 1080p, and made Touch ID an optional upgrade. They are doing this to get their 'Apple Intelligence' into as many hands as possible. We're also seeing an M5 refresh for the MacBook Air and Pro, plus talk of an entry-level iPhone 17e. I'm telling you, if you've been holding off on buying a Mac, this might be the moment to jump in. Drop a comment below\u2014are you copping the Neo?",
+    "id": "64bae98c",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/64bae98c.png",
+    "image_prompt": "A sleek, silver MacBook Neo on a minimalist desk with soft shadows, surrounded by a blurred office environment. The screen displays vibrant, dynamic AI graphics. Bright, natural light filters in from the left, casting a gentle glow on the new device. A stylus and smartwatch rest subtly beside it, hinting at the ecosystem."
+  },
+  {
+    "date": "2026-03-16",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Nvidia's $1 Trillion Roadmap: Data Centers in Space",
+    "summary": "At GTC 2026, Nvidia unveiled its Vera Rubin and Feynman computing architectures, alongside the Vera CPU, projecting $1 trillion in AI infrastructure revenue by 2027. Plans also include launching space-based AI data centers by November 2026.",
+    "engagement": "High",
+    "raw_text": "Alright guys, listen up, because what Nvidia just revealed at GTC 2026 is straight out of a sci-fi movie. Jensen Huang basically just flexed on the entire tech industry, projecting a casual one trillion dollars in AI revenue by 2027. Here is the wild part: they announced the Vera Rubin platform and the brand new Vera CPU, which is purpose-built just for agentic AI. We are talking about liquid-cooled racks pushing insane inference speeds. But it doesn't stop there. Nvidia is actually launching data centers into space with their Vera Rubin Space One module by November 2026. Literally, AI data centers in low Earth orbit! And if that wasn't enough, they had over a hundred fully operational robots on the show floor to prove that physical AI is here right now. Honestly, the scale of this is mind-blowing. Are we ready for space-based supercomputers and generalist robots? Let me know what you think!",
+    "id": "0fd3c304",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "AWS",
+      "Starcloud"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/0fd3c304.png",
+    "image_prompt": "A futuristic space station with sprawling solar panels, orbiting Earth. Inside, advanced AI servers glow with blue lights, reflecting the planet below. Astronauts and robotic arms work on the station's exterior. The background shows the vast, star-filled universe, emphasizing the cutting-edge technology and ambitious scale of the project."
+  },
+  {
+    "date": "2026-03-22",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Amazon Secretly Building an AI Smartphone",
+    "summary": "Amazon is reportedly engineering a new AI-driven mobile handset to bypass the Apple and Google duopoly and secure the rich multimodal data required for agentic AI. This marks a strategic return to endpoint hardware over a decade after the Fire Phone failure.",
+    "engagement": "High",
+    "raw_text": "So check this out, Amazon is secretly building a brand new AI-powered smartphone, and this could change everything. I know what you're thinking\u2014remember the Fire Phone disaster from a decade ago? Well, here's the wild part: they literally have no choice but to try again. Right now, Amazon's entire AI and cloud empire is held hostage by the Apple iOS and Google Android duopoly. Those two act like a massive tollbooth for AI deployment. To train personal AI agents, you need real-time location, ambient audio, and visual data, which means you need to own the actual endpoint hardware. By building their own device, Amazon wants a frictionless portal straight into their ecosystem. Honestly, this is a massive gamble, but it makes total strategic sense. If they pull this off, it could finally break the iOS and Android stronghold. Would you actually buy an Amazon AI phone? Drop your thoughts below!",
+    "id": "3b3357b5",
+    "category": "Mobile",
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-03-22T10:41:50+05:30"
+  },
+  {
+    "date": "2026-03-20",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "OpenAI Acquires Astral, Launches Cost-Killing GPT-5.4 Nano",
+    "summary": "OpenAI has acquired open-source tooling company Astral to dominate developer workflows while launching GPT-5.4 Mini and Nano, focusing on low-latency, high-volume agentic workloads. The company is also vastly expanding its London research hub.",
+    "engagement": "High",
+    "raw_text": "Guys, OpenAI is making some massive moves that every developer needs to know about right now. First up, they just officially acquired Astral, the genius team behind open-source Python tools like uv and Ruff. By pulling this elite engineering talent in-house, they are basically trying to monopolize the entire modern software development lifecycle. But here is the crazy part\u2014they also just dropped GPT-5.4 Mini and Nano. Instead of making massive, power-hungry models, these are hyper-optimized for high-volume, automated workflows. The Nano version is literally designed to be the absolute lowest-cost option for basic, repetitive tasks, commoditizing basic cognitive processing. Plus, they are expanding hard into London, aiming to double their workforce to 8,000 employees by the end of 2026. Honestly, OpenAI is not just building AI anymore; they are building the inescapable foundational layer of the internet. Are you using GPT-5.4 yet? Let me know!",
+    "id": "af10b98d",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Astral",
+      "Eightco Holdings Inc."
+    ],
+    "people": [],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/af10b98d.png",
+    "image_prompt": "A modern office space with sleek, futuristic design. Large windows overlook a bustling city skyline at dusk. In the foreground, a diverse team of developers and researchers collaborate around a large, interactive display showing code and data flows. A logo combining OpenAI and Astral is prominently displayed on the wall. The atmosphere is energetic and innovative, with a hint of excitement and forward momentum."
+  },
+  {
+    "date": "2026-03-14",
+    "source_file": "Tech & AI News \u2013 March 22, 2026.pdf",
+    "page": 2,
+    "title": "Tesla Shock: Elon Musk Announces 'Terafab' AI Chip Plant",
+    "summary": "Elon Musk has announced Tesla's immediate plans to build 'Terafab,' a gigawatt-scale AI chip fabrication facility designed for on-site production of next-generation self-driving hardware. This strategic move aims to deeply vertically integrate Tesla's supply chain.",
+    "engagement": "High",
+    "raw_text": "Alright, you guys are not going to believe what Elon Musk just dropped at the Tesla 2026 annual meeting. We all know Tesla makes cars, but Musk just announced they are building a massive gigawatt-scale AI chip factory called 'Terafab'. Here is the wild part: he said this mega project is launching in literally seven days. They are going to start fabricating their own next-generation self-driving AI chips right on site. Tesla is vertically integrating their entire hardware stack to complement their Dojo supercomputers, and there are even rumors they might partner with Intel. Honestly, if Tesla pulls this off, they won't just be an automaker or a robotics company; they will become a powerhouse chip manufacturer competing with the biggest names in the game. This could completely disrupt the global AI supply chain. Do you think Tesla can actually pull off their own chip fab? Hit the comments and let me know!",
+    "id": "10811f12",
+    "category": "Hardware",
+    "companies": [
+      "Tesla",
+      "Intel"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/10811f12.png",
+    "image_prompt": "A modern, sleek factory building with large glass panels and clean lines, set against a backdrop of a clear blue sky. Inside, through the glass, rows of advanced machinery and robotic arms are visible, working in a sterile, brightly lit environment. Engineers in white lab coats and safety gear oversee the operations from elevated walkways. A large, futuristic sign outside reads \"Tesla Terafab.\""
+  },
+  {
+    "date": "2026-03-21",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Historic Layoffs: Meta, Oracle, and Alibaba Gut Workforces",
+    "summary": "Over 45,000 tech jobs have been eliminated in Q1 2026 as Meta, Oracle, and Alibaba aggressively execute mass layoffs to finance multi-billion dollar AI infrastructure expansions. Companies are replacing human customer service operations directly with AI agents to cut costs.",
+    "engagement": "Low",
+    "raw_text": "This is some seriously tough news for the tech industry, guys. We are seeing a historic wave of mass layoffs in Q1 2026, with over 45,000 jobs already slashed. Meta is reportedly cutting a staggering 20% of its workforce\u2014that is 16,000 people\u2014just to fund their $600 billion AI data center expansion. Oracle is slashing up to 20,000 roles to handle the insane cash crunch from their own infrastructure buildout. And over in China, Alibaba has dumped 34% of its employees over the last year, replacing half their Taobao customer service team with automated AI. Here is the painful reality: these companies are aggressively shedding highly paid middle-management and operational jobs so they can afford specialized silicon and raw power grids. It is a brutal transition where capital meant for human salaries is literally being traded for server hardware. How is your sector handling this shift? Stay safe out there, and let's talk about it in the comments.",
+    "id": "00fd20fc",
+    "category": "Business",
+    "companies": [
+      "Meta",
+      "Oracle",
+      "Alibaba",
+      "Autodesk",
+      "Salesforce"
+    ],
+    "people": [
+      "Eddie Wu"
+    ],
+    "created_at": "2026-03-22T10:41:50+05:30"
+  },
+  {
+    "date": "2026-03-20",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Google DeepMind Finally Defines AGI with 10-Trait Framework",
+    "summary": "Google DeepMind has introduced an empirical, 10-trait cognitive framework to measure progress toward Artificial General Intelligence, combatting industry hyperbole. DeepMind is hosting a $200,000 Kaggle hackathon to crowdsource AGI evaluation metrics.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, the hype around AGI has been out of control, but Google DeepMind is finally stepping in to set the record straight. They just dropped a comprehensive 10-trait cognitive framework to actually measure how close an AI is to Artificial General Intelligence. Instead of relying on qualitative marketing fluff, they are testing models on perception, metacognition, and even social cognition. But here is the wild part: DeepMind is hosting a $200,000 global hackathon right now to crowdsource the best evaluation tools for this framework. They are even testing demographically representative human adults to establish real-world cognitive baselines for comparison. Honestly, this is a huge turning point. We are finally moving away from random CEOs claiming they've built AGI on Twitter, and moving toward rigorous, empirical science. Do you think we are actually close to hitting all 10 traits? Drop a comment below!",
+    "id": "8171be74",
+    "category": "AI",
+    "companies": [
+      "Google DeepMind"
+    ],
+    "people": [
+      "Edd Gent"
+    ],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/8171be74.png",
+    "image_prompt": "A modern, sleek conference room with a large screen displaying a brain diagram overlaid with data points and 10 highlighted traits. Google DeepMind logos subtly placed. Diverse group of scientists and tech experts engaged in discussion, with one pointing to the screen. Warm, professional lighting."
+  },
+  {
+    "date": "2026-03-05",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Anthropic Report: AI is Replacing Senior White-Collar Workers",
+    "summary": "Anthropic's newly published 'Observed Exposure' metric reveals that highly educated, senior-level professionals are facing the highest rates of AI job displacement. This super-augmentation of senior staff has resulted in a 14% drop in entry-level hiring for Gen Z demographics.",
+    "engagement": "Medium",
+    "raw_text": "Listen up guys, the conversation about AI taking our jobs just got incredibly real, and the data is honestly mind-blowing. Anthropic just released a massive economic analysis introducing the 'Observed Exposure' metric, tracking what AI is actually doing in live enterprise environments right now. Here is the wild part: the workers most exposed to complete AI replacement aren't doing manual labor; they are statistically older, highly educated, and higher-paid professionals. If you have a graduate degree, you are four times more likely to fall into the highest exposure category! We are talking about massive automation in coding and data entry. The craziest finding? This is completely bottlenecking entry-level hiring, dropping the job-finding rate for 22 to 25-year-olds by 14%. Companies are just supercharging their senior staff with AI instead of hiring juniors. Are you feeling this shift in your industry yet? Let me know down in the comments.",
+    "id": "1d90d532",
+    "category": "Business",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/1d90d532.png",
+    "image_prompt": "A modern office with sleek, minimalist decor. A young professional, looking concerned, sits at a desk filled with digital devices. In the background, a large screen displays complex data and graphs, symbolizing AI metrics. The lighting is cool and clinical, casting shadows that emphasize the tension and uncertainty in the scene."
+  },
+  {
+    "date": "2026-03-22",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Google Forced to Throttle AI Due to Grid Blackout Risks",
+    "summary": "Google has executed emergency 'demand response' contracts to make 1 gigawatt of data center electricity available for grid reduction during peak demand periods. The thermodynamic load of AI data centers is actively threatening regional grid stability in the US.",
+    "engagement": "Medium",
+    "raw_text": "Alright, here is a story that proves AI is literally taking over the physical world. Google has just been forced to sign unprecedented power agreements because their AI data centers are pulling so much energy they could destabilize the electrical grid. The biggest bottleneck in AI right now isn't code or microchips; it is raw thermodynamic power. Here is the wild part: under these new 'demand response' deals in Arkansas and Minnesota, Google has to legally offer up a massive 1 gigawatt of power back to the grid during peak times. If there is a summer heatwave, Google literally has to throttle its AI training to prevent catastrophic rolling blackouts. Honestly, tech giants aren't just software companies anymore; their energy footprint is so massive they are basically acting like macro-level grid balancers and pseudo-utilities. It is insane to think that ChatGPT or Gemini could be competing with your air conditioner for electricity. What do you guys think?",
+    "id": "5dc24db4",
+    "category": "Business",
+    "companies": [
+      "Google",
+      "Entergy Arkansas",
+      "Minnesota Power",
+      "DTE Energy"
+    ],
+    "people": [],
+    "created_at": "2026-03-22T10:41:50+05:30",
+    "image_url": "images/22_03_26/5dc24db4.png",
+    "image_prompt": "A darkened Google data center with dim emergency lights, rows of servers barely glowing, a technician monitoring power levels on a control panel, city skyline visible through windows, partially lit, suggesting power rationing."
+  },
+  {
+    "date": "2026-03-20",
+    "source_file": "Tech News Aggregator Report Request (13).docx",
+    "page": 1,
+    "title": "Microsoft Sounds Alarm on Agentic AI Hacks with Agent 365",
+    "summary": "Microsoft launched Microsoft Agent 365 at RSAC 2026 to govern the massive security risks associated with autonomous AI deployment. The company is actively integrating autonomous defensive agents into Security Operations Centers to fight hyper-speed, AI-driven cyber threats.",
+    "engagement": "Low",
+    "raw_text": "So check this out, as AI agents get smarter and start acting autonomously, traditional cybersecurity is basically becoming useless, and Microsoft is sounding the alarm. At RSAC 2026, Microsoft dropped a massive end-to-end security framework called Microsoft Agent 365, designed specifically to lock down these wild AI agents. Here is the wild part: hackers are now using AI for hyper-speed attacks, so Microsoft's solution is literally fighting fire with fire. They are deploying their own autonomous defensive agents\u2014like the Security Analyst Agent and the Triage Agent\u2014to hunt down threats at machine speed and prevent AI from accidentally leaking your most sensitive corporate data. Honestly, the industry has realized that the only mathematically viable defense against rogue AI is to build a highly aggressive, deeply integrated AI security force. We are literally entering an era of AI-versus-AI cyber warfare! Is your company ready for this? Let me know your thoughts!",
+    "id": "a3fc9100",
+    "category": "Software",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [
+      "Vasu Jakkal"
+    ],
+    "created_at": "2026-03-22T10:41:50+05:30"
+  }
 ]
