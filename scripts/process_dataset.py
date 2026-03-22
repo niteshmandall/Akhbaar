@@ -10,6 +10,7 @@ from collections import defaultdict
 import re
 from huggingface_hub import InferenceClient
 import io
+from groq import Groq
 
 # --- ID Management Functions ---
 
@@ -170,6 +171,60 @@ def clean_citations(dataset_dir):
 
 # --- Image Generation Functions ---
 
+def generate_image_prompt_groq(title, summary):
+    """Generates a detailed image prompt using Groq (Primary - Ultra Fast)."""
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        return None
+        
+    prompt = f"""
+    Create a detailed and vivid image generation prompt for a news article.
+    
+    Title: {title}
+    Summary: {summary}
+    
+    The prompt should describe a realistic, high-quality image suitable for a news website. 
+    Focus on the visual elements, mood, and key subjects. 
+    Do not include text in the image.
+    Keep the prompt UNDER 300 CHARACTERS.
+    Output ONLY the prompt text.
+    """
+    
+    try:
+        client = Groq(api_key=api_key)
+        # Using the exact parameters from the user's snippet
+        completion = client.chat.completions.create(
+            model="openai/gpt-oss-120b",
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            temperature=1,
+            max_completion_tokens=1024,
+            top_p=1,
+            reasoning_effort="medium",
+            stream=False
+        )
+        if completion.choices[0].message.content:
+            return completion.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"  Groq prompt gen error: {e}")
+        # If the specific model fails, try a standard stable model as secondary within Groq
+        try:
+            print("  Retrying Groq with llama-3.3-70b-versatile...")
+            completion = client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant that generates detailed image generation prompts. Output ONLY the prompt text and nothing else."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.7,
+                max_tokens=150
+            )
+            return completion.choices[0].message.content.strip()
+        except:
+            pass
+    return None
+
 def generate_image_prompt_hf(title, summary):
     """Generates a detailed image prompt using Hugging Face (stable)."""
     hf_token = os.getenv("HF_TOKEN")
@@ -208,10 +263,16 @@ def generate_image_prompt_hf(title, summary):
     return None
 
 def generate_image_prompt(title, summary):
-    """Generates a detailed image prompt using Hybrid strategy (HF primary, Pollinations fallback)."""
+    """Generates a detailed image prompt using Hybrid strategy (Groq -> HF -> Pollinations)."""
     
-    # 1. Try Hugging Face (Primary - Most Stable)
-    print("  Attempting Hugging Face prompt generation...")
+    # 1. Try Groq (Primary - Most Stable & Fast)
+    print("  Attempting Groq prompt generation...")
+    image_prompt = generate_image_prompt_groq(title, summary)
+    if image_prompt:
+        return image_prompt
+        
+    # 2. Try Hugging Face (Secondary Fallback)
+    print("  Groq failed. Attempting Hugging Face prompt generation...")
     image_prompt = generate_image_prompt_hf(title, summary)
     if image_prompt:
         return image_prompt
