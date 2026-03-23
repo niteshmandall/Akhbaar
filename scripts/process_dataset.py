@@ -175,6 +175,7 @@ def generate_image_prompt_groq(title, summary):
     """Generates a detailed image prompt using Groq (Primary - Ultra Fast)."""
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
+        print("  Groq API key not found. Skipping Groq.")
         return None
         
     prompt = f"""
