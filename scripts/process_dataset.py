@@ -221,9 +221,13 @@ def remove_emojis(dataset_dir):
 def generate_image_prompt_groq(title, summary):
     """Generates a detailed image prompt using Groq (Primary - Ultra Fast)."""
     api_key = os.getenv("GROQ_API_KEY")
+    # Diagnostic logging for CI
     if not api_key:
-        print("  Groq API key not found. Skipping Groq.")
+        print("  Debug: GROQ_API_KEY is MISSING in environment.")
         return None
+    else:
+        # Only print first/last chars if we wanted to be super sure, but simple 'is set' is enough
+        print("  Debug: GROQ_API_KEY is present.")
         
     prompt = f"""
     Create a detailed and vivid image generation prompt for a news article.
@@ -425,53 +429,46 @@ def generate_image_hf(prompt):
         return None
 
 def generate_image(prompt):
-    """Generates an image using a hybrid strategy (HF primary, Pollinations fallback)."""
+    """Generates an image using a hybrid strategy (Pollinations primary, HF fallback)."""
     
-    # 1. Try Hugging Face (Primary - Most Stable)
-    hf_token = os.getenv("HF_TOKEN")
-    if hf_token:
-        print("  Attempting Hugging Face generation...")
-        image_bytes = generate_image_hf(prompt)
-        if image_bytes:
-            return image_bytes
-        print("  Hugging Face failed. Falling back to Pollinations...")
-    else:
-        print("  HF_TOKEN not found. Skipping Hugging Face.")
-
-    # 2. Try Pollinations AI (Fallback 1 - High Quality)
+    # 1. Try Pollinations AI (Primary - Free & Unlimited)
+    print("  Attempting Pollinations generation...")
     api_key = os.getenv("POLLINATIONS_API_KEY")
     encoded_prompt = urllib.parse.quote(prompt)
-    seed = random.randint(0, 10000)
+    seed = random.randint(0, 1000000)
     
-    # Try high-quality flux model first
+    # Try high-quality models
     pollinations_variants = [
         {"model": "flux", "name": "Pollinations Flux"},
         {"model": "turbo", "name": "Pollinations Turbo"}
     ]
     
     for variant in pollinations_variants:
-        print(f"  Attempting {variant['name']} generation...")
-        url = f"https://gen.pollinations.ai/image/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model={variant['model']}"
+        print(f"  Trying {variant['name']}...")
+        url = f"https://pollinations.ai/p/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model={variant['model']}"
         
         headers = {}
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
 
-        for attempt in range(2):  # 2 retries per variant
-            try:
-                response = requests.get(url, headers=headers, timeout=60)
-                if response.status_code == 200:
-                    return response.content
-                elif response.status_code == 429:
-                    print(f"    Rate limited (429). Waiting...")
-                    time.sleep(5)
-                else:
-                     print(f"    {variant['name']} failed (Status {response.status_code}).")
-            except Exception as e:
-                print(f"    {variant['name']} error: {e}")
-            
-            if attempt < 1:
-                time.sleep(2)
+        try:
+            response = requests.get(url, headers=headers, timeout=60)
+            if response.status_code == 200:
+                print(f"  {variant['name']} succeeded.")
+                return response.content
+            print(f"    {variant['name']} failed (Status {response.status_code}).")
+        except Exception as e:
+            print(f"    {variant['name']} error: {e}")
+
+    # 2. Try Hugging Face (Fallback)
+    hf_token = os.getenv("HF_TOKEN")
+    if hf_token:
+        print("  Pollinations failed. Attempting Hugging Face fallback...")
+        image_bytes = generate_image_hf(prompt)
+        if image_bytes:
+            return image_bytes
+    else:
+        print("  HF_TOKEN not found. Skipping Hugging Face.")
 
     print("  Failed to generate image after all attempts and fallbacks.")
     return None
