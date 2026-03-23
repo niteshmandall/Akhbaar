@@ -167,6 +167,53 @@ def clean_citations(dataset_dir):
         print("Citation Cleaning Completed: No citations found.")
 
 
+def remove_emojis(dataset_dir):
+    """Removes emojis from title, summary, and raw_text."""
+    print(f"\n{'='*40}")
+    print("Removing Emojis...")
+    print(f"{'='*40}")
+
+    json_files = glob.glob(os.path.join(dataset_dir, '**', '*.json'), recursive=True)
+    
+    if not json_files:
+        print("No JSON files found to check.")
+        return
+
+    # Regex for emojis (covers SMP, some BMP ranges, and variation selectors)
+    emoji_pattern = re.compile(r'[\U00010000-\U0010ffff\u2600-\u27bf\ufe0f]', flags=re.UNICODE)
+    files_modified = 0
+
+    for filepath in json_files:
+        data = load_json(filepath)
+        if data is None or not isinstance(data, list):
+            continue
+
+        file_changed = False
+        for item in data:
+            fields_to_clean = ['title', 'summary', 'raw_text']
+            for field in fields_to_clean:
+                if field in item and isinstance(item[field], str):
+                    original_text = item[field]
+                    # Remove emojis
+                    cleaned_text = emoji_pattern.sub('', original_text).strip()
+                    # Clean up any double spaces created by removal
+                    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+                    
+                    if original_text != cleaned_text:
+                        item[field] = cleaned_text
+                        file_changed = True
+
+        if file_changed:
+            save_json(filepath, data)
+            files_modified += 1
+            print(f"Removed emojis in: {os.path.basename(filepath)}")
+
+    if files_modified > 0:
+        print(f"Emoji Removal Completed: {files_modified} files updated.")
+    else:
+        print("Emoji Removal Completed: No emojis found.")
+
+
 
 
 # --- Image Generation Functions ---
@@ -548,7 +595,10 @@ def main():
     # 2. Clean Citations
     clean_citations(dataset_dir)
     
-    # 3. Process Images
+    # 3. Remove Emojis
+    remove_emojis(dataset_dir)
+    
+    # 4. Process Images
 
     process_images(dataset_dir)
 

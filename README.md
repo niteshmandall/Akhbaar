@@ -21,6 +21,7 @@ The dataset consists of daily JSON files (e.g., `21_11_25.json`). Each file cont
 - **Raw Extracted Text**
 - **Metadata**
 - **Unique SHA256 ID**
+- **Cleaned Text** (Emojis and citations removed for better model compatibility)
 
 This consistent structure makes it perfect for:
 
