@@ -8,7 +8,6 @@ import uuid
 import glob
 from collections import defaultdict
 import re
-from huggingface_hub import InferenceClient
 import io
 from groq import Groq
 
@@ -277,45 +276,8 @@ def generate_image_prompt_groq(title, summary):
             pass
     return None
 
-def generate_image_prompt_hf(title, summary):
-    """Generates a detailed image prompt using Hugging Face (stable)."""
-    hf_token = os.getenv("HF_TOKEN")
-    if not hf_token:
-        return None
-        
-    prompt = f"""
-    Create a detailed and vivid image generation prompt for a news article.
-    
-    Title: {title}
-    Summary: {summary}
-    
-    The prompt should describe a realistic, high-quality image suitable for a news website. 
-    Focus on the visual elements, mood, and key subjects. 
-    Do not include text in the image.
-    Keep the prompt UNDER 300 CHARACTERS.
-    Output ONLY the prompt text.
-    """
-    
-    try:
-        client = InferenceClient(api_key=hf_token)
-        messages = [
-            {"role": "system", "content": "You are a helpful assistant that generates detailed image generation prompts. Output ONLY the prompt text and nothing else."},
-            {"role": "user", "content": prompt}
-        ]
-        # Using a reliable and stable model for chat completion
-        response = client.chat_completion(
-            model="Qwen/Qwen2.5-72B-Instruct",
-            messages=messages,
-            max_tokens=150,
-            temperature=0.7
-        )
-        return response.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"  Hugging Face prompt gen error: {e}")
-    return None
-
 def generate_image_prompt(title, summary):
-    """Generates a detailed image prompt using Hybrid strategy (Groq -> HF -> Pollinations)."""
+    """Generates a detailed image prompt using Hybrid strategy (Groq -> Pollinations)."""
     
     # 1. Try Groq (Primary - Most Stable & Fast)
     print("  Attempting Groq prompt generation...")
@@ -323,15 +285,10 @@ def generate_image_prompt(title, summary):
     if image_prompt:
         return image_prompt
         
-    # 2. Try Hugging Face (Secondary Fallback)
-    print("  Groq failed. Attempting Hugging Face prompt generation...")
-    image_prompt = generate_image_prompt_hf(title, summary)
-    if image_prompt:
-        return image_prompt
+    print("  Groq failed. Falling back to Pollinations...")
     
-    print("  Hugging Face prompt gen failed. Falling back to Pollinations...")
-    
-    # Existing Pollinations logic (Fallback)
+    # 2. Try Pollinations (Fallback)
+
     prompt = f"""
     Create a detailed and vivid image generation prompt for a news article.
     
@@ -400,36 +357,13 @@ def setup_environment():
         print(f"Loaded .env from: {env_path}")
     else:
         load_dotenv() # Fallback to default search
-        if not any(os.getenv(k) for k in ["HF_TOKEN", "POLLINATIONS_API_KEY", "GOOGLE_API_KEY"]):
+        if not any(os.getenv(k) for k in ["POLLINATIONS_API_KEY", "GOOGLE_API_KEY", "GROQ_API_KEY"]):
              print("Warning: No API keys found in environment or .env file.")
 
 setup_environment()
 
-def generate_image_hf(prompt):
-    """Generates an image using Hugging Face Inference API."""
-    hf_token = os.getenv("HF_TOKEN")
-    if not hf_token:
-        return None
-    
-    try:
-        client = InferenceClient(api_key=hf_token)
-        # Using FLUX.1 Schnell for fast and high-quality generation
-        image = client.text_to_image(
-            prompt, 
-            model="black-forest-labs/FLUX.1-schnell",
-            width=1024,
-            height=1024
-        )
-        # Convert PIL image to bytes
-        img_byte_arr = io.BytesIO()
-        image.save(img_byte_arr, format='PNG')
-        return img_byte_arr.getvalue()
-    except Exception as e:
-        print(f"  Hugging Face image gen error: {e}")
-        return None
-
 def generate_image(prompt):
-    """Generates an image using a hybrid strategy (Pollinations primary, HF fallback)."""
+    """Generates an image using Pollinations AI (Primary)."""
     
     # 1. Try Pollinations AI (Primary - Free & Unlimited)
     print("  Attempting Pollinations generation...")
@@ -443,34 +377,39 @@ def generate_image(prompt):
         {"model": "turbo", "name": "Pollinations Turbo"}
     ]
     
+    import base64
     for variant in pollinations_variants:
         print(f"  Trying {variant['name']}...")
-        url = f"https://pollinations.ai/p/{encoded_prompt}?seed={seed}&width=1024&height=1024&nologo=true&model={variant['model']}"
+        url = "https://gen.pollinations.ai/v1/images/generations"
         
         headers = {}
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
 
+        payload = {
+            "prompt": prompt,
+            "model": variant['model'],
+            "n": 1,
+            "size": "1024x1024",
+            "response_format": "b64_json"
+        }
+
         try:
-            response = requests.get(url, headers=headers, timeout=60)
+            response = requests.post(url, headers=headers, json=payload, timeout=60)
             if response.status_code == 200:
                 print(f"  {variant['name']} succeeded.")
-                return response.content
-            print(f"    {variant['name']} failed (Status {response.status_code}).")
+                resp_json = response.json()
+                b64_data = resp_json.get('data', [{}])[0].get('b64_json', '')
+                if b64_data:
+                    return base64.b64decode(b64_data)
+                else:
+                    print(f"    {variant['name']} failed (no image data returned).")
+            else:
+                print(f"    {variant['name']} failed (Status {response.status_code}).")
         except Exception as e:
             print(f"    {variant['name']} error: {e}")
 
-    # 2. Try Hugging Face (Fallback)
-    hf_token = os.getenv("HF_TOKEN")
-    if hf_token:
-        print("  Pollinations failed. Attempting Hugging Face fallback...")
-        image_bytes = generate_image_hf(prompt)
-        if image_bytes:
-            return image_bytes
-    else:
-        print("  HF_TOKEN not found. Skipping Hugging Face.")
-
-    print("  Failed to generate image after all attempts and fallbacks.")
+    print("  Failed to generate image after all attempts.")
     return None
 
 def save_image_locally(image_bytes, filename, output_dir):
