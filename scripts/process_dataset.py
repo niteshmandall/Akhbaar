@@ -9,7 +9,6 @@ import glob
 from collections import defaultdict
 import re
 import io
-from groq import Groq
 
 # --- ID Management Functions ---
 
@@ -132,7 +131,7 @@ def clean_citations(dataset_dir):
         print("No JSON files found to check.")
         return
 
-    citation_pattern = re.compile(r'\[cite:\s*[\d,\s]+\]')
+    citation_pattern = re.compile(r'\[cite.*?\]')
     files_modified = 0
 
     for filepath in json_files:
@@ -217,16 +216,10 @@ def remove_emojis(dataset_dir):
 
 # --- Image Generation Functions ---
 
-def generate_image_prompt_groq(title, summary):
-    """Generates a detailed image prompt using Groq (Primary - Ultra Fast)."""
-    api_key = os.getenv("GROQ_API_KEY")
-    # Diagnostic logging for CI
-    if not api_key:
-        print("  Debug: GROQ_API_KEY is MISSING in environment.")
-        return None
-    else:
-        # Only print first/last chars if we wanted to be super sure, but simple 'is set' is enough
-        print("  Debug: GROQ_API_KEY is present.")
+def generate_image_prompt_pollinations(title, summary):
+    """Generates a detailed image prompt using Pollinations AI Text API."""
+    api_key = os.getenv("POLLINATIONS_API_KEY")
+    print("  Attempting Pollinations Text generation...")
         
     prompt = f"""
     Create a detailed and vivid image generation prompt for a news article.
@@ -242,101 +235,35 @@ def generate_image_prompt_groq(title, summary):
     """
     
     try:
-        client = Groq(api_key=api_key)
-        # Using the exact parameters from the user's snippet
-        completion = client.chat.completions.create(
-            model="openai/gpt-oss-120b",
-            messages=[
-                {"role": "user", "content": prompt}
-            ],
-            temperature=1,
-            max_completion_tokens=1024,
-            top_p=1,
-            reasoning_effort="medium",
-            stream=False
-        )
-        if completion.choices[0].message.content:
-            return completion.choices[0].message.content.strip()
-    except Exception as e:
-        print(f"  Groq prompt gen error: {e}")
-        # If the specific model fails, try a standard stable model as secondary within Groq
-        try:
-            print("  Retrying Groq with llama-3.3-70b-versatile...")
-            completion = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
-                messages=[
-                    {"role": "system", "content": "You are a helpful assistant that generates detailed image generation prompts. Output ONLY the prompt text and nothing else."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0.7,
-                max_tokens=150
-            )
-            return completion.choices[0].message.content.strip()
-        except:
-            pass
-    return None
-
-def generate_image_prompt(title, summary):
-    """Generates a detailed image prompt using Hybrid strategy (Groq -> Pollinations)."""
-    
-    # 1. Try Groq (Primary - Most Stable & Fast)
-    print("  Attempting Groq prompt generation...")
-    image_prompt = generate_image_prompt_groq(title, summary)
-    if image_prompt:
-        return image_prompt
-        
-    print("  Groq failed. Falling back to Pollinations...")
-    
-    # 2. Try Pollinations (Fallback)
-
-    prompt = f"""
-    Create a detailed and vivid image generation prompt for a news article.
-    
-    Title: {title}
-    Summary: {summary}
-    
-    The prompt should describe a realistic, high-quality image suitable for a news website. 
-    Focus on the visual elements, mood, and key subjects. 
-    Do not include text in the image.
-    Keep the prompt UNDER 300 CHARACTERS.
-    Output ONLY the prompt text.
-    """
-    
-    try:
-        # Encode the prompt for the URL
-        encoded_prompt = urllib.parse.quote(prompt)
-        
-        # 1. Try Authenticated Endpoint (if key exists)
-        api_key = os.getenv("POLLINATIONS_API_KEY")
         headers = {}
         if api_key:
             headers["Authorization"] = f"Bearer {api_key}"
-            url = f"https://text.pollinations.ai/{encoded_prompt}"
-            try:
-                response = requests.get(url, headers=headers, timeout=10)
-                if response.status_code == 200:
-                    return response.text.strip()
-                else:
-                    print(f"  Auth text gen failed ({response.status_code}). Trying public...")
-            except Exception as e:
-                print(f"  Auth text gen error: {e}. Trying public...")
-
-        # 2. Key missing OR Auth failed -> Try Public Endpoint
-        url = f"https://text.pollinations.ai/{encoded_prompt}"
-        response = requests.get(url, timeout=30)
+            
+        payload = {
+            "model": "openai",
+            "messages": [
+                {"role": "system", "content": "You are a helpful assistant that generates detailed image generation prompts. Output ONLY the prompt text and nothing else."},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": 0.7
+        }
+        
+        response = requests.post("https://gen.pollinations.ai/v1/chat/completions", headers=headers, json=payload, timeout=60)
         
         if response.status_code == 200:
-            return response.text.strip()
-        elif response.status_code == 400:
-            print("  Warning: content filtered by AI provider. Skipping.")
-            return None
+            resp_json = response.json()
+            return resp_json['choices'][0]['message']['content'].strip()
         else:
-            print(f"Error generating prompt: Status {response.status_code}")
-            return None
-            
+            print(f"  Pollinations Text prompt gen error (Status {response.status_code})")
     except Exception as e:
-        print(f"Error generating prompt with Pollinations AI: {e}")
-        return None
+        print(f"  Pollinations Text prompt gen error: {e}")
+        
+    return None
+
+def generate_image_prompt(title, summary):
+    """Generates a detailed image prompt using Pollinations AI."""
+    return generate_image_prompt_pollinations(title, summary)
+
 
 from dotenv import load_dotenv
 
@@ -356,8 +283,7 @@ def setup_environment():
         load_dotenv(env_path)
         print(f"Loaded .env from: {env_path}")
     else:
-        load_dotenv() # Fallback to default search
-        if not any(os.getenv(k) for k in ["POLLINATIONS_API_KEY", "GOOGLE_API_KEY", "GROQ_API_KEY"]):
+        if not any(os.getenv(k) for k in ["POLLINATIONS_API_KEY", "GOOGLE_API_KEY"]):
              print("Warning: No API keys found in environment or .env file.")
 
 setup_environment()
