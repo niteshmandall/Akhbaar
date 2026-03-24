@@ -1,0 +1,180 @@
+[
+  {
+    "date": "2026-03-24",
+    "source_file": "Combined",
+    "page": 13,
+    "title": "MASSIVE Apple Leaks: M5 Macs, AI iPads & iOS 27!",
+    "summary": "Apple is preparing a major hardware refresh featuring M5 Macs and A18 iPads ahead of WWDC26[cite: 191, 194, 199, 202]. [cite_start]The event will reportedly focus on advanced AI features integrated into iOS 27, internally codenamed \"Healey\"[cite: 420].",
+    "engagement": "High",
+    "raw_text": "Yo, what is up guys, check this out! [cite_start]Apple is gearing up for an absolutely massive summer blitz ahead of WWDC26[cite: 191, 195]. [cite_start]We are talking M5 silicon for Mac Studio and Mac mini, plus an A18 chip coming to the base iPad so everyone gets in on the Apple Intelligence hype[cite: 199, 202]. [cite_start]Honestly, this is huge because they are basically forcing powerful NPUs into the cheapest devices[cite: 204]. [cite_start]But here's the wild part: WWDC is gonna feature iOS 27, codenamed 'Healey', and it's all about heavy on-device AI[cite: 195, 420]. [cite_start]We might even see a completely rewritten, AI-powered Siri launch with delayed HomePod updates[cite: 206]. [cite_start]The timeline is insane, with WWDC kicking off in June, so if you're planning to buy an Apple product, you better hold off right now[cite: 195, 419]! What do you guys think of this M5 push?",
+    "id": "apple2026",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "Tech News Aggregation With Exclusion.pdf",
+    "page": 11,
+    "title": "WARNING: This AI Bug is Literally MELTING Laptops!",
+    "summary": "A critical flaw in common open-source Python machine learning libraries is locking Neural Processing Units (NPUs) into infinite loops, operating continuously at 100% capacity[cite: 166, 170]. [cite_start]This sustained maximum thermal load permanently degrades the silicon, effectively bricking consumer hardware[cite: 173, 186].",
+    "engagement": "High",
+    "raw_text": "Okay guys, if you have a new AI PC, you need to listen up because this is terrifying[cite: 165]. [cite_start]There is a critical software bug found in common open-source Python ML libraries that is literally destroying hardware[cite: 166]. [cite_start]Unlike your CPU or GPU that has built-in thermal throttling, these new NPUs have super immature safeguards[cite: 168]. [cite_start]When a flawed script runs, it locks the NPU into an infinite 100% max-capacity loop[cite: 169, 170]. It doesn't shut down. [cite_start]It just gets hotter and hotter until the microscopic silicon structure permanently degrades[cite: 171, 173]. [cite_start]This is basically a physical Denial-of-Service attack, and it means your brand new laptop could get completely bricked and require a total hardware replacement, not just a reboot[cite: 175]. [cite_start]Honestly, the fact that a bad software script can permanently melt your NPU is wild to me[cite: 161]. Be super careful what AI models you are running locally right now!",
+    "id": "npuMeltdown26",
+    "category": "Cybersecurity",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "AI Research & Breakthroughs.pdf",
+    "page": 1,
+    "title": "Claude AI Just Took Control of My Mac...",
+    "summary": "Anthropic launched a research preview feature allowing its Claude AI to autonomously use a macOS computer, including navigating apps and interacting with the OS[cite: 386, 387]. [cite_start]This represents a significant shift from passive AI assistants to agentic AI capable of executing multi-step tasks[cite: 388, 390].",
+    "engagement": "High",
+    "raw_text": "So check this out: Anthropic just gave Claude AI the ability to literally take over your Mac[cite: 386]. I'm not kidding. [cite_start]They released a research preview where Claude acts as an autonomous agent that can navigate your apps, open your documents, copy and paste code, and interact with the macOS completely on its own[cite: 386, 387]. [cite_start]We are moving way past just chatting with an AI[cite: 388]. [cite_start]Imagine just telling Claude, 'Hey, do my data entry and draft these emails,' and watching your mouse move by itself[cite: 389]. [cite_start]If you don't have their special helper app installed, it just falls back to reading screenshots, which is still crazy smart[cite: 387, 388]. [cite_start]Honestly, this is a massive leap towards true agentic AI, but it definitely raises some serious security questions about giving an AI full access to your desktop[cite: 388, 389]. Would you let Claude drive your computer?",
+    "id": "claudeMac24",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-23",
+    "source_file": "AI Research & Breakthroughs.pdf",
+    "page": 4,
+    "title": "Nvidia CEO: We've FINALLY Reached AGI?!",
+    "summary": "Nvidia CEO Jensen Huang sparked industry debate by claiming 'we've achieved AGI' in an interview, referencing AI agents executing entire workflows[cite: 440]. [cite_start]Though he quickly added nuance, the statement highlights ongoing debates over the definition of artificial general intelligence and the rapid advancement of hardware[cite: 441, 444].",
+    "engagement": "High",
+    "raw_text": "Here's a story that had the entire tech world freaking out yesterday. [cite_start]Nvidia CEO Jensen Huang went on a podcast with Lex Fridman and basically dropped a bomb: he said he thinks we've achieved AGI[cite: 440]. [cite_start]Yeah, Artificial General Intelligence[cite: 440]. [cite_start]He pointed to how people are already using autonomous AI agents to run entire workflows and act as digital influencers[cite: 440]. [cite_start]Now, he did walk it back a little bit right after, but the damage was done and the AI community is in total debate mode[cite: 441, 444]. [cite_start]It really shows how confident Nvidia is about their hardware powering these insane leaps[cite: 443]. [cite_start]But experts are calling it out, saying true AGI—like an AI running a billion-dollar company by itself—is still lightyears away[cite: 444]. Honestly, whether it's true AGI or not, the fact that the CEO of the biggest AI chipmaker on Earth is saying this is wild. Are we closer than we think?",
+    "id": "nvidiaAgiClaim",
+    "category": "AI",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang",
+      "Lex Fridman"
+    ],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "Tech News Aggregation With Exclusion.pdf",
+    "page": 8,
+    "title": "Samsung is FORCING You to Subscribe to Your Phone!",
+    "summary": "Samsung introduced the 'Galaxy Forever' plan in India, allowing consumers to lease premium phones with a 50% guaranteed buyback, essentially turning hardware into a subscription service[cite: 125, 127]. [cite_start]Meanwhile, TECNO launched the 'EllaClaw Beta' AI agent optimized for low-tier hardware in emerging markets[cite: 121, 122].",
+    "engagement": "High",
+    "raw_text": "I've got some crazy news about the future of buying phones. [cite_start]The smartphone market is totally splitting right now[cite: 119]. [cite_start]So check this out: Samsung just dropped the 'Galaxy Forever' plan in India, and it's basically turning phones into a subscription service[cite: 125, 128]. [cite_start]You can now lease an ultra-premium Galaxy S26 Ultra on a 12-month zero-cost EMI plan, pay a monthly fee, and get a 50% guaranteed buyback after a year[cite: 126, 127]. [cite_start]They want you paying monthly forever instead of owning your phone[cite: 128]! [cite_start]On the complete flip side, TECNO just launched EllaClaw Beta[cite: 121]. [cite_start]Instead of making you buy premium hardware, they built a highly optimized AI small language model that works flawlessly on low-tier silicon and terrible networks in emerging markets[cite: 122, 123]. [cite_start]Honestly, I love TECNO's approach of democratizing AI[cite: 124]. But Samsung trying to make us subscribe to hardware like it's Netflix? Let me know if you would actually lease your phone!",
+    "id": "samsungLeasePhone",
+    "category": "Mobile",
+    "companies": [
+      "Samsung",
+      "TECNO"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "Tech & AI News Briefing – March 24, 2026 (Excluding Previously Covered Items).pdf",
+    "page": 3,
+    "title": "The Smart Ring WAR Just Reignited in the US!",
+    "summary": "Health-tech startup Ultrahuman has returned to the U.S. market with its new Ring Pro after overcoming an import ban that previously favored its rival Oura[cite: 303, 304]. [cite_start]With the U.S. accounting for about 60% of global smart-ring volume, the redesigned Ring Pro aims to reclaim market share starting at $399[cite: 306, 307].",
+    "engagement": "High",
+    "raw_text": "Alright, the smart ring wars are officially back on[cite: 308]! If you've been following the drama, you know Oura basically had a monopoly in the US recently. [cite_start]They got Ultrahuman's Ring Air banned from the country over an ITC ruling, which cost Ultrahuman like 50 million bucks and dropped their market share to nothing while Oura climbed to 85%[cite: 303, 304]. [cite_start]Well, Ultrahuman just fought back and secured US Customs approval for their brand new Ring Pro[cite: 303]! [cite_start]This is a massive deal because the US makes up 60% of global smart ring sales[cite: 306]. [cite_start]The Ring Pro has a new unibody metal frame, better battery, and insane on-device processing[cite: 307]. [cite_start]It's launching May 15th starting at $399[cite: 307]. [cite_start]Honestly, Oura has been dominating for too long, and seeing real hardware competition re-enter the US is exactly what we need for better tech[cite: 308]. Who are you betting on: Ultrahuman or Oura?",
+    "id": "ultraRingWar",
+    "category": "Hardware",
+    "companies": [
+      "Ultrahuman",
+      "Oura"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "Tech & AI News Briefing – March 24, 2026 (Excluding Previously Covered Items).pdf",
+    "page": 3,
+    "title": "This AI App is REPLACING Video Editors!",
+    "summary": "Mirage, the company behind the AI video-editing app Captions, raised $75 million to build domain-specific AI models for short-form video[cite: 309, 313]. [cite_start]The platform automates tedious editing tasks like captioning and pacing, signaling a shift where AI creative tools become mainstream infrastructure[cite: 311, 312].",
+    "engagement": "High",
+    "raw_text": "Attention all creators and video editors, your workflow is about to change forever. [cite_start]Mirage, the company behind the viral app Captions, just raised another 75 million dollars, bringing them over 175 million in total funding[cite: 309, 310]. And they aren't just making a basic app anymore. [cite_start]They are building proprietary, domain-specific AI models that actually understand pacing, framing, and how to optimize attention in short-form videos[cite: 312, 313]. [cite_start]We're talking about compressing hours of tedious editing, removing filler words, and enhancing audio into literally just a few taps on your phone[cite: 312]. [cite_start]Honestly, this is wild because it shows these AI tools aren't just novelties anymore; they are becoming the core infrastructure for content creation[cite: 311]. [cite_start]Mirage wants to be an actual AI lab for video[cite: 313]. If you edit videos for TikTok or Reels, you need to be paying attention to this, because the AI is getting way too good!",
+    "id": "mirageAiVideo",
+    "category": "AI",
+    "companies": [
+      "Mirage",
+      "General Catalyst"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "AI Research & Breakthroughs.pdf",
+    "page": 2,
+    "title": "Nvidia's NEW Rubin Chip is 10x Faster?!",
+    "summary": "At its GTC conference, Nvidia unveiled the Rubin platform, a next-generation AI computing stack featuring the Rubin GPU and Vera AI CPU[cite: 401]. [cite_start]Designed for large-scale reasoning and agentic AI, Rubin claims to lower inference costs by 10x and drastically reduce the number of GPUs needed[cite: 402].",
+    "engagement": "High",
+    "raw_text": "If you thought Nvidia's Blackwell chips were fast, you are not ready for this. [cite_start]Nvidia just dropped the curtain on their next-gen AI stack called the Rubin platform at GTC 2026[cite: 401]. This isn't just a minor spec bump. [cite_start]The Rubin GPU packs a 3rd-generation Transformer Engine and is paired with their new Vera AI CPU[cite: 401]. [cite_start]The stats are unbelievable: they claim it drops the cost per inference token by 10x and requires 4 times fewer GPUs to run massive models compared to Blackwell[cite: 402]! [cite_start]Guys like Mark Zuckerberg and Sam Altman are already praising it as the infrastructure we need for the next major AI leap[cite: 403]. [cite_start]Honestly, it feels like Nvidia is just flexing on the entire industry at this point[cite: 404]. [cite_start]This hardware is specifically built to handle 'agentic AI' and insane reasoning tasks[cite: 402]. The AI revolution is accelerating way faster than we thought!",
+    "id": "nvidiaRubinLaunch",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "OpenAI",
+      "Meta"
+    ],
+    "people": [
+      "Sam Altman",
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "AI Research & Breakthroughs.pdf",
+    "page": 4,
+    "title": "China's New AI Car Drives BETTER Than a Human!",
+    "summary": "Chinese autonomous driving startup ZYT revealed an AI foundation model that reportedly outperforms its CEO on urban streets[cite: 445]. [cite_start]Trained on diverse data including drone and vacuum footage, the system is designed to generalize across cities without needing specific road mapping[cite: 445, 447].",
+    "engagement": "High",
+    "raw_text": "We need to talk about what is happening in autonomous driving right now because the competition just got flipped on its head. [cite_start]A Chinese startup called ZYT—which actually spun out of DJI—just unveiled an AI foundation model for self-driving cars[cite: 445]. [cite_start]And here's the crazy part: it already outdrives the company's CEO on the chaotic streets of Shenzhen[cite: 445]! [cite_start]Instead of mapping out specific roads like older tech, they trained this AI using footage from drones, robot vacuums, and street cameras so it literally 'learns to drive' anywhere, on its own[cite: 445, 447]. [cite_start]They're putting this in passenger cars and big rigs[cite: 446]. [cite_start]Honestly, with state-backing and an IPO planned for 2027, ZYT is gunning straight for Tesla and Waymo[cite: 447]. [cite_start]The race for software dominance in self-driving cars is heating up, and China is betting everything on this AI-first approach[cite: 447, 448].",
+    "id": "zytSelfDriving",
+    "category": "AI",
+    "companies": [
+      "ZYT",
+      "DJI",
+      "FAW Group",
+      "Tesla",
+      "Waymo"
+    ],
+    "people": [
+      "Shen Shaojie"
+    ],
+    "created_at": "2026-03-25T01:08:09Z"
+  },
+  {
+    "date": "2026-03-23",
+    "source_file": "AI Research & Breakthroughs.pdf",
+    "page": 4,
+    "title": "URGENT: Millions of iPhones & Crunchyroll HACKED!",
+    "summary": "The tech sector faced major security incidents as hackers stole data from 6.8 million Crunchyroll users via a third-party exploit, and a leaked government-grade iOS exploit kit dubbed \"DarkSword\" endangered unpatched iPhones[cite: 449, 450, 451]. [cite_start]The leaks highlight severe vulnerabilities across consumer services and mobile devices[cite: 453].",
+    "engagement": "High",
+    "raw_text": "Guys, please pause what you're doing and update your passwords and your iPhones right now[cite: 454]. [cite_start]Two massive cyber attacks just dropped[cite: 449]. [cite_start]First, if you use Crunchyroll, hackers just stole the personal data of almost 6.8 million users because a third-party support agent got compromised[cite: 450]. But honestly, the second hack is way scarier. [cite_start]Security researchers found a leaked iOS exploit toolkit on GitHub called 'DarkSword'[cite: 451]. [cite_start]This is literally a government-grade hacking tool that got leaked to the public, and it makes it laughably easy for criminals to hack hundreds of millions of iPhones that haven't updated to iOS 26 yet[cite: 451, 452]. [cite_start]We are seeing crazy nation-state weapons falling into the hands of random hackers[cite: 453]. It is wild out there. Go into your settings, update your phone immediately, and check your Crunchyroll accounts!",
+    "id": "hacksCrunchyrollIphone",
+    "category": "Cybersecurity",
+    "companies": [
+      "Crunchyroll",
+      "Apple",
+      "Telus"
+    ],
+    "people": [],
+    "created_at": "2026-03-25T01:08:09Z"
+  }
+]
