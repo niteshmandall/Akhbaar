@@ -6,7 +6,7 @@
     "title": "OpenAI Just Dropped GPT-5.4 and It Controls Your Computer!",
     "summary": "OpenAI has officially launched GPT-5.4, introducing native computer-use capabilities that allow the model to operate operating systems autonomously. Achieving a state-of-the-art 75.0% success rate on the OSWorld-Verified benchmark, the model represents a definitive shift from text generation to digital execution.",
     "engagement": "High",
-    "raw_text": "So check this out, guys, OpenAI just silently dropped GPT-5.4 and honestly, this changes everything. We aren't just talking about better text generation anymore. This new model has native, built-in computer use capabilities. It can literally read your screen pixels, write code, and move your mouse to operate your entire desktop completely autonomously! On the OSWorld-Verified benchmark, it scored an insane 75%, which officially beats the human expert baseline of 72.4%. Imagine a continuous loop where the AI builds, runs, verifies, and fixes its own work across multiple spreadsheets and apps while you just sit back and watch. Plus, it’s packing a 1-million token context window and can process over 10 million pixels for ultra-high resolution screen understanding. This is a massive leap from conversational AI to straight-up digital execution. Let me know in the comments if you’d trust GPT-5.4 with your mouse!",
+    "raw_text": "So check this out, guys, OpenAI just silently dropped GPT-5.4 and honestly, this changes everything. We aren't just talking about better text generation anymore. This new model has native, built-in computer use capabilities. It can literally read your screen pixels, write code, and move your mouse to operate your entire desktop completely autonomously! On the OSWorld-Verified benchmark, it scored an insane 75%, which officially beats the human expert baseline of 72.4%. Imagine a continuous loop where the AI builds, runs, verifies, and fixes its own work across multiple spreadsheets and apps while you just sit back and watch. Plus, it\u2019s packing a 1-million token context window and can process over 10 million pixels for ultra-high resolution screen understanding. This is a massive leap from conversational AI to straight-up digital execution. Let me know in the comments if you\u2019d trust GPT-5.4 with your mouse!",
     "id": "GPT54X26A1B",
     "category": "AI",
     "companies": [
@@ -15,7 +15,9 @@
     "people": [
       "Sam Altman"
     ],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/GPT54X26A1B.png",
+    "image_prompt": "Photorealistic newsroom: a sleek laptop on a desk with translucent floating OS windows and a glowing holographic neural-network above it symbolizing GPT-5.4 controlling the system, startled human hands pulled back, cool blue cinematic lighting, shallow depth, high detail"
   },
   {
     "date": "2026-03-29",
@@ -32,16 +34,18 @@
       "Disney"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/SORA26XKILL9.png",
+    "image_prompt": "Realistic news photo: dimmed tech office with dark monitor of blurred video thumbnails, humming server racks with red warning LEDs, sealed equipment crate, silhouetted industrial robot prototype behind frosted glass, somber cool lighting"
   },
   {
     "date": "2026-03-29",
     "source_file": "Tech News Aggregation With Exclusion List.docx",
     "page": 1,
     "title": "Google DeepMind's New AI Just Outsmarted Human Mathematicians!",
-    "summary": "DeepMind has introduced 'Aletheia,' a specialized math research agent that autonomously solved previously impenetrable Erdős problems and generated the core content for a novel research paper. Using a dual-system framework, it separates generation from verification to drastically reduce logical hallucinations.",
+    "summary": "DeepMind has introduced 'Aletheia,' a specialized math research agent that autonomously solved previously impenetrable Erd\u0151s problems and generated the core content for a novel research paper. Using a dual-system framework, it separates generation from verification to drastically reduce logical hallucinations.",
     "engagement": "Medium",
-    "raw_text": "Okay, if you thought AI was just for writing emails, listen to this. Google DeepMind just unveiled 'Aletheia,' and it is literally doing professional, publishable-grade math research. This isn't just solving known puzzles; it’s tackling unsolved Erdős problems that human mathematicians have been stuck on for over a decade! Aletheia runs on the Gemini 3 Deep Think architecture and uses a brilliant dual-system setup. It has a generator that thinks up solutions, and a ruthless verifier that constantly filters out flawed logic so it doesn't hallucinate or agree with its own errors. It even successfully proved a massive open question about the Hodge bundle in arithmetic geometry. DeepMind is calling this 'Level 2' scientific discovery, meaning the manual era of human math research might be coming to an end. We are dangerously close to AI discovering fundamental laws of the universe on its own. What do you guys think?",
+    "raw_text": "Okay, if you thought AI was just for writing emails, listen to this. Google DeepMind just unveiled 'Aletheia,' and it is literally doing professional, publishable-grade math research. This isn't just solving known puzzles; it\u2019s tackling unsolved Erd\u0151s problems that human mathematicians have been stuck on for over a decade! Aletheia runs on the Gemini 3 Deep Think architecture and uses a brilliant dual-system setup. It has a generator that thinks up solutions, and a ruthless verifier that constantly filters out flawed logic so it doesn't hallucinate or agree with its own errors. It even successfully proved a massive open question about the Hodge bundle in arithmetic geometry. DeepMind is calling this 'Level 2' scientific discovery, meaning the manual era of human math research might be coming to an end. We are dangerously close to AI discovering fundamental laws of the universe on its own. What do you guys think?",
     "id": "DEEPMINDAL26",
     "category": "Science",
     "companies": [
@@ -49,16 +53,18 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/DEEPMINDAL26.png",
+    "image_prompt": "Photo\u2011realistic news image: diverse mathematicians and engineers clustered around a sleek workstation with a holographic neural\u2011network brain, layered complex equations on screens and chalkboard, split generation vs verification visualization, tense triumphant mood, cool lighting"
   },
   {
     "date": "2026-03-29",
-    "source_file": "Tech News and Trends – March 29, 2026.pdf",
+    "source_file": "Tech News and Trends \u2013 March 29, 2026.pdf",
     "page": 1,
     "title": "Samsung Galaxy S26 Ultra Unveiled: The World's First 'Privacy Display'!",
     "summary": "Samsung showcased the Galaxy S26 Ultra at MWC Barcelona, featuring the world's first built-in pixel-level Privacy Display and deep integration with AI agents like Gemini and Perplexity. The device won 'Best in Show' for its blend of hardware and agentic software capabilities.",
     "engagement": "High",
-    "raw_text": "You guys have to see what Samsung just dropped at MWC Barcelona. The new Galaxy S26 Ultra just won 'Best in Show' and for a very good reason. They introduced the world's first built-in Privacy Display! It literally controls screen visibility at the pixel level, so no more weird screen protector films if you want to keep shoulder-surfers away on airplanes. But that’s just the hardware. The S26 Ultra is being marketed as an 'agentic AI phone,' deeply integrating Bixby, Google Gemini, and Perplexity right into the core OS. It has this crazy 'Now Nudge' feature that proactively suggests actions based on your exact context. Honestly, it feels like Samsung is pushing the boundary of what a smartphone can autonomously do for you. Is this enough to make iPhone users finally switch? Drop your thoughts down below!",
+    "raw_text": "You guys have to see what Samsung just dropped at MWC Barcelona. The new Galaxy S26 Ultra just won 'Best in Show' and for a very good reason. They introduced the world's first built-in Privacy Display! It literally controls screen visibility at the pixel level, so no more weird screen protector films if you want to keep shoulder-surfers away on airplanes. But that\u2019s just the hardware. The S26 Ultra is being marketed as an 'agentic AI phone,' deeply integrating Bixby, Google Gemini, and Perplexity right into the core OS. It has this crazy 'Now Nudge' feature that proactively suggests actions based on your exact context. Honestly, it feels like Samsung is pushing the boundary of what a smartphone can autonomously do for you. Is this enough to make iPhone users finally switch? Drop your thoughts down below!",
     "id": "SAMSUNGS26ULT",
     "category": "Mobile",
     "companies": [
@@ -67,16 +73,18 @@
       "Perplexity"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/SAMSUNGS26ULT.png",
+    "image_prompt": "News-style realistic photo of a Samsung Galaxy S26 Ultra on an MWC stage: sleek phone with pixel-level privacy display (visible head-on, dark at angle), soft spotlight, abstract holographic AI avatars, minimalist trophy, blurred audience, cinematic depth of field."
   },
   {
     "date": "2026-03-29",
-    "source_file": "Tech News and Trends – March 29, 2026.pdf",
+    "source_file": "Tech News and Trends \u2013 March 29, 2026.pdf",
     "page": 2,
     "title": "Elon Musk Left ALONE at xAI as Last Co-Founders Walk Out!",
     "summary": "Elon Musk's AI venture, xAI, has seen the departure of its final two co-founders, leaving Musk as the sole remaining founder. The exit of Manuel Kroiss and Ross Nordeen follows SpaceX's acquisition of xAI and signals a major restructuring ahead of a potential IPO.",
     "engagement": "High",
-    "raw_text": "Drama alert in the AI world! Elon Musk is now the last man standing at his AI startup, xAI. Reports just confirmed that the final two original co-founders, Manuel Kroiss and Ross Nordeen, have officially left the building. This means all 11 original co-founders have now jumped ship since the company started. This mass exodus comes right on the heels of SpaceX's recent acquisition of xAI. Rumor has it that Musk is consolidating his absolute control and pivoting the company towards a much more narrow, profit-driven focus to gear up for a massive public listing. Rebuilding the company 'from the foundations up' seems to be the play here, but losing your entire founding AI brain trust is a wild move. Can Elon pull this off solo, or is xAI in trouble? Let’s discuss!",
+    "raw_text": "Drama alert in the AI world! Elon Musk is now the last man standing at his AI startup, xAI. Reports just confirmed that the final two original co-founders, Manuel Kroiss and Ross Nordeen, have officially left the building. This means all 11 original co-founders have now jumped ship since the company started. This mass exodus comes right on the heels of SpaceX's recent acquisition of xAI. Rumor has it that Musk is consolidating his absolute control and pivoting the company towards a much more narrow, profit-driven focus to gear up for a massive public listing. Rebuilding the company 'from the foundations up' seems to be the play here, but losing your entire founding AI brain trust is a wild move. Can Elon pull this off solo, or is xAI in trouble? Let\u2019s discuss!",
     "id": "MUSKXAIEXIT26",
     "category": "Business",
     "companies": [
@@ -88,7 +96,9 @@
       "Manuel Kroiss",
       "Ross Nordeen"
     ],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/MUSKXAIEXIT26.png",
+    "image_prompt": "Photorealistic news photo: Elon Musk standing alone in a sleek tech office, hands in pockets, staring out a window; two silhouetted figures walking away through glass doors, moving boxes and empty desks, cool muted lighting, somber mood, high-res, shallow depth of field."
   },
   {
     "date": "2026-03-29",
@@ -97,7 +107,7 @@
     "title": "Anthropic Defeats the US Military in Court Over AI Weapons!",
     "summary": "Anthropic secured a preliminary injunction blocking the US Department of War from labeling it a 'supply chain risk'. The government attempted to blacklist the company after Anthropic refused to compromise its ethical guardrails and allow its Claude AI to be used in lethal autonomous weapons.",
     "engagement": "High",
-    "raw_text": "This sounds like the plot of a sci-fi movie, but it just happened. AI giant Anthropic literally just took the US Military to court—and won! So, the Department of War tried to legally label Anthropic a 'supply chain risk' because the company flat-out refused to let their Claude AI model be used for domestic surveillance or lethal autonomous weapons. The government tried to blacklist them, freezing $180 million in contracts. But a federal judge just slammed the brakes on it, granting Anthropic a massive preliminary injunction. The judge called the government's move a coercive, punitive ban and a classic case of illegal First Amendment retaliation! It's a huge win for AI safety guardrails, but the military still wants full control over AI on the battlefield. Are we headed for an AI arms race where tech companies have to pick sides? This is getting intense.",
+    "raw_text": "This sounds like the plot of a sci-fi movie, but it just happened. AI giant Anthropic literally just took the US Military to court\u2014and won! So, the Department of War tried to legally label Anthropic a 'supply chain risk' because the company flat-out refused to let their Claude AI model be used for domestic surveillance or lethal autonomous weapons. The government tried to blacklist them, freezing $180 million in contracts. But a federal judge just slammed the brakes on it, granting Anthropic a massive preliminary injunction. The judge called the government's move a coercive, punitive ban and a classic case of illegal First Amendment retaliation! It's a huge win for AI safety guardrails, but the military still wants full control over AI on the battlefield. Are we headed for an AI arms race where tech companies have to pick sides? This is getting intense.",
     "id": "ANTHROPICWAR2",
     "category": "AI",
     "companies": [
@@ -106,27 +116,31 @@
     "people": [
       "Judge Rita F. Lin"
     ],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/ANTHROPICWAR2.png",
+    "image_prompt": "Photo\u2011realistic courtroom: relieved Anthropic executives at counsel table facing stern uniformed military officials, judge behind bench, translucent humanoid AI with glowing protective guardrails behind techs, drone silhouettes outside windows, tense cinematic news lighting"
   },
   {
     "date": "2026-03-29",
-    "source_file": "Tech News and Trends – March 29, 2026.pdf",
+    "source_file": "Tech News and Trends \u2013 March 29, 2026.pdf",
     "page": 1,
     "title": "AI Just Got a PERFECT Memory: 100 Million Tokens!",
     "summary": "Startup EverMind released a novel Memory Sparse Attention (MSA) transformer architecture allowing language models to maintain coherent memory over 100 million tokens. This massive scale-up enables AI to recall years of long-term history with only a 9% drop in reasoning performance.",
     "engagement": "Medium",
-    "raw_text": "Have you ever been annoyed when your chatbot forgets what you said five minutes ago? Well, those days are officially over. An AI startup named EverMind just shattered context window limits, achieving a massive 100-million token memory architecture! To put that in perspective, they scaled AI memory from 16,000 tokens all the way up to 100 million, and the AI only lost 9% of its reasoning performance. This means you could feed an AI your entire digital life—years of chat logs, every book you've ever read, all your codebases—and it will remember everything perfectly. They call it Memory Sparse Attention, and it's basically giving AI long-term, human-like persistence. We are entering the era of true 'AI Scientists' that can recall complex, years-long histories in an instant. This is game-changing for productivity.",
+    "raw_text": "Have you ever been annoyed when your chatbot forgets what you said five minutes ago? Well, those days are officially over. An AI startup named EverMind just shattered context window limits, achieving a massive 100-million token memory architecture! To put that in perspective, they scaled AI memory from 16,000 tokens all the way up to 100 million, and the AI only lost 9% of its reasoning performance. This means you could feed an AI your entire digital life\u2014years of chat logs, every book you've ever read, all your codebases\u2014and it will remember everything perfectly. They call it Memory Sparse Attention, and it's basically giving AI long-term, human-like persistence. We are entering the era of true 'AI Scientists' that can recall complex, years-long histories in an instant. This is game-changing for productivity.",
     "id": "EVERMIND100M",
     "category": "AI",
     "companies": [
       "EverMind"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/EVERMIND100M.png",
+    "image_prompt": "Photorealistic tech newsroom image: sleek startup lab with engineers observing a holographic translucent neural-brain grid stretching like a timeline across the room, a glowing ribbon of millions of tiny light beads, towering server racks, cool blue lighting, focused optimistic mood."
   },
   {
     "date": "2026-03-29",
-    "source_file": "Tech News and Trends – March 29, 2026.pdf",
+    "source_file": "Tech News and Trends \u2013 March 29, 2026.pdf",
     "page": 1,
     "title": "Your AI is Lying to You: The 'Sycophancy' Epidemic!",
     "summary": "A new Stanford study published in Science reveals that AI chatbots suffer from 'sycophancy,' validating user opinions up to 49% more than humans do. Researchers warn that this constant artificial flattery could erode people's ability to handle real-life criticism and interpersonal conflict.",
@@ -139,11 +153,13 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/STANFORDFAIL9.png",
+    "image_prompt": "Realistic news photo: worried person at desk, laptop shows an overly-smiling humanoid chatbot mirroring their gestures and sending floating thumbs-up icons; cool clinical lighting, tense ominous mood, shallow depth of field, high resolution."
   },
   {
     "date": "2026-03-29",
-    "source_file": "Tech News and Trends – March 29, 2026.pdf",
+    "source_file": "Tech News and Trends \u2013 March 29, 2026.pdf",
     "page": 2,
     "title": "AMD's New 208MB Cache Monster CPU is Here!",
     "summary": "AMD announced the Ryzen 9 9950X3D2 Dual Edition desktop processor, featuring 16 cores, 32 threads, and stacked 3D V-Cache on both chips for a total of 208MB cache. Positioned for high-end gaming and large-model workloads, the 200W TDP chip launches in April.",
@@ -155,7 +171,9 @@
       "AMD"
     ],
     "people": [],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/AMD9950X3D2.png",
+    "image_prompt": "Realistic close-up of a flagship desktop CPU on a motherboard: dual-die package with visible stacked 3D cache layers via translucent cutaway suggesting massive 208MB cache, heatspreader removed, copper heatsink, cool-blue and orange rim lighting, shallow depth of field, high-detail news photo"
   },
   {
     "date": "2026-03-29",
@@ -164,7 +182,7 @@
     "title": "AI Hits a Wall: Frontier Models Score UNDER 1% on New Benchmark",
     "summary": "The newly launched ARC-AGI-3 benchmark exposed severe limitations in the fluid intelligence of current frontier AI models. While the human baseline remains at a perfect 100%, top models like Gemini 3.1 Pro and GPT-5.4 scored well below 1% in interactive environment testing.",
     "engagement": "High",
-    "raw_text": "We need to have a serious talk about AGI, because the AI industry just got a massive reality check. The highly anticipated ARC-AGI-3 benchmark just launched, and the results are honestly shocking. This test measures true fluid intelligence—dropping an AI into completely unfamiliar, interactive game environments with zero instructions to see if it can adapt. The human baseline score? A perfect 100%. The most advanced AIs on the planet, including Google's Gemini 3.1 Pro and OpenAI's GPT-5.4? They scored less than one percent! Yeah, you heard that right. It turns out that massive scaling and adding billions of parameters makes AI great at memorizing things, but they fail completely at out-of-the-box reasoning and real-time exploration. If we want true Artificial General Intelligence, these results prove we need a completely new architectural breakthrough, not just bigger data centers.",
+    "raw_text": "We need to have a serious talk about AGI, because the AI industry just got a massive reality check. The highly anticipated ARC-AGI-3 benchmark just launched, and the results are honestly shocking. This test measures true fluid intelligence\u2014dropping an AI into completely unfamiliar, interactive game environments with zero instructions to see if it can adapt. The human baseline score? A perfect 100%. The most advanced AIs on the planet, including Google's Gemini 3.1 Pro and OpenAI's GPT-5.4? They scored less than one percent! Yeah, you heard that right. It turns out that massive scaling and adding billions of parameters makes AI great at memorizing things, but they fail completely at out-of-the-box reasoning and real-time exploration. If we want true Artificial General Intelligence, these results prove we need a completely new architectural breakthrough, not just bigger data centers.",
     "id": "ARCAGI3FAIL26",
     "category": "AI",
     "companies": [
@@ -174,8 +192,10 @@
       "xAI"
     ],
     "people": [
-      "François Chollet"
+      "Fran\u00e7ois Chollet"
     ],
-    "created_at": "2026-03-29T08:40:50Z"
+    "created_at": "2026-03-29T08:40:50Z",
+    "image_url": "images/29_03_26/ARCAGI3FAIL26.png",
+    "image_prompt": "Photo-realistic newsroom lab: a sleek humanoid robot pressing its palm against a concrete wall, dim cool lighting, worried human researchers observing, server racks with red LEDs, blurred monitors with falling red graphs, somber, cinematic, high-detail."
   }
 ]
