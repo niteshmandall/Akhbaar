@@ -1,0 +1,174 @@
+[
+  {
+    "date": "2026-03-31",
+    "source_file": "Tech News Aggregation and Filtering.pdf",
+    "page": 1,
+    "title": "Meta Drops 1700W Custom AI Superchip to Fight Nvidia!",
+    "summary": "Meta introduced a customized 1700W superchip utilizing RISC-V architecture to optimize generative AI inference[cite: 384, 385]. The chip features 30 PFLOPs of performance and 512GB of HBM, reducing reliance on traditional semiconductor vendors[cite: 385, 391].",
+    "engagement": "High",
+    "raw_text": "So check this out, Meta is officially tired of paying the 'Nvidia tax'[cite: 391]. They just unveiled a massive 1700-watt, custom-built superchip based on the open-source RISC-V architecture[cite: 385, 390]. Honestly, this is huge because it's completely optimized for AI inference[cite: 385]. Instead of buying off-the-shelf GPUs for everything, Zuck and the team are basically building their own bespoke silicon to serve massive language models across Instagram and Facebook with way lower latency[cite: 393]. I mean, this beast packs 30 Petaflops of performance and half a terabyte of High Bandwidth Memory[cite: 385]. While they're still buying Nvidia and AMD chips for the heavy lifting of training models, this custom RISC-V move proves Meta is playing the long game to control their own destiny[cite: 395, 397]. The hardware wars are absolutely heating up, and we are here for it! Drop a comment if you think Meta can actually catch up to Nvidia's hardware dominance.",
+    "id": "A1B2C3D4",
+    "category": "Hardware",
+    "companies": [
+      "Meta",
+      "Nvidia",
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Tech News Aggregation and Filtering.pdf",
+    "page": 8,
+    "title": "Tesla's Optimus Robot is Serving Food at an LA Diner Right Now!",
+    "summary": "Tesla publicly deployed its Optimus humanoid robot at a Los Angeles diner to perform food-runner tasks[cite: 502, 506]. Concurrently, Tesla is ramping up mass production of its Gen 3 Optimus at the Fremont factory, targeting massive annual production capacity[cite: 510, 511].",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about Tesla's humanoid robot program—it's actually happening in the real world right now[cite: 502]. As of March 31, Tesla has deployed their Optimus robot at their Hollywood Diner in Los Angeles[cite: 502]. It's not just standing there looking pretty; it's doing full food-runner duties and delivering orders straight to cars at the Supercharger stalls[cite: 506]. The Gen 3 model just hit mass production in Fremont, rocking double the dexterity in its hands compared to the last version[cite: 510]. Elon is literally sunsetting legacy cars like the older Model S and X to pour $20 billion into robotics and AI[cite: 513]. We are literally watching the sci-fi future unfold at a diner. Do you guys think you'd trust a robot bringing your burgers? Let me know below!",
+    "id": "E5F6G7H8",
+    "category": "Robotics",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Tech News Aggregation and Filtering.pdf",
+    "page": 14,
+    "title": "Apple Shocks Everyone with a $599 MacBook Neo!",
+    "summary": "Apple released the budget-friendly MacBook Neo starting at $599, powered by the A18 Pro chip[cite: 636, 643]. The company also updated the iPhone 17e while increasing prices on its premium M5-series MacBooks[cite: 646, 647, 648].",
+    "engagement": "High",
+    "raw_text": "Okay guys, Apple just dropped a massive curveball on the entire laptop industry[cite: 634]. They just launched the MacBook Neo, and it starts at an insanely low $599[cite: 635, 636]. Yes, you heard that right—an under-$600 MacBook! To pull this off, they're using the A18 Pro chip from the iPhone lineup instead of the M-series silicon, which is honestly a genius move to cut costs while keeping battery life at a crazy 16 hours[cite: 643, 644]. They also refreshed the budget iPhone 17e at the same $599 price point but doubled the base storage to 256GB[cite: 646]. But of course, there's a catch. Apple raised the prices on the premium M5 MacBook Air and Pro models by $100[cite: 647, 648]. So they're basically making the pros pay more to subsidize these cheap entry-level laptops[cite: 649]. Still, a $599 MacBook? That's going to sell like absolute hotcakes.",
+    "id": "I9J0K1L2",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "I will provide you with a JSON file that contains (1).pdf",
+    "page": 3,
+    "title": "DeepSeek's Massive 7-Hour Outage Breaks AI Apps Everywhere",
+    "summary": "China's DeepSeek AI experienced a major 7-hour outage, marking the longest downtime since the viral rise of its R1/V3 models[cite: 76]. The disruption affected both consumer interfaces and developer APIs, highlighting the operational risks of relying on a single AI provider[cite: 78, 86].",
+    "engagement": "High",
+    "raw_text": "We need to talk about what just happened with DeepSeek[cite: 76]. China's absolute juggernaut of an AI chatbot just suffered its longest outage ever—going completely dark for over 7 hours[cite: 76]. This didn't just break the consumer interface; it completely took down the API that developers rely on to build their apps[cite: 78]. Honestly, this is a huge wake-up call for the entire industry[cite: 84]. We've gotten so used to these models being up 99% of the time, and when a viral model like DeepSeek's R1 goes down, it hits the ecosystem just like a massive AWS or Google Cloud outage[cite: 84, 86]. They haven't given a detailed technical explanation yet, which makes it even more suspicious[cite: 79]. If you're building an AI startup, you absolutely need fallback models, because relying on one single provider is basically a ticking time bomb[cite: 86].",
+    "id": "M3N4O5P6",
+    "category": "AI",
+    "companies": [
+      "DeepSeek"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Amazon Just Bought a Humanoid Robot for Your Living Room!",
+    "summary": "Amazon acquired Fauna Robotics, the developer of the 3.5-foot consumer humanoid robot named Sprout[cite: 275]. The acquisition signals Amazon's strategic push beyond warehouse automation into the personal and home robotics market[cite: 277, 279].",
+    "engagement": "High",
+    "raw_text": "Amazon is making some crazy moves in the robotics space, and it's not just about warehouse bots anymore[cite: 275, 277]. They just bought a startup called Fauna Robotics, the creators of 'Sprout'—a 3.5-foot humanoid robot designed entirely for the consumer and education market[cite: 275]. This little guy isn't meant for heavy lifting; it's designed to do fun stuff like dancing and picking up toys around the house[cite: 276]. Think about it: Amazon already dominates our homes with Alexa, and now they're building an actual physical robot that can walk around your living room[cite: 278, 279]. This is their second robotics buyout this month alone[cite: 277]. We are literally on the edge of the personal home robot era. Would you let an Amazon humanoid roam around your house? Let me know!",
+    "id": "Q7R8S9T0",
+    "category": "Robotics",
+    "companies": [
+      "Amazon",
+      "Fauna Robotics"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "I will provide you with a JSON file that contains (1).pdf",
+    "page": 4,
+    "title": "xAI Drops $10 'SuperGrok' Plan to Crush ChatGPT",
+    "summary": "Elon Musk's xAI introduced SuperGrok, a tiered paid subscription for its chatbot featuring a $10/month 'Lite' plan[cite: 94, 96]. This pricing strategy undercuts competitors while providing access to the Grok 3.5 model with higher usage limits[cite: 96, 105].",
+    "engagement": "High",
+    "raw_text": "Elon Musk's xAI is officially shaking up the AI pricing wars[cite: 94]. They just launched 'SuperGrok', which brings paid subscription tiers to the Grok chatbot[cite: 94]. But the real kicker is the 'Lite' plan[cite: 96]. It only costs $10 a month and gives you access to the Grok 3.5 model with higher usage limits[cite: 96]. This completely undercuts ChatGPT Plus and Claude Pro, which are sitting around that 20-dollar mark[cite: 105]. They also have heavy-use tiers up to $300 a month and a $30 enterprise seat[cite: 97]. Honestly, I think this $10 tier is brilliant for students and small creators who want top-tier AI without breaking the bank[cite: 102]. The free ride for unlimited frontier models is definitely ending, but xAI is making the entry barrier super low[cite: 103, 105].",
+    "id": "U1V2W3X4",
+    "category": "AI",
+    "companies": [
+      "xAI"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Tech News Summary – March 31, 2026.pdf",
+    "page": 2,
+    "title": "Bluesky's 'Attie' AI Lets You Code Your Own Social Feed",
+    "summary": "Decentralized social network Bluesky launched Attie, an AI-powered app that enables users to generate custom content feeds via natural-language prompts[cite: 288]. Utilizing Anthropic's Claude, the tool empowers users to curate personalized social experiences, emphasizing user agency over opaque algorithms[cite: 289, 290].",
+    "engagement": "Medium",
+    "raw_text": "Alright, Bluesky is finally bringing AI to your social media feed in a way that actually makes sense[cite: 288]. They just dropped a new AI app called 'Attie', powered by Anthropic's Claude, that lets you build completely custom, personalized content feeds using natural language[cite: 288, 289]. Instead of being trapped by whatever dark algorithm Meta or TikTok decides to push on you, you can literally just type out what you want to see, and Attie will 'vibe-code' a custom feed for you[cite: 289]. You get total control[cite: 290]. It's a massive shift in user agency for decentralized networks[cite: 294]. I love this because it gives the power back to the user instead of using AI just to shove more targeted ads in our faces[cite: 290, 294].",
+    "id": "Y5Z6A7B8",
+    "category": "Social Media",
+    "companies": [
+      "Bluesky",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Tech News Summary – March 31, 2026.pdf",
+    "page": 3,
+    "title": "Waymo Robotaxis Still Failing to Stop for School Buses",
+    "summary": "Alphabet's Waymo is facing continued regulatory scrutiny as its self-driving vehicles repeatedly fail to stop for school buses in Texas[cite: 313]. Despite voluntary recalls and retraining, new incidents highlight the persistent challenge of handling complex edge cases in autonomous driving[cite: 313, 314].",
+    "engagement": "Medium",
+    "raw_text": "Self-driving cars are hitting a major, and honestly concerning, speed bump[cite: 313]. Waymo is currently dealing with a serious issue where their robotaxis keep illegally passing stopped school buses in Texas[cite: 313]. Yes, even with the flashing lights and stop signs deployed[cite: 313]. They already did a voluntary recall and tried to retrain the AI, but the NTSB reported new incidents as recently as January[cite: 313]. School zones are notoriously tricky edge cases for AI because of the unpredictable signals and children running around[cite: 314, 315]. Waymo is arguably the leader in autonomous driving right now, so the fact that they are struggling with this proves we are still far away from perfect robotaxis[cite: 316]. This is definitely going to slow down the broader rollout if regulators start cracking down[cite: 317].",
+    "id": "C9D0E1F2",
+    "category": "Autonomous Vehicles",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Mistral AI Takes $830M Debt for Huge European Data Center",
+    "summary": "French startup Mistral AI secured $830 million in debt financing to purchase 13,800 Nvidia GPUs and construct a major AI data center near Paris[cite: 39, 245]. This capital-intensive move aims to establish European AI sovereignty and reduce reliance on US hyperscaler infrastructure[cite: 41, 50].",
+    "engagement": "Medium",
+    "raw_text": "If you want to know how expensive the AI race has gotten, look no further than Mistral AI[cite: 245]. The French AI startup just secured a mind-blowing $830 million in debt financing to build a massive AI super-data-center right near Paris[cite: 38, 39, 245]. They are buying 13,800 Nvidia GPUs to do it[cite: 39, 245]. Taking on this much debt is a massive gamble, but it positions Mistral as Europe's absolute flagship independent AI lab[cite: 41]. They don't just want to rent space from US cloud providers; they want true 'AI sovereignty' with hardware firmly planted on European soil[cite: 41, 50]. It's a massive bet on data center infrastructure, and it proves that the capital needed to play in the big leagues of AI is reaching astronomical levels[cite: 48, 153].",
+    "id": "G3H4I5J6",
+    "category": "AI",
+    "companies": [
+      "Mistral AI",
+      "Nvidia"
+    ],
+    "people": [
+      "Arthur Mensch"
+    ],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  },
+  {
+    "date": "2026-03-31",
+    "source_file": "I will provide you with a JSON file that contains (1).pdf",
+    "page": 5,
+    "title": "Nokia Slashing 14,000 Jobs in Massive AI Pivot",
+    "summary": "Nokia announced a 20% reduction in its global workforce, eliminating approximately 14,000 jobs across multiple regions including India[cite: 113, 115]. The layoffs are part of a strategic portfolio realignment away from commoditized 5G gear toward AI-optimized networking and data-center infrastructure[cite: 113, 122].",
+    "engagement": "Low",
+    "raw_text": "In some tougher industry news, legacy telecom giant Nokia is making some brutal cuts[cite: 111]. They're slashing their global workforce by about 20%, which means over 14,000 people are losing their jobs[cite: 113]. A lot of these cuts are hitting their Indian teams hard[cite: 115]. Why is this happening? Basically, the demand for standard 5G equipment is cooling off, and Nokia is frantically pivoting to chase the high margins in AI-optimized networking and data-center interconnects[cite: 120, 122]. It's a harsh reminder that the AI boom isn't just creating jobs; it's causing massive corporate restructuring in the hardware and infrastructure space too[cite: 124]. The legacy players are consolidating and desperately trying to align with AI workloads to stay relevant[cite: 122, 124].",
+    "id": "K7L8M9N0",
+    "category": "Business",
+    "companies": [
+      "Nokia"
+    ],
+    "people": [],
+    "created_at": "2026-03-31T01:03:56+05:30"
+  }
+]
