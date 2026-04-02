@@ -13,7 +13,9 @@
       "Meta"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/METARAY26X.png",
+    "image_prompt": "News-style photo: a mid-30s person wearing Ray-Ban prescription smart glasses, close-up three-quarter shot, subtle AR HUD reflections on lenses, warm newsroom lighting, focused detail on frames and camera, shallow depth of field, realistic high-res."
   },
   {
     "date": "2026-04-02",
@@ -39,7 +41,7 @@
     "title": "OpenAI Just Raised $122 BILLION. Is This A Monopoly?",
     "summary": "OpenAI closed a historic $122 billion funding round, pushing its valuation to $852 billion. Backed by Microsoft, Amazon, and Nvidia, the capital is dedicated to building sovereign-scale AI infrastructure.",
     "engagement": "High",
-    "raw_text": "Guys, the numbers we are seeing in AI right now are completely broken. OpenAI just closed a funding round for—wait for it—$122 billion. Yes, with a B. That puts their valuation at a staggering $852 billion! The craziest part? They actually crowdfunded a $3 billion chunk of that from regular retail investors. They are pulling in about $2.6 billion a month in revenue right now. OpenAI essentially just built an impenetrable financial fortress. They literally said this money is to build the 'infrastructure layer for intelligence itself.' They aren't just a software company anymore; they are trying to become a global utility, like electricity or water, but for brainpower. With backing from Microsoft, Amazon, and Nvidia, no startup is ever going to catch them now. Is this the birth of our first AI monopoly?",
+    "raw_text": "Guys, the numbers we are seeing in AI right now are completely broken. OpenAI just closed a funding round for\u2014wait for it\u2014$122 billion. Yes, with a B. That puts their valuation at a staggering $852 billion! The craziest part? They actually crowdfunded a $3 billion chunk of that from regular retail investors. They are pulling in about $2.6 billion a month in revenue right now. OpenAI essentially just built an impenetrable financial fortress. They literally said this money is to build the 'infrastructure layer for intelligence itself.' They aren't just a software company anymore; they are trying to become a global utility, like electricity or water, but for brainpower. With backing from Microsoft, Amazon, and Nvidia, no startup is ever going to catch them now. Is this the birth of our first AI monopoly?",
     "id": "OPENAI122B",
     "category": "AI",
     "companies": [
@@ -50,7 +52,9 @@
       "Softbank"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/OPENAI122B.png",
+    "image_prompt": "Photo-realistic dusk aerial of a colossal sovereign-scale AI data campus: monolithic glass server halls, racks glowing blue, streams of golden light like capital flowing into a vault, silhouetted executives on a terrace, cinematic high-contrast, ultra-detailed"
   },
   {
     "date": "2026-04-02",
@@ -72,7 +76,9 @@
     "people": [
       "Kazuo Kii"
     ],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/SONYTCL26.png",
+    "image_prompt": "Realistic, high-res newsroom scene: Japanese and Chinese executives in suits shake hands across a conference table with a sleek flat-screen TV between them; factory blurred behind, papers and electronics on table, dramatic soft lighting, no visible text or logos."
   },
   {
     "date": "2026-04-01",
@@ -88,7 +94,9 @@
       "Drift"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/DRIFTHACKX.png",
+    "image_prompt": "Photo-realistic news-style image: deserted DeFi trading floor at night, rows of glowing monitors displaying cascading coin tokens and plunging charts, lone hooded figure reflected in screens, spilled digital coins streaming away, cold blue emergency lighting, tense mood, no text"
   },
   {
     "date": "2026-04-01",
@@ -106,7 +114,9 @@
       "Alphabet"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/ORACLECUT.png",
+    "image_prompt": "Photo-realistic, high-res news image: somber scene outside Oracle HQ \u2014 employees leaving with cardboard boxes, empty desks visible through glass, tired faces; in background crates and black AI server racks being unloaded, cool blue lighting, overcast sky."
   },
   {
     "date": "2026-04-02",
@@ -125,7 +135,9 @@
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/HUAWEI950PR.png",
+    "image_prompt": "Photo-realistic close-up of a new AI accelerator chip with warm red-gold metal finish glowing on a motherboard; a smaller blue-lit competitor chip recedes in shadow. Blurred server racks and engineers monitor holographic performance graphs, dramatic cinematic lighting."
   },
   {
     "date": "2026-04-02",
@@ -134,7 +146,7 @@
     "title": "AWS Replaces Software Engineers with 'Frontier Agents'",
     "summary": "Amazon Web Services launched autonomous 'Frontier Agents' for DevOps and Security capable of investigating bugs, conducting server remediation, and running penetration tests independently over several days.",
     "engagement": "Medium",
-    "raw_text": "Developers, your jobs are officially changing. AWS just dropped something they're calling 'Frontier Agents,' and it is straight out of sci-fi. They released an AI DevOps Agent and an AI Security Agent that essentially act as autonomous engineers. We aren't talking about a chatbot that writes code snippets; these agents can operate completely independently for days. If a server goes down, the DevOps agent will proactively investigate the logs, find the bug, fix it, and analyze patterns so it doesn't happen again—all without a human ever clicking a button. AWS is saying these agents are reducing resolution times by up to 77%. And the Security agent? It does full-blown penetration testing in hours instead of weeks. It's super impressive, but also a little terrifying for the job market. How long until these agents are running the entire internet?",
+    "raw_text": "Developers, your jobs are officially changing. AWS just dropped something they're calling 'Frontier Agents,' and it is straight out of sci-fi. They released an AI DevOps Agent and an AI Security Agent that essentially act as autonomous engineers. We aren't talking about a chatbot that writes code snippets; these agents can operate completely independently for days. If a server goes down, the DevOps agent will proactively investigate the logs, find the bug, fix it, and analyze patterns so it doesn't happen again\u2014all without a human ever clicking a button. AWS is saying these agents are reducing resolution times by up to 77%. And the Security agent? It does full-blown penetration testing in hours instead of weeks. It's super impressive, but also a little terrifying for the job market. How long until these agents are running the entire internet?",
     "id": "AWSAGENTS26",
     "category": "AI",
     "companies": [
@@ -143,16 +155,18 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/AWSAGENTS26.png",
+    "image_prompt": "Photo-realistic news image: dim AWS data center with server racks and code/security dashboards; translucent holographic AI 'agents' probing servers and running tests while a lone engineer watches. Cool blue lighting, tense, investigative mood."
   },
   {
     "date": "2026-04-02",
     "source_file": "Tech News Aggregation With Exclusion (1).pdf",
     "page": 16,
-    "title": "NASA Just Sent Humans Back to the MOON! 🚀",
+    "title": "NASA Just Sent Humans Back to the MOON!",
     "summary": "NASA's Artemis II mission successfully launched, sending four astronauts on a 10-day orbital flyby of the Moon. The historic flight tests autonomous navigation and deep-space avionics.",
     "engagement": "High",
-    "raw_text": "We are officially going back to the Moon! NASA just successfully launched the historic Artemis II mission! Four astronauts—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—are currently strapped inside the Orion spacecraft, heading on a 10-day journey to fly around the Moon and back. This is the first time humans have left low Earth orbit since the Apollo missions over 50 years ago! Honestly, seeing that rocket lift off gave me chills. But this isn't just a nostalgia trip; the tech powering this mission is next level. They are stress-testing autonomous deep-space navigation and cutting-edge life support systems that will eventually pave the way for a permanent lunar base, and eventually, Mars. This is a massive win for space exploration. Make sure you look up at the Moon tonight, because there are humans heading right toward it!",
+    "raw_text": "We are officially going back to the Moon! NASA just successfully launched the historic Artemis II mission! Four astronauts\u2014Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen\u2014are currently strapped inside the Orion spacecraft, heading on a 10-day journey to fly around the Moon and back. This is the first time humans have left low Earth orbit since the Apollo missions over 50 years ago! Honestly, seeing that rocket lift off gave me chills. But this isn't just a nostalgia trip; the tech powering this mission is next level. They are stress-testing autonomous deep-space navigation and cutting-edge life support systems that will eventually pave the way for a permanent lunar base, and eventually, Mars. This is a massive win for space exploration. Make sure you look up at the Moon tonight, because there are humans heading right toward it!",
     "id": "ARTEMISGOX",
     "category": "Science",
     "companies": [
@@ -164,7 +178,9 @@
       "Christina Koch",
       "Jeremy Hansen"
     ],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/ARTEMISGOX.png",
+    "image_prompt": "Realistic high-res news photo: NASA Orion spacecraft cruising above dark lunar limb, Moon filling background, Earth visible far off, four astronauts inside silhouetted at cabin windows, soft interior light, mission patch on suits, triumphant, historic, crisp detail"
   },
   {
     "date": "2026-04-01",
@@ -173,7 +189,7 @@
     "title": "Scientists Discover a 'Fatal Flaw' in All AI Models",
     "summary": "New experimental data suggests that AI hallucinations are structurally persistent in Large Language Models at long context lengths, threatening their deployment in safety-critical enterprise applications.",
     "engagement": "Medium",
-    "raw_text": "Okay, we need to have a serious talk about the AI hype train, because scientists are finding a massive flaw that might derail the whole thing. A new report dropped today asking if the entire AI business model is fundamentally broken. Here's why: we keep assuming that with enough data and money, we can stop AI from 'hallucinating' or making things up. But new experimental data suggests that hallucinations are actually structurally baked into Large Language Models. When researchers tested top models with massive amounts of text—like 128,000 words—the error rates skyrocketed. Some models just started fabricating answers entirely! If we can't mathematically prove an AI won't hallucinate, we can never trust it to run hospitals, fly planes, or manage billions of dollars autonomously. Are tech companies spending trillions of dollars on a technology that fundamentally can't be fixed? Let me know what you think.",
+    "raw_text": "Okay, we need to have a serious talk about the AI hype train, because scientists are finding a massive flaw that might derail the whole thing. A new report dropped today asking if the entire AI business model is fundamentally broken. Here's why: we keep assuming that with enough data and money, we can stop AI from 'hallucinating' or making things up. But new experimental data suggests that hallucinations are actually structurally baked into Large Language Models. When researchers tested top models with massive amounts of text\u2014like 128,000 words\u2014the error rates skyrocketed. Some models just started fabricating answers entirely! If we can't mathematically prove an AI won't hallucinate, we can never trust it to run hospitals, fly planes, or manage billions of dollars autonomously. Are tech companies spending trillions of dollars on a technology that fundamentally can't be fixed? Let me know what you think.",
     "id": "AIHALLUCX9",
     "category": "AI",
     "companies": [
@@ -184,6 +200,8 @@
     "people": [
       "JV Roig"
     ],
-    "created_at": "2026-04-02T04:04:58.000Z"
+    "created_at": "2026-04-02T04:04:58.000Z",
+    "image_url": "images/02_04_26/AIHALLUCX9.png",
+    "image_prompt": "Realistic photo: diverse scientists crowded around a large monitor in a modern lab, monitor shows distorted cascading code and a glowing neural-net visualization with flashing red nodes; worried faces, tense atmosphere, cool cinematic lighting, shallow depth of field."
   }
 ]
