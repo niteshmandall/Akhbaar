@@ -1,0 +1,180 @@
+[
+  {
+    "date": "2026-04-04",
+    "source_file": "Tech News Aggregation With Exclusion List (1).docx",
+    "page": 1,
+    "title": "Apple Drops Budget iPhone 17e and M4 iPad Air!",
+    "summary": "Apple has launched the $599 iPhone 17e for emerging markets, skipping the Dynamic Island to maintain margins, alongside a new M4-powered iPad Air.",
+    "engagement": "High",
+    "raw_text": "So check this out, Apple just stealth-dropped the iPhone 17e and the new M4 iPad Air! If you're tired of paying a thousand bucks for a phone, this is huge. The 17e is priced at just $599, targeting emerging markets like India. Now, here's the catch—to keep that price so low, Apple actually ditched the Dynamic Island and went back to the old notch. Plus, you're stuck with a 60Hz display, so no ultra-smooth scrolling. But honestly? It still packs serious processing power to keep you locked into the Apple ecosystem. They also dropped an M4-powered iPad Air to handle all those crazy new Apple Intelligence features right on the device. Are you guys picking one of these up or waiting for the iPhone 18?",
+    "id": "A1B2C3D4",
+    "category": "Mobile",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Tech News Aggregation With Exclusion List (1).docx",
+    "page": 1,
+    "title": "Google's New TurboQuant Algorithm Just Changed AI Forever",
+    "summary": "Google's TurboQuant drastically compresses LLM memory by 6x and speeds up attention computation by 8x without sacrificing accuracy, revolutionizing AI inference.",
+    "engagement": "High",
+    "raw_text": "Okay, if you run AI locally or care about tech hardware, listen up. Google just dropped something called TurboQuant, and it is a massive game-changer. Basically, large language models eat up tons of memory—like, VRAM is always the bottleneck. But TurboQuant compresses that memory demand by six times and speeds up processing by up to EIGHT times! And the craziest part? There's zero accuracy loss. It's essentially free performance. This completely changes the game for running insane AI models on consumer-grade hardware eventually. Semiconductor stocks like Micron and TSMC actually dropped because investors panicked that companies won't need to buy as much memory anymore. This is wild!",
+    "id": "E5F6G7H8",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "NVIDIA",
+      "Micron Technology",
+      "TSMC"
+    ],
+    "people": [
+      "Amir Zandieh",
+      "Vahab Mirrokni"
+    ],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Over 21,000 AI Agents Hacked: The OpenClaw Crisis",
+    "summary": "The open-source AI agent framework OpenClaw faces a massive cybersecurity crisis, exposing 21,000 enterprise instances to prompt injections and creating a new vulnerability termed 'Cognitive Surrender'.",
+    "engagement": "High",
+    "raw_text": "We have a massive cybersecurity disaster on our hands, guys. Over 21,000 enterprise networks using the open-source AI agent 'OpenClaw' are fully exposed to prompt injection hacks right now. Security experts are calling this a nightmare, and they coined a terrifying new term: 'Cognitive Surrender.' Basically, humans are trusting AI agents so blindly that they let them run wild with sensitive database access without checking their work. Hackers are silently siphoning data, and no alarms are going off! It got so bad that OpenAI literally just panic-hired the creator of OpenClaw to fix this kind of vulnerability inside their own walled garden. Check your tech stacks, people!",
+    "id": "I9J0K1L2",
+    "category": "Cybersecurity",
+    "companies": [
+      "OpenAI",
+      "Cisco",
+      "Gartner",
+      "Palo Alto Networks"
+    ],
+    "people": [
+      "Peter Steinberger"
+    ],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Tech News Aggregation With Exclusion List (1).docx",
+    "page": 1,
+    "title": "Tesla's Secret Robotaxi Update Is Moving Insanely Fast",
+    "summary": "Internal build strings reveal that Tesla's unsupervised Robotaxi software is iterating rapidly as the company prepares to expand into seven major U.S. cities.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about Tesla's autonomous driving that no one is talking about. Data trackers just found hidden code strings showing Tesla's totally separate 'Robotaxi' software is updating at lightning speed. We are talking over 30 new builds in just days. They are preparing to unleash unsupervised, fully autonomous Robotaxis into seven major U.S. cities, including Miami, Vegas, and Dallas, in the first half of 2026. They even removed the 'Level 4' autonomy tag, which implies a huge shift in how they plan to bypass regulations. Tesla isn't just updating FSD for consumers anymore; they are quietly building a massive ghost fleet.",
+    "id": "M3N4O5P6",
+    "category": "Automotive",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Anthropic's $400M Gamble to Cure Diseases with AI",
+    "summary": "Anthropic acquired biotech AI startup Coefficient Bio for $400 million, aiming to build foundational biology-specific AI for molecular drug discovery.",
+    "engagement": "Medium",
+    "raw_text": "Anthropic, the massive AI company behind Claude, just dropped $400 million to buy a stealth startup called Coefficient Bio. And honestly, this is huge for the future of medicine. General AI chatbots are great at reading medical text, but they absolutely suck at the actual physics and chemistry needed to discover new drugs. Coefficient Bio was built by elite scientists to create an 'artificial superintelligence for science' that can literally simulate molecular drug interactions. Anthropic is betting half a billion dollars that AI won't just write emails for you, but will actually cure diseases from the ground up.",
+    "id": "Q7R8S9T0",
+    "category": "Science",
+    "companies": [
+      "Anthropic",
+      "Coefficient Bio",
+      "Genentech"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Tech News Aggregation With Exclusion List (1).docx",
+    "page": 1,
+    "title": "Wi-Fi Is Dead? These Micro-Lasers Hit 360 Gbps!",
+    "summary": "Researchers have developed a microscopic chip using miniature lasers to transmit wireless data via light at 360 gigabits per second, vastly outperforming 5G networks.",
+    "engagement": "Medium",
+    "raw_text": "Are we about to see the end of 5G? Researchers just successfully tested a microscopic silicon chip packed with tiny lasers that transmits data via light instead of radio waves. The speeds are absolutely face-melting: 360 Gigabits per second! That's dozens of times faster than our current 5G networks, and it bypasses all the congested radio frequencies. Plus, because it uses focused light pulses, it takes less than half the power of standard Wi-Fi to run. Imagine downloading massive 8K movies or entire video games in literally a fraction of a second while saving energy. The future of wireless is lasers, guys.",
+    "id": "U1V2W3X4",
+    "category": "Hardware",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "AI Research & Innovations.pdf",
+    "page": 1,
+    "title": "Stanford's New AI Caregiver Robots Are Here",
+    "summary": "Stanford engineers are developing AI-driven assistive robots with tactile fingertips to help the aging population with daily chores and mobility.",
+    "engagement": "High",
+    "raw_text": "Have you ever thought about who is going to take care of you when you get old? Well, Stanford engineers just revealed their answer: AI robots. With a massive caregiver shortage coming up, they are building human-sized assistive robots equipped with crazy touch-sensitive fingertips and advanced AI vision. These things can help seniors get dressed, walk safely, and even do chores around the house. It's basically a real-life Baymax situation. We're stepping out of the sci-fi movies and into an era where having a domestic robot caregiver might just be totally normal. Let me know in the comments if you'd trust an AI robot to take care of your grandparents!",
+    "id": "Y5Z6A7B8",
+    "category": "Robotics",
+    "companies": [
+      "Stanford University"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "AI Research & Innovations.pdf",
+    "page": 1,
+    "title": "Cursor 3 Will Literally Code Your Next App For You",
+    "summary": "Cursor has launched its agent-first desktop interface, Cursor 3, allowing developers to spawn multiple AI coding agents to autonomously modify and write code.",
+    "engagement": "Medium",
+    "raw_text": "If you are a programmer, your job just changed forever. Cursor, the insanely popular AI coding tool, just released Cursor 3. It's an 'agent-first' interface, which means you don't just ask an AI to write a snippet of code anymore. You literally type out what you want your app to do, and Cursor spawns multiple autonomous AI agents that work together to write, edit, and implement the entire thing right in your sidebar. It's like having an entire team of junior developers working inside your computer for free. The AI coding wars are getting ruthless, and Cursor is gunning straight for OpenAI and GitHub.",
+    "id": "C9D0E1F2",
+    "category": "Software",
+    "companies": [
+      "Cursor",
+      "OpenAI",
+      "Anthropic",
+      "GitHub"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "AI Research & Innovations.pdf",
+    "page": 2,
+    "title": "An AI Chatbot is Now Prescribing Meds in Utah",
+    "summary": "Utah health authorities launched a pilot program allowing Legion Health's AI chatbot to autonomously renew prescriptions for psychiatric medications.",
+    "engagement": "High",
+    "raw_text": "Okay, this feels illegal but it's totally real. The state of Utah just launched a pilot program where an AI chatbot is legally allowed to prescribe psychiatric drugs to patients. No human doctor required! It's an AI from a startup called Legion Health, and it can automatically renew prescriptions for meds like Prozac and Zoloft for stable patients. Officials are saying it frees up doctors and cuts costs, but critics are completely freaking out, saying an AI might miss serious red flags and lead to overmedication. Would you trust an AI chatbot to write your prescription? Because the future of AI healthcare is already here.",
+    "id": "G3H4I5J6",
+    "category": "Healthcare",
+    "companies": [
+      "Legion Health"
+    ],
+    "people": [],
+    "created_at": "2026-04-04T06:59:28Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "AI Research & Innovations.pdf",
+    "page": 3,
+    "title": "Elon Musk Forces Wall Street to Buy Grok AI",
+    "summary": "Elon Musk is reportedly requiring banks handling SpaceX's planned IPO to purchase tens of millions of dollars in subscriptions for his Grok AI chatbot.",
+    "engagement": "High",
+    "raw_text": "You really can't make this up. Elon Musk is currently trying to take SpaceX public with a $75 Billion IPO, but he gave Wall Street banks a wild ultimatum. If they want a piece of the SpaceX deal, they literally have to buy tens of millions of dollars worth of subscriptions to Grok, his AI chatbot at X! He is forcing the biggest financial institutions in the world to adopt his AI just to get access to his rocket company. It's an insane power move that has corporate governance experts screaming, but the banks are actually doing it. Elon is cross-promoting his empire like an absolute boss.",
+    "id": "K7L8M9N0",
+    "category": "Business",
+    "companies": [
+      "SpaceX",
+      "xAI",
+      "Twitter"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-04-04T06:59:28Z"
+  }
+]
