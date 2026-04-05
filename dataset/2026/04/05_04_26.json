@@ -14,7 +14,9 @@
       "DeepMind"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/gemma4x2026.png",
+    "image_prompt": "Realistic news photo: diverse engineers in a modern lab clustered around a glowing holographic neural network hovering above sleek server racks with blue-green LEDs; monitors show abstract code and performance graphs; focused, breakthrough atmosphere, crisp studio lighting"
   },
   {
     "date": "2026-04-05",
@@ -30,7 +32,9 @@
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/anthmythos26.png",
+    "image_prompt": "Photorealistic corporate data center at night: open server racks bathed in cold blue light, a translucent humanoid AI made of streaming code hovering over scattered printed documents with blurred/unreadable text, red warning LEDs, loose USB drives, tense ominous mood, cinematic lighting"
   },
   {
     "date": "2026-04-01",
@@ -46,7 +50,9 @@
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/claudecode26.png",
+    "image_prompt": "Photorealistic scene: anxious developer at laptop with cascading code reflected in glasses, translucent code morphing into a glowing green python-like ribbon, open package icon and blurred server racks behind, blue-red emergency lighting, dramatic, no visible text"
   },
   {
     "date": "2026-04-05",
@@ -80,7 +86,9 @@
       "Samsung"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/samfold26.png",
+    "image_prompt": "Studio newsroom shot: two Samsung foldables on a polished table, a 4:3 Wide Fold half-open like a compact tablet, and a 10-inch TriFold with dual hinges unfolding into three panels. Neutral newsroom background, soft directional lighting, metallic finishes, realistic reflections."
   },
   {
     "date": "2026-04-04",
@@ -89,7 +97,7 @@
     "title": "Apple's AI Siri Delay Traps New Smart Home Gadgets in Warehouses",
     "summary": "Delays in finishing Apple's AI-powered Siri have bottlenecked the release of multiple smart home devices. Finished products, including a new HomePod and Apple TV, are currently sitting dormant in warehouses.",
     "engagement": "High",
-    "raw_text": "Apple fans, I have some seriously bad news regarding your future tech upgrades. The iOS 26.5 beta just dropped for developers, and the highly anticipated, revamped, AI-powered Siri is completely missing. It has been quietly pushed back to the iOS 27 cycle, and this software bottleneck is causing an absolute hardware disaster behind the scenes. Supply chain intelligence reveals that Apple literally has millions of fully manufactured smart home gadgets—including the HomePod 3, an updated Apple TV, and a brand new screen-equipped device called the 'HomePad'—just sitting dormant and collecting dust in corporate warehouses right now. Apple executives absolutely refuse to launch these next-generation products with the terribly outdated legacy Siri voice assistant, which makes sense strategically. However, it is wild to see software delays completely throttle billions of dollars in finished, ready-to-ship hardware. We might have to wait until late 2026 to see any of this stuff.",
+    "raw_text": "Apple fans, I have some seriously bad news regarding your future tech upgrades. The iOS 26.5 beta just dropped for developers, and the highly anticipated, revamped, AI-powered Siri is completely missing. It has been quietly pushed back to the iOS 27 cycle, and this software bottleneck is causing an absolute hardware disaster behind the scenes. Supply chain intelligence reveals that Apple literally has millions of fully manufactured smart home gadgets\u2014including the HomePod 3, an updated Apple TV, and a brand new screen-equipped device called the 'HomePad'\u2014just sitting dormant and collecting dust in corporate warehouses right now. Apple executives absolutely refuse to launch these next-generation products with the terribly outdated legacy Siri voice assistant, which makes sense strategically. However, it is wild to see software delays completely throttle billions of dollars in finished, ready-to-ship hardware. We might have to wait until late 2026 to see any of this stuff.",
     "id": "applesiri26",
     "category": "Hardware",
     "companies": [
@@ -114,11 +122,13 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/cybercab26.png",
+    "image_prompt": "Realistic photo-style image of a steering-wheel-free Tesla Cybercab on Gigafactory Texas production line, glossy white cab, open interior showing no wheel, autonomous sensors, robotic arms, engineers in safety gear, bright industrial lighting, newsworthy, cinematic."
   },
   {
     "date": "2026-04-03",
-    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (April 5, 2026).pdf",
     "page": 2,
     "title": "Cyber Robot Dogs Are Now Farming Tea on 45-Degree Slopes",
     "summary": "DEEP Robotics deployed its LYNX M20 wheeled-legged robots in China to transport tea leaves down steep trails. This automation drastically speeds up harvest throughput and preserves tea quality by enabling same-day processing.",
@@ -135,7 +145,7 @@
   },
   {
     "date": "2026-03-04",
-    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (April 5, 2026).pdf",
     "page": 3,
     "title": "Apple Quietly Drops the M5 MacBook Air with Huge AI Boosts",
     "summary": "Apple introduced new 13-inch and 15-inch MacBook Air laptops powered by the M5 chip, featuring massive boosts in AI video enhancement and 3D rendering. The base storage has been doubled to 512GB with a significantly faster SSD.",
@@ -147,11 +157,13 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/applem5air.png",
+    "image_prompt": "Realistic newsroom photo of two new MacBook Airs (13\" and 15\") on a modern desk, aluminum finish, screens alive with vivid AI-enhanced video and intricate 3D renders, soft directional studio lighting, shallow depth of field, professional, high-end tech mood."
   },
   {
     "date": "2026-03-24",
-    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "source_file": "Today\u2019s Tech & AI News (April 5, 2026).pdf",
     "page": 3,
     "title": "OpenAI Sora is DEAD: $1 Billion Disney Deal Canceled",
     "summary": "OpenAI abruptly canceled its AI video app Sora and a planned $1 billion partnership with Disney. The company is reportedly refocusing its compute resources on more lucrative enterprise AI and coding tools.",
@@ -164,6 +176,8 @@
       "Disney"
     ],
     "people": [],
-    "created_at": "2026-04-05T09:12:15Z"
+    "created_at": "2026-04-05T09:12:15Z",
+    "image_url": "images/05_04_26/soracancel26.png",
+    "image_prompt": "Realistic newsroom photo: dimmed smartphone on glass desk showing blurred AI video app icon, moody blue-lit modern AI campus in background, faint Disney castle silhouette through rain-streaked window, broken handshake figurines nearby, cinematic lighting, shallow depth of field, high-detail"
   }
 ]
