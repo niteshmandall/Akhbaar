@@ -1,0 +1,169 @@
+[
+  {
+    "date": "2026-04-02",
+    "source_file": "Combined",
+    "page": 4,
+    "title": "Google's Gemma 4 Changes the Open-Source Game",
+    "summary": "Google released Gemma 4, an open-source model family that matches frontier API capabilities. The 31B parameter version achieves near-frontier performance, rivaling closed-source counterparts.",
+    "engagement": "High",
+    "raw_text": "So check this out, Google just dropped an absolute bombshell on the open-source community, and you need to pay attention. They officially released the Gemma 4 model family, and it is a complete game-changer for AI development. We are talking about highly optimized models ranging from 2 billion all the way to 31 billion parameters that are punching way above their weight class. Honestly, this is huge because the 31B version is practically matching or even beating massive closed-source frontier models when it comes to complex math, coding, and agentic workflows. You can literally run this level of intelligence locally on your PC or mobile phone without paying ridiculous API fees. It is completely Apache-licensed, meaning developers and researchers are going to go absolutely wild building custom tools with this foundation. If you thought proprietary models were the only way forward, Google is forcing the entire industry to rethink that strategy right now. Open source is catching up faster than anyone predicted, and the big players should be terrified.",
+    "id": "gemma4x2026",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-05",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Anthropic's Leaked 'Claude Mythos' AI Could Be a Cybersecurity Nightmare",
+    "summary": "Anthropic suffered a massive data leak exposing its unreleased 'Claude Mythos' model. Internal documents describe the model as a 'step change' in capability that poses unprecedented cybersecurity risks.",
+    "engagement": "High",
+    "raw_text": "Here is the wild part of today's news: Anthropic just suffered a catastrophic data leak, exposing their highly secretive, next-generation AI codenamed 'Claude Mythos'. According to the leaked internal documents, they are calling this model a literal 'step change' in intelligence. But it is apparently so incredibly good at offensive security and coding that it poses unprecedented, global cyber-risks. I mean, they are literally having to warn governments because this thing can exploit vulnerabilities faster than human defenders can patch them. It belongs to a brand new 'Capybara' tier that completely dwarfs their current Opus and Sonnet models in size and cost. The craziest part of all this is that the leak happened simply because of a basic CMS misconfiguration. The model is already secretly in beta testing with early-access clients. While there is no public release date yet, this totally shifts the competitive landscape of AI and makes you wonder if we are moving too fast.",
+    "id": "anthmythos26",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-01",
+    "source_file": "Tech News Aggregation With Exclusion List.pdf",
+    "page": 3,
+    "title": "$2.5 Billion Blunder: Anthropic Accidentally Leaks Claude Code",
+    "summary": "Anthropic inadvertently published the complete source code for its $2.5 billion Claude Code product to a public npm registry. Independent developers used AI to instantly translate the codebase to Python, bypassing DMCA takedowns.",
+    "engagement": "High",
+    "raw_text": "You will not believe the massive 2.5 billion dollar mistake Anthropic just made in front of the entire world. Due to a missed manual step in their deployment pipeline, they accidentally pushed the entire proprietary source code for their 'Claude Code' agent to a public npm registry. Within a matter of hours, over half a million lines of deeply secretive code were downloaded and cloned across GitHub tens of thousands of times. But here is where the story gets absolutely insane. While Anthropic was desperately spamming DMCA takedown notices to hide their code, a rogue developer used AI tools to instantly rewrite the entire JavaScript codebase into Python. Because they completely changed the programming language but kept the exact same function, it created a massive, highly disruptive legal loophole. DMCA enforcement is now legally ambiguous here. Protecting closed-source algorithms might literally be impossible in an era where AI can translate intellectual property instantaneously. This is a massive wake-up call for the entire software industry.",
+    "id": "claudecode26",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-05",
+    "source_file": "Tech News Aggregation With Exclusion List.pdf",
+    "page": 7,
+    "title": "Nvidia's 'Vera Rubin' AI Chip Hits Full Production with $1 Trillion Demand",
+    "summary": "Nvidia confirmed its next-generation Vera Rubin AI platform is in full production, shifting focus from training to inference compute. The company reported record revenue and projects a $1 trillion demand pipeline through 2027.",
+    "engagement": "High",
+    "raw_text": "Honestly, if you thought Nvidia was starting to slow down, you need to think again because they are dominating right now. CEO Jensen Huang just confirmed that their next-generation 'Vera Rubin' architecture is already in full production and will start shipping later this year. This is a massive, structural pivot away from raw training power towards extreme, memory-bound inference compute. They are quite literally building this tech from the data center outward, integrating six separate hardware components to eliminate any possible latency bottlenecks. And if you want to know about the financial numbers? They are absolutely staggering. Nvidia is currently projecting over 1 trillion dollars in demand visibility extending all the way through 2027 just for their Blackwell and Rubin chips. They are cementing themselves as the absolute foundational layer for physical AI, robotics, and the future of quantum computing. It is becoming clear that we are entering an era where inference is king, and Nvidia holds all the keys to the kingdom.",
+    "id": "nvidiavera26",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-05",
+    "source_file": "Tech News Aggregation With Exclusion List.pdf",
+    "page": 8,
+    "title": "Samsung Unveils 4:3 'Wide Fold' and a Crazy 10-Inch TriFold",
+    "summary": "Samsung is diversifying its foldable lineup with a new 4:3 aspect ratio 'Galaxy Z Wide Fold' and a dual-hinge 'Galaxy Z TriFold'. Despite utilizing older display materials, these novel forms aim to stimulate a stagnant market.",
+    "engagement": "High",
+    "raw_text": "So check this out, Samsung is getting really weird and experimental with foldables again, and I am entirely here for it. To fight off massive market stagnation, they are preparing to drop the 'Galaxy Z Wide Fold'. This phone features a brand new 4:3 aspect ratio on the inside, basically giving you a perfectly proportioned mini tablet that directly takes shots at rumored foldable Apple designs. But wait, there is so much more. They also showed off a fully functional 'Galaxy Z TriFold' at CES with a crazy dual-hinge system that unfolds a regular smartphone into a massive 10-inch screen. It won best in show for a reason. The only slight bummer here is that supply chain leaks say they are sticking with older M13 OLED display panels to keep costs down. Still, seeing the multi-fold form factor finally hit commercial viability and maturity is incredibly exciting for anyone bored of standard slab phones.",
+    "id": "samfold26",
+    "category": "Mobile",
+    "companies": [
+      "Samsung"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-04",
+    "source_file": "Tech News Aggregation With Exclusion List.pdf",
+    "page": 10,
+    "title": "Apple's AI Siri Delay Traps New Smart Home Gadgets in Warehouses",
+    "summary": "Delays in finishing Apple's AI-powered Siri have bottlenecked the release of multiple smart home devices. Finished products, including a new HomePod and Apple TV, are currently sitting dormant in warehouses.",
+    "engagement": "High",
+    "raw_text": "Apple fans, I have some seriously bad news regarding your future tech upgrades. The iOS 26.5 beta just dropped for developers, and the highly anticipated, revamped, AI-powered Siri is completely missing. It has been quietly pushed back to the iOS 27 cycle, and this software bottleneck is causing an absolute hardware disaster behind the scenes. Supply chain intelligence reveals that Apple literally has millions of fully manufactured smart home gadgets—including the HomePod 3, an updated Apple TV, and a brand new screen-equipped device called the 'HomePad'—just sitting dormant and collecting dust in corporate warehouses right now. Apple executives absolutely refuse to launch these next-generation products with the terribly outdated legacy Siri voice assistant, which makes sense strategically. However, it is wild to see software delays completely throttle billions of dollars in finished, ready-to-ship hardware. We might have to wait until late 2026 to see any of this stuff.",
+    "id": "applesiri26",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-05",
+    "source_file": "Tech News Aggregation With Exclusion List.pdf",
+    "page": 11,
+    "title": "Tesla's Steering-Wheel-Free Cybercab Enters Volume Production",
+    "summary": "Tesla initiated volume production of its steering-wheel-free Cybercab at Gigafactory Texas. The vehicle relies entirely on Full Self-Driving architecture and is targeted for a sub-$30,000 retail price.",
+    "engagement": "High",
+    "raw_text": "Here is a massive, historic milestone for the future of autonomous transport: Tesla has officially started volume production of their highly anticipated Cybercab down at Gigafactory Texas. I am talking about a commercial vehicle with absolutely zero steering wheels, zero pedals, and no physical fallback mechanisms whatsoever. It relies 100 percent exclusively on their vision-based Full Self-Driving architecture to navigate the world. In terms of manufacturing, they managed to drastically slash the number of structural parts by roughly 60 percent compared to the Model Y, which is just insane engineering. While these initial production runs are heading straight to Tesla's proprietary ride-hailing fleet to crush Uber and Waymo, they are aggressively targeting a retail price under 30,000 dollars for regular consumers down the line. This is basically Elon Musk officially pivoting the whole entire company from a traditional automotive manufacturer into an unstoppable physical AI and robotics titan.",
+    "id": "cybercab26",
+    "category": "Hardware",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-04-03",
+    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "page": 2,
+    "title": "Cyber Robot Dogs Are Now Farming Tea on 45-Degree Slopes",
+    "summary": "DEEP Robotics deployed its LYNX M20 wheeled-legged robots in China to transport tea leaves down steep trails. This automation drastically speeds up harvest throughput and preserves tea quality by enabling same-day processing.",
+    "engagement": "High",
+    "raw_text": "Honestly, this news feels straight out of a futuristic sci-fi movie, but it is happening right now. DEEP Robotics just deployed their incredible LYNX M20 wheeled-legged robots to work as literal 'cyber tea farmers' in China. These AI-powered robot dogs are currently carrying heavy baskets of freshly picked tea leaves down incredibly steep 45-degree mountain slopes and tiny half-meter trails that no traditional vehicle could ever possibly navigate. By fully automating this brutal, physically demanding 'first kilometer' of mountain transport, they are completely solving massive local labor shortages. Even better, this gets the tea processed on the exact same day, massively preserving the crop quality. It is a perfect, real-world example of how rugged, terrain-agnostic robotics are finally moving completely out of the sterile laboratory and doing the real, dirty, physical jobs in agriculture. The era of embodied physical AI is officially here, and it is carrying our tea.",
+    "id": "deeprobotics26",
+    "category": "Robotics",
+    "companies": [
+      "DEEP Robotics",
+      "JD Logistics"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-03-04",
+    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "page": 3,
+    "title": "Apple Quietly Drops the M5 MacBook Air with Huge AI Boosts",
+    "summary": "Apple introduced new 13-inch and 15-inch MacBook Air laptops powered by the M5 chip, featuring massive boosts in AI video enhancement and 3D rendering. The base storage has been doubled to 512GB with a significantly faster SSD.",
+    "engagement": "High",
+    "raw_text": "So Apple just completely stealth-dropped the brand new M5 MacBook Airs, and the architectural performance leap is actually ridiculous. We are talking about achieving up to 6.9 times faster AI video enhancement speeds compared to the original M1 chip. They are heavily prioritizing and pushing this silicon specifically for intense on-device AI tasks and running Apple Intelligence locally. But here is the real, tangible win for everyday consumers: Apple finally, mercifully doubled the base storage to 512 gigabytes, and the new SSD speeds are reportedly twice as fast. Throw in brand new Wi-Fi 7 support, hardware ray-tracing cores, and a stunning liquid retina display, and Apple is basically turning their entry-level laptop tier into an absolute powerhouse for creative professionals and AI workloads. If you have been stubbornly holding onto an older Air model for years, this is definitely the massive hardware upgrade you have been waiting for.",
+    "id": "applem5air",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  },
+  {
+    "date": "2026-03-24",
+    "source_file": "Today’s Tech & AI News (April 5, 2026).pdf",
+    "page": 3,
+    "title": "OpenAI Sora is DEAD: $1 Billion Disney Deal Canceled",
+    "summary": "OpenAI abruptly canceled its AI video app Sora and a planned $1 billion partnership with Disney. The company is reportedly refocusing its compute resources on more lucrative enterprise AI and coding tools.",
+    "engagement": "High",
+    "raw_text": "Here is a massive, totally unexpected shocker in the generative AI space today: OpenAI just abruptly pulled the plug on Sora. Yeah, you heard that right, that insane text-to-video generation tool they hyped up to the absolute moon is totally dead, and they even canceled a massive 1 billion dollar licensing deal with Disney along with it. Why would they do this? Apparently, OpenAI desperately needs to free up raw compute power and is pivoting incredibly hard away from flashy consumer media toys. They want to focus entirely on highly lucrative enterprise tools, coding assistants, and deploying actual artificial general intelligence. It completely highlights how incredibly crazy the hardware and resource constraints are right now, even for the absolute biggest, best-funded players in the industry. The AI hype cycle is rapidly consolidating, and cold, hard enterprise cash is winning out over viral consumer flash.",
+    "id": "soracancel26",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Disney"
+    ],
+    "people": [],
+    "created_at": "2026-04-05T09:12:15Z"
+  }
+]
