@@ -1,175 +1,195 @@
 [
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (1).docx",
-        "page": 4,
-        "title": "Open-Source AI Just Beat OpenAI? Z.ai's GLM-5.1 is a Beast!",
-        "summary": "Chinese AI developer Z.ai released GLM-5.1, an open-weight 754-billion parameter model capable of running autonomously for eight hours. It achieved a state-of-the-art score on SWE-Bench Pro, outperforming proprietary models like GPT-5.4 and Claude Opus 4.6.",
-        "engagement": "High",
-        "raw_text": "Alright guys, so check this out. The AI wars just went absolute nuclear today. For the longest time, we've thought the big Western companies like OpenAI and Google had the agentic AI market completely cornered, right? Wrong. Chinese AI startup Z.ai just dropped an open-weight model called GLM-5.1, and honestly, this is huge. We are talking about a 754-billion parameter absolute unit of a model. But here's the wild part: it's not just a chatbot. It's an autonomous agent optimized for what they are calling 'productive horizons.' This thing can literally run completely by itself for eight continuous hours, running engineering experiments, fixing code, and pivoting strategies without you ever clicking a button. The SWE-Bench Pro scores are out, and GLM-5.1 just smoked GPT-5.4 and Claude Opus 4.6. It scored a 58.4, taking the number one spot globally. And they released it with an MIT license, meaning anyone can use it commercially! The fact that an open-source model has entirely closed the gap with the biggest proprietary systems in the world is genuinely terrifying and exciting all at once. What do you guys think? Is the moat officially dead?",
-        "id": "a1b2c3d4",
-        "category": "AI",
-        "companies": [
-            "Z.ai",
-            "OpenAI",
-            "Anthropic"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (1).docx",
-        "page": 5,
-        "title": "Anthropic Built an AI So Powerful They Are Hiding It!",
-        "summary": "Anthropic unveiled 'Project Glasswing' and its newest frontier model, 'Mythos Preview,' which is being restricted from public release. Instead, it is being shared with a coalition of tech giants to secure critical software infrastructure against deep vulnerabilities.",
-        "engagement": "High",
-        "raw_text": "So, you know how AI companies usually hype up their new models and beg you to buy a subscription? Well, Anthropic just did the exact opposite, and it is honestly wild. They just announced their newest frontier model called 'Mythos Preview,' but you and I are never going to get to use it. They are literally keeping it locked up behind closed doors. Why? Because it's apparently too dangerous. Through an initiative they're calling 'Project Glasswing,' Anthropic is only giving access to a very select coalition of tech giants like Apple, Google, and Amazon. In closed testing, Mythos is so smart that it found critical zero-day security vulnerabilities that had successfully hidden from humans for 27 years. Yes, you heard that right—bugs older than some of my viewers! They are using Mythos exclusively to patch up the global internet infrastructure before hackers can get their hands on equivalent agentic AI. It's like a secret weapon for cybersecurity defense. The fact that we have officially reached the 'too powerful for the public' era of AI is just mind-blowing to me. Let me know down in the comments if you think they should release it anyway!",
-        "id": "x9y8z7w6",
-        "category": "AI",
-        "companies": [
-            "Anthropic",
-            "Apple",
-            "Google",
-            "Amazon"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (1).docx",
-        "page": 8,
-        "title": "Generate a Full TV Show in Hours? Meet Flik AI!",
-        "summary": "Los Angeles-based startup Flik launched an advanced generative AI platform capable of orchestrating text, image, video, and audio production. It allows users to synthesize fully produced 20-minute television episodes in hours while embedding strict IP governance.",
-        "engagement": "High",
-        "raw_text": "Here's the wild part about the new AI video tools coming out right now: they are no longer just making weird, glitched-out 3-second clips. A new startup out of LA called Flik just launched, and honestly, this is huge for the entertainment industry. Flik acts like a master orchestrator, taking all the top models like Claude, Gemini, and ElevenLabs, and syncing them up perfectly. The result? You can now synthesize an entire, fully produced 20-minute television episode in a matter of hours! We are talking consistent character modeling across scenes, original musical scores, and perfect lip-syncing for over 50 animated shots simultaneously. But what makes Flik actually viable for big companies is their embedded governance architecture. Unlike earlier models where you could accidentally copy Disney characters, Flik structurally blocks the generation of real human faces and copyrighted material natively. It's completely brand-safe. They literally showed off a viral video today that hit 2.5 million views in three days, all generated by one single user. We are looking at the complete democratization of Hollywood right here. If you could make any TV show right now, what would it be?",
-        "id": "p4q5r6s7",
-        "category": "AI",
-        "companies": [
-            "Flik",
-            "SV Angel",
-            "Y Combinator"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-07",
-        "source_file": "Tech News and AI Developments – April 8, 2026.pdf",
-        "page": 1,
-        "title": "Tesla FSD v14.3 Just Dropped: 20% Faster Reactions!",
-        "summary": "Tesla began rolling out Full Self-Driving version 14.3, featuring an MLIR compiler rewrite that improves reaction times by 20%. The update drastically enhances parking maneuvers and emergency vehicle responses for HW4 cars.",
-        "engagement": "High",
-        "raw_text": "Alright guys, Tesla just dropped a massive software update, and if you drive a Hardware 4 car, you are going to want to hear this. Tesla started rolling out Full Self-Driving version 14.3 Supervised yesterday, and they did a complete ground-up rewrite of their AI compiler using MLIR. So, what does that actually mean for you behind the wheel? According to the release notes, this change alone resulted in a massive 20% faster reaction time! Honestly, this is huge for safety. When you are flying down the highway, fractions of a second matter, and giving the car a 20% boost to its reflexes is a game-changer. The build, which is 2026.2.9.6 for those tracking, also seriously upgrades the car's ability to handle super rare edge-case scenarios, like responding to emergency vehicles and nailing those tricky parking maneuvers. The autonomous driving space has been getting insanely competitive lately, but Tesla rewriting the underlying code to squeeze this much performance out of their existing hardware is a massive flex. Have any of you guys gotten the 14.3 update yet? Drop a comment below and tell me how it feels on the road!",
-        "id": "m1n2o3p4",
-        "category": "Automotive",
-        "companies": [
-            "Tesla"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News and AI Developments – April 8, 2026.pdf",
-        "page": 1,
-        "title": "X Just Turned Every User Into an Artist with Grok AI!",
-        "summary": "Social platform X introduced Grok-powered updates that automatically translate posts into a user's native language. Additionally, users can now use natural-language prompts to edit any photo directly within the app.",
-        "engagement": "High",
-        "raw_text": "So check this out, X—formerly Twitter, you know the deal—just dropped two massive updates powered by xAI's Grok, and they are rolling out right now. First up, the platform is now automatically translating posts directly into your native language. This is going to completely break down borders on the app and make global content go way more viral. But here is the wild part: they also added a built-in AI photo editor. You can now take any photo on your timeline and use natural language prompts to completely change it. I'm talking about typing 'display this photo as a painting in a museum' and boom, Grok generates a stylized, remixed image right there in the app. Honestly, this is huge for creators. You don't need Photoshop or Midjourney anymore to make some insanely creative quote-tweets or memes. The product head announced this yesterday, and it's clear the goal is to make X the absolute center for AI-driven creativity. I can already see the timeline getting flooded with these AI edits. Have you guys tried the new Grok photo editor yet? Let me know!",
-        "id": "t8u9v0w1",
-        "category": "Social Media",
-        "companies": [
-            "X",
-            "xAI"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (1).docx",
-        "page": 7,
-        "title": "Uber's Driverless VW Vans Just Hit the Streets in LA!",
-        "summary": "Uber and MOIA (Volkswagen Group) have begun on-road validation testing of purpose-built, autonomous VW ID. Buzz vehicles in Los Angeles. The companies plan a full commercial launch on the Uber platform by late 2026.",
-        "engagement": "High",
-        "raw_text": "Okay, so if you live in Los Angeles, you might want to look out your window right now, because the future is literally driving down the street. Uber just officially announced they have partnered up with MOIA—which is Volkswagen's autonomous mobility division—and they are putting fully driverless VW ID. Buzz vehicles onto the streets of LA! Right now, they have a fleet that's scaling up to over 100 of these futuristic electric vans driving around, collecting data, and running tests. They still have a human safety operator inside just in case, but they are aiming for a massive, fully commercial launch by the end of this year. Yes, late 2026! Honestly, this is huge. Imagine pulling out your phone, ordering an Uber, and a driverless, retro-futuristic VW van pulls up to take you to the club. They are combining MOIA's self-driving hardware with Uber's massive ride-hailing network, and they are planning to expand to thousands of cars across multiple US markets soon. Are we actually ready for the robotaxi revolution? Would you feel safe riding alone in one of these? Let me know!",
-        "id": "f5g6h7i8",
-        "category": "Automotive",
-        "companies": [
-            "Uber",
-            "MOIA",
-            "Volkswagen Group"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News and AI Developments – April 8, 2026.pdf",
-        "page": 2,
-        "title": "Databricks CTO Claims 'AGI is Here Already'!",
-        "summary": "Databricks co-founder and Berkeley professor Matei Zaharia won the 2025 ACM Prize in Computing. During the announcement, Zaharia sparked intense debate by stating that Artificial General Intelligence is already here, just not in a form we appreciate.",
-        "engagement": "High",
-        "raw_text": "Alright guys, we need to talk about what just happened because the AI community is completely losing its mind today. Matei Zaharia, who is a Berkeley professor and the CTO of Databricks, just won the highly prestigious 2025 ACM Prize in Computing. He is a certified genius who built the open-source frameworks that literally make global AI possible. But here's the wild part. During the coverage for his award, Matei made a massive, provocative statement. He literally said, quote, 'AGI is here already, it's just not in a form that we appreciate.' Boom. Drops the mic. Honestly, this is huge coming from someone at his level. For years we have been waiting for this magical moment where an AI wakes up like Skynet, but Matei is basically saying we've already crossed the threshold of Artificial General Intelligence, we just aren't recognizing it because it looks like a series of complex data pipelines and agentic models instead of a sci-fi robot. What do you guys think? Is the Databricks CTO right? Are we actually living in the post-AGI world right now without even knowing it? Let's argue in the comments!",
-        "id": "j9k0l1m2",
-        "category": "AI",
-        "companies": [
-            "Databricks"
-        ],
-        "people": [
-            "Matei Zaharia"
-        ],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (1).docx",
-        "page": 8,
-        "title": "This Viral AI Video Just Terrified Hollywood!",
-        "summary": "A viral video titled 'Jia Zhangke's Dance' exploded online during the 2026 Lunar New Year, depicting an AI-generated youthful version of the director conversing with his older synthetic self. The digital cloning has sparked a massive debate on auteur theory and authorship.",
-        "engagement": "High",
-        "raw_text": "So check this out, a video out of China just went insanely viral, and it is sending absolute shockwaves through Hollywood. It's called 'Jia Zhangke's Dance.' In the video, we see the legendary film director Jia Zhangke having this incredibly deep, philosophical conversation with a younger, 20-something version of himself. They take this virtual tour through all of his famous movies, and the visuals are absolutely stunning. But here is the wild part, the massive twist at the end: neither of them are real. Both the young director and the old director are completely synthetic digital clones generated entirely by AI! Honestly, this is huge and a little bit terrifying. The execution is so flawless that it has completely reignited the debate around the future of movies. Can an AI be an 'auteur'? If you can perfectly clone a legendary director's mind and visuals, what happens to the human filmmakers? The commercial reality of digital cloning is officially here, and the entertainment industry is low-key panicking. Do you think movies directed by AI clones are the future, or is this just a crazy gimmick? Let me know!",
-        "id": "c3d4e5f6",
-        "category": "Entertainment",
-        "companies": [],
-        "people": [
-            "Jia Zhangke"
-        ],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-07",
-        "source_file": "Tech News and AI Developments – April 8, 2026.pdf",
-        "page": 2,
-        "title": "AI is Using So Much Power the Grid Might Break!",
-        "summary": "The U.S. Energy Information Administration forecasts historic electricity usage for 2026-2027, driven heavily by massive AI data centers. Power demand is projected to climb to 4,381 billion kWh, requiring urgent grid upgrades and clean energy investments.",
-        "engagement": "Medium",
-        "raw_text": "Okay, we need to talk about the hidden cost of the AI boom, because the numbers that just came out are actually insane. The US Energy Information Administration just released their latest forecasts, and they are projecting absolute record-shattering electricity demand for 2026 and 2027. We are talking about power usage jumping to nearly 4.4 trillion kilowatt-hours! And guess what is single-handedly driving this massive surge? You guessed it: AI data centers. All those advanced models, the ChatGPTs, the agentic AI swarms—they require a ridiculous amount of compute power. Honestly, this is a huge problem. Our current power grid is literally not built to handle this kind of load. The report notes that this extreme energy impact is forcing a massive scramble for grid upgrades and new clean energy infrastructure just to keep the lights on. It's crazy to think that sending a prompt to an AI might be putting a strain on the local power plant. Do you guys think tech companies need to build their own nuclear reactors to power this stuff, or is this AI bubble going to pop first? Sound off below!",
-        "id": "v7w8x9y0",
-        "category": "Energy",
-        "companies": [
-            "U.S. Energy Information Administration"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    },
-    {
-        "date": "2026-04-07",
-        "source_file": "Tech News and AI Developments – April 8, 2026.pdf",
-        "page": 1,
-        "title": "Adobe Just Made the Ultimate AI Study Hack for Students!",
-        "summary": "Adobe integrated a free AI feature called 'Student Spaces' into Acrobat, designed to automatically generate flashcards, quizzes, mind maps, and podcasts from uploaded class materials. This tool aims to compete directly with Google's NotebookLM in the AI education market.",
-        "engagement": "Medium",
-        "raw_text": "Alright guys, if you are a student right now, you are going to absolutely love this. Adobe just completely changed the game for studying. They just dropped a brand new, totally free AI feature directly inside of Acrobat called 'Student Spaces.' So check this out: instead of manually making study guides, you just upload your massive PDFs, class notes, and even web links into the tool. Then, the AI assistant—which is trained specifically on your documents so it doesn't hallucinate fake info—automatically generates flashcards, interactive mind maps, practice quizzes, and even study podcasts! Honestly, this is huge. They tested it with over 500 students to get it right, and it is a massive shot across the bow at Google's NotebookLM. It basically turns boring old Acrobat into this ultimate, one-stop AI study hub. Gone are the days of spending five hours making Quizlet decks; the AI just does the heavy lifting for you so you can actually get to studying. If you are in college or high school, are you going to use this for your next big exam? Let me know down in the comments!",
-        "id": "b1n2m3k4",
-        "category": "Software",
-        "companies": [
-            "Adobe",
-            "Google"
-        ],
-        "people": [],
-        "created_at": "2026-04-08T16:36:01Z"
-    }
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (1).docx",
+    "page": 4,
+    "title": "Open-Source AI Just Beat OpenAI? Z.ai's GLM-5.1 is a Beast!",
+    "summary": "Chinese AI developer Z.ai released GLM-5.1, an open-weight 754-billion parameter model capable of running autonomously for eight hours. It achieved a state-of-the-art score on SWE-Bench Pro, outperforming proprietary models like GPT-5.4 and Claude Opus 4.6.",
+    "engagement": "High",
+    "raw_text": "Alright guys, so check this out. The AI wars just went absolute nuclear today. For the longest time, we've thought the big Western companies like OpenAI and Google had the agentic AI market completely cornered, right? Wrong. Chinese AI startup Z.ai just dropped an open-weight model called GLM-5.1, and honestly, this is huge. We are talking about a 754-billion parameter absolute unit of a model. But here's the wild part: it's not just a chatbot. It's an autonomous agent optimized for what they are calling 'productive horizons.' This thing can literally run completely by itself for eight continuous hours, running engineering experiments, fixing code, and pivoting strategies without you ever clicking a button. The SWE-Bench Pro scores are out, and GLM-5.1 just smoked GPT-5.4 and Claude Opus 4.6. It scored a 58.4, taking the number one spot globally. And they released it with an MIT license, meaning anyone can use it commercially! The fact that an open-source model has entirely closed the gap with the biggest proprietary systems in the world is genuinely terrifying and exciting all at once. What do you guys think? Is the moat officially dead?",
+    "id": "02808496",
+    "category": "AI",
+    "companies": [
+      "Z.ai",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/02808496.png",
+    "image_prompt": "Photo-realistic image: modern data center with glowing server racks and a translucent holographic neural-network brain hovering above them; two Chinese engineers in professional attire observing intently; dramatic cool-blue lighting, high-detail, shallow depth of field, tense breakthrough mood, suitable for news"
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (1).docx",
+    "page": 5,
+    "title": "Anthropic Built an AI So Powerful They Are Hiding It!",
+    "summary": "Anthropic unveiled 'Project Glasswing' and its newest frontier model, 'Mythos Preview,' which is being restricted from public release. Instead, it is being shared with a coalition of tech giants to secure critical software infrastructure against deep vulnerabilities.",
+    "engagement": "High",
+    "raw_text": "So, you know how AI companies usually hype up their new models and beg you to buy a subscription? Well, Anthropic just did the exact opposite, and it is honestly wild. They just announced their newest frontier model called 'Mythos Preview,' but you and I are never going to get to use it. They are literally keeping it locked up behind closed doors. Why? Because it's apparently too dangerous. Through an initiative they're calling 'Project Glasswing,' Anthropic is only giving access to a very select coalition of tech giants like Apple, Google, and Amazon. In closed testing, Mythos is so smart that it found critical zero-day security vulnerabilities that had successfully hidden from humans for 27 years. Yes, you heard that right\u2014bugs older than some of my viewers! They are using Mythos exclusively to patch up the global internet infrastructure before hackers can get their hands on equivalent agentic AI. It's like a secret weapon for cybersecurity defense. The fact that we have officially reached the 'too powerful for the public' era of AI is just mind-blowing to me. Let me know down in the comments if you think they should release it anyway!",
+    "id": "x9y8z7w6",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Apple",
+      "Google",
+      "Amazon"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/x9y8z7w6.png",
+    "image_prompt": "Realistic news photo: high-security data lab at night, a translucent wing-shaped holographic AI core glowing cyan inside a glass vault, serious engineers and corporate leaders observing from behind reinforced glass, guarded server racks, tense cinematic lighting"
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (1).docx",
+    "page": 8,
+    "title": "Generate a Full TV Show in Hours? Meet Flik AI!",
+    "summary": "Los Angeles-based startup Flik launched an advanced generative AI platform capable of orchestrating text, image, video, and audio production. It allows users to synthesize fully produced 20-minute television episodes in hours while embedding strict IP governance.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about the new AI video tools coming out right now: they are no longer just making weird, glitched-out 3-second clips. A new startup out of LA called Flik just launched, and honestly, this is huge for the entertainment industry. Flik acts like a master orchestrator, taking all the top models like Claude, Gemini, and ElevenLabs, and syncing them up perfectly. The result? You can now synthesize an entire, fully produced 20-minute television episode in a matter of hours! We are talking consistent character modeling across scenes, original musical scores, and perfect lip-syncing for over 50 animated shots simultaneously. But what makes Flik actually viable for big companies is their embedded governance architecture. Unlike earlier models where you could accidentally copy Disney characters, Flik structurally blocks the generation of real human faces and copyrighted material natively. It's completely brand-safe. They literally showed off a viral video today that hit 2.5 million views in three days, all generated by one single user. We are looking at the complete democratization of Hollywood right here. If you could make any TV show right now, what would it be?",
+    "id": "p4q5r6s7",
+    "category": "AI",
+    "companies": [
+      "Flik",
+      "SV Angel",
+      "Y Combinator"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/p4q5r6s7.png",
+    "image_prompt": "Realistic news photo: modern Los Angeles startup office at dusk, diverse team collaborating around a large transparent holographic display showing layered video timelines, storyboard thumbnails, audio waveforms; cinematic warm lighting, city skyline visible, focused innovative mood"
+  },
+  {
+    "date": "2026-04-07",
+    "source_file": "Tech News and AI Developments \u2013 April 8, 2026.pdf",
+    "page": 1,
+    "title": "Tesla FSD v14.3 Just Dropped: 20% Faster Reactions!",
+    "summary": "Tesla began rolling out Full Self-Driving version 14.3, featuring an MLIR compiler rewrite that improves reaction times by 20%. The update drastically enhances parking maneuvers and emergency vehicle responses for HW4 cars.",
+    "engagement": "High",
+    "raw_text": "Alright guys, Tesla just dropped a massive software update, and if you drive a Hardware 4 car, you are going to want to hear this. Tesla started rolling out Full Self-Driving version 14.3 Supervised yesterday, and they did a complete ground-up rewrite of their AI compiler using MLIR. So, what does that actually mean for you behind the wheel? According to the release notes, this change alone resulted in a massive 20% faster reaction time! Honestly, this is huge for safety. When you are flying down the highway, fractions of a second matter, and giving the car a 20% boost to its reflexes is a game-changer. The build, which is 2026.2.9.6 for those tracking, also seriously upgrades the car's ability to handle super rare edge-case scenarios, like responding to emergency vehicles and nailing those tricky parking maneuvers. The autonomous driving space has been getting insanely competitive lately, but Tesla rewriting the underlying code to squeeze this much performance out of their existing hardware is a massive flex. Have any of you guys gotten the 14.3 update yet? Drop a comment below and tell me how it feels on the road!",
+    "id": "m1n2o3p4",
+    "category": "Automotive",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/m1n2o3p4.png",
+    "image_prompt": "Photorealistic news-style image: Tesla HW4-equipped electric sedan executing a precise parallel parking maneuver as an ambulance with flashing lights races by; driver relaxed, hands off wheel, visible camera array, crisp daylight, shallow depth of field, dynamic urgency."
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News and AI Developments \u2013 April 8, 2026.pdf",
+    "page": 1,
+    "title": "X Just Turned Every User Into an Artist with Grok AI!",
+    "summary": "Social platform X introduced Grok-powered updates that automatically translate posts into a user's native language. Additionally, users can now use natural-language prompts to edit any photo directly within the app.",
+    "engagement": "High",
+    "raw_text": "So check this out, X\u2014formerly Twitter, you know the deal\u2014just dropped two massive updates powered by xAI's Grok, and they are rolling out right now. First up, the platform is now automatically translating posts directly into your native language. This is going to completely break down borders on the app and make global content go way more viral. But here is the wild part: they also added a built-in AI photo editor. You can now take any photo on your timeline and use natural language prompts to completely change it. I'm talking about typing 'display this photo as a painting in a museum' and boom, Grok generates a stylized, remixed image right there in the app. Honestly, this is huge for creators. You don't need Photoshop or Midjourney anymore to make some insanely creative quote-tweets or memes. The product head announced this yesterday, and it's clear the goal is to make X the absolute center for AI-driven creativity. I can already see the timeline getting flooded with these AI edits. Have you guys tried the new Grok photo editor yet? Let me know!",
+    "id": "t8u9v0w1",
+    "category": "Social Media",
+    "companies": [
+      "X",
+      "xAI"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/t8u9v0w1.png",
+    "image_prompt": "Photo-realistic image of a diverse young person in a bright modern cafe holding a smartphone showing a sleek photo-editor UI: split before/after edit, glowing voice-wave icon and a translucent globe with swirling arrows, newsroom lighting, crisp high-detail, no visible text."
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (1).docx",
+    "page": 7,
+    "title": "Uber's Driverless VW Vans Just Hit the Streets in LA!",
+    "summary": "Uber and MOIA (Volkswagen Group) have begun on-road validation testing of purpose-built, autonomous VW ID. Buzz vehicles in Los Angeles. The companies plan a full commercial launch on the Uber platform by late 2026.",
+    "engagement": "High",
+    "raw_text": "Okay, so if you live in Los Angeles, you might want to look out your window right now, because the future is literally driving down the street. Uber just officially announced they have partnered up with MOIA\u2014which is Volkswagen's autonomous mobility division\u2014and they are putting fully driverless VW ID. Buzz vehicles onto the streets of LA! Right now, they have a fleet that's scaling up to over 100 of these futuristic electric vans driving around, collecting data, and running tests. They still have a human safety operator inside just in case, but they are aiming for a massive, fully commercial launch by the end of this year. Yes, late 2026! Honestly, this is huge. Imagine pulling out your phone, ordering an Uber, and a driverless, retro-futuristic VW van pulls up to take you to the club. They are combining MOIA's self-driving hardware with Uber's massive ride-hailing network, and they are planning to expand to thousands of cars across multiple US markets soon. Are we actually ready for the robotaxi revolution? Would you feel safe riding alone in one of these? Let me know!",
+    "id": "f5g6h7i8",
+    "category": "Automotive",
+    "companies": [
+      "Uber",
+      "MOIA",
+      "Volkswagen Group"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/f5g6h7i8.png",
+    "image_prompt": "Photo-realistic news photo of autonomous VW ID. Buzz\u2013style electric vans with rooftop lidar and sensors driving a palm-lined Los Angeles street at golden hour; engineers in hi-vis vests with tablets observing; LA skyline background; crisp documentary lighting."
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News and AI Developments \u2013 April 8, 2026.pdf",
+    "page": 2,
+    "title": "Databricks CTO Claims 'AGI is Here Already'!",
+    "summary": "Databricks co-founder and Berkeley professor Matei Zaharia won the 2025 ACM Prize in Computing. During the announcement, Zaharia sparked intense debate by stating that Artificial General Intelligence is already here, just not in a form we appreciate.",
+    "engagement": "High",
+    "raw_text": "Alright guys, we need to talk about what just happened because the AI community is completely losing its mind today. Matei Zaharia, who is a Berkeley professor and the CTO of Databricks, just won the highly prestigious 2025 ACM Prize in Computing. He is a certified genius who built the open-source frameworks that literally make global AI possible. But here's the wild part. During the coverage for his award, Matei made a massive, provocative statement. He literally said, quote, 'AGI is here already, it's just not in a form that we appreciate.' Boom. Drops the mic. Honestly, this is huge coming from someone at his level. For years we have been waiting for this magical moment where an AI wakes up like Skynet, but Matei is basically saying we've already crossed the threshold of Artificial General Intelligence, we just aren't recognizing it because it looks like a series of complex data pipelines and agentic models instead of a sci-fi robot. What do you guys think? Is the Databricks CTO right? Are we actually living in the post-AGI world right now without even knowing it? Let's argue in the comments!",
+    "id": "j9k0l1m2",
+    "category": "AI",
+    "companies": [
+      "Databricks"
+    ],
+    "people": [
+      "Matei Zaharia"
+    ],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/j9k0l1m2.png",
+    "image_prompt": "Photo-realistic portrait of Matei Zaharia at the ACM Prize ceremony: mid-40s tech founder in dark suit on stage, thoughtful intense expression, warm spotlight, blurred applauding audience, podium and subtle conference backdrop, high-resolution journalistic style, dramatic credible lighting."
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (1).docx",
+    "page": 8,
+    "title": "This Viral AI Video Just Terrified Hollywood!",
+    "summary": "A viral video titled 'Jia Zhangke's Dance' exploded online during the 2026 Lunar New Year, depicting an AI-generated youthful version of the director conversing with his older synthetic self. The digital cloning has sparked a massive debate on auteur theory and authorship.",
+    "engagement": "High",
+    "raw_text": "So check this out, a video out of China just went insanely viral, and it is sending absolute shockwaves through Hollywood. It's called 'Jia Zhangke's Dance.' In the video, we see the legendary film director Jia Zhangke having this incredibly deep, philosophical conversation with a younger, 20-something version of himself. They take this virtual tour through all of his famous movies, and the visuals are absolutely stunning. But here is the wild part, the massive twist at the end: neither of them are real. Both the young director and the old director are completely synthetic digital clones generated entirely by AI! Honestly, this is huge and a little bit terrifying. The execution is so flawless that it has completely reignited the debate around the future of movies. Can an AI be an 'auteur'? If you can perfectly clone a legendary director's mind and visuals, what happens to the human filmmakers? The commercial reality of digital cloning is officially here, and the entertainment industry is low-key panicking. Do you think movies directed by AI clones are the future, or is this just a crazy gimmick? Let me know!",
+    "id": "c3d4e5f6",
+    "category": "Entertainment",
+    "companies": [],
+    "people": [
+      "Jia Zhangke"
+    ],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/c3d4e5f6.png",
+    "image_prompt": "Photo-realistic, cinematic news image: youthful AI-generated Jia Zhangke and older synthetic Jia face each other on a dim film set, soft red Lunar New Year lanterns, studio monitors and waveform displays glowing, subtle digital artifacts, tense reflective mood, high-res."
+  },
+  {
+    "date": "2026-04-07",
+    "source_file": "Tech News and AI Developments \u2013 April 8, 2026.pdf",
+    "page": 2,
+    "title": "AI is Using So Much Power the Grid Might Break!",
+    "summary": "The U.S. Energy Information Administration forecasts historic electricity usage for 2026-2027, driven heavily by massive AI data centers. Power demand is projected to climb to 4,381 billion kWh, requiring urgent grid upgrades and clean energy investments.",
+    "engagement": "Medium",
+    "raw_text": "Okay, we need to talk about the hidden cost of the AI boom, because the numbers that just came out are actually insane. The US Energy Information Administration just released their latest forecasts, and they are projecting absolute record-shattering electricity demand for 2026 and 2027. We are talking about power usage jumping to nearly 4.4 trillion kilowatt-hours! And guess what is single-handedly driving this massive surge? You guessed it: AI data centers. All those advanced models, the ChatGPTs, the agentic AI swarms\u2014they require a ridiculous amount of compute power. Honestly, this is a huge problem. Our current power grid is literally not built to handle this kind of load. The report notes that this extreme energy impact is forcing a massive scramble for grid upgrades and new clean energy infrastructure just to keep the lights on. It's crazy to think that sending a prompt to an AI might be putting a strain on the local power plant. Do you guys think tech companies need to build their own nuclear reactors to power this stuff, or is this AI bubble going to pop first? Sound off below!",
+    "id": "v7w8x9y0",
+    "category": "Energy",
+    "companies": [
+      "U.S. Energy Information Administration"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/v7w8x9y0.png",
+    "image_prompt": "Night aerial view of a massive AI data center campus with glowing server rooms and heat haze; nearby overloaded transmission lines and a substation with warning lights; utility crews and trucks; distant city skyline and wind turbines; urgent, cinematic, realistic"
+  },
+  {
+    "date": "2026-04-07",
+    "source_file": "Tech News and AI Developments \u2013 April 8, 2026.pdf",
+    "page": 1,
+    "title": "Adobe Just Made the Ultimate AI Study Hack for Students!",
+    "summary": "Adobe integrated a free AI feature called 'Student Spaces' into Acrobat, designed to automatically generate flashcards, quizzes, mind maps, and podcasts from uploaded class materials. This tool aims to compete directly with Google's NotebookLM in the AI education market.",
+    "engagement": "Medium",
+    "raw_text": "Alright guys, if you are a student right now, you are going to absolutely love this. Adobe just completely changed the game for studying. They just dropped a brand new, totally free AI feature directly inside of Acrobat called 'Student Spaces.' So check this out: instead of manually making study guides, you just upload your massive PDFs, class notes, and even web links into the tool. Then, the AI assistant\u2014which is trained specifically on your documents so it doesn't hallucinate fake info\u2014automatically generates flashcards, interactive mind maps, practice quizzes, and even study podcasts! Honestly, this is huge. They tested it with over 500 students to get it right, and it is a massive shot across the bow at Google's NotebookLM. It basically turns boring old Acrobat into this ultimate, one-stop AI study hub. Gone are the days of spending five hours making Quizlet decks; the AI just does the heavy lifting for you so you can actually get to studying. If you are in college or high school, are you going to use this for your next big exam? Let me know down in the comments!",
+    "id": "b1n2m3k4",
+    "category": "Software",
+    "companies": [
+      "Adobe",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-04-08T16:36:01Z",
+    "image_url": "images/09_04_26/b1n2m3k4.png",
+    "image_prompt": "Realistic news-style photo of a college student at a tidy desk using a laptop with Adobe Acrobat open; holographic floating flashcards, quiz cards, colorful mind map and podcast waveform hovering above the keyboard, warm studio lighting, modern campus vibe, no visible text."
+  }
 ]
