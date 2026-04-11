@@ -1,176 +1,196 @@
 [
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "AI's Huge Blind Spot: The Fake 'Bixonimania' Disease Fools Everyone!",
-        "summary": "A peer-reviewed Nature experiment successfully tricked leading AI models like ChatGPT and Gemini into disseminating a completely fabricated medical condition called 'bixonimania'. The models failed to identify obvious red flags, highlighting severe vulnerabilities in AI factual verification.",
-        "engagement": "High",
-        "raw_text": "So check this out, guys—AI just got completely exposed. You know how we trust ChatGPT and Gemini to give us quick facts? Well, some researchers literally made up a fake disease called 'bixonimania,' claiming screen light turns your eyelids pink. They even put massive red flags in the study, like listing the author as 'The Lying Loser' and saying 'this entire paper is made up.' And guess what? The top AI models totally fell for it! They started giving out health advice and diagnostic criteria for a disease that doesn't exist. Honestly, this is huge and a little terrifying. It proves that these massive language models care more about sounding smart than actually checking the facts. If you're using AI for research or homework, you better double-check everything, because it might just be hallucinating its own reality. Drop a comment below—has an AI ever confidently lied to you?",
-        "id": "bixoni834f8d",
-        "category": "AI / Science",
-        "companies": [
-            "Google",
-            "Microsoft",
-            "Perplexity AI",
-            "OpenAI"
-        ],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "Salesforce Just Froze Engineering Hires: Is AI Taking Our Jobs?",
-        "summary": "Salesforce CEO Marc Benioff announced the company hired zero new software engineers in FY2026, citing a 30% productivity boost from AI coding agents. The company is transitioning human engineers into supervisory roles while increasing sales headcount.",
-        "engagement": "High",
-        "raw_text": "Here's the wild part about the AI revolution—it's actually happening to tech workers right now. Salesforce's CEO Marc Benioff just dropped a bomb: they didn't hire a single new software engineer for an entire year! Why? Because their AI coding agents made their current team over thirty percent more productive. The AI is literally doing the grunt work, handling up to half of the company's internal coding with insane accuracy. But before you panic about AI taking your job, Benioff says humans aren't obsolete; they're just becoming 'managers' of these AI agents. So instead of writing boilerplate code, engineers are auditing and directing the bots. Interestingly, Salesforce used the money they saved to hire twenty percent more sales reps. It looks like human connection is becoming the premium skill in tech. What do you guys think? Are we all going to end up managing AI bots?",
-        "id": "sfengfreeze99",
-        "category": "Business / AI",
-        "companies": [
-            "Salesforce",
-            "Anthropic",
-            "OpenAI"
-        ],
-        "people": [
-            "Marc Benioff"
-        ],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-08",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "Google's New AI Writes Full Academic Papers in 40 Minutes!",
-        "summary": "Google Cloud AI Research has introduced PaperOrchestra, a multi-agent AI system capable of converting raw experimental data into fully formatted, peer-reviewed academic papers. Operating autonomously, the system boasts an 84% simulated acceptance rate for major conferences.",
-        "engagement": "Medium",
-        "raw_text": "Alright, researchers and students, your minds are about to be blown. Google Cloud AI just showed off something called 'PaperOrchestra,' and it's an absolute game-changer. Imagine taking all your messy experimental notes, raw data, and ideas, and just feeding them into an AI. Forty minutes later, it spits out a beautifully formatted, fully cited academic paper ready to be submitted. We're not talking about basic text generation here. This system uses five specialized AI agents working together—one plans the outline, one creates the diagrams, one does the literature review, and so on. They even have an agent acting as a harsh peer reviewer to force rewrites! In simulated tests, papers written by this AI got an eighty-four percent acceptance rate at top-tier conferences. This completely automates the agonizing process of scientific writing. But is it ethical? Let me know your thoughts in the comments.",
-        "id": "googpaper88",
-        "category": "AI / Science",
-        "companies": [
-            "Google"
-        ],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "Maine BANS New AI Data Centers Amid Energy Crisis",
-        "summary": "The state of Maine has advanced legislation to ban the construction of new data centers requiring over 20 megawatts until 2027. The move is a response to soaring electricity bills and the massive grid strain caused by AI infrastructure demands.",
-        "engagement": "Medium",
-        "raw_text": "We all know AI requires a ton of power, but it's officially hitting the breaking point. The state of Maine just passed a massive proposal to completely ban the construction of any new, large-scale AI data centers until at least twenty-twenty-seven! That's right, a total moratorium. Why? Because the locals are footing the bill. Maine's electricity rates are skyrocketing faster than anywhere else in the US, and lawmakers are blaming the insane energy demands of these massive tech facilities. Basically, tech giants come in, stress the grid to its absolute limits, and regular people see their utility bills spike to cover the infrastructure upgrades. It's a huge backlash against Silicon Valley's unchecked expansion. If we can't figure out how to power these massive AI brains without destroying local power grids, the whole revolution might grind to a halt. Expect more states to follow suit soon!",
-        "id": "mainedatacenter",
-        "category": "Business / Regulation",
-        "companies": [],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Harvard's AI Breakthrough Just Unlocked the Quantum Computing Era",
-        "summary": "Harvard University researchers have developed 'Cascade,' a neural-network decoder that drastically reduces quantum computing errors. Processing at microsecond latencies, the system achieves a 'Waterfall Effect' that makes scalable, fault-tolerant quantum computing practically viable.",
-        "engagement": "Medium",
-        "raw_text": "Okay, I know quantum computing sounds like sci-fi jargon, but Harvard just made a massive breakthrough that changes everything. The biggest problem with quantum computers is that they are super fragile—the slightest noise ruins their calculations. But Harvard researchers just dropped an AI-powered neural decoder called 'Cascade' that fixes these errors up to a hundred thousand times faster than old methods! We're talking microsecond reaction times. They discovered something they're calling the 'Waterfall Effect,' where once the AI suppresses the errors past a certain point, they just plummet. This means we won't need those massive, room-sized, multi-million qubit machines to achieve true quantum supremacy. We can do it with way less hardware right now. The intersection of deep learning and quantum mechanics is officially here, and it's going to turbocharge medicine, cryptography, and literally every science on earth. Hit subscribe if you want to stay ahead of the quantum curve.",
-        "id": "harvardquantum",
-        "category": "Quantum Computing / AI",
-        "companies": [
-            "Harvard University"
-        ],
-        "people": [
-            "Dolev Bluvstein"
-        ],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "This Tiny $2,999 Box is a BEAST: The ONEXStation Mini AI PC",
-        "summary": "OneXPlayer has launched the ONEXStation, a premium mini PC aimed at local AI processing and heavy workloads. Featuring AMD's Ryzen AI Max+ 395 and 128GB of LPDDR5X memory, the compact device delivers immense computational density.",
-        "engagement": "High",
-        "raw_text": "What is up tech fans! Today we're looking at something that honestly shouldn't be physically possible. This is the ONEXStation from OneXPlayer, and despite looking like a tiny set-top box, it is an absolute monster. Priced at three grand, this mini PC packs AMD's brand new 'Strix Halo' workstation processor and a ridiculous one hundred and twenty-eight gigs of unified memory. The whole point of this beast is to let you run massive AI models locally—right on your desk, without paying crazy cloud subscription fees or sacrificing privacy. To keep it from melting, they had to engineer a custom tri-fan cooling system that lets you crank the power up to one hundred and twenty watts. If you are a creator, a gamer, or a dev wanting to run local LLMs, this little aluminum brick is the ultimate flex. Let me know—would you drop three thousand dollars on a mini PC?",
-        "id": "onexstationpc",
-        "category": "Hardware",
-        "companies": [
-            "OneXPlayer",
-            "AMD"
-        ],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "Meta Drops $35 BILLION on AI Infrastructure—Zuck is All In",
-        "summary": "Meta has expanded its cloud computing partnership with CoreWeave, committing an astonishing $35.2 billion to secure AI inference capacity through 2032. The deal highlights the industry shift towards massive, distributed infrastructure to support real-time AI usage.",
-        "engagement": "Medium",
-        "raw_text": "Mark Zuckerberg is officially betting the entire farm on AI. We just found out that Meta has finalized a mind-bending thirty-five point two billion dollar commitment with CoreWeave. Yes, billion with a B. They are locking in raw computing power all the way through the year twenty-thirty-two. Here's why this matters to you: they aren't just buying chips to train smarter models; they are buying the infrastructure to run them in real-time for billions of users. It's all about 'inference'—making sure when you ask Meta AI a question, it answers instantly without lagging. And rather than waiting years to build their own massive data centers, Meta is just buying up all the capacity they can from CoreWeave to skip the line. The AI hardware arms race is hitting levels of spending we have never seen in human history. Will this massive gamble pay off? We'll see.",
-        "id": "metacoreweave",
-        "category": "Business / AI",
-        "companies": [
-            "Meta",
-            "CoreWeave",
-            "NVIDIA"
-        ],
-        "people": [
-            "Mark Zuckerberg"
-        ],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "Tech News Aggregation and Exclusion (2).docx",
-        "page": 1,
-        "title": "France Just BANNED Microsoft Windows for the Government!",
-        "summary": "The French government has enacted a sweeping mandate to migrate all state and public operator workstations from US operating systems to Linux and domestic open-source alternatives by the late 2020s, citing data sovereignty and security.",
-        "engagement": "Medium",
-        "raw_text": "Wow, France just threw a massive punch at American big tech. The French government has officially ordered all of its ministries and public offices to completely ditch Microsoft Windows and transition entirely to Linux and open-source software! They have a strict timeline to get this done by the end of the decade, and they're already phasing out Microsoft Teams for their own domestic video platform. Why are they doing this? Two words: Digital Sovereignty. France is terrified of the US CLOUD Act, which essentially allows the American government to access data stored by US tech companies no matter where it is in the world. France said 'nope' and decided to build their own secure, auditable tech ecosystem to protect their sensitive data from foreign surveillance. Honestly, it's a bold move. Could this spark a massive global shift away from Windows in government sectors? Let's discuss in the comments.",
-        "id": "francelinuxban",
-        "category": "Software / Regulation",
-        "companies": [
-            "Microsoft"
-        ],
-        "people": [
-            "David Amiel"
-        ],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-11",
-        "source_file": "AI Research & Breakthroughs (1).pdf",
-        "page": 2,
-        "title": "Robots Just Got Scary Good at Chores: Meet GEN-1",
-        "summary": "Startup Generalist AI has unveiled GEN-1, a new foundation model for robotics that achieves a 99% success rate on real-world physical tasks. The system is highly adaptable, learning new complex tasks like folding and packing with only an hour of training data.",
-        "engagement": "High",
-        "raw_text": "Stop what you're doing and look at this robot. For years, robots have been kind of clunky and stupid outside of factories, but startup Generalist AI just dropped their GEN-1 foundation model, and it changes the game. They're claiming a ninety-nine percent success rate on everyday physical tasks! They've essentially taken the tech that makes ChatGPT so smart and put it into a physical body. In the demos, these bots are flawlessly folding laundry, packing boxes, and assembling parts at record speeds. But the craziest part? It only takes about one hour of training data to teach the robot a brand new task. This is improvisational intelligence—the robot can actually adapt to messy, unstructured human environments on the fly. We are inching dangerously close to having true, multipurpose robotic assistants in our homes. The question is, are you ready to let a robot do your laundry, or is this too much?",
-        "id": "gen1robotics",
-        "category": "Robotics",
-        "companies": [
-            "Generalist AI"
-        ],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    },
-    {
-        "date": "2026-04-05",
-        "source_file": "AI Research & Breakthroughs (1).pdf",
-        "page": 1,
-        "title": "The 100x Efficiency AI Hack Nobody is Talking About",
-        "summary": "Researchers at Tufts University have developed a 'neuro-symbolic' AI system for robotics that cuts energy consumption by a factor of 100 while vastly improving accuracy. By combining neural networks with rule-based reasoning, the model solves complex planning puzzles with 95% success.",
-        "engagement": "Medium",
-        "raw_text": "Everyone is complaining about AI using too much electricity, but researchers at Tufts University just figured out a massive hack. They created something called a 'neuro-symbolic' AI. Normally, deep learning models just brute-force their way through problems by recognizing massive patterns, which wastes a ton of energy. But this new hybrid system combines neural networks with old-school, human-like logic and rules. The result? Energy consumption literally drops to one percent of standard models! It cuts power use by a factor of a hundred while actually making the AI smarter. In tests, it solved complex planning puzzles with a ninety-five percent success rate, absolutely crushing conventional AI. Plus, it learned the tasks in minutes instead of days. If we can scale this hybrid tech, we could run highly advanced robotic AI without melting the planet or bankrupting the power grid. This is exactly the kind of optimization the industry desperately needs right now!",
-        "id": "tuftsneuroai",
-        "category": "AI / Robotics",
-        "companies": [
-            "Tufts University"
-        ],
-        "people": [],
-        "created_at": "2026-04-11T16:03:33.000Z"
-    }
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "AI's Huge Blind Spot: The Fake 'Bixonimania' Disease Fools Everyone!",
+    "summary": "A peer-reviewed Nature experiment successfully tricked leading AI models like ChatGPT and Gemini into disseminating a completely fabricated medical condition called 'bixonimania'. The models failed to identify obvious red flags, highlighting severe vulnerabilities in AI factual verification.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys\u2014AI just got completely exposed. You know how we trust ChatGPT and Gemini to give us quick facts? Well, some researchers literally made up a fake disease called 'bixonimania,' claiming screen light turns your eyelids pink. They even put massive red flags in the study, like listing the author as 'The Lying Loser' and saying 'this entire paper is made up.' And guess what? The top AI models totally fell for it! They started giving out health advice and diagnostic criteria for a disease that doesn't exist. Honestly, this is huge and a little terrifying. It proves that these massive language models care more about sounding smart than actually checking the facts. If you're using AI for research or homework, you better double-check everything, because it might just be hallucinating its own reality. Drop a comment below\u2014has an AI ever confidently lied to you?",
+    "id": "bixoni834f8d",
+    "category": "AI / Science",
+    "companies": [
+      "Google",
+      "Microsoft",
+      "Perplexity AI",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/bixoni834f8d.png",
+    "image_prompt": "Photorealistic newsroom scene: a silhouetted researcher in a lab coat before glowing AI server racks, holographic medical network diagrams swirling, ominous blue-red lighting, journalists watching blurred screens, subtle question-mark like visual artifacts, high detail, cinematic contrast, shallow depth of field, no text."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "Salesforce Just Froze Engineering Hires: Is AI Taking Our Jobs?",
+    "summary": "Salesforce CEO Marc Benioff announced the company hired zero new software engineers in FY2026, citing a 30% productivity boost from AI coding agents. The company is transitioning human engineers into supervisory roles while increasing sales headcount.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about the AI revolution\u2014it's actually happening to tech workers right now. Salesforce's CEO Marc Benioff just dropped a bomb: they didn't hire a single new software engineer for an entire year! Why? Because their AI coding agents made their current team over thirty percent more productive. The AI is literally doing the grunt work, handling up to half of the company's internal coding with insane accuracy. But before you panic about AI taking your job, Benioff says humans aren't obsolete; they're just becoming 'managers' of these AI agents. So instead of writing boilerplate code, engineers are auditing and directing the bots. Interestingly, Salesforce used the money they saved to hire twenty percent more sales reps. It looks like human connection is becoming the premium skill in tech. What do you guys think? Are we all going to end up managing AI bots?",
+    "id": "sfengfreeze99",
+    "category": "Business / AI",
+    "companies": [
+      "Salesforce",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "people": [
+      "Marc Benioff"
+    ],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/sfengfreeze99.png",
+    "image_prompt": "Realistic high-quality newsroom photo: modern tech office with dim blue lighting, a tense CEO-like figure on stage, engineers in the foreground looking concerned at laptops; subtle glowing AI \u201ccoding\u201d light trails, scattered keyboards; business casual, shallow depth of field, cinematic mood, no text."
+  },
+  {
+    "date": "2026-04-08",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "Google's New AI Writes Full Academic Papers in 40 Minutes!",
+    "summary": "Google Cloud AI Research has introduced PaperOrchestra, a multi-agent AI system capable of converting raw experimental data into fully formatted, peer-reviewed academic papers. Operating autonomously, the system boasts an 84% simulated acceptance rate for major conferences.",
+    "engagement": "Medium",
+    "raw_text": "Alright, researchers and students, your minds are about to be blown. Google Cloud AI just showed off something called 'PaperOrchestra,' and it's an absolute game-changer. Imagine taking all your messy experimental notes, raw data, and ideas, and just feeding them into an AI. Forty minutes later, it spits out a beautifully formatted, fully cited academic paper ready to be submitted. We're not talking about basic text generation here. This system uses five specialized AI agents working together\u2014one plans the outline, one creates the diagrams, one does the literature review, and so on. They even have an agent acting as a harsh peer reviewer to force rewrites! In simulated tests, papers written by this AI got an eighty-four percent acceptance rate at top-tier conferences. This completely automates the agonizing process of scientific writing. But is it ethical? Let me know your thoughts in the comments.",
+    "id": "googpaper88",
+    "category": "AI / Science",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/googpaper88.png",
+    "image_prompt": "Realistic news photo style: sleek Google Cloud\u2013like server room at night, glowing data streams morphing into paper pages, subtle multi-agent network lines, researchers in lab coats monitoring holographic dashboards, cinematic lighting, high detail, neutral colors, dramatic but credible mood, no text."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "Maine BANS New AI Data Centers Amid Energy Crisis",
+    "summary": "The state of Maine has advanced legislation to ban the construction of new data centers requiring over 20 megawatts until 2027. The move is a response to soaring electricity bills and the massive grid strain caused by AI infrastructure demands.",
+    "engagement": "Medium",
+    "raw_text": "We all know AI requires a ton of power, but it's officially hitting the breaking point. The state of Maine just passed a massive proposal to completely ban the construction of any new, large-scale AI data centers until at least twenty-twenty-seven! That's right, a total moratorium. Why? Because the locals are footing the bill. Maine's electricity rates are skyrocketing faster than anywhere else in the US, and lawmakers are blaming the insane energy demands of these massive tech facilities. Basically, tech giants come in, stress the grid to its absolute limits, and regular people see their utility bills spike to cover the infrastructure upgrades. It's a huge backlash against Silicon Valley's unchecked expansion. If we can't figure out how to power these massive AI brains without destroying local power grids, the whole revolution might grind to a halt. Expect more states to follow suit soon!",
+    "id": "mainedatacenter",
+    "category": "Business / Regulation",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/mainedatacenter.png",
+    "image_prompt": "Realistic news photo: Maine coastline at dusk with a distant electric substation and power lines; faint silhouettes of cooling towers/data-center frames under construction, heavy atmosphere, muted blues and grays, visible strain in storm clouds, dramatic lighting, high detail, sharp focus, no text."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Harvard's AI Breakthrough Just Unlocked the Quantum Computing Era",
+    "summary": "Harvard University researchers have developed 'Cascade,' a neural-network decoder that drastically reduces quantum computing errors. Processing at microsecond latencies, the system achieves a 'Waterfall Effect' that makes scalable, fault-tolerant quantum computing practically viable.",
+    "engagement": "Medium",
+    "raw_text": "Okay, I know quantum computing sounds like sci-fi jargon, but Harvard just made a massive breakthrough that changes everything. The biggest problem with quantum computers is that they are super fragile\u2014the slightest noise ruins their calculations. But Harvard researchers just dropped an AI-powered neural decoder called 'Cascade' that fixes these errors up to a hundred thousand times faster than old methods! We're talking microsecond reaction times. They discovered something they're calling the 'Waterfall Effect,' where once the AI suppresses the errors past a certain point, they just plummet. This means we won't need those massive, room-sized, multi-million qubit machines to achieve true quantum supremacy. We can do it with way less hardware right now. The intersection of deep learning and quantum mechanics is officially here, and it's going to turbocharge medicine, cryptography, and literally every science on earth. Hit subscribe if you want to stay ahead of the quantum curve.",
+    "id": "harvardquantum",
+    "category": "Quantum Computing / AI",
+    "companies": [
+      "Harvard University"
+    ],
+    "people": [
+      "Dolev Bluvstein"
+    ],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/harvardquantum.png",
+    "image_prompt": "Realistic cinematic newsroom-style image: a Harvard-like research lab with glowing quantum circuitry, microsecond light trails forming a \u201cwaterfall\u201d cascade around a holographic neural-network decoder, subtle error-correction visuals, scientists in lab coats observing, cool blue/teal mood, high detail, sharp focus."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "This Tiny $2,999 Box is a BEAST: The ONEXStation Mini AI PC",
+    "summary": "OneXPlayer has launched the ONEXStation, a premium mini PC aimed at local AI processing and heavy workloads. Featuring AMD's Ryzen AI Max+ 395 and 128GB of LPDDR5X memory, the compact device delivers immense computational density.",
+    "engagement": "High",
+    "raw_text": "What is up tech fans! Today we're looking at something that honestly shouldn't be physically possible. This is the ONEXStation from OneXPlayer, and despite looking like a tiny set-top box, it is an absolute monster. Priced at three grand, this mini PC packs AMD's brand new 'Strix Halo' workstation processor and a ridiculous one hundred and twenty-eight gigs of unified memory. The whole point of this beast is to let you run massive AI models locally\u2014right on your desk, without paying crazy cloud subscription fees or sacrificing privacy. To keep it from melting, they had to engineer a custom tri-fan cooling system that lets you crank the power up to one hundred and twenty watts. If you are a creator, a gamer, or a dev wanting to run local LLMs, this little aluminum brick is the ultimate flex. Let me know\u2014would you drop three thousand dollars on a mini PC?",
+    "id": "onexstationpc",
+    "category": "Hardware",
+    "companies": [
+      "OneXPlayer",
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/onexstationpc.png",
+    "image_prompt": "Photorealistic studio shot of a sleek ONEXStation mini AI PC, palm-sized box on dark matte desk, soft rim lighting, visible ports and cooling vents, tiny scale sense, futuristic premium mood, shallow depth of field, high detail, realistic reflections, 8K news photography style, no text."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "Meta Drops $35 BILLION on AI Infrastructure\u2014Zuck is All In",
+    "summary": "Meta has expanded its cloud computing partnership with CoreWeave, committing an astonishing $35.2 billion to secure AI inference capacity through 2032. The deal highlights the industry shift towards massive, distributed infrastructure to support real-time AI usage.",
+    "engagement": "Medium",
+    "raw_text": "Mark Zuckerberg is officially betting the entire farm on AI. We just found out that Meta has finalized a mind-bending thirty-five point two billion dollar commitment with CoreWeave. Yes, billion with a B. They are locking in raw computing power all the way through the year twenty-thirty-two. Here's why this matters to you: they aren't just buying chips to train smarter models; they are buying the infrastructure to run them in real-time for billions of users. It's all about 'inference'\u2014making sure when you ask Meta AI a question, it answers instantly without lagging. And rather than waiting years to build their own massive data centers, Meta is just buying up all the capacity they can from CoreWeave to skip the line. The AI hardware arms race is hitting levels of spending we have never seen in human history. Will this massive gamble pay off? We'll see.",
+    "id": "metacoreweave",
+    "category": "Business / AI",
+    "companies": [
+      "Meta",
+      "CoreWeave",
+      "NVIDIA"
+    ],
+    "people": [
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/metacoreweave.png",
+    "image_prompt": "Futuristic newsroom-style photo: Meta/Circle of servers implied, vast distributed data centers glowing blue and white, fiber-optic pathways like light trails, holographic AI inference nodes, dramatic lighting, tech executive silhouette with confident stance, photoreal, high detail, newsworthy, no text."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "Tech News Aggregation and Exclusion (2).docx",
+    "page": 1,
+    "title": "France Just BANNED Microsoft Windows for the Government!",
+    "summary": "The French government has enacted a sweeping mandate to migrate all state and public operator workstations from US operating systems to Linux and domestic open-source alternatives by the late 2020s, citing data sovereignty and security.",
+    "engagement": "Medium",
+    "raw_text": "Wow, France just threw a massive punch at American big tech. The French government has officially ordered all of its ministries and public offices to completely ditch Microsoft Windows and transition entirely to Linux and open-source software! They have a strict timeline to get this done by the end of the decade, and they're already phasing out Microsoft Teams for their own domestic video platform. Why are they doing this? Two words: Digital Sovereignty. France is terrified of the US CLOUD Act, which essentially allows the American government to access data stored by US tech companies no matter where it is in the world. France said 'nope' and decided to build their own secure, auditable tech ecosystem to protect their sensitive data from foreign surveillance. Honestly, it's a bold move. Could this spark a massive global shift away from Windows in government sectors? Let's discuss in the comments.",
+    "id": "francelinuxban",
+    "category": "Software / Regulation",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [
+      "David Amiel"
+    ],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/francelinuxban.png",
+    "image_prompt": "Photorealistic news photo of a French government building at dusk, security guards and officials in suits silhouetted, sleek modern office workstations in the background showing abstract Linux-like screens (no text), EU flags, cool dramatic lighting, cinematic realism, high detail, shallow depth of field."
+  },
+  {
+    "date": "2026-04-11",
+    "source_file": "AI Research & Breakthroughs (1).pdf",
+    "page": 2,
+    "title": "Robots Just Got Scary Good at Chores: Meet GEN-1",
+    "summary": "Startup Generalist AI has unveiled GEN-1, a new foundation model for robotics that achieves a 99% success rate on real-world physical tasks. The system is highly adaptable, learning new complex tasks like folding and packing with only an hour of training data.",
+    "engagement": "High",
+    "raw_text": "Stop what you're doing and look at this robot. For years, robots have been kind of clunky and stupid outside of factories, but startup Generalist AI just dropped their GEN-1 foundation model, and it changes the game. They're claiming a ninety-nine percent success rate on everyday physical tasks! They've essentially taken the tech that makes ChatGPT so smart and put it into a physical body. In the demos, these bots are flawlessly folding laundry, packing boxes, and assembling parts at record speeds. But the craziest part? It only takes about one hour of training data to teach the robot a brand new task. This is improvisational intelligence\u2014the robot can actually adapt to messy, unstructured human environments on the fly. We are inching dangerously close to having true, multipurpose robotic assistants in our homes. The question is, are you ready to let a robot do your laundry, or is this too much?",
+    "id": "gen1robotics",
+    "category": "Robotics",
+    "companies": [
+      "Generalist AI"
+    ],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/gen1robotics.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek humanoid robot in a modern lab folding towels and packing boxes with precision, visible sensors and grippers, warm dramatic lighting, shallow depth of field, engineers observing in background, high detail, realistic colors, 4k."
+  },
+  {
+    "date": "2026-04-05",
+    "source_file": "AI Research & Breakthroughs (1).pdf",
+    "page": 1,
+    "title": "The 100x Efficiency AI Hack Nobody is Talking About",
+    "summary": "Researchers at Tufts University have developed a 'neuro-symbolic' AI system for robotics that cuts energy consumption by a factor of 100 while vastly improving accuracy. By combining neural networks with rule-based reasoning, the model solves complex planning puzzles with 95% success.",
+    "engagement": "Medium",
+    "raw_text": "Everyone is complaining about AI using too much electricity, but researchers at Tufts University just figured out a massive hack. They created something called a 'neuro-symbolic' AI. Normally, deep learning models just brute-force their way through problems by recognizing massive patterns, which wastes a ton of energy. But this new hybrid system combines neural networks with old-school, human-like logic and rules. The result? Energy consumption literally drops to one percent of standard models! It cuts power use by a factor of a hundred while actually making the AI smarter. In tests, it solved complex planning puzzles with a ninety-five percent success rate, absolutely crushing conventional AI. Plus, it learned the tasks in minutes instead of days. If we can scale this hybrid tech, we could run highly advanced robotic AI without melting the planet or bankrupting the power grid. This is exactly the kind of optimization the industry desperately needs right now!",
+    "id": "tuftsneuroai",
+    "category": "AI / Robotics",
+    "companies": [
+      "Tufts University"
+    ],
+    "people": [],
+    "created_at": "2026-04-11T16:03:33.000Z",
+    "image_url": "images/12_04_26/tuftsneuroai.png",
+    "image_prompt": "Realistic news photo: Tufts-like robotics lab, warm lighting, humanoid robot manipulating a small puzzle board; translucent holographic neural-network + rule-grid overlays swirling around it; scientists observing on monitors; high detail, shallow depth of field, cinematic, no text, no logos."
+  }
 ]
