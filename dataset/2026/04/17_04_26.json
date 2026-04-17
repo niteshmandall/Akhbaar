@@ -1,0 +1,191 @@
+[
+  {
+    "date": "2026-04-16",
+    "source_file": "Tech News Aggregation and Exclusion (1).pdf",
+    "page": 14,
+    "title": "Huge Apple Leaks: iOS 27 is Bringing Native 'Visual Intelligence'",
+    "summary": "Leaked backend code for Apple's iOS 27 reveals a deep integration of 'Visual Intelligence' capable of autonomously extracting data from the physical world. The on-device AI will digitize passes, scan nutrition labels into Apple Health, and semantically manage Safari tabs.",
+    "engagement": "High",
+    "raw_text": "So check this out, massive backend leaks just dropped for Apple's upcoming iOS 27, and honestly, this is huge for anyone deep in the Apple ecosystem. We are finally seeing the maturation of Apple Intelligence, specifically a deeply integrated 'Visual Intelligence' framework. What does this mean? It means your iPhone is going to autonomously manage your life just by looking at it. Point your camera at a nutrition label, and boom, it parses the macros straight into Apple Health. Scan a physical gym membership barcode, and it instantly digitizes it into your Apple Wallet. Even Safari is getting an AI semantic brain to automatically group your messy browser tabs based on context. This isn't just a gimmick; Apple is basically dissolving AI directly into the operating system so it works invisibly in the background. It's ambient computing at its finest. If these leaks hold up for WWDC in June, we might finally see the software foundation for Apple's highly anticipated smart glasses. Let me know down in the comments, are you guys hyped for on-device AI, or is it getting a little too creepy?",
+    "id": "vi_apple_2026_01",
+    "category": "Mobile",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "Combined (Tech News Aggregation and grok_report)",
+    "page": 13,
+    "title": "Robots Are Learning on the Fly: Physical Intelligence Unveils π0.7 Brain",
+    "summary": "Startup Physical Intelligence introduced the π0.7 model, a breakthrough AI architecture that grants robots the ability to execute unseen physical tasks without specific prior training. Using compositional generalization, the model allows robots to infer physical solutions to novel problems.",
+    "engagement": "High",
+    "raw_text": "Here is the wild part about robotics right now. A startup called Physical Intelligence just unveiled their new pi-zero-seven AI model, and it's literally giving robots a generalized brain. Historically, if you wanted a robot to fold a shirt, you had to train it exclusively on folding shirts millions of times. But pi-zero-seven achieves something called compositional generalization. In their demo, they showed a robot figuring out how to use an air fryer with practically zero prior training. It just figures it out by combining fragmented skills it already knows and taking verbal coaching from a human. This is exactly like the scaling breakthroughs we saw with ChatGPT, but applied to the physical world. The startup is already valued at over five billion dollars and is backed by some serious heavy hitters. Honestly, this is the inflection point we've been waiting for in Embodied AI. Soon, you won't need a specific robot for every single chore; you'll just have one universal machine running a generalized foundation model that can do whatever you ask. Would you trust an AI robot in your kitchen?",
+    "id": "pi_robotics_2026_02",
+    "category": "Robotics",
+    "companies": [
+      "Physical Intelligence"
+    ],
+    "people": [
+      "Sergey Levine"
+    ],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "page": 2,
+    "title": "OpenAI's Codex Can Now Control Your Entire Desktop",
+    "summary": "OpenAI has expanded its Codex AI assistant into a multi-app desktop agent capable of typing, clicking, and interacting with computer applications. The update includes over 90 plugins and memory features to manage complex, long-running workflows autonomously.",
+    "engagement": "High",
+    "raw_text": "Okay guys, OpenAI just quietly dropped an update to Codex, and it is going to completely change how you use your computer. Codex isn't just for coding anymore; it has basically evolved into a full-on desktop agent. The new version can literally operate your computer alongside you. I'm talking typing, clicking, navigating desktop apps, the whole nine yards. It now has memory, meaning it remembers your past tasks and can schedule long-running workflows while you step away. Plus, they've added over ninety new plugins for platforms like GitHub, Microsoft Office, and Jira. Imagine telling your AI, 'Hey, build a presentation based on my latest code commit, generate a few images for the slides, and email it to my boss.' Codex can just do that now. It even has an in-app browser to fetch real-time updates. This is a massive leap toward true agentic AI where the assistant actually executes complex, multi-step actions on its own rather than just spitting out text. Are developer jobs safe? Probably, but the way we work is never going to be the same.",
+    "id": "openai_codex_2026_03",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "GitHub",
+      "Atlassian",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-17",
+    "source_file": "Tech News Aggregation and Exclusion (1).pdf",
+    "page": 9,
+    "title": "Elon Musk Wants a 1-Terawatt Chip Factory. The Industry Says 'No Way.'",
+    "summary": "Elon Musk has proposed 'TeraFab', a joint venture between Tesla and SpaceX to build a 1-terawatt semiconductor production facility in Austin, Texas. Established foundries like TSMC and Samsung have dismissed the multi-trillion-dollar project, citing insurmountable physics and engineering timelines.",
+    "engagement": "High",
+    "raw_text": "So Elon Musk is currently trying to do the impossible, again. Frustrated by the insane bottleneck in AI chip manufacturing, Musk is launching an audacious joint venture between Tesla and SpaceX to build what he's calling 'TeraFab.' His goal? A massive facility in Austin, Texas, capable of producing one terawatt of computing capacity annually to fuel his AI and robotics empires. But here is the crazy part: the entire semiconductor industry is basically laughing at him. TSMC's CEO publicly shut down the idea, stating there are absolutely no shortcuts in nanometer-scale physics, no matter how much money you throw at it. And we are talking astronomical money—estimates suggest TeraFab would need between five and thirteen trillion dollars in capital expenditure! When Musk's team approached Samsung to partner up, Samsung reportedly rejected the premise entirely. It just goes to show that while Elon can build rockets and electric cars, semiconductor fabrication is a completely different beast protected by decades of institutional knowledge. Will infinite capital be enough to brute-force a semiconductor monopoly? Let me know your thoughts.",
+    "id": "musk_terafab_2026_04",
+    "category": "Hardware",
+    "companies": [
+      "Tesla",
+      "SpaceX",
+      "TSMC",
+      "Samsung",
+      "Applied Materials",
+      "Tokyo Electron",
+      "Lam Research"
+    ],
+    "people": [
+      "Elon Musk",
+      "C.C. Wei"
+    ],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "Combined (Tech News Aggregation and grok_report)",
+    "page": 5,
+    "title": "The AI So Dangerous Anthropic Won't Release It (But The White House Wants It)",
+    "summary": "Anthropic has intentionally withheld its powerful Claude Mythos model from public release due to severe offensive cybersecurity capabilities. The White House OMB is securing limited access to Mythos to defensively audit and patch vulnerabilities across U.S. federal agency software.",
+    "engagement": "Medium",
+    "raw_text": "You know an AI model is intense when the creators refuse to release it to the public. Anthropic just dropped Claude Opus 4.7, which is incredible for coding, but they deliberately withheld their absolute most powerful model, called Claude Mythos. Why? Because Mythos is genuinely terrifying when it comes to cybersecurity. In closed testing, this thing was autonomously tearing through massive codebases, finding zero-day vulnerabilities that human experts missed for decades, including a 27-year-old flaw in OpenBSD. It's so potent that the White House is now getting involved. The U.S. government is setting up a controlled environment to let major federal agencies use a version of Mythos for defensive purposes under a program called Project Glasswing. They essentially want to use this AI to hack their own systems and patch the holes before adversarial nations can use similar technology against us. We are literally watching the beginning of an AI cyber arms race where the only way to defend against a machine is to use an even smarter machine. It's wild.",
+    "id": "anthropic_mythos_2026_05",
+    "category": "Cybersecurity",
+    "companies": [
+      "Anthropic",
+      "Microsoft",
+      "CrowdStrike"
+    ],
+    "people": [
+      "Gregory Barbaccia"
+    ],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "Combined (All 3 Files)",
+    "page": 2,
+    "title": "OpenAI Just Built an AI Co-Scientist to Cure Diseases",
+    "summary": "OpenAI unveiled GPT-Rosalind, a specialized model tailored for biochemistry and drug discovery. Operating as an AI co-scientist through a Codex plugin, it accelerates R&D by synthesizing evidence, planning experiments, and querying live genomic databases for enterprise partners.",
+    "engagement": "Medium",
+    "raw_text": "Forget chatbots, OpenAI just launched an AI that might actually help cure diseases. It's called GPT-Rosalind, and it is a highly specialized model trained specifically for biochemistry, drug discovery, and translational medicine. Now, the typical pipeline to get a new drug approved takes about ten to fifteen years. OpenAI wants to aggressively shrink that timeline. GPT-Rosalind doesn't just answer questions; it acts as an AI co-scientist. It can synthesize complex evidence, generate scientific hypotheses, plan out experimental protocols, and query live genomic databases in real time using a massive suite of external plugins. In tests, it's already ranking above the 95th percentile of human experts in certain RNA predictions. But because autonomous protein engineering carries massive biosecurity risks, OpenAI is keeping this strictly locked down to trusted enterprise partners like Amgen and Moderna. We are entering an era where AI isn't just horizontal; it's hyper-verticalized. AI is officially becoming the foundational infrastructure for global biotechnology, and honestly, the medical breakthroughs we are going to see in the next five years will be unprecedented.",
+    "id": "openai_rosalind_2026_06",
+    "category": "Science",
+    "companies": [
+      "OpenAI",
+      "Amgen",
+      "Moderna",
+      "Thermo Fisher Scientific",
+      "Dyno Therapeutics"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-17",
+    "source_file": "Tech News Aggregation and Exclusion (1).pdf",
+    "page": 10,
+    "title": "OpenAI Just Dropped $20 Billion to Ditch Nvidia",
+    "summary": "OpenAI signed a $20 billion hardware commitment with Cerebras Systems to utilize their wafer-scale AI chips, a massive move to decouple from Nvidia. This coincides with Cerebras accelerating its IPO targeting a valuation of over $35 billion.",
+    "engagement": "High",
+    "raw_text": "This might be the biggest business move in the AI space this year. OpenAI just agreed to a massive twenty-billion-dollar deal with Cerebras Systems, and it's a direct attack on Nvidia's absolute dominance. For years, Nvidia has held a massive monopoly over the AI hardware market with its GPUs. But Cerebras does things differently; they build massive, wafer-scale chips that are specifically designed for massive AI workloads. By committing twenty billion dollars to Cerebras, OpenAI is radically decoupling from Nvidia and ensuring they have guaranteed long-term access to alternative hardware. This comes right as Cerebras is accelerating its IPO, aiming for a valuation of over thirty-five billion dollars. But here is why this is such a game changer: OpenAI is actively fracturing the CUDA software ecosystem that locked everyone into Nvidia. If the world's leading AI lab can successfully optimize its frontier models for non-Nvidia chips, it proves to the entire enterprise world that you don't actually need Nvidia to win the AI race. The hardware wars are officially heating up, guys.",
+    "id": "openai_cerebras_2026_07",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "Cerebras Systems",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "page": 2,
+    "title": "Canva Just Supercharged Its AI to Auto-Build Entire Designs",
+    "summary": "Canva updated its AI assistant to function as a design agent capable of orchestrating multiple tools simultaneously. Users can now describe a design via text, and the AI will autonomously combine text layout, image generation, and spatial tools into layered, editable drafts.",
+    "engagement": "High",
+    "raw_text": "If you do any kind of graphic design or content creation, this new Canva update is going to blow your mind. Canva just seriously leveled up their AI assistant. Instead of just generating an image or tweaking text, you can now literally describe the entire layout you want, and the AI agent will autonomously call multiple different design tools to build it from scratch. It acts like an actual design orchestrator. It builds out layered drafts combining text formatting, image generation, and spatial layout, which you can then jump in and manually fine-tune. We are seeing a massive shift across the industry—Figma and Adobe are doing similar things—where AI is moving from being a simple 'generator' to an active 'design agent.' It basically eliminates the blank page syndrome completely and does the tedious layout work for you. Honestly, if you aren't integrating these AI tools into your workflow, you are going to fall behind. The speed at which you can push out professional-level creative assets now is just absurd. What do you guys think of AI taking over design?",
+    "id": "canva_ai_agent_2026_08",
+    "category": "Software",
+    "companies": [
+      "Canva",
+      "Adobe",
+      "Figma"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-14",
+    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "page": 2,
+    "title": "DJI Just Teased Two Mysterious New Drones for 2026",
+    "summary": "DJI has teased an upcoming hardware reveal for two new consumer drones codenamed 'Lito' and 'Lito X1'. Scheduled for an April 23 announcement, the new product line continues DJI's aggressive hardware expansion despite ongoing geopolitical pressures.",
+    "engagement": "Medium",
+    "raw_text": "Drone enthusiasts, listen up, because DJI just teased something highly anticipated. They have officially announced an April 23rd reveal for two brand-new consumer drones, currently codenamed DJI Lito and Lito X1. Now, DJI is keeping the actual specs tightly under wraps, but this comes right after a super busy hardware month for them where they already dropped a new Osmo Pocket camera. The naming convention is completely new, which has the community buzzing. Is the 'Lito' a brand new lightweight category to replace the Mini series, or is this an entirely new FPV ecosystem? Given the recent advancements in AI-driven tracking and obstacle avoidance, we can expect the Lito models to feature some serious autonomous flight upgrades. Even with all the geopolitical pressure and potential bans hanging over them, DJI continues to push their consumer hardware roadmap aggressively. I cannot wait to see what the Lito X1 brings to the table for cinematic creators. Make sure to hit subscribe because I will be breaking down the full spec sheet as soon as it drops next week!",
+    "id": "dji_lito_2026_09",
+    "category": "Hardware",
+    "companies": [
+      "DJI"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  },
+  {
+    "date": "2026-04-17",
+    "source_file": "Tech News Aggregation and Exclusion (1).pdf",
+    "page": 12,
+    "title": "AI is Quietly Replacing 40,000 Tech Workers in 2026",
+    "summary": "In Q1 2026, the technology sector laid off nearly 80,000 workers, with approximately 47.9% of those cuts directly attributed to the integration of AI automation. Companies are restructuring for compute efficiency, reallocating payroll savings into data center and GPU investments.",
+    "engagement": "Low",
+    "raw_text": "I need to talk about something serious happening in the tech industry right now. In just the first quarter of 2026, the tech sector has quietly shed nearly eighty thousand jobs. But here is the hard truth: unlike the economic corrections we saw a few years ago, nearly half of these layoffs are explicitly due to AI automation. We are talking about thirty-seven thousand jobs completely replaced by autonomous coding agents and generative AI tools. Customer support, entry-level programming, and sales operations are getting hit the hardest. Massive companies are actively firing staff and reallocating their entire payroll savings directly into data center funding and buying more GPUs. It's a fundamental structural reset. Tech companies have realized they can decouple their revenue growth from human headcount; they can operate with tiny, hyper-efficient AI-augmented teams while funneling all their cash into compute infrastructure. If you are entering the tech workforce right now, you absolutely have to upskill and learn how to manage these AI agents, because the entry-level buffer is practically gone.",
+    "id": "ai_layoffs_2026_10",
+    "category": "Business",
+    "companies": [
+      "Oracle",
+      "Amazon",
+      "Anthropic",
+      "Ford"
+    ],
+    "people": [],
+    "created_at": "2026-04-17T10:06:49Z"
+  }
+]
