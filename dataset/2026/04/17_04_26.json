@@ -13,14 +13,16 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/vi_apple_2026_01.png",
+    "image_prompt": "Photorealistic newsroom-style shot: close-up of an iPhone on a desk casting a holographic overlay of a pass, nutrition label, and floating Safari tabs. Subtle AI grid and scanning beams, cool blue lighting, crisp reflections, shallow depth of field, dramatic yet realistic, high detail, no text."
   },
   {
     "date": "2026-04-16",
     "source_file": "Combined (Tech News Aggregation and grok_report)",
     "page": 13,
-    "title": "Robots Are Learning on the Fly: Physical Intelligence Unveils π0.7 Brain",
-    "summary": "Startup Physical Intelligence introduced the π0.7 model, a breakthrough AI architecture that grants robots the ability to execute unseen physical tasks without specific prior training. Using compositional generalization, the model allows robots to infer physical solutions to novel problems.",
+    "title": "Robots Are Learning on the Fly: Physical Intelligence Unveils \u03c00.7 Brain",
+    "summary": "Startup Physical Intelligence introduced the \u03c00.7 model, a breakthrough AI architecture that grants robots the ability to execute unseen physical tasks without specific prior training. Using compositional generalization, the model allows robots to infer physical solutions to novel problems.",
     "engagement": "High",
     "raw_text": "Here is the wild part about robotics right now. A startup called Physical Intelligence just unveiled their new pi-zero-seven AI model, and it's literally giving robots a generalized brain. Historically, if you wanted a robot to fold a shirt, you had to train it exclusively on folding shirts millions of times. But pi-zero-seven achieves something called compositional generalization. In their demo, they showed a robot figuring out how to use an air fryer with practically zero prior training. It just figures it out by combining fragmented skills it already knows and taking verbal coaching from a human. This is exactly like the scaling breakthroughs we saw with ChatGPT, but applied to the physical world. The startup is already valued at over five billion dollars and is backed by some serious heavy hitters. Honestly, this is the inflection point we've been waiting for in Embodied AI. Soon, you won't need a specific robot for every single chore; you'll just have one universal machine running a generalized foundation model that can do whatever you ask. Would you trust an AI robot in your kitchen?",
     "id": "pi_robotics_2026_02",
@@ -31,11 +33,13 @@
     "people": [
       "Sergey Levine"
     ],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/pi_robotics_2026_02.png",
+    "image_prompt": "Hyper-realistic newsroom-style scene: sleek humanoid robot in a robotics lab executing a novel manipulation task mid-motion, sensors glowing softly, metallic arms precise, scientists blurred in background, cinematic lighting, shallow depth of field, high detail, natural colors, news photo quality."
   },
   {
     "date": "2026-04-16",
-    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "source_file": "Tech News Summary \u2013 April 17, 2026.pdf",
     "page": 2,
     "title": "OpenAI's Codex Can Now Control Your Entire Desktop",
     "summary": "OpenAI has expanded its Codex AI assistant into a multi-app desktop agent capable of typing, clicking, and interacting with computer applications. The update includes over 90 plugins and memory features to manage complex, long-running workflows autonomously.",
@@ -50,7 +54,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/openai_codex_2026_03.png",
+    "image_prompt": "Futuristic newsroom photo: a sleek laptop screen casting blue glow over a desk, robotic hand cursor interface hovering above multiple app windows on the desktop, realistic cyber-automation mood, high contrast, sharp detail, shallow depth of field, news photography style, no text."
   },
   {
     "date": "2026-04-17",
@@ -59,7 +65,7 @@
     "title": "Elon Musk Wants a 1-Terawatt Chip Factory. The Industry Says 'No Way.'",
     "summary": "Elon Musk has proposed 'TeraFab', a joint venture between Tesla and SpaceX to build a 1-terawatt semiconductor production facility in Austin, Texas. Established foundries like TSMC and Samsung have dismissed the multi-trillion-dollar project, citing insurmountable physics and engineering timelines.",
     "engagement": "High",
-    "raw_text": "So Elon Musk is currently trying to do the impossible, again. Frustrated by the insane bottleneck in AI chip manufacturing, Musk is launching an audacious joint venture between Tesla and SpaceX to build what he's calling 'TeraFab.' His goal? A massive facility in Austin, Texas, capable of producing one terawatt of computing capacity annually to fuel his AI and robotics empires. But here is the crazy part: the entire semiconductor industry is basically laughing at him. TSMC's CEO publicly shut down the idea, stating there are absolutely no shortcuts in nanometer-scale physics, no matter how much money you throw at it. And we are talking astronomical money—estimates suggest TeraFab would need between five and thirteen trillion dollars in capital expenditure! When Musk's team approached Samsung to partner up, Samsung reportedly rejected the premise entirely. It just goes to show that while Elon can build rockets and electric cars, semiconductor fabrication is a completely different beast protected by decades of institutional knowledge. Will infinite capital be enough to brute-force a semiconductor monopoly? Let me know your thoughts.",
+    "raw_text": "So Elon Musk is currently trying to do the impossible, again. Frustrated by the insane bottleneck in AI chip manufacturing, Musk is launching an audacious joint venture between Tesla and SpaceX to build what he's calling 'TeraFab.' His goal? A massive facility in Austin, Texas, capable of producing one terawatt of computing capacity annually to fuel his AI and robotics empires. But here is the crazy part: the entire semiconductor industry is basically laughing at him. TSMC's CEO publicly shut down the idea, stating there are absolutely no shortcuts in nanometer-scale physics, no matter how much money you throw at it. And we are talking astronomical money\u2014estimates suggest TeraFab would need between five and thirteen trillion dollars in capital expenditure! When Musk's team approached Samsung to partner up, Samsung reportedly rejected the premise entirely. It just goes to show that while Elon can build rockets and electric cars, semiconductor fabrication is a completely different beast protected by decades of institutional knowledge. Will infinite capital be enough to brute-force a semiconductor monopoly? Let me know your thoughts.",
     "id": "musk_terafab_2026_04",
     "category": "Hardware",
     "companies": [
@@ -75,7 +81,9 @@
       "Elon Musk",
       "C.C. Wei"
     ],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/musk_terafab_2026_04.png",
+    "image_prompt": "News photo realism: dawn over Austin, Texas skyline; foreground shows futuristic semiconductor wafer patterns glowing in a Tesla/SpaceX-style industrial facility silhouette. Split composition: left optimistic engineers, right skeptical executives near schematic boards. Cinematic lighting, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-04-16",
@@ -95,7 +103,9 @@
     "people": [
       "Gregory Barbaccia"
     ],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/anthropic_mythos_2026_05.png",
+    "image_prompt": "Realistic newsroom-style photo: dimly lit Washington DC at night, U.S. Capitol silhouette, faint server racks glow inside a secure facility window, shadowy tech officials in suits reviewing holographic code silhouettes, tense ominous mood, cinematic lighting, high detail, newsworthy, no text."
   },
   {
     "date": "2026-04-16",
@@ -115,7 +125,9 @@
       "Dyno Therapeutics"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/openai_rosalind_2026_06.png",
+    "image_prompt": "Realistic high-tech newsroom photo: a biochemist in a lab with holographic DNA helix and glowing neural network overlay, subtle server racks/AI interface in background, scientists collaborating at workstations, bright clinical lighting, cinematic depth of field, modern, credible, no text."
   },
   {
     "date": "2026-04-17",
@@ -133,16 +145,18 @@
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/openai_cerebras_2026_07.png",
+    "image_prompt": "Futuristic newsroom style image: sleek server racks and wafer-scale AI chip hologram, subtle Nvidia-like GPU silhouettes in shadow, contrasting calm blue circuitry glow. In foreground, two executives in suits reviewing holographic chip schematics. High-detail, cinematic lighting, realistic photojournalism, shallow depth of field."
   },
   {
     "date": "2026-04-16",
-    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "source_file": "Tech News Summary \u2013 April 17, 2026.pdf",
     "page": 2,
     "title": "Canva Just Supercharged Its AI to Auto-Build Entire Designs",
     "summary": "Canva updated its AI assistant to function as a design agent capable of orchestrating multiple tools simultaneously. Users can now describe a design via text, and the AI will autonomously combine text layout, image generation, and spatial tools into layered, editable drafts.",
     "engagement": "High",
-    "raw_text": "If you do any kind of graphic design or content creation, this new Canva update is going to blow your mind. Canva just seriously leveled up their AI assistant. Instead of just generating an image or tweaking text, you can now literally describe the entire layout you want, and the AI agent will autonomously call multiple different design tools to build it from scratch. It acts like an actual design orchestrator. It builds out layered drafts combining text formatting, image generation, and spatial layout, which you can then jump in and manually fine-tune. We are seeing a massive shift across the industry—Figma and Adobe are doing similar things—where AI is moving from being a simple 'generator' to an active 'design agent.' It basically eliminates the blank page syndrome completely and does the tedious layout work for you. Honestly, if you aren't integrating these AI tools into your workflow, you are going to fall behind. The speed at which you can push out professional-level creative assets now is just absurd. What do you guys think of AI taking over design?",
+    "raw_text": "If you do any kind of graphic design or content creation, this new Canva update is going to blow your mind. Canva just seriously leveled up their AI assistant. Instead of just generating an image or tweaking text, you can now literally describe the entire layout you want, and the AI agent will autonomously call multiple different design tools to build it from scratch. It acts like an actual design orchestrator. It builds out layered drafts combining text formatting, image generation, and spatial layout, which you can then jump in and manually fine-tune. We are seeing a massive shift across the industry\u2014Figma and Adobe are doing similar things\u2014where AI is moving from being a simple 'generator' to an active 'design agent.' It basically eliminates the blank page syndrome completely and does the tedious layout work for you. Honestly, if you aren't integrating these AI tools into your workflow, you are going to fall behind. The speed at which you can push out professional-level creative assets now is just absurd. What do you guys think of AI taking over design?",
     "id": "canva_ai_agent_2026_08",
     "category": "Software",
     "companies": [
@@ -151,11 +165,13 @@
       "Figma"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/canva_ai_agent_2026_08.png",
+    "image_prompt": "Futuristic newsroom scene showing a laptop/tablet with a glowing design canvas and floating editable layers: text blocks, image thumbnails, and layout grids. Subtle AI circuitry overlays, realistic lighting, high detail, corporate tech mood, shallow depth of field, no text."
   },
   {
     "date": "2026-04-14",
-    "source_file": "Tech News Summary – April 17, 2026.pdf",
+    "source_file": "Tech News Summary \u2013 April 17, 2026.pdf",
     "page": 2,
     "title": "DJI Just Teased Two Mysterious New Drones for 2026",
     "summary": "DJI has teased an upcoming hardware reveal for two new consumer drones codenamed 'Lito' and 'Lito X1'. Scheduled for an April 23 announcement, the new product line continues DJI's aggressive hardware expansion despite ongoing geopolitical pressures.",
@@ -167,7 +183,9 @@
       "DJI"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/dji_lito_2026_09.png",
+    "image_prompt": "Photorealistic newsroom-style hero image: two sleek consumer drones on a minimalist dark table under cool studio lighting, subtle RGB accents, one slightly larger labeled only by shape, shallow depth of field, moody tech atmosphere, soft reflections, high detail, 16:9, no text, no logos."
   },
   {
     "date": "2026-04-17",
@@ -186,6 +204,8 @@
       "Ford"
     ],
     "people": [],
-    "created_at": "2026-04-17T10:06:49Z"
+    "created_at": "2026-04-17T10:06:49Z",
+    "image_url": "images/17_04_26/ai_layoffs_2026_10.png",
+    "image_prompt": "Photorealistic newsroom scene: blurred executives reviewing layoffs, muted color palette; behind them, a server room with glowing GPUs, quiet robots, and empty office desks. Subtle sense of displacement and compute-driven restructuring, cinematic lighting, high detail, realistic, no text."
   }
 ]
