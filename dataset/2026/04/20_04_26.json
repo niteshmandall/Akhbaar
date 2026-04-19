@@ -4,139 +4,207 @@
     "source_file": "grok_report (6).pdf",
     "page": 1,
     "title": "Hidden AI Cameras in Your Earbuds?! VueBuds Are Here!",
-    "summary": "Researchers at the University of Washington have developed VueBuds, embedding tiny cameras into wireless earbuds to enable real-time, hands-free AI conversations about the user's surroundings[cite: 6, 7, 8]. The system achieves high accuracy in object and text identification without the privacy concerns of face-worn glasses[cite: 9, 12].",
+    "summary": "Researchers at the University of Washington have developed VueBuds, embedding tiny cameras into wireless earbuds to enable real-time, hands-free AI conversations about the user's surroundings. The system achieves high accuracy in object and text identification without the privacy concerns of face-worn glasses.",
     "engagement": "High",
-    "raw_text": "So check this out, smart glasses might already be dead. Researchers at the University of Washington just revealed something called VueBuds[cite: 6]. They literally embedded rice-sized cameras right into standard wireless earbuds! [cite: 6] These things look outward and stream what you're looking at straight to an AI model on your phone[cite: 7]. You can just ask out loud, 'What does this label say?' or 'Who wrote this book?' and the AI whispers the answer in your ear in about a second[cite: 8]. Honestly, this is huge because it completely sidesteps the creepy factor of walking around with cameras strapped to your face[cite: 9, 12]. They're hitting like 93 percent accuracy on reading book titles in lab tests[cite: 9]. Are we all about to be walking around with hidden AI spies in our ears? Let me know in the comments.",
+    "raw_text": "So check this out, smart glasses might already be dead. Researchers at the University of Washington just revealed something called VueBuds. They literally embedded rice-sized cameras right into standard wireless earbuds! These things look outward and stream what you're looking at straight to an AI model on your phone. You can just ask out loud, 'What does this label say?' or 'Who wrote this book?' and the AI whispers the answer in your ear in about a second. Honestly, this is huge because it completely sidesteps the creepy factor of walking around with cameras strapped to your face. They're hitting like 93 percent accuracy on reading book titles in lab tests. Are we all about to be walking around with hidden AI spies in our ears? Let me know in the comments.",
     "id": "uid1a2b3c",
     "category": "Hardware",
-    "companies": ["University of Washington"],
-    "people": ["Shyam Gollakota"],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "companies": [
+      "University of Washington"
+    ],
+    "people": [
+      "Shyam Gollakota"
+    ],
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid1a2b3c.png",
+    "image_prompt": "Realistic high-quality news photo: a close-up of modern wireless earbuds on a table, subtle micro-camera concept hinted by translucent glow, slight UI-like bokeh in background, neutral tech newsroom lighting, shallow depth of field, crisp details, no text, engaging cinematic mood."
   },
   {
     "date": "2026-04-19",
     "source_file": "grok_report (6).pdf",
     "page": 3,
     "title": "Humanoid Robot CRUSHES Human Half-Marathon Record!",
-    "summary": "Honor's bipedal robot 'Lightning' completed the Beijing E-Town Humanoid Robot Half-Marathon in 50 minutes and 26 seconds, beating all 12,000 human runners and shattering the human world record[cite: 48]. This milestone highlights rapid advancements in embodied AI, locomotion, and autonomous navigation[cite: 52].",
+    "summary": "Honor's bipedal robot 'Lightning' completed the Beijing E-Town Humanoid Robot Half-Marathon in 50 minutes and 26 seconds, beating all 12,000 human runners and shattering the human world record. This milestone highlights rapid advancements in embodied AI, locomotion, and autonomous navigation.",
     "engagement": "High",
-    "raw_text": "Here is the wild part of today's news: humans are officially too slow. Honor just unleashed their new bipedal robot named 'Lightning' in a Beijing half-marathon, and it didn't just participate—it annihilated the competition[cite: 48]. This robot finished the 21.1 kilometer course in 50 minutes and 26 seconds[cite: 48]. It literally beat the human world record and smoked all 12,000 human runners on the track[cite: 48]. And it wasn't alone; Honor robots actually swept the top three spots[cite: 49]. We are seeing a massive leap in physical, embodied AI and balance[cite: 52, 53]. If these things can outrun elite athletes in a half-marathon today, what are they going to be doing in our warehouses and homes next year? Drop a like if you're ready for the robot olympics!",
+    "raw_text": "Here is the wild part of today's news: humans are officially too slow. Honor just unleashed their new bipedal robot named 'Lightning' in a Beijing half-marathon, and it didn't just participate\u2014it annihilated the competition. This robot finished the 21.1 kilometer course in 50 minutes and 26 seconds. It literally beat the human world record and smoked all 12,000 human runners on the track. And it wasn't alone; Honor robots actually swept the top three spots. We are seeing a massive leap in physical, embodied AI and balance. If these things can outrun elite athletes in a half-marathon today, what are they going to be doing in our warehouses and homes next year? Drop a like if you're ready for the robot olympics!",
     "id": "uid4d5e6f",
     "category": "Robotics",
-    "companies": ["Honor"],
-    "people": ["Jacob Kiplimo"],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "companies": [
+      "Honor"
+    ],
+    "people": [
+      "Jacob Kiplimo"
+    ],
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid4d5e6f.png",
+    "image_prompt": "Ultra-realistic news photo, rainy Beijing E-Town half-marathon track at dawn; sleek bipedal humanoid robot \u201cLightning\u201d stride mid-sprint, motion blur on wheels/tracks, competitors in background, electric-blue LED accents, crowd cheering, shallow depth of field, dramatic cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-04-16",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 2,
     "title": "OpenAI's New AI is Designed to Cure Diseases",
-    "summary": "OpenAI introduced an early research preview of GPT-Rosalind, an AI model specifically engineered for biological research and drug discovery[cite: 71, 72]. By autonomously navigating biochemical databases and evaluating molecular hypotheses, it aims to dramatically accelerate the traditional 15-year pharmaceutical development pipeline[cite: 75, 77, 81].",
+    "summary": "OpenAI introduced an early research preview of GPT-Rosalind, an AI model specifically engineered for biological research and drug discovery. By autonomously navigating biochemical databases and evaluating molecular hypotheses, it aims to dramatically accelerate the traditional 15-year pharmaceutical development pipeline.",
     "engagement": "Medium",
-    "raw_text": "We all use ChatGPT for emails, but OpenAI's newest tool might literally save your life. They just dropped GPT-Rosalind, and it's built from the ground up for biology and drug discovery[cite: 71, 72]. Normally, bringing a new drug to market takes about 15 years because researchers have to manually dig through millions of fragmented documents and complex data[cite: 75, 76]. But Rosalind is designed to act like a proactive research partner, autonomously evaluating molecular hypotheses at scale[cite: 77, 80]. Massive pharma companies like Moderna and Amgen are already testing it out[cite: 78]. This means the very first phases of curing new diseases might become completely automated soon, making treatments faster and way cheaper to develop[cite: 81]. I think this is one of the best uses of AI we've seen yet.",
+    "raw_text": "We all use ChatGPT for emails, but OpenAI's newest tool might literally save your life. They just dropped GPT-Rosalind, and it's built from the ground up for biology and drug discovery. Normally, bringing a new drug to market takes about 15 years because researchers have to manually dig through millions of fragmented documents and complex data. But Rosalind is designed to act like a proactive research partner, autonomously evaluating molecular hypotheses at scale. Massive pharma companies like Moderna and Amgen are already testing it out. This means the very first phases of curing new diseases might become completely automated soon, making treatments faster and way cheaper to develop. I think this is one of the best uses of AI we've seen yet.",
     "id": "uid7g8h9i",
     "category": "AI",
-    "companies": ["OpenAI", "Amgen", "Moderna", "Thermo Fisher Scientific"],
+    "companies": [
+      "OpenAI",
+      "Amgen",
+      "Moderna",
+      "Thermo Fisher Scientific"
+    ],
     "people": [],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid7g8h9i.png",
+    "image_prompt": "Realistic newsroom-style scene: a sleek AI server room with glowing bioinformatics holograms (molecule models, DNA helix), researchers in lab coats observing a translucent interface, subtle world map overlay, cinematic lighting, high detail, neutral colors, trustworthy mood, no text."
   },
   {
     "date": "2026-04-19",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 2,
     "title": "Google Gemini 3.1 Just Made All Other AIs Look Slow",
-    "summary": "Google DeepMind has launched Gemini 3.1, a foundational model featuring native multimodality that processes text, audio, image, and video simultaneously without intermediate transcription[cite: 82, 83]. This architectural upgrade eliminates cross-modal latency, enabling real-time analysis of unstructured data for autonomous agents[cite: 89, 90].",
+    "summary": "Google DeepMind has launched Gemini 3.1, a foundational model featuring native multimodality that processes text, audio, image, and video simultaneously without intermediate transcription. This architectural upgrade eliminates cross-modal latency, enabling real-time analysis of unstructured data for autonomous agents.",
     "engagement": "High",
-    "raw_text": "Google is not messing around anymore. DeepMind just launched Gemini 3.1, and it fundamentally changes how AI works[cite: 82, 83]. Older models had to translate everything into text first—like using speech-to-text before the AI could 'understand' what you said[cite: 86]. But Gemini 3.1 is natively multimodal[cite: 83]. It processes live video, audio, text, and images all at the exact same time right inside its neural architecture[cite: 83, 88]. The latency is basically gone[cite: 89]. You can feed it hours of raw video, and it understands the context instantly[cite: 89]. This is the missing piece for fully autonomous digital coworkers and real-time robotics[cite: 90, 91]. Honestly, the speed of this thing is going to make last year's tech feel like dial-up internet.",
+    "raw_text": "Google is not messing around anymore. DeepMind just launched Gemini 3.1, and it fundamentally changes how AI works. Older models had to translate everything into text first\u2014like using speech-to-text before the AI could 'understand' what you said. But Gemini 3.1 is natively multimodal. It processes live video, audio, text, and images all at the exact same time right inside its neural architecture. The latency is basically gone. You can feed it hours of raw video, and it understands the context instantly. This is the missing piece for fully autonomous digital coworkers and real-time robotics. Honestly, the speed of this thing is going to make last year's tech feel like dial-up internet.",
     "id": "uid0j1k2l",
     "category": "AI",
-    "companies": ["Google", "DeepMind"],
+    "companies": [
+      "Google",
+      "DeepMind"
+    ],
     "people": [],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid0j1k2l.png",
+    "image_prompt": "Realistic news photo style: sleek futuristic server lab with glowing neural pathways linking a floating cube of text, audio waveforms, images, and video frames processed simultaneously; dynamic motion blur shows real-time speed; moody blue lighting, cinematic contrast, high detail, sharp focus, no text."
   },
   {
     "date": "2026-04-19",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 11,
     "title": "PC Gamers Are Getting Screwed by the AI Boom!",
-    "summary": "Surging data center demand for AI chips is severely disrupting the consumer desktop CPU and GPU markets, leading to exorbitant prices and the resurrection of legacy hardware[cite: 231, 233, 234]. AMD's upcoming Ryzen 9 9950X3D2 is rumored to hit high prices, while Nvidia is delaying the RTX 5050 to re-release the older RTX 3060[cite: 235, 237].",
+    "summary": "Surging data center demand for AI chips is severely disrupting the consumer desktop CPU and GPU markets, leading to exorbitant prices and the resurrection of legacy hardware. AMD's upcoming Ryzen 9 9950X3D2 is rumored to hit high prices, while Nvidia is delaying the RTX 5050 to re-release the older RTX 3060.",
     "engagement": "High",
-    "raw_text": "If you're planning to build a PC this year, I have some terrible news for you. The AI data center boom is completely destroying the consumer silicon market[cite: 231]. Foundries like TSMC are so busy pumping out insanely expensive AI chips that normal CPUs and GPUs are getting left behind[cite: 234]. AMD's new Ryzen 9 9950X3D2 was just spotted on Amazon pre-orders for a staggering a thousand bucks[cite: 235]. And it gets worse—Nvidia is reportedly delaying the budget RTX 5050, and instead, they are literally re-releasing the old RTX 3060 to fill the gap[cite: 237]. It's wild that in 2026 we are seeing hardware lifecycles artificially extended just because all the manufacturing capacity is feeding the AI monopoly[cite: 238, 239]. Hang onto your current rigs, folks.",
+    "raw_text": "If you're planning to build a PC this year, I have some terrible news for you. The AI data center boom is completely destroying the consumer silicon market. Foundries like TSMC are so busy pumping out insanely expensive AI chips that normal CPUs and GPUs are getting left behind. AMD's new Ryzen 9 9950X3D2 was just spotted on Amazon pre-orders for a staggering a thousand bucks. And it gets worse\u2014Nvidia is reportedly delaying the budget RTX 5050, and instead, they are literally re-releasing the old RTX 3060 to fill the gap. It's wild that in 2026 we are seeing hardware lifecycles artificially extended just because all the manufacturing capacity is feeding the AI monopoly. Hang onto your current rigs, folks.",
     "id": "uid3m4n5o",
     "category": "Hardware",
-    "companies": ["AMD", "Intel", "Nvidia", "TSMC", "Amazon"],
+    "companies": [
+      "AMD",
+      "Intel",
+      "Nvidia",
+      "TSMC",
+      "Amazon"
+    ],
     "people": [],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid3m4n5o.png",
+    "image_prompt": "Cinematic newsroom photo: split scene of a modern PC gamer battlestation on one side and scarce, overpriced hardware on the other\u2014dim aisles, dusty legacy GPUs, a glowing AI data center behind, subtle chip circuitry. Gritty, realistic, high detail, dramatic lighting, no text."
   },
   {
     "date": "2026-04-19",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 12,
     "title": "Amazon Just Declared War on Elon Musk's Starlink",
-    "summary": "Amazon announced the acquisition of satellite operator Globalstar to rapidly accelerate its low Earth orbit (LEO) telecommunications strategy[cite: 242, 243]. By securing Globalstar's established orbital spectrum and infrastructure, Amazon is positioning itself as a direct competitor to SpaceX's Starlink constellation[cite: 245, 246].",
+    "summary": "Amazon announced the acquisition of satellite operator Globalstar to rapidly accelerate its low Earth orbit (LEO) telecommunications strategy. By securing Globalstar's established orbital spectrum and infrastructure, Amazon is positioning itself as a direct competitor to SpaceX's Starlink constellation.",
     "engagement": "High",
-    "raw_text": "The space race between billionaires just got incredibly real. Amazon just announced they are acquiring the satellite operator Globalstar[cite: 243]. Make no mistake, this is a direct, aggressive move to take down Elon Musk's Starlink[cite: 245]. Instead of waiting years to cut through regulatory tape and launch a full constellation from scratch, Amazon is buying their way into the game by taking over Globalstar's existing orbital spectrum and infrastructure[cite: 246]. What's crazy is that Apple has historically used Globalstar for its iPhone SOS and satellite messaging[cite: 247]. So Amazon just bought a massive piece of Apple's backend infrastructure! The future of internet isn't cell towers anymore, it's corporate mega-constellations[cite: 248]. The battle for low Earth orbit is officially on.",
+    "raw_text": "The space race between billionaires just got incredibly real. Amazon just announced they are acquiring the satellite operator Globalstar. Make no mistake, this is a direct, aggressive move to take down Elon Musk's Starlink. Instead of waiting years to cut through regulatory tape and launch a full constellation from scratch, Amazon is buying their way into the game by taking over Globalstar's existing orbital spectrum and infrastructure. What's crazy is that Apple has historically used Globalstar for its iPhone SOS and satellite messaging. So Amazon just bought a massive piece of Apple's backend infrastructure! The future of internet isn't cell towers anymore, it's corporate mega-constellations. The battle for low Earth orbit is officially on.",
     "id": "uid6p7q8r",
     "category": "Business",
-    "companies": ["Amazon", "Globalstar", "SpaceX", "Apple"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "companies": [
+      "Amazon",
+      "Globalstar",
+      "SpaceX",
+      "Apple"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid6p7q8r.png",
+    "image_prompt": "Realistic high-quality news photo: dramatic space scene over Earth at dusk, glowing LEO satellites and orbital paths, a sleek Amazon-like communications satellite silhouette contrasted with distant Starlink-style constellation, subtle corporate spacecraft hardware, tense geopolitical mood, cinematic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-04-15",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 8,
     "title": "Adobe's New AI Does All the Boring Editing FOR You",
-    "summary": "Adobe unveiled the Firefly AI Assistant, an autonomous creative agent that orchestrates multi-step design workflows across the entire Creative Cloud ecosystem using natural language commands[cite: 165, 168]. The tool functions as a 'master orchestrator,' applying edits across Photoshop, Premiere, and Illustrator while keeping the human creator in the strategic director role[cite: 169, 170].",
+    "summary": "Adobe unveiled the Firefly AI Assistant, an autonomous creative agent that orchestrates multi-step design workflows across the entire Creative Cloud ecosystem using natural language commands. The tool functions as a 'master orchestrator,' applying edits across Photoshop, Premiere, and Illustrator while keeping the human creator in the strategic director role.",
     "engagement": "Medium",
-    "raw_text": "If you're a creator or editor, this is going to change how you work forever. Adobe just revealed their new Firefly AI Assistant at the 2026 Summit, and it's not just a basic image generator[cite: 165, 168]. It's an autonomous agent that acts like your personal editing teammate[cite: 168]. You can literally just talk to it through a single chat interface and tell it what you want, and it will orchestrate complex workflows across Photoshop, Premiere, and Illustrator all by itself[cite: 168, 169]. It handles the tedious stuff—color correction, audio edits, masking—while you sit back and act as the creative director[cite: 169, 170]. Adobe calls this the 'Agentic Web,' and it's going to make content creators wildly faster[cite: 170]. Let me know if you think this will replace editors!",
+    "raw_text": "If you're a creator or editor, this is going to change how you work forever. Adobe just revealed their new Firefly AI Assistant at the 2026 Summit, and it's not just a basic image generator. It's an autonomous agent that acts like your personal editing teammate. You can literally just talk to it through a single chat interface and tell it what you want, and it will orchestrate complex workflows across Photoshop, Premiere, and Illustrator all by itself. It handles the tedious stuff\u2014color correction, audio edits, masking\u2014while you sit back and act as the creative director. Adobe calls this the 'Agentic Web,' and it's going to make content creators wildly faster. Let me know if you think this will replace editors!",
     "id": "uid9s0t1u",
     "category": "Software",
-    "companies": ["Adobe"],
+    "companies": [
+      "Adobe"
+    ],
     "people": [],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid9s0t1u.png",
+    "image_prompt": "Futuristic newsroom scene: a designer at a desk with laptop and tablet, holographic UI flowcharts linking Photoshop, Premiere, Illustrator icons (no text). Warm studio lighting, realistic style, shallow depth of field, subtle glowing arrows showing autonomous edits, confident calm mood, high-detail."
   },
   {
     "date": "2026-04-19",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 14,
     "title": "Meta Fires 8,000 Workers to Build the 'Applied AI' Machine",
-    "summary": "Meta is executing a massive 8,000-person layoff, cutting roughly 10% of its workforce, and aggressively reallocating payroll savings into AI data center infrastructure[cite: 284, 293, 295]. The company has also mandated that top software engineers transfer into a new 'Applied AI Engineering' division, effectively eradicating traditional engineering titles in favor of AI-centric roles[cite: 296, 298].",
+    "summary": "Meta is executing a massive 8,000-person layoff, cutting roughly 10% of its workforce, and aggressively reallocating payroll savings into AI data center infrastructure. The company has also mandated that top software engineers transfer into a new 'Applied AI Engineering' division, effectively eradicating traditional engineering titles in favor of AI-centric roles.",
     "engagement": "Medium",
-    "raw_text": "This is a harsh reality check for the tech industry. Despite insane amounts of money pouring into AI startups, traditional tech jobs are getting slaughtered[cite: 286]. Meta is leading the charge, planning to fire 8,000 people—about 10% of their workforce—by next month[cite: 293]. But here's the wild part: they aren't just cutting costs. They are forcefully rewiring the entire company[cite: 294]. Meta is taking all those payroll savings and dumping them straight into AI data centers[cite: 295]. They are actually forcing their top remaining software engineers into a new 'Applied AI Engineering' unit[cite: 296]. Traditional programmer titles are getting deleted and replaced with names like 'AI builder'[cite: 298]. The era of the classic mid-level software engineer might literally be over[cite: 299].",
+    "raw_text": "This is a harsh reality check for the tech industry. Despite insane amounts of money pouring into AI startups, traditional tech jobs are getting slaughtered. Meta is leading the charge, planning to fire 8,000 people\u2014about 10% of their workforce\u2014by next month. But here's the wild part: they aren't just cutting costs. They are forcefully rewiring the entire company. Meta is taking all those payroll savings and dumping them straight into AI data centers. They are actually forcing their top remaining software engineers into a new 'Applied AI Engineering' unit. Traditional programmer titles are getting deleted and replaced with names like 'AI builder'. The era of the classic mid-level software engineer might literally be over.",
     "id": "uid2v3w4x",
     "category": "Business",
-    "companies": ["Meta"],
-    "people": ["Maher Saba", "Alexandr Wang"],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "companies": [
+      "Meta"
+    ],
+    "people": [
+      "Maher Saba",
+      "Alexandr Wang"
+    ],
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid2v3w4x.png",
+    "image_prompt": "Cinematic newsroom photo: Meta-style headquarters at dusk, shadowy workers exiting, subtle layoff vibe; nearby AI servers and cooling towers glow with cold blue light; large engineers in suits at server racks, faces focused. Realistic, high detail, news photography, dramatic lighting."
   },
   {
     "date": "2026-04-15",
     "source_file": "grok_report (6).pdf",
     "page": 3,
     "title": "The Ctrl-Z Button for Rogue AI Agents",
-    "summary": "Commvault has launched AI Protect, an enterprise rollback system that discovers, monitors, and can instantly revert the actions of autonomous AI agents operating across major cloud platforms[cite: 37, 38]. By tracking API calls and data changes, the tool safely restores full-stack environments to a known-good state if an AI exhibits destructive behavior[cite: 39, 40].",
+    "summary": "Commvault has launched AI Protect, an enterprise rollback system that discovers, monitors, and can instantly revert the actions of autonomous AI agents operating across major cloud platforms. By tracking API calls and data changes, the tool safely restores full-stack environments to a known-good state if an AI exhibits destructive behavior.",
     "engagement": "Low",
-    "raw_text": "Okay, so what happens when a fully autonomous AI agent just goes totally rogue in a company's cloud network? Well, Commvault just built the ultimate 'Ctrl-Z' button for AI[cite: 37]. It's called AI Protect, and it's a tool that constantly monitors everything these AI agents are doing across AWS, Azure, and Google Cloud[cite: 38]. If an AI starts doing something destructive or hallucinates a bad command, AI Protect maps the blast radius of all its API calls and instantly rolls the entire system—data, configs, everything—back to a safe state[cite: 39, 40]. As companies let AI run wild with enterprise data, traditional backups just aren't fast enough anymore[cite: 43, 44]. We are entering the era where safeguarding against your own digital employees is a massive business[cite: 45].",
+    "raw_text": "Okay, so what happens when a fully autonomous AI agent just goes totally rogue in a company's cloud network? Well, Commvault just built the ultimate 'Ctrl-Z' button for AI. It's called AI Protect, and it's a tool that constantly monitors everything these AI agents are doing across AWS, Azure, and Google Cloud. If an AI starts doing something destructive or hallucinates a bad command, AI Protect maps the blast radius of all its API calls and instantly rolls the entire system\u2014data, configs, everything\u2014back to a safe state. As companies let AI run wild with enterprise data, traditional backups just aren't fast enough anymore. We are entering the era where safeguarding against your own digital employees is a massive business.",
     "id": "uid5y6z7a",
     "category": "Enterprise",
-    "companies": ["Commvault", "AWS", "Microsoft", "Google"],
-    "people": ["Pranay Ahlawat"],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "companies": [
+      "Commvault",
+      "AWS",
+      "Microsoft",
+      "Google"
+    ],
+    "people": [
+      "Pranay Ahlawat"
+    ],
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid5y6z7a.png",
+    "image_prompt": "Realistic tech news photo: a futuristic control room with glowing blue UI panels, a shield icon hovering above cloud server racks, and a \u201crollback\u201d moment shown by rewinding light trails from connected APIs back to a safe state; cinematic lighting, sharp detail, neutral corporate mood."
   },
   {
     "date": "2026-04-19",
     "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
     "page": 9,
     "title": "Huawei Just Bypassed Global AI Sanctions with New Chip",
-    "summary": "Huawei released the 950PR AI chip, a specialized semiconductor optimized purely for inference workloads, to circumvent stringent global export controls on advanced training silicon[cite: 198, 202]. This hardware allows Chinese tech firms like ByteDance and Alibaba to deploy cost-effective, localized AI solutions independent of international supply chains[cite: 204, 205].",
+    "summary": "Huawei released the 950PR AI chip, a specialized semiconductor optimized purely for inference workloads, to circumvent stringent global export controls on advanced training silicon. This hardware allows Chinese tech firms like ByteDance and Alibaba to deploy cost-effective, localized AI solutions independent of international supply chains.",
     "engagement": "Medium",
-    "raw_text": "Geopolitics and tech are colliding hard today. Huawei just dropped a brand new AI chip called the 950PR, and it's a massive middle finger to global export controls[cite: 198, 200, 201]. Because China can't easily get their hands on Nvidia's ultra-powerful training chips, Huawei pivoted. They designed the 950PR specifically for *inference*—which is the process of running an AI model after it's already been trained[cite: 202, 204]. It's super fast and power-efficient[cite: 204]. Massive Chinese companies like ByteDance and Alibaba are reportedly buying these up in bulk[cite: 204]. This proves that hardware sanctions are just forcing global competitors to build their own independent, localized silicon supply chains[cite: 205]. The tech world is officially splitting in two, and inference chips are the new battleground[cite: 206].",
+    "raw_text": "Geopolitics and tech are colliding hard today. Huawei just dropped a brand new AI chip called the 950PR, and it's a massive middle finger to global export controls. Because China can't easily get their hands on Nvidia's ultra-powerful training chips, Huawei pivoted. They designed the 950PR specifically for *inference*\u2014which is the process of running an AI model after it's already been trained. It's super fast and power-efficient. Massive Chinese companies like ByteDance and Alibaba are reportedly buying these up in bulk. This proves that hardware sanctions are just forcing global competitors to build their own independent, localized silicon supply chains. The tech world is officially splitting in two, and inference chips are the new battleground.",
     "id": "uid8b9c0d",
     "category": "Hardware",
-    "companies": ["Huawei", "ByteDance", "Alibaba", "Nvidia"],
+    "companies": [
+      "Huawei",
+      "ByteDance",
+      "Alibaba",
+      "Nvidia"
+    ],
     "people": [],
-    "created_at": "2026-04-19T16:43:23.000Z"
+    "created_at": "2026-04-19T16:43:23.000Z",
+    "image_url": "images/20_04_26/uid8b9c0d.png",
+    "image_prompt": "Photorealistic news scene: a sleek Huawei-style microchip close-up on a lab workbench, glowing circuitry, subtle factory lights, engineers in background in soft focus, cool blue tech palette, cinematic lighting, shallow depth of field, realistic reflections, high detail, serious investigative mood, no text, no logos."
   }
 ]
