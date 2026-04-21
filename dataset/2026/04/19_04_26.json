@@ -1,0 +1,197 @@
+[
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 8,
+    "title": "Apple's SECRET 2026 Smart Glasses: No Screen, Just AI?!",
+    "summary": "Apple is reportedly launching ambient computing smart glasses by late 2026 or 2027 that omit an AR display in favor of an audio-first interface. The glasses will continuously feed visual data to localized Apple Intelligence models on a paired iPhone.",
+    "engagement": "High",
+    "raw_text": "So check this out, Apple is completely pivoting their wearable strategy and it might just change everything. We have massive supply chain leaks pointing to Apple's new smart glasses dropping in late 2026, but here is the wild part: they supposedly have NO AR screen. Yup, you heard that right! Instead of bulky displays, Apple is going all-in on an ambient, audio-first AI interface. The glasses will pack built-in cameras, speakers, and mics that constantly feed what you are looking at straight into Siri and the new localized Apple Intelligence models on your iPhone. Imagine walking down the street, looking at a menu in another language, and Siri just whispers the translation in your ear without you ever lifting a finger. They are testing Ray-Ban Wayfarer-style and circular frames, so they actually look like normal glasses. Plus, we are getting an M5-powered Mac mini and a 12th gen iPad heavily optimized for running AI locally. Honestly, this is huge for privacy and battery life. Smash that like button if you would wear these!",
+    "id": "6c939616",
+    "category": "Hardware",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/6c939616.png",
+    "image_prompt": "Photorealistic scene of sleek futuristic Apple-style smart glasses on a neutral background, subtle matte black and chrome accents, soft studio lighting, shallow depth of field, ambient holographic glow around lenses (no display), discreet audio-wave particles, calm premium tech mood."
+  },
+  {
+    "date": "2026-04-17",
+    "source_file": "grok_report (5).pdf",
+    "page": 1,
+    "title": "Nvidia's Biggest Rival Just Filed for a $23B IPO!",
+    "summary": "Cerebras Systems, a manufacturer of wafer-scale AI chips, has confidentially filed for a U.S. IPO on the Nasdaq under the ticker CBRS. The company recently reached a $23 billion valuation and secured a multi-year deal with OpenAI reportedly worth upwards of $10 billion.",
+    "engagement": "High",
+    "raw_text": "Alright guys, if you thought Nvidia had a total monopoly on the AI chip market, think again! Cerebras Systems just confidentially filed for a massive US IPO on the Nasdaq. For those who do not know, these guys make absolutely massive, wafer-scale AI chips that bypass traditional memory bottlenecks, and they are gunning straight for Nvidia's crown. They recently locked in a Series H funding round that bumped their valuation to an insane 23 billion dollars. But here is the craziest part of this whole story. Cerebras just snagged a massive multi-year deal with OpenAI that is reportedly worth between 10 to 20 billion dollars! OpenAI is basically deploying 750 megawatts of Cerebras chips right into AWS data centers. CEO Andrew Feldman straight up said they are taking fast-inference business right out of Nvidia's hands. This is a massive shift in the hardware space. Competition is finally heating up, which means lower costs for AI deployment across the board. Are you guys buying this IPO when it drops? Let me know in the comments!",
+    "id": "37de0f05",
+    "category": "Business",
+    "companies": [
+      "Cerebras Systems",
+      "Nvidia",
+      "OpenAI",
+      "AWS",
+      "Morgan Stanley",
+      "Citigroup",
+      "Barclays",
+      "UBS"
+    ],
+    "people": [
+      "Andrew Feldman"
+    ],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/37de0f05.png",
+    "image_prompt": "Futuristic newsroom-style scene: a sleek semiconductor wafer in sharp focus, glowing microcircuit patterns, subtle data streams in the background, modern glass city skyline at dusk, corporate tech atmosphere, cinematic lighting, photorealistic, high detail, no text, no logos."
+  },
+  {
+    "date": "2026-04-18",
+    "source_file": "grok_report (5).pdf",
+    "page": 2,
+    "title": "Anthropic CEO's Secret White House Meeting REVEALED!",
+    "summary": "Anthropic CEO Dario Amodei met with Treasury Secretary Scott Bessent and White House Chief of Staff Susie Wiles to discuss AI safety and US competitiveness. The meeting signals a de-escalation of previous tensions between the leading AI lab and the government.",
+    "engagement": "High",
+    "raw_text": "This is a massive update for the AI policy world! Anthropic CEO Dario Amodei just had a super high-stakes, closed-door meeting with the Trump administration. He sat down with Treasury Secretary Scott Bessent and Chief of Staff Susie Wiles, and things are reportedly thawing out between the AI labs and the government. If you remember, the Pentagon previously labeled Anthropic as a supply chain risk because they refused to build autonomous weapons. Well, now they are talking about collaboration, cybersecurity, and keeping the US at the very top of the global AI race. The coolest detail? They heavily discussed Anthropic's unreleased 'Mythos' model, which is supposedly an absolute beast at finding cybersecurity vulnerabilities. Jack Clark even briefed the administration on it. It looks like pragmatic engagement is winning out over past political drama, which could mean much smoother rollouts for AI in banking and government sectors very soon. Honestly, seeing the government take cyber AI seriously is a major relief. What do you guys think?",
+    "id": "179333a4",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [
+      "Dario Amodei",
+      "Scott Bessent",
+      "Susie Wiles",
+      "Jack Clark"
+    ],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/179333a4.png",
+    "image_prompt": "Realistic high-quality photojournalism: Dario Amodei with Treasury Sec. Scott Bessent and White House Chief of Staff Susie Wiles in a formal White House meeting room, warm afternoon light, subtle handshake, serious yet cordial mood, shallow depth of field, authentic details, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 4,
+    "title": "Mistral Small 4 Drops: RIP Expensive Proprietary Models?",
+    "summary": "Mistral AI has released Mistral Small 4 under an Apache 2.0 license, combining reasoning, vision, and coding into a single hybrid model. Operating with 119 billion parameters but only 6 billion active during inference, it offers a 40% reduction in completion time.",
+    "engagement": "Medium",
+    "raw_text": "Okay devs, stop scrolling because Mistral just dropped a massive bombshell on the open-source community. They just released Mistral Small 4 under the Apache 2.0 license, meaning you can run it completely locally without annoying API costs. But here is why this is a total game-changer. They actually combined their three previous models\u2014Magistral, Pixtral, and Devstral\u2014into one insane hybrid engine. Now you get high-level reasoning, vision tasks, and agentic coding all in a single model. Under the hood, it is a 119 billion parameter beast, but it uses sparse activation. That means it only triggers 6 billion parameters per token, making it super lightweight and lightning fast during inference. We are talking a 40 percent reduction in end-to-end completion time and triple the throughput. Plus, they added an insane 256k context window for massive codebases. They also launched Mistral Forge for enterprise fine-tuning and a new coding agent called Leanstral. Open source is absolutely crushing it right now!",
+    "id": "0690eaee",
+    "category": "AI",
+    "companies": [
+      "Mistral AI"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/0690eaee.png",
+    "image_prompt": "Futuristic newsroom scene: sleek server racks and glowing neural network holograms, dual split of \u201cexpensive\u201d dark towering monoliths vs \u201copen\u201d bright modular nodes. Subtle AI circuit patterns, blue-violet lighting, cinematic realism, shallow depth of field, high detail, no text."
+  },
+  {
+    "date": "2026-04-16",
+    "source_file": "grok_report (5).pdf",
+    "page": 2,
+    "title": "xAI is Powering the Ultimate Coding AI!",
+    "summary": "xAI has agreed to supply tens of thousands of its AI chips to Cursor, an AI-powered code editor. This infrastructure deal aims to help Cursor train its latest agentic coding model and highlights xAI's expansion into compute leasing.",
+    "engagement": "Medium",
+    "raw_text": "We have some wild news from the AI startup world! xAI is officially pivoting into a massive infrastructure play. They just signed a deal to rent out tens of thousands of their high-performance AI chips to Cursor. If you are a developer, you probably already know that Cursor is one of the hottest AI-powered code editors on the market right now. Well, Cursor is going to use all this insane compute power to train their brand-new, next-generation agentic coding model. This is super strategic. It shows that xAI is not just focused on building their own Grok models; they want to be the actual backbone for other huge AI platforms. With AI compute being so scarce right now, these creative leasing deals are basically keeping the frontier models alive. It is going to be a massive battle between Cursor, Claude Code, and Codex. I honestly cannot wait to see what kind of insane features Cursor drops after this training run. Drop a comment if you code with Cursor!",
+    "id": "2974e1d1",
+    "category": "AI",
+    "companies": [
+      "xAI",
+      "Cursor"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/2974e1d1.png",
+    "image_prompt": "Photorealistic news image: modern data center racks glowing with blue light, subtle circuit patterns; a sleek coder workstation in foreground with blurred AI interface; two abstracted hands exchanging a microchip symbol; corporate tech mood, cinematic lighting, shallow depth of field, ultra-high detail, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 1,
+    "title": "AI is Now Controlling Particle Accelerators?!",
+    "summary": "Researchers at Fermilab have deployed artificial intelligence to manage and optimize particle accelerators as part of the Department of Energy's Genesis Mission. The AI provides real-time beam dynamic optimization and predictive maintenance, moving away from rigid programmatic logic.",
+    "engagement": "Medium",
+    "raw_text": "Prepare to have your mind absolutely blown, because AI has officially entered the chat for high-energy physics! Researchers at Fermilab, backed by the Department of Energy's Genesis Mission, are now using artificial intelligence to directly control massive particle accelerators. Let that sink in. These are staggeringly complex machines with hundreds of thousands of independent parts like cryogenic coolers and superconducting electromagnets. For decades, human scientists managed them with rigid, old-school programmatic logic. Not anymore! The new MOAT initiative integrates AI for real-time beam dynamic optimization and proactive predictive maintenance. The AI can actually anticipate cascading failures and fix them before the system even goes down! This is a monumental leap. It is going to fast-track fusion energy research, speed up the creation of cancer-fighting medical isotopes, and help eliminate toxic forever chemicals from our water supplies. We are literally using AI to unlock the secrets of the universe at a subatomic level. Science fiction is becoming reality right in front of us!",
+    "id": "b4692686",
+    "category": "Science",
+    "companies": [
+      "Fermilab",
+      "Department of Energy"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/b4692686.png",
+    "image_prompt": "Realistic news photo: Fermilab particle accelerator control hall with glowing accelerator tunnel, subtle beam shimmer, engineers in lab coats observing curved monitors, AI hologram-like interface showing flowing signals, futuristic yet credible mood, cinematic lighting, high detail, sharp focus, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 10,
+    "title": "Firefighters Are Using SOUND WAVES to Stop Wildfires!",
+    "summary": "Fire departments in Southern California are utilizing experimental technology, including acoustic sound wave emitters, to disrupt oxygen flow and suppress wildfires. This is combined with highly sensitive lightning-strike detectors that use predictive AI modeling to deploy resources preemptively.",
+    "engagement": "Medium",
+    "raw_text": "Guys, you have to check out this crazy new tech they are deploying in Southern California. We all know wildfires have been getting worse, but fire departments in San Bernardino County are fighting back with some straight-up sci-fi gear. They are literally using acoustic sound wave emitters to put out fires! It sounds impossible, but the targeted sound waves actually disrupt the oxygen flow to the flames, choking out the fire without using a single drop of water. Honestly, this is revolutionary for drought-heavy areas. But that is not all. They are pairing this with ultra-sensitive lightning-strike detectors. These detectors use advanced predictive AI modeling to figure out exactly where a fire is likely to start, allowing crews to pre-deploy their resources to high-risk zones before the flames even have a chance to ignite. State and local governments are finally getting proactive with their digital infrastructure and crisis management. Technology saving lives\u2014you absolutely love to see it!",
+    "id": "84f3ab8f",
+    "category": "Hardware",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/84f3ab8f.png",
+    "image_prompt": "Realistic news photo: Southern California firefighters in helmets and wildfire gear near a smoky hillside, visible acoustic sound-wave emitter array blasting into flames; distant lightning-lit sky; glowing AI lightning-detection equipment on a truck, dramatic orange smoke clouds, tense atmosphere, high detail, natural lighting, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 6,
+    "title": "Microsoft Sounds the Alarm on AI Agent Hacking!",
+    "summary": "Microsoft has unveiled its 'Zero Trust for AI' framework to combat vulnerabilities in autonomous AI agents, specifically Indirect Prompt Injection (XPIA). The company also launched the OneLake Model Context Protocol to secure AI agent access to enterprise data lakes.",
+    "engagement": "Low",
+    "raw_text": "Alright, if you are building autonomous AI agents, you need to listen up because Microsoft just dropped a major security warning. They rolled out a brand-new 'Zero Trust for AI' framework, and their biggest target is something called XPIA, or Indirect Prompt Injection. Imagine your AI agent autonomously reading a completely normal-looking PDF or website, but hidden inside the text is a malicious code string that silently overrides your agent's programming. Since the agent has all your permissions, hackers can steal your data or mess with your systems without you ever knowing. It is terrifyingly effective. Microsoft's new strategy mandates strict tool isolation, memory controls, and runtime monitoring to lock this down. They also announced the OneLake Model Context Protocol, which basically acts as a super secure bouncer, standardizing exactly how your AI agents access your company's massive data lakes. Enterprise AI security is not glamorous, but it is absolutely critical right now. Make sure your agents are secured!",
+    "id": "22d304d6",
+    "category": "Business",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/22d304d6.png",
+    "image_prompt": "Realistic newsroom photo: Microsoft-style modern office at night, blue tech lighting, holographic \u201czero trust\u201d security shield and glowing AI agent icons, subtle warning-alert atmosphere, data-lake servers in background, cinematic depth of field, ultra-high detail, sharp, natural colors, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 2,
+    "title": "AI Just Solved a Major Mystery in Cancer Research!",
+    "summary": "At the AACR 2026 meeting, Lunit presented an AI-driven computational pathology study analyzing 25,000 lung cancer samples. The AI discovered that tumors overexpressing the c-MET protein create a spatial immune exclusion zone, physically repelling immune cells within a 30-micrometer radius.",
+    "engagement": "Medium",
+    "raw_text": "We have an incredible breakthrough in the medical field that you need to know about. An AI company called Lunit just presented some mind-blowing research at the major 2026 cancer conference. They used their advanced AI platform to analyze over 25,000 non-small cell lung cancer samples. Human pathologists could never process that much data, but the AI found something incredible. It discovered that tumors with a high expression of a specific protein called c-MET literally create an invisible forcefield against your immune system. The AI mapped a strict 30-micrometer radius around these tumors where immune cells were physically repelled. This spatial immune exclusion is something traditional microscopes constantly missed. Because the AI quantified exactly how this protein repels immune cells, doctors now have the empirical foundation to create totally new combination treatments to break down that barrier. AI is not just about chatbots anymore; it is literally unlocking the micro-architecture of diseases to save lives. This is why I love tech!",
+    "id": "589a2aee",
+    "category": "Science",
+    "companies": [
+      "Lunit",
+      "Agilent Technologies"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/589a2aee.png",
+    "image_prompt": "Photorealistic microscope view of lung cancer tissue stained for c\u2011MET and immune cells; AI visualization overlay with color heatmap showing a clear 30\u2011micrometer immune exclusion zone around tumor clusters, subtle glow, clinical newsroom lighting, high detail, realistic colors, shallow depth of field, no text."
+  },
+  {
+    "date": "2026-04-19",
+    "source_file": "Tech News Aggregation With Exclusion List (5).pdf",
+    "page": 8,
+    "title": "Huawei's New 950PR Chip is Dominating Edge AI!",
+    "summary": "Huawei has launched the 950PR AI chip, an edge computing processor explicitly architected for inference workloads. The silicon optimizes localized AI solutions, addressing high cloud latency and strict data sovereignty requirements in regional markets.",
+    "engagement": "Medium",
+    "raw_text": "Hardware nerds, check this out. Huawei just quietly rolled out their brand-new 950PR AI chip, and it is a massive signal for where the entire tech industry is heading. For the last few years, everyone has been obsessed with massive data center chips used to train AI. But the 950PR is entirely different. It is custom-built specifically for inference, meaning it is designed to actually run the AI models locally on edge devices. The truth is, running AI in the cloud is insanely expensive and the latency is just brutal. Huawei engineered this new silicon to maximize efficiency for localized markets where internet connectivity might be spotty, or where strict data laws prevent off-shore cloud processing. This is the massive pivot to Edge AI. Hardware manufacturers are finally realizing that for AI to scale sustainably, the processing has to happen on your device, not in a server farm hundreds of miles away. The age of Edge AI is officially here!",
+    "id": "f9c2eebd",
+    "category": "Hardware",
+    "companies": [
+      "Huawei"
+    ],
+    "people": [],
+    "created_at": "2026-04-19T17:22:28+05:30",
+    "image_url": "images/19_04_26/f9c2eebd.png",
+    "image_prompt": "Photoreal futuristic newsroom scene: a glowing Huawei 950PR edge AI chip centerpiece on a clean lab bench, holographic circuit traces and subtle \u201cinference\u201d network nodes around it, cables and micro-LED indicators, cool blue/teal lighting, realistic reflections, shallow depth of field, modern high-tech mood, no text."
+  }
+]
