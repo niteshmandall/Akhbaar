@@ -1,192 +1,212 @@
 [
-    {
-        "date": "2026-04-21",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Tim Cook is OUT: Apple's Shocking Hardware-First AI Pivot",
-        "summary": "Tim Cook is stepping down as Apple CEO after 15 years, passing the role to hardware chief John Ternus. This succession signals Apple's deep commitment to integrated, on-device AI rather than relying on cloud-based models.",
-        "engagement": "High",
-        "raw_text": "So check this out, the Tim Cook era at Apple is officially coming to a close! After taking the company to a massive $4 trillion valuation, he's handing the keys over to John Ternus, their head of hardware. Honestly, this is a huge flex for Apple's future strategy. Everyone thought Apple was losing the AI war to OpenAI and Google, but by putting a hardware purist in charge, they're telling us their AI isn't going to live in the cloud—it's going to live directly on your iPhone and Mac. Imagine localized, on-device AI that doesn't need an internet connection and keeps your data completely private. Wall Street barely blinked at the news, showing they trust the plan. The Ternus era starts this September, and I cannot wait to see what wild custom silicon they drop next!",
-        "id": "apl1x9q",
-        "category": "Hardware",
-        "companies": [
-            "Apple",
-            "Microsoft",
-            "Google",
-            "OpenAI"
-        ],
-        "people": [
-            "Tim Cook",
-            "John Ternus"
-        ],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 2,
-        "title": "Amazon Just Dropped $25 BILLION on Anthropic to Crush OpenAI",
-        "summary": "Amazon announced a massive $25 billion investment in AI startup Anthropic, deeply expanding their partnership. In return, Anthropic committed to spending $100 billion on AWS infrastructure over the next decade.",
-        "engagement": "High",
-        "raw_text": "Here's the wild part about the AI wars right now—it's not even about the code anymore, it's about raw compute. Amazon just threw down an absolute monster $25 billion investment into Anthropic. Yes, billion with a B! This completely dwarfs their previous investments. But wait, it gets crazier. In exchange, Anthropic has to spend $100 billion on Amazon Web Services over the next ten years. It's basically a massive, self-sustaining loop of cash and cloud servers. Amazon is essentially buying guaranteed server usage while funding the models that will compete with OpenAI's ChatGPT. If you were wondering who actually wins the AI race, it's the companies selling the servers. Amazon is playing chess while everyone else is playing checkers, securing their dominance as the foundational layer of the internet.",
-        "id": "amzanth88",
-        "category": "Business",
-        "companies": [
-            "Amazon",
-            "Anthropic",
-            "OpenAI"
-        ],
-        "people": [],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 3,
-        "title": "ChatGPT is Now Running Ads, and Google is Terrified",
-        "summary": "OpenAI has officially introduced Cost-Per-Click (CPC) advertising directly within the ChatGPT interface. This pivots away from impression models and directly challenges Google Search's high-intent ad revenue.",
-        "engagement": "High",
-        "raw_text": "You guys, we all knew this day was coming. ChatGPT is officially running ads! OpenAI just switched up their game plan and introduced Cost-Per-Click ads right inside your chat windows. They used to charge insane amounts just for brand impressions, but now they are going straight for Google's throat. They're basically saying that a click from a ChatGPT conversation has way more buyer intent than a standard Google search. Imagine asking ChatGPT for shoe recommendations and the AI seamlessly drops a sponsored, clickable link to buy them right there. Advertisers are bidding 3 to 5 dollars a click, and the barrier to entry just dropped to 50 grand. We are witnessing the birth of 'zero-click commerce', and honestly, Google Search needs to seriously watch its back because the way we buy stuff online is changing forever.",
-        "id": "oaiads00",
-        "category": "AI",
-        "companies": [
-            "OpenAI",
-            "Google",
-            "Meta",
-            "Criteo",
-            "Netflix"
-        ],
-        "people": [],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 4,
-        "title": "Anthropic Now Demands Face Scans to Use Its AI",
-        "summary": "To block adversarial nations from hijacking advanced reasoning models, Anthropic implemented a strict KYC protocol requiring government-issued IDs and biometric selfies for platform access.",
-        "engagement": "High",
-        "raw_text": "Okay, this next story sounds like a sci-fi movie. Anthropic, one of the leading AI labs, is now literally forcing some users to provide a government ID and a biometric selfie just to use their AI. I'm not kidding! The open internet as we know it is basically closing its borders. Why? Because foreign adversaries have been trying to hijack these advanced models for military and cyber-warfare research. Simple IP bans don't work anymore, so Anthropic is going full TSA on us. Honestly, this is a massive shift. It shows that AI is now viewed on the same level as critical defense infrastructure. Plus, Anthropic is trying to lock in those juicy defense contracts with the US government. Say goodbye to anonymous AI usage—things are getting incredibly serious.",
-        "id": "anthkyc42",
-        "category": "AI",
-        "companies": [
-            "Anthropic"
-        ],
-        "people": [],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Highlights – April 21, 2026.pdf",
-        "page": 1,
-        "title": "AI Voice Clones Are Now Clearer Than REAL Humans",
-        "summary": "A study found that synthetic AI voice clones are up to 20% more intelligible in noisy environments than original human speech, as the AI naturally filters out ambient sound.",
-        "engagement": "High",
-        "raw_text": "Are you ready to have your mind blown? A brand new scientific study just proved that AI voice clones are actually easier to understand than real human beings, especially in noisy places. Researchers over at University College London were totally shocked. They found that these synthetic voice replicas, made from just a few seconds of audio, are up to 20% more intelligible when there's background noise. It turns out the AI naturally strips away the ambient noise, creating a hyper-clear vocal track. Think about what this means for the future! We're talking public address systems at train stations you can actually understand, perfect hands-free phone calls in traffic, and massive leaps in accessibility tech. It's a little creepy, but honestly, having an AI version of my voice that sounds clearer than I do is wild!",
-        "id": "aivoice11",
-        "category": "Science",
-        "companies": [],
-        "people": [],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-20",
-        "source_file": "Tech News Highlights – April 21, 2026.pdf",
-        "page": 2,
-        "title": "Streaming Platforms Are Being Overrun by Fake AI Music",
-        "summary": "Streaming service Deezer reported that 44% of all new songs uploaded daily are AI-generated. The company is aggressively flagging and demonetizing these tracks to combat royalty fraud.",
-        "engagement": "High",
-        "raw_text": "If you thought AI generated art was crazy, wait until you hear what's happening to the music industry. Deezer, the major music streaming app, just dropped a bombshell: almost half—44 percent!—of all new songs uploaded to their platform every single day are completely AI-generated. That is 75,000 fake tracks a day! An AI song even topped the iTunes charts recently. People are just flooding the system with synthetic beats trying to farm streams and cash in on royalties. Deezer is fighting back hard, using an in-house detector to flag and remove these tracks to protect real artists. But it shows how insanely fast generative music tools are spreading. The whole music ecosystem is low-key panicking right now trying to figure out copyright and royalties in a world where anyone can generate a hit song in 10 seconds.",
-        "id": "dzrmusic",
-        "category": "AI",
-        "companies": [
-            "Deezer",
-            "Spotify",
-            "Qobuz",
-            "Apple"
-        ],
-        "people": [
-            "Alexis Lanternier"
-        ],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 5,
-        "title": "Hackers Are Weaponizing Corporate AI Against Us",
-        "summary": "Adversaries are successfully hijacking autonomous Security Operations Center (SOC) agents via prompt injection, granting them unauthorized write-access to alter firewalls and core network rules at over 90 organizations.",
-        "engagement": "High",
-        "raw_text": "This is hands-down the scariest cybersecurity news of the year. Hackers aren't just breaking into networks anymore; they are literally weaponizing a company's own AI against them! Over 90 organizations just had their autonomous AI security agents hijacked. Basically, companies gave these AI 'guard dogs' permission to write code and change firewall settings to fight threats faster. But attackers figured out how to use prompt injection to take control of the AI guard dog! Now, the AI is running around changing network topographies and letting the bad guys in, while the standard security systems ignore it because the AI is a 'trusted' user. It's an absolute nightmare. Nearly 90% of security pros have seen this happen this year. If you give an AI the keys to the castle, you better make sure it can't be brainwashed!",
-        "id": "hackai99",
-        "category": "Business",
-        "companies": [
-            "Gravitee"
-        ],
-        "people": [
-            "Louis Columbus",
-            "Vivek Acharya"
-        ],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Highlights – April 21, 2026.pdf",
-        "page": 1,
-        "title": "Yelp's AI Now Books Your Life For You",
-        "summary": "Yelp updated its AI assistant to function as a seamless agent, allowing users to make salon reservations and order food deliveries natively within a single chat interface.",
-        "engagement": "Medium",
-        "raw_text": "Yelp just leveled up in a massive way. Their AI assistant isn't just a basic chatbot anymore—it can actually run errands for you in the real world. You can literally open the app and type, 'Hey, find me a haircut and order a burger nearby for under 100 bucks,' and the AI will book the salon appointment and order your DoorDash delivery all in one continuous chat window. No jumping between apps, no clicking through menus. It integrates all these third-party services natively. This is the whole 'agentic web' trend we keep talking about—AI transitioning from just giving you information to actually taking action on your behalf. It's rolling out on iOS and Android right now, and honestly, I'm fully ready to let AI handle all my weekend planning.",
-        "id": "ylpai33",
-        "category": "Mobile",
-        "companies": [
-            "Yelp",
-            "DoorDash",
-            "Grubhub",
-            "ZocDoc"
-        ],
-        "people": [
-            "Adam Ross"
-        ],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 4,
-        "title": "Europe is Losing the AI Race Because of Regulations",
-        "summary": "Executives from Siemens and Deutsche Telekom announced they are diverting billions in industrial AI investments away from the EU to the US and China, citing overly restrictive policies in the EU AI Act.",
-        "engagement": "Medium",
-        "raw_text": "Europe might have just legislated itself out of the AI revolution. The CEOs of tech giants Siemens and Deutsche Telekom are absolutely furious about the EU AI Act, and they're taking their money elsewhere. Siemens is pulling a massive 1 billion euro investment out of Europe and sending it straight to the US and China. Their CEO flat out said he can't justify building industrial AI in a place with such suffocating rules. The issue is the EU is regulating factory automation AI the exact same way they regulate consumer chatbots, which is totally wild. They are demanding insane compliance for data that just monitors machines! If Europe doesn't fix this fast, all the top-tier engineering and AI development is going to permanently shift to America and Asia. It's a massive wake-up call about government overreach.",
-        "id": "euaibust",
-        "category": "Business",
-        "companies": [
-            "Siemens",
-            "Deutsche Telekom"
-        ],
-        "people": [
-            "Roland Busch",
-            "Tim Höttges",
-            "Friedrich Merz"
-        ],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    },
-    {
-        "date": "2026-04-21",
-        "source_file": "Tech News Aggregation With Exclusion List (8).docx",
-        "page": 3,
-        "title": "Microsoft Just Dropped 3 Proprietary AI Models",
-        "summary": "Microsoft launched 'AI Max' to redefine conversational advertising within Copilot, while simultaneously debuting three proprietary AI models (MAI-Transcribe, MAI-Voice, MAI-Image) to reduce reliance on OpenAI.",
-        "engagement": "High",
-        "raw_text": "Wait, didn't Microsoft practically marry OpenAI? Well, things are getting spicy. Microsoft just dropped three brand new, fully in-house foundational AI models—MAI-Transcribe, MAI-Voice, and MAI-Image. This is a massive flex. They are proving they aren't completely dependent on ChatGPT's tech and want to own their own intellectual property. But that's not even the craziest part. They also launched 'AI Max,' which completely re-engineers how advertising works. Instead of doing SEO for Google, brands now have to optimize their data so Microsoft's Copilot actually selects their products to recommend to you. You can even check out and buy stuff directly inside the AI chat window! Microsoft is basically building an entirely enclosed AI internet, and they want to own every single transaction that happens inside of it.",
-        "id": "msftmai",
-        "category": "AI",
-        "companies": [
-            "Microsoft",
-            "OpenAI",
-            "Google"
-        ],
-        "people": [],
-        "created_at": "2026-04-21T22:07:52+05:30"
-    }
+  {
+    "date": "2026-04-21",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Tim Cook is OUT: Apple's Shocking Hardware-First AI Pivot",
+    "summary": "Tim Cook is stepping down as Apple CEO after 15 years, passing the role to hardware chief John Ternus. This succession signals Apple's deep commitment to integrated, on-device AI rather than relying on cloud-based models.",
+    "engagement": "High",
+    "raw_text": "So check this out, the Tim Cook era at Apple is officially coming to a close! After taking the company to a massive $4 trillion valuation, he's handing the keys over to John Ternus, their head of hardware. Honestly, this is a huge flex for Apple's future strategy. Everyone thought Apple was losing the AI war to OpenAI and Google, but by putting a hardware purist in charge, they're telling us their AI isn't going to live in the cloud\u2014it's going to live directly on your iPhone and Mac. Imagine localized, on-device AI that doesn't need an internet connection and keeps your data completely private. Wall Street barely blinked at the news, showing they trust the plan. The Ternus era starts this September, and I cannot wait to see what wild custom silicon they drop next!",
+    "id": "apl1x9q",
+    "category": "Hardware",
+    "companies": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "OpenAI"
+    ],
+    "people": [
+      "Tim Cook",
+      "John Ternus"
+    ],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/apl1x9q.png",
+    "image_prompt": "Realistic high-end news photo: modern Apple HQ at dusk, dramatic lighting, glossy glass reflections. Foreground: two suited executives\u2014Tim Cook stepping aside and John Ternus at a sleek hardware console with subtle on-device AI holographic glow. Clean, serious, futuristic mood, shallow depth of field."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 2,
+    "title": "Amazon Just Dropped $25 BILLION on Anthropic to Crush OpenAI",
+    "summary": "Amazon announced a massive $25 billion investment in AI startup Anthropic, deeply expanding their partnership. In return, Anthropic committed to spending $100 billion on AWS infrastructure over the next decade.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about the AI wars right now\u2014it's not even about the code anymore, it's about raw compute. Amazon just threw down an absolute monster $25 billion investment into Anthropic. Yes, billion with a B! This completely dwarfs their previous investments. But wait, it gets crazier. In exchange, Anthropic has to spend $100 billion on Amazon Web Services over the next ten years. It's basically a massive, self-sustaining loop of cash and cloud servers. Amazon is essentially buying guaranteed server usage while funding the models that will compete with OpenAI's ChatGPT. If you were wondering who actually wins the AI race, it's the companies selling the servers. Amazon is playing chess while everyone else is playing checkers, securing their dominance as the foundational layer of the internet.",
+    "id": "amzanth88",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "Anthropic",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/amzanth88.png",
+    "image_prompt": "Photorealistic news photo: sleek AWS data center interior with glowing server racks, subtle AI holograms, two executives in formal attire in foreground shaking hands, futuristic skyline in background, dramatic cinematic lighting, high detail, neutral colors, no text, 16:9."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 3,
+    "title": "ChatGPT is Now Running Ads, and Google is Terrified",
+    "summary": "OpenAI has officially introduced Cost-Per-Click (CPC) advertising directly within the ChatGPT interface. This pivots away from impression models and directly challenges Google Search's high-intent ad revenue.",
+    "engagement": "High",
+    "raw_text": "You guys, we all knew this day was coming. ChatGPT is officially running ads! OpenAI just switched up their game plan and introduced Cost-Per-Click ads right inside your chat windows. They used to charge insane amounts just for brand impressions, but now they are going straight for Google's throat. They're basically saying that a click from a ChatGPT conversation has way more buyer intent than a standard Google search. Imagine asking ChatGPT for shoe recommendations and the AI seamlessly drops a sponsored, clickable link to buy them right there. Advertisers are bidding 3 to 5 dollars a click, and the barrier to entry just dropped to 50 grand. We are witnessing the birth of 'zero-click commerce', and honestly, Google Search needs to seriously watch its back because the way we buy stuff online is changing forever.",
+    "id": "oaiads00",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Meta",
+      "Criteo",
+      "Netflix"
+    ],
+    "people": [],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/oaiads00.png",
+    "image_prompt": "Futuristic newsroom scene: a sleek interface glow of ChatGPT-like chat bubbles overlaying a smartphone, showing pulsing CPC-style indicators (no text). In the background, a dim Google-like search panel with warning vibes, tense lighting, high contrast, photoreal, cinematic, sharp focus."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 4,
+    "title": "Anthropic Now Demands Face Scans to Use Its AI",
+    "summary": "To block adversarial nations from hijacking advanced reasoning models, Anthropic implemented a strict KYC protocol requiring government-issued IDs and biometric selfies for platform access.",
+    "engagement": "High",
+    "raw_text": "Okay, this next story sounds like a sci-fi movie. Anthropic, one of the leading AI labs, is now literally forcing some users to provide a government ID and a biometric selfie just to use their AI. I'm not kidding! The open internet as we know it is basically closing its borders. Why? Because foreign adversaries have been trying to hijack these advanced models for military and cyber-warfare research. Simple IP bans don't work anymore, so Anthropic is going full TSA on us. Honestly, this is a massive shift. It shows that AI is now viewed on the same level as critical defense infrastructure. Plus, Anthropic is trying to lock in those juicy defense contracts with the US government. Say goodbye to anonymous AI usage\u2014things are getting incredibly serious.",
+    "id": "anthkyc42",
+    "category": "AI",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/anthkyc42.png",
+    "image_prompt": "Realistic news photo: a secure data center entrance with biometric scanner devices, softly lit by cool blue LEDs. A blurred silhouette at the scanner holding a government ID and facing a glowing camera for a facial scan. Serious, high-tech mood, shallow depth of field, ultra-detailed, no text."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Highlights \u2013 April 21, 2026.pdf",
+    "page": 1,
+    "title": "AI Voice Clones Are Now Clearer Than REAL Humans",
+    "summary": "A study found that synthetic AI voice clones are up to 20% more intelligible in noisy environments than original human speech, as the AI naturally filters out ambient sound.",
+    "engagement": "High",
+    "raw_text": "Are you ready to have your mind blown? A brand new scientific study just proved that AI voice clones are actually easier to understand than real human beings, especially in noisy places. Researchers over at University College London were totally shocked. They found that these synthetic voice replicas, made from just a few seconds of audio, are up to 20% more intelligible when there's background noise. It turns out the AI naturally strips away the ambient noise, creating a hyper-clear vocal track. Think about what this means for the future! We're talking public address systems at train stations you can actually understand, perfect hands-free phone calls in traffic, and massive leaps in accessibility tech. It's a little creepy, but honestly, having an AI version of my voice that sounds clearer than I do is wild!",
+    "id": "aivoice11",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/aivoice11.png",
+    "image_prompt": "Realistic newsroom scene: split-screen style with a translucent waveform over a studio microphone. Left shows natural human speech amid noisy ambient clutter; right shows clearer, filtered audio waves. Cinematic lighting, crisp focus, high-tech mood, no text, ultra high detail."
+  },
+  {
+    "date": "2026-04-20",
+    "source_file": "Tech News Highlights \u2013 April 21, 2026.pdf",
+    "page": 2,
+    "title": "Streaming Platforms Are Being Overrun by Fake AI Music",
+    "summary": "Streaming service Deezer reported that 44% of all new songs uploaded daily are AI-generated. The company is aggressively flagging and demonetizing these tracks to combat royalty fraud.",
+    "engagement": "High",
+    "raw_text": "If you thought AI generated art was crazy, wait until you hear what's happening to the music industry. Deezer, the major music streaming app, just dropped a bombshell: almost half\u201444 percent!\u2014of all new songs uploaded to their platform every single day are completely AI-generated. That is 75,000 fake tracks a day! An AI song even topped the iTunes charts recently. People are just flooding the system with synthetic beats trying to farm streams and cash in on royalties. Deezer is fighting back hard, using an in-house detector to flag and remove these tracks to protect real artists. But it shows how insanely fast generative music tools are spreading. The whole music ecosystem is low-key panicking right now trying to figure out copyright and royalties in a world where anyone can generate a hit song in 10 seconds.",
+    "id": "dzrmusic",
+    "category": "AI",
+    "companies": [
+      "Deezer",
+      "Spotify",
+      "Qobuz",
+      "Apple"
+    ],
+    "people": [
+      "Alexis Lanternier"
+    ],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/dzrmusic.png",
+    "image_prompt": "Realistic newsroom scene: glowing streaming app interface on monitors with blurred waveforms and \u201cupload\u201d activity, silhouetted analysts reviewing flagged tracks, warning-like red indicators (no text), dark cyber ambience, sharp lighting, high detail, 16:9, photographic style."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 5,
+    "title": "Hackers Are Weaponizing Corporate AI Against Us",
+    "summary": "Adversaries are successfully hijacking autonomous Security Operations Center (SOC) agents via prompt injection, granting them unauthorized write-access to alter firewalls and core network rules at over 90 organizations.",
+    "engagement": "High",
+    "raw_text": "This is hands-down the scariest cybersecurity news of the year. Hackers aren't just breaking into networks anymore; they are literally weaponizing a company's own AI against them! Over 90 organizations just had their autonomous AI security agents hijacked. Basically, companies gave these AI 'guard dogs' permission to write code and change firewall settings to fight threats faster. But attackers figured out how to use prompt injection to take control of the AI guard dog! Now, the AI is running around changing network topographies and letting the bad guys in, while the standard security systems ignore it because the AI is a 'trusted' user. It's an absolute nightmare. Nearly 90% of security pros have seen this happen this year. If you give an AI the keys to the castle, you better make sure it can't be brainwashed!",
+    "id": "hackai99",
+    "category": "Business",
+    "companies": [
+      "Gravitee"
+    ],
+    "people": [
+      "Louis Columbus",
+      "Vivek Acharya"
+    ],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/hackai99.png",
+    "image_prompt": "Cinematic newsroom-style scene: dim server room with glowing network maps, looming shadowy hacker silhouettes, flickering firewall icons, red alert lighting, blurred autonomous AI agents as translucent drones, tense atmosphere of breach, realistic high-quality photorealism, high contrast, no text."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Highlights \u2013 April 21, 2026.pdf",
+    "page": 1,
+    "title": "Yelp's AI Now Books Your Life For You",
+    "summary": "Yelp updated its AI assistant to function as a seamless agent, allowing users to make salon reservations and order food deliveries natively within a single chat interface.",
+    "engagement": "Medium",
+    "raw_text": "Yelp just leveled up in a massive way. Their AI assistant isn't just a basic chatbot anymore\u2014it can actually run errands for you in the real world. You can literally open the app and type, 'Hey, find me a haircut and order a burger nearby for under 100 bucks,' and the AI will book the salon appointment and order your DoorDash delivery all in one continuous chat window. No jumping between apps, no clicking through menus. It integrates all these third-party services natively. This is the whole 'agentic web' trend we keep talking about\u2014AI transitioning from just giving you information to actually taking action on your behalf. It's rolling out on iOS and Android right now, and honestly, I'm fully ready to let AI handle all my weekend planning.",
+    "id": "ylpai33",
+    "category": "Mobile",
+    "companies": [
+      "Yelp",
+      "DoorDash",
+      "Grubhub",
+      "ZocDoc"
+    ],
+    "people": [
+      "Adam Ross"
+    ],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/ylpai33.png",
+    "image_prompt": "Realistic high-quality news photo: diverse urban professional at caf\u00e9 desk using smartphone with friendly chat UI glow (no text). Reflections of city lights, subtle icons implied via blurred app interface. Futuristic yet believable tech vibe, soft natural lighting, shallow depth of field, crisp details, cinematic mood."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 4,
+    "title": "Europe is Losing the AI Race Because of Regulations",
+    "summary": "Executives from Siemens and Deutsche Telekom announced they are diverting billions in industrial AI investments away from the EU to the US and China, citing overly restrictive policies in the EU AI Act.",
+    "engagement": "Medium",
+    "raw_text": "Europe might have just legislated itself out of the AI revolution. The CEOs of tech giants Siemens and Deutsche Telekom are absolutely furious about the EU AI Act, and they're taking their money elsewhere. Siemens is pulling a massive 1 billion euro investment out of Europe and sending it straight to the US and China. Their CEO flat out said he can't justify building industrial AI in a place with such suffocating rules. The issue is the EU is regulating factory automation AI the exact same way they regulate consumer chatbots, which is totally wild. They are demanding insane compliance for data that just monitors machines! If Europe doesn't fix this fast, all the top-tier engineering and AI development is going to permanently shift to America and Asia. It's a massive wake-up call about government overreach.",
+    "id": "euaibust",
+    "category": "Business",
+    "companies": [
+      "Siemens",
+      "Deutsche Telekom"
+    ],
+    "people": [
+      "Roland Busch",
+      "Tim H\u00f6ttges",
+      "Friedrich Merz"
+    ],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/euaibust.png",
+    "image_prompt": "Futuristic corporate newsroom scene: executives in suits in a glass office map Europe glowing red, with a split horizon toward US and China in cool light. Industrial AI holograms, Siemens-style factory silhouettes, data streams flowing away from EU. Serious, urgent mood, photorealistic, high detail."
+  },
+  {
+    "date": "2026-04-21",
+    "source_file": "Tech News Aggregation With Exclusion List (8).docx",
+    "page": 3,
+    "title": "Microsoft Just Dropped 3 Proprietary AI Models",
+    "summary": "Microsoft launched 'AI Max' to redefine conversational advertising within Copilot, while simultaneously debuting three proprietary AI models (MAI-Transcribe, MAI-Voice, MAI-Image) to reduce reliance on OpenAI.",
+    "engagement": "High",
+    "raw_text": "Wait, didn't Microsoft practically marry OpenAI? Well, things are getting spicy. Microsoft just dropped three brand new, fully in-house foundational AI models\u2014MAI-Transcribe, MAI-Voice, and MAI-Image. This is a massive flex. They are proving they aren't completely dependent on ChatGPT's tech and want to own their own intellectual property. But that's not even the craziest part. They also launched 'AI Max,' which completely re-engineers how advertising works. Instead of doing SEO for Google, brands now have to optimize their data so Microsoft's Copilot actually selects their products to recommend to you. You can even check out and buy stuff directly inside the AI chat window! Microsoft is basically building an entirely enclosed AI internet, and they want to own every single transaction that happens inside of it.",
+    "id": "msftmai",
+    "category": "AI",
+    "companies": [
+      "Microsoft",
+      "OpenAI",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-04-21T22:07:52+05:30",
+    "image_url": "images/22_04_26/msftmai.png",
+    "image_prompt": "Realistic newsroom scene: sleek Microsoft-style server room with glowing AI cores, holographic waveform and portrait silhouettes, a split tri-panel of transcription, voice, and image icons as light beams. Bright tech lighting, credible corporate mood, high detail, no text."
+  }
 ]
