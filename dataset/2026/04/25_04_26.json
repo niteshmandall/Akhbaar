@@ -3,137 +3,207 @@
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 1,
-    "title": "Tim Cook is OUT! Apple’s Massive CEO Shakeup 🚨",
+    "title": "Tim Cook is OUT! Apple\u2019s Massive CEO Shakeup",
     "summary": "Apple announced Tim Cook will step down on September 1, 2026, transitioning to Executive Chairman. Hardware engineering chief John Ternus will take over as CEO, signaling a heavy focus on on-device, edge-computing AI.",
     "engagement": "High",
-    "raw_text": "So check this out, the end of an era is officially here. Tim Cook is stepping down as Apple's CEO this September! I mean, this is the guy who took them to a 4 trillion dollar market cap, right? But here's the wild part: they're replacing him with John Ternus, their head of Hardware Engineering. While everyone else like Google and Microsoft are battling it out in the cloud, Apple is making a massive statement. They don't want cloud AI; they want edge AI. They want the brain of the AI living right on your iPhone and MacBook. Ternus is the guy who gave us the MacBook Neo and AirPods, and putting him in charge means we are about to see some insane proprietary silicon in the next few years. Honestly, this is huge for privacy and low-latency AI. Tim will stay on as Executive Chairman to handle the messy supply chain stuff, but make no mistake—Apple is going all-in on local hardware.",
-    "id": "A1B2C3D4E5",
+    "raw_text": "So check this out, the end of an era is officially here. Tim Cook is stepping down as Apple's CEO this September! I mean, this is the guy who took them to a 4 trillion dollar market cap, right? But here's the wild part: they're replacing him with John Ternus, their head of Hardware Engineering. While everyone else like Google and Microsoft are battling it out in the cloud, Apple is making a massive statement. They don't want cloud AI; they want edge AI. They want the brain of the AI living right on your iPhone and MacBook. Ternus is the guy who gave us the MacBook Neo and AirPods, and putting him in charge means we are about to see some insane proprietary silicon in the next few years. Honestly, this is huge for privacy and low-latency AI. Tim will stay on as Executive Chairman to handle the messy supply chain stuff, but make no mistake\u2014Apple is going all-in on local hardware.",
+    "id": "20502ef7",
     "category": "Business",
-    "companies": ["Apple", "Google", "Microsoft"],
-    "people": ["Tim Cook", "John Ternus"],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "companies": [
+      "Apple",
+      "Google",
+      "Microsoft"
+    ],
+    "people": [
+      "Tim Cook",
+      "John Ternus"
+    ],
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/20502ef7.png",
+    "image_prompt": "Photorealistic news photo style: Tim Cook in a sleek Apple-style auditorium stepping aside, John Ternus in background ready to lead, subtle futuristic Apple edge-computing visuals glowing on a translucent glass panel, cool newsroom lighting, dynamic composition, high detail, no text."
   },
   {
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 2,
-    "title": "Elon Musk’s $60 BILLION Power Move in AI Coding 🚀",
+    "title": "Elon Musk\u2019s $60 BILLION Power Move in AI Coding",
     "summary": "SpaceX has secured a $60 billion acquisition option for AI code-generation startup Cursor. This provides Cursor with access to xAI's Colossus supercomputer to solve its severe hardware compute bottlenecks.",
     "engagement": "High",
-    "raw_text": "Okay, you guys have to hear about this $60 billion flex from Elon Musk. SpaceX just secured an option to buy Cursor—yeah, that insanely popular AI coding startup—for 60 billion dollars! Cursor’s Composer 2 model has been absolutely crushing it in software engineering, but the founders publicly admitted they are literally running out of compute power. Enter Elon. By linking up with SpaceX, Cursor gets the golden ticket: immediate access to the Colossus supercomputer in Memphis. That’s a million Nvidia H100 GPUs at their disposal! Honestly, this just proves the brutal reality of the AI world right now: it doesn't matter how good your software algorithm is if you don't have the hardware to run it. If this deal closes, we are going to see Cursor's agentic coding completely integrated into Grok, giving OpenAI's Codex and Anthropic's Claude a massive headache. Software development is about to change forever.",
-    "id": "F6G7H8I9J0",
+    "raw_text": "Okay, you guys have to hear about this $60 billion flex from Elon Musk. SpaceX just secured an option to buy Cursor\u2014yeah, that insanely popular AI coding startup\u2014for 60 billion dollars! Cursor\u2019s Composer 2 model has been absolutely crushing it in software engineering, but the founders publicly admitted they are literally running out of compute power. Enter Elon. By linking up with SpaceX, Cursor gets the golden ticket: immediate access to the Colossus supercomputer in Memphis. That\u2019s a million Nvidia H100 GPUs at their disposal! Honestly, this just proves the brutal reality of the AI world right now: it doesn't matter how good your software algorithm is if you don't have the hardware to run it. If this deal closes, we are going to see Cursor's agentic coding completely integrated into Grok, giving OpenAI's Codex and Anthropic's Claude a massive headache. Software development is about to change forever.",
+    "id": "a8d7db00",
     "category": "AI",
-    "companies": ["SpaceX", "Cursor", "xAI", "OpenAI", "Anthropic", "Nvidia"],
-    "people": ["Elon Musk", "Aman Sanger"],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "companies": [
+      "SpaceX",
+      "Cursor",
+      "xAI",
+      "OpenAI",
+      "Anthropic",
+      "Nvidia"
+    ],
+    "people": [
+      "Elon Musk",
+      "Aman Sanger"
+    ],
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/a8d7db00.png",
+    "image_prompt": "Cinematic newsroom photo: futuristic server racks glowing in cool blue, a sleek AI code-stream overlay, subtle SpaceX rocket silhouette in background, Elon Musk in a dark suit observing holographic compute maps; dramatic lighting, ultra-realistic, sharp focus, high contrast, no text."
   },
   {
     "date": "2026-04-24",
     "source_file": "Combined",
     "page": 6,
-    "title": "ChatGPT is Now Autonomous: GPT-5.5 & Workspace Agents 🤯",
+    "title": "ChatGPT is Now Autonomous: GPT-5.5 & Workspace Agents",
     "summary": "OpenAI released GPT-5.5 alongside new persistent Workspace Agents that operate autonomously across apps like Slack and email. These agents execute complex, multi-day workflows even when users are offline, transitioning SaaS to compute-credit pricing.",
     "engagement": "High",
-    "raw_text": "We need to talk about what OpenAI just dropped because it changes literally everything. They just released GPT-5.5, and alongside it, these new 'Workspace Agents.' Guys, ChatGPT isn’t just a chatbot anymore. It is now an autonomous digital employee. You can literally tell it to handle a massive sales pipeline, and it will jump into your Slack, write emails, and update your CRM... all while you are asleep! It stays persistently active in the cloud. GPT-5.5 was built specifically for this multi-step agentic performance, doing it cheaper and faster than 5.4. What really blows my mind is how this wrecks the current software industry. OpenAI is making these agents free until May, and then charging based on compute credits, not per seat. Say goodbye to standard software subscriptions! You're now paying for an AI's brainpower by the hour. If you aren't automating your workflow right now, you are going to be left in the dust.",
-    "id": "K1L2M3N4O5",
+    "raw_text": "We need to talk about what OpenAI just dropped because it changes literally everything. They just released GPT-5.5, and alongside it, these new 'Workspace Agents.' Guys, ChatGPT isn\u2019t just a chatbot anymore. It is now an autonomous digital employee. You can literally tell it to handle a massive sales pipeline, and it will jump into your Slack, write emails, and update your CRM... all while you are asleep! It stays persistently active in the cloud. GPT-5.5 was built specifically for this multi-step agentic performance, doing it cheaper and faster than 5.4. What really blows my mind is how this wrecks the current software industry. OpenAI is making these agents free until May, and then charging based on compute credits, not per seat. Say goodbye to standard software subscriptions! You're now paying for an AI's brainpower by the hour. If you aren't automating your workflow right now, you are going to be left in the dust.",
+    "id": "c6bcb895",
     "category": "Software",
-    "companies": ["OpenAI", "Slack"],
+    "companies": [
+      "OpenAI",
+      "Slack"
+    ],
     "people": [],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/c6bcb895.png",
+    "image_prompt": "Realistic editorial photo: a sleek near-future control room with glowing holographic network nodes labeled by icons only, a laptop fading into a \u201cpersistent agent\u201d UI silhouette, Slack/email app-like panels as abstract cards, calm blue lighting, journalists in background, ultra-detailed, high contrast, 16:9, no text."
   },
   {
     "date": "2026-04-24",
     "source_file": "Combined",
     "page": 8,
-    "title": "China’s New AI Model Just Broke the US Hardware Ban 🚨",
-    "summary": "DeepSeek launched its V4 AI model, explicitly adapted to run natively on Huawei’s Ascend processors. The model features a million-token context window and matches top commercial models, proving Chinese tech can bypass Nvidia hardware dependencies.",
+    "title": "China\u2019s New AI Model Just Broke the US Hardware Ban",
+    "summary": "DeepSeek launched its V4 AI model, explicitly adapted to run natively on Huawei\u2019s Ascend processors. The model features a million-token context window and matches top commercial models, proving Chinese tech can bypass Nvidia hardware dependencies.",
     "engagement": "High",
-    "raw_text": "This might be the most geopolitical tech story of the year. DeepSeek just dropped their V4 flagship AI model, and it is an absolute beast. It's got a million-token context window and beats almost every open-source model out there. But here is the wild part: it doesn't need Nvidia GPUs! DeepSeek optimized this entire thing to run natively on Huawei’s Ascend chips. Remember how the US put export bans on advanced AI chips to cripple China's AI progress? Yeah, it totally backfired. It just forced them to build a completely self-sufficient hardware and software ecosystem. Nvidia's Jensen Huang even called this a 'horrible outcome' for the US, because the global developer ecosystem is officially fracturing. The V4 Pro model is nearly matching Google's Gemini Pro 3.1, and it's doing it on domestic Chinese silicon. The tech war is escalating, and the days of Western hardware monopoly might actually be over.",
-    "id": "P6Q7R8S9T0",
+    "raw_text": "This might be the most geopolitical tech story of the year. DeepSeek just dropped their V4 flagship AI model, and it is an absolute beast. It's got a million-token context window and beats almost every open-source model out there. But here is the wild part: it doesn't need Nvidia GPUs! DeepSeek optimized this entire thing to run natively on Huawei\u2019s Ascend chips. Remember how the US put export bans on advanced AI chips to cripple China's AI progress? Yeah, it totally backfired. It just forced them to build a completely self-sufficient hardware and software ecosystem. Nvidia's Jensen Huang even called this a 'horrible outcome' for the US, because the global developer ecosystem is officially fracturing. The V4 Pro model is nearly matching Google's Gemini Pro 3.1, and it's doing it on domestic Chinese silicon. The tech war is escalating, and the days of Western hardware monopoly might actually be over.",
+    "id": "895fda2b",
     "category": "Hardware",
-    "companies": ["DeepSeek", "Huawei", "Nvidia", "Google"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "companies": [
+      "DeepSeek",
+      "Huawei",
+      "Nvidia",
+      "Google"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/895fda2b.png",
+    "image_prompt": "Realistic news photo style: a sleek server room with Huawei Ascend chips glowing on circuit boards, subtle AI circuitry overlay, a large model core hologram, contrasting silhouettes of US and China flags reflected in polished metal, dramatic newsroom lighting, cinematic depth of field, no text, ultra-detailed, high resolution."
   },
   {
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 10,
-    "title": "Jeff Bezos is Raising $10 BILLION to Build AI Factories 🏗️",
+    "title": "Jeff Bezos is Raising $10 BILLION to Build AI Factories",
     "summary": "Jeff Bezos co-founded a secretive venture called Project Prometheus, closing a $10 billion funding round at a $38 billion valuation. The company aims to apply physical AI to revolutionize aerospace, automotive, and heavy manufacturing.",
     "engagement": "High",
-    "raw_text": "Listen up, because Jeff Bezos is quietly building something terrifyingly massive. It’s a super-secret startup called Project Prometheus, and they just secured a mind-bending 10 billion dollars in funding within six months of launching! They are already valued at 38 billion. But they aren't making chatbots. They are building 'Physical AI' for heavy manufacturing. Think aerospace, cars, and computer hardware. Bezos and his team are reportedly raising even more cash to literally buy up vulnerable, legacy factories and disrupt them with AI-driven manufacturing models. They've been poaching top talent from OpenAI and DeepMind like crazy. We've spent the last few years talking about AI writing essays and code, but Prometheus is bringing AI into the real, physical world. They want to completely own the entire physical intelligence tech stack. Honestly, if this works, the way everything around you is built is going to change.",
-    "id": "U1V2W3X4Y5",
+    "raw_text": "Listen up, because Jeff Bezos is quietly building something terrifyingly massive. It\u2019s a super-secret startup called Project Prometheus, and they just secured a mind-bending 10 billion dollars in funding within six months of launching! They are already valued at 38 billion. But they aren't making chatbots. They are building 'Physical AI' for heavy manufacturing. Think aerospace, cars, and computer hardware. Bezos and his team are reportedly raising even more cash to literally buy up vulnerable, legacy factories and disrupt them with AI-driven manufacturing models. They've been poaching top talent from OpenAI and DeepMind like crazy. We've spent the last few years talking about AI writing essays and code, but Prometheus is bringing AI into the real, physical world. They want to completely own the entire physical intelligence tech stack. Honestly, if this works, the way everything around you is built is going to change.",
+    "id": "c519e8d0",
     "category": "Business",
-    "companies": ["OpenAI", "Google DeepMind", "BlackRock", "JP Morgan"],
-    "people": ["Jeff Bezos", "Vik Bajaj", "Kyle Kosic"],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "companies": [
+      "OpenAI",
+      "Google DeepMind",
+      "BlackRock",
+      "JP Morgan"
+    ],
+    "people": [
+      "Jeff Bezos",
+      "Vik Bajaj",
+      "Kyle Kosic"
+    ],
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/c519e8d0.png",
+    "image_prompt": "Realistic high-quality news photo: Jeff Bezos in a sleek industrial lab at dusk, holographic AI schematics hovering over a futuristic aerospace assembly line. Subtle robotic arms, gleaming metal, cinematic lighting, depth of field, modern tech mood, no text."
   },
   {
     "date": "2026-04-24",
-    "source_file": "Today’s AI & Tech News (24 April 2026).pdf",
+    "source_file": "Today\u2019s AI & Tech News (24 April 2026).pdf",
     "page": 1,
-    "title": "The First Fully Autonomous 'AI Scientist' is Here 🧬",
+    "title": "The First Fully Autonomous 'AI Scientist' is Here",
     "summary": "A new paper in Nature introduces The AI Scientist, an end-to-end system that autonomously generates hypotheses, writes code, runs experiments, and drafts research papers. It even passed peer review at a top machine-learning workshop.",
     "engagement": "High",
-    "raw_text": "Okay, AI replacing coders is one thing, but AI replacing literal scientists?! A new paper just dropped in the journal Nature outlining 'The AI Scientist.' This is an end-to-end AI system that does the entire research process on its own. I'm talking coming up with original hypotheses, writing the code to run the experiments, analyzing the data, and literally writing the final research paper! And get this—the AI's research paper actually passed the first round of peer review at a major machine-learning conference! This is a massive paradigm shift. We are moving from AI being a tool that scientists use, to AI actually doing the science itself. Sure, there are huge questions about oversight and whether we can trust the results, but the speed of discovery is going to go exponential. Imagine giving an AI a lab and telling it to go cure a disease. We are living in the future, guys.",
-    "id": "Z6A7B8C9D0",
+    "raw_text": "Okay, AI replacing coders is one thing, but AI replacing literal scientists?! A new paper just dropped in the journal Nature outlining 'The AI Scientist.' This is an end-to-end AI system that does the entire research process on its own. I'm talking coming up with original hypotheses, writing the code to run the experiments, analyzing the data, and literally writing the final research paper! And get this\u2014the AI's research paper actually passed the first round of peer review at a major machine-learning conference! This is a massive paradigm shift. We are moving from AI being a tool that scientists use, to AI actually doing the science itself. Sure, there are huge questions about oversight and whether we can trust the results, but the speed of discovery is going to go exponential. Imagine giving an AI a lab and telling it to go cure a disease. We are living in the future, guys.",
+    "id": "7f09c369",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/7f09c369.png",
+    "image_prompt": "Realistic news photo: a glowing holographic \u201cAI\u201d brain overlay on a modern lab bench with researchers blurred in background, coding screens and microscopes, neutral newsroom lighting, cinematic shallow depth of field, crisp high-tech mood, no text, no logos."
   },
   {
     "date": "2026-04-24",
-    "source_file": "Today’s AI & Tech News (24 April 2026).pdf",
+    "source_file": "Today\u2019s AI & Tech News (24 April 2026).pdf",
     "page": 3,
-    "title": "Elon Musk’s 1-Terawatt 'Terafab' Will Print AI Chips 🏭",
+    "title": "Elon Musk\u2019s 1-Terawatt 'Terafab' Will Print AI Chips",
     "summary": "Elon Musk announced a massive Terafab project utilizing Intel's 14A process to produce custom AI chips for Tesla, SpaceX, and xAI. The facility aims to output 1 million wafers per month, operating as a 1-terawatt compute factory.",
     "engagement": "High",
     "raw_text": "Elon Musk is literally trying to print his own AI brains. He just announced plans for a mega-factory dubbed the 'Terafab' to build custom AI chips for Tesla, SpaceX, and xAI. And here is the kicker: he is partnering directly with Intel to use their bleeding-edge 14A manufacturing process! This is wild because you almost never see a cloud or AI company partner directly with a fab like this. They are planning to pump out one million wafers a month. Musk is calling it a one-terawatt per year AI compute factory. Tesla is already dropping 3 billion on a research fab in Texas just to prototype the designs! Musk knows that whoever controls the hardware, controls the future of AI and robotics. By linking up with Intel, he's bypassing the whole Nvidia bottleneck. Honestly, the scale of this is hard to comprehend. It's the ultimate vertical integration.",
-    "id": "E1F2G3H4I5",
+    "id": "fe8d23d7",
     "category": "Hardware",
-    "companies": ["Tesla", "SpaceX", "xAI", "Intel", "Nvidia"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "companies": [
+      "Tesla",
+      "SpaceX",
+      "xAI",
+      "Intel",
+      "Nvidia"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/fe8d23d7.png",
+    "image_prompt": "Futuristic industrial scene: a vast semiconductor fabrication plant with glowing wafer tracks, robots, and cleanrooms; towering \u201c1-terawatt\u201d energy feeling via blue light beams; sleek Tesla/SpaceX/xAI-inspired motifs in glass reflections, photorealistic, cinematic lighting, shallow depth of field, ultra-detailed."
   },
   {
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 11,
-    "title": "Is This Modular Smartphone the End of iOS and Android? 📱",
+    "title": "Is This Modular Smartphone the End of iOS and Android?",
     "summary": "Hardware startup DREAME AURORA announced an upcoming AIOS that embeds artificial intelligence at the device's architectural foundation. Paired with a modular, PC-like smartphone concept, it allows users to swap physical hardware modules for localized compute.",
     "engagement": "High",
     "raw_text": "Are iOS and Android finally getting disrupted? Hardware company DREAME AURORA is teasing something called the AIOS, and it sounds insane. Right now, AI on your phone is just a bolted-on chatbot or a camera trick. AIOS actually embeds AI into the literal foundation of the phone. You won't even open apps anymore; you just tell the phone what you want, and the AI routes the compute power and natively executes the action. But wait, it gets better! They are pairing this with a modular, PC-like smartphone body. Imagine snapping off your camera module and clicking in a dedicated AI compute module when you need more juice! It's like building a custom PC but in your pocket. The smartphone design has been so boring for the last decade, but this? This is exactly the kind of hardware revolution we need for the edge-AI era.",
-    "id": "J6K7L8M9N0",
+    "id": "70f8abc2",
     "category": "Mobile",
-    "companies": ["DREAME AURORA", "Apple", "Google"],
+    "companies": [
+      "DREAME AURORA",
+      "Apple",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/70f8abc2.png",
+    "image_prompt": "Photorealistic news image: futuristic modular smartphone on clean studio backdrop, modular PC-like design with visible detachable compute modules, subtle neural-AI light patterns flowing through circuitry, two-tone iOS/Android vibe-neutral UI reflections, dramatic cinematic lighting, shallow depth of field, ultra-detailed, no text."
   },
   {
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 12,
-    "title": "OpenAI Just LOCKED DOWN Their Smartest AI Model 🔒",
+    "title": "OpenAI Just LOCKED DOWN Their Smartest AI Model",
     "summary": "Citing severe dual-use security risks, OpenAI and Anthropic have withheld their advanced models, GPT-Rosalind and Claude Mythos, from public release. The models excel in biological and chemical tasks, raising fears of bioweapon generation by malicious actors.",
     "engagement": "High",
     "raw_text": "Things are getting seriously scary in the AI safety world. Both OpenAI and Anthropic just made the unprecedented decision to completely lock down their newest, smartest models. OpenAI announced GPT-Rosalind, which apparently crushes every other model in biology and chemistry. But they aren't releasing it to the public! Why? Because they are terrified it could be used to design literal bioweapons. The dual-use risks have gotten so high that these companies are heavily censoring themselves. Anthropic did the same thing with a model called Claude Mythos, putting it behind closed doors and reportedly giving it to the NSA for cyber defense. Here is the problem though: researchers say open-source models are only 3 to 7 months behind! So even if OpenAI hides this tech, bad actors will probably have access to it by the end of the year anyway. The government is freaking out, and strict regulation is definitely coming.",
-    "id": "O1P2Q3R4S5",
+    "id": "c29c5c5f",
     "category": "AI",
-    "companies": ["OpenAI", "Anthropic", "NSA"],
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "NSA"
+    ],
     "people": [],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/c29c5c5f.png",
+    "image_prompt": "Realistic high-quality news photo: shadowy lab interior at night, blurred scientists in white coats, ominous glowing AI core, dark server racks, subtle biochemistry symbols as out-of-focus light, tense dramatic lighting, shallow depth of field, cinematic mood, no text, no logos."
   },
   {
     "date": "2026-04-24",
     "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
     "page": 11,
-    "title": "They Are Putting AI Data Centers IN SPACE! 🛰️",
+    "title": "They Are Putting AI Data Centers IN SPACE!",
     "summary": "Kepler Communications and Sophia Space are deploying decentralized AI inference workloads across a constellation of satellites. By processing data in orbit, they drastically reduce latency and bandwidth costs for transmitting geospatial intelligence back to Earth.",
     "engagement": "Medium",
     "raw_text": "So check this out: the AI boom is literally leaving the planet. They are putting data centers in space! Kepler Communications has this cluster of satellites running Nvidia edge processors connected by freakin' optical lasers. A new startup called Sophia Space just signed on to run proprietary AI software directly on these satellites. Why does this matter? Well, right now, satellites take massive, high-res photos and radar scans, and beaming all that raw data back to Earth takes forever and costs a fortune. By putting the AI inference layer up in orbit, the satellites can analyze the raw data themselves, figure out what's important, and only beam down the actionable intel! It completely revolutionizes military defense and climate monitoring. It's crazy to think that while we are worrying about building huge power grids for data centers on Earth, there is literally a decentralized AI brain floating above our heads.",
-    "id": "T6U7V8W9X0",
+    "id": "7d57349c",
     "category": "Tech",
     "companies": [
       "Kepler Communications",
@@ -142,6 +212,8 @@
       "Deloitte"
     ],
     "people": [],
-    "created_at": "2026-04-24T23:30:48.000Z"
+    "created_at": "2026-04-24T23:30:48.000Z",
+    "image_url": "images/25_04_26/7d57349c.png",
+    "image_prompt": "Realistic cinematic news photo: a constellation of sleek satellites over Earth at dusk, one satellite with glowing AI compute modules processing data streams in orbit, faint HUD-like telemetry lines, atmospheric haze, deep space stars, dramatic lighting, ultra-detailed, high contrast, natural colors, no text."
   }
 ]
