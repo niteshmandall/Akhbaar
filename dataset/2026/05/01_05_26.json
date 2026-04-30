@@ -6,12 +6,17 @@
     "title": "IBM Just Broke Physics: AI Designs Supercars 10,000x Faster!",
     "summary": "IBM and race-car maker Dallara have successfully applied physics-based AI foundation models to aerodynamic design. In tests on Le Mans prototype parts, the AI matched traditional wind-tunnel simulations in just 10 seconds, accelerating the engineering workflow by four orders of magnitude.",
     "engagement": "High",
-    "raw_text": "Alright, check this out—this is peak 'future is now' territory! IBM just teamed up with the legendary race car makers at Dallara to use AI and quantum computing to design the next generation of supercars. We are talking about Le Mans prototype cars and IndyCars—the fast stuff! Here is the wild part: normally, testing the aerodynamics of a car's rear diffuser takes hours and hours of grueling supercomputer time. But IBM’s new AI foundation models did it in just ten seconds. Yes, ten seconds! And it wasn’t just a guess; it matched the high-fidelity wind tunnel data perfectly. That is a massive ten-thousand-times speedup in engineering. This isn't just about racing, though. This tech is going to trickle down to every car and aircraft we use in the future. IBM is even planning to bring in quantum computing to solve physics problems that are currently impossible for normal computers to handle. Honestly, this is huge because it means we can design hyper-efficient vehicles in days instead of years. Engineering workflows are never going to be the same, and I am absolutely here for it!",
+    "raw_text": "Alright, check this out\u2014this is peak 'future is now' territory! IBM just teamed up with the legendary race car makers at Dallara to use AI and quantum computing to design the next generation of supercars. We are talking about Le Mans prototype cars and IndyCars\u2014the fast stuff! Here is the wild part: normally, testing the aerodynamics of a car's rear diffuser takes hours and hours of grueling supercomputer time. But IBM\u2019s new AI foundation models did it in just ten seconds. Yes, ten seconds! And it wasn\u2019t just a guess; it matched the high-fidelity wind tunnel data perfectly. That is a massive ten-thousand-times speedup in engineering. This isn't just about racing, though. This tech is going to trickle down to every car and aircraft we use in the future. IBM is even planning to bring in quantum computing to solve physics problems that are currently impossible for normal computers to handle. Honestly, this is huge because it means we can design hyper-efficient vehicles in days instead of years. Engineering workflows are never going to be the same, and I am absolutely here for it!",
     "id": "IBM-DAL-992",
     "category": "AI",
-    "companies": ["IBM", "Dallara"],
+    "companies": [
+      "IBM",
+      "Dallara"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/IBM-DAL-992.png",
+    "image_prompt": "Hyper-realistic newsroom photo: IBM-style server racks and a sleek Le Mans racecar nose in the foreground, with translucent aerodynamic airflow/pressure contours swirling above. Motion blur, dramatic lighting, shallow depth of field, credible workshop lab setting, high detail, no text."
   },
   {
     "date": "2026-04-30",
@@ -20,12 +25,17 @@
     "title": "The AI 'Thinking' Lie? Scientists Debunk the Centaur Model",
     "summary": "New research from Zhejiang University reveals that the highly-touted Centaur AI model does not actually reason like a human. Testing showed the model relied on statistical pattern-matching and overfitting rather than genuine comprehension of the 160 cognitive tasks it was trained on.",
     "engagement": "High",
-    "raw_text": "I’ve got some spicy AI drama for you today, and honestly, it's a reality check we all needed. Remember the 'Centaur' model? Last year, everyone was freaking out because it allegedly could 'think' and solve cognitive tasks just like a human. Well, scientists just pulled the mask off. New research shows that Centaur was basically just a really good parrot. When researchers slightly changed the prompts—even just asking it to 'choose option A'—the model kept spit out the old 'correct' answers it had memorized. It wasn't reasoning; it was just pattern-matching its training data. This is a massive deal because it proves that we are still confusing statistical correlation with actual intelligence. We’re building these incredibly powerful tools, but this study is a huge reminder that 'sounding smart' and 'being smart' are two very different things. If we’re going to trust AI with real-world decisions, we need models that actually understand the 'why' behind the 'what.' This debunking is going to send shockwaves through the research community, so stay tuned!",
+    "raw_text": "I\u2019ve got some spicy AI drama for you today, and honestly, it's a reality check we all needed. Remember the 'Centaur' model? Last year, everyone was freaking out because it allegedly could 'think' and solve cognitive tasks just like a human. Well, scientists just pulled the mask off. New research shows that Centaur was basically just a really good parrot. When researchers slightly changed the prompts\u2014even just asking it to 'choose option A'\u2014the model kept spit out the old 'correct' answers it had memorized. It wasn't reasoning; it was just pattern-matching its training data. This is a massive deal because it proves that we are still confusing statistical correlation with actual intelligence. We\u2019re building these incredibly powerful tools, but this study is a huge reminder that 'sounding smart' and 'being smart' are two very different things. If we\u2019re going to trust AI with real-world decisions, we need models that actually understand the 'why' behind the 'what.' This debunking is going to send shockwaves through the research community, so stay tuned!",
     "id": "CNT-DEB-441",
     "category": "Science",
-    "companies": ["Zhejiang University", "Science China Press"],
+    "companies": [
+      "Zhejiang University",
+      "Science China Press"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/CNT-DEB-441.png",
+    "image_prompt": "Realistic news photo style: dim lab interior, Zhejiang University research silhouettes, holographic neural network \u201ccentaur\u201d diagram merging human/AI outlines, glitchy data waves, microscope and server racks, dramatic lighting, subtle skeptic mood, high-detail, shallow depth of field, no text, no logos."
   },
   {
     "date": "2026-04-30",
@@ -34,12 +44,16 @@
     "title": "Apple's iOS 27 LEAK: Insane AI Photo Tools Are Coming!",
     "summary": "Apple is preparing a massive AI overhaul for iOS 27, including features like 'Extend' for generating image content and 'Reframe' for 3D perspective shifts. These on-device generative tools aim to compete directly with AI capabilities from Google and Samsung.",
     "engagement": "High",
-    "raw_text": "Apple is finally hitting the gas on AI, and honestly, this is going to be huge for your next iPhone! We just got a massive leak about iOS 27, and Apple is going all-in on an 'Apple Intelligence' suite for your photos. Here’s the wild part: they’re adding a feature called 'Extend' that can literally generate new parts of a photo beyond the frame. If you missed the shot, the AI just fills it in for you! They’re also working on something called 'Reframe' which uses AI to shift the 3D perspective of your photos after you’ve already taken them. It’s like being able to move the camera in post-production. Now, look, insiders say these tools aren't 100% reliable in testing yet, but Apple is pushing forward to catch up with the Pixel and Galaxy features we've been seeing. We are talking about pro-level editing tools built right into your phone. If Apple nails this, it changes the game for mobile photography. I don’t know about you, but I’m ready to see if 'Apple Intelligence' can actually live up to the hype this fall!",
+    "raw_text": "Apple is finally hitting the gas on AI, and honestly, this is going to be huge for your next iPhone! We just got a massive leak about iOS 27, and Apple is going all-in on an 'Apple Intelligence' suite for your photos. Here\u2019s the wild part: they\u2019re adding a feature called 'Extend' that can literally generate new parts of a photo beyond the frame. If you missed the shot, the AI just fills it in for you! They\u2019re also working on something called 'Reframe' which uses AI to shift the 3D perspective of your photos after you\u2019ve already taken them. It\u2019s like being able to move the camera in post-production. Now, look, insiders say these tools aren't 100% reliable in testing yet, but Apple is pushing forward to catch up with the Pixel and Galaxy features we've been seeing. We are talking about pro-level editing tools built right into your phone. If Apple nails this, it changes the game for mobile photography. I don\u2019t know about you, but I\u2019m ready to see if 'Apple Intelligence' can actually live up to the hype this fall!",
     "id": "AAPL-AI-027",
     "category": "Mobile",
-    "companies": ["Apple"],
+    "companies": [
+      "Apple"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/AAPL-AI-027.png",
+    "image_prompt": "Realistic news-style scene: sleek iPhone on glossy desk, glowing iOS-like AI interface overlays (no text), floating translucent image tiles and 3D perspective grid, futuristic camera lens flare, cool blue lighting, shallow depth of field, high-detail, cinematic, photoreal, dramatic yet credible."
   },
   {
     "date": "2026-04-30",
@@ -48,12 +62,19 @@
     "title": "END OF AN ERA: Tim Cook Stepping Down as Apple CEO!",
     "summary": "Apple CEO Tim Cook will officially transition to Executive Chairman on September 1, 2026, with John Ternus set to take over as CEO. Investors are closely watching this transition as the company prepares to launch its massive 'Apple Intelligence' initiative.",
     "engagement": "High",
-    "raw_text": "This is not a drill—we are officially at the end of an era for Big Tech. Tim Cook just announced he is stepping down as the CEO of Apple this September! He’s moving to the Executive Chairman role, and John Ternus, the guy who’s been running hardware engineering, is taking the throne. This is huge! Tim Cook has been at the helm for fifteen years, turning Apple into a three-trillion-dollar monster. But now, as we enter the age of AI, the torch is passing to Ternus. The big question on everyone's mind is: can Ternus maintain that 'Apple magic' while trying to catch up in the AI arms race? Wall Street is already sweating, scrutinizing every word from the leadership team. Ternus has been a 25-year veteran at the company, so he knows the DNA, but running the whole show during a total tech shift is a different beast entirely. It’s a bittersweet moment for tech fans, but I’m honestly excited to see if new blood means a more aggressive, innovative Apple. What do you think—is Ternus the right choice?",
+    "raw_text": "This is not a drill\u2014we are officially at the end of an era for Big Tech. Tim Cook just announced he is stepping down as the CEO of Apple this September! He\u2019s moving to the Executive Chairman role, and John Ternus, the guy who\u2019s been running hardware engineering, is taking the throne. This is huge! Tim Cook has been at the helm for fifteen years, turning Apple into a three-trillion-dollar monster. But now, as we enter the age of AI, the torch is passing to Ternus. The big question on everyone's mind is: can Ternus maintain that 'Apple magic' while trying to catch up in the AI arms race? Wall Street is already sweating, scrutinizing every word from the leadership team. Ternus has been a 25-year veteran at the company, so he knows the DNA, but running the whole show during a total tech shift is a different beast entirely. It\u2019s a bittersweet moment for tech fans, but I\u2019m honestly excited to see if new blood means a more aggressive, innovative Apple. What do you think\u2014is Ternus the right choice?",
     "id": "AAPL-CEO-111",
     "category": "Business",
-    "companies": ["Apple"],
-    "people": ["Tim Cook", "John Ternus"],
-    "created_at": "2026-04-30T22:53:42Z"
+    "companies": [
+      "Apple"
+    ],
+    "people": [
+      "Tim Cook",
+      "John Ternus"
+    ],
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/AAPL-CEO-111.png",
+    "image_prompt": "Realistic high-quality news photo: Tim Cook in a modern Apple-style auditorium at dusk, dignified expression, subtle podium lights; out-of-focus audience and sleek tech screens behind; warm cinematic lighting suggesting transition; clean corporate composition, shallow depth of field, no text."
   },
   {
     "date": "2026-04-30",
@@ -62,12 +83,19 @@
     "title": "Elon Musk's $1.75 Trillion Payday? SpaceX IPO Details Leaked!",
     "summary": "SpaceX is projected to reach a $1.75 trillion valuation in a potential IPO later this year, potentially raising $75 billion. Recent secondary market sales by Blue Owl Capital have already valued the aerospace giant at $1.25 trillion.",
     "engagement": "High",
-    "raw_text": "Elon Musk is about to become the world’s first trillionaire, and the numbers here are absolutely mind-boggling! We just got word that SpaceX is looking at a massive IPO later this year that could value the company at—get this—one point seven five trillion dollars. To put that in perspective, that's more than the entire GDP of most countries. We just found out that one major investor, Blue Owl Capital, sold off half their shares at a one point two five trillion dollar valuation, and they basically made 10x their money. If SpaceX actually goes public at 1.75 trillion, it would be the biggest IPO in human history, raising something like 75 billion dollars in one go. SpaceX is basically a monopoly in the space industry right now, and with Starlink exploding, investors are desperate to get a piece. If you thought Musk was powerful before, just wait until SpaceX hits the public markets. This isn't just tech news; it's a global economic shift. Is anyone else feeling like we're living in a sci-fi movie right now?",
+    "raw_text": "Elon Musk is about to become the world\u2019s first trillionaire, and the numbers here are absolutely mind-boggling! We just got word that SpaceX is looking at a massive IPO later this year that could value the company at\u2014get this\u2014one point seven five trillion dollars. To put that in perspective, that's more than the entire GDP of most countries. We just found out that one major investor, Blue Owl Capital, sold off half their shares at a one point two five trillion dollar valuation, and they basically made 10x their money. If SpaceX actually goes public at 1.75 trillion, it would be the biggest IPO in human history, raising something like 75 billion dollars in one go. SpaceX is basically a monopoly in the space industry right now, and with Starlink exploding, investors are desperate to get a piece. If you thought Musk was powerful before, just wait until SpaceX hits the public markets. This isn't just tech news; it's a global economic shift. Is anyone else feeling like we're living in a sci-fi movie right now?",
     "id": "SPX-IPO-883",
     "category": "Science",
-    "companies": ["SpaceX", "Blue Owl Capital"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-04-30T22:53:42Z"
+    "companies": [
+      "SpaceX",
+      "Blue Owl Capital"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/SPX-IPO-883.png",
+    "image_prompt": "Realistic newsroom photo style: SpaceX rocket launching at dawn over Earth\u2019s curve, subtle glints of tech circuitry, cinematic lighting, high-detail, sharp focus, muted news palette, dramatic sky, conveying billion-dollar valuation; background shows sleek launch facility, no text."
   },
   {
     "date": "2026-04-30",
@@ -76,12 +104,20 @@
     "title": "The Man Who Built IE is Back to Save AI From Burning the Planet",
     "summary": "Thomas Reardon, the creator of Internet Explorer, is raising $500 million for his new startup, Flourish, at a $2.5 billion valuation. The company aims to use 'connectomics' to design hyper-efficient AI algorithms that mimic the low energy consumption of the human brain.",
     "engagement": "High",
-    "raw_text": "You guys, the man who literally built Internet Explorer is back, and he’s tackling the biggest crisis in AI right now: the energy problem. Thomas Reardon—the genius who also sold his brain-computer company to Meta—is raising five hundred million dollars for a new startup called Flourish. And here is the wild part: they aren’t just building faster chips like everyone else. Reardon is a neuroscientist, and he is trying to bridge the gap between biological brains and silicon. Think about it: your brain runs on about twenty watts of power, while these AI data centers are sucking up as much electricity as the entire state of New York. Flourish wants to use 'connectomics'—basically mapping neural pathways—to redesign how AI algorithms work from the ground up. Honestly, if they pull this off, it changes everything. We won’t need giant, planet-melting server farms anymore. It’s an ambitious, two point five billion dollar bet that the future of tech isn't just more hardware, it’s more biology. This is the kind of 'out there' science that actually changes the world!",
+    "raw_text": "You guys, the man who literally built Internet Explorer is back, and he\u2019s tackling the biggest crisis in AI right now: the energy problem. Thomas Reardon\u2014the genius who also sold his brain-computer company to Meta\u2014is raising five hundred million dollars for a new startup called Flourish. And here is the wild part: they aren\u2019t just building faster chips like everyone else. Reardon is a neuroscientist, and he is trying to bridge the gap between biological brains and silicon. Think about it: your brain runs on about twenty watts of power, while these AI data centers are sucking up as much electricity as the entire state of New York. Flourish wants to use 'connectomics'\u2014basically mapping neural pathways\u2014to redesign how AI algorithms work from the ground up. Honestly, if they pull this off, it changes everything. We won\u2019t need giant, planet-melting server farms anymore. It\u2019s an ambitious, two point five billion dollar bet that the future of tech isn't just more hardware, it\u2019s more biology. This is the kind of 'out there' science that actually changes the world!",
     "id": "FLR-RDN-005",
     "category": "Science",
-    "companies": ["Flourish", "Lux Capital", "GV"],
-    "people": ["Thomas Reardon"],
-    "created_at": "2026-04-30T22:53:42Z"
+    "companies": [
+      "Flourish",
+      "Lux Capital",
+      "GV"
+    ],
+    "people": [
+      "Thomas Reardon"
+    ],
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/FLR-RDN-005.png",
+    "image_prompt": "Photorealistic news photo: visionary tech founder Thomas Reardon in a modern dim lab, glowing holographic brain-connectome over a server rack, cool blue-green lighting, subtle Earth-atmosphere haze in background, dramatic cinematic realism, high detail, sharp focus, no text."
   },
   {
     "date": "2026-04-30",
@@ -90,12 +126,16 @@
     "title": "OpenAI Drops GPT-5.5-Cyber: A New Weapon for Digital Defense",
     "summary": "OpenAI has released GPT-5.5-Cyber, a specialized model designed for the U.S. government and critical infrastructure defenders. The release is accompanied by a Cybersecurity Action Plan aimed at ensuring advanced AI tools are available to defenders rather than just bad actors.",
     "engagement": "Medium",
-    "raw_text": "OpenAI just dropped a brand new model, but it’s not for writing poems or making memes—it’s for war. Well, cyber-war. It’s called GPT-5.5-Cyber, and it’s a specialized version of their flagship AI built specifically for 'critical cyber defenders.' We're talking about the U.S. federal government and the people protecting our power grids and banks. This is part of a huge new Cybersecurity Action Plan OpenAI just published. They’re basically saying that if we don’t give the 'good guys' these advanced AI tools, the hackers and bad actors are going to win. It follows a similar move by Anthropic with their 'Mythos' model. Now, here is the kicker: some people are worried that releasing tools this powerful could actually help hackers if they get their hands on it. But OpenAI is doubling down, saying defense needs to be stronger and faster than offense. It’s a high-stakes move in the global AI arms race. It might not be as flashy as a new image generator, but this is the stuff that keeps our digital world from falling apart!",
+    "raw_text": "OpenAI just dropped a brand new model, but it\u2019s not for writing poems or making memes\u2014it\u2019s for war. Well, cyber-war. It\u2019s called GPT-5.5-Cyber, and it\u2019s a specialized version of their flagship AI built specifically for 'critical cyber defenders.' We're talking about the U.S. federal government and the people protecting our power grids and banks. This is part of a huge new Cybersecurity Action Plan OpenAI just published. They\u2019re basically saying that if we don\u2019t give the 'good guys' these advanced AI tools, the hackers and bad actors are going to win. It follows a similar move by Anthropic with their 'Mythos' model. Now, here is the kicker: some people are worried that releasing tools this powerful could actually help hackers if they get their hands on it. But OpenAI is doubling down, saying defense needs to be stronger and faster than offense. It\u2019s a high-stakes move in the global AI arms race. It might not be as flashy as a new image generator, but this is the stuff that keeps our digital world from falling apart!",
     "id": "GPT-CYB-550",
     "category": "AI",
-    "companies": ["OpenAI"],
+    "companies": [
+      "OpenAI"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/GPT-CYB-550.png",
+    "image_prompt": "Realistic news photo: a neon-lit cyber defense operations room with analysts, holographic network maps, shield and lock icons in the air, subtle American flag hues, cool blue lighting, high-tech server racks, dramatic cinematic contrast, shallow depth of field, ultra-detailed, no text."
   },
   {
     "date": "2026-04-30",
@@ -104,12 +144,22 @@
     "title": "The $700 Billion AI Bet: Is This the Greatest Economic Blunder?",
     "summary": "Total capital expenditure for Big Tech's AI infrastructure is now projected to hit $700 billion this year, up from $600 billion. While Alphabet and Microsoft see revenue gains, Meta faces investor backlash over the massive spending and lack of immediate monetization.",
     "engagement": "Medium",
-    "raw_text": "So, Big Tech is currently spending a truly terrifying amount of money on AI infrastructure—we are talking seven hundred billion dollars this year alone! Some market analysts are calling this the 'greatest capital misallocation in history.' It’s absolutely wild. Google is leading the pack, raising their spending to nearly 190 billion dollars just to secure enough chips and data centers. And look, it’s working for them—their revenue is up 22%. But then you have Meta. Mark Zuckerberg is pouring over 125 billion into this, but because he couldn't show investors exactly how that turns into profit right now, their stock just took a 10% nosedive. This is a massive 'forced' investment cycle. These companies feel like if they don't spend this money now, they’ll literally go extinct. They are fighting over power grids, memory chips, and real estate. It’s a total bifurcation of the market: either you’re winning the AI revenue game like Microsoft and Google, or you’re burning cash and hoping for the best like Meta. The scale of this gamble is just unprecedented!",
+    "raw_text": "So, Big Tech is currently spending a truly terrifying amount of money on AI infrastructure\u2014we are talking seven hundred billion dollars this year alone! Some market analysts are calling this the 'greatest capital misallocation in history.' It\u2019s absolutely wild. Google is leading the pack, raising their spending to nearly 190 billion dollars just to secure enough chips and data centers. And look, it\u2019s working for them\u2014their revenue is up 22%. But then you have Meta. Mark Zuckerberg is pouring over 125 billion into this, but because he couldn't show investors exactly how that turns into profit right now, their stock just took a 10% nosedive. This is a massive 'forced' investment cycle. These companies feel like if they don't spend this money now, they\u2019ll literally go extinct. They are fighting over power grids, memory chips, and real estate. It\u2019s a total bifurcation of the market: either you\u2019re winning the AI revenue game like Microsoft and Google, or you\u2019re burning cash and hoping for the best like Meta. The scale of this gamble is just unprecedented!",
     "id": "CAP-EX700-12",
     "category": "Business",
-    "companies": ["Alphabet", "Meta", "Microsoft", "Amazon"],
-    "people": ["Sundar Pichai", "Mark Zuckerberg"],
-    "created_at": "2026-04-30T22:53:42Z"
+    "companies": [
+      "Alphabet",
+      "Meta",
+      "Microsoft",
+      "Amazon"
+    ],
+    "people": [
+      "Sundar Pichai",
+      "Mark Zuckerberg"
+    ],
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/CAP-EX700-12.png",
+    "image_prompt": "Photorealistic news scene: towering data centers glowing with blue AI light, billboards of server racks, executives in suits silhouetted in foreground, split atmosphere of optimism vs doubt (sunrise versus storm clouds), subtle stock-market monitors in bokeh, cinematic lighting, ultra-high detail, realistic."
   },
   {
     "date": "2026-04-30",
@@ -118,12 +168,17 @@
     "title": "Samsung Crushes Earnings: HBM4 Memory is the New Gold",
     "summary": "Samsung Electronics reported record quarterly revenue of KRW 133.9 trillion, driven by an 86% jump in memory sales. The company is now mass-producing HBM4 and SOCAMM2 memory for NVIDIA's 'Vera Rubin' AI platform to meet the demands of 'agentic AI.'",
     "engagement": "Medium",
-    "raw_text": "If you want to know who is really winning the AI war, look at the people selling the 'shovels.' Samsung just reported their first-quarter earnings and they are absolutely crushing it! We’re talking record revenue—over 133 trillion Korean Won. The secret sauce? Memory chips. Their memory division saw an 86% jump in sales because of the insane demand for AI servers. Here is the part you need to care about: Samsung is the first to mass-produce HBM4 memory. This is the ultra-high-speed stuff that powers NVIDIA's next-gen 'Vera Rubin' platform. Samsung is calling this the 'Agentic AI' boom. They believe that as AI starts doing more autonomous tasks—like negotiating deals or writing code—the demand for this super-fast memory is going to skyrocket even more. While everyone else is arguing about which chatbot is better, Samsung is quietly becoming the backbone of the entire industry. If they keep this lead in HBM4 technology, they are going to be untouchable for the rest of 2026. Hardware is having a massive moment right now!",
+    "raw_text": "If you want to know who is really winning the AI war, look at the people selling the 'shovels.' Samsung just reported their first-quarter earnings and they are absolutely crushing it! We\u2019re talking record revenue\u2014over 133 trillion Korean Won. The secret sauce? Memory chips. Their memory division saw an 86% jump in sales because of the insane demand for AI servers. Here is the part you need to care about: Samsung is the first to mass-produce HBM4 memory. This is the ultra-high-speed stuff that powers NVIDIA's next-gen 'Vera Rubin' platform. Samsung is calling this the 'Agentic AI' boom. They believe that as AI starts doing more autonomous tasks\u2014like negotiating deals or writing code\u2014the demand for this super-fast memory is going to skyrocket even more. While everyone else is arguing about which chatbot is better, Samsung is quietly becoming the backbone of the entire industry. If they keep this lead in HBM4 technology, they are going to be untouchable for the rest of 2026. Hardware is having a massive moment right now!",
     "id": "SSG-HBM4-007",
     "category": "Hardware",
-    "companies": ["Samsung Electronics", "NVIDIA"],
+    "companies": [
+      "Samsung Electronics",
+      "NVIDIA"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/SSG-HBM4-007.png",
+    "image_prompt": "Photorealistic newsroom-style scene: Samsung engineers in modern lab surrounded by glowing HBM4 memory chips and circuit boards, large stack of microchips in foreground, subtle holographic AI data overlays, advanced cleanroom lighting, futuristic industrial mood, crisp high detail, natural colors, shallow depth of field, no text."
   },
   {
     "date": "2026-04-30",
@@ -132,11 +187,16 @@
     "title": "Microsoft and OpenAI Just Changed the Rules of Their Partnership",
     "summary": "Microsoft and OpenAI have amended their partnership, removing the revenue-share requirement and allowing OpenAI to use other cloud providers. Microsoft retains its non-exclusive IP license through 2032 and remains the primary cloud partner.",
     "engagement": "Medium",
-    "raw_text": "The most important marriage in tech just got a pre-nup update. Microsoft and OpenAI just announced they are changing the terms of their massive partnership, and it's a huge strategic shift for both. Here’s the deal: OpenAI is now officially 'free.' They can deploy their products on any cloud provider they want, not just Microsoft Azure. In exchange, Microsoft doesn't have to pay a revenue share to OpenAI anymore. Don't worry though, they aren't breaking up—Microsoft still has a license to OpenAI's tech all the way until 2032. This gives both companies way more flexibility. OpenAI can scale up using other providers if Azure hits a capacity limit, and Microsoft gets to keep more of its profits. It's a sign that the relationship is maturing from 'startup and protector' to 'global power duo.' They are still working together on massive projects like AI supercomputers, but they are clearly preparing for a world where they aren't totally dependent on each other. It’s a smart, calculated move that keeps them ahead of the competition while giving them room to breathe!",
+    "raw_text": "The most important marriage in tech just got a pre-nup update. Microsoft and OpenAI just announced they are changing the terms of their massive partnership, and it's a huge strategic shift for both. Here\u2019s the deal: OpenAI is now officially 'free.' They can deploy their products on any cloud provider they want, not just Microsoft Azure. In exchange, Microsoft doesn't have to pay a revenue share to OpenAI anymore. Don't worry though, they aren't breaking up\u2014Microsoft still has a license to OpenAI's tech all the way until 2032. This gives both companies way more flexibility. OpenAI can scale up using other providers if Azure hits a capacity limit, and Microsoft gets to keep more of its profits. It's a sign that the relationship is maturing from 'startup and protector' to 'global power duo.' They are still working together on massive projects like AI supercomputers, but they are clearly preparing for a world where they aren't totally dependent on each other. It\u2019s a smart, calculated move that keeps them ahead of the competition while giving them room to breathe!",
     "id": "MSFT-OA-2032",
     "category": "Business",
-    "companies": ["Microsoft", "OpenAI"],
+    "companies": [
+      "Microsoft",
+      "OpenAI"
+    ],
     "people": [],
-    "created_at": "2026-04-30T22:53:42Z"
+    "created_at": "2026-04-30T22:53:42Z",
+    "image_url": "images/01_05_26/MSFT-OA-2032.png",
+    "image_prompt": "Realistic high-tech newsroom image: Microsoft and OpenAI logos as subtle abstract holograms over a modern data center skyline, server racks glowing, split-path light beams implying flexible cloud partners, executives in silhouette reviewing a revised contract tablet, dramatic corporate mood, ultra-detailed, cinematic lighting, no text."
   }
 ]
