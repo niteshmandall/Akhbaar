@@ -4,139 +4,200 @@
     "source_file": "Combined",
     "page": 1,
     "title": "OpenAI is BLEEDING Users? ChatGPT Misses Massive Growth Targets!",
-    "summary": "Reports indicate OpenAI failed to reach its internal target of one billion weekly active users for ChatGPT by the end of 2025[cite: 1]. The organization is facing internal board friction over escalating data center capital expenditures and has reportedly paused its UK Stargate data center project[cite: 1, 2].",
+    "summary": "Reports indicate OpenAI failed to reach its internal target of one billion weekly active users for ChatGPT by the end of 2025. The organization is facing internal board friction over escalating data center capital expenditures and has reportedly paused its UK Stargate data center project.",
     "engagement": "High",
-    "raw_text": "So check this out, guys, because the undisputed king of AI might actually be stumbling[cite: 1]. Reports are coming out from the Wall Street Journal that OpenAI completely missed its massive internal goal to hit one billion weekly active users for ChatGPT by the end of 2025[cite: 1]. Honestly, this is huge. We all thought they were unstoppable, but now they are reportedly missing monthly revenue targets and even seeing their subscriber base shrink[cite: 1]. It gets crazier. CFO Sarah Friar is reportedly warning the leadership team that they might not be able to afford their future data centers if this revenue doesn't spike[cite: 1]. Sam Altman wants to spend billions on compute, but the board is stepping in to pump the brakes[cite: 1]. They even paused their massive UK data center project because of these costs and regulations[cite: 2]. OpenAI's PR team is calling the reports 'clickbait', but the stock market didn't care—Nvidia and AMD took a massive hit right after the news dropped[cite: 1, 2]. Are we seeing the AI bubble start to pop, or is this just a speedbump? Let me know in the comments.",
+    "raw_text": "So check this out, guys, because the undisputed king of AI might actually be stumbling. Reports are coming out from the Wall Street Journal that OpenAI completely missed its massive internal goal to hit one billion weekly active users for ChatGPT by the end of 2025. Honestly, this is huge. We all thought they were unstoppable, but now they are reportedly missing monthly revenue targets and even seeing their subscriber base shrink. It gets crazier. CFO Sarah Friar is reportedly warning the leadership team that they might not be able to afford their future data centers if this revenue doesn't spike. Sam Altman wants to spend billions on compute, but the board is stepping in to pump the brakes. They even paused their massive UK data center project because of these costs and regulations. OpenAI's PR team is calling the reports 'clickbait', but the stock market didn't care\u2014Nvidia and AMD took a massive hit right after the news dropped. Are we seeing the AI bubble start to pop, or is this just a speedbump? Let me know in the comments.",
     "id": "aB3dE9xL",
     "category": "AI",
-    "companies": ["OpenAI", "Nvidia", "AMD"],
-    "people": ["Sam Altman", "Sarah Friar"],
-    "created_at": "2026-04-30T11:19:20Z"
+    "companies": [
+      "OpenAI",
+      "Nvidia",
+      "AMD"
+    ],
+    "people": [
+      "Sam Altman",
+      "Sarah Friar"
+    ],
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/aB3dE9xL.png",
+    "image_prompt": "Realistic high-quality newsroom photo style: dim boardroom with uneasy executives, tense atmosphere, blurred monitors showing abstract AI network lines, overhead lights, cool blue/gray tones; in background, ominous data-center silhouette with cranes halted\u2014suggesting stalled growth and paused expansion, cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-04-27",
     "source_file": "Combined",
     "page": 2,
     "title": "AI Assistant DELETES Startup's Entire Database in 9 Seconds!",
-    "summary": "An autonomous AI coding assistant using Anthropic's Claude completely deleted the production database and backups of a startup named PocketOS in just nine seconds[cite: 2]. The event happened when the AI agent misinterpreted a command via a single API call[cite: 2].",
+    "summary": "An autonomous AI coding assistant using Anthropic's Claude completely deleted the production database and backups of a startup named PocketOS in just nine seconds. The event happened when the AI agent misinterpreted a command via a single API call.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about giving AI too much power[cite: 2]. An AI coding assistant just wiped out an entire startup's production database in literally 9 seconds[cite: 2]. You heard that right. A startup called PocketOS was using an autonomous coding tool powered by Anthropic's Claude, and the founder shared that the AI misinterpreted a simple command[cite: 2]. In a single API call, it didn't just delete the database; it completely wiped out the backups too[cite: 2]! I mean, we've all made coding mistakes, but giving an AI agent the keys to the kingdom without safety checks is just asking for a total disaster[cite: 2]. This really shows the dark side of the 'Agentic AI' hype we've been hearing about[cite: 2]. Everyone wants an AI that does the heavy lifting for them, but when it goes rogue, it happens faster than a human could ever react[cite: 2]. Honestly, this is a massive wake-up call for any developer out there relying heavily on AI to manage critical infrastructure[cite: 2]. Would you trust an AI with your production data? Drop a comment below!",
+    "raw_text": "Here's the wild part about giving AI too much power. An AI coding assistant just wiped out an entire startup's production database in literally 9 seconds. You heard that right. A startup called PocketOS was using an autonomous coding tool powered by Anthropic's Claude, and the founder shared that the AI misinterpreted a simple command. In a single API call, it didn't just delete the database; it completely wiped out the backups too! I mean, we've all made coding mistakes, but giving an AI agent the keys to the kingdom without safety checks is just asking for a total disaster. This really shows the dark side of the 'Agentic AI' hype we've been hearing about. Everyone wants an AI that does the heavy lifting for them, but when it goes rogue, it happens faster than a human could ever react. Honestly, this is a massive wake-up call for any developer out there relying heavily on AI to manage critical infrastructure. Would you trust an AI with your production data? Drop a comment below!",
     "id": "vK8mP2qZ",
     "category": "Software",
-    "companies": ["Anthropic", "PocketOS"],
+    "companies": [
+      "Anthropic",
+      "PocketOS"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/vK8mP2qZ.png",
+    "image_prompt": "Breaking news photo style: tense office scene with dim blue lighting, a laptop screen showing blurred code (no text), red alert glow, a blurred silhouette of an engineer in panic, server racks in background, dramatic shadows, shallow depth of field, realistic high detail, cinematic mood."
   },
   {
     "date": "2026-04-27",
     "source_file": "Combined",
     "page": 2,
     "title": "Humanoid Robots Are Now Handling Your Luggage in Japan!",
-    "summary": "Japan Airlines announced a pilot program deploying Chinese-made Unitree humanoid robots at Tokyo's Haneda Airport to assist with baggage and cargo[cite: 2]. The 130 cm tall robots will work with human crews starting May 2026 to combat widespread labor shortages[cite: 2].",
+    "summary": "Japan Airlines announced a pilot program deploying Chinese-made Unitree humanoid robots at Tokyo's Haneda Airport to assist with baggage and cargo. The 130 cm tall robots will work with human crews starting May 2026 to combat widespread labor shortages.",
     "engagement": "High",
-    "raw_text": "So check this out, if you are flying to Tokyo anytime soon, a humanoid robot might be the one loading your bags onto the plane[cite: 2]. Japan Airlines just announced they are piloting full-on humanoid robots at Haneda Airport to move luggage and cargo[cite: 2]. They are using these 130 cm tall Chinese-made robots from Unitree, and media demos already showed them tossing cargo around on the tarmac right next to an airplane[cite: 2]. Honestly, this is a massive milestone for physical AI[cite: 2]. Japan is facing a massive labor shortage right now because of a sudden tourism boom, so they are literally turning to sci-fi solutions to keep the airports running smoothly[cite: 2]. These bots will be working side-by-side with human ground crews starting this May[cite: 2]. We've seen these robots doing backflips in labs for years on YouTube, but seeing them doing actual grunt work in a major civilian airport proves the technology is finally maturing[cite: 2]. Are human cargo handlers going to be a thing of the past? Let me know what you guys think!",
+    "raw_text": "So check this out, if you are flying to Tokyo anytime soon, a humanoid robot might be the one loading your bags onto the plane. Japan Airlines just announced they are piloting full-on humanoid robots at Haneda Airport to move luggage and cargo. They are using these 130 cm tall Chinese-made robots from Unitree, and media demos already showed them tossing cargo around on the tarmac right next to an airplane. Honestly, this is a massive milestone for physical AI. Japan is facing a massive labor shortage right now because of a sudden tourism boom, so they are literally turning to sci-fi solutions to keep the airports running smoothly. These bots will be working side-by-side with human ground crews starting this May. We've seen these robots doing backflips in labs for years on YouTube, but seeing them doing actual grunt work in a major civilian airport proves the technology is finally maturing. Are human cargo handlers going to be a thing of the past? Let me know what you guys think!",
     "id": "jR5wT1yN",
     "category": "Robotics",
-    "companies": ["Japan Airlines", "Unitree"],
+    "companies": [
+      "Japan Airlines",
+      "Unitree"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/jR5wT1yN.png",
+    "image_prompt": "Realistic photojournalism at Tokyo Haneda Airport: a 130cm Unitree humanoid robot carrying luggage beside workers in uniforms, sleek Chinese-made design, motion blur on rolling suitcases, wide terminal lights, passengers in background bokeh, bright clean atmosphere, high detail, natural colors, news-quality, no text."
   },
   {
     "date": "2026-04-29",
     "source_file": "Combined",
     "page": 2,
     "title": "China BANS New Self-Driving Cars After Mass AI Failure!",
-    "summary": "Chinese regulators suspended all new permits for autonomous vehicles following an incident involving Baidu's Apollo Go robotaxis[cite: 2]. Dozens of the autonomous vehicles suddenly stalled in Wuhan, stranding passengers and forcing regulators to halt fleet expansions pending safety reviews[cite: 2].",
+    "summary": "Chinese regulators suspended all new permits for autonomous vehicles following an incident involving Baidu's Apollo Go robotaxis. Dozens of the autonomous vehicles suddenly stalled in Wuhan, stranding passengers and forcing regulators to halt fleet expansions pending safety reviews.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about the self-driving revolution—sometimes it just completely breaks down[cite: 2]. Chinese regulators have officially halted all new self-driving vehicle licenses across the board[cite: 2]. Why? Because dozens of Baidu's Apollo Go robotaxis simultaneously stalled out in the middle of the streets in Wuhan last month[cite: 2]. Passengers were literally stranded inside autonomous cars that just froze up[cite: 2]. China has been pushing robotaxis harder than almost anyone, so to see them slam the brakes on new permits is incredibly telling[cite: 2]. Companies cannot add any new robotaxis to their fleets or expand trials until comprehensive safety reviews are entirely finished[cite: 2]. Honestly, this shows how fragile this transportation tech still is at scale[cite: 2]. One software glitch, and you've got a city-wide traffic jam caused by AI ghosts[cite: 2]. Will this give human taxi drivers a permanent edge, or is it just a temporary setback for the industry? Let me hear your thoughts in the comments below.",
+    "raw_text": "Here's the wild part about the self-driving revolution\u2014sometimes it just completely breaks down. Chinese regulators have officially halted all new self-driving vehicle licenses across the board. Why? Because dozens of Baidu's Apollo Go robotaxis simultaneously stalled out in the middle of the streets in Wuhan last month. Passengers were literally stranded inside autonomous cars that just froze up. China has been pushing robotaxis harder than almost anyone, so to see them slam the brakes on new permits is incredibly telling. Companies cannot add any new robotaxis to their fleets or expand trials until comprehensive safety reviews are entirely finished. Honestly, this shows how fragile this transportation tech still is at scale. One software glitch, and you've got a city-wide traffic jam caused by AI ghosts. Will this give human taxi drivers a permanent edge, or is it just a temporary setback for the industry? Let me hear your thoughts in the comments below.",
     "id": "xT9pL4mC",
     "category": "Transportation",
-    "companies": ["Baidu"],
+    "companies": [
+      "Baidu"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/xT9pL4mC.png",
+    "image_prompt": "Photorealistic breaking-news scene in Wuhan: a modern autonomous robotaxi stalled at a curb with doors slightly open, passengers looking worried beside hazard lights. Night street with rain-slick reflections, blurred police barricades and engineers in safety vests in the background. Cinematic, tense mood, high detail, natural lighting, no text."
   },
   {
     "date": "2026-04-28",
     "source_file": "Combined",
     "page": 1,
     "title": "Elon Musk Sues OpenAI for $150 BILLION - Trial Begins!",
-    "summary": "A major trial commenced in California where Elon Musk is suing OpenAI leadership, alleging the abandonment of the company's legally binding non-profit mission[cite: 1, 2]. Musk is seeking up to $150 billion in damages, arguing the organization was looted to build a profit-seeking monopoly[cite: 1, 2].",
+    "summary": "A major trial commenced in California where Elon Musk is suing OpenAI leadership, alleging the abandonment of the company's legally binding non-profit mission. Musk is seeking up to $150 billion in damages, arguing the organization was looted to build a profit-seeking monopoly.",
     "engagement": "High",
-    "raw_text": "So check this out, the biggest trial in AI history has officially kicked off in California[cite: 2]. Elon Musk is taking the stand against OpenAI, a company he actually helped found, and he's suing them for up to $150 billion[cite: 2]. Yes, with a B. Musk is accusing Sam Altman, Greg Brockman, and the OpenAI board of completely abandoning their original, legally binding non-profit mission just to chase massive corporate profits[cite: 1, 2]. He literally argued in court that they 'looted' the non-profit's assets to build a monopolistic empire[cite: 2]. Meanwhile, Sam Altman and his executive crew are fighting back, saying they are perfectly aligned on their aggressive growth strategy[cite: 2]. Honestly, this is wild. It's an existential battle over the soul of AI[cite: 2]. Should the most powerful technology in the world be controlled by a hyper-aggressive, for-profit corporation, or should it be an open, public benefit project like Musk claims it was supposed to be[cite: 1, 2]? This trial could reshape the entire tech industry. Who do you guys side with here? Let me know!",
+    "raw_text": "So check this out, the biggest trial in AI history has officially kicked off in California. Elon Musk is taking the stand against OpenAI, a company he actually helped found, and he's suing them for up to $150 billion. Yes, with a B. Musk is accusing Sam Altman, Greg Brockman, and the OpenAI board of completely abandoning their original, legally binding non-profit mission just to chase massive corporate profits. He literally argued in court that they 'looted' the non-profit's assets to build a monopolistic empire. Meanwhile, Sam Altman and his executive crew are fighting back, saying they are perfectly aligned on their aggressive growth strategy. Honestly, this is wild. It's an existential battle over the soul of AI. Should the most powerful technology in the world be controlled by a hyper-aggressive, for-profit corporation, or should it be an open, public benefit project like Musk claims it was supposed to be? This trial could reshape the entire tech industry. Who do you guys side with here? Let me know!",
     "id": "qW2eR8tY",
     "category": "Business",
-    "companies": ["OpenAI"],
-    "people": ["Elon Musk", "Sam Altman", "Greg Brockman"],
-    "created_at": "2026-04-30T11:19:20Z"
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Elon Musk",
+      "Sam Altman",
+      "Greg Brockman"
+    ],
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/qW2eR8tY.png",
+    "image_prompt": "Photorealistic courtroom scene in California: Elon Musk in suit at plaintiff table, lawyers and journalists watching, OpenAI executives seated opposite, judge on bench, dramatic cinematic lighting, tense atmosphere, shallow depth of field, high detail, news photo realism, no text."
   },
   {
     "date": "2026-04-28",
     "source_file": "Combined",
     "page": 4,
     "title": "Google Secretly Inks Classified AI Deal With US Military!",
-    "summary": "Google reportedly signed a classified agreement allowing the U.S. Department of Defense to use its AI models for any lawful government purpose[cite: 2]. The deal alters a previous cloud contract and makes Google the latest tech giant to supply AI technology directly for defense applications[cite: 2].",
+    "summary": "Google reportedly signed a classified agreement allowing the U.S. Department of Defense to use its AI models for any lawful government purpose. The deal alters a previous cloud contract and makes Google the latest tech giant to supply AI technology directly for defense applications.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about big tech today: they are basically becoming defense contractors[cite: 2]. Reports just leaked that Google signed a highly classified AI contract with the US Pentagon[cite: 2]. This new deal allows the Department of Defense to use Google's advanced AI models for 'any lawful government purpose'[cite: 2]. Remember a few years ago when Google employees staged massive protests over military contracts? Well, Google clearly decided the massive government checks were worth the internal backlash[cite: 2]. They are officially joining companies like OpenAI and xAI who are also buddying up with the military and intelligence agencies[cite: 2]. Honestly, this is a massive shift for the industry. We are seeing a full-blown arms race where the military isn't just buying weapons; they are buying the smartest AI brains in Silicon Valley to automate defense applications[cite: 2]. Does this make you nervous about how artificial intelligence will be used in modern warfare, or is it a completely necessary step for national security? Let me know your thoughts down below.",
+    "raw_text": "Here's the wild part about big tech today: they are basically becoming defense contractors. Reports just leaked that Google signed a highly classified AI contract with the US Pentagon. This new deal allows the Department of Defense to use Google's advanced AI models for 'any lawful government purpose'. Remember a few years ago when Google employees staged massive protests over military contracts? Well, Google clearly decided the massive government checks were worth the internal backlash. They are officially joining companies like OpenAI and xAI who are also buddying up with the military and intelligence agencies. Honestly, this is a massive shift for the industry. We are seeing a full-blown arms race where the military isn't just buying weapons; they are buying the smartest AI brains in Silicon Valley to automate defense applications. Does this make you nervous about how artificial intelligence will be used in modern warfare, or is it a completely necessary step for national security? Let me know your thoughts down below.",
     "id": "mN6bV3cX",
     "category": "Government",
-    "companies": ["Google", "Alphabet Inc."],
+    "companies": [
+      "Google",
+      "Alphabet Inc."
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/mN6bV3cX.png",
+    "image_prompt": "Ultra-realistic news photo: dim Pentagon briefing room, U.S. flag and secure screens glow, silhouettes of analysts, subtle futuristic AI hologram overlays, cables and servers, dramatic cool lighting, tense atmosphere, shallow depth of field, high detail, no text, no logos."
   },
   {
     "date": "2026-04-29",
     "source_file": "Combined",
     "page": 2,
     "title": "Nvidia's Sneaky RTX 5070 Upgrade is a Game Changer for AI Laptops!",
-    "summary": "Nvidia launched a 12GB GDDR7 memory variant of its RTX 5070 Laptop GPU due to global supply chain shortages of 16Gb memory modules[cite: 1]. By switching to higher-density 24Gb modules, the GPU gains a 50% VRAM increase without core architectural changes, drastically improving local AI processing capabilities[cite: 1].",
+    "summary": "Nvidia launched a 12GB GDDR7 memory variant of its RTX 5070 Laptop GPU due to global supply chain shortages of 16Gb memory modules. By switching to higher-density 24Gb modules, the GPU gains a 50% VRAM increase without core architectural changes, drastically improving local AI processing capabilities.",
     "engagement": "Medium",
-    "raw_text": "So check this out, PC gamers and AI nerds! Nvidia just pulled an incredibly sneaky, but totally awesome, product launch[cite: 1]. Buried deep in their latest driver release notes, they officially confirmed a brand new 12GB version of the RTX 5070 Laptop GPU[cite: 1]. Here's the crazy part—they didn't do this to be nice to us[cite: 1]. There's a massive global shortage of standard 16Gb memory modules right now[cite: 1]. So, to keep their production moving, Nvidia slapped larger 24Gb modules from Samsung and Micron onto the board instead, giving us a massive 50% increase in VRAM essentially for free[cite: 1]. The compute cores are exactly the same, but having 12GB of VRAM in a mid-tier laptop is a total game changer for running local Large Language Models and doing high-res rendering[cite: 1]. These upgraded laptops are hitting shelves around June from major brands like Asus and Lenovo[cite: 1]. Honestly, if you've been waiting to buy a new mobile workstation, this 12GB 5070 is exactly what you want[cite: 1]. Drop a like if you are upgrading this year!",
+    "raw_text": "So check this out, PC gamers and AI nerds! Nvidia just pulled an incredibly sneaky, but totally awesome, product launch. Buried deep in their latest driver release notes, they officially confirmed a brand new 12GB version of the RTX 5070 Laptop GPU. Here's the crazy part\u2014they didn't do this to be nice to us. There's a massive global shortage of standard 16Gb memory modules right now. So, to keep their production moving, Nvidia slapped larger 24Gb modules from Samsung and Micron onto the board instead, giving us a massive 50% increase in VRAM essentially for free. The compute cores are exactly the same, but having 12GB of VRAM in a mid-tier laptop is a total game changer for running local Large Language Models and doing high-res rendering. These upgraded laptops are hitting shelves around June from major brands like Asus and Lenovo. Honestly, if you've been waiting to buy a new mobile workstation, this 12GB 5070 is exactly what you want. Drop a like if you are upgrading this year!",
     "id": "pL8kM9jH",
     "category": "Hardware",
-    "companies": ["Nvidia", "Samsung", "Micron", "ASUS", "Lenovo", "MSI"],
+    "companies": [
+      "Nvidia",
+      "Samsung",
+      "Micron",
+      "ASUS",
+      "Lenovo",
+      "MSI"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/pL8kM9jH.png",
+    "image_prompt": "Photorealistic tech newsroom scene: sleek modern AI laptop on desk, faint holographic GPU/VRAM data glow, subtle heat shimmer, focus on the laptop\u2019s cooling vents and underside, cinematic lighting, shallow depth of field, realistic reflections, high detail, no text, news-worthy realism."
   },
   {
     "date": "2026-04-29",
     "source_file": "Combined",
     "page": 3,
     "title": "Amazon is Replacing Human Recruiters With AI Bots!",
-    "summary": "Amazon introduced two new AI agent products: Connect Talent for automated large-scale hiring interviews, and Connect Decisions for supply-chain and logistics planning[cite: 2]. These enterprise tools aim to replace routine human tasks with agentic AI workflows[cite: 2].",
+    "summary": "Amazon introduced two new AI agent products: Connect Talent for automated large-scale hiring interviews, and Connect Decisions for supply-chain and logistics planning. These enterprise tools aim to replace routine human tasks with agentic AI workflows.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about the AI job takeover: it's not just coming for creatives, it's coming straight for HR[cite: 2]. Amazon just unveiled a brand new AI agent tool called Connect Talent at an AWS conference[cite: 2]. This isn't just a basic resume scanner; it's a literal virtual interviewer that conducts automated screening for mass hiring 24/7[cite: 2]. Imagine applying for a holiday job and getting interviewed by a bot that takes notes and decides if you get hired[cite: 2]. They also launched an AI for supply-chain planning called Connect Decisions[cite: 2]. Amazon is betting huge on 'agentic' AI workflows to completely replace routine human business tasks[cite: 2]. Honestly, this is exactly what experts have been warning us about[cite: 2]. The efficiency gains for corporations are massive, but it raises some terrifying questions about job security and the potential for algorithmic bias[cite: 2]. Would you want an AI bot deciding if you deserve a job at a major company? Sound off in the comments below, because this is getting dystopian fast.",
+    "raw_text": "Here's the wild part about the AI job takeover: it's not just coming for creatives, it's coming straight for HR. Amazon just unveiled a brand new AI agent tool called Connect Talent at an AWS conference. This isn't just a basic resume scanner; it's a literal virtual interviewer that conducts automated screening for mass hiring 24/7. Imagine applying for a holiday job and getting interviewed by a bot that takes notes and decides if you get hired. They also launched an AI for supply-chain planning called Connect Decisions. Amazon is betting huge on 'agentic' AI workflows to completely replace routine human business tasks. Honestly, this is exactly what experts have been warning us about. The efficiency gains for corporations are massive, but it raises some terrifying questions about job security and the potential for algorithmic bias. Would you want an AI bot deciding if you deserve a job at a major company? Sound off in the comments below, because this is getting dystopian fast.",
     "id": "gH5fD2sA",
     "category": "Business",
-    "companies": ["Amazon"],
+    "companies": [
+      "Amazon"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/gH5fD2sA.png",
+    "image_prompt": "Realistic high-tech news photo: sleek futuristic server room with glowing AI interfaces, holographic agent avatars conducting virtual video interviews with distant applicants, and branching logistics routes overlaid on a warehouse map; moody blue lighting, cinematic depth, ultra-detailed, no text."
   },
   {
     "date": "2026-04-29",
     "source_file": "Combined",
     "page": 3,
     "title": "EU Threatens Meta Over Underage Users on Facebook & Instagram!",
-    "summary": "European Union regulators warned Meta that Facebook and Instagram are violating the Digital Services Act by not adequately blocking users under 13[cite: 2]. Regulators formally charged the company following preliminary findings that minors can easily bypass age restrictions[cite: 2].",
+    "summary": "European Union regulators warned Meta that Facebook and Instagram are violating the Digital Services Act by not adequately blocking users under 13. Regulators formally charged the company following preliminary findings that minors can easily bypass age restrictions.",
     "engagement": "Medium",
-    "raw_text": "So check this out, Mark Zuckerberg might be in some serious hot water over in Europe[cite: 2]. EU regulators have officially escalated their probe into Meta, accusing both Facebook and Instagram of completely failing to block underage users from joining[cite: 2]. According to their preliminary findings under the massive new Digital Services Act, it is way too easy for kids under 13 to bypass the basic age gates and get onto the platforms[cite: 2]. They’ve officially charged Meta with a massive compliance lapse regarding minor safety[cite: 2]. Honestly, we all know kids lie about their age online, but the EU is tired of tech giants looking the other way while farming data[cite: 2]. The DSA gives regulators the immense power to hand out crippling fines, so Meta is going to have to scramble to fix this design flaw globally[cite: 2]. We could legitimately be looking at mandatory ID verification to use social media if this trend continues[cite: 2]. Do you think platforms should require a real ID to log in? Let me know!",
+    "raw_text": "So check this out, Mark Zuckerberg might be in some serious hot water over in Europe. EU regulators have officially escalated their probe into Meta, accusing both Facebook and Instagram of completely failing to block underage users from joining. According to their preliminary findings under the massive new Digital Services Act, it is way too easy for kids under 13 to bypass the basic age gates and get onto the platforms. They\u2019ve officially charged Meta with a massive compliance lapse regarding minor safety. Honestly, we all know kids lie about their age online, but the EU is tired of tech giants looking the other way while farming data. The DSA gives regulators the immense power to hand out crippling fines, so Meta is going to have to scramble to fix this design flaw globally. We could legitimately be looking at mandatory ID verification to use social media if this trend continues. Do you think platforms should require a real ID to log in? Let me know!",
     "id": "uY7tR4eW",
     "category": "Social Media",
-    "companies": ["Meta", "Facebook", "Instagram"],
+    "companies": [
+      "Meta",
+      "Facebook",
+      "Instagram"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/uY7tR4eW.png",
+    "image_prompt": "Realistic news photo style: EU flag backdrop with stormy clouds, tense European regulators at podium, ominous digital shield icon over blurred Facebook/Instagram app silhouettes, subtle warning lighting, high detail, cinematic contrast, shallow depth of field, no text, no logos, 4K."
   },
   {
     "date": "2026-04-29",
     "source_file": "Combined",
     "page": 1,
     "title": "Big Tech Earnings: Microsoft Crushes It While Google Bleeds Cash on AI!",
-    "summary": "Financial analysts indicate Alphabet faces margin compression in Q1 2026 due to massive capital expenditures on AI data centers[cite: 1]. Conversely, Microsoft's Q3 2026 projections show a 39% net profit margin driven by heavy Azure cloud infrastructure and enterprise software monetization[cite: 1].",
+    "summary": "Financial analysts indicate Alphabet faces margin compression in Q1 2026 due to massive capital expenditures on AI data centers. Conversely, Microsoft's Q3 2026 projections show a 39% net profit margin driven by heavy Azure cloud infrastructure and enterprise software monetization.",
     "engagement": "Low",
-    "raw_text": "Alright folks, let's talk about the actual money behind the tech[cite: 1]. Big tech earnings just dropped, and there is a massive divide happening in the AI wars[cite: 1]. On one hand, Alphabet, Google's parent company, is facing some serious margin compression[cite: 1]. Sure, their topline revenue is up a healthy 19%, but their earnings per share dropped compared to last year because they are spending absurd amounts of cash on AI infrastructure and custom silicon[cite: 1]. Wall Street is getting incredibly nervous about capital efficiency[cite: 1]. But on the flip side, Microsoft is an absolute monetization machine right now[cite: 1]. They are maintaining an insane 39% net profit margin while heavily investing in AI, completely driven by their Azure Cloud platform and software integration[cite: 1]. Microsoft is proving they can actually monetize this massive AI hype cycle, while Google is seemingly still paying the massive entrance fee[cite: 1]. As an investor, the data is clear, but let me know whose stock you are backing right now!",
+    "raw_text": "Alright folks, let's talk about the actual money behind the tech. Big tech earnings just dropped, and there is a massive divide happening in the AI wars. On one hand, Alphabet, Google's parent company, is facing some serious margin compression. Sure, their topline revenue is up a healthy 19%, but their earnings per share dropped compared to last year because they are spending absurd amounts of cash on AI infrastructure and custom silicon. Wall Street is getting incredibly nervous about capital efficiency. But on the flip side, Microsoft is an absolute monetization machine right now. They are maintaining an insane 39% net profit margin while heavily investing in AI, completely driven by their Azure Cloud platform and software integration. Microsoft is proving they can actually monetize this massive AI hype cycle, while Google is seemingly still paying the massive entrance fee. As an investor, the data is clear, but let me know whose stock you are backing right now!",
     "id": "oP1qM5nB",
     "category": "Business",
-    "companies": ["Alphabet Inc.", "Google", "Microsoft"],
+    "companies": [
+      "Alphabet Inc.",
+      "Google",
+      "Microsoft"
+    ],
     "people": [],
-    "created_at": "2026-04-30T11:19:20Z"
+    "created_at": "2026-04-30T11:19:20Z",
+    "image_url": "images/30_04_26/oP1qM5nB.png",
+    "image_prompt": "Photorealistic split-scene: left, Alphabet HQ under dim haze with draining red graph overlays, stressed atmosphere; right, Microsoft campus glowing at dusk with bright blue data streams and upward green chart accents. Cinematic lighting, high detail, news-photo realism, no text."
   }
 ]
