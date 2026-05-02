@@ -4,108 +4,146 @@
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 5,
     "title": "A Robot Just Beat the Human World Record in a Half-Marathon!",
-    "summary": "Honor's humanoid robot 'Flash' completed a half-marathon in 50 minutes and 26 seconds[cite: 1]. It achieved this using purely autonomous navigation, breaking the human world record[cite: 1].",
+    "summary": "Honor's humanoid robot 'Flash' completed a half-marathon in 50 minutes and 26 seconds. It achieved this using purely autonomous navigation, breaking the human world record.",
     "engagement": "High",
-    "raw_text": "So check this out, guys! A smartphone company just made a robot that runs faster than literally any human on Earth. Honor, the Chinese tech brand, built a 5-foot-5 humanoid robot named 'Flash'[cite: 1]. And Flash just casually entered the 2026 Beijing E-Town Humanoid Robot Half Marathon and absolutely shattered the human world record[cite: 1]. I'm talking 13.1 miles in exactly 50 minutes and 26 seconds[cite: 1]! That's less than four minutes a mile, purely driven by autonomous navigation[cite: 1]. No remote control, no pre-programmed track—just a robot avoiding physical barricades and balancing itself at blistering speeds[cite: 1]. Honestly, this is huge because it conclusively proves that the exact same tech powering our phones—LiDAR, tiny optical sensor arrays, edge compute—is exactly what's needed to mass-produce bipedal robots[cite: 1]. If consumer electronics firms are leveraging global supply chains to undercut traditional robotics companies, the barrier to entry is collapsing at an unprecedented velocity[cite: 1]. Are we about to see affordable, mass-produced robots from our favorite smartphone brands? Let me know what you think down in the comments!",
-    "id": "A1b2C3d4",
+    "raw_text": "So check this out, guys! A smartphone company just made a robot that runs faster than literally any human on Earth. Honor, the Chinese tech brand, built a 5-foot-5 humanoid robot named 'Flash'. And Flash just casually entered the 2026 Beijing E-Town Humanoid Robot Half Marathon and absolutely shattered the human world record. I'm talking 13.1 miles in exactly 50 minutes and 26 seconds! That's less than four minutes a mile, purely driven by autonomous navigation. No remote control, no pre-programmed track\u2014just a robot avoiding physical barricades and balancing itself at blistering speeds. Honestly, this is huge because it conclusively proves that the exact same tech powering our phones\u2014LiDAR, tiny optical sensor arrays, edge compute\u2014is exactly what's needed to mass-produce bipedal robots. If consumer electronics firms are leveraging global supply chains to undercut traditional robotics companies, the barrier to entry is collapsing at an unprecedented velocity. Are we about to see affordable, mass-produced robots from our favorite smartphone brands? Let me know what you think down in the comments!",
+    "id": "e4a92652",
     "category": "Robotics",
-    "companies": ["Honor"],
-    "people": ["Jacob Kiplimo"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "Honor"
+    ],
+    "people": [
+      "Jacob Kiplimo"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/e4a92652.png",
+    "image_prompt": "Photorealistic news photo: humanoid robot \u201cFlash\u201d sprinting through an urban half-marathon at dusk, motion blur, LED lights glowing, autonomous navigation sensors visible, crowd cheering along barricades, city skyline bokeh, dramatic lighting, ultra-detailed, high contrast, sharp focus, cinematic realism."
   },
   {
     "date": "2026-05-02",
     "source_file": "ChatGPT",
     "page": 2,
     "title": "Elon Musk's xAI Clones Your Voice in 60 Seconds",
-    "summary": "xAI has introduced a 'Custom Voices' feature that creates a cloned voice model from just one minute of recorded speech[cite: 2]. The tool includes security passphrases to prevent misuse and integrates with the Grok platform[cite: 2].",
+    "summary": "xAI has introduced a 'Custom Voices' feature that creates a cloned voice model from just one minute of recorded speech. The tool includes security passphrases to prevent misuse and integrates with the Grok platform.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about the new AI update from Elon Musk's xAI. They just launched a 'Custom Voices' feature on May 2, 2026, and it is equal parts amazing and terrifying[cite: 2]. You literally just speak into their console for about 60 seconds, and boom—within minutes, it generates a perfectly cloned model of your voice[cite: 2]! I know what you're thinking: isn't that a massive security risk? Well, xAI is trying to get ahead of that. To even create the clone, you have to read a specific passphrase twice, and their system verifies that the live audio actually matches the same speaker being cloned[cite: 2]. You can't just upload a random clip of a celebrity and steal their voice[cite: 2]. It is completely integrated into Grok's new Voice Think Fast 1.0 agent, and there's a library of over 80 built-in voices across 28 languages[cite: 2]. But still, the fact that developers can clone a voice this accurately in under a minute is mind-blowing[cite: 2].",
-    "id": "E5f6G7h8",
+    "raw_text": "Here's the wild part about the new AI update from Elon Musk's xAI. They just launched a 'Custom Voices' feature on May 2, 2026, and it is equal parts amazing and terrifying. You literally just speak into their console for about 60 seconds, and boom\u2014within minutes, it generates a perfectly cloned model of your voice! I know what you're thinking: isn't that a massive security risk? Well, xAI is trying to get ahead of that. To even create the clone, you have to read a specific passphrase twice, and their system verifies that the live audio actually matches the same speaker being cloned. You can't just upload a random clip of a celebrity and steal their voice. It is completely integrated into Grok's new Voice Think Fast 1.0 agent, and there's a library of over 80 built-in voices across 28 languages. But still, the fact that developers can clone a voice this accurately in under a minute is mind-blowing.",
+    "id": "13dbbe7a",
     "category": "AI",
-    "companies": ["xAI"],
-    "people": ["Elon Musk"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "xAI"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/13dbbe7a.png",
+    "image_prompt": "Photorealistic newsroom scene: futuristic holographic waveform interface labeled \u201cCustom Voices\u201d (no text), a sleek smartphone mic icon, subtle AI circuitry glow, Elon Musk\u2013like silhouette in background, secure passphrase shield symbol, Grok-like smart interface reflections; dramatic lighting, high detail, realistic colors, 16:9."
   },
   {
     "date": "2026-05-02",
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 4,
     "title": "This Open-Source AI is Doing Our Jobs... And Hacking Our Networks?",
-    "summary": "OpenClaw has become the most-starred global software project by offering an autonomous AI framework that perpetually operates in the background[cite: 1]. While highly productive, it introduces severe enterprise cybersecurity vulnerabilities by acting as a highly privileged enterprise user[cite: 1].",
+    "summary": "OpenClaw has become the most-starred global software project by offering an autonomous AI framework that perpetually operates in the background. While highly productive, it introduces severe enterprise cybersecurity vulnerabilities by acting as a highly privileged enterprise user.",
     "engagement": "High",
-    "raw_text": "Alright, we need to talk about OpenClaw, because it is taking the developer world by storm—and giving cybersecurity experts absolute nightmares. OpenClaw just hit 250,000 stars on popular code-hosting platforms in just 60 days[cite: 1]. Engineered by developer Peter Steinberger, it's an open-source AI agent, but it doesn't just wait for your prompts[cite: 1]. It has a programmed 'heartbeat' mechanism[cite: 1]. It constantly runs perpetually in the background, checking your messaging platforms, reading local files, and autonomously executing shell commands to do complex workflows for you[cite: 1]. Honestly, the productivity gains are substantial. But here's the catch: because it has the capability to execute native shell commands, it functions basically as an automated insider threat[cite: 1]! Threat intelligence analysts warn that hackers are figuring out how to use indirect prompt injections hiding in incoming emails to trick the AI into unintended data exfiltration[cite: 1]. It's gotten so volatile that NVIDIA had to rush out a specialized NemoClaw runtime just to enforce strict zero-trust boundaries and prevent it from leaking corporate secrets[cite: 1].",
-    "id": "I9j0K1l2",
+    "raw_text": "Alright, we need to talk about OpenClaw, because it is taking the developer world by storm\u2014and giving cybersecurity experts absolute nightmares. OpenClaw just hit 250,000 stars on popular code-hosting platforms in just 60 days. Engineered by developer Peter Steinberger, it's an open-source AI agent, but it doesn't just wait for your prompts. It has a programmed 'heartbeat' mechanism. It constantly runs perpetually in the background, checking your messaging platforms, reading local files, and autonomously executing shell commands to do complex workflows for you. Honestly, the productivity gains are substantial. But here's the catch: because it has the capability to execute native shell commands, it functions basically as an automated insider threat! Threat intelligence analysts warn that hackers are figuring out how to use indirect prompt injections hiding in incoming emails to trick the AI into unintended data exfiltration. It's gotten so volatile that NVIDIA had to rush out a specialized NemoClaw runtime just to enforce strict zero-trust boundaries and prevent it from leaking corporate secrets.",
+    "id": "616260c9",
     "category": "Cybersecurity",
-    "companies": ["NVIDIA"],
-    "people": ["Peter Steinberger"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [
+      "Peter Steinberger"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/616260c9.png",
+    "image_prompt": "Cinematic news photo: a glowing open-source code aurora and shadowy AI \u201cclaw\u201d reaching into a modern corporate network room; servers, security cameras, glowing warning lines, a blurred overworked worker at a desk, moody blue/amber lighting, high detail, realistic, dramatic contrast, no text."
   },
   {
     "date": "2026-05-02",
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 7,
     "title": "The 'Miracle Tree' Eradicating Microplastics from Our Water",
-    "summary": "Scientists have found that seed extracts from the Moringa oleifera tree can remove 98% of microplastics from complex water matrices[cite: 1]. This natural biochemical solution outperforms synthetic chemical coagulants by binding to plastics and forming easily removable visible clusters[cite: 1].",
+    "summary": "Scientists have found that seed extracts from the Moringa oleifera tree can remove 98% of microplastics from complex water matrices. This natural biochemical solution outperforms synthetic chemical coagulants by binding to plastics and forming easily removable visible clusters.",
     "engagement": "Medium",
-    "raw_text": "We've all heard how bad the microplastic crisis is, right? But Brazilian researchers from the Institute of Science and Technology just published a peer-reviewed study that honestly feels like a sci-fi movie[cite: 1]. They conclusively demonstrated that extracts derived from the seeds of the Moringa oleifera tree—literally known as the 'miracle tree'—can eradicate over 98% of microplastic contaminants from municipal drinking water[cite: 1]. 98 percent! Here is the science: the plastic particles inherently carry a negative electrostatic charge, and the specific cationic proteins in the organic Moringa seed extract are positively charged[cite: 1]. When you mix them, they instantly initiate binding sequences, forcing the invisible microplastics to coagulate into massive clusters that you can just scoop right out with a basic mechanical mesh screen[cite: 1]. The best part? It consistently outperformed highly toxic, energy-intensive chemical treatments like aluminum sulfate[cite: 1]. It is cheap, entirely biodegradable, and the drought-resistant tree itself acts as a potent atmospheric carbon sink[cite: 1].",
-    "id": "M3n4O5p6",
+    "raw_text": "We've all heard how bad the microplastic crisis is, right? But Brazilian researchers from the Institute of Science and Technology just published a peer-reviewed study that honestly feels like a sci-fi movie. They conclusively demonstrated that extracts derived from the seeds of the Moringa oleifera tree\u2014literally known as the 'miracle tree'\u2014can eradicate over 98% of microplastic contaminants from municipal drinking water. 98 percent! Here is the science: the plastic particles inherently carry a negative electrostatic charge, and the specific cationic proteins in the organic Moringa seed extract are positively charged. When you mix them, they instantly initiate binding sequences, forcing the invisible microplastics to coagulate into massive clusters that you can just scoop right out with a basic mechanical mesh screen. The best part? It consistently outperformed highly toxic, energy-intensive chemical treatments like aluminum sulfate. It is cheap, entirely biodegradable, and the drought-resistant tree itself acts as a potent atmospheric carbon sink.",
+    "id": "be2a2144",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-05-02T17:26:10Z"
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/be2a2144.png",
+    "image_prompt": "Photorealistic news image: researchers in a lab near clear water samples in glass beakers, visible microplastic \u201cclusters\u201d forming near a dropper labeled only by scene props, natural green moringa leaves and seed extract beside beaker, bright scientific lighting, clean atmosphere, high detail, shallow depth of field."
   },
   {
     "date": "2026-05-01",
     "source_file": "Combined",
     "page": 5,
     "title": "Meta is Building Physical AI: The ARI Robotics Acquisition",
-    "summary": "Meta Platforms has acquired the robotics startup Assured Robot Intelligence (ARI) to accelerate its development of physical AGI[cite: 1, 2]. ARI's highly pedigreed team has joined Meta's Superintelligence Labs to develop advanced models capable of whole-body humanoid control[cite: 1, 2].",
+    "summary": "Meta Platforms has acquired the robotics startup Assured Robot Intelligence (ARI) to accelerate its development of physical AGI. ARI's highly pedigreed team has joined Meta's Superintelligence Labs to develop advanced models capable of whole-body humanoid control.",
     "engagement": "Medium",
-    "raw_text": "Meta Platforms isn't just focused on social media or digital apps anymore. They just made a massive play in the physical environment by fundamentally expanding hardware capabilities and acquiring a robotics startup called Assured Robot Intelligence, or ARI[cite: 1, 2]. They didn't disclose the exact price, but they absorbed the founders—Lerrel Pinto and Xiaolong Wang—and their entire team straight into Meta's Superintelligence Labs[cite: 1, 2]. ARI specializes in making AI that helps robots fluidly understand and predict unpredictable human behaviors in dynamic, real-world environments[cite: 1, 2]. So why does Meta want bipedal robots? It is all about Physical AGI[cite: 1]. Meta is aiming to fuse those massive foundational language models they've been building with ARI's mechanical spatial expertise[cite: 1]. The spatial mapping tech they get from this is also expected to yield massive complementary benefits for their existing augmented and virtual reality hardware ecosystems[cite: 1]. They are directly positioning themselves to compete in the rapidly commercializing, multi-trillion-dollar humanoid robotics sector[cite: 1].",
-    "id": "Q7r8S9t0",
+    "raw_text": "Meta Platforms isn't just focused on social media or digital apps anymore. They just made a massive play in the physical environment by fundamentally expanding hardware capabilities and acquiring a robotics startup called Assured Robot Intelligence, or ARI. They didn't disclose the exact price, but they absorbed the founders\u2014Lerrel Pinto and Xiaolong Wang\u2014and their entire team straight into Meta's Superintelligence Labs. ARI specializes in making AI that helps robots fluidly understand and predict unpredictable human behaviors in dynamic, real-world environments. So why does Meta want bipedal robots? It is all about Physical AGI. Meta is aiming to fuse those massive foundational language models they've been building with ARI's mechanical spatial expertise. The spatial mapping tech they get from this is also expected to yield massive complementary benefits for their existing augmented and virtual reality hardware ecosystems. They are directly positioning themselves to compete in the rapidly commercializing, multi-trillion-dollar humanoid robotics sector.",
+    "id": "ea20d7af",
     "category": "Hardware",
-    "companies": ["Meta Platforms", "Assured Robot Intelligence"],
-    "people": ["Lerrel Pinto", "Xiaolong Wang"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "Meta Platforms",
+      "Assured Robot Intelligence"
+    ],
+    "people": [
+      "Lerrel Pinto",
+      "Xiaolong Wang"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/ea20d7af.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek humanoid robot with articulated arms in a clean lab, holographic UI glow, engineers in lab coats observing, modern Meta-like corporate vibe without logos, dynamic cinematic lighting, shallow depth of field, high detail, realistic, no text."
   },
   {
     "date": "2026-05-02",
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 10,
     "title": "This Single Injection is Reversing Osteoarthritis",
-    "summary": "Backed by a $33.5 million ARPA-H grant, Renovare Therapeutics has developed a biomaterial injection capable of halting and reversing the progression of osteoarthritis[cite: 1]. The therapy stimulates the body's innate biological mechanisms to actively regrow eroded cartilage and underlying bone structures[cite: 1].",
+    "summary": "Backed by a $33.5 million ARPA-H grant, Renovare Therapeutics has developed a biomaterial injection capable of halting and reversing the progression of osteoarthritis. The therapy stimulates the body's innate biological mechanisms to actively regrow eroded cartilage and underlying bone structures.",
     "engagement": "Medium",
-    "raw_text": "For decades, if you had osteoarthritis, the standard of care was strictly palliative—you managed the pain until you inevitably needed highly invasive, costly total joint replacement surgery[cite: 1]. But that entire medical paradigm is about to be shattered. A research consortium out of the University of Colorado Boulder, backed by a massive $33.5 million ARPA-H contract, just launched a private biotech firm called Renovare Therapeutics[cite: 1]. They have developed a literal game-changer: a single biomaterial intra-articular injection that doesn't just halt the biochemical progression of the disease—it actually reverses it[cite: 1]. The therapy stimulates your body's innate biological mechanisms to actively regrow and repair the eroded cartilage and underlying bone structures[cite: 1]. In extensive animal trials, joint damage was decisively reversed in a matter of weeks, and full-scale human clinical trials are anticipated as early as 2028[cite: 1]. This is the kind of targeted regenerative biologic that will completely disrupt the multi-billion-dollar global orthopedic surgery market[cite: 1].",
-    "id": "U1v2W3x4",
+    "raw_text": "For decades, if you had osteoarthritis, the standard of care was strictly palliative\u2014you managed the pain until you inevitably needed highly invasive, costly total joint replacement surgery. But that entire medical paradigm is about to be shattered. A research consortium out of the University of Colorado Boulder, backed by a massive $33.5 million ARPA-H contract, just launched a private biotech firm called Renovare Therapeutics. They have developed a literal game-changer: a single biomaterial intra-articular injection that doesn't just halt the biochemical progression of the disease\u2014it actually reverses it. The therapy stimulates your body's innate biological mechanisms to actively regrow and repair the eroded cartilage and underlying bone structures. In extensive animal trials, joint damage was decisively reversed in a matter of weeks, and full-scale human clinical trials are anticipated as early as 2028. This is the kind of targeted regenerative biologic that will completely disrupt the multi-billion-dollar global orthopedic surgery market.",
+    "id": "4b59337a",
     "category": "Healthcare",
-    "companies": ["Renovare Therapeutics"],
-    "people": ["Stephanie Bryant"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "Renovare Therapeutics"
+    ],
+    "people": [
+      "Stephanie Bryant"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/4b59337a.png",
+    "image_prompt": "Photorealistic medical news image: close-up of an adult knee joint in cross-section with glowing cartilage regrowth, subtle biomaterial injection syringe near the knee, sterile clinical background, hopeful neutral lighting, high detail, shallow depth of field, realistic colors, no text."
   },
   {
     "date": "2026-04-23",
     "source_file": "ChatGPT",
     "page": 1,
     "title": "Cambridge's Brain-Inspired Chip Slashes AI Power by 70%",
-    "summary": "Researchers at the University of Cambridge have developed a nanoelectronic memristor chip that mimics biological neuron processing[cite: 2]. This neuromorphic hardware drastically reduces AI computing energy consumption by up to 70%[cite: 2].",
+    "summary": "Researchers at the University of Cambridge have developed a nanoelectronic memristor chip that mimics biological neuron processing. This neuromorphic hardware drastically reduces AI computing energy consumption by up to 70%.",
     "engagement": "Medium",
-    "raw_text": "Training AI models requires a ludicrous amount of electricity, but researchers at the University of Cambridge may have just solved the growing power crisis. They've unveiled a new 'brain-like' chip, specifically a nanoelectronic memristor, that processes data the exact same way human neurons do[cite: 2]. Conventional AI hardware has to constantly shuttle data back and forth between memory and processing, which wastes tons of energy. This new chip combines memory and processing in one single device[cite: 2]! By using a modified hafnium-oxide film, the chip achieves incredibly smooth, low-power switching and even exhibited biological learning traits in tests[cite: 2]. The results? They are claiming up to a 70% lower energy use compared to conventional AI hardware[cite: 2]. As deep learning models get bigger and hungrier, this neuromorphic approach, published in Science Advances, is going to be absolutely essential to make AI systems far more efficient and adaptable[cite: 2].",
-    "id": "Y5z6A7b8",
+    "raw_text": "Training AI models requires a ludicrous amount of electricity, but researchers at the University of Cambridge may have just solved the growing power crisis. They've unveiled a new 'brain-like' chip, specifically a nanoelectronic memristor, that processes data the exact same way human neurons do. Conventional AI hardware has to constantly shuttle data back and forth between memory and processing, which wastes tons of energy. This new chip combines memory and processing in one single device! By using a modified hafnium-oxide film, the chip achieves incredibly smooth, low-power switching and even exhibited biological learning traits in tests. The results? They are claiming up to a 70% lower energy use compared to conventional AI hardware. As deep learning models get bigger and hungrier, this neuromorphic approach, published in Science Advances, is going to be absolutely essential to make AI systems far more efficient and adaptable.",
+    "id": "e985c06e",
     "category": "Hardware",
-    "companies": ["University of Cambridge"],
+    "companies": [
+      "University of Cambridge"
+    ],
     "people": [],
-    "created_at": "2026-05-02T17:26:10Z"
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/e985c06e.png",
+    "image_prompt": "Realistic newsroom photo style: University of Cambridge lab scene with a glowing nanoelectronic memristor chip on an anti-static tray, faint neuron-like light trails around it, scientists in soft focus, cool blue/teal mood, shallow depth of field, ultra-detailed, high resolution, no text."
   },
   {
     "date": "2026-05-02",
     "source_file": "Combined",
     "page": 2,
     "title": "The Pentagon's Secret AI Network Excludes Anthropic",
-    "summary": "The U.S. Defense Department has authorized major technology firms, including AWS, Google, Microsoft, OpenAI, and Reflection AI, to deploy models on highly classified networks[cite: 1, 2]. Anthropic was excluded due to public disputes over the military's use of its AI for lethal autonomous operations[cite: 1].",
+    "summary": "The U.S. Defense Department has authorized major technology firms, including AWS, Google, Microsoft, OpenAI, and Reflection AI, to deploy models on highly classified networks. Anthropic was excluded due to public disputes over the military's use of its AI for lethal autonomous operations.",
     "engagement": "Low",
-    "raw_text": "In a major corporate and geopolitical shift, the U.S. Pentagon is fundamentally restructuring how it procures military artificial intelligence. They just finalized operational agreements with major legacy hyperscalers—including AWS, Google, Microsoft, Oracle, and a massively ascending startup called Reflection AI—to deploy advanced AI frameworks directly onto Impact Level 6 (IL-6) and Impact Level 7 (IL-7) classified networks[cite: 1, 2]. But what is really interesting here is who got left out. Anthropic is noticeably absent from the procurement list[cite: 1]. Following highly publicized disputes over the military's use of its AI for lethal autonomous operations and mass surveillance, defense officials effectively designated them a supply chain risk[cite: 1]. Meanwhile, the venture capital ecosystem is aggressively subsidizing Reflection AI, aiming for a $25 billion valuation, to establish a resilient domestic alternative and serve as the military's open-source foundation[cite: 1]. This highlights a growing schism between Silicon Valley corporate governance frameworks and the maximalist operational requirements of the armed forces[cite: 1].",
-    "id": "C9d0E1f2",
+    "raw_text": "In a major corporate and geopolitical shift, the U.S. Pentagon is fundamentally restructuring how it procures military artificial intelligence. They just finalized operational agreements with major legacy hyperscalers\u2014including AWS, Google, Microsoft, Oracle, and a massively ascending startup called Reflection AI\u2014to deploy advanced AI frameworks directly onto Impact Level 6 (IL-6) and Impact Level 7 (IL-7) classified networks. But what is really interesting here is who got left out. Anthropic is noticeably absent from the procurement list. Following highly publicized disputes over the military's use of its AI for lethal autonomous operations and mass surveillance, defense officials effectively designated them a supply chain risk. Meanwhile, the venture capital ecosystem is aggressively subsidizing Reflection AI, aiming for a $25 billion valuation, to establish a resilient domestic alternative and serve as the military's open-source foundation. This highlights a growing schism between Silicon Valley corporate governance frameworks and the maximalist operational requirements of the armed forces.",
+    "id": "7e433022",
     "category": "Business",
     "companies": [
       "Amazon Web Services",
@@ -118,18 +156,23 @@
       "Reflection AI",
       "Anthropic"
     ],
-    "people": ["Misha Laskin", "Ioannis Antonoglou"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "people": [
+      "Misha Laskin",
+      "Ioannis Antonoglou"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/7e433022.png",
+    "image_prompt": "Realistic editorial scene: dim Pentagon corridor fading into a glowing server room, silhouette of analysts at consoles, subtle holographic AI network lines connecting icons for major tech firms, cool blue light, cinematic depth of field, high detail, tense mood, no text, no logos."
   },
   {
     "date": "2026-05-02",
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 11,
     "title": "Big Pharma Spends $84 Billion to Avoid the 'Patent Cliff'",
-    "summary": "In Q1 2026, biotechnology mergers and acquisitions reached $84 billion as massive pharmaceutical conglomerates aggressively acquire mid-cap firms[cite: 1]. This financial consolidation is driven by the imminent expiration of exclusive patents on historically dominant blockbuster drugs[cite: 1].",
+    "summary": "In Q1 2026, biotechnology mergers and acquisitions reached $84 billion as massive pharmaceutical conglomerates aggressively acquire mid-cap firms. This financial consolidation is driven by the imminent expiration of exclusive patents on historically dominant blockbuster drugs.",
     "engagement": "Low",
-    "raw_text": "We are seeing a historic wave of intense financial consolidation in the pharmaceutical industry right now. In just the first quarter of 2026, Biotech M&A activity reached a staggering $84 billion—representing a near doubling of the $44.4 billion recorded during the same period last year[cite: 1]. But they aren't primarily doing this to discover new markets; they are panicking over the existential threat of 'patent cliffs'[cite: 1]. Major pharmaceutical conglomerates are facing the imminent expiration of exclusive patents on multi-billion-dollar blockbuster drugs[cite: 1]. To preempt the inevitable loss of revenue to generic manufacturers, they are frantically acquiring agile, mid-cap biotech firms that possess robust, late-stage clinical pipelines, particularly in oncology and immunology[cite: 1]. We saw Eli Lilly drop $7.8 billion on Centessa Pharmaceuticals, and Sun Pharma spend $11.75 billion to buy out Organon[cite: 1]. It is a purely defensive financial maneuver playing out on a massive scale as buyers strategically demand assets heavily integrated with artificial intelligence[cite: 1].",
-    "id": "G3h4I5j6",
+    "raw_text": "We are seeing a historic wave of intense financial consolidation in the pharmaceutical industry right now. In just the first quarter of 2026, Biotech M&A activity reached a staggering $84 billion\u2014representing a near doubling of the $44.4 billion recorded during the same period last year. But they aren't primarily doing this to discover new markets; they are panicking over the existential threat of 'patent cliffs'. Major pharmaceutical conglomerates are facing the imminent expiration of exclusive patents on multi-billion-dollar blockbuster drugs. To preempt the inevitable loss of revenue to generic manufacturers, they are frantically acquiring agile, mid-cap biotech firms that possess robust, late-stage clinical pipelines, particularly in oncology and immunology. We saw Eli Lilly drop $7.8 billion on Centessa Pharmaceuticals, and Sun Pharma spend $11.75 billion to buy out Organon. It is a purely defensive financial maneuver playing out on a massive scale as buyers strategically demand assets heavily integrated with artificial intelligence.",
+    "id": "2d0dcd87",
     "category": "Business",
     "companies": [
       "Eli Lilly",
@@ -138,20 +181,30 @@
       "Organon"
     ],
     "people": [],
-    "created_at": "2026-05-02T17:26:10Z"
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/2d0dcd87.png",
+    "image_prompt": "Realistic high-quality news photo: boardroom scene with executives in suits, tense expressions, large glowing clock above a stock chart \u201ccliff\u201d shape, blurred lab background with biotech vials, dramatic blue lighting, cinematic shallow depth of field, newsworthy mood, no text."
   },
   {
     "date": "2026-05-02",
     "source_file": "Global Technology and Scientific Intelligence Report",
     "page": 13,
     "title": "NASA Delays Artemis III Lunar Landing to 2028",
-    "summary": "NASA has officially delayed the Artemis III mission to late 2027 and heavily restructured it into an Earth-orbit rendezvous and docking demonstration[cite: 1]. The historic human return to the moon is deferred due to severe delays in commercial lunar lander development[cite: 1].",
+    "summary": "NASA has officially delayed the Artemis III mission to late 2027 and heavily restructured it into an Earth-orbit rendezvous and docking demonstration. The historic human return to the moon is deferred due to severe delays in commercial lunar lander development.",
     "engagement": "Low",
-    "raw_text": "If you were hoping to see astronauts walking on the Moon again next year, I have some bad news. NASA Administrator Jared Isaacman officially confirmed in a congressional briefing that the highly anticipated Artemis III mission is officially delayed to late 2027[cite: 1]. And worse, they are completely changing the fundamental operational architecture[cite: 1]. Instead of a triumphant return to the lunar surface, Artemis III is heavily restructured into an Earth-orbit rendezvous and docking demonstration[cite: 1]. The actual historic Moon landing is being officially deferred to the subsequent Artemis IV and Artemis V missions, realistically projected for 2028[cite: 1]. The primary catalyst here is the significantly delayed development timeline of the heavily customized commercial lunar landers, specifically SpaceX's Starship Human Landing System and Blue Origin's Blue Moon[cite: 1]. Developing ultra-reliable landing systems that can safely transfer crews from the Orion capsule to the lunar regolith requires unprecedented technological validation, and the agency conservatively compressed the timeline to avoid zero-margin realities[cite: 1]. Space is hard, folks.",
-    "id": "K7l8M9n0",
+    "raw_text": "If you were hoping to see astronauts walking on the Moon again next year, I have some bad news. NASA Administrator Jared Isaacman officially confirmed in a congressional briefing that the highly anticipated Artemis III mission is officially delayed to late 2027. And worse, they are completely changing the fundamental operational architecture. Instead of a triumphant return to the lunar surface, Artemis III is heavily restructured into an Earth-orbit rendezvous and docking demonstration. The actual historic Moon landing is being officially deferred to the subsequent Artemis IV and Artemis V missions, realistically projected for 2028. The primary catalyst here is the significantly delayed development timeline of the heavily customized commercial lunar landers, specifically SpaceX's Starship Human Landing System and Blue Origin's Blue Moon. Developing ultra-reliable landing systems that can safely transfer crews from the Orion capsule to the lunar regolith requires unprecedented technological validation, and the agency conservatively compressed the timeline to avoid zero-margin realities. Space is hard, folks.",
+    "id": "573e3947",
     "category": "Space",
-    "companies": ["NASA", "SpaceX", "Blue Origin"],
-    "people": ["Jared Isaacman"],
-    "created_at": "2026-05-02T17:26:10Z"
+    "companies": [
+      "NASA",
+      "SpaceX",
+      "Blue Origin"
+    ],
+    "people": [
+      "Jared Isaacman"
+    ],
+    "created_at": "2026-05-02T17:26:10Z",
+    "image_url": "images/03_05_26/573e3947.png",
+    "image_prompt": "Realistic NASA news photo style: a sleek SLS rocket and Orion capsule on a launch pad under dawn haze, Earth rising beyond, mission control lights blurred in foreground, dramatic cloud shadows, subdued tense mood, high detail, natural colors, sharp focus, cinematic lighting, no text."
   }
 ]
