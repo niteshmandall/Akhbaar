@@ -4,139 +4,198 @@
     "source_file": "Source 1",
     "page": 1,
     "title": "Data Centers in Space? Anthropic and SpaceX Partner for Orbital AI Compute",
-    "summary": "Anthropic has partnered with SpaceX to access the Colossus 1 compute cluster and develop orbital computational infrastructure[cite: 1]. This initiative aims to launch AI servers into low Earth orbit to leverage natural cryogenic cooling and unhindered solar power, bypassing terrestrial energy constraints[cite: 1].",
+    "summary": "Anthropic has partnered with SpaceX to access the Colossus 1 compute cluster and develop orbital computational infrastructure. This initiative aims to launch AI servers into low Earth orbit to leverage natural cryogenic cooling and unhindered solar power, bypassing terrestrial energy constraints.",
     "engagement": "High",
-    "raw_text": "So check this out, the AI space race just literally went to space! Anthropic has officially signed a deal with SpaceX, starting with immediate access to their massive Colossus 1 compute cluster[cite: 1]. But here is the wild part—they are actually exploring putting AI data centers in low Earth orbit[cite: 1]! I'm not kidding. Terrestrial data centers are sucking up way too much grid power and dealing with local blowback over water for cooling[cite: 1]. So what's the solution? Launch the servers into the vacuum of space where you get unhindered solar power and free, natural cryogenic cooling[cite: 1]. Imagine integrating advanced algorithmic models directly into Starlink satellite constellations to create an unstoppable, hyper-resilient edge-computing network[cite: 1]. Honestly, this is huge. It shows that AI developers are completely maxing out Earth’s physical utility infrastructure and have to look upward just to keep scaling[cite: 1]. We are looking at a future where the most powerful AI minds are physically orbiting the planet!",
+    "raw_text": "So check this out, the AI space race just literally went to space! Anthropic has officially signed a deal with SpaceX, starting with immediate access to their massive Colossus 1 compute cluster. But here is the wild part\u2014they are actually exploring putting AI data centers in low Earth orbit! I'm not kidding. Terrestrial data centers are sucking up way too much grid power and dealing with local blowback over water for cooling. So what's the solution? Launch the servers into the vacuum of space where you get unhindered solar power and free, natural cryogenic cooling. Imagine integrating advanced algorithmic models directly into Starlink satellite constellations to create an unstoppable, hyper-resilient edge-computing network. Honestly, this is huge. It shows that AI developers are completely maxing out Earth\u2019s physical utility infrastructure and have to look upward just to keep scaling. We are looking at a future where the most powerful AI minds are physically orbiting the planet!",
     "id": "UX892KA1",
     "category": "Hardware",
-    "companies": ["Anthropic", "SpaceX"],
+    "companies": [
+      "Anthropic",
+      "SpaceX"
+    ],
     "people": [],
-    "created_at": "2026-05-06T17:56:20Z"
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/UX892KA1.png",
+    "image_prompt": "Ultra-realistic news photo: SpaceX-style rocket launching from Cape Canaveral into twilight, orbital ring of glowing satellites above Earth. Subtle orbital data-center visual hints, sleek AI servers in low Earth orbit. Crisp lighting, dramatic atmosphere, high detail. No text."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 2",
     "page": 1,
     "title": "This Robot Hand Solves Rubik's Cubes and Cooks Dinner",
-    "summary": "French startup Genesis AI unveiled the GENE-26.5 general-purpose robot controller alongside a highly dexterous robotic hand[cite: 2]. The AI-driven hand successfully performed complex human tasks, including chopping tomatoes, cracking eggs, solving a Rubik's Cube, and playing the piano[cite: 2].",
+    "summary": "French startup Genesis AI unveiled the GENE-26.5 general-purpose robot controller alongside a highly dexterous robotic hand. The AI-driven hand successfully performed complex human tasks, including chopping tomatoes, cracking eggs, solving a Rubik's Cube, and playing the piano.",
     "engagement": "High",
-    "raw_text": "Okay, you have to see what Genesis AI just dropped. Backed by Eric Schmidt, this French robotics startup just unveiled their new GENE-26.5 robot brain, and it comes with a robotic hand that is terrifyingly human-like[cite: 2]. We aren't just talking about picking up boxes anymore. They demonstrated this robot hand literally chopping tomatoes, cracking eggs perfectly, solving a Rubik's Cube, and even playing the piano[cite: 2]! Seriously, playing the piano with two robot hands[cite: 2]! The GENE-26.5 model is designed to be a universal controller that can run different commercial robots across tons of industries like automotive and pharma[cite: 2]. It’s a massive flex for Europe's push into the robotics space, directly challenging global rivals like China's Linkerbot[cite: 2]. Honestly, watching this thing crack an egg without smashing the yolk proves that we are crossing the uncanny valley of robotic dexterity. Our future chefs and assembly workers are definitely going to have metal fingers!",
+    "raw_text": "Okay, you have to see what Genesis AI just dropped. Backed by Eric Schmidt, this French robotics startup just unveiled their new GENE-26.5 robot brain, and it comes with a robotic hand that is terrifyingly human-like. We aren't just talking about picking up boxes anymore. They demonstrated this robot hand literally chopping tomatoes, cracking eggs perfectly, solving a Rubik's Cube, and even playing the piano! Seriously, playing the piano with two robot hands! The GENE-26.5 model is designed to be a universal controller that can run different commercial robots across tons of industries like automotive and pharma. It\u2019s a massive flex for Europe's push into the robotics space, directly challenging global rivals like China's Linkerbot. Honestly, watching this thing crack an egg without smashing the yolk proves that we are crossing the uncanny valley of robotic dexterity. Our future chefs and assembly workers are definitely going to have metal fingers!",
     "id": "BZ447PM9",
     "category": "Robotics",
-    "companies": ["Genesis AI"],
-    "people": ["Eric Schmidt"],
-    "created_at": "2026-05-06T17:56:20Z"
+    "companies": [
+      "Genesis AI"
+    ],
+    "people": [
+      "Eric Schmidt"
+    ],
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/BZ447PM9.png",
+    "image_prompt": "Realistic news photo: close-up of a highly dexterous robotic hand with metallic fingers over a wooden kitchen table, chopping tomatoes beside a cracked egg and cookware; in background, a Rubik\u2019s Cube mid-solve and softly lit piano keys. Bright studio lighting, shallow depth of field, high detail, natural colors."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 2",
     "page": 1,
     "title": "AI Data Centers Are Going Nuclear: NANO Nuclear & Supermicro Team Up",
-    "summary": "NANO Nuclear and Supermicro signed a strategic MOU to integrate advanced nuclear microreactors directly into AI data center power systems[cite: 2]. This partnership aims to provide scalable, 24/7 grid-independent clean baseload power to meet the skyrocketing energy demands of AI computation[cite: 2].",
+    "summary": "NANO Nuclear and Supermicro signed a strategic MOU to integrate advanced nuclear microreactors directly into AI data center power systems. This partnership aims to provide scalable, 24/7 grid-independent clean baseload power to meet the skyrocketing energy demands of AI computation.",
     "engagement": "High",
-    "raw_text": "Here is a headline I didn't expect to read today: AI data centers are literally going nuclear! NANO Nuclear just signed a massive agreement with Supermicro to power the next generation of AI servers[cite: 2]. Here is the wild part—they are planning to deploy small nuclear microreactors on-site at these data centers[cite: 2]. NANO’s chairman, Jay Yu, flat out said that the AI revolution is fundamentally an energy challenge now, and nuclear is the only scalable solution[cite: 2]. By combining these advanced reactors with Supermicro's AI server racks and cooling infrastructure, they want to create completely self-powered, grid-independent AI bases[cite: 2]. Honestly, this makes total sense. AI uses an insane amount of electricity, and relying on traditional grids is bottlenecking progress. If we want 24/7, uninterrupted, clean baseload power to train the next massive models, slapping a microreactor next to the GPU clusters might be the only viable way forward. Welcome to the atomic AI age!",
+    "raw_text": "Here is a headline I didn't expect to read today: AI data centers are literally going nuclear! NANO Nuclear just signed a massive agreement with Supermicro to power the next generation of AI servers. Here is the wild part\u2014they are planning to deploy small nuclear microreactors on-site at these data centers. NANO\u2019s chairman, Jay Yu, flat out said that the AI revolution is fundamentally an energy challenge now, and nuclear is the only scalable solution. By combining these advanced reactors with Supermicro's AI server racks and cooling infrastructure, they want to create completely self-powered, grid-independent AI bases. Honestly, this makes total sense. AI uses an insane amount of electricity, and relying on traditional grids is bottlenecking progress. If we want 24/7, uninterrupted, clean baseload power to train the next massive models, slapping a microreactor next to the GPU clusters might be the only viable way forward. Welcome to the atomic AI age!",
     "id": "QA119LK2",
     "category": "Infrastructure",
-    "companies": ["NANO Nuclear", "Supermicro"],
-    "people": ["Jay Yu"],
-    "created_at": "2026-05-06T17:56:20Z"
+    "companies": [
+      "NANO Nuclear",
+      "Supermicro"
+    ],
+    "people": [
+      "Jay Yu"
+    ],
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/QA119LK2.png",
+    "image_prompt": "Realistic high-tech news photo: futuristic AI data center with glowing server racks, subtle neon, and a compact nuclear microreactor module integrated into visible power infrastructure; dramatic dusk lighting, clean baseload energy concept, ultra-detailed, sharp focus, cinematic, no text."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 1",
     "page": 1,
     "title": "Ghost Trucks on the Highway: Aurora Launches Fully Driverless Freight",
-    "summary": "Aurora Innovation and McLane Company have successfully launched fully driverless commercial freight operations along the Dallas-Houston corridor following a 280,000-mile pilot[cite: 1]. The hybrid system uses autonomous Aurora Drivers for continuous long-haul segments and human drivers for complex last-mile terminal navigation[cite: 1].",
+    "summary": "Aurora Innovation and McLane Company have successfully launched fully driverless commercial freight operations along the Dallas-Houston corridor following a 280,000-mile pilot. The hybrid system uses autonomous Aurora Drivers for continuous long-haul segments and human drivers for complex last-mile terminal navigation.",
     "engagement": "High",
-    "raw_text": "Are you driving in Texas anytime soon? Because you might be sharing the highway with ghost trucks. Aurora Innovation and McLane Company just transitioned to fully driverless commercial freight operations between Dallas and Houston[cite: 1]! After running a crazy 280,000-mile supervised pilot program that delivered 1,400 loads with a perfect 100% on-time record, they officially pulled the safety drivers out[cite: 1]. The way it works is brilliant: the autonomous Aurora Driver handles the boring, high-speed, middle-mile highway driving 24 hours a day[cite: 1]. Then, when the truck hits a terminal hub, an actual human McLane driver takes over for the tricky 'last-mile' navigation to restaurants and retailers[cite: 1]. Honestly, this is a massive shift. It directly counters systemic labor shortages in the trucking industry while keeping human expertise exactly where complex maneuvering is actually needed[cite: 1]. They intend to rapidly expand this capacity across the US Sun Belt throughout 2026[cite: 1]. Autonomous 18-wheelers are officially mainstream.",
+    "raw_text": "Are you driving in Texas anytime soon? Because you might be sharing the highway with ghost trucks. Aurora Innovation and McLane Company just transitioned to fully driverless commercial freight operations between Dallas and Houston! After running a crazy 280,000-mile supervised pilot program that delivered 1,400 loads with a perfect 100% on-time record, they officially pulled the safety drivers out. The way it works is brilliant: the autonomous Aurora Driver handles the boring, high-speed, middle-mile highway driving 24 hours a day. Then, when the truck hits a terminal hub, an actual human McLane driver takes over for the tricky 'last-mile' navigation to restaurants and retailers. Honestly, this is a massive shift. It directly counters systemic labor shortages in the trucking industry while keeping human expertise exactly where complex maneuvering is actually needed. They intend to rapidly expand this capacity across the US Sun Belt throughout 2026. Autonomous 18-wheelers are officially mainstream.",
     "id": "VN883WQ4",
     "category": "Mobile",
-    "companies": ["Aurora Innovation", "McLane Company", "Berkshire Hathaway"],
+    "companies": [
+      "Aurora Innovation",
+      "McLane Company",
+      "Berkshire Hathaway"
+    ],
     "people": [],
-    "created_at": "2026-05-06T17:56:20Z"
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/VN883WQ4.png",
+    "image_prompt": "Realistic news photo, dawn on the Dallas\u2013Houston highway: sleek driverless freight truck convoy with Aurora-style autonomous cab on distant horizon, slight mist, glowing sky, modern terminals far back; cinematic lighting, sharp detail, natural colors, shallow depth of field, no text."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 1",
     "page": 1,
     "title": "Google DeepMind is Using Eve Online to Train AI Wall Street Traders",
-    "summary": "Google DeepMind acquired a minority stake in the developer of Eve Online to train sophisticated AI agents within the game's complex, player-driven economy[cite: 1]. This initiative is designed to cultivate agents capable of advanced economic reasoning, resource allocation, and multi-agent negotiation for real-world corporate logistics and financial trading[cite: 1].",
+    "summary": "Google DeepMind acquired a minority stake in the developer of Eve Online to train sophisticated AI agents within the game's complex, player-driven economy. This initiative is designed to cultivate agents capable of advanced economic reasoning, resource allocation, and multi-agent negotiation for real-world corporate logistics and financial trading.",
     "engagement": "High",
-    "raw_text": "If you're a gamer, you already know Eve Online is less of a video game and more of a ruthless, spreadsheet-simulator of intergalactic capitalism. Well, check this out: Google DeepMind just bought an equity stake in the game's developer specifically to train their AI models inside the game[cite: 1]! Instead of training AI on boring static datasets or perfect-information games like chess, they are throwing these models into the most chaotic, human-driven sandbox imaginable[cite: 1]. Eve is notorious for corporate espionage, massive territorial wars, and incredibly intricate supply chains[cite: 1]. DeepMind wants its agents to learn how to negotiate, handle imperfect information, and master long-term resource allocation against actual scheming humans[cite: 1]. The craziest part? The strategic skills these agents learn in Eve Online are meant to translate directly into high-frequency financial trading and real-world corporate logistics[cite: 1]. Google is literally using a sci-fi MMO to build Wall Street's next algorithmic super-trader!",
+    "raw_text": "If you're a gamer, you already know Eve Online is less of a video game and more of a ruthless, spreadsheet-simulator of intergalactic capitalism. Well, check this out: Google DeepMind just bought an equity stake in the game's developer specifically to train their AI models inside the game! Instead of training AI on boring static datasets or perfect-information games like chess, they are throwing these models into the most chaotic, human-driven sandbox imaginable. Eve is notorious for corporate espionage, massive territorial wars, and incredibly intricate supply chains. DeepMind wants its agents to learn how to negotiate, handle imperfect information, and master long-term resource allocation against actual scheming humans. The craziest part? The strategic skills these agents learn in Eve Online are meant to translate directly into high-frequency financial trading and real-world corporate logistics. Google is literally using a sci-fi MMO to build Wall Street's next algorithmic super-trader!",
     "id": "PL299RT5",
     "category": "AI",
-    "companies": ["Google DeepMind", "Google"],
+    "companies": [
+      "Google DeepMind",
+      "Google"
+    ],
     "people": [],
-    "created_at": "2026-05-06T17:56:20Z"
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/PL299RT5.png",
+    "image_prompt": "Photoreal tech-news scene: a cinematic split view of a futuristic Wall Street trading floor and a dim eve-like space hangar. In the center, a translucent AI agent hologram maps starports to supply routes, with glowing data lines, muted blues and golds, dramatic lighting, ultra-detailed, shallow depth of field."
   },
   {
     "date": "2026-05-06",
     "source_file": "Combined",
     "page": 1,
     "title": "NVIDIA Injects $500M into Corning to Reshore the AI Supply Chain",
-    "summary": "NVIDIA and Corning announced a long-term, $500 million manufacturing partnership to expand domestic optical connectivity capacity by a factor of ten[cite: 1, 2]. The initiative will construct three new advanced manufacturing facilities in the US, creating over 3,000 jobs to supply critical high-speed photonics for NVIDIA's GPU data centers[cite: 1, 2].",
+    "summary": "NVIDIA and Corning announced a long-term, $500 million manufacturing partnership to expand domestic optical connectivity capacity by a factor of ten. The initiative will construct three new advanced manufacturing facilities in the US, creating over 3,000 jobs to supply critical high-speed photonics for NVIDIA's GPU data centers.",
     "engagement": "Medium",
-    "raw_text": "We all know NVIDIA makes the chips that power the AI revolution, but here is a massive supply chain update you probably missed. NVIDIA just dropped half a billion dollars into a multiyear manufacturing partnership with glass-maker Corning[cite: 1, 2]. Why? Because traditional copper interconnects literally can't handle the thermal and latency constraints of stringing tens of thousands of GPUs together[cite: 1]. They absolutely need massive volumes of high-speed optical fiber and photonics to move data at the speed of light[cite: 1, 2]. Corning is taking this cash to build three massive new plants across Texas and North Carolina, creating over 3,000 domestic jobs and boosting U.S. optical capacity by ten times[cite: 1, 2]. Jensen Huang himself framed this as a once-in-a-generation opportunity to reinvigorate American manufacturing[cite: 1, 2]. Honestly, this is a very smart geopolitical play. It insulates the foundational hardware of the AI boom from overseas shipping bottlenecks and ensures critical infrastructure is domestically sourced[cite: 1].",
+    "raw_text": "We all know NVIDIA makes the chips that power the AI revolution, but here is a massive supply chain update you probably missed. NVIDIA just dropped half a billion dollars into a multiyear manufacturing partnership with glass-maker Corning. Why? Because traditional copper interconnects literally can't handle the thermal and latency constraints of stringing tens of thousands of GPUs together. They absolutely need massive volumes of high-speed optical fiber and photonics to move data at the speed of light. Corning is taking this cash to build three massive new plants across Texas and North Carolina, creating over 3,000 domestic jobs and boosting U.S. optical capacity by ten times. Jensen Huang himself framed this as a once-in-a-generation opportunity to reinvigorate American manufacturing. Honestly, this is a very smart geopolitical play. It insulates the foundational hardware of the AI boom from overseas shipping bottlenecks and ensures critical infrastructure is domestically sourced.",
     "id": "XC552BN7",
     "category": "Hardware",
-    "companies": ["NVIDIA", "Corning Incorporated"],
-    "people": ["Jensen Huang"],
-    "created_at": "2026-05-06T17:56:20Z"
+    "companies": [
+      "NVIDIA",
+      "Corning Incorporated"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/XC552BN7.png",
+    "image_prompt": "Photorealistic newsroom-style image: NVIDIA and Corning executives shaking hands beside a sleek fiber-optic manufacturing line; three glowing US factory silhouettes in background, optical cables and photonics components, subtle circuit patterns, warm sunrise mood, high detail, cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 2",
     "page": 2,
     "title": "Anthropic's $200 Billion Cloud Deal & A Warning to Software Giants",
-    "summary": "Anthropic committed to spending $200 billion on Google Cloud over five years, securing massive compute capacity including Broadcom TPUs[cite: 2]. Concurrently, Anthropic CEO Dario Amodei warned that AI automation could bankrupt traditional SaaS companies as the firm launched 10 new finance-focused AI agents[cite: 2].",
+    "summary": "Anthropic committed to spending $200 billion on Google Cloud over five years, securing massive compute capacity including Broadcom TPUs. Concurrently, Anthropic CEO Dario Amodei warned that AI automation could bankrupt traditional SaaS companies as the firm launched 10 new finance-focused AI agents.",
     "engagement": "High",
-    "raw_text": "Anthropic just dropped two bombshells that have the entire tech and finance world talking. First, Reuters reported they just committed to spending an absolutely mind-bending $200 billion on Google Cloud over the next five years[cite: 2]! That is an insane amount of money and shows just how compute-hungry these frontier models are getting[cite: 2]. But here is the part you really need to care about: while launching 10 new specialized AI agents for banks and insurers, Anthropic's CEO, Dario Amodei, issued a chilling warning[cite: 2]. He flat out told reporters that current Software-as-a-Service companies could lose market value, go bankrupt, and completely go bust if they don't adapt to AI-driven automation[cite: 2]. Think about that. The guy building the foundational AI is telling traditional software makers that their products are about to be entirely obsolete. If I'm running a traditional B2B SaaS startup right now, I'm terrified. The pivot from static software tools to autonomous agents is happening right now.",
+    "raw_text": "Anthropic just dropped two bombshells that have the entire tech and finance world talking. First, Reuters reported they just committed to spending an absolutely mind-bending $200 billion on Google Cloud over the next five years! That is an insane amount of money and shows just how compute-hungry these frontier models are getting. But here is the part you really need to care about: while launching 10 new specialized AI agents for banks and insurers, Anthropic's CEO, Dario Amodei, issued a chilling warning. He flat out told reporters that current Software-as-a-Service companies could lose market value, go bankrupt, and completely go bust if they don't adapt to AI-driven automation. Think about that. The guy building the foundational AI is telling traditional software makers that their products are about to be entirely obsolete. If I'm running a traditional B2B SaaS startup right now, I'm terrified. The pivot from static software tools to autonomous agents is happening right now.",
     "id": "YT112QE8",
     "category": "Business",
-    "companies": ["Anthropic", "Google", "Broadcom"],
-    "people": ["Dario Amodei"],
-    "created_at": "2026-05-06T17:56:20Z"
+    "companies": [
+      "Anthropic",
+      "Google",
+      "Broadcom"
+    ],
+    "people": [
+      "Dario Amodei"
+    ],
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/YT112QE8.png",
+    "image_prompt": "Realistic editorial photo: a sleek data center with glowing server racks and Google Cloud\u2013style light patterns, a subtle AI circuit overlay, and a distant corporate skyline at dusk. Foreground: shadowy decision-maker silhouette beside a network cable. Moody, high-contrast, newsworthy. No text."
   },
   {
     "date": "2026-05-06",
     "source_file": "Source 1",
     "page": 1,
     "title": "Meta AI's Tuna-2 Strips the Bloat from Multimodal AI",
-    "summary": "Meta AI introduced 'Tuna-2,' a unified multimodal model that performs visual understanding and generation directly from raw pixel embeddings[cite: 1]. By bypassing traditional pretrained vision encoders, Tuna-2 removes major latency and parameter-weight bottlenecks while achieving state-of-the-art multimodal benchmarking[cite: 1].",
+    "summary": "Meta AI introduced 'Tuna-2,' a unified multimodal model that performs visual understanding and generation directly from raw pixel embeddings. By bypassing traditional pretrained vision encoders, Tuna-2 removes major latency and parameter-weight bottlenecks while achieving state-of-the-art multimodal benchmarking.",
     "engagement": "Medium",
-    "raw_text": "For all my AI developers out there, multimodal architecture just got a massive simplification. Meta AI just dropped Tuna-2, and it is a technical game-changer[cite: 1]. Traditionally, if you wanted an AI to understand an image, you had to run it through a clunky pretrained vision encoder first, which eats up parameters and adds annoying latency[cite: 1]. Tuna-2 completely bypasses that step. It understands and generates visuals straight from raw pixel embeddings[cite: 1]. That means we are stripping away the bloated middle encoding layers, dropping latency, and still hitting state-of-the-art performance on the multimodal benchmarks[cite: 1]. It’s a bit in the weeds for the average consumer, but from an engineering perspective, this is a massive leap forward in efficiency. Less compute overhead means faster, cheaper, and more responsive AI models running closer to the edge. Keep an eye on Hugging Face because the open-source community is going to have a field day optimizing this unified architecture[cite: 1].",
+    "raw_text": "For all my AI developers out there, multimodal architecture just got a massive simplification. Meta AI just dropped Tuna-2, and it is a technical game-changer. Traditionally, if you wanted an AI to understand an image, you had to run it through a clunky pretrained vision encoder first, which eats up parameters and adds annoying latency. Tuna-2 completely bypasses that step. It understands and generates visuals straight from raw pixel embeddings. That means we are stripping away the bloated middle encoding layers, dropping latency, and still hitting state-of-the-art performance on the multimodal benchmarks. It\u2019s a bit in the weeds for the average consumer, but from an engineering perspective, this is a massive leap forward in efficiency. Less compute overhead means faster, cheaper, and more responsive AI models running closer to the edge. Keep an eye on Hugging Face because the open-source community is going to have a field day optimizing this unified architecture.",
     "id": "RE448TY0",
     "category": "AI",
-    "companies": ["Meta"],
+    "companies": [
+      "Meta"
+    ],
     "people": [],
-    "created_at": "2026-05-06T17:56:20Z"
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/RE448TY0.png",
+    "image_prompt": "Futuristic newsroom hero image: a sleek GPU-like chip exhaling streamlined \u201cdata vapor\u201d that clears bulky blocks into clean flowing light, over a city skyline at dawn; neon-blue multimodal signals swirl from pixel-grid to crisp holograms; cinematic lighting, high realism, sharp detail, no text."
   },
   {
     "date": "2026-05-06",
     "source_file": "Combined",
     "page": 1,
     "title": "IBM Locks Down Enterprise AI with Context and Process Studio",
-    "summary": "IBM expanded its Enterprise Advantage platform at the Think 2026 conference, introducing Context Studio and Process Studio[cite: 1, 2]. These tools allow highly regulated enterprises to deploy sovereign, custom-grounded AI agents that convert legacy standard operating procedures into automated workflows while ensuring data privacy[cite: 1, 2].",
+    "summary": "IBM expanded its Enterprise Advantage platform at the Think 2026 conference, introducing Context Studio and Process Studio. These tools allow highly regulated enterprises to deploy sovereign, custom-grounded AI agents that convert legacy standard operating procedures into automated workflows while ensuring data privacy.",
     "engagement": "Low",
-    "raw_text": "Alright, let's talk about the corporate side of the AI boom, because the big blue giant is making serious, foundational moves. IBM just hosted their Think 2026 conference in Boston and rolled out some massive updates to their Enterprise Advantage platform[cite: 1, 2]. They introduced 'Context Studio' and 'Process Studio', which are software tools designed to help massive, highly-regulated corporations build their own custom AI agents[cite: 1, 2]. Now, I know enterprise software isn't the sexiest topic on your feed, but here is why it actually matters: huge companies are terrified of IP data leaks[cite: 1, 2]. IBM's new tools let them ingest thousands of old, legacy operating procedures and automatically convert them into dynamic AI workflows, all while keeping their data completely locked down and digitally sovereign[cite: 1, 2]. In their trials, clients have already uncovered thousands of efficiency opportunities projecting 25% cost savings[cite: 1, 2]. It’s low engagement for the casual scroller, but for the enterprise world, this is exactly what they've been waiting for.",
+    "raw_text": "Alright, let's talk about the corporate side of the AI boom, because the big blue giant is making serious, foundational moves. IBM just hosted their Think 2026 conference in Boston and rolled out some massive updates to their Enterprise Advantage platform. They introduced 'Context Studio' and 'Process Studio', which are software tools designed to help massive, highly-regulated corporations build their own custom AI agents. Now, I know enterprise software isn't the sexiest topic on your feed, but here is why it actually matters: huge companies are terrified of IP data leaks. IBM's new tools let them ingest thousands of old, legacy operating procedures and automatically convert them into dynamic AI workflows, all while keeping their data completely locked down and digitally sovereign. In their trials, clients have already uncovered thousands of efficiency opportunities projecting 25% cost savings. It\u2019s low engagement for the casual scroller, but for the enterprise world, this is exactly what they've been waiting for.",
     "id": "ZA992KJ3",
     "category": "Business",
-    "companies": ["IBM"],
+    "companies": [
+      "IBM"
+    ],
     "people": [],
-    "created_at": "2026-05-06T17:56:20Z"
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/ZA992KJ3.png",
+    "image_prompt": "Photorealistic newsroom tech scene at a futuristic conference: IBM executives unveiling a holographic interface labeled \u201cContext/Process Studio\u201d (no text visible), secure server room glow, AI agent icons flowing from archived SOP documents into clean workflow diagrams, corporate blue lighting, shallow depth of field."
   },
   {
     "date": "2026-05-06",
     "source_file": "Combined",
     "page": 1,
     "title": "ServiceNow & Accenture Launch AI Special Ops Teams for IT",
-    "summary": "ServiceNow and Accenture launched the Forward Deployed Engineering (FDE) program at the Knowledge 2026 conference to embed AI-native engineering pods directly into client IT environments[cite: 1, 2]. The initiative provides enterprises immediate access to over 300 pre-built agent skills governed by the ServiceNow AI Control Tower to scale agentic workflows[cite: 1, 2].",
+    "summary": "ServiceNow and Accenture launched the Forward Deployed Engineering (FDE) program at the Knowledge 2026 conference to embed AI-native engineering pods directly into client IT environments. The initiative provides enterprises immediate access to over 300 pre-built agent skills governed by the ServiceNow AI Control Tower to scale agentic workflows.",
     "engagement": "Low",
-    "raw_text": "We all know companies want to use AI to save money, but the truth is, most of them have absolutely no idea how to actually integrate it safely. To bridge this delivery gap, ServiceNow and Accenture just launched a massive joint initiative called the Forward Deployed Engineering program[cite: 1, 2]. Basically, instead of just handing a company a theoretical AI architecture document and wishing them luck, they are physically embedding their own AI engineers directly into the client's localized IT environments[cite: 1, 2]. It’s essentially a corporate special ops team for AI. These pods co-build custom agentic workflows right on the client's existing ServiceNow platform, utilizing a repository of over 300 pre-built AI agent skills[cite: 1, 2]. Everything is strictly managed by ServiceNow's AI Control Tower to enforce security guardrails[cite: 1, 2]. Let’s be real, this is deep B2B pipeline stuff, but it transitions artificial intelligence from an isolated corporate experiment into a core driver of operational velocity[cite: 1].",
+    "raw_text": "We all know companies want to use AI to save money, but the truth is, most of them have absolutely no idea how to actually integrate it safely. To bridge this delivery gap, ServiceNow and Accenture just launched a massive joint initiative called the Forward Deployed Engineering program. Basically, instead of just handing a company a theoretical AI architecture document and wishing them luck, they are physically embedding their own AI engineers directly into the client's localized IT environments. It\u2019s essentially a corporate special ops team for AI. These pods co-build custom agentic workflows right on the client's existing ServiceNow platform, utilizing a repository of over 300 pre-built AI agent skills. Everything is strictly managed by ServiceNow's AI Control Tower to enforce security guardrails. Let\u2019s be real, this is deep B2B pipeline stuff, but it transitions artificial intelligence from an isolated corporate experiment into a core driver of operational velocity.",
     "id": "MW771PO6",
     "category": "Business",
-    "companies": ["ServiceNow", "Accenture"],
-    "people": ["John Aisien"],
-    "created_at": "2026-05-06T17:56:20Z"
+    "companies": [
+      "ServiceNow",
+      "Accenture"
+    ],
+    "people": [
+      "John Aisien"
+    ],
+    "created_at": "2026-05-06T17:56:20Z",
+    "image_url": "images/07_05_26/MW771PO6.png",
+    "image_prompt": "Realistic photo-illustration news image: futuristic yet professional IT operations center with glowing AI holograms, diverse engineers in modern office collaborating, server racks and cloud data visuals, subtle \u201cpod\u201d concept lighting, Accenture/ServiceNow neutral branding vibes, crisp lighting, high detail, no text."
   }
 ]
