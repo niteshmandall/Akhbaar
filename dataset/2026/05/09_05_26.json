@@ -1,0 +1,166 @@
+[
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 4,
+    "title": "Anthropic Teams Up With Elon Musk's SpaceX for Massive AI Data Center",
+    "summary": "Anthropic, which recently achieved a $380 billion valuation following a $30 billion Series G funding round, has formed a partnership with SpaceX. This alliance aims to secure compute capacity at the 'Colossus 1' data center to maintain multi-cloud infrastructure resilience.",
+    "engagement": "Medium",
+    "raw_text": "Listen to this, the AI infrastructure wars are making for some very strange bedfellows. Anthropic just closed an absolutely monstrous $30 billion funding round, giving them a valuation of $380 billion. But money doesn't matter if you don't have the compute power to train your models. So what did they do? They just inked a massive partnership with Elon Musk's SpaceX to get server space at the 'Colossus 1' data center. I honestly find this fascinating because it shows how desperate these top-tier AI labs are to secure hardware. Anthropic's CFO basically said they are doing this so they don't become captive to a single cloud provider like AWS or Google. By spreading their compute across multiple ecosystems, including SpaceX, they are building serious resilience. If you want to know how crucial physical data centers have become, just look at the fact that one of the top AI labs is partnering with a space exploration company just to plug in their servers!",
+    "id": "A9B8C7D6E5",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "SpaceX"
+    ],
+    "people": [
+      "Elon Musk",
+      "Krishna Rao"
+    ],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-08",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 6,
+    "title": "Is Google Chrome Silently Downloading AI onto Your Computer?",
+    "summary": "Reports indicate that the Google Chrome browser is silently downloading a localized 4GB artificial intelligence model directly to user devices without requiring explicit permission. This move highlights an aggressive industry push toward edge-compute integration.",
+    "engagement": "High",
+    "raw_text": "Okay, you might want to check your hard drive space because this is wild. Reports are coming out that Google Chrome is silently downloading a 4GB localized AI model directly onto users' devices. And here is the kicker—they are doing it without asking for explicit permission. We all know the tech industry is pushing hard for 'edge computing,' which basically means running AI locally on your machine instead of in the cloud to save on server costs and reduce latency. But quietly dropping a 4-gigabyte file onto millions of computers in the background is a massively aggressive move! Google is also rolling out their Gemma 4 models right now which are supposed to be three times faster at generating text. So, it looks like they are trying to turn your everyday web browser into an autonomous AI engine that uses your own computer's hardware. It’s a brilliant technical move, but man, the privacy and consent implications of just silently hoarding gigabytes of local storage are definitely going to cause some serious backlash.",
+    "id": "F5G4H3I2J1",
+    "category": "Software",
+    "companies": [
+      "Google",
+      "Alphabet Inc."
+    ],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-08",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 8,
+    "title": "Mind Control? Scientists Say Cannabis Can Actually Rewrite Your Memories",
+    "summary": "New neurobiological findings indicate that THC, the active compound in cannabis, can actively rewrite human memories. Instead of merely erasing memories, the substance can cause subjects to recall events that never actually occurred.",
+    "engagement": "High",
+    "raw_text": "Here is some science news that sounds like it came straight out of a psychological thriller. A new breakthrough in neurobiology just dropped, and it revolves around THC, the active compound in cannabis. For years, the stereotype has been that getting high just makes you forgetful or erases your short-term memory. But new findings show it is way more complicated and honestly a bit scary. Scientists have discovered that THC can actively rewrite your memories. It can literally cause subjects to vividly remember events that never actually happened. We are talking about fundamentally altering your brain's historical data! I find this absolutely mind-blowing because it shifts the conversation from simple memory loss to actual memory fabrication. If a widely used substance can trick your brain into believing false past events, that opens up a massive can of worms for everything from mental health treatments to the reliability of eyewitness testimonies in legal cases. The human brain is wild!",
+    "id": "K1L9M8N7O6",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 3,
+    "title": "The AI Energy Crisis: Why Datacenters Are Taking Over Old Crypto Mines",
+    "summary": "Morgan Stanley projects a U.S. power shortfall of 9 to 18 gigawatts by 2028 driven by AI infrastructure demands. To circumvent these deficits, developers are converting legacy cryptocurrency mining operations and deploying industrial fuel cells.",
+    "engagement": "Medium",
+    "raw_text": "So we have a massive problem brewing in the AI space, and it isn't about software—it’s about electricity. A new report from Morgan Stanley is warning that the U.S. is facing a catastrophic power deficit. They project we will be short anywhere from 9 to 18 gigawatts of power by 2028 just trying to keep these AI models running. That is a 25% deficit in the electricity the sector needs! Because AI requires so much juice, developers aren't even waiting for traditional power grids to expand. Instead, they are literally taking over abandoned, legacy cryptocurrency mining facilities because they already have the massive electrical hookups required. Some companies are even firing up natural gas turbines just to keep their data centers online. We are entering this weird '15-15-15' economy where 15-year leases on these facilities are the hottest commodity in the world. The race for artificial intelligence is officially a race for raw energy.",
+    "id": "P6Q5R4S3T2",
+    "category": "Infrastructure",
+    "companies": [
+      "Morgan Stanley"
+    ],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 9,
+    "title": "These New AI Earbuds Translate Languages in Real-Time Without the Internet",
+    "summary": "The newly released SAG S9S AI open earbuds transform standard audio hardware into persistent smart assistants. The device is capable of executing real-time, zero-latency language translation and speech transcription entirely on-device without relying on cloud processing.",
+    "engagement": "Medium",
+    "raw_text": "I absolutely love when AI actually results in cool consumer hardware, and these new earbuds are exactly that. The SAG S9S AI open earbuds just launched, and they are basically a supercomputer for your ears. Usually, if you want live translation, your phone has to record the audio, send it to the cloud, process it, and send it back. It’s clunky and slow. But the S9S earbuds have managed to miniaturize the AI inference so much that it all happens entirely on-device. That means you get zero-latency, real-time language translation and live speech transcription straight into your ear, even if you are totally offline. They also do immersive spatial sound by continuously monitoring your environmental context. Honestly, we are moving past the era of pulling out our phones to ask an AI a question. Ambient computing is here, where our wearables just persistently listen and assist us autonomously. This is the kind of practical AI hardware that changes how we travel and communicate!",
+    "id": "U2V1W9X8Y7",
+    "category": "Hardware",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 10,
+    "title": "TikTok Hit With Massive $400 Million Settlement Over Child Privacy",
+    "summary": "ByteDance's TikTok is reportedly finalizing a $400 million settlement with the U.S. government regarding ongoing investigations into child privacy violations. This highlights an escalating regulatory zero-tolerance policy for algorithmic engagement mechanics that target minors.",
+    "engagement": "High",
+    "raw_text": "If you thought the regulatory heat on social media was cooling down, think again. ByteDance’s TikTok is reportedly on the verge of handing over a massive $400 million settlement to the U.S. government. The investigation stems from high-profile child privacy violations on the platform. Honestly, a fine of almost half a billion dollars is a massive wake-up call to the entire industry. The government is proving that they have an absolute zero-tolerance policy when it comes to algorithmic engagement mechanics that are specifically designed to target minors. We are seeing a huge legal shift where these tech conglomerates can't just brush off privacy concerns as a minor cost of doing business. Between this and Meta trying to build AI to scan bone structures for age verification, the pressure to police young users is at an all-time high. The days of unregulated algorithmic feeds feeding data to minors are coming to a very expensive end.",
+    "id": "Z7A6B5C4D3",
+    "category": "Business",
+    "companies": [
+      "ByteDance",
+      "TikTok"
+    ],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-08",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 6,
+    "title": "AI Hackers Are Beating Human Cybersecurity Experts in Live Tests",
+    "summary": "A Stanford study demonstrated that an AI agent named ARTEMIS successfully outperformed human cybersecurity professionals during live network defense exercises. The industry is rapidly shifting toward AI-powered Network Detection and Response systems to counter autonomous cyber intrusions.",
+    "engagement": "Medium",
+    "raw_text": "We always talk about AI replacing writers and artists, but what about cybersecurity professionals? A recent study out of Stanford is making serious waves because an AI agent named ARTEMIS was put to the test on a live university network, and it actually outperformed human cybersecurity experts! The reality is that static defenses and traditional anti-virus signatures are completely obsolete against agentic AI. Hackers are using autonomous AI to constantly pivot and find new network paths, so defenders have to use AI-powered Network Detection and Response (NDR) systems to fight back. It is literally AI versus AI on the battlefield now. These defensive systems don't look for specific malware; they look for the subtle behavioral anomalies that happen when a rogue AI tries to move laterally through a network. Honestly, if you work in IT or security, this is your new reality. You are no longer just fighting human hackers in hoodies; you are fighting tireless, autonomous code.",
+    "id": "E3F4G5H6I7",
+    "category": "Cybersecurity",
+    "companies": [
+      "Stanford"
+    ],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 8,
+    "title": "Programmable DNA Robots Are Now Hunting Viruses Inside the Human Body",
+    "summary": "Researchers have achieved a breakthrough in bio-computing by creating programmable machines utilizing DNA folding techniques. These microscopic DNA robots are capable of delivering targeted drugs, hunting viruses, and constructing molecular-scale devices.",
+    "engagement": "High",
+    "raw_text": "You guys have to hear about this because it feels like we are living in the year 3000. Researchers have just made a massive leap in the field of bio-computing by creating literal DNA robots. Yes, you heard that right! Using advanced DNA folding techniques, they have built tiny, programmable machines out of genetic material. These aren't robots made of metal and wires; they are biological constructs that are small enough to exist inside the human bloodstream. And what are they doing? They are actively being programmed to hunt down viruses and deliver targeted drug therapies right to the source of an infection. They can even construct molecular-scale devices inside of us. Honestly, this completely blurs the line between artificial intelligence and biology. Imagine getting a shot not of a traditional medicine, but of billions of microscopic programmable robots that seek and destroy disease at the molecular level. Medical science is leveling up in a way that is hard to even comprehend!",
+    "id": "J8K9L0M1N2",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-07",
+    "source_file": "AI Research & Breakthroughs (3).pdf",
+    "page": 1,
+    "title": "AMD Strikes Back at Nvidia With a Plug-and-Play AI GPU for Anyone",
+    "summary": "AMD has launched the Instinct MI350P, a dual-slot PCIe plug-in accelerator designed specifically for AI inference. This hardware allows enterprises to integrate AI capabilities into standard air-cooled servers without requiring massive, proprietary GPU arrays or specialized cooling infrastructure.",
+    "engagement": "Medium",
+    "raw_text": "It’s no secret that Nvidia has a total chokehold on the AI hardware market right now, but AMD is officially striking back in a very smart way. They just launched the Instinct MI350P. Instead of selling massive, insanely expensive server racks that require liquid cooling, this is a standard dual-slot PCIe plug-in card. That means a business can literally just slot this into their existing, normal air-cooled servers. It comes packed with 144 GB of memory and pushes some crazy tensor performance. Why is this a big deal? Because it democratizes AI hardware. It lowers the barrier to entry so smaller enterprises can experiment with running AI inference—like their own local language models—without committing millions of dollars to overhauling their entire data center. Nvidia might be building gigawatt 'AI Factories,' but AMD is providing the plug-and-play solution for the everyday business trying to catch up in the AI race. Competition is exactly what this industry needs right now!",
+    "id": "O3P4Q5R6S7",
+    "category": "Hardware",
+    "companies": [
+      "AMD",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  },
+  {
+    "date": "2026-05-06",
+    "source_file": "Tech News Aggregation With Exclusion List (10).docx",
+    "page": 9,
+    "title": "The FDA Just Replaced Human Data Entry With an Autonomous AI",
+    "summary": "The U.S. Food and Drug Administration has deployed Elsa 4.0, integrating it directly into the new HALO data platform. This architecture inversion allows FDA personnel to instantly query 40 disparate data sources autonomously, drastically accelerating the clinical trial review timeline.",
+    "engagement": "Low",
+    "raw_text": "Even the most heavily regulated government agencies are completely overhauling their workflows with AI. The U.S. Food and Drug Administration just announced a massive infrastructure upgrade by deploying an advanced AI tool called Elsa 4.0. They took 40 different messy data sources and consolidated them into one platform, and instead of humans manually uploading files to the AI, they put Elsa directly on top of the data. According to their Chief AI Officer, this 'architecture inversion' means FDA reviewers can instantly query massive medical datasets and autonomously build workflows without lifting a finger for data entry. While enterprise data structuring isn't the sexiest topic, this fundamentally accelerates how fast clinical trials get reviewed and how quickly new therapeutics hit the market. It’s a perfect example of agentic engineering happening in the real world. When the FDA starts replacing manual paperwork with autonomous AI platforms, you know the corporate world is changing forever.",
+    "id": "T8U9V0W1X2",
+    "category": "Business",
+    "companies": [
+      "U.S. Food and Drug Administration"
+    ],
+    "people": [
+      "Jeremy Walsh",
+      "Marty Makary"
+    ],
+    "created_at": "2026-05-09T11:32:41+05:30"
+  }
+]
