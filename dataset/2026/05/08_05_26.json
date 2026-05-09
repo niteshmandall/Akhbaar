@@ -6,8 +6,8 @@
     "title": "Apple Ditches TSMC Monopoly? Historic Intel Chip Deal Shocks Tech World!",
     "summary": "Apple and Intel have reached a preliminary agreement for Intel to manufacture advanced silicon for future Apple devices, breaking Apple's exclusive reliance on TSMC. The deal, brokered with heavy involvement from the U.S. government, aims to secure a sovereign supply chain and alleviate global foundry bottlenecks.",
     "engagement": "High",
-    "raw_text": "So check this out, this might be the biggest shift in the tech supply chain we've seen in a decade. Apple is officially teaming up with Intel to manufacture their future custom silicon. Yeah, you heard that right, Intel! For years, Apple has relied exclusively on TSMC for its M-series and A-series chips, but with the global AI boom, TSMC is completely maxed out making GPUs for Nvidia and AMD. Tim Cook essentially said their hands are tied because of foundry bottlenecks. So what happens? The U.S. government—which literally owns about 10% of Intel right now—stepped in and brokered a historic agreement to secure a sovereign supply chain. President Trump and Commerce Secretary Lutnick personally pushed for this. Intel's stock absolutely skyrocketed by 14% on the news, pushing their year-to-date gain to an insane 175%. Honestly, this is huge for both companies. Intel gets the ultimate validation that their turnaround plan under CEO Lip-Bu Tan is actually working, and Apple gets a critical, geographically isolated backup plan for their hardware. If you told me five years ago Apple would use Intel foundries, I’d have laughed, but the compute wars are changing everything!",
-    "id": "A1B2C3D4E5",
+    "raw_text": "So check this out, this might be the biggest shift in the tech supply chain we've seen in a decade. Apple is officially teaming up with Intel to manufacture their future custom silicon. Yeah, you heard that right, Intel! For years, Apple has relied exclusively on TSMC for its M-series and A-series chips, but with the global AI boom, TSMC is completely maxed out making GPUs for Nvidia and AMD. Tim Cook essentially said their hands are tied because of foundry bottlenecks. So what happens? The U.S. government\u2014which literally owns about 10% of Intel right now\u2014stepped in and brokered a historic agreement to secure a sovereign supply chain. President Trump and Commerce Secretary Lutnick personally pushed for this. Intel's stock absolutely skyrocketed by 14% on the news, pushing their year-to-date gain to an insane 175%. Honestly, this is huge for both companies. Intel gets the ultimate validation that their turnaround plan under CEO Lip-Bu Tan is actually working, and Apple gets a critical, geographically isolated backup plan for their hardware. If you told me five years ago Apple would use Intel foundries, I\u2019d have laughed, but the compute wars are changing everything!",
+    "id": "81fcbc99",
     "category": "Hardware",
     "companies": [
       "Apple",
@@ -20,7 +20,9 @@
       "Donald Trump",
       "Howard Lutnick"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/81fcbc99.png",
+    "image_prompt": "Photorealistic news image: sleek Apple-style device silhouettes beside Intel chip wafers; contrasting TSMC foundry line fading in background. Modern US Capitol-like backdrop with subtle government seal glow, conveying a historic deal. Dramatic lighting, shallow depth of field, ultra-high detail, no text."
   },
   {
     "date": "2026-05-07",
@@ -29,8 +31,8 @@
     "title": "NASA Just Put AI in Space! Meet Prithvi, the Orbiting Brain",
     "summary": "NASA and IBM have successfully deployed Prithvi, an open-source geospatial foundation model, onto orbiting satellite platforms. The AI demonstrated the ability to process Earth-observation imagery in real-time on-orbit, identifying floods and cloud cover before transmitting data to ground stations.",
     "engagement": "High",
-    "raw_text": "Here's something straight out of a sci-fi movie. NASA just successfully deployed the very first AI foundation model directly into space! It’s called Prithvi, and it’s an open-source geospatial AI co-developed by NASA and IBM. On May 7th, they beamed this model up to an orbiting satellite and an ISS payload. Why is this a big deal? Usually, satellites just snap photos and send raw data back to Earth, which takes time and bandwidth. But Prithvi was trained on 13 years of Earth-observation data. In its very first tests, this AI processed imagery on-orbit, detecting things like cloud cover and flooding before the data even reached the ground. Honestly, this is huge for disaster response. Imagine a satellite instantly flagging a wildfire or a tsunami in real-time without waiting for Earth-bound servers to crunch the numbers! NASA's chief data officer, Kevin Murphy, made it open-source too, which means developers around the world can build on it. We are officially bringing edge computing to the stars, and the possibilities for tracking climate and environmental changes are going to go off the charts!",
-    "id": "F6G7H8I9J0",
+    "raw_text": "Here's something straight out of a sci-fi movie. NASA just successfully deployed the very first AI foundation model directly into space! It\u2019s called Prithvi, and it\u2019s an open-source geospatial AI co-developed by NASA and IBM. On May 7th, they beamed this model up to an orbiting satellite and an ISS payload. Why is this a big deal? Usually, satellites just snap photos and send raw data back to Earth, which takes time and bandwidth. But Prithvi was trained on 13 years of Earth-observation data. In its very first tests, this AI processed imagery on-orbit, detecting things like cloud cover and flooding before the data even reached the ground. Honestly, this is huge for disaster response. Imagine a satellite instantly flagging a wildfire or a tsunami in real-time without waiting for Earth-bound servers to crunch the numbers! NASA's chief data officer, Kevin Murphy, made it open-source too, which means developers around the world can build on it. We are officially bringing edge computing to the stars, and the possibilities for tracking climate and environmental changes are going to go off the charts!",
+    "id": "5074459a",
     "category": "Space",
     "companies": [
       "NASA",
@@ -41,7 +43,9 @@
     "people": [
       "Kevin Murphy"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/5074459a.png",
+    "image_prompt": "Realistic cinematic photo of an Earth-observing satellite in orbit, subtle glowing AI circuitry overlay implied in reflections, planet Earth below with visible cloud bands and flood-darkened river paths, dramatic lighting, high detail, newsworthy, sharp focus, no text, no logos."
   },
   {
     "date": "2026-05-08",
@@ -50,15 +54,17 @@
     "title": "OpenAI Drops GPT-5.5 & A Terrifying 'Cyber' Hacker AI",
     "summary": "OpenAI has launched GPT-5.5 Instant as the new default model for ChatGPT, alongside a specialized GPT-5.5-Cyber model intended for advanced cybersecurity operations. The Cyber variant is explicitly engineered to ingest network topologies and execute functional malware exploits for vetted defenders, though early tests revealed severe jailbreak vulnerabilities.",
     "engagement": "High",
-    "raw_text": "Alright, OpenAI just dropped a massive update that nobody saw coming. We officially have GPT-5.5 Instant rolling out as the new default model for ChatGPT, completely replacing 5.3. But here's the wild part: they also quietly launched a dual-use variant called GPT-5.5-Cyber. This thing is specifically engineered for high-impact cybersecurity, and it’s basically a supercharged hacker AI. While the consumer version of ChatGPT will refuse to write malware for you, the Cyber variant is designed to help vetted defenders find zero-day vulnerabilities, ingest massive network topologies, and even execute exploits against live targets to test them. The UK's AI Safety Institute tested it and managed to engineer a 'universal jailbreak' in just six hours, which is honestly terrifying. OpenAI patched it, but it proves how insanely powerful this model is. On the consumer side, GPT-5.5 Instant is vastly reducing hallucinations and acting more like a personalized operational layer, even citing its memory sources so you can delete what it knows about you. The AI arms race isn't just about writing emails anymore; it's literally about cyber warfare and operating systems now!",
-    "id": "K1L2M3N4O5",
+    "raw_text": "Alright, OpenAI just dropped a massive update that nobody saw coming. We officially have GPT-5.5 Instant rolling out as the new default model for ChatGPT, completely replacing 5.3. But here's the wild part: they also quietly launched a dual-use variant called GPT-5.5-Cyber. This thing is specifically engineered for high-impact cybersecurity, and it\u2019s basically a supercharged hacker AI. While the consumer version of ChatGPT will refuse to write malware for you, the Cyber variant is designed to help vetted defenders find zero-day vulnerabilities, ingest massive network topologies, and even execute exploits against live targets to test them. The UK's AI Safety Institute tested it and managed to engineer a 'universal jailbreak' in just six hours, which is honestly terrifying. OpenAI patched it, but it proves how insanely powerful this model is. On the consumer side, GPT-5.5 Instant is vastly reducing hallucinations and acting more like a personalized operational layer, even citing its memory sources so you can delete what it knows about you. The AI arms race isn't just about writing emails anymore; it's literally about cyber warfare and operating systems now!",
+    "id": "82ae7d0e",
     "category": "AI",
     "companies": [
       "OpenAI",
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/82ae7d0e.png",
+    "image_prompt": "Realistic high-tech news photo: a dim server room with glowing neural network light trails, a sleek abstract AI core at center, split-screen vibe showing secure network maps vs ominous shadowy cyber figure made of code. Cinematic lighting, shallow depth of field, ultra-detailed, no text."
   },
   {
     "date": "2026-05-05",
@@ -67,8 +73,8 @@
     "title": "Facebook's New AI Scans Your Bone Structure to Guess Your Age",
     "summary": "Meta is deploying a new AI system across Facebook and Instagram that analyzes visual cues like height and bone structure to identify users under 13. The tool, which explicitly avoids facial recognition, temporarily deactivates suspected underage accounts pending age verification.",
     "engagement": "High",
-    "raw_text": "So Meta is rolling out a brand new AI feature for Facebook and Instagram, and it is definitely going to spark some serious privacy debates. Starting this month, Meta is going to use an AI system to analyze your profile photos and videos to guess your age. Yes, literally analyzing your bone structure and height to figure out if you're under 13. Now, Meta swears this isn't facial recognition—they are just looking at physiological cues. If the AI suspects a user is underage, their account gets instantly temporarily deactivated until they provide actual proof of age. On one hand, this is a massive step for child safety, especially after Meta got hit with a huge $375 million penalty recently. But honestly, the idea of an AI scanning your bone structure is a bit dystopian, right? What happens if it gets it wrong and flags an adult with a smaller stature? This is exactly how massive social platforms are trying to automate their compliance, but you can bet regulators and privacy advocates are going to be watching this incredibly closely.",
-    "id": "P6Q7R8S9T0",
+    "raw_text": "So Meta is rolling out a brand new AI feature for Facebook and Instagram, and it is definitely going to spark some serious privacy debates. Starting this month, Meta is going to use an AI system to analyze your profile photos and videos to guess your age. Yes, literally analyzing your bone structure and height to figure out if you're under 13. Now, Meta swears this isn't facial recognition\u2014they are just looking at physiological cues. If the AI suspects a user is underage, their account gets instantly temporarily deactivated until they provide actual proof of age. On one hand, this is a massive step for child safety, especially after Meta got hit with a huge $375 million penalty recently. But honestly, the idea of an AI scanning your bone structure is a bit dystopian, right? What happens if it gets it wrong and flags an adult with a smaller stature? This is exactly how massive social platforms are trying to automate their compliance, but you can bet regulators and privacy advocates are going to be watching this incredibly closely.",
+    "id": "871e0f79",
     "category": "Social Media",
     "companies": [
       "Meta",
@@ -76,7 +82,9 @@
       "Instagram"
     ],
     "people": [],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/871e0f79.png",
+    "image_prompt": "Realistic newsroom photo style: a young teen silhouette seen from side, with subtle translucent biometric bone-structure overlay lines and age-indicator UI floating faintly. Split-screen of smartphone showing blurred Facebook/Instagram icons (no text). Cool blue tech mood, high detail, shallow depth of field."
   },
   {
     "date": "2026-05-06",
@@ -85,15 +93,17 @@
     "title": "Google Search AI is Now Quoting Reddit Users Directly",
     "summary": "Google has updated its AI Overviews in Search to explicitly include excerpts, quotes, and attributions from social forums like Reddit and Hacker News. This initiative aims to reduce hallucinations by grounding AI responses in human discussions and lived experiences.",
     "engagement": "High",
-    "raw_text": "Okay, Google Search is getting another massive AI overhaul, and it’s going to completely change how you find answers online. Starting immediately, Google's AI Overviews will start pulling quotes directly from social forums like Reddit and Hacker News, as well as niche newsletters. So, if you search for the best camera to buy, the AI won't just give you a generic summary; it might literally quote a specific user's recommendation from a photography subreddit and link their handle. Google is doing this to combat the whole 'AI hallucination' problem by grounding their answers in actual human conversations and lived experiences. Honestly, this is a huge deal for content creators and forum users, because your random Reddit comment might end up as the top answer on Google Search. They are also adding 'Expert Advice' labels. It’s wild to see Google shifting away from just indexing algorithmic websites to actively curating human community discussions into their AI outputs. It definitely makes the AI feel a bit more trustworthy, but it’s going to shake up the SEO world forever!",
-    "id": "U1V2W3X4Y5",
+    "raw_text": "Okay, Google Search is getting another massive AI overhaul, and it\u2019s going to completely change how you find answers online. Starting immediately, Google's AI Overviews will start pulling quotes directly from social forums like Reddit and Hacker News, as well as niche newsletters. So, if you search for the best camera to buy, the AI won't just give you a generic summary; it might literally quote a specific user's recommendation from a photography subreddit and link their handle. Google is doing this to combat the whole 'AI hallucination' problem by grounding their answers in actual human conversations and lived experiences. Honestly, this is a huge deal for content creators and forum users, because your random Reddit comment might end up as the top answer on Google Search. They are also adding 'Expert Advice' labels. It\u2019s wild to see Google shifting away from just indexing algorithmic websites to actively curating human community discussions into their AI outputs. It definitely makes the AI feel a bit more trustworthy, but it\u2019s going to shake up the SEO world forever!",
+    "id": "a63e4bbd",
     "category": "Search",
     "companies": [
       "Google",
       "Reddit"
     ],
     "people": [],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/a63e4bbd.png",
+    "image_prompt": "Realistic newsroom scene: a sleek AI dashboard hovering above a laptop, highlighting quote cards from Reddit/Hacker News (no text), glowing data lines bridging social forum icons to Google Search interface, dramatic cool lighting, tech atmosphere, sharp focus, high detail, news-photo style, no text."
   },
   {
     "date": "2026-05-07",
@@ -103,7 +113,7 @@
     "summary": "Nvidia and infrastructure operator IREN have announced a $3.4 billion partnership to deploy up to 5 gigawatts of advanced AI infrastructure. The initiative involves transforming massive campuses, including a 2-gigawatt facility in Texas, into dedicated AI data centers using Nvidia's Blackwell GPUs.",
     "engagement": "Medium",
     "raw_text": "The AI infrastructure boom is reaching levels we can barely comprehend. Nvidia just announced a massive $3.4 billion partnership with a company called IREN to build what they are calling 'AI Factories.' We aren't talking about small server racks here; they are deploying up to 5 gigawatts of Nvidia's next-gen AI infrastructure. To put that in perspective, a single gigawatt can power hundreds of thousands of homes. They are literally transforming massive 2-gigawatt campuses in Texas into dedicated AI brains using Nvidia's Blackwell GPUs and DSX factory architecture. Jensen Huang himself said that these AI factories are becoming the foundational infrastructure for the entire global economy. Honestly, the scale of this is mind-blowing. We are facing a massive structural shortage of compute power worldwide, and companies are gobbling up legacy crypto-mining sites and energy grids just to keep their AI models running. Nvidia is even buying a huge equity stake in IREN, basically vertically integrating their entire supply chain. If you want to know who is winning the AI war, look at the people building the power plants and the chips!",
-    "id": "Z6A7B8C9D0",
+    "id": "5724dda1",
     "category": "Infrastructure",
     "companies": [
       "Nvidia",
@@ -113,7 +123,9 @@
       "Jensen Huang",
       "Daniel Roberts"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/5724dda1.png",
+    "image_prompt": "Cinematic wide shot of futuristic AI data-center campus in Texas, towering server halls and cooling units, neon-like glow from Nvidia-scale GPU racks, high-voltage lines, construction cranes, stormy sunset mood, ultra-realistic, sharp details, news photography style, no text."
   },
   {
     "date": "2026-05-08",
@@ -122,8 +134,8 @@
     "title": "Airbnb Admits AI Now Writes 60% of Their Code",
     "summary": "During a May 2026 earnings call, Airbnb CEO Brian Chesky revealed that approximately 60% of the code for new features is currently generated by artificial intelligence. The aggressive integration of AI developer tools has drastically accelerated the company's engineering velocity.",
     "engagement": "Medium",
-    "raw_text": "If you ever wondered how fast AI is taking over the software engineering space, you have to hear this. During their latest earnings call, Airbnb CEO Brian Chesky casually dropped a bombshell: roughly 60% of the code for their new features is now being generated by Artificial Intelligence. Sixty percent! That is an absolutely insane metric for a company whose entire product relies on an app and a website. They aren't just using AI for customer support chatbots anymore; it is deeply embedded into their development pipelines. According to their leadership, this has massively accelerated their engineering velocity. It makes you wonder what the future of a software engineer actually looks like. Are we transitioning from writing code to just reviewing and managing AI outputs? Airbnb joins a growing list of companies, like Spotify and Shopify, who are leaning heavily into AI-assisted development to push products out faster than ever. Honestly, if you are a developer right now and you aren't using AI coding assistants, you are competing against teams that can theoretically work twice as fast. It’s a total paradigm shift.",
-    "id": "E1F2G3H4I5",
+    "raw_text": "If you ever wondered how fast AI is taking over the software engineering space, you have to hear this. During their latest earnings call, Airbnb CEO Brian Chesky casually dropped a bombshell: roughly 60% of the code for their new features is now being generated by Artificial Intelligence. Sixty percent! That is an absolutely insane metric for a company whose entire product relies on an app and a website. They aren't just using AI for customer support chatbots anymore; it is deeply embedded into their development pipelines. According to their leadership, this has massively accelerated their engineering velocity. It makes you wonder what the future of a software engineer actually looks like. Are we transitioning from writing code to just reviewing and managing AI outputs? Airbnb joins a growing list of companies, like Spotify and Shopify, who are leaning heavily into AI-assisted development to push products out faster than ever. Honestly, if you are a developer right now and you aren't using AI coding assistants, you are competing against teams that can theoretically work twice as fast. It\u2019s a total paradigm shift.",
+    "id": "7a7267fb",
     "category": "Software",
     "companies": [
       "Airbnb"
@@ -131,7 +143,9 @@
     "people": [
       "Brian Chesky"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/7a7267fb.png",
+    "image_prompt": "Realistic newsroom-style photo: Brian Chesky silhouette at a modern conference stage, holographic AI circuit overlay syncing code streams, sleek Airbnb-like interface glow, engineers in background, dramatic cool lighting, shallow depth of field, cinematic 8k, no text, no logos."
   },
   {
     "date": "2026-05-09",
@@ -140,8 +154,8 @@
     "title": "The Wild West is Over: US Govt Demands Secret Access to New AI",
     "summary": "The U.S. Center for AI Standards and Innovation (CAISI) has secured agreements with Google DeepMind, Microsoft, and xAI to evaluate unreleased frontier models prior to public deployment. Evaluators will test 'un-railroaded' models to assess extreme national security risks, marking a severe hardening of AI regulation.",
     "engagement": "Medium",
-    "raw_text": "So, the era of companies just dropping massive AI models onto the internet with zero oversight is officially over. The US government, specifically the Center for AI Standards and Innovation, has quietly executed sweeping pre-deployment agreements with tech giants like Google, Microsoft, and Elon Musk’s xAI. Now, before any of these companies can release a new frontier model, they have to hand it over to federal evaluators. And I'm not talking about the safe, consumer versions. The government demands the 'un-railroaded' models—the raw AI stripped of all safety guardrails—so they can deliberately try to exploit them in classified environments for cyber and biosecurity risks. Honestly, this is a massive shift. The government realizes that advanced AI is essentially a dual-use national security weapon now. Anthropic's recent 'Mythos' model freaked everyone out so much that the regulatory hammer finally dropped. While it makes sense for national security, it really shows how the tech industry is becoming deeply entangled with the defense apparatus. The Wild West of AI development is closing its doors, folks!",
-    "id": "J6K7L8M9N0",
+    "raw_text": "So, the era of companies just dropping massive AI models onto the internet with zero oversight is officially over. The US government, specifically the Center for AI Standards and Innovation, has quietly executed sweeping pre-deployment agreements with tech giants like Google, Microsoft, and Elon Musk\u2019s xAI. Now, before any of these companies can release a new frontier model, they have to hand it over to federal evaluators. And I'm not talking about the safe, consumer versions. The government demands the 'un-railroaded' models\u2014the raw AI stripped of all safety guardrails\u2014so they can deliberately try to exploit them in classified environments for cyber and biosecurity risks. Honestly, this is a massive shift. The government realizes that advanced AI is essentially a dual-use national security weapon now. Anthropic's recent 'Mythos' model freaked everyone out so much that the regulatory hammer finally dropped. While it makes sense for national security, it really shows how the tech industry is becoming deeply entangled with the defense apparatus. The Wild West of AI development is closing its doors, folks!",
+    "id": "caecde38",
     "category": "Regulation",
     "companies": [
       "Google DeepMind",
@@ -153,7 +167,9 @@
     "people": [
       "Chris Fall"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/caecde38.png",
+    "image_prompt": "Cinematic news photo: shadowy US federal building at dusk, stern officials silhouettes, glowing server racks in foreground, subtle AI circuitry overlays, dark clouds, dramatic lighting, realistic documentary style, high detail, muted blues and grays, tense futuristic mood, no text."
   },
   {
     "date": "2026-05-07",
@@ -163,7 +179,7 @@
     "summary": "A collaborative research team introduced the 'AI Co-Mathematician,' a neuro-symbolic framework where multiple AI agents actively collaborate with humans to solve open computational geometry problems. This represents a leap from statistical text generation to formal mathematical reasoning and theorem proving.",
     "engagement": "Medium",
     "raw_text": "Check out this insane breakthrough in the world of science and math. AI isn't just writing essays anymore; it is officially solving complex mathematical problems alongside human researchers. A massive collaborative team just published a paper on the 'AI Co-Mathematician,' and it just shattered records on the FrontierMath benchmark. But here is the crazy part: this AI isn't just a calculator. It actually operates using a swarm of different AI agents managed by a 'project coordinator' that talks to human mathematicians, asks for clarifications, and actively collaborates on research. During testing, it actually helped researchers solve open geometry problems by autonomously reducing them to Boolean logic and writing the code to solve them. DARPA is pouring millions into this kind of neuro-symbolic automation. We are shifting from AI that just predicts the next word in a sentence to AI that uses rigorous, formal logic to prove brand-new mathematical theorems. Honestly, having an AI as a literal research partner and co-author is going to completely supercharge the rate of discovery in physics, engineering, and beyond!",
-    "id": "O1P2Q3R4S5",
+    "id": "3316ca0c",
     "category": "Science",
     "companies": [
       "DARPA",
@@ -177,7 +193,9 @@
       "Wei Wang",
       "Andrea Bertozzi"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/3316ca0c.png",
+    "image_prompt": "Photoreal newsroom scene: diverse researchers and holographic AI agents collaboratively solving complex geometry on a glowing hologram of equations and wireframe shapes; cool blue lighting, cinematic depth of field, high detail, realistic faces, mood of breakthrough, no text, news photo style."
   },
   {
     "date": "2026-05-07",
@@ -186,8 +204,8 @@
     "title": "Tech Giant Posts Record Profits, Fires 1,100 People Because of AI",
     "summary": "Cloudflare reported a 34% year-over-year revenue increase to $639.8 million while simultaneously announcing a 20% workforce reduction of roughly 1,100 jobs. Executive leadership directly attributed the structural efficiency allowing these cuts to the transition into an 'agentic AI era.'",
     "engagement": "Low",
-    "raw_text": "We need to talk about what is happening in the corporate tech world right now, because Cloudflare just released their Q1 earnings and the contrast is staggering. The company just posted record-breaking revenue—sales jumped 34% year-over-year to nearly $640 million. You'd think they'd be celebrating, right? Wrong. On the exact same day, they announced they are slashing 20% of their global workforce. That is roughly 1,100 jobs gone. When explaining the cuts, their CFO literally stated that they believe they are entering an 'agentic AI era'. This basically means they are relying on autonomous AI agents to do the work that humans used to do. Cloudflare isn't alone here; we've seen Meta, Microsoft, and Amazon do the exact same thing—post massive profits while citing AI efficiency as a reason to cut jobs. Honestly, it’s a harsh reality check. We are officially in the era where AI isn't just a fun tool to write code or generate images; it is actively replacing human labor at the enterprise level, allowing these mega-corps to maintain their growth targets with a much leaner workforce.",
-    "id": "T6U7V8W9X0",
+    "raw_text": "We need to talk about what is happening in the corporate tech world right now, because Cloudflare just released their Q1 earnings and the contrast is staggering. The company just posted record-breaking revenue\u2014sales jumped 34% year-over-year to nearly $640 million. You'd think they'd be celebrating, right? Wrong. On the exact same day, they announced they are slashing 20% of their global workforce. That is roughly 1,100 jobs gone. When explaining the cuts, their CFO literally stated that they believe they are entering an 'agentic AI era'. This basically means they are relying on autonomous AI agents to do the work that humans used to do. Cloudflare isn't alone here; we've seen Meta, Microsoft, and Amazon do the exact same thing\u2014post massive profits while citing AI efficiency as a reason to cut jobs. Honestly, it\u2019s a harsh reality check. We are officially in the era where AI isn't just a fun tool to write code or generate images; it is actively replacing human labor at the enterprise level, allowing these mega-corps to maintain their growth targets with a much leaner workforce.",
+    "id": "be80204c",
     "category": "Business",
     "companies": [
       "Cloudflare"
@@ -196,6 +214,8 @@
       "Matthew Prince",
       "John Love"
     ],
-    "created_at": "2026-05-09T11:20:35+05:30"
+    "created_at": "2026-05-09T11:20:35+05:30",
+    "image_url": "images/08_05_26/be80204c.png",
+    "image_prompt": "Realistic news photo: sleek corporate office at dusk, muted corporate blue tones. Glass skyline reflections, subtle server racks. Foreground: executives in suits walking past a digital wall of abstract AI nodes. Behind, faint silhouettes\u2014former employees exiting. Mood: tense, decisive, modern. No text."
   }
 ]
