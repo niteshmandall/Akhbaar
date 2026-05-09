@@ -1,142 +1,176 @@
 [
-{
-"date": "2026-05-09",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 1,
-"title": "Smartphone Killer? Qualcomm’s Secret AI Wearables Revealed!",
-"summary": "Qualcomm CEO Cristiano Amon announced collaborations with major AI companies to develop covert wearable form factors embedded with AI agents. He suggests these new devices will serve as the next primary AI hubs, representing a shift away from traditional handheld smartphones.",
-"engagement": "High",
-"raw_text": "What is up, tech fam? So check this out, Qualcomm is basically plotting the death of the smartphone as we know it! CEO Cristiano Amon just casually dropped a bombshell that they are working with pretty much all the big dogs—we're talking OpenAI, Meta, and xAI—on top-secret wearable AI devices. Honestly, this is huge. Imagine having a true AI agent embedded in glasses or some crazy new form factor instead of staring at a screen in your hand. We already knew OpenAI was sniffing around custom hardware, but with Qualcomm powering the brains, the shift to always-on, wear-it-don't-hold-it AI is happening way faster than we thought. Are you guys ready to ditch your phones for smart glasses? Because these specialized hardware hubs are coming for us! Let me know down in the comments if you'd rock an OpenAI wearable powered by Snapdragon!",
-"id": "QW9X2M1P",
-"category": "Hardware",
-"companies": ["Qualcomm", "OpenAI", "Meta", "xAI"],
-"people": ["Cristiano Amon"],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-08",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 1,
-"title": "Anthropic Drops $1.8B on Secret AI Cloud Infrastructure",
-"summary": "AI startup Anthropic has secured a $1.8 billion cloud computing partnership with Akamai to obtain extensive GPU capacity for its models. Following the news, Akamai's stock surged by roughly 25%, highlighting the immense ongoing demand for AI infrastructure amidst component shortages.",
-"engagement": "Low",
-"raw_text": "Alright guys, let's talk about the absolute gold rush happening in the AI compute space right now. Here's the wild part: Anthropic, the team behind Claude, just locked down a massive 1.8 billion dollar cloud deal with Akamai. Why is this a big deal? Because GPUs are the rarest commodity on Earth right now, and Anthropic is actively securing their war chest to train the next generation of models. Akamai's stock absolutely skyrocketed by 25 percent on this news. Their CEO even bragged about securing scarce components for the deal, which just shows how insane the chip shortage still is across the industry. It might not be as flashy as a new humanoid robot, but this infrastructure arms race is what decides who wins the AI wars. Anthropic is not playing games, and they are spending massive cash to ensure they have the compute needed to keep up with OpenAI.",
-"id": "AK8B4V7L",
-"category": "Business",
-"companies": ["Anthropic", "Akamai"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-08",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 1,
-"title": "The Dark Side of AI: Cloudflare Fires 20% of Staff!",
-"summary": "Cloudflare experienced a 15% stock plunge after forecasting a slowdown in Q2 revenue growth to 30%, disappointing investors who anticipated a larger AI boost. Additionally, the company announced layoffs affecting approximately 20% of its staff as it implements more internal AI automation.",
-"engagement": "Low",
-"raw_text": "Look, we gotta have a real talk about the AI hype train, because it is straight-up derailing for some companies right now. Cloudflare's stock just nose-dived 15 percent. Why? Because their revenue growth is slowing down to 30 percent, completely missing the insane expectations investors had for this supposed AI boost. But here is the truly crazy part: despite missing their high revenue marks, they are laying off around 20 percent of their entire staff!. And they explicitly said it's because they are adopting more AI automation internally. This is the dark side of the AI revolution, folks. Margins are getting squeezed by the crazy high costs of AI infrastructure, and the immediate revenue isn't always there to back it up. We're starting to see the harsh limits of just slapping 'AI' on an investor deck while automating away real jobs.",
-"id": "CF3L9D2R",
-"category": "Business",
-"companies": ["Cloudflare"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-07",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 1,
-"title": "Tech Giants Desperate! The 154% AI Chip Squeeze",
-"summary": "Major U.S. tech companies are overwhelming South Korea's SK Hynix with aggressive proposals to secure memory chips for expanding AI infrastructure. These unprecedented offers include funding new production lines, driving SK Hynix's stock up 154% year-to-date as its current capacity is nearly exhausted.",
-"engagement": "Medium",
-"raw_text": "If you thought getting a PS5 a few years ago was hard, wait until you hear what's happening with memory chips right now! Big Tech giants like Google, Meta, and Microsoft are literally flooding South Korea's SK Hynix with unprecedented offers. I'm not just talking about buying chips; they are offering to flat-out fund new production lines and insane high-end lithography tools just to guarantee they get DRAM. SK Hynix is basically sold out, warning that their current capacity is completely exhausted. No wonder their stock is up a whopping 154 percent this year alone!. Meta is out here investing aggressively across the whole supply chain just to survive. Honestly, this scramble is pure desperation from the massive cloud providers. Whoever controls the memory chips controls the future of AI, and right now, the supply chain is absolutely gasping for air.",
-"id": "SK5H8Y2X",
-"category": "Hardware",
-"companies": ["SK Hynix", "Alphabet", "Google", "Meta", "Microsoft"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-05",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 1,
-"title": "OpenAI & Anthropic Are Buying Up Private Services Firms",
-"summary": "Joint venture funds launched by OpenAI and Anthropic are reportedly in talks to acquire software and services consultancies to aid enterprise AI deployment. Armed with billions in capital, these firms intend to embed engineers directly with clients to overcome the labor-intensive challenges of scaling AI in real-world industries.",
-"engagement": "Medium",
-"raw_text": "So, deploying AI in the real world is actually way harder than just building the models, and OpenAI and Anthropic just realized they need an absolute army. Their massive multi-billion dollar joint ventures are now trying to buy up AI software and service consultancies. We are talking a 4 billion dollar fund for OpenAI and 1.5 billion for Anthropic just to acquire these consulting firms. They want to add hundreds of engineers to go in and tailor these massive AI models directly to what businesses actually need. It's basically the Palantir playbook—embed engineers directly with the clients to hold their hands. This shows that all the pure AI research in the world doesn't mean much if regular companies can't actually use it without tons of human labor. The battle has definitely shifted from building the smartest model to actually making it work for the enterprise.",
-"id": "OA2A6V9C",
-"category": "Business",
-"companies": ["OpenAI", "Anthropic", "Palantir"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-04-30",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 2,
-"title": "Exposed! "Breakthrough" AI Was Just Faking It",
-"summary": "Researchers at Zhejiang University have debunked the perceived cognitive breakthroughs of an AI model named Centaur, which supposedly passed 160 human cognitive tasks. Testing revealed the AI simply memorized answers from its training data rather than demonstrating genuine reasoning or understanding.",
-"engagement": "High",
-"raw_text": "Guys, we've got a massive reality check in the AI space today. Remember that 'Centaur' AI model that supposedly achieved a huge breakthrough by passing 160 human cognitive tasks last year?. Yeah, well, researchers at Zhejiang University just totally busted it. It turns out, Centaur wasn't actually thinking or reasoning at all. When researchers slightly changed the prompts—like just telling it 'Please choose option A' instead of giving it the real test question—it kept spitting out the exact 'correct' answers from the original test set!. It just memorized the training data!. This is exactly why we have to be super careful with AI hype right now. A lot of what looks like genuine 'cognition' is just glorified pattern recall. We desperately need better, more diverse ways to test these AIs so we don't get fooled by massive overfitting. Don't believe everything you read!",
-"id": "CN7T4U1E",
-"category": "Science",
-"companies": ["Zhejiang University"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-04-23",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 2,
-"title": "Brain-Like Chip Cuts AI Energy Use by 70%!",
-"summary": "University of Cambridge researchers developed a novel 'memristor' chip mimicking neuronal computation that significantly lowers AI energy consumption. By integrating memory and logic using a modified hafnium oxide film, lab tests showed the device required up to 70% less power than traditional chips.",
-"engagement": "High",
-"raw_text": "Are AI data centers going to boil the oceans? Maybe not, because of this massive hardware breakthrough. Researchers at the University of Cambridge have just built a totally new 'memristor' chip that works exactly like the human brain. Instead of constantly shuffling data back and forth between separate memory and processing units—which eats up tons of power—this chip integrates memory and logic together using a crazy modified hafnium oxide film. The results? In lab tests, it used up to 70 percent less power for AI operations compared to standard chips!. This neuromorphic computing approach is an absolute game-changer. As AI models get hungrier and hungrier, a chip that cuts energy use by 70 percent is exactly what the industry needs to keep scaling without crashing the global power grid. I am super hyped for this tech to hit the mainstream!",
-"id": "BC9P3K8M",
-"category": "Hardware",
-"companies": ["University of Cambridge"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-06",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 2,
-"title": "Run AI 3x Faster at Home with Google's Gemma 4 Update",
-"summary": "Google released an update to its open-source Gemma 4 models utilizing a Multi-Token Prediction technique to draft multiple text tokens in parallel. This innovation allows for up to 3x faster text generation at equivalent quality, making sophisticated large language models much more efficient to run on personal GPUs.",
-"engagement": "Medium",
-"raw_text": "Listen up developers, because Google just dropped a major upgrade that is going to make your local AI setups crazy fast. They've updated their open-source Gemma 4 models with something incredibly smart called 'Multi-Token Prediction'. Instead of the AI thinking of one word at a time, a drafter model actually proposes several tokens all at once, and the main model verifies them in parallel. The result is up to three times faster text generation without losing any quality!. This is massive for anyone wanting to run highly capable open-source LLMs on their own personal GPUs at home. Google is clearly pushing hard to optimize AI for on-device and private setups, making these advanced tools way more accessible for the community. No more waiting forever for your local model to finish writing a single sentence!",
-"id": "GG4M8X2T",
-"category": "Software",
-"companies": ["Google"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-05-04",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 2,
-"title": "Intel & AMD Team Up in Shocking AI Alliance",
-"summary": "Arch-rivals Intel and AMD have partnered to develop AI Compute Extensions (ACE), a new set of CPU instructions to accelerate AI workloads on x86 processors. By enabling matrix multiplication directly on the CPU, ACE significantly improves AI performance and energy efficiency for inference and training across both companies' hardware.",
-"engagement": "Medium",
-"raw_text": "Hell has officially frozen over, guys. Intel and AMD, the absolute biggest rivals in the PC space, are actually teaming up! They just jointly announced new CPU instructions called AI Compute Extensions, or ACE. Why? Because ARM processors are starting to eat their lunch in the AI era. ACE basically allows your standard x86 CPU to handle intense AI matrix math directly, acting kinda like a mini GPU right on the chip. This brings a massive boost to AI performance and energy efficiency for both training and inference. While it won't replace a massive Nvidia card, it ensures AI code runs beautifully on either Intel or AMD chips without developers having to rewrite everything and deal with fragmentation. This is a desperate, but brilliant, move to keep x86 processors relevant for edge and embedded AI systems.",
-"id": "IA7C5E9W",
-"category": "Hardware",
-"companies": ["Intel", "AMD"],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-},
-{
-"date": "2026-01-07",
-"source_file": "Tech News Highlights – May 10, 2026.pdf",
-"page": 3,
-"title": "Quantum Computing Leap: D-Wave's $550M Mega-Merger",
-"summary": "D-Wave announced its acquisition of Quantum Circuits Inc. for $550 million, aiming to combine its annealing platform with superconducting gate-model technology. This merger positions D-Wave as a comprehensive quantum computing provider and is expected to accelerate the development of a large-scale, error-corrected quantum computer in 2026.",
-"engagement": "Medium",
-"raw_text": "If you thought AI was moving fast, quantum computing is right behind it, and we just got a massive acquisition. D-Wave, the big name in annealing quantum systems, is dropping 550 million dollars to buy Quantum Circuits Inc.!. Quantum Circuits is a leader in error-corrected gate-model hardware, so this merger is combining two totally different types of quantum tech into one absolute powerhouse. D-Wave says this is going to drastically accelerate their roadmap to building a full-scale, error-corrected quantum computer this year, in 2026!. They are basically claiming to be the only company that can tackle the entire quantum computing market now. If they pull this off and deliver a fault-tolerant system soon, we're talking about a leap in real-world computing that will make today's supercomputers look like pocket calculators. Keep your eyes closely on quantum, folks!",
-"id": "QC6W1Z8D",
-"category": "Science",
-"companies": ["D-Wave", "Quantum Circuits Inc."],
-"people": [],
-"created_at": "2026-05-10T00:37:11+05:30"
-}
+  {
+    "date": "2026-05-09",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 1,
+    "title": "Smartphone Killer? Qualcomm’s Secret AI Wearables Revealed!",
+    "summary": "Qualcomm CEO Cristiano Amon announced collaborations with major AI companies to develop covert wearable form factors embedded with AI agents. He suggests these new devices will serve as the next primary AI hubs, representing a shift away from traditional handheld smartphones.",
+    "engagement": "High",
+    "raw_text": "What is up, tech fam? So check this out, Qualcomm is basically plotting the death of the smartphone as we know it! CEO Cristiano Amon just casually dropped a bombshell that they are working with pretty much all the big dogs—we're talking OpenAI, Meta, and xAI—on top-secret wearable AI devices. Honestly, this is huge. Imagine having a true AI agent embedded in glasses or some crazy new form factor instead of staring at a screen in your hand. We already knew OpenAI was sniffing around custom hardware, but with Qualcomm powering the brains, the shift to always-on, wear-it-don't-hold-it AI is happening way faster than we thought. Are you guys ready to ditch your phones for smart glasses? Because these specialized hardware hubs are coming for us! Let me know down in the comments if you'd rock an OpenAI wearable powered by Snapdragon!",
+    "id": "QW9X2M1P",
+    "category": "Hardware",
+    "companies": [
+      "Qualcomm",
+      "OpenAI",
+      "Meta",
+      "xAI"
+    ],
+    "people": [
+      "Cristiano Amon"
+    ],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-08",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 1,
+    "title": "Anthropic Drops $1.8B on Secret AI Cloud Infrastructure",
+    "summary": "AI startup Anthropic has secured a $1.8 billion cloud computing partnership with Akamai to obtain extensive GPU capacity for its models. Following the news, Akamai's stock surged by roughly 25%, highlighting the immense ongoing demand for AI infrastructure amidst component shortages.",
+    "engagement": "Low",
+    "raw_text": "Alright guys, let's talk about the absolute gold rush happening in the AI compute space right now. Here's the wild part: Anthropic, the team behind Claude, just locked down a massive 1.8 billion dollar cloud deal with Akamai. Why is this a big deal? Because GPUs are the rarest commodity on Earth right now, and Anthropic is actively securing their war chest to train the next generation of models. Akamai's stock absolutely skyrocketed by 25 percent on this news. Their CEO even bragged about securing scarce components for the deal, which just shows how insane the chip shortage still is across the industry. It might not be as flashy as a new humanoid robot, but this infrastructure arms race is what decides who wins the AI wars. Anthropic is not playing games, and they are spending massive cash to ensure they have the compute needed to keep up with OpenAI.",
+    "id": "AK8B4V7L",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "Akamai"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-08",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 1,
+    "title": "The Dark Side of AI: Cloudflare Fires 20% of Staff!",
+    "summary": "Cloudflare experienced a 15% stock plunge after forecasting a slowdown in Q2 revenue growth to 30%, disappointing investors who anticipated a larger AI boost. Additionally, the company announced layoffs affecting approximately 20% of its staff as it implements more internal AI automation.",
+    "engagement": "Low",
+    "raw_text": "Look, we gotta have a real talk about the AI hype train, because it is straight-up derailing for some companies right now. Cloudflare's stock just nose-dived 15 percent. Why? Because their revenue growth is slowing down to 30 percent, completely missing the insane expectations investors had for this supposed AI boost. But here is the truly crazy part: despite missing their high revenue marks, they are laying off around 20 percent of their entire staff. And they explicitly said it's because they are adopting more AI automation internally. This is the dark side of the AI revolution, folks. Margins are getting squeezed by the crazy high costs of AI infrastructure, and the immediate revenue isn't always there to back it up. We're starting to see the harsh limits of just slapping 'AI' on an investor deck while automating away real jobs.",
+    "id": "CF3L9D2R",
+    "category": "Business",
+    "companies": [
+      "Cloudflare"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-07",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 1,
+    "title": "Tech Giants Desperate! The 154% AI Chip Squeeze",
+    "summary": "Major U.S. tech companies are overwhelming South Korea's SK Hynix with aggressive proposals to secure memory chips for expanding AI infrastructure. These unprecedented offers include funding new production lines, driving SK Hynix's stock up 154% year-to-date as its current capacity is nearly exhausted.",
+    "engagement": "Medium",
+    "raw_text": "If you thought getting a PS5 a few years ago was hard, wait until you hear what's happening with memory chips right now! Big Tech giants like Google, Meta, and Microsoft are literally flooding South Korea's SK Hynix with unprecedented offers. I'm not just talking about buying chips; they are offering to flat-out fund new production lines and insane high-end lithography tools just to guarantee they get DRAM. SK Hynix is basically sold out, warning that their current capacity is completely exhausted. No wonder their stock is up a whopping 154 percent this year alone! Meta is out here investing aggressively across the whole supply chain just to survive. Honestly, this scramble is pure desperation from the massive cloud providers. Whoever controls the memory chips controls the future of AI, and right now, the supply chain is absolutely gasping for air.",
+    "id": "SK5H8Y2X",
+    "category": "Hardware",
+    "companies": [
+      "SK Hynix",
+      "Alphabet",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-05",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 1,
+    "title": "OpenAI & Anthropic Are Buying Up Private Services Firms",
+    "summary": "Joint venture funds launched by OpenAI and Anthropic are reportedly in talks to acquire software and services consultancies to aid enterprise AI deployment. Armed with billions in capital, these firms intend to embed engineers directly with clients to overcome the labor-intensive challenges of scaling AI in real-world industries.",
+    "engagement": "Medium",
+    "raw_text": "So, deploying AI in the real world is actually way harder than just building the models, and OpenAI and Anthropic just realized they need an absolute army. Their massive multi-billion dollar joint ventures are now trying to buy up AI software and service consultancies. We are talking a 4 billion dollar fund for OpenAI and 1.5 billion for Anthropic just to acquire these consulting firms. They want to add hundreds of engineers to go in and tailor these massive AI models directly to what businesses actually need. It's basically the Palantir playbook—embed engineers directly with the clients to hold their hands. This shows that all the pure AI research in the world doesn't mean much if regular companies can't actually use it without tons of human labor. The battle has definitely shifted from building the smartest model to actually making it work for the enterprise.",
+    "id": "OA2A6V9C",
+    "category": "Business",
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "Palantir"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-04-30",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 2,
+    "title": "Exposed! Breakthrough AI Was Just Faking It",
+    "summary": "Researchers at Zhejiang University have debunked the perceived cognitive breakthroughs of an AI model named Centaur, which supposedly passed 160 human cognitive tasks. Testing revealed the AI simply memorized answers from its training data rather than demonstrating genuine reasoning or understanding.",
+    "engagement": "High",
+    "raw_text": "Guys, we've got a massive reality check in the AI space today. Remember that 'Centaur' AI model that supposedly achieved a huge breakthrough by passing 160 human cognitive tasks last year? Yeah, well, researchers at Zhejiang University just totally busted it. It turns out, Centaur wasn't actually thinking or reasoning at all. When researchers slightly changed the prompts—like just telling it 'Please choose option A' instead of giving it the real test question—it kept spitting out the exact 'correct' answers from the original test set! It just memorized the training data! This is exactly why we have to be super careful with AI hype right now. A lot of what looks like genuine 'cognition' is just glorified pattern recall. We desperately need better, more diverse ways to test these AIs so we don't get fooled by massive overfitting. Don't believe everything you read!",
+    "id": "CN7T4U1E",
+    "category": "Science",
+    "companies": [
+      "Zhejiang University"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-04-23",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 2,
+    "title": "Brain-Like Chip Cuts AI Energy Use by 70%!",
+    "summary": "University of Cambridge researchers developed a novel 'memristor' chip mimicking neuronal computation that significantly lowers AI energy consumption. By integrating memory and logic using a modified hafnium oxide film, lab tests showed the device required up to 70% less power than traditional chips.",
+    "engagement": "High",
+    "raw_text": "Are AI data centers going to boil the oceans? Maybe not, because of this massive hardware breakthrough. Researchers at the University of Cambridge have just built a totally new 'memristor' chip that works exactly like the human brain. Instead of constantly shuffling data back and forth between separate memory and processing units—which eats up tons of power—this chip integrates memory and logic together using a crazy modified hafnium oxide film. The results? In lab tests, it used up to 70 percent less power for AI operations compared to standard chips! This neuromorphic computing approach is an absolute game-changer. As AI models get hungrier and hungrier, a chip that cuts energy use by 70 percent is exactly what the industry needs to keep scaling without crashing the global power grid. I am super hyped for this tech to hit the mainstream!",
+    "id": "BC9P3K8M",
+    "category": "Hardware",
+    "companies": [
+      "University of Cambridge"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-06",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 2,
+    "title": "Run AI 3x Faster at Home with Google's Gemma 4 Update",
+    "summary": "Google released an update to its open-source Gemma 4 models utilizing a Multi-Token Prediction technique to draft multiple text tokens in parallel. This innovation allows for up to 3x faster text generation at equivalent quality, making sophisticated large language models much more efficient to run on personal GPUs.",
+    "engagement": "Medium",
+    "raw_text": "Listen up developers, because Google just dropped a major upgrade that is going to make your local AI setups crazy fast. They've updated their open-source Gemma 4 models with something incredibly smart called 'Multi-Token Prediction'. Instead of the AI thinking of one word at a time, a drafter model actually proposes several tokens all at once, and the main model verifies them in parallel. The result is up to three times faster text generation without losing any quality! This is massive for anyone wanting to run highly capable open-source LLMs on their own personal GPUs at home. Google is clearly pushing hard to optimize AI for on-device and private setups, making these advanced tools way more accessible for the community. No more waiting forever for your local model to finish writing a single sentence!",
+    "id": "GG4M8X2T",
+    "category": "Software",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-05-04",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 2,
+    "title": "Intel & AMD Team Up in Shocking AI Alliance",
+    "summary": "Arch-rivals Intel and AMD have partnered to develop AI Compute Extensions (ACE), a new set of CPU instructions to accelerate AI workloads on x86 processors. By enabling matrix multiplication directly on the CPU, ACE significantly improves AI performance and energy efficiency for inference and training across both companies' hardware.",
+    "engagement": "Medium",
+    "raw_text": "Hell has officially frozen over, guys. Intel and AMD, the absolute biggest rivals in the PC space, are actually teaming up! They just jointly announced new CPU instructions called AI Compute Extensions, or ACE. Why? Because ARM processors are starting to eat their lunch in the AI era. ACE basically allows your standard x86 CPU to handle intense AI matrix math directly, acting kinda like a mini GPU right on the chip. This brings a massive boost to AI performance and energy efficiency for both training and inference. While it won't replace a massive Nvidia card, it ensures AI code runs beautifully on either Intel or AMD chips without developers having to rewrite everything and deal with fragmentation. This is a desperate, but brilliant, move to keep x86 processors relevant for edge and embedded AI systems.",
+    "id": "IA7C5E9W",
+    "category": "Hardware",
+    "companies": [
+      "Intel",
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  },
+  {
+    "date": "2026-01-07",
+    "source_file": "Tech News Highlights – May 10, 2026.pdf",
+    "page": 3,
+    "title": "Quantum Computing Leap: D-Wave's $550M Mega-Merger",
+    "summary": "D-Wave announced its acquisition of Quantum Circuits Inc. for $550 million, aiming to combine its annealing platform with superconducting gate-model technology. This merger positions D-Wave as a comprehensive quantum computing provider and is expected to accelerate the development of a large-scale, error-corrected quantum computer in 2026.",
+    "engagement": "Medium",
+    "raw_text": "If you thought AI was moving fast, quantum computing is right behind it, and we just got a massive acquisition. D-Wave, the big name in annealing quantum systems, is dropping 550 million dollars to buy Quantum Circuits Inc! Quantum Circuits is a leader in error-corrected gate-model hardware, so this merger is combining two totally different types of quantum tech into one absolute powerhouse. D-Wave says this is going to drastically accelerate their roadmap to building a full-scale, error-corrected quantum computer this year, in 2026! They are basically claiming to be the only company that can tackle the entire quantum computing market now. If they pull this off and deliver a fault-tolerant system soon, we're talking about a leap in real-world computing that will make today's supercomputers look like pocket calculators. Keep your eyes closely on quantum, folks!",
+    "id": "QC6W1Z8D",
+    "category": "Science",
+    "companies": [
+      "D-Wave",
+      "Quantum Circuits Inc."
+    ],
+    "people": [],
+    "created_at": "2026-05-10T00:37:11+05:30"
+  }
 ]
