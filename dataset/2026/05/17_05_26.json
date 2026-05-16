@@ -1,12 +1,12 @@
 [
   {
     "date": "2026-05-14",
-    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "source_file": "Tech News Highlights \u2013 May 16, 2026.pdf",
     "page": 1,
     "title": "Former Salesforce CTO Raises $650M for AI That Builds Itself!",
     "summary": "Recursive Superintelligence launched with $650 million in funding to develop self-improving AI algorithms. The startup aims to automate the entire research cycle without human intervention.",
     "engagement": "High",
-    "raw_text": "So check this out, the holy grail of AI might actually be here. Former Salesforce CTO Richard Socher and Peter Norvig just raised a massive $650 million to launch Recursive Superintelligence. I mean, honestly, this is huge! They aren't just building another chatbot; they want to build an AI that can literally write, test, and improve its own code without any human help. Think about it—an AI that gets smarter entirely on its own by iteratively fixing its weaknesses. If they pull this off, the speed of scientific discovery is going to absolutely skyrocket, though it definitely brings up some crazy questions about how we even control something like this. Are we ready for self-improving machines? Let me know in the comments!",
+    "raw_text": "So check this out, the holy grail of AI might actually be here. Former Salesforce CTO Richard Socher and Peter Norvig just raised a massive $650 million to launch Recursive Superintelligence. I mean, honestly, this is huge! They aren't just building another chatbot; they want to build an AI that can literally write, test, and improve its own code without any human help. Think about it\u2014an AI that gets smarter entirely on its own by iteratively fixing its weaknesses. If they pull this off, the speed of scientific discovery is going to absolutely skyrocket, though it definitely brings up some crazy questions about how we even control something like this. Are we ready for self-improving machines? Let me know in the comments!",
     "id": "rs650m2026",
     "category": "AI",
     "companies": [
@@ -17,7 +17,9 @@
       "Richard Socher",
       "Peter Norvig"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/rs650m2026.png",
+    "image_prompt": "Cinematic newsroom-meets-lab scene: a sleek futuristic server rack at center emitting soft blue light, holographic neural networks spiraling upward, subtle circuit patterns forming a self-reinforcing loop, moody corporate atmosphere, high detail, realistic lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-05-16",
@@ -26,7 +28,7 @@
     "title": "ArXiv Drops the Ban Hammer on AI-Generated Fake Science!",
     "summary": "The preprint server arXiv announced strict new rules banning authors for a year if they submit unreviewed AI-generated content. This follows a massive 42% increase in fake, AI-written journal submissions.",
     "engagement": "Medium",
-    "raw_text": "Okay, scientists are officially fed up. The massive research platform arXiv just dropped a massive ban hammer on AI hallucinations. Here's the wild part: if you submit a paper and they find 'clear evidence' of unchecked AI text—like fake citations or hidden ChatGPT prompts—you get hit with an immediate one-year ban. And it gets worse; after the year is up, you lose your standard publishing privileges and have to go through rigorous peer review for anything you post! I guess this was inevitable after a reported 42% spike in fake submissions flooding journals. It really shows the tension right now between using AI to work faster and completely destroying academic integrity.",
+    "raw_text": "Okay, scientists are officially fed up. The massive research platform arXiv just dropped a massive ban hammer on AI hallucinations. Here's the wild part: if you submit a paper and they find 'clear evidence' of unchecked AI text\u2014like fake citations or hidden ChatGPT prompts\u2014you get hit with an immediate one-year ban. And it gets worse; after the year is up, you lose your standard publishing privileges and have to go through rigorous peer review for anything you post! I guess this was inevitable after a reported 42% spike in fake submissions flooding journals. It really shows the tension right now between using AI to work faster and completely destroying academic integrity.",
     "id": "arxban2026",
     "category": "Science",
     "companies": [
@@ -34,9 +36,11 @@
     ],
     "people": [
       "Thomas Dietterich",
-      "Steinn Sigurðsson"
+      "Steinn Sigur\u00f0sson"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/arxban2026.png",
+    "image_prompt": "Photorealistic newsroom scene: arXiv-like server racks under harsh blue light, a gavel striking a glowing \u201cban\u201d hologram silhouette, warning-like papers scattering, subtle AI circuit patterns in the air, tense investigative mood, high contrast, sharp focus, 16:9."
   },
   {
     "date": "2026-05-12",
@@ -45,7 +49,7 @@
     "title": "Googlebook is Here: RIP Chromebooks?",
     "summary": "Google has debuted the 'Googlebook', a new line of AI-native laptops built around Gemini and an Android-based OS. Scheduled to ship this fall, the devices feature a Gemini-powered 'Magic Pointer'.",
     "engagement": "High",
-    "raw_text": "Alright guys, Google just made a massive move that might finally kill the Chromebook. They just announced the 'Googlebook'—a brand new line of laptops totally built around their Gemini AI. Instead of ChromeOS, these things run an Android-based OS designed from the ground up for AI features. Honestly, the coolest part is this new 'Magic Pointer'. You hover your cursor over a date, and Gemini pops up to schedule a meeting, or you point at an image of a room and it previews furniture! They're shipping this fall with partners like Acer and Dell. It completely changes the laptop game and finally gives Microsoft's Copilot+ PCs a real run for their money!",
+    "raw_text": "Alright guys, Google just made a massive move that might finally kill the Chromebook. They just announced the 'Googlebook'\u2014a brand new line of laptops totally built around their Gemini AI. Instead of ChromeOS, these things run an Android-based OS designed from the ground up for AI features. Honestly, the coolest part is this new 'Magic Pointer'. You hover your cursor over a date, and Gemini pops up to schedule a meeting, or you point at an image of a room and it previews furniture! They're shipping this fall with partners like Acer and Dell. It completely changes the laptop game and finally gives Microsoft's Copilot+ PCs a real run for their money!",
     "id": "gbook2026",
     "category": "Hardware",
     "companies": [
@@ -56,7 +60,9 @@
       "Lenovo"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/gbook2026.png",
+    "image_prompt": "Photorealistic newsroom tech shot: sleek new \u201cGooglebook\u201d AI-native laptop on a clean studio desk, soft spotlight, subtle futuristic UI glow (no text), Gemini-like magic pointer hologram hovering, warm modern lighting, shallow depth of field, premium product photography, high detail, newsworthy mood."
   },
   {
     "date": "2026-05-16",
@@ -73,7 +79,9 @@
       "Plaid"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/oaitier2026.png",
+    "image_prompt": "Modern newsroom scene: sleek AI server racks and glowing chat interface holograms in the background, a smartphone showing a blurred app screen, subtle ad-like icons floating, split lighting between friendly blue and ominous warm tones, photorealistic, high detail, cinematic, shallow depth of field."
   },
   {
     "date": "2026-05-16",
@@ -92,7 +100,9 @@
       "Song Wei",
       "Wang Xingxing"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/gd01mech.png",
+    "image_prompt": "Photorealistic news photo of Unitree GD01, a 500kg manned mecha robot, on a modern studio floor. Hybrid stance: split biped/quad silhouette, mechanical joints gleaming, subtle LED accents, dramatic soft spotlight, shallow depth of field, high detail, cinematic realism, no text."
   },
   {
     "date": "2026-05-16",
@@ -112,7 +122,9 @@
     "people": [
       "Mike Krieger"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/claudeui26.png",
+    "image_prompt": "Futuristic newsroom scene: a sleek holographic workspace with flowing wireframe website prototypes emerging from a glowing text-to-UI interface, led by a subtle AI \u201cvision\u201d motif. Modern designers in focus, blue/purple lighting, cinematic realism, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-05-16",
@@ -121,7 +133,7 @@
     "title": "Replit Beats Apple Ban & Drops Insane 'Agent 4' App Builder",
     "summary": "Replit released 'Agent 4' for iOS, ending a four-month App Store ban related to Apple's self-containment clauses. The tool features parallel multi-agent processing to concurrently architect and build mobile apps.",
     "engagement": "Medium",
-    "raw_text": "So check this out, Replit just fought Apple and won! After a massive four-month ban from the App Store because their tech violated Apple's strict code-execution rules, Replit's CEO Amjad Massad just announced the return of the app with 'Agent 4'. And honestly, this update is insane. Instead of writing code line-by-line, Agent 4 splits your prompt into multiple parallel AI agents. So while one agent builds your database, another one is writing backend logic, and a third is designing your user interface—all at the exact same time! They merge it all together and give you custom domain hosting straight from your iPad. 'Vibe coding' is getting seriously powerful, even if professional devs say it still hallucinates bugs. Are we seeing the end of traditional coding?",
+    "raw_text": "So check this out, Replit just fought Apple and won! After a massive four-month ban from the App Store because their tech violated Apple's strict code-execution rules, Replit's CEO Amjad Massad just announced the return of the app with 'Agent 4'. And honestly, this update is insane. Instead of writing code line-by-line, Agent 4 splits your prompt into multiple parallel AI agents. So while one agent builds your database, another one is writing backend logic, and a third is designing your user interface\u2014all at the exact same time! They merge it all together and give you custom domain hosting straight from your iPad. 'Vibe coding' is getting seriously powerful, even if professional devs say it still hallucinates bugs. Are we seeing the end of traditional coding?",
     "id": "repapple26",
     "category": "Mobile",
     "companies": [
@@ -131,7 +143,9 @@
     "people": [
       "Amjad Massad"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/repapple26.png",
+    "image_prompt": "Photoreal newsroom scene: close-up of a modern iPhone on a desk glowing with abstract app-building UI blocks, developer laptop beside it showing blurred coding grids, Replit-like multicolor circuit lines forming a \u201cmulti-agent\u201d network, cinematic lighting, high detail, realistic, no text, 16:9."
   },
   {
     "date": "2026-05-16",
@@ -152,11 +166,13 @@
       "Liang Wenfeng",
       "Sam Altman"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/dseek294k.png",
+    "image_prompt": "Photorealistic newsroom scene: a sleek server rack lit by blue LEDs beside a stylized translucent AI network hologram, close-up of a circuit board with glowing nodes, subtle world map lines in background. Cinematic lighting, high contrast, realistic depth of field, urgent tech-news mood, no text."
   },
   {
     "date": "2026-05-16",
-    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "source_file": "Tech News Highlights \u2013 May 16, 2026.pdf",
     "page": 1,
     "title": "New World Record! Europe Simulates 50-Qubit Quantum Computer",
     "summary": "Researchers using Europe's JUPITER supercomputer successfully simulated a 50-qubit quantum computer, setting a new world record. The feat required 16,000 NVIDIA GH200 superchips and approximately 2 petabytes of memory.",
@@ -165,17 +181,19 @@
     "id": "jup50qubit",
     "category": "Hardware",
     "companies": [
-      "Jülich Supercomputing Centre",
+      "J\u00fclich Supercomputing Centre",
       "NVIDIA"
     ],
     "people": [
       "Kristel Michielsen"
     ],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/jup50qubit.png",
+    "image_prompt": "Hyper-realistic newsroom-grade photo: sleek European supercomputing hall, glowing racks, cooling blue light, researchers in lab coats observing a holographic 50-qubit grid. Subtle quantum wave patterns in the air, cinematic lighting, high detail, natural colors, no text, no logos."
   },
   {
     "date": "2026-05-11",
-    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "source_file": "Tech News Highlights \u2013 May 16, 2026.pdf",
     "page": 6,
     "title": "Google Warns: AI is Now Writing Zero-Day Hacks autonomously!",
     "summary": "Google's Threat Intelligence Group confirmed the first case of a cybercrime gang using an AI model to autonomously discover and weaponize a zero-day vulnerability. The attack highlights the escalating speed and danger of AI-enabled cyber warfare.",
@@ -187,6 +205,8 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:39:15Z"
+    "created_at": "2026-05-16T23:39:15Z",
+    "image_url": "images/17_05_26/gaihack26.png",
+    "image_prompt": "Futuristic newsroom photo style: dim server room with glowing code streams forming a lock icon, ominous AI brain hologram scanning network nodes, subtle digital sparks, dark blues/reds, high contrast, photoreal, dramatic lighting, crisp detail, no text."
   }
 ]
