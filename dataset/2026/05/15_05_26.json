@@ -1,0 +1,172 @@
+[
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Apple DITCHES TSMC for Intel? The Secret 18A-P Deal Revealed!",
+    "summary": "Apple and Intel have reached a preliminary agreement for chip fabrication utilizing Intel's 18A-P process node. The deal aims to dedicate 80% of production to iPhone silicon, significantly shifting the global foundry model.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys, because this is absolute madness in the chip world. For over a decade, TSMC has been the undisputed king of making Apple's high-end consumer silicon. But Apple is officially getting nervous about TSMC prioritizing AI giants like Nvidia. To fix this 'single-source risk', Apple just struck a massive preliminary deal with Intel to use their crazy advanced 18A-P process node. Here's the wild part: 80% of this new Intel wafer allocation is meant specifically for the iPhone A21 chip slated for 2028! Intel is practically getting a once-in-a-generation foundry lifeline from Apple. If Intel can actually pull off these 2-nanometer-class chips with backside power delivery without messing up the yields, it could completely ruin TSMC's monopoly. Honestly, this is huge for the US chip manufacturing scene, but I'm super curious if Intel can actually meet Apple's insanely strict demands. Drop a comment below—do you trust an Intel-powered iPhone?",
+    "id": "A1B2C3D4E5",
+    "category": "Hardware",
+    "companies": [
+      "Apple",
+      "Intel",
+      "TSMC"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "URGENT: 'Dirty Frag' Exploit Destroys Linux Security in Seconds!",
+    "summary": "The 'Dirty Frag' vulnerability chain (CVE-2026-43284 and CVE-2026-43500) has emerged as a critical privilege escalation threat to Linux systems. It exploits in-place decryption optimization to execute deterministic page cache poisoning, granting attackers root access with a near 100% success rate.",
+    "engagement": "High",
+    "raw_text": "Guys, if you run Linux, stop what you're doing right now. A massive new kernel exploit called 'Dirty Frag' just dropped, and it is honestly the scariest thing we've seen since Dirty Pipe. Discovered by researcher Hyunwoo Kim, this involves two vulnerabilities, CVE-2026-43284 and CVE-2026-43500. Here is the wild part: it's not some random, probabilistic race condition that might fail. It's a deterministic architectural logic flaw. Hackers can basically use crafted network packets to force the kernel to overwrite your read-only file cache with attacker-controlled plaintext. Because the kernel totally fails to verify memory ownership, attackers get a universal root shell on major distros like Ubuntu 24.04.4 and RHEL 10.1 with a near 100% success rate. We are talking full container-to-host escapes here. The patches are rolling out, so make sure you hit update immediately. I'll link the CVE details in the description, but seriously, don't sleep on this one!",
+    "id": "F6G7H8I9J0",
+    "category": "Software",
+    "companies": [
+      "Linux",
+      "Ubuntu",
+      "Red Hat"
+    ],
+    "people": [
+      "Hyunwoo Kim"
+    ],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Windows BitLocker is BROKEN: The YellowKey Backdoor Explained!",
+    "summary": "The 'YellowKey' exploit allows attackers with physical access to bypass Windows BitLocker encryption on Windows 11 and Server 2022/2025 using a specialized USB drive. Researchers allege this vulnerability stems from an intentional backdoor placed within the Windows Recovery Environment (WinRE).",
+    "engagement": "High",
+    "raw_text": "Okay, we need to talk about Microsoft because this is not looking good. A security researcher going by 'Chaotic Eclipse' just revealed an insane Windows zero-day called 'YellowKey'. Apparently, anyone with physical access to your Windows 11 or Server 2025 machine can just bypass your BitLocker encryption. All they do is pop a USB drive loaded with these special 'FsTx' files into your PC, boot into the Windows Recovery Environment, hold the Control key, and boom—full command shell access. The TPM chip just transparently decrypts the drive without even asking for a password! Here is the craziest part: the researcher suspects this might be an intentional backdoor placed by Microsoft for law enforcement compliance. The specific component causing this doesn't even exist in normal Windows installs; it's only in WinRE. If you thought your BitLocker PIN was saving you, Chaotic Eclipse claims they have a variant that bypasses that too. Honestly, if this is a real backdoor, Microsoft has some serious explaining to do.",
+    "id": "K1L2M3N4O5",
+    "category": "Software",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [
+      "Chaotic Eclipse"
+    ],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Google Aluminum OS: The Ultimate Android Laptop is Coming!",
+    "summary": "Google is developing 'Aluminum OS,' a unified platform that merges Android and ChromeOS to provide native app support and a full desktop browser experience. The OS is expected to launch on a premium hardware line called 'Googlebooks' and features deep Gemini AI integration.",
+    "engagement": "High",
+    "raw_text": "So check this out, Google is finally doing what we've all been begging for. They are killing the traditional ChromeOS and merging it with Android to create something called 'Aluminum OS'! Instead of being just a glorified web browser, Aluminum OS uses an Android base layer so you get native app support alongside full desktop Chrome. This is basically their master plan to take on Mac and Windows laptops properly. They're even launching a new line of premium laptops called 'Googlebooks' to showcase this. And because it's 2026, it obviously has deep AI integration with Gemini. The coolest feature leaked so far is the 'Magic Pointer'—an AI cursor that gives you context-aware suggestions based on whatever you're hovering over on the screen. Honestly, ChromeOS purists are a bit skeptical about how a touch-heavy Android UI will translate to a mouse and keyboard, but if Google nails the cross-device sync with our phones, this could be the ultimate laptop experience. Are you guys buying a Googlebook?",
+    "id": "P6Q7R8S9T0",
+    "category": "Hardware",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Apple's $2000 Foldable iPhone Ultra Leak Just Broke the Internet!",
+    "summary": "Apple is rumored to be preparing a major hardware release featuring the 'iPhone Ultra,' a premium book-style foldable device priced over $2,000. The device is expected to include a titanium build, a crease-resistant inner display, and the powerful A20 Pro chip.",
+    "engagement": "High",
+    "raw_text": "Apple fans, brace yourselves, because autumn 2026 is going to be the biggest hardware season since the very first iPhone. The leaks are out, and the 'iPhone Ultra' is officially on the way. We are finally getting an Apple foldable! It's going to be a book-style device with a premium titanium build, the crazy fast A20 Pro chip, and—thankfully—a crease-resistant inner display. But here's the catch: it's rumored to cost over $2,000. Yeah, let that sink in. Apple is positioning this as a niche productivity powerhouse to redefine flagship smartphones. But that's not all! They're also rolling out a 'MacBook Ultra' with OLED touch screens, and new 'AirPods Ultra' packed with IR cameras. These new AirPods tie into Apple's 'Visual Intelligence,' meaning the AI can literally 'see' what you're looking at and give you live contextual help. It's a direct shot at Meta's Ray-Bans. So, who is actually dropping two grand on a folding iPhone?",
+    "id": "U1V2W3X4Y5",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Meta"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Cerebras IPO Explodes! Is This the End of Nvidia's Dominance?",
+    "summary": "Cerebras Systems experienced a highly successful public listing, with shares opening at $350 after pricing at $185. The company's Wafer-Scale Engine (WSE) architecture challenges traditional GPU clusters by maximizing system-level efficiency for AI training.",
+    "engagement": "Medium",
+    "raw_text": "Okay, if you follow the AI money, you need to see what just happened on Wall Street. Cerebras Systems just had a monster public listing on the Nasdaq. They priced their shares at $185, but it exploded and opened at a whopping $350! The market is absolutely ravenous for AI-native silicon right now. Cerebras isn't just making regular chips; they build these massive Wafer-Scale Engines. Instead of linking thousands of normal GPUs together like Nvidia does, which creates major power and latency bottlenecks, Cerebras essentially turns an entire silicon wafer into one giant mega-chip. It completely eliminates off-chip communication delays. Investors clearly believe that system-level efficiency is the new competitive moat in AI. It's a massive middle finger to traditional GPU clusters. While Nvidia has been sitting on the throne, Cerebras just proved they are a serious, heavyweight contender in the AI training space. Will they actually dethrone Jensen Huang? Let me know your thoughts.",
+    "id": "Z6A7B8C9D0",
+    "category": "Business",
+    "companies": [
+      "Cerebras Systems",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "India's Insane New AI Law: 3 Hours to Delete a Deepfake or Else!",
+    "summary": "India's amended Information Technology Rules now require digital platforms to remove 'Synthetically Generated Information' within three hours of receiving an order. Failure to comply strips platforms of 'Safe Harbour' status, leaving them legally liable for user-generated content.",
+    "engagement": "High",
+    "raw_text": "Here is a massive update on global internet regulation, and it is going to cause pure chaos for companies like Meta and Google. India just dropped the hammer with their 2026 IT Rules amendments, and it is arguably the most aggressive content governance law we've ever seen. They created a new legal category for deepfakes and AI clones called 'Synthetically Generated Information'. If a platform gets a court order about illegal AI content, they now have just three hours to take it down. For sensitive impersonation, the window is literally two hours! If these platforms miss the deadline by even a minute, they lose their 'Safe Harbour' status. That means the government can sue the platform as if they created the illegal content themselves. Experts are warning this will force platforms into 'censorship by algorithm,' meaning they'll probably start blindly deleting legitimate satire just to avoid getting sued. It is wild. Could this break the internet in India?",
+    "id": "E1F2G3H4I5",
+    "category": "Policy",
+    "companies": [
+      "Meta",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Cisco Fires 4,000 Employees to Go ALL IN on AI Infrastructure!",
+    "summary": "Cisco Systems reported a record $15.8 billion in revenue, driven by $5.3 billion in AI infrastructure orders from hyperscalers. Concurrently, the company announced the layoff of 4,000 employees to reallocate resources toward AI silicon and optics.",
+    "engagement": "Medium",
+    "raw_text": "We have to talk about the brutal reality of the corporate AI boom right now. Cisco just gave Wall Street the biggest surprise of the week, reporting an absolutely insane, record-breaking $15.8 billion in revenue. Their stock jumped 15% in a single day! Why? Because they pulled in $5.3 billion just from AI infrastructure orders for hyperscale data centers. But here is the dark side of this massive success: alongside these record profits, Cisco also announced they are laying off 4,000 employees. They are basically taking all the money saved from those salaries and aggressively redeploying it directly into AI silicon and optics. It's a completely ruthless pivot towards the AI hardware supercycle. Investors are loving it because they want to see 'real revenue' and physical infrastructure instead of just empty software promises. But man, it shows how quickly legacy tech is willing to axe its workforce to feed the AI machine.",
+    "id": "J6K7L8M9N0",
+    "category": "Business",
+    "companies": [
+      "Cisco Systems"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "NASA's New AI Chip Lets Spacecraft THINK for Themselves!",
+    "summary": "NASA is actively testing a radiation-hardened AI processor designed to enable autonomous decision-making for deep-space missions. This technology, paired with a new electromagnetic thruster, is crucial for human interplanetary travel to destinations like Mars.",
+    "engagement": "Medium",
+    "raw_text": "Okay, space nerds, you are going to absolutely love this one. NASA is officially testing out a brand new, radiation-hardened computer chip that literally allows deep-space spacecraft to 'think for themselves'. When you're sending probes to Mars or the outer planets, the communication delay with Earth is brutal. This next-gen processor gives ships the computational muscle to make independent, real-time mission adjustments without waiting for humans to beam commands back and forth. Plus, it's ruggedized to survive the intense radiation of deep space. And as if that wasn't cool enough, the Jet Propulsion Lab just successfully tested a revolutionary electromagnetic thruster using lithium vapor and extreme magnetic fields. This thruster is designed to generate the actual speed we need for human interplanetary travel. We are literally watching the birth of autonomous, deep-space exploration right before our eyes. Would you trust an AI pilot on a trip to Mars?",
+    "id": "O1P2Q3R4S5",
+    "category": "Science",
+    "companies": [
+      "NASA",
+      "Jet Propulsion Laboratory"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  },
+  {
+    "date": "2026-05-15",
+    "source_file": "May 15th Tech News Research Plan.docx",
+    "page": 1,
+    "title": "Quantum Leap: Scientists Simulate 50-Qubit Computer on JUPITER!",
+    "summary": "Researchers in Germany utilized the JUPITER exascale supercomputer to successfully simulate a 50-qubit quantum computer for the first time. This milestone enables the validation of complex quantum algorithms on classical hardware prior to deployment on physical quantum processors.",
+    "engagement": "Medium",
+    "raw_text": "We just had a monumental breakthrough in quantum computing that feels straight out of sci-fi. Scientists in Germany just pulled off a world-first: they successfully simulated a massive 50-qubit quantum computer entirely on classical hardware! They used the JUPITER exascale supercomputer to crunch the absolutely mind-boggling amount of data required to emulate 50 qubits. This is a game changer because normally, testing quantum algorithms on physical quantum processors is super expensive, buggy, and unstable. Now, researchers can perfectly validate their complex quantum code on a supercomputer before they ever touch real quantum hardware. On top of that, researchers are pairing these massive computational leaps with AI systems like 'Synthegy', which lets chemists design entirely new molecules literally just by typing out a description. We are entering an era where materials science and quantum simulation are moving at lightspeed. Quantum supremacy is getting closer every single day, guys.",
+    "id": "T6U7V8W9X0",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-16T23:13:45+05:30"
+  }
+]
