@@ -1,0 +1,192 @@
+[
+  {
+    "date": "2026-05-14",
+    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "page": 1,
+    "title": "Former Salesforce CTO Raises $650M for AI That Builds Itself!",
+    "summary": "Recursive Superintelligence launched with $650 million in funding to develop self-improving AI algorithms. The startup aims to automate the entire research cycle without human intervention.",
+    "engagement": "High",
+    "raw_text": "So check this out, the holy grail of AI might actually be here. Former Salesforce CTO Richard Socher and Peter Norvig just raised a massive $650 million to launch Recursive Superintelligence. I mean, honestly, this is huge! They aren't just building another chatbot; they want to build an AI that can literally write, test, and improve its own code without any human help. Think about it—an AI that gets smarter entirely on its own by iteratively fixing its weaknesses. If they pull this off, the speed of scientific discovery is going to absolutely skyrocket, though it definitely brings up some crazy questions about how we even control something like this. Are we ready for self-improving machines? Let me know in the comments!",
+    "id": "rs650m2026",
+    "category": "AI",
+    "companies": [
+      "Recursive Superintelligence",
+      "Salesforce"
+    ],
+    "people": [
+      "Richard Socher",
+      "Peter Norvig"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "ArXiv Drops the Ban Hammer on AI-Generated Fake Science!",
+    "summary": "The preprint server arXiv announced strict new rules banning authors for a year if they submit unreviewed AI-generated content. This follows a massive 42% increase in fake, AI-written journal submissions.",
+    "engagement": "Medium",
+    "raw_text": "Okay, scientists are officially fed up. The massive research platform arXiv just dropped a massive ban hammer on AI hallucinations. Here's the wild part: if you submit a paper and they find 'clear evidence' of unchecked AI text—like fake citations or hidden ChatGPT prompts—you get hit with an immediate one-year ban. And it gets worse; after the year is up, you lose your standard publishing privileges and have to go through rigorous peer review for anything you post! I guess this was inevitable after a reported 42% spike in fake submissions flooding journals. It really shows the tension right now between using AI to work faster and completely destroying academic integrity.",
+    "id": "arxban2026",
+    "category": "Science",
+    "companies": [
+      "arXiv"
+    ],
+    "people": [
+      "Thomas Dietterich",
+      "Steinn Sigurðsson"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-12",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Googlebook is Here: RIP Chromebooks?",
+    "summary": "Google has debuted the 'Googlebook', a new line of AI-native laptops built around Gemini and an Android-based OS. Scheduled to ship this fall, the devices feature a Gemini-powered 'Magic Pointer'.",
+    "engagement": "High",
+    "raw_text": "Alright guys, Google just made a massive move that might finally kill the Chromebook. They just announced the 'Googlebook'—a brand new line of laptops totally built around their Gemini AI. Instead of ChromeOS, these things run an Android-based OS designed from the ground up for AI features. Honestly, the coolest part is this new 'Magic Pointer'. You hover your cursor over a date, and Gemini pops up to schedule a meeting, or you point at an image of a room and it previews furniture! They're shipping this fall with partners like Acer and Dell. It completely changes the laptop game and finally gives Microsoft's Copilot+ PCs a real run for their money!",
+    "id": "gbook2026",
+    "category": "Hardware",
+    "companies": [
+      "Google",
+      "Acer",
+      "Dell",
+      "HP",
+      "Lenovo"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Aggregation and Exclusion.pdf",
+    "page": 1,
+    "title": "ChatGPT is Getting Ads... and a $200 Subscription?!",
+    "summary": "OpenAI restructured its consumer offerings by introducing an $8 'ChatGPT Go' tier and a $200 'ChatGPT Pro' tier. Furthermore, the company is introducing targeted advertisements to its free and Go tiers.",
+    "engagement": "High",
+    "raw_text": "We all knew this day was coming! OpenAI is officially putting ads in ChatGPT. So check this out: to pay for their massive server costs, the free tier and a brand new $8 'ChatGPT Go' tier will now have targeted ads injected right at the bottom of your answers. But that's not even the craziest part. They also just launched 'ChatGPT Pro' for a staggering $200 a month! That gets you their massive GPT-5.2 Pro model and some insane deep integrations, like linking directly to your bank account via Plaid to analyze your spending. This is literally the Web 2.0-ification of AI. Would you pay $200 a month for maximum AI power, or are you sticking with the ads?",
+    "id": "oaitier2026",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Plaid"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Aggregation and Exclusion.pdf",
+    "page": 15,
+    "title": "Real-Life Iron Man? Unitree Unveils 500kg Manned Mecha Robot!",
+    "summary": "Robotics firm Unitree has launched the GD01, the world's first production-ready, manned mecha robot. The 500kg machine features a hybrid locomotion system that shifts between bipedal and quadrupedal modes.",
+    "engagement": "High",
+    "raw_text": "You guys, we are literally living in a sci-fi movie! Chinese robotics giant Unitree just revealed the GD01, and it is the world's first production-ready, manned mecha robot. I'm not kidding, a human sits inside this 500-kilogram beast! Here's the wild part: it can actually stand up on two legs like a human, or crawl around on four legs for insane stability. Unitree says the stabilization is so advanced it can maintain perfect balance even if a solid brick wall falls on it. They are basically using these giant mechas to test spatial algorithms so they can build human-scale robots next. I desperately want to drive one of these. Who's with me?",
+    "id": "gd01mech",
+    "category": "Robotics",
+    "companies": [
+      "Unitree"
+    ],
+    "people": [
+      "Song Wei",
+      "Wang Xingxing"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Aggregation and Exclusion.pdf",
+    "page": 3,
+    "title": "Claude Design Just Broke UI/UX Workflows FOREVER!",
+    "summary": "Anthropic launched 'Claude Design', a vision-powered workspace utilizing the Claude Opus 4.7 model to generate interactive website prototypes and design systems from text prompts. The tool bypasses traditional canvases but consumes significant token bandwidth.",
+    "engagement": "High",
+    "raw_text": "Designers, you might want to sit down for this one. Anthropic just dropped 'Claude Design', and it's completely breaking traditional UI/UX workflows. Powered by their massive Claude Opus 4.7 vision model, you can just type out a prompt, and it generates fully polished, interactive website prototypes and design systems. You can even upload your brand guidelines and raw code, and the AI acts as the ultimate digital canvas. It actually caused Figma's stock to feel immediate downward pressure when it was announced! But honestly, there is a catch: generating complex visual stuff burns through your AI token limits super fast. Still, the ability to go from a text prompt to a functioning app design is absolutely mind-blowing!",
+    "id": "claudeui26",
+    "category": "Software",
+    "companies": [
+      "Anthropic",
+      "Figma",
+      "Canva"
+    ],
+    "people": [
+      "Mike Krieger"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Aggregation and Exclusion.pdf",
+    "page": 5,
+    "title": "Replit Beats Apple Ban & Drops Insane 'Agent 4' App Builder",
+    "summary": "Replit released 'Agent 4' for iOS, ending a four-month App Store ban related to Apple's self-containment clauses. The tool features parallel multi-agent processing to concurrently architect and build mobile apps.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, Replit just fought Apple and won! After a massive four-month ban from the App Store because their tech violated Apple's strict code-execution rules, Replit's CEO Amjad Massad just announced the return of the app with 'Agent 4'. And honestly, this update is insane. Instead of writing code line-by-line, Agent 4 splits your prompt into multiple parallel AI agents. So while one agent builds your database, another one is writing backend logic, and a third is designing your user interface—all at the exact same time! They merge it all together and give you custom domain hosting straight from your iPad. 'Vibe coding' is getting seriously powerful, even if professional devs say it still hallucinates bugs. Are we seeing the end of traditional coding?",
+    "id": "repapple26",
+    "category": "Mobile",
+    "companies": [
+      "Replit",
+      "Apple"
+    ],
+    "people": [
+      "Amjad Massad"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Aggregation and Exclusion.pdf",
+    "page": 6,
+    "title": "How China's DeepSeek Cloned GPT-5 for Only $294K!",
+    "summary": "Chinese startup DeepSeek utilized 'inference-time computation' to achieve near-parity with Western frontier models at vastly lower costs. DeepSeek's R1 model was reportedly trained for only $294,000, compared to the hundreds of millions spent by U.S. competitors.",
+    "engagement": "Medium",
+    "raw_text": "Here's a story that has Silicon Valley absolutely sweating. Sam Altman has said training OpenAI's models costs over $100 million, right? Well, Chinese startup DeepSeek just trained a model that rivals GPT-5, and they did it for only $294,000! How? They're using a technique called 'inference-time computation'. Instead of lighting up their entire massive neural network for every single question, the AI only activates the specific pathways it actually needs to solve the problem. This hyper-specialized optimization means they don't need tens of billions in fancy Nvidia hardware to compete. Honestly, this completely changes the economics of AI and gives developers a powerful open-source alternative outside of Western control. It's a massive disruption!",
+    "id": "dseek294k",
+    "category": "AI",
+    "companies": [
+      "DeepSeek",
+      "OpenAI",
+      "High-Flyer"
+    ],
+    "people": [
+      "Liang Wenfeng",
+      "Sam Altman"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-16",
+    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "page": 1,
+    "title": "New World Record! Europe Simulates 50-Qubit Quantum Computer",
+    "summary": "Researchers using Europe's JUPITER supercomputer successfully simulated a 50-qubit quantum computer, setting a new world record. The feat required 16,000 NVIDIA GH200 superchips and approximately 2 petabytes of memory.",
+    "engagement": "Medium",
+    "raw_text": "Okay, my quantum nerds, listen to this! Researchers in Germany just smashed a world record by fully simulating a 50-qubit quantum computer. Nobody has ever done this before. They used Europe's brand new JUPITER exascale supercomputer, packed with 16,000 Nvidia GH200 superchips and a mind-blowing 2 petabytes of memory! Basically, they orchestrated over 2 quadrillion values in perfect lockstep to mimic a quantum machine. Why does this matter? It lets scientists test and build crazy advanced quantum algorithms for chemistry and cryptography before the physical quantum hardware is even fully built. It's a huge flex of raw supercomputing power!",
+    "id": "jup50qubit",
+    "category": "Hardware",
+    "companies": [
+      "Jülich Supercomputing Centre",
+      "NVIDIA"
+    ],
+    "people": [
+      "Kristel Michielsen"
+    ],
+    "created_at": "2026-05-16T23:39:15Z"
+  },
+  {
+    "date": "2026-05-11",
+    "source_file": "Tech News Highlights – May 16, 2026.pdf",
+    "page": 6,
+    "title": "Google Warns: AI is Now Writing Zero-Day Hacks autonomously!",
+    "summary": "Google's Threat Intelligence Group confirmed the first case of a cybercrime gang using an AI model to autonomously discover and weaponize a zero-day vulnerability. The attack highlights the escalating speed and danger of AI-enabled cyber warfare.",
+    "engagement": "High",
+    "raw_text": "Guys, the cybersecurity nightmare we've all been warned about is finally happening. Google's Threat Intelligence just confirmed the very first case of AI-enabled hacking for a zero-day exploit. Check this out: a cybercrime gang actually used an AI model to autonomously scan an open-source admin tool, find a hidden flaw, and write a weaponized exploit to attack it! While Google managed to stop this one before a mass attack happened, experts are saying this is just the tip of the iceberg. Hackers are officially offloading the heavy lifting to AI, speeding up attacks and lowering the skill barrier. The era of AI vs. AI cyber warfare has officially begun.",
+    "id": "gaihack26",
+    "category": "Cybersecurity",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-05-16T23:39:15Z"
+  }
+]
