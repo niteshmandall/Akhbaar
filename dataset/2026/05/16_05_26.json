@@ -13,7 +13,9 @@
       "TetraMem Inc."
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/A1B2C3D4E6.png",
+    "image_prompt": "Photoreal newsroom-style scene: sleek close-up of a 22nm analog AI chip with glowing circuit traces, multi-level RRAM memory layers visible, surrounded by edge-device components and faint city-at-night bokeh. Dramatic lighting, high contrast, shallow depth of field, crisp detail, realistic materials."
   },
   {
     "date": "2026-05-15",
@@ -29,7 +31,9 @@
       "Anduril Industries"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/F6G7H8I9J1.png",
+    "image_prompt": "Ultra-realistic newsroom photo style: sleek autonomous drone swarm and ground robot near a desert test range at dusk, glowing LEDs, dynamic motion blur, dramatic cinematic lighting, shallow depth of field, industrial tech mood, high detail, natural colors, no text, 16:9."
   },
   {
     "date": "2026-05-15",
@@ -49,7 +53,9 @@
       "Yann LeCun",
       "Fei-Fei Li"
     ],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/K1L2M3N4O6.png",
+    "image_prompt": "Realistic news photo: modern tech lab at dusk, blurred investors in suits, two glass podiums with glowing AI circuitry reflections, giant billowing funding \u201cwave\u201d in background, stark contrast\u2014one bright high-tech center, surrounding dim startups crowd; cinematic, high-detail, natural lighting, no text."
   },
   {
     "date": "2026-05-15",
@@ -63,7 +69,9 @@
     "category": "Policy",
     "companies": [],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/P6Q7R8S9T1.png",
+    "image_prompt": "Realistic news photo-style scene in India: modern government office corridor with Indian flag lighting, officials in suits reviewing digital gaming data on large screens, subtle gaming icons hologram behind glass, serious crackdown mood, high contrast, sharp focus, ultra high quality, no text."
   },
   {
     "date": "2026-05-15",
@@ -79,7 +87,9 @@
       "Doximity"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/U1V2W3X4Y6.png",
+    "image_prompt": "Photoreal news scene: Wall Street trading floor at dusk, red down-arrow market screens, tense traders, faint AI network light overlay fading out, CEO-like silhouette near falling chart, dramatic high-contrast lighting, motion blur, cinematic realism, shallow depth of field, no text."
   },
   {
     "date": "2026-05-15",
@@ -95,7 +105,9 @@
       "Klarna"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/Z6A7B8C9D1.png",
+    "image_prompt": "Realistic high-quality news photo: modern fintech office at dusk with a glowing data visualization overlay, a subtle BNPL payment card silhouette on a desk, confident businessperson watching market charts on a laptop, optimistic mood, natural lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-05-15",
@@ -104,14 +116,16 @@
     "title": "NASA is Hunting INVISIBLE Dead Stars with this New Telescope!",
     "summary": "NASA's Roman Space Telescope is being deployed to uncover a hidden population of neutron stars using microlensing. By observing gravity-induced shifts in starlight, the mission aims to locate millions of invisible dense objects across the Milky Way.",
     "engagement": "Medium",
-    "raw_text": "Space fans, this is so cool. NASA is preparing to use the Roman Space Telescope to hunt down a massive 'hidden population' of dead stars that are completely invisible to us right now. We are talking about neutron stars—these insanely dense, collapsed cores of massive stars. Because they don't emit enough light, we can't see them directly. But the Roman Telescope is going to use a mind-bending technique called microlensing. Basically, it watches for the subtle bending and shifting of background starlight caused by the intense gravity of these invisible objects passing by. NASA thinks they could identify millions of these hidden neutron stars scattered all across the Milky Way! This is going to completely rewrite our understanding of how matter is distributed in the galaxy and the lifecycle of stars. Are you excited for the discoveries from the Roman Space Telescope?",
+    "raw_text": "Space fans, this is so cool. NASA is preparing to use the Roman Space Telescope to hunt down a massive 'hidden population' of dead stars that are completely invisible to us right now. We are talking about neutron stars\u2014these insanely dense, collapsed cores of massive stars. Because they don't emit enough light, we can't see them directly. But the Roman Telescope is going to use a mind-bending technique called microlensing. Basically, it watches for the subtle bending and shifting of background starlight caused by the intense gravity of these invisible objects passing by. NASA thinks they could identify millions of these hidden neutron stars scattered all across the Milky Way! This is going to completely rewrite our understanding of how matter is distributed in the galaxy and the lifecycle of stars. Are you excited for the discoveries from the Roman Space Telescope?",
     "id": "E1F2G3H4I6",
     "category": "Science",
     "companies": [
       "NASA"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/E1F2G3H4I6.png",
+    "image_prompt": "Realistic NASA news photo style: Roman Space Telescope in orbit or deploying sunshield, starfield backdrop with subtle gravitational lensing arcs around a distant star, faint Milky Way glow, dramatic cinematic lighting, high detail, accurate spacecraft design, deep space mood, no text."
   },
   {
     "date": "2026-05-15",
@@ -120,12 +134,14 @@
     "title": "Type a Prompt, Invent a Molecule? Synthegy AI is CRAZY!",
     "summary": "The emergence of a new quantum-inspired algorithm and AI systems like Synthegy are revolutionizing materials science. These tools allow chemists to design complex molecular structures rapidly from simple text descriptions.",
     "engagement": "High",
-    "raw_text": "Okay, we all know about generating images and code with AI, but what about generating literal molecules? There is a new AI system called 'Synthegy' making waves right now, and it is going to absolutely revolutionize chemistry. Combined with new quantum-inspired algorithms, scientists are now solving complex materials science problems in seconds—stuff that used to take traditional supercomputers weeks to calculate. With Synthegy, a chemist can literally just type out a description of what they want a material to do, and the AI designs the complex molecular structure for them! It's basically text-to-molecule! Imagine just prompting an AI to create a new, hyper-efficient battery material or a life-saving drug, and it maps out the chemistry instantly. This is the next frontier of artificial intelligence crossing into the physical world. What kind of futuristic material would you ask the AI to invent?",
+    "raw_text": "Okay, we all know about generating images and code with AI, but what about generating literal molecules? There is a new AI system called 'Synthegy' making waves right now, and it is going to absolutely revolutionize chemistry. Combined with new quantum-inspired algorithms, scientists are now solving complex materials science problems in seconds\u2014stuff that used to take traditional supercomputers weeks to calculate. With Synthegy, a chemist can literally just type out a description of what they want a material to do, and the AI designs the complex molecular structure for them! It's basically text-to-molecule! Imagine just prompting an AI to create a new, hyper-efficient battery material or a life-saving drug, and it maps out the chemistry instantly. This is the next frontier of artificial intelligence crossing into the physical world. What kind of futuristic material would you ask the AI to invent?",
     "id": "J6K7L8M9N1",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/J6K7L8M9N1.png",
+    "image_prompt": "Realistic high-tech newsroom photo: chemist at workstation with holographic molecule lattice, glowing quantum circuit overlays, subtle computer UI reflections, dramatic blue-purple lighting, shallow depth of field, ultra-detailed, natural skin tones, crisp focus, cinematic, no text, 4k news photography."
   },
   {
     "date": "2026-05-15",
@@ -134,14 +150,16 @@
     "title": "Axe Compute Bags $260M Contract for Enterprise GPUs!",
     "summary": "Axe Compute has secured a $260 million contract to provide dedicated enterprise GPU capacity. The company reported a pipeline exceeding $4 billion, demonstrating robust demand for specialized AI infrastructure.",
     "engagement": "Low",
-    "raw_text": "For the B2B tech crowd, we have a clear indicator of where enterprise infrastructure is heading. Axe Compute just landed a massive $260 million contract to supply dedicated enterprise GPU capacity. And that is just the start—they are reporting a massive sales pipeline of over $4 billion! This really highlights the desperation in the corporate world right now. Enterprises are realizing they can't just rely on shared cloud resources if they want to build and deploy serious, sovereign AI models securely. They need guaranteed, dedicated compute, and companies like Axe Compute are capitalizing hard on this bottleneck. While consumers care about the flashy AI apps, the real gold rush is selling the pickaxes—in this case, dedicated GPU server racks. It's an infrastructure boom, pure and simple. Are we going to run out of silicon before these companies can deploy?",
+    "raw_text": "For the B2B tech crowd, we have a clear indicator of where enterprise infrastructure is heading. Axe Compute just landed a massive $260 million contract to supply dedicated enterprise GPU capacity. And that is just the start\u2014they are reporting a massive sales pipeline of over $4 billion! This really highlights the desperation in the corporate world right now. Enterprises are realizing they can't just rely on shared cloud resources if they want to build and deploy serious, sovereign AI models securely. They need guaranteed, dedicated compute, and companies like Axe Compute are capitalizing hard on this bottleneck. While consumers care about the flashy AI apps, the real gold rush is selling the pickaxes\u2014in this case, dedicated GPU server racks. It's an infrastructure boom, pure and simple. Are we going to run out of silicon before these companies can deploy?",
     "id": "O1P2Q3R4S6",
     "category": "Business",
     "companies": [
       "Axe Compute"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/O1P2Q3R4S6.png",
+    "image_prompt": "Realistic news photo: sleek data center at night, rows of glowing enterprise GPU racks with blue light, subtle steam haze, modern server aisles, professional corporate atmosphere, shallow depth of field, crisp detail, cinematic lighting, no text, no logos, high resolution."
   },
   {
     "date": "2026-05-15",
@@ -157,6 +175,8 @@
       "Tower Semiconductor"
     ],
     "people": [],
-    "created_at": "2026-05-16T23:19:03+05:30"
+    "created_at": "2026-05-16T23:19:03+05:30",
+    "image_url": "images/16_05_26/T6U7V8W9X1.png",
+    "image_prompt": "Realistic news photo style: a sleek semiconductor cleanroom with glowing wafer processing lights, robotic arms, and subtle fiber-optic cables suggest silicon photonics; in foreground a faint AI data stream overlay, corporate investors in soft focus. Bright optimistic mood, high detail, sharp lighting, no text."
   }
 ]
