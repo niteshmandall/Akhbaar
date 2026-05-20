@@ -1,0 +1,163 @@
+[
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "AI Just Killed Entry-Level Cybersecurity Jobs",
+    "summary": "Industry data from May 2026 reveals that AI models are autonomously executing foundational coding and threat detection, effectively blocking junior job seekers from entering the cybersecurity field. Organizations are bypassing human talent pipelines to rely entirely on automated AI defense systems.",
+    "engagement": "High",
+    "raw_text": "So check this out, if you're studying cybersecurity right now, you might need a backup plan. Industry data just dropped showing that junior job seekers are hitting a massive firewall, and it is all because of AI. Here's the wild part: AI models are now autonomously doing the basic coding, threat detection, and log-analysis that entry-level analysts used to do. Companies have underinvested in human talent for so long that they are just bypassing humans entirely, using automated AI to fight other automated AI. Honestly, this is huge. It means the entry-level cybersecurity market is being completely destroyed. We are heading into an era where cyber defense is literally just machine-versus-machine, leaving no room for beginners.",
+    "id": "CYBERAI26",
+    "category": "Business",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Deepfakes Are Destroying Reality: Enter 'TrustOps'",
+    "summary": "Gartner projects that by 2028, 40% of global government organizations will establish dedicated 'TrustOps' functions to combat high-fidelity deepfake identity impersonation. Failing to do so risks a massive digital regression where society abandons digital efficiency to verify realities.",
+    "engagement": "High",
+    "raw_text": "We are officially entering a dystopian future. Gartner analysts just dropped a terrifying warning that by 2028, 40% of governments globally will be forced to create 'TrustOps' departments. Why? Because deepfakes and disinformation-as-a-service are getting so incredibly realistic. Here's the wild part: hackers are using synthetic media to bypass biometric security and even impersonate world leaders. Gartner says if we can't tell the difference between a real prime minister and an AI clone, the whole foundation of truth collapses. Honestly, this is huge. If governments don't act proactively, we might face a digital regression, basically forcing us back to paper and in-person meetings just to prove who we are. Reality as we know it is breaking down.",
+    "id": "TRUSTOPS26",
+    "category": "AI",
+    "companies": [
+      "Gartner"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Microsoft Leaves Millions Exposed to Zero-Day Hack",
+    "summary": "Cybersecurity analysts identified a critical zero-day vulnerability (CVE-2026-42897) in Microsoft Exchange Server that allows unauthorized attackers to execute arbitrary JavaScript. Despite active exploitation, Microsoft failed to issue a patch during its regular update cycle.",
+    "engagement": "High",
+    "raw_text": "If your company uses Microsoft Exchange, you are in serious trouble right now. Cybersecurity analysts just exposed a critical zero-day vulnerability, CVE-2026-42897, in Outlook Web Access. It lets hackers execute arbitrary code and spoof attacks over your entire network. But here's the wild part: even though this exploit is being actively used in the wild right now, Microsoft completely failed to drop a patch during their regular Patch Tuesday. Millions of organizations are just left completely exposed to the internet, waiting on mitigation scripts. Honestly, it's a terrifying tech panic. With advanced AI threat actors already prowling around, basic security hygiene failing at this massive scale is literally the worst-case scenario.",
+    "id": "MSEXCHZD26",
+    "category": "Software",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "The EPA is About to Choke the Global Microchip Supply",
+    "summary": "The U.S. EPA advanced a $1 billion strategy targeting PFAS 'forever chemicals', using the Toxic Substances Control Act to enforce strict manufacturing limits. This regulatory pressure will force costly upgrades across the global semiconductor supply chain, as PFAS are vital for chip fabrication.",
+    "engagement": "Medium",
+    "raw_text": "We might be looking at the next massive global chip shortage, and it isn't because of supply chains—it's the EPA. The U.S. Environmental Protection Agency just rolled out a massive $1 billion crackdown on PFAS, which are those notorious 'forever chemicals'. But here's the catch: these exact chemicals are absolutely essential for making, cooling, and etching advanced semiconductors. With these new strict limits under the Toxic Substances Control Act, global microchip manufacturers are going to have to spend billions upgrading their factories just to stay compliant and dodge lawsuits. Honestly, this is huge. We want to build millions of GPUs for AI, but the physical reality and environmental regulations are setting up a massive bottleneck.",
+    "id": "EPAPFAS26",
+    "category": "Hardware",
+    "companies": [
+      "EPA"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Stellantis is Building Cars in the Matrix",
+    "summary": "Stellantis, partnered with Accenture and NVIDIA, is deploying AI-enabled digital twins across its global manufacturing footprint. Using NVIDIA Omniverse, this allows the automaker to digitally simulate production and execute predictive maintenance before physical deployment.",
+    "engagement": "Medium",
+    "raw_text": "Imagine building an entire car factory inside a video game before you lay a single brick. That is exactly what Stellantis, one of the world's biggest automakers, is doing right now. They just teamed up with Accenture and Nvidia to build next-generation 'digital twins' of all their manufacturing plants. Powered by Nvidia's Omniverse, these virtual factories are fed real-time data so they can simulate stress, find bottlenecks, and fix machines before anything breaks in the real world. Honestly, this is huge. It's like having cheat codes for industrial engineering. They're rolling out pilots in North America this year. The stock market loved the news, and it proves AI isn't just a chatbot; it is literally reinventing heavy manufacturing.",
+    "id": "STELL26TWIN",
+    "category": "Business",
+    "companies": [
+      "Stellantis",
+      "Accenture",
+      "NVIDIA"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "$1.5 Billion Bet on Aerospace Metal for Your Heart",
+    "summary": "Boston Scientific Corporation invested $1.5 billion in medtech firm MiRus LLC to secure access to its proprietary molybdenum-rhenium superalloy for structural heart devices. This aerospace-grade biomaterial forms the foundation of the innovative SIEGEL TAVR system.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, Boston Scientific just dropped a massive $1.5 billion investment on a medtech company called MiRus, and it's all because of a crazy new space-age metal. They are trying to dominate the heart surgery market with a new heart valve made from a molybdenum-rhenium superalloy. Here's the wild part: this aerospace-grade material is completely nickel and cobalt-free, meaning way fewer bad patient reactions, and it uses a delivery device half the size of current tech. Less invasive, stronger, and super precise. Boston Scientific had a huge failure last year with their old heart valves, but this rhenium-based tech is about to become the new gold standard. Honestly, the fusion of advanced biomaterials and medicine right now is incredible.",
+    "id": "BSXMIR26",
+    "category": "Science",
+    "companies": [
+      "Boston Scientific",
+      "MiRus LLC"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Tanks Just Got AI Eyes: The Peridot Night Micro",
+    "summary": "Israeli firm Maris-Tech Ltd. developed the Peridot Night Micro, an edge-computing AI vision solution for armored vehicles and drones. It uses onboard YOLO-based software for instantaneous, localized threat classification without requiring cloud connectivity.",
+    "engagement": "Medium",
+    "raw_text": "We are seeing AI get strapped directly onto the battlefield. Israeli defense company Maris-Tech just unveiled the 'Peridot Night Micro'. It's a tiny, hyper-ruggedized AI vision system designed specifically for tanks, armored vehicles, and ground drones. Here's the wild part: in modern war, the cloud gets jammed. So this device uses edge computing to run advanced object detection locally. It instantly identifies and classifies threats without ever pinging a central server. It's basically giving armored vehicles autonomous AI eyes that work under the most extreme combat conditions imaginable. Honestly, this is a massive shift in military tech. AI is moving out of the data centers and straight to the tactical edge.",
+    "id": "MARISTANK26",
+    "category": "Hardware",
+    "companies": [
+      "Maris-Tech Ltd."
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Meta Just Won a Massive Privacy Lawsuit",
+    "summary": "The U.S. District Court for the Northern District of California denied class certification in a major lawsuit regarding Meta Pixel tracking technology on tax filing websites. The court ruled that individual consent issues precluded the predominance requirement, shielding Meta.",
+    "engagement": "Low",
+    "raw_text": "If you ever used an online tax filing site and worried Facebook was tracking your data, well, Meta just dodged a massive bullet. A California federal judge just threw out class-action certification for the 'Meta Pixel Tax Filing Cases'. Plaintiffs claimed Meta was illegally harvesting sensitive financial data through their pixel trackers. But here's the wild part: the court said because everyone's individual consent and confidentiality situations are different, you can't lump them all into one giant class-action suit. Honestly, this is huge news for Big Tech. This ruling basically acts as a massive legal shield, making it incredibly difficult for regular users to team up and sue companies over pervasive ad-tracking. Big tech privacy wins again.",
+    "id": "METAPIX26",
+    "category": "Business",
+    "companies": [
+      "Meta",
+      "Clark Hill"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "India is Becoming the New Tech Hardware Capital",
+    "summary": "Triggered by global supply chain diversification and the 'China Plus One' strategy, Indian electronic manufacturing services are booming. Companies like Syrma SGS Technology are reporting 59% year-over-year revenue growth due to the hardware super-cycle.",
+    "engagement": "Low",
+    "raw_text": "While everyone is staring at AI software, there's a massive hardware super-cycle quietly exploding in India. Thanks to the whole 'China Plus One' strategy, where companies are diversifying their global supply chains away from East Asia, the Indian electronic manufacturing sector is absolutely booming. Look at Syrma SGS Technology; they just posted a staggering 59% year-over-year revenue growth. Here's the wild part: all these advanced AI models and smart devices need physical hardware and edge IoT sensors to actually work and feed them data. Honestly, manufacturing the physical components for the AI revolution is proving to be incredibly lucrative. If you want to see where the real heavy lifting for the tech sector is happening, keep your eyes on emerging markets.",
+    "id": "INDIAHW26",
+    "category": "Business",
+    "companies": [
+      "Syrma SGS Technology",
+      "Max Financials"
+    ],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "May 18, 2026 Tech News Summary.docx",
+    "page": 1,
+    "title": "Telecom Giants Build Their Own Secret Cyber Group",
+    "summary": "Facing unprecedented cuts to government cybersecurity funding, the telecommunications sector launched the private C2 ISAC. This intelligence-sharing group allows telecom operators to discuss zero-day threats privately without direct federal oversight.",
+    "engagement": "Low",
+    "raw_text": "With cyber threats spinning out of control, telecom giants are taking matters into their own hands and going off the grid. Because government cybersecurity funding is facing unprecedented cuts, the telecom sector just launched their very own private intelligence-sharing group called the C2 ISAC. Here's the wild part: this private-to-private apparatus is specifically designed so telecom operators can have 'freewheeling' conversations about massive zero-day threats and nation-state hacks without any direct federal oversight. They analyze the threats internally and then push the distilled info to the government later. Honestly, this shows how broken things are getting. Critical infrastructure operators are literally building parallel defensive coalitions because they can no longer rely on traditional government advisory frameworks.",
+    "id": "C2ISAC26",
+    "category": "Business",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-05-20T13:17:35+05:30"
+  }
+]
