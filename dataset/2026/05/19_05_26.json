@@ -11,7 +11,9 @@
     "category": "Business",
     "companies": [],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/CYBERAI26.png",
+    "image_prompt": "Cinematic photojournalism: a dim SOC operations room, glowing monitors with abstract AI threat icons, robotic arms assembling digital code, shadowy applicant figures turned away by a red firewall glow, tense corporate mood, realistic lighting, shallow depth of field, 4K high detail, no text."
   },
   {
     "date": "2026-05-18",
@@ -27,7 +29,9 @@
       "Gartner"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/TRUSTOPS26.png",
+    "image_prompt": "Futuristic newsroom scene: a government official in suit guarded by holographic shield labeled TrustOps implied by symbols, split-screen of a real face and a distorted deepfake visage, digital artifacts swirling, moody lighting, photoreal, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-05-18",
@@ -43,7 +47,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/MSEXCHZD26.png",
+    "image_prompt": "Cinematic newsroom illustration: dark cyber skyline, glowing warning silhouettes of a data center, shadowy hacker figure typing, digital code fragments flowing into a stylized Microsoft Exchange server rack, ominous red-blue lighting, high realism, sharp focus, no text, 16:9."
   },
   {
     "date": "2026-05-18",
@@ -52,14 +58,16 @@
     "title": "The EPA is About to Choke the Global Microchip Supply",
     "summary": "The U.S. EPA advanced a $1 billion strategy targeting PFAS 'forever chemicals', using the Toxic Substances Control Act to enforce strict manufacturing limits. This regulatory pressure will force costly upgrades across the global semiconductor supply chain, as PFAS are vital for chip fabrication.",
     "engagement": "Medium",
-    "raw_text": "We might be looking at the next massive global chip shortage, and it isn't because of supply chains—it's the EPA. The U.S. Environmental Protection Agency just rolled out a massive $1 billion crackdown on PFAS, which are those notorious 'forever chemicals'. But here's the catch: these exact chemicals are absolutely essential for making, cooling, and etching advanced semiconductors. With these new strict limits under the Toxic Substances Control Act, global microchip manufacturers are going to have to spend billions upgrading their factories just to stay compliant and dodge lawsuits. Honestly, this is huge. We want to build millions of GPUs for AI, but the physical reality and environmental regulations are setting up a massive bottleneck.",
+    "raw_text": "We might be looking at the next massive global chip shortage, and it isn't because of supply chains\u2014it's the EPA. The U.S. Environmental Protection Agency just rolled out a massive $1 billion crackdown on PFAS, which are those notorious 'forever chemicals'. But here's the catch: these exact chemicals are absolutely essential for making, cooling, and etching advanced semiconductors. With these new strict limits under the Toxic Substances Control Act, global microchip manufacturers are going to have to spend billions upgrading their factories just to stay compliant and dodge lawsuits. Honestly, this is huge. We want to build millions of GPUs for AI, but the physical reality and environmental regulations are setting up a massive bottleneck.",
     "id": "EPAPFAS26",
     "category": "Hardware",
     "companies": [
       "EPA"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/EPAPFAS26.png",
+    "image_prompt": "Photorealistic news photo: a tense global microchip supply chain scene\u2014close-up semiconductors under blue sterile lights, tiny engineers in PPE observing a glowing circuit wafer, distant factory smokestacks under dark storm clouds, subtle regulatory silhouette overlay, dramatic chiaroscuro, high detail, realistic, no text."
   },
   {
     "date": "2026-05-18",
@@ -77,7 +85,9 @@
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/STELL26TWIN.png",
+    "image_prompt": "Photorealistic news photo: futuristic Stellantis factory interior with robotic arms, holographic AI digital twin overlay in midair, flowing blue data streams, NVIDIA-style neon highlights, NVIDIA Omniverse grid visualization, engineers in safety gear, cinematic lighting, ultra-detailed, high contrast, no text."
   },
   {
     "date": "2026-05-18",
@@ -94,7 +104,9 @@
       "MiRus LLC"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/BSXMIR26.png",
+    "image_prompt": "Photorealistic newsroom-style image: close-up of a sleek aerospace-derived molybdenum-rhenium metal alloy texture morphing into a detailed structural heart device silhouette (TAVR), cool clinical lighting, metallic reflections, shallow depth of field, Boston skyline bokeh, realistic macro news photography, no text."
   },
   {
     "date": "2026-05-18",
@@ -110,7 +122,9 @@
       "Maris-Tech Ltd."
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/MARISTANK26.png",
+    "image_prompt": "Realistic news photo: modern armored military vehicle at dusk, thermal/AI \u201cvision\u201d glow around turret sensors, tiny drone nearby hovering. Subtle edge-computing tech HUD-like light patterns, shallow depth of field, cinematic lighting, high detail, natural colors, no text, no logos."
   },
   {
     "date": "2026-05-18",
@@ -127,7 +141,9 @@
       "Clark Hill"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/METAPIX26.png",
+    "image_prompt": "Realistic newsroom photo style: a split-scene of a dim server room and a user at a laptop on a tax filing webpage (no text), subtle courthouse silhouette in background. Cool blue lighting, tense mood, shallow depth of field, ultra high detail, natural colors, 4k."
   },
   {
     "date": "2026-05-18",
@@ -144,7 +160,9 @@
       "Max Financials"
     ],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/INDIAHW26.png",
+    "image_prompt": "Futuristic yet realistic factory scene in India: bright SMT electronics assembly lines, glowing circuit boards, robotic arms, engineers in safety vests, workers in the background, warm sunrise over an industrial skyline, dynamic depth of field, crisp details, cinematic news photography, high resolution, no text."
   },
   {
     "date": "2026-05-18",
@@ -158,6 +176,8 @@
     "category": "Business",
     "companies": [],
     "people": [],
-    "created_at": "2026-05-20T13:17:35+05:30"
+    "created_at": "2026-05-20T13:17:35+05:30",
+    "image_url": "images/19_05_26/C2ISAC26.png",
+    "image_prompt": "Photorealistic newsroom scene: silhouetted telecom executives in a dim control room around glowing screens, dark fiber-optic cables, server racks, encrypted data streams visualized as light trails; tense, clandestine mood, high contrast, cinematic lighting, shallow depth of field, no text, 4K."
   }
 ]
