@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2026-05-18",
+        "source_file": "AI Research & Developments.pdf",
+        "page": 2,
+        "title": "Meta Supercharges Smart Glasses with 'Be My Eyes' AI",
+        "summary": "Meta detailed significant accessibility updates for its Ray-Ban and Oakley smart glasses, introducing live in-lens captions and a 'Be My Eyes' integration to assist visually impaired users.",
+        "engagement": "High",
+        "raw_text": "So check this out, Meta just pushed a massive AI update for their Ray-Ban and Oakley smart glasses, and it is honestly a complete game-changer for accessibility. If you have these wearables, you are getting voice-controlled calling and literal live captions displayed right inside the lens during your phone calls. But here is the wild part: they integrated an app called 'Be My Eyes'. This integration allows blind or low-vision users to instantly summon a friend or a trained assistant to see through the glasses and help them navigate their surroundings. They even dropped a developer toolkit so third-party apps can build object recognition and navigation software directly into the hardware. Meta is also highlighting stories of veterans using these exact glasses for hands-free photography and navigation. I absolutely love seeing wearable tech actually help people in the real world, showing the broader trend of AI augmenting assistive technologies. Let me know in the comments if you would buy these for a family member, because this feels like the future!",
+        "id": "m9k2b4x7",
+        "category": "Hardware",
+        "companies": [
+            "Meta",
+            "Ray-Ban",
+            "Oakley"
+        ],
+        "people": [],
+        "created_at": "2026-05-21T12:29:39.000Z"
+    },
+    {
+        "date": "2026-05-19",
+        "source_file": "AI Research & Developments.pdf",
+        "page": 2,
+        "title": "US Senators Propose $500M Fund to Block Chinese AI",
+        "summary": "Bipartisan U.S. senators have introduced legislation featuring a $500 million fund to subsidize allied nations' procurement of American AI models and technology, aiming to counter China's global influence.",
+        "engagement": "Medium",
+        "raw_text": "Alright guys, we have some major geopolitical tech drama dropping today. Bipartisan US senators just unveiled a massive piece of legislation specifically designed to undercut Chinese AI and tech exports. Basically, they want to create a brand new State Department office equipped with a proposed $500 million fund. What is the money for? Literally subsidizing allied governments so they procure American AI models, semiconductors, cloud services, and cybersecurity tools instead of foreign ones. The sponsors of the bill are explicitly stating that US tech is 'proven, reliable, and secure,' making this a direct move to counter China's Belt and Road influence globally. If this initiative—which builds on the prior 'Pax Silica' effort—actually passes, it represents a huge geopolitical effort to shape the entire global AI market. Honestly, this shows that artificial intelligence is no longer just a software industry; it is the absolute frontline of superpower competition and global supply chain dependence. I will definitely keep tracking this bill, so make sure you hit subscribe!",
+        "id": "p3r8v1c5",
+        "category": "Business",
+        "companies": [],
+        "people": [],
+        "created_at": "2026-05-21T12:29:39.000Z"
+    },
+    {
+        "date": "2026-05-20",
+        "source_file": "AI Research & Developments.pdf",
+        "page": 1,
+        "title": "Russia Turns to Chinese Chips for AI After US Sanctions",
+        "summary": "Russia's Sberbank plans to power its GigaChat AI model using Chinese processors, such as Huawei's Ascend 950, highlighting Russia's growing dependence on China for advanced computing hardware due to strict U.S. sanctions.",
+        "engagement": "Medium",
+        "raw_text": "Let's talk about the crazy ripple effects of international sanctions, because the global AI hardware map is officially fracturing. Russia’s biggest bank, Sberbank—which is the company behind the GigaChat AI model—just announced they are pivoting to Chinese AI processors. Since strict US sanctions completely block them from getting their hands on top-tier Nvidia hardware, they are planning to use chips like Huawei's Ascend 950 to keep their AI ambitions alive. While reports note that the Ascend 950 still trails behind Nvidia's cutting-edge GPUs, it highlights a massive global shift. Russia is now heavily dependent on China for advanced chips in both the artificial intelligence and defense sectors. Honestly, this is a massive wake-up call showing how global tech competition and these sanctions are driving entirely new AI hardware efforts outside the United States. Drop a comment below if you think these export curbs are working, or if they are just forcing the creation of stronger, independent competitors in Asia!",
+        "id": "t7n4l9w2",
+        "category": "AI",
+        "companies": [
+            "Sberbank",
+            "Huawei",
+            "Nvidia"
+        ],
+        "people": [],
+        "created_at": "2026-05-21T12:29:39.000Z"
+    },
+    {
+        "date": "2026-05-20",
+        "source_file": "AI Research & Developments.pdf",
+        "page": 1,
+        "title": "New Research Hints at the Era of Autonomous 'Embodied' AI",
+        "summary": "Recent arXiv preprints emphasize a significant research trend toward agentic AI systems that can autonomously plan and interact with their environments, including explorations into production architectures and embodied language models.",
+        "engagement": "Low",
+        "raw_text": "I have been digging into the latest arXiv preprints, and there is a huge academic research trend forming around 'agentic AI' that you need to know about. We are finally moving past simple chat interfaces into systems that can autonomously plan, reason, and actually interact with the physical world. For example, one new paper introduces a methodology for composing runtime architectures specifically for production LLM agents. Another super fascinating study probes 'embodied LLMs'—which are language models hooked up with sensory input—and explores when giving them high-fidelity perception might actually hinder their ability to solve problems. Honestly, this academic stuff might seem a bit dry at first glance, but it is incredibly important. Such work underscores a massive, growing interest in automating complex tasks with AI agents and integrating them deeply into real-world environments. The era of AI agents running our software in the background is getting closer than we think! Let me know what tasks you would automate first.",
+        "id": "f5q1d8z3",
+        "category": "Science",
+        "companies": [],
+        "people": [],
+        "created_at": "2026-05-21T12:29:39.000Z"
+    }
+]
