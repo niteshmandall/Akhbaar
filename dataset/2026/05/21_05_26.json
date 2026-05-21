@@ -1,192 +1,212 @@
 [
-    {
-        "date": "2026-05-19",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Google I/O 2026: Gemini Spark & The Death of the Passive Chatbot",
-        "summary": "Google launched Gemini Spark, a persistent background AI agent, alongside the physics-grounded Gemini Omni world model and new audio-first smart glasses. They also introduced the fast Gemini 3.5 Flash model and overhauled Google Search with a dynamic generative UI.",
-        "engagement": "High",
-        "raw_text": "So check this out, guys, Google just fundamentally changed the game at I/O 2026. Forget the old, boring search bar—Google is transitioning to full 'agentic workflows'. They just announced Gemini Spark, a 24/7 autonomous agent that literally runs in the background even when your phone is off, managing your emails and calendar. Honestly, this is huge. To power all this, they dropped Gemini 3.5 Flash, which is optimized for insane speed. But here is the wild part: Demis Hassabis revealed Gemini Omni, a 'world model' that understands actual real-world physics. Google also revealed 'intelligent eyewear' in partnership with brands like Samsung and Warby Parker. We are talking ambient computing where you don't even need to look at a screen. It is a massive leap forward for AI. Make sure to hit subscribe because I am going to do a deep dive on how to actually use these new Ultra tiers.",
-        "id": "g8k3m2p9",
-        "category": "AI",
-        "companies": [
-            "Google",
-            "Samsung",
-            "Warby Parker",
-            "Gentle Monster"
-        ],
-        "people": [
-            "Sundar Pichai",
-            "Demis Hassabis",
-            "Nick Fox",
-            "Nishtha Bhatia"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-20",
-        "source_file": "Combined",
-        "page": 1,
-        "title": "Alibaba's Zhenwu M890 Chip Accelerates the AI Hardware Wars",
-        "summary": "Alibaba's T-Head subsidiary unveiled the Zhenwu M890 AI chip, boasting triple the performance of its predecessor and optimizing for heavy agentic workloads. This release is part of a broader Chinese initiative to build domestic hardware alternatives amid U.S. export restrictions on Nvidia chips.",
-        "engagement": "Medium",
-        "raw_text": "Okay, let's talk about the global AI hardware race because things are heating up. Alibaba's semiconductor arm, T-Head, just unveiled their new Zhenwu M890 AI chip. This isn't just an incremental update; Alibaba claims it delivers three times the performance of their previous 810E chip. Here is why this actually matters: it's specifically tuned for 'agentic workloads'. We are seeing a massive shift where AI agents need insane amounts of GPU memory and bandwidth to communicate, and this chip packs 144 GB of memory to do exactly that. With US export controls blocking Nvidia's top-tier GPUs from entering China, Alibaba is aggressively pushing a multi-year roadmap to build domestic alternatives. They are even planning successors like the V900 to close the gap. For those of us tracking the AI infrastructure space, this points to a fragmented, highly competitive global compute market. I'll keep you posted as we see benchmarks roll in.",
-        "id": "c4n7v1x5",
-        "category": "Hardware",
-        "companies": [
-            "Alibaba",
-            "T-Head",
-            "Nvidia"
-        ],
-        "people": [],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-20",
-        "source_file": "Combined",
-        "page": 3,
-        "title": "OpenAI Drops $300M to Turn Singapore into an AI Fortress",
-        "summary": "OpenAI announced a $300 million investment to establish its first Applied AI Lab outside the U.S. in Singapore. The initiative will hire over 200 engineers to integrate frontier AI models into the nation's public services, finance, and educational infrastructure.",
-        "engagement": "Medium",
-        "raw_text": "So we all know OpenAI is dominating the US, but they just made a massive geopolitical play. They are dropping a whopping $300 million to open their first Applied AI Lab outside the US, right in Singapore. Honestly, this is a brilliant move. They're partnering directly with the Singapore government to integrate frontier AI models into public services, healthcare, and finance. I mean, they are hiring over 200 forward-deployed engineers for this. They're even pushing this into schools with a 'Codex for Teachers' program. This is basically OpenAI establishing themselves as the foundational tech layer for an entire sovereign nation. It cements Singapore as a massive AI hub for the Asia-Pacific region. While competitors are fighting over chat apps, OpenAI is literally building infrastructure for governments. It is a total flex. Let me know in the comments if you think more countries will follow suit.",
-        "id": "p9r2t4w6",
-        "category": "Business",
-        "companies": [
-            "OpenAI"
-        ],
-        "people": [
-            "Denise Dresser",
-            "Chng Kai Fong"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-20",
-        "source_file": "Tech News Aggregator and Analyst Report.docx",
-        "page": 1,
-        "title": "Meta Slashes Jobs to Fund Insane $100 Billion AI Pivot",
-        "summary": "Meta initiated global layoffs across engineering and product teams to offset an anticipated $100 billion in AI-related capital expenditures for 2026. The restructuring has triggered internal dissent, including a petition protesting new mandates to scrape raw screen content for model training.",
-        "engagement": "Low",
-        "raw_text": "I've got some heavy news from the corporate tech world today. Meta is initiating massive global layoffs, mostly hitting their engineering and product teams. Wait until you hear the reason why. Mark Zuckerberg is aggressively reallocating capital because Meta is projected to spend over $100 billion this year on AI infrastructure alone. Yeah, you heard that right, one hundred billion. The internal memo from HR basically said they're flattening the org chart, but the reality is they are sacrificing legacy divisions to keep up with Google and OpenAI. There is also some crazy internal drama going on. A bunch of employees are circulating a petition protesting a new mandate to scrape raw screen content to train their future models. So while we are getting amazing new AI tools, the human and ethical cost inside these tech giants is getting really intense. I will be tracking the stock market reaction to this closely.",
-        "id": "k5f8h3j2",
-        "category": "Business",
-        "companies": [
-            "Meta Platforms"
-        ],
-        "people": [
-            "Mark Zuckerberg",
-            "Janelle Gale"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-20",
-        "source_file": "Tech News Aggregator and Analyst Report.docx",
-        "page": 5,
-        "title": "OpenAI Legend Andrej Karpathy Defects to Anthropic",
-        "summary": "AI pioneer and OpenAI co-founder Andrej Karpathy has joined Anthropic to lead advanced pre-training initiatives centered on recursive self-improvement. He is the third major OpenAI executive to migrate to Anthropic, signaling a significant shift in the competitive AI talent landscape.",
-        "engagement": "High",
-        "raw_text": "Here is the wild part of today's news cycle: Andrej Karpathy is joining Anthropic. If you don't know who that is, he's an absolute legend in the deep learning space, a co-founder of OpenAI, and former head of AI at Tesla. Honestly, this is probably the biggest talent acquisition of the year. He's going to lead their advanced pre-training initiatives, which strongly suggests Anthropic is chasing 'recursive self-improvement'—basically getting Claude to build an even smarter version of itself. This is a massive blow to Sam Altman and OpenAI. Karpathy is the third major OpenAI leader to defect to Anthropic recently, following John Schulman and Jan Leike. The talent war is literally shifting right before our eyes, and Anthropic is pulling ahead. People are even betting that Anthropic will IPO before OpenAI does. Make sure you subscribe because the Claude vs ChatGPT battle just hit a whole new level.",
-        "id": "m2b6y9u4",
-        "category": "AI",
-        "companies": [
-            "Anthropic",
-            "OpenAI",
-            "Tesla"
-        ],
-        "people": [
-            "Andrej Karpathy",
-            "Sam Altman",
-            "John Schulman",
-            "Jan Leike"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-19",
-        "source_file": "AI Research & Developments.pdf",
-        "page": 2,
-        "title": "Amazon Releases Alexa+ for $19.99/Month",
-        "summary": "Amazon officially launched Alexa+, a next-generation generative AI voice assistant capable of proactive, multi-step task completion. The service is free for Prime members but priced at $19.99 monthly for non-members, utilizing models from both AWS and Anthropic.",
-        "engagement": "High",
-        "raw_text": "So check this out, Amazon finally dropped the update we've all been waiting for: Alexa+ is officially live. We've been stuck with the same basic voice assistant for years, but this new generative AI version changes everything. The service is totally free if you're a US Amazon Prime member, but costs $19.99 a month if you're not. Honestly, this is huge for the smart home ecosystem. Alexa+ doesn't just answer simple questions anymore; it can handle super complex, multi-step requests and remember your personal preferences. It acts way more like a proactive agent. You can use it hands-free to plan events, order groceries, and it even syncs up with a brand new browser interface. It is built on AWS's large language models and Anthropic's tech. If you have Echo devices all over your house like I do, this is the massive AI upgrade you need to activate right now.",
-        "id": "e3r7c8q1",
-        "category": "Mobile",
-        "companies": [
-            "Amazon",
-            "Anthropic"
-        ],
-        "people": [],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-19",
-        "source_file": "Daily Tech & AI Briefing – May 20, 2026.docx",
-        "page": 4,
-        "title": "Discord Suddenly Turns On Total Encryption for Everyone",
-        "summary": "Discord has enabled default end-to-end encryption for all one-to-one and group voice and video calls globally. This technical milestone guarantees maximum privacy for users but introduces complexities for platforms relying on server-side AI content moderation.",
-        "engagement": "High",
-        "raw_text": "Let’s talk privacy, because Discord just rolled out a massive update that nobody saw coming. They just turned on end-to-end encryption by default for all one-to-one and group voice and video calls. No opt-in required, it's just live right now. This is super impressive from a technical standpoint given the massive scale Discord operates at. Discord's VP basically confirmed that absolutely no one, not even Discord themselves, can listen in on your calls anymore. I think this is a massive win for users who care about privacy. But here is the crazy part: this puts incredible pressure on other platforms to match these security guarantees. It also makes AI moderation way harder since the servers can't analyze the audio. Honestly, I love seeing privacy become a default feature instead of an afterthought. Make sure your Discord app is updated to take advantage of this.",
-        "id": "x8d4v2j9",
-        "category": "Software",
-        "companies": [
-            "Discord"
-        ],
-        "people": [],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-18",
-        "source_file": "AI Research & Developments.pdf",
-        "page": 1,
-        "title": "Elon Musk's Wild Timelines: FSD, Neuralink & Robot Future",
-        "summary": "Tesla CEO Elon Musk projected that fully autonomous Teslas without human safety drivers will roll out nationwide in the U.S. later this year. He also estimated humanoid robots will be ubiquitous within a decade and confirmed Neuralink's plan for a 'Blindsight' implant by year-end.",
-        "engagement": "High",
-        "raw_text": "So check this out, Elon Musk just dropped some insane timelines for the future of AI and robotics. In a recent interview, he stated that fully self-driving Teslas—with absolutely no human safety drivers—are already being tested in Texas. He expects them to roll out nationwide later this year. Honestly, this is wild. Musk also claimed that 90% of all miles driven could be totally autonomous within a single decade. But he didn't stop there. He dropped an update on Neuralink, saying they plan to perform their first human implant of the 'Blindsight' interface by year-end to help restore vision. And if that wasn't enough, he confidently predicted that humanoid robots will be literally everywhere in 10 years. Now, we all know Elon's timelines can be, let's say, 'optimistic,' but the pace of innovation here is undeniable. I want to know your thoughts—would you trust a fully driverless Tesla today? Let me know.",
-        "id": "t1y5u8k2",
-        "category": "Hardware",
-        "companies": [
-            "Tesla",
-            "Neuralink",
-            "SpaceX"
-        ],
-        "people": [
-            "Elon Musk"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-19",
-        "source_file": "Tech News Aggregator and Analyst Report.docx",
-        "page": 7,
-        "title": "Top Science Platform arXiv Bans Unverified 'AI Slop'",
-        "summary": "The preprint repository arXiv has implemented a strict one-year ban for researchers submitting unverified, AI-generated manuscripts. The policy aims to protect the integrity of the scientific record and prevent 'model collapse' in future AI systems trained on degraded synthetic data.",
-        "engagement": "Medium",
-        "raw_text": "Alright, we need to talk about the dark side of AI generation. The premier scientific platform, arXiv, has officially had enough of AI-generated junk. They just instituted a brutal new policy: a strict one-year ban for any researcher caught submitting manuscripts with obvious, unverified AI content. I am talking about papers with fabricated citations, weird hallucinations, and literally the phrase 'As an AI, I cannot...' left in the text. This 'AI slop' is becoming a huge problem. Here is the wild part: this isn't just about academic gatekeeping. arXiv data is used to train future AI models. If the training data gets polluted with fake AI content, it causes 'model collapse,' where future models literally degrade and lose accuracy. So human verification is an absolute existential requirement right now to save AI from itself. Honestly, I'm glad they are taking this seriously before the entire scientific record is ruined.",
-        "id": "l9w3z7f4",
-        "category": "Science",
-        "companies": [
-            "arXiv"
-        ],
-        "people": [
-            "Thomas Dietterich"
-        ],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    },
-    {
-        "date": "2026-05-19",
-        "source_file": "Tech News Aggregator and Analyst Report.docx",
-        "page": 6,
-        "title": "Apple Intelligence Enables Wheelchair Eye-Tracking",
-        "summary": "Apple launched profound new accessibility features leveraging on-device 'Apple Intelligence,' including an eye-tracking integration that allows users to operate power wheelchairs using only the Vision Pro headset. Other updates include system-wide generative subtitles and contextually aware VoiceOver environments.",
-        "engagement": "High",
-        "raw_text": "So check this out, Apple just dropped some incredible updates that use on-device AI to literally change lives. They are leaning hard into 'Apple Intelligence' for accessibility. The biggest announcement is for the Vision Pro: they've added an eye-tracking integration that lets users navigate and control compatible power wheelchairs entirely by just looking around. Honestly, this is huge for motor accessibility. It's absolute sci-fi stuff becoming reality. On top of that, VoiceOver got a massive natural language processing upgrade to provide super detailed, contextual descriptions of physical environments for the visually impaired. Plus, they are adding system-wide, on-device generative subtitles for all uncaptioned videos across their ecosystem. I always love seeing AI used for quality-of-life improvements instead of just generating memes. It proves that when big tech focuses on accessibility, they can build magical experiences. Hit that like button if you want to see more features like this.",
-        "id": "q4j8d5s2",
-        "category": "Mobile",
-        "companies": [
-            "Apple"
-        ],
-        "people": [],
-        "created_at": "2026-05-21T06:51:02.000Z"
-    }
+  {
+    "date": "2026-05-19",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Google I/O 2026: Gemini Spark & The Death of the Passive Chatbot",
+    "summary": "Google launched Gemini Spark, a persistent background AI agent, alongside the physics-grounded Gemini Omni world model and new audio-first smart glasses. They also introduced the fast Gemini 3.5 Flash model and overhauled Google Search with a dynamic generative UI.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys, Google just fundamentally changed the game at I/O 2026. Forget the old, boring search bar\u2014Google is transitioning to full 'agentic workflows'. They just announced Gemini Spark, a 24/7 autonomous agent that literally runs in the background even when your phone is off, managing your emails and calendar. Honestly, this is huge. To power all this, they dropped Gemini 3.5 Flash, which is optimized for insane speed. But here is the wild part: Demis Hassabis revealed Gemini Omni, a 'world model' that understands actual real-world physics. Google also revealed 'intelligent eyewear' in partnership with brands like Samsung and Warby Parker. We are talking ambient computing where you don't even need to look at a screen. It is a massive leap forward for AI. Make sure to hit subscribe because I am going to do a deep dive on how to actually use these new Ultra tiers.",
+    "id": "g8k3m2p9",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Samsung",
+      "Warby Parker",
+      "Gentle Monster"
+    ],
+    "people": [
+      "Sundar Pichai",
+      "Demis Hassabis",
+      "Nick Fox",
+      "Nishtha Bhatia"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/g8k3m2p9.png",
+    "image_prompt": "Futuristic Google I/O press scene: sleek smart glasses projecting holographic audio waveforms, a translucent \u201cSpark\u201d AI core in the background, dynamic search interface glow around a crowd of engineers; subtle physics grid and world-model visuals; cinematic lighting, realistic, high-detail, news photo style."
+  },
+  {
+    "date": "2026-05-20",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Alibaba's Zhenwu M890 Chip Accelerates the AI Hardware Wars",
+    "summary": "Alibaba's T-Head subsidiary unveiled the Zhenwu M890 AI chip, boasting triple the performance of its predecessor and optimizing for heavy agentic workloads. This release is part of a broader Chinese initiative to build domestic hardware alternatives amid U.S. export restrictions on Nvidia chips.",
+    "engagement": "Medium",
+    "raw_text": "Okay, let's talk about the global AI hardware race because things are heating up. Alibaba's semiconductor arm, T-Head, just unveiled their new Zhenwu M890 AI chip. This isn't just an incremental update; Alibaba claims it delivers three times the performance of their previous 810E chip. Here is why this actually matters: it's specifically tuned for 'agentic workloads'. We are seeing a massive shift where AI agents need insane amounts of GPU memory and bandwidth to communicate, and this chip packs 144 GB of memory to do exactly that. With US export controls blocking Nvidia's top-tier GPUs from entering China, Alibaba is aggressively pushing a multi-year roadmap to build domestic alternatives. They are even planning successors like the V900 to close the gap. For those of us tracking the AI infrastructure space, this points to a fragmented, highly competitive global compute market. I'll keep you posted as we see benchmarks roll in.",
+    "id": "c4n7v1x5",
+    "category": "Hardware",
+    "companies": [
+      "Alibaba",
+      "T-Head",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/c4n7v1x5.png",
+    "image_prompt": "Realistic high-tech newsroom illustration: close-up of a modern AI chip on an illuminated motherboard, subtle triple-speed circuitry glow, futuristic server racks in background, Chinese industrial skyline silhouette through window haze, dramatic blue-orange lighting, shallow depth of field, cinematic, sharp, high resolution, no text."
+  },
+  {
+    "date": "2026-05-20",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "OpenAI Drops $300M to Turn Singapore into an AI Fortress",
+    "summary": "OpenAI announced a $300 million investment to establish its first Applied AI Lab outside the U.S. in Singapore. The initiative will hire over 200 engineers to integrate frontier AI models into the nation's public services, finance, and educational infrastructure.",
+    "engagement": "Medium",
+    "raw_text": "So we all know OpenAI is dominating the US, but they just made a massive geopolitical play. They are dropping a whopping $300 million to open their first Applied AI Lab outside the US, right in Singapore. Honestly, this is a brilliant move. They're partnering directly with the Singapore government to integrate frontier AI models into public services, healthcare, and finance. I mean, they are hiring over 200 forward-deployed engineers for this. They're even pushing this into schools with a 'Codex for Teachers' program. This is basically OpenAI establishing themselves as the foundational tech layer for an entire sovereign nation. It cements Singapore as a massive AI hub for the Asia-Pacific region. While competitors are fighting over chat apps, OpenAI is literally building infrastructure for governments. It is a total flex. Let me know in the comments if you think more countries will follow suit.",
+    "id": "p9r2t4w6",
+    "category": "Business",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Denise Dresser",
+      "Chng Kai Fong"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/p9r2t4w6.png",
+    "image_prompt": "Realistic news photo style: Singapore skyline at dusk with subtle AI hologram overlays, glowing server racks inside a modern lab, diverse engineers collaborating, futuristic public-service building lights, cyber-secure mood, high detail, natural lighting, shallow depth of field, no text."
+  },
+  {
+    "date": "2026-05-20",
+    "source_file": "Tech News Aggregator and Analyst Report.docx",
+    "page": 1,
+    "title": "Meta Slashes Jobs to Fund Insane $100 Billion AI Pivot",
+    "summary": "Meta initiated global layoffs across engineering and product teams to offset an anticipated $100 billion in AI-related capital expenditures for 2026. The restructuring has triggered internal dissent, including a petition protesting new mandates to scrape raw screen content for model training.",
+    "engagement": "Low",
+    "raw_text": "I've got some heavy news from the corporate tech world today. Meta is initiating massive global layoffs, mostly hitting their engineering and product teams. Wait until you hear the reason why. Mark Zuckerberg is aggressively reallocating capital because Meta is projected to spend over $100 billion this year on AI infrastructure alone. Yeah, you heard that right, one hundred billion. The internal memo from HR basically said they're flattening the org chart, but the reality is they are sacrificing legacy divisions to keep up with Google and OpenAI. There is also some crazy internal drama going on. A bunch of employees are circulating a petition protesting a new mandate to scrape raw screen content to train their future models. So while we are getting amazing new AI tools, the human and ethical cost inside these tech giants is getting really intense. I will be tracking the stock market reaction to this closely.",
+    "id": "k5f8h3j2",
+    "category": "Business",
+    "companies": [
+      "Meta Platforms"
+    ],
+    "people": [
+      "Mark Zuckerberg",
+      "Janelle Gale"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/k5f8h3j2.png",
+    "image_prompt": "Realistic newsroom-style photo: Meta-like campus at dusk, stark corporate silhouette, tense workers outside glass offices, HR layoff notice blurred on wall (no text), dramatic AI data light beams, uneasy atmosphere, high-contrast lighting, shallow depth of field, ultra high detail."
+  },
+  {
+    "date": "2026-05-20",
+    "source_file": "Tech News Aggregator and Analyst Report.docx",
+    "page": 5,
+    "title": "OpenAI Legend Andrej Karpathy Defects to Anthropic",
+    "summary": "AI pioneer and OpenAI co-founder Andrej Karpathy has joined Anthropic to lead advanced pre-training initiatives centered on recursive self-improvement. He is the third major OpenAI executive to migrate to Anthropic, signaling a significant shift in the competitive AI talent landscape.",
+    "engagement": "High",
+    "raw_text": "Here is the wild part of today's news cycle: Andrej Karpathy is joining Anthropic. If you don't know who that is, he's an absolute legend in the deep learning space, a co-founder of OpenAI, and former head of AI at Tesla. Honestly, this is probably the biggest talent acquisition of the year. He's going to lead their advanced pre-training initiatives, which strongly suggests Anthropic is chasing 'recursive self-improvement'\u2014basically getting Claude to build an even smarter version of itself. This is a massive blow to Sam Altman and OpenAI. Karpathy is the third major OpenAI leader to defect to Anthropic recently, following John Schulman and Jan Leike. The talent war is literally shifting right before our eyes, and Anthropic is pulling ahead. People are even betting that Anthropic will IPO before OpenAI does. Make sure you subscribe because the Claude vs ChatGPT battle just hit a whole new level.",
+    "id": "m2b6y9u4",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "OpenAI",
+      "Tesla"
+    ],
+    "people": [
+      "Andrej Karpathy",
+      "Sam Altman",
+      "John Schulman",
+      "Jan Leike"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/m2b6y9u4.png",
+    "image_prompt": "Photorealistic newsroom-style scene: renowned AI researcher in a sleek dark suit walking into a modern glass-walled Anthropic building, subtle neural-circuit glow reflections, dramatic cinematic lighting, shallow depth of field, neutral palette, conveying defection and momentum, ultra-detailed, realistic."
+  },
+  {
+    "date": "2026-05-19",
+    "source_file": "AI Research & Developments.pdf",
+    "page": 2,
+    "title": "Amazon Releases Alexa+ for $19.99/Month",
+    "summary": "Amazon officially launched Alexa+, a next-generation generative AI voice assistant capable of proactive, multi-step task completion. The service is free for Prime members but priced at $19.99 monthly for non-members, utilizing models from both AWS and Anthropic.",
+    "engagement": "High",
+    "raw_text": "So check this out, Amazon finally dropped the update we've all been waiting for: Alexa+ is officially live. We've been stuck with the same basic voice assistant for years, but this new generative AI version changes everything. The service is totally free if you're a US Amazon Prime member, but costs $19.99 a month if you're not. Honestly, this is huge for the smart home ecosystem. Alexa+ doesn't just answer simple questions anymore; it can handle super complex, multi-step requests and remember your personal preferences. It acts way more like a proactive agent. You can use it hands-free to plan events, order groceries, and it even syncs up with a brand new browser interface. It is built on AWS's large language models and Anthropic's tech. If you have Echo devices all over your house like I do, this is the massive AI upgrade you need to activate right now.",
+    "id": "e3r7c8q1",
+    "category": "Mobile",
+    "companies": [
+      "Amazon",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/e3r7c8q1.png",
+    "image_prompt": "Realistic newsroom-style scene: sleek smart speaker on a modern desk with soft glowing light, subtle holographic UI icons floating, warm tech ambience, close-up product focus, shallow depth of field, natural lighting, high detail, cinematic, neutral background, no text, suitable for news hero image."
+  },
+  {
+    "date": "2026-05-19",
+    "source_file": "Daily Tech & AI Briefing \u2013 May 20, 2026.docx",
+    "page": 4,
+    "title": "Discord Suddenly Turns On Total Encryption for Everyone",
+    "summary": "Discord has enabled default end-to-end encryption for all one-to-one and group voice and video calls globally. This technical milestone guarantees maximum privacy for users but introduces complexities for platforms relying on server-side AI content moderation.",
+    "engagement": "High",
+    "raw_text": "Let\u2019s talk privacy, because Discord just rolled out a massive update that nobody saw coming. They just turned on end-to-end encryption by default for all one-to-one and group voice and video calls. No opt-in required, it's just live right now. This is super impressive from a technical standpoint given the massive scale Discord operates at. Discord's VP basically confirmed that absolutely no one, not even Discord themselves, can listen in on your calls anymore. I think this is a massive win for users who care about privacy. But here is the crazy part: this puts incredible pressure on other platforms to match these security guarantees. It also makes AI moderation way harder since the servers can't analyze the audio. Honestly, I love seeing privacy become a default feature instead of an afterthought. Make sure your Discord app is updated to take advantage of this.",
+    "id": "x8d4v2j9",
+    "category": "Software",
+    "companies": [
+      "Discord"
+    ],
+    "people": [],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/x8d4v2j9.png",
+    "image_prompt": "Realistic news photo: split-scene of a modern smartphone with a Discord-like interface glow, and a dark network server room with encrypted lock symbols in subtle bokeh. Dramatic lighting, cybersecurity mood, shallow depth of field, high detail, natural colors, no text."
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "AI Research & Developments.pdf",
+    "page": 1,
+    "title": "Elon Musk's Wild Timelines: FSD, Neuralink & Robot Future",
+    "summary": "Tesla CEO Elon Musk projected that fully autonomous Teslas without human safety drivers will roll out nationwide in the U.S. later this year. He also estimated humanoid robots will be ubiquitous within a decade and confirmed Neuralink's plan for a 'Blindsight' implant by year-end.",
+    "engagement": "High",
+    "raw_text": "So check this out, Elon Musk just dropped some insane timelines for the future of AI and robotics. In a recent interview, he stated that fully self-driving Teslas\u2014with absolutely no human safety drivers\u2014are already being tested in Texas. He expects them to roll out nationwide later this year. Honestly, this is wild. Musk also claimed that 90% of all miles driven could be totally autonomous within a single decade. But he didn't stop there. He dropped an update on Neuralink, saying they plan to perform their first human implant of the 'Blindsight' interface by year-end to help restore vision. And if that wasn't enough, he confidently predicted that humanoid robots will be literally everywhere in 10 years. Now, we all know Elon's timelines can be, let's say, 'optimistic,' but the pace of innovation here is undeniable. I want to know your thoughts\u2014would you trust a fully driverless Tesla today? Let me know.",
+    "id": "t1y5u8k2",
+    "category": "Hardware",
+    "companies": [
+      "Tesla",
+      "Neuralink",
+      "SpaceX"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/t1y5u8k2.png",
+    "image_prompt": "Cinematic news photo style: a sleek Tesla on a sunlit American highway, faint HUD/autonomy glow, mirrored futuristic city skyline; in foreground, a humanoid robot silhouette with metallic details; subtle close-up of a neural implant on a neutral skin tone. High realism, dramatic lighting."
+  },
+  {
+    "date": "2026-05-19",
+    "source_file": "Tech News Aggregator and Analyst Report.docx",
+    "page": 7,
+    "title": "Top Science Platform arXiv Bans Unverified 'AI Slop'",
+    "summary": "The preprint repository arXiv has implemented a strict one-year ban for researchers submitting unverified, AI-generated manuscripts. The policy aims to protect the integrity of the scientific record and prevent 'model collapse' in future AI systems trained on degraded synthetic data.",
+    "engagement": "Medium",
+    "raw_text": "Alright, we need to talk about the dark side of AI generation. The premier scientific platform, arXiv, has officially had enough of AI-generated junk. They just instituted a brutal new policy: a strict one-year ban for any researcher caught submitting manuscripts with obvious, unverified AI content. I am talking about papers with fabricated citations, weird hallucinations, and literally the phrase 'As an AI, I cannot...' left in the text. This 'AI slop' is becoming a huge problem. Here is the wild part: this isn't just about academic gatekeeping. arXiv data is used to train future AI models. If the training data gets polluted with fake AI content, it causes 'model collapse,' where future models literally degrade and lose accuracy. So human verification is an absolute existential requirement right now to save AI from itself. Honestly, I'm glad they are taking this seriously before the entire scientific record is ruined.",
+    "id": "l9w3z7f4",
+    "category": "Science",
+    "companies": [
+      "arXiv"
+    ],
+    "people": [
+      "Thomas Dietterich"
+    ],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/l9w3z7f4.png",
+    "image_prompt": "Realistic photojournalism: arXiv server room with glowing racks, a scientist at terminal rejecting blurred \u201cAI-generated\u201d papers in foreground (symbolic, no text). Blue tech lighting, tense newsroom mood, shallow depth of field, high detail, cinematic contrast, 16:9."
+  },
+  {
+    "date": "2026-05-19",
+    "source_file": "Tech News Aggregator and Analyst Report.docx",
+    "page": 6,
+    "title": "Apple Intelligence Enables Wheelchair Eye-Tracking",
+    "summary": "Apple launched profound new accessibility features leveraging on-device 'Apple Intelligence,' including an eye-tracking integration that allows users to operate power wheelchairs using only the Vision Pro headset. Other updates include system-wide generative subtitles and contextually aware VoiceOver environments.",
+    "engagement": "High",
+    "raw_text": "So check this out, Apple just dropped some incredible updates that use on-device AI to literally change lives. They are leaning hard into 'Apple Intelligence' for accessibility. The biggest announcement is for the Vision Pro: they've added an eye-tracking integration that lets users navigate and control compatible power wheelchairs entirely by just looking around. Honestly, this is huge for motor accessibility. It's absolute sci-fi stuff becoming reality. On top of that, VoiceOver got a massive natural language processing upgrade to provide super detailed, contextual descriptions of physical environments for the visually impaired. Plus, they are adding system-wide, on-device generative subtitles for all uncaptioned videos across their ecosystem. I always love seeing AI used for quality-of-life improvements instead of just generating memes. It proves that when big tech focuses on accessibility, they can build magical experiences. Hit that like button if you want to see more features like this.",
+    "id": "q4j8d5s2",
+    "category": "Mobile",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-05-21T06:51:02.000Z",
+    "image_url": "images/21_05_26/q4j8d5s2.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a person in a modern power wheelchair wearing a sleek Vision Pro headset, operating with eye-tracking. Warm, hopeful lighting; subtle UI-like glow on the headset lenses; accessibility-focused, realistic hospital/gentle urban background; shallow depth of field, high detail, natural colors."
+  }
 ]
