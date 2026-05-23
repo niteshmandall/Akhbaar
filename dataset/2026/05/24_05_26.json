@@ -1,0 +1,179 @@
+[
+    {
+        "date": "2026-05-20",
+        "source_file": "AI and Tech News \u2013 New Items for May 23, 2026.pdf",
+        "page": 1,
+        "title": "18-Minute Hack Exposes 3,800 GitHub Repos! (OpenAI Hit)",
+        "summary": "A threat group named TeamPCP stole approximately 3,800 internal GitHub repositories in just 18 minutes by compromising the popular Nx Console VS Code extension. The supply-chain worm subsequently compromised employee devices at major AI labs including OpenAI and Mistral AI.",
+        "engagement": "High",
+        "raw_text": "So check this out, developers are officially under attack. In just 18 minutes, hackers stole 3,800 internal GitHub repos. How? They poisoned a super popular VS Code extension called Nx Console. Literally anyone who installed it during that window got their credentials swiped. But here's the wild part: this wasn't just random targets. The hackers, TeamPCP, specifically hunted down AI developers, hitting employee devices at OpenAI, Mistral AI, and even the European Commission. OpenAI literally has to revoke its macOS app certificate because of this! Honestly, this is a massive wake-up call. Developer tooling is now the front line of cyberwarfare, and traditional antivirus isn't catching it. If you're building with AI, you need hardware-backed secrets right now!",
+        "id": "GHB2026A",
+        "category": "Cybersecurity",
+        "companies": [
+            "GitHub",
+            "OpenAI",
+            "Mistral AI",
+            "European Commission"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 9,
+        "title": "iPhone 18 Pro LEAKS: 2nm Chip & ALWAYS-ON Satellite 5G!",
+        "summary": "Supply chain leaks reveal the upcoming iPhone 18 Pro will feature the 2-nanometer A20 Pro chip and a standard 12GB of unified memory. Furthermore, the device is rumored to integrate continuous 5G-over-satellite fallback capabilities, effectively eliminating cellular dead zones.",
+        "engagement": "High",
+        "raw_text": "Okay, Apple fans, the leaks for the iPhone 18 Pro are absolutely insane. We are talking about a massive leap to a 2-nanometer A20 Pro chip. This thing is going to be wildly fast and energy-efficient. And guess what? Apple is finally giving us 12GB of RAM as the standard baseline. Why? Because they need that memory to run those massive Apple Intelligence models locally without hitting the cloud. But honestly, here's the biggest game-changer: always-on satellite 5G fallback. If you hit a cellular dead zone, the phone just quietly routes your data through space. No more holding your phone to the sky like a weirdo. The carriers must be terrified right now!",
+        "id": "IPH18P26",
+        "category": "Mobile",
+        "companies": [
+            "Apple",
+            "TSMC"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-21",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 6,
+        "title": "Spotify Just Made AI Music Covers LEGAL.",
+        "summary": "Spotify and Universal Music Group have launched a paid tool for Premium subscribers that legally permits fans to generate high-fidelity AI remixes and covers. This initiative operates under a consent-driven framework, generating a new royalty stream for opted-in artists.",
+        "engagement": "High",
+        "raw_text": "You know those crazy AI covers of Drake singing Taylor Swift on TikTok? Well, Spotify just made it totally legal. They've partnered with Universal Music Group to launch an official AI remix tool right inside the Spotify Premium app. Fans can now generate their own high-quality remixes and covers of their favorite tracks. The catch? It only works for artists who actually opt into the program. But honestly, this is a genius move. Instead of fighting endless DMCA takedowns, artists get a brand new royalty stream from these AI versions. Spotify is training its own Large Taste Model on trillions of data points to drive this. The music industry is finally stopping the war on AI and deciding to get paid instead.",
+        "id": "SPOAI026",
+        "category": "Music",
+        "companies": [
+            "Spotify",
+            "Universal Music Group"
+        ],
+        "people": [
+            "Sir Lucian Grainge",
+            "Alex Norstr\u00f6m"
+        ],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 4,
+        "title": "Waymo Robotaxis Keep Driving Into FLOODS (Operations Suspended!)",
+        "summary": "Waymo has temporarily suspended its driverless operations in six Southern municipalities after a systemic perception failure caused unoccupied vehicles to drive into flooded roadways. This incident triggered an NHTSA recall of 3,791 automated driving systems due to their inability to accurately interpret standing water via LiDAR.",
+        "engagement": "High",
+        "raw_text": "Self-driving cars just hit a massive, soggy roadblock. Alphabet's Waymo has literally suspended driverless operations across six major Southern cities. Why? Because the robotaxis keep driving straight into flash floods and getting stranded. It turns out, their super-advanced LiDAR sensors get totally confused by standing water. The water acts like a mirror, bouncing the lasers everywhere and making deep floods look like harmless little puddles. This has triggered a massive NHTSA recall of almost 4,000 Waymo vehicles. Honestly, it shows how far we still have to go with autonomy. If your AI car can't tell the difference between a wet road and a swimming pool, we've got a problem. Regulators are probably going to force these companies to build new hydro-sensors, which is going to be incredibly expensive.",
+        "id": "WAYMOFLX",
+        "category": "Autonomous Vehicles",
+        "companies": [
+            "Waymo",
+            "Alphabet"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 8,
+        "title": "SpaceX Starship SURVIVES Double Engine Failure in Space!",
+        "summary": "SpaceX successfully executed the 12th integrated flight test of its redesigned Starship V3, achieving a suborbital trajectory despite the premature shutdown of one booster engine and one upper-stage engine. The flight computer dynamically adjusted the remaining engines to compensate for the lost thrust, validating the vehicle's fault-tolerant design.",
+        "engagement": "High",
+        "raw_text": "Elon Musk's Starship V3 just pulled off a miracle in space! During Flight 12, a massive Super Heavy booster engine failed, and then a vacuum Raptor engine died on the upper stage. In older rockets, losing two engines could be game over. But Starship's flight computer is insane. It instantly detected the power drop, tilted the remaining five upper-stage engines, and burned them longer to perfectly compensate for the missing thrust. It hit its planned trajectory flawlessly and even deployed 22 fake Starlink satellites. Musk called it 'epic', and he's not wrong. This proves SpaceX's software is robust enough to handle deep-space emergencies. They even recovered from a launch tower glitch and flew just 24 hours later. SpaceX is basically treating rockets like airplanes now!",
+        "id": "SPXV3F12",
+        "category": "Aerospace",
+        "companies": [
+            "SpaceX",
+            "Starlink"
+        ],
+        "people": [
+            "Elon Musk"
+        ],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-15",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 1,
+        "title": "Scientists BANNED For Using ChatGPT (arXiv Fights 'AI Slop')",
+        "summary": "The academic preprint server arXiv has instituted a one-year ban for authors who submit research papers containing incontrovertible evidence of unchecked generative AI errors. This policy aims to combat the influx of hallucinated citations and fictitious research generated by large language models.",
+        "engagement": "Medium",
+        "raw_text": "The scientific community is officially cracking down on lazy AI use. arXiv, the biggest preprint server for computer science, is now slapping researchers with a full one-year ban if they get caught submitting unchecked AI text. We're talking about people literally submitting papers with hallucinated references, fake DOIs, or completely empty tables because ChatGPT broke down. It's being called 'AI slop'. The crazy part is, researchers are literally leaving in ChatGPT prompts like 'Here is a 200-word summary' in their published work. Thomas G. Dietterich, the CS chair at arXiv, had enough. If you get banned, any future paper you submit has to pass real peer review somewhere else first. It's a huge step toward making humans actually accountable for what they hit 'publish' on.",
+        "id": "ARXBAN26",
+        "category": "Science",
+        "companies": [
+            "arXiv",
+            "OpenAI"
+        ],
+        "people": [
+            "Thomas G. Dietterich"
+        ],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "AI and Tech News \u2013 New Items for May 23, 2026.pdf",
+        "page": 7,
+        "title": "Anthropic Predicts AI Will Build Better AI by 2028",
+        "summary": "Anthropic's research division has published an agenda explicitly estimating a 60% probability that by the end of 2028, AI systems will be capable of performing substantial work to train their own successors. This marks a significant moment where a leading AI lab openly plans for rapid, recursive self-improvement and an 'intelligence explosion'.",
+        "engagement": "High",
+        "raw_text": "We might only have two years until AI completely runs away from us. Anthropic, the team behind Claude, just dropped a massive bombshell. They officially put the odds at 60% that by 2028, AI will be smart enough to train an even smarter version of itself. They are literally using the phrase 'intelligence explosion' in their official research. Co-founder Jack Clark is asking how society is going to handle massive, simultaneous breakthroughs when AI starts doing all its own R&D. This isn't some sci-fi movie; this is one of the top AI labs in the world telling us their internal timeline. If you're building a startup right now, you have to plan for a world where AI capability goes totally vertical in 24 months. Strap in, folks.",
+        "id": "ANTEXP28",
+        "category": "AI",
+        "companies": [
+            "Anthropic"
+        ],
+        "people": [
+            "Jack Clark"
+        ],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "AI and Tech News \u2013 New Items for May 23, 2026.pdf",
+        "page": 6,
+        "title": "Intuit Replaces 3,000 Workers With AI Agents",
+        "summary": "Intuit has announced the layoff of approximately 3,000 employees, representing 8% of its workforce, to fund a restructuring focused on AI agents and mid-market expansion. The company expects this pivot toward AI-driven workflows in QuickBooks and TurboTax to generate over $500 million in annualized cost savings.",
+        "engagement": "Low",
+        "raw_text": "The AI job replacement wave is here, and it's hitting the accounting sector hard. Intuit, the company behind TurboTax and QuickBooks, just laid off 3,000 people\u2014about 8% of their staff. And they aren't hiding why. They explicitly stated this restructuring is to fund their aggressive pivot into AI agents. By rolling out 'Claude for Small Business' to automate accounting and tax workflows, they expect to save over $500 million a year. This is exactly what the tech industry warned us about. They are using AI to justify massive headcount reductions while boosting revenue for shareholders. If you work in a white-collar, repetitive workflow industry, you are competing with an AI agent that doesn't sleep and costs pennies. Keep learning new skills, guys.",
+        "id": "INTAI26L",
+        "category": "Business",
+        "companies": [
+            "Intuit",
+            "Anthropic"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "AI Research & Breakthroughs (5).pdf",
+        "page": 1,
+        "title": "Google DeepMind's New AI Just Solved Impossible Math!",
+        "summary": "Google DeepMind introduced an 'AI Co-Mathematician' workbench powered by Gemini that uses multiple agents to assist in theorem-proving and hypothesis testing. The system scored a record 48% on the highly difficult FrontierMath Tier 4 benchmark, demonstrating a shift toward agentic AI that collaborates continuously with human researchers.",
+        "engagement": "Medium",
+        "raw_text": "Google DeepMind is taking AI from a basic chatbot to a literal math genius. They just unveiled the 'AI Co-Mathematician'. It's basically a squad of Gemini-powered AI agents that work alongside human researchers to track literature, test hypotheses, and prove complex theorems. It even scored a record-breaking 48% on the insanely hard FrontierMath Tier 4 benchmark. What\u2019s cool is how it works\u2014it remembers failed attempts and runs parallel workstreams, just like a real human research team. This isn't just about spitting out answers; it's about continuous collaboration. If you are a mathematician, you basically just got the ultimate lab assistant. AI is truly moving into the 'agentic' era.",
+        "id": "GMATHD26",
+        "category": "AI",
+        "companies": [
+            "Google",
+            "DeepMind"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 10,
+        "title": "California Just BANNED AI Teachers & Deepfake Extortion!",
+        "summary": "The California State Legislature advanced a comprehensive package of AI legislation, including SB 928 which mandates human instructors for state university courses, and SB 1015 which criminalizes deepfake extortion targeting minors. Additional bills mandate algorithmic transparency and expand the WARN Act to cover AI-driven job displacement.",
+        "engagement": "Medium",
+        "raw_text": "California is officially fighting back against the AI takeover. State lawmakers just pushed through a massive wave of bills to protect humans from algorithms. Check this out: SB 928 literally bans AI from taking over university teaching jobs\u2014your professor has to be a real human. They also passed SB 1015 to crack down hard on AI deepfake extortion, especially targeting kids. And if a company wants to fire 25% of its staff and replace them with AI? They now have to give a 90-day warning under the new SB 951. Honestly, this is a massive legal precedent. California is forcing tech companies to be transparent about what's AI and what's real, and protecting workers from being quietly replaced by bots. Let's see if other states follow suit!",
+        "id": "CALAI928",
+        "category": "Policy",
+        "companies": [],
+        "people": [],
+        "created_at": "2026-05-23T15:56:21+05:30"
+    }
+]
