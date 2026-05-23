@@ -1,0 +1,177 @@
+[
+    {
+        "date": "2026-05-23",
+        "source_file": "AI and Tech News – New Items for May 23, 2026.pdf",
+        "page": 2,
+        "title": "OpenAI & Mistral Breached in Massive Supply Chain Worm Attack!",
+        "summary": "The TeamPCP threat group compromised developer devices at OpenAI, Mistral AI, and the European Commission using a malicious TanStack npm package. The incident led to exfiltrated credentials and a 5GB source-code extortion attempt at Mistral, forcing OpenAI to revoke its macOS app signing certificate.",
+        "engagement": "High",
+        "raw_text": "You thought the GitHub extension hack was bad? It gets so much worse. That TeamPCP worm actually spread to OpenAI and Mistral AI! Yeah, hackers got onto OpenAI employee devices and grabbed credentials from their internal repos. Mistral even got hit with a 5 gigabyte source-code extortion attempt! Because of this, OpenAI is literally revoking their macOS ChatGPT app code-signing certificate. If you use the Mac app, you'll be forced to completely reinstall it by June 12th, or your OS will block it from opening. Honestly, this is a massive deal. It proves that the weakest link in AI right now isn't the models themselves, but the developer workstations building them. If you are coding AI apps, lock down your tokens immediately because these hackers are explicitly hunting for AI configuration files. It's a crazy wake-up call for enterprise security. The fact that top-tier labs can get breached through an NPM dependency shows how fragile our whole software supply chain really is right now. Go rotate your keys!",
+        "id": "OPENAIBREACH26",
+        "category": "Security",
+        "companies": [
+            "OpenAI",
+            "Mistral AI",
+            "GitHub"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "AI and Tech News – New Items for May 23, 2026.pdf",
+        "page": 4,
+        "title": "Google & Anthropic Join Forces on New AI Standard!",
+        "summary": "Google and Anthropic are aligning on the Model Context Protocol (MCP) as a shared standard for third-party AI agents. Google's upcoming Gemini Spark agent will support MCP, allowing developers to wire tools and data sources into both Claude and Gemini with minimal duplication.",
+        "engagement": "Medium",
+        "raw_text": "If you're an AI developer, this next update is an absolute game changer. Google and Anthropic are officially joining forces on a shared protocol! They are both adopting the Model Context Protocol, or MCP, for third-party AI agents. This means if you build a tool or connect a database, you don't have to write one version for Claude and a completely different version for Gemini. You just use MCP and it wires into both ecosystems seamlessly! Google's new Gemini Spark agent is going to support this within weeks, alongside heavy hitters like Canva and Instacart. Honestly, I love this move. Instead of trying to lock us into completely walled gardens, these major labs realize that interoperability is the real key to scaling agentic AI. It's going to make building specialized AI skills so much faster and cheaper for startups. Get ready to see a massive explosion in third-party agent tools.",
+        "id": "MCPSTANDARD26",
+        "category": "AI",
+        "companies": [
+            "Google",
+            "Anthropic",
+            "Canva",
+            "Instacart"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 3,
+        "title": "MOSS AI Successfully Rewrites Its Own Source Code!",
+        "summary": "Researchers have unveiled MOSS, an autonomous multi-agent framework capable of source-level rewriting to achieve functional self-improvement. The system analyzes its performance, proposes code modifications, and compiles updates without human intervention, effectively doubling its benchmark scores.",
+        "engagement": "High",
+        "raw_text": "Okay, this story is straight out of a sci-fi movie. Researchers just published a paper on a new AI framework called MOSS, and it has successfully achieved autonomous self-evolution! I am not joking. This agent literally analyzed its own performance, proposed modifications to its own underlying code, compiled it, tested it against benchmarks, and swapped out its container—all without a single human intervening! In their tests, MOSS doubled its performance score in just one evolutionary cycle. Honestly, this is terrifyingly cool. We've been talking about recursive self-improvement for years as the stepping stone to Artificial General Intelligence, and now we are actually seeing it happen on a production level. The AI is literally debugging and refactoring its own brain to get smarter. If AI can now write and upgrade its own software autonomously, the speed of tech development is about to go completely vertical.",
+        "id": "MOSSEVOLUTION26",
+        "category": "AI",
+        "companies": [],
+        "people": [
+            "Qianshu Cai",
+            "Yonggang Zhang",
+            "Yike Guo"
+        ],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 5,
+        "title": "Nvidia CEO: 'Physical AI' is the New ChatGPT Moment!",
+        "summary": "The tech sector is rapidly shifting toward 'Physical AI', integrating generative capabilities into embodied robotics. Accelerated by advanced neural architectures, new humanoid robots are successfully demonstrating real-time dynamic kinematic adjustments, solving complex real-world physics problems.",
+        "engagement": "High",
+        "raw_text": "Forget about chatbots on your screen, the next massive wave is what Nvidia's Jensen Huang calls 'Physical AI.' We are talking about highly advanced AI models being placed directly into humanoid robots! A viral video out of Shenzhen just showed a bipedal robot doing moonwalks, heel pivots, and actually catching its balance when it tripped on stairs. This isn't just pre-programmed Boston Dynamics stuff; these robots are using neural networks and semantic reasoning to interact with gravity and chaotic real-world physics in real time. Honestly, the ChatGPT moment for robotics is practically here. Whether it's humanoid workers, autonomous drones, or smart medical devices, the AI boom is physically entering our world. The massive challenge now is closing that cyber-physical loop so the bots don't break things, but the progress we are seeing is completely exponential. The physical labor market is going to look wildly different very soon.",
+        "id": "PHYSICALAI2026",
+        "category": "Hardware",
+        "companies": [
+            "Nvidia"
+        ],
+        "people": [
+            "Jensen Huang",
+            "Yanzhi Wang"
+        ],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 6,
+        "title": "Google Fights DOJ to Keep Search Data From AI Rivals",
+        "summary": "Alphabet has filed a 111-page appeal against the 2024 antitrust ruling that targeted its search defaults. Google specifically argues that the DOJ's proposed data syndication remedies would essentially force the company to subsidize its generative AI competitors with proprietary intellectual property.",
+        "engagement": "Medium",
+        "raw_text": "Google is fighting back hard against the US government, and their new argument is wild. They just filed a massive 111-page appeal against the 2024 antitrust ruling that said their default search agreements with Apple were an illegal monopoly. But here's the crazy part: the DOJ wants to force Google to syndicate its highly proprietary search data to competitors. Google is arguing that this is essentially intellectual property theft that will unjustly hand over the keys to generative AI rivals like OpenAI! Google straight-up said these AI companies are already wildly successful and shouldn't get to free-ride on Google's trillion-dollar index to train their massive world models. Honestly, Google has a point here. Forcing them to hand over their highest-fidelity data so competitors can build AI that replaces Google Search is basically forcing them to subsidize their own execution. This lawsuit is going to shape the entire future of AI data rights!",
+        "id": "GOOGDOJAPPEAL26",
+        "category": "Business",
+        "companies": [
+            "Alphabet",
+            "Google",
+            "Apple",
+            "OpenAI"
+        ],
+        "people": [
+            "Amit Mehta"
+        ],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 7,
+        "title": "FTC Cracks Down on Creepy AI Surveillance Pricing!",
+        "summary": "The FTC and state regulators are investigating corporate 'surveillance pricing' models. These AI-driven algorithms utilize harvested consumer data to execute hyper-personalized variable pricing, raising serious concerns regarding algorithmic discrimination and lack of price transparency.",
+        "engagement": "Medium",
+        "raw_text": "Have you ever felt like a website raised its prices just for you because they know you'll pay it? Well, you aren't crazy, and the FTC is finally cracking down on it! Regulators are going after what they call 'surveillance pricing.' Companies are using advanced AI algorithms and massive amounts of your harvested personal data to figure out the absolute maximum amount of money you are willing to spend, and they adjust the price dynamically just for you! It's happening on ticketing platforms, retail sites, and loyalty programs. Honestly, it's incredibly shady. It moves past basic supply and demand and turns into algorithmically squeezing every last cent out of your digital footprint. The Federal Trade Commission and state attorneys general are launching investigations right now. If you're building e-commerce tools, you better ensure your algorithms have strict transparency, because the government is coming for these black-box pricing bots.",
+        "id": "FTCSURVEILLANCE",
+        "category": "Business",
+        "companies": [],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-22",
+        "source_file": "Tech News Aggregation With Exclusion List (1).pdf",
+        "page": 10,
+        "title": "California Passes Huge Laws to Stop AI Job Takeovers",
+        "summary": "The California State Legislature advanced multiple bills to address AI disruption, including SB 951, which mandates a 90-day notice for companies replacing 25% or more of their workforce with automated systems. Additional bills criminalize deepfake extortion and ban AI instructors in universities.",
+        "engagement": "Medium",
+        "raw_text": "California is absolutely not playing around with AI anymore. Their state legislature just aggressively advanced a massive suite of laws to protect human workers from getting replaced by bots! The biggest one is SB 951, which updates the WARN Act. If a company plans to lay off 25% or more of its workforce because of AI displacement, they are legally required to give a 90-day notice and create a clear forensic trail showing exactly how the algorithm replaced those humans. They also passed bills to ensure university instructors must be human, and totally criminalized using AI deepfakes for extortion. Honestly, this is the first real, structured pushback we've seen against the massive corporate AI cost-cutting trend. California is laying the groundwork to potentially tax companies for automated displacement in the future. If you run an AI-heavy startup in the state, your compliance costs are about to skyrocket!",
+        "id": "CALIAILAWS26",
+        "category": "Regulation",
+        "companies": [],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-18",
+        "source_file": "AI Research & Breakthroughs (5).pdf",
+        "page": 1,
+        "title": "NASA Accelerates $3.2B Roman Space Telescope Launch!",
+        "summary": "NASA has accelerated the launch of its $3.2 billion Nancy Grace Roman Space Telescope to September 2026. Armed with the largest digital camera ever sent to space, the telescope will collect over 20,000 terabytes of data to map dark matter and discover new exoplanets.",
+        "engagement": "High",
+        "raw_text": "Space nerds, get incredibly excited right now! NASA just bumped up the launch date for their massive $3.2 billion Nancy Grace Roman Space Telescope. It's now aiming for September 2026! This beast is carrying the largest digital camera ever sent into space and is going to collect 20,000 terabytes of data over its mission. It is going to map dark matter and is expected to discover around 100,000 new exoplanets! Because it's pulling in such an absurd amount of data, they are actually having to rely heavily on advanced AI algorithms just to process it and detect anomalies. Honestly, this is how we are going to find the craziest new cosmic structures. The intersection of big data, AI, and deep space astronomy is moving so fast right now. We are going to have to rewrite our science textbooks in the next few years, I guarantee it!",
+        "id": "NASAROMAN26",
+        "category": "Science",
+        "companies": [
+            "NASA"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-18",
+        "source_file": "AI and Tech News – New Items for May 23, 2026.pdf",
+        "page": 5,
+        "title": "Anthropic Buys Stainless to Crush OpenAI's Dev Tools",
+        "summary": "Anthropic acquired Stainless, the engineering team known for building high-quality SDKs for OpenAI and Cloudflare. The acquisition aims to supercharge Claude's API stack by providing developers with strongly-typed, idiomatic SDKs to reduce integration friction.",
+        "engagement": "Medium",
+        "raw_text": "If you're building apps with AI APIs, Anthropic just made a massive move to win you over. They officially acquired Stainless, the exact team that built all of OpenAI's polished, super-clean SDKs! For a while now, developers have complained that integrating Claude into their backends was clunky compared to OpenAI's developer experience. Well, Anthropic solved that problem by literally buying the team responsible for the competition's great tooling. Stainless generates strongly-typed, idiot-proof SDKs for Python, TypeScript, Java, you name it. Honestly, this is a brilliant business strategy. The battle between Claude and ChatGPT isn't just about who has the smartest model anymore; it's about developer experience. If Claude makes it easier and faster to push code into production, developers are going to switch in a heartbeat. It lowers the barrier to entry, and honestly, OpenAI needs to watch out because Anthropic is playing to win.",
+        "id": "ANTHROPICSTAINLESS",
+        "category": "Business",
+        "companies": [
+            "Anthropic",
+            "Stainless",
+            "OpenAI",
+            "Cloudflare"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    },
+    {
+        "date": "2026-05-23",
+        "source_file": "AI Research & Breakthroughs (5).pdf",
+        "page": 2,
+        "title": "Google Cloud Flexes New 8th-Gen Custom AI Chips",
+        "summary": "Google Cloud has released its 8th-generation Tensor Processing Units (TPUs), uniquely splitting the architecture into the TPU 8t for training and TPU 8i for inference. The new bespoke silicon delivers 3x faster training and an 80% improvement in performance-per-dollar over previous versions.",
+        "engagement": "Medium",
+        "raw_text": "Google is going to war over AI compute power! At Google Cloud Next, they just launched their 8th-generation custom AI chips, the TPUs. And they did something really smart—they split the architecture into the TPU 8t specifically for training models, and the 8i just for inference. These new chips are delivering up to 3 times faster training and 80% better performance-per-dollar compared to the last generation. Honestly, this is a huge flex against Nvidia. While everyone is fighting over expensive Nvidia GPUs, Google has been quietly building bespoke silicon that is cheaper and greener to run massive cloud AI workloads. If hyperscalers like Google keep dropping specialized AI accelerators like this, it's going to drastically lower the cost of running massive AI services for everyone. The hardware race is heating up, and bespoke cloud silicon is exactly what we need to keep AI costs from spiraling out of control.",
+        "id": "GOOGLE8GENTPU",
+        "category": "Hardware",
+        "companies": [
+            "Google",
+            "Nvidia"
+        ],
+        "people": [],
+        "created_at": "2026-05-23T15:47:28Z"
+    }
+]
