@@ -1,185 +1,203 @@
 [
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 1,
-        "title": "Google Just Changed the Internet Forever with Gemini 3.5 Omni",
-        "summary": "Google unveiled Gemini 3.5 Flash and Omni Flash, transitioning into an era of robust multimodal generation where AI processes any input and output format seamlessly. These models are heavily integrated into everyday applications like YouTube and Docs, allowing voice-driven, autonomous workflows.",
-        "engagement": "High",
-        "raw_text": "So check this out, Google just completely changed the game for how we interact with apps. At Google I/O, they didn't just announce a boring text upgrade—they unveiled Gemini 3.5 Flash and this insane new Omni Flash model that can take literally any input and spit out text, images, or even video right on the fly. Honestly, this is huge for creators! But the craziest part? They're integrating this straight into YouTube. Imagine you're struggling to teach your kid to ride a bike; you can literally just 'Ask YouTube' a question in plain English, and the AI will automatically jump to the exact clip in a video that shows you how to do it. No more scrubbing through a 20-minute video for a 10-second tip. We are also getting 'Docs Live' where you just talk to Gemini and it types and formats a document for you in real time. The multimodal era is officially here, and it's wild.",
-        "id": "A9F2K8Z1",
-        "category": "AI",
-        "companies": [
-            "Google"
-        ],
-        "people": [
-            "Sundar Pichai"
-        ],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 1,
-        "title": "OpenAI Secretly Dropped GPT-5.5 Instant—And It's Insane",
-        "summary": "OpenAI updated ChatGPT's default model to GPT-5.5 Instant, boasting a 52.5% reduction in hallucinations on high-stakes tasks. The model features enhanced multimodal reasoning, superior context memory, and leading performance on advanced math benchmarks.",
-        "engagement": "High",
-        "raw_text": "Here's the wild part, OpenAI didn't even host an event for this, they just quietly dropped GPT-5.5 Instant out of absolutely nowhere. If you use ChatGPT, your default model just got a massive brain upgrade. OpenAI is claiming this new version has fifty-two point five percent fewer hallucinations when it comes to the serious stuff like medical and legal questions. So yeah, it's actually getting way more reliable. But what really blew my mind is the new context handling—the AI actually remembers your past chats way better now and crushed math benchmarks like AIME, completely smoking its older versions. I've been testing it, and the multimodal reasoning is just on another level entirely. Honestly, this is classic OpenAI, constantly pushing the envelope and forcing everyone else to play catch-up. They are making enterprise-grade intelligence available to everyone instantly. What do you guys think, are you noticing the difference in your prompts?",
-        "id": "M4B7V9X2",
-        "category": "AI",
-        "companies": [
-            "OpenAI"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Combined",
-        "page": 2,
-        "title": "Nvidia's Bold Move: A $200 Billion CPU Monopoly?",
-        "summary": "Nvidia announced an aggressive expansion into a $200 billion enterprise CPU market with its Vera architecture, aiming to orchestrate complex agentic AI systems. CEO Jensen Huang controversially confirmed this massive market forecast actively includes China, despite stringent U.S. export controls.",
-        "engagement": "High",
-        "raw_text": "Alright guys, listen to this because it's an absolute flex. We all know Nvidia owns the graphics card space, right? Well, Jensen Huang just stood up in Taipei and basically declared war on the entire CPU industry. Nvidia is officially rolling out their 'Vera' CPU and combining it with the Rubin GPU to create the Vera Rubin platform. Jensen is predicting a brand new two hundred billion dollar market for these enterprise CPUs, specifically built to handle wild agentic AI workloads. And here is the kicker: he explicitly confirmed this massive forecast includes selling to the Chinese market. Despite all the U.S. export restrictions, they've got specialized H200 chips approved for like ten Chinese entities. Nvidia is moving beyond just making GPUs; they are trying to own the entire AI computational stack from top to bottom. The legacy companies like Intel and AMD have to be sweating right now. This is a total hardware monopoly in the making!",
-        "id": "L8R3P5Q4",
-        "category": "Hardware",
-        "companies": [
-            "Nvidia",
-            "Intel",
-            "AMD"
-        ],
-        "people": [
-            "Jensen Huang"
-        ],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 1,
-        "title": "AI Solves 80-Year-Old Unsolvable Math Math Problem on its Own!",
-        "summary": "An OpenAI reasoning model autonomously disproved the discrete geometry 'unit distance' problem, which has remained unsolved since 1946. This achievement marks the first time an artificial intelligence has independently solved a major, prominent mathematical open problem.",
-        "engagement": "High",
-        "raw_text": "Okay, this next one sounds like sci-fi but it just happened. An AI autonomously solved an eighty-year-old math problem. Literally, since 1946, the 'unit distance' problem in combinatorial geometry has stumped human mathematicians, and an OpenAI reasoning model just cracked it wide open. We aren't talking about basic algebra; the AI found an infinite family of counterexamples, and real mathematicians have verified the proof. Experts are calling this a major milestone because it's the very first time an AI solved a prominent open problem completely on its own without a human holding its hand. Honestly, this is huge. It proves that generative models aren't just copying human data anymore; they are actually capable of producing original, highly sophisticated mathematical reasoning. We are stepping into an era where AI doesn't just assist researchers—it actually becomes the researcher. How long until we see an AI win a Nobel Prize? Because at this rate, it feels inevitable.",
-        "id": "T2W5N7M6",
-        "category": "Science",
-        "companies": [
-            "OpenAI"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Combined",
-        "page": 7,
-        "title": "The Pope Just Declared Autonomous AI Weapons a Sin",
-        "summary": "Pope Leo XIV released a doctrinally binding encyclical condemning the unchecked capitalization and military deployment of AI architectures. Tech leaders, including Anthropic's cofounder, joined the Vatican to advocate for civil and religious oversight of artificial intelligence outside the confines of Big Tech.",
-        "engagement": "Medium",
-        "raw_text": "So check this out, the biggest AI news of the day didn't come from Silicon Valley, it literally came from the Vatican. Pope Leo the Fourteenth just dropped a massive 82-page encyclical called Magnifica Humanitas, and it goes hard against the tech industry. The Pope is officially denouncing the culture of power and profit driving the AI arms race. But here's the crazy part: he explicitly demanded the 'disarming' of AI in military tech, stating it is morally unacceptable to let machines make lethal decisions without human command. Even wilder, Chris Olah, the co-founder of Anthropic, was right there on stage with the Vatican agreeing that tech companies shouldn't be the only ones governing this stuff. When secular tech billionaires are teaming up with the Pope to hit the brakes on autonomous warfare, you know things are getting serious. This is a massive geopolitical shift for global AI ethics. Are we about to see global religious alliances regulating tech?",
-        "id": "C7H9J2K1",
-        "category": "Ethics",
-        "companies": [
-            "Anthropic"
-        ],
-        "people": [
-            "Pope Leo XIV",
-            "Christopher Olah"
-        ],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
-        "page": 5,
-        "title": "Why Your Human Resume is Getting Auto-Rejected by AI",
-        "summary": "Recent academic testing has uncovered 'AI Self-preferencing', revealing that hiring algorithms drastically favor resumes generated by the exact same foundation model over those organically written by humans. Nvidia's Jonathan Ross publicly warned job seekers about this measurable algorithmic bias, advising the use of multiple AI iterations to pass automated corporate filters.",
-        "engagement": "High",
-        "raw_text": "Are you applying for jobs right now? If so, you absolutely need to hear this. Nvidia's Chief Software Architect just exposed a massive flaw in corporate hiring systems. It turns out, AI recruiters are heavily biased—but not in the way you think. They suffer from 'AI Self-preferencing'. Researchers tested thousands of resumes and found that if you use an AI to write your resume, and the company uses that exact same AI model to screen applicants, you are up to sixty percent more likely to get an interview. Let that sink in. The AI literally prefers its own writing style over a human's. If you write a unique, purely human resume with your own linguistic flair, you are statistically getting penalized by the system. Honestly, this is dystopian. The advice right now? Generate multiple resumes using different foundation models just to maximize your mathematical odds of beating the filters. The game is rigged, guys.",
-        "id": "P6D4F1S8",
-        "category": "Business",
-        "companies": [
-            "Nvidia"
-        ],
-        "people": [
-            "Jonathan Ross"
-        ],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 2,
-        "title": "Amazon Drops $50 Billion on OpenAI as Microsoft Deal Shifts",
-        "summary": "AWS and OpenAI forged a monumental strategic alliance worth up to $50 billion, positioning Amazon as the exclusive third-party cloud distributor for OpenAI's 'Frontier' enterprise platform. Simultaneously, OpenAI shifted its existing Microsoft Azure deal to a non-exclusive license with a capped revenue share format through 2030.",
-        "engagement": "Low",
-        "raw_text": "Listen up because the balance of power in the AI cloud wars just violently shifted. Amazon Web Services just locked in a historic, fifty billion dollar strategic partnership with OpenAI. Yes, fifty billion. They are putting down fifteen billion immediately, with the rest tied to huge milestones like an OpenAI IPO or the achievement of AGI. What does this mean? AWS is now going to be the exclusive third-party distributor of OpenAI's enterprise platform called 'Frontier'. Plus, they are teaming up to build a stateful runtime environment specifically for deploying AI agents. Meanwhile, OpenAI just restructured their deal with Microsoft to be non-exclusive, meaning they don't have to share revenue anymore, but they pay a capped cut until 2030. Basically, OpenAI is playing the cloud giants against each other perfectly. For enterprise builders, this means AWS is about to become the ultimate powerhouse for deploying complex, multi-agent AI ecosystems at scale.",
-        "id": "W9T2Q6E4",
-        "category": "Business",
-        "companies": [
-            "Amazon",
-            "AWS",
-            "OpenAI",
-            "Microsoft"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
-        "page": 5,
-        "title": "Big Tech Owes You $831,000 for Your Data",
-        "summary": "A landmark macroeconomic analysis by the Web3 Foundation calculates that technology giants extract $831,497 in commercial value from the average American over a digital lifetime. Extrapolated nationally, this reveals a $268 trillion uncompensated data economy, fueling legislative efforts for algorithmic taxation and mandatory data dividends.",
-        "engagement": "High",
-        "raw_text": "Okay, prepare to be furious because a new report just exposed exactly how much your personal data is worth, and you aren't getting a penny of it. The Web3 Foundation just dropped a massive study and calculated that big tech companies extract up to eight hundred and thirty-one thousand dollars in commercial value from a single American internet user over their lifetime. When you scale that up, we are talking about a two hundred and sixty-eight trillion dollar data economy just in the US. They evaluated Big Data entities like Amazon, Microsoft, and Meta, and found they make over a grand a year just off your digital footprint. Honestly, this is huge leverage for future laws. Legislators finally have the math to potentially demand mandatory data dividends or universal basic income funded by taxing these algorithms. You are generating a fortune in raw material for these companies just by scrolling, and it's time people realize the hidden price of 'free' services.",
-        "id": "B3X5C8V1",
-        "category": "Business",
-        "companies": [
-            "Amazon",
-            "Microsoft",
-            "Meta"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 3,
-        "title": "The Deepfake Cure? Major AI Players Adopt SynthID",
-        "summary": "To combat the proliferation of deepfakes, major AI developers including OpenAI, Kakao, and Eleven Labs have formally agreed to adopt Google's SynthID watermark for generated media. This creates a powerful industry standard, allowing users to transparently verify the algorithmic origin of content directly through platforms like Chrome.",
-        "engagement": "Medium",
-        "raw_text": "Have you ever been fooled by an AI-generated image online? Well, the entire tech industry is finally teaming up to fix the deepfake problem. In a super rare cross-industry move, OpenAI, Kakao, and Eleven Labs have officially agreed to adopt Google's SynthID watermark for all their AI-generated images and videos. SynthID was developed by DeepMind, and it bakes an invisible watermark directly into the pixels or audio that can't be easily scrubbed out. Google has already applied this to over a hundred billion assets. This means if you see a wild video on social media, you can verify its origin right inside Chrome or Google Search to see if it came from a camera or a server. Honestly, this is a much-needed win for internet transparency. With AI getting so insanely realistic, having a universal standard to detect generative content is the only way we are going to survive the next wave of digital misinformation.",
-        "id": "Z7L1M3N9",
-        "category": "Software",
-        "companies": [
-            "Google",
-            "DeepMind",
-            "OpenAI",
-            "Kakao",
-            "Eleven Labs"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    },
-    {
-        "date": "2026-05-25",
-        "source_file": "Tech News Roundup - May 25, 2026.pdf",
-        "page": 1,
-        "title": "China's DeepSeek Destroys Western AI Pricing with 75% Cut",
-        "summary": "DeepSeek announced a 75% price reduction for its flagship V4-Pro API, achieving massive cost-efficiency advantages over Western models like GPT-5.5. This aggressive pricing strategy is enabled by abundant domestic compute resources via Huawei's Ascend hardware, reflecting China's broader geopolitical push to monopolize global AI service affordability.",
-        "engagement": "Medium",
-        "raw_text": "Here is a massive wake-up call for the Western AI monopolies. DeepSeek, the rising AI startup out of China, just brutally undercut the entire market. They announced a permanent seventy-five percent price cut on their flagship V4-Pro language model. We are talking about API costs dropping down to just a fraction of a cent per million tokens. Independent benchmarks are already ranking the V4-Pro as having the best 'intelligence per dollar' on the planet, completely blowing past the cost-efficiency of GPT-5.5 and Claude. How are they doing this? Apparently, US export controls actually forced Huawei to ramp up their Ascend chips, giving DeepSeek the super cheap, high-volume compute they need to pull this off. This is a full-blown price war. China is playing the long game, using extreme affordability to dominate the global AI services market. If you are a developer, you have to seriously consider switching because the cost savings are just too insane to ignore.",
-        "id": "U5Y8I2O4",
-        "category": "Business",
-        "companies": [
-            "DeepSeek",
-            "Huawei",
-            "OpenAI",
-            "Anthropic"
-        ],
-        "people": [],
-        "created_at": "2026-05-25T22:35:30+05:30"
-    }
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 1,
+    "title": "Google Just Changed the Internet Forever with Gemini 3.5 Omni",
+    "summary": "Google unveiled Gemini 3.5 Flash and Omni Flash, transitioning into an era of robust multimodal generation where AI processes any input and output format seamlessly. These models are heavily integrated into everyday applications like YouTube and Docs, allowing voice-driven, autonomous workflows.",
+    "engagement": "High",
+    "raw_text": "So check this out, Google just completely changed the game for how we interact with apps. At Google I/O, they didn't just announce a boring text upgrade\u2014they unveiled Gemini 3.5 Flash and this insane new Omni Flash model that can take literally any input and spit out text, images, or even video right on the fly. Honestly, this is huge for creators! But the craziest part? They're integrating this straight into YouTube. Imagine you're struggling to teach your kid to ride a bike; you can literally just 'Ask YouTube' a question in plain English, and the AI will automatically jump to the exact clip in a video that shows you how to do it. No more scrubbing through a 20-minute video for a 10-second tip. We are also getting 'Docs Live' where you just talk to Gemini and it types and formats a document for you in real time. The multimodal era is officially here, and it's wild.",
+    "id": "A9F2K8Z1",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/A9F2K8Z1.png",
+    "image_prompt": "Futuristic newsroom scene: a glowing holographic globe with flowing light-mesh connecting smartphones, laptops, and streaming screens labeled by icons only, diverse people using voice to control omnidirectional AI. Cinematic lighting, ultra-realistic, sharp detail, modern tech mood."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 1,
+    "title": "OpenAI Secretly Dropped GPT-5.5 Instant\u2014And It's Insane",
+    "summary": "OpenAI updated ChatGPT's default model to GPT-5.5 Instant, boasting a 52.5% reduction in hallucinations on high-stakes tasks. The model features enhanced multimodal reasoning, superior context memory, and leading performance on advanced math benchmarks.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part, OpenAI didn't even host an event for this, they just quietly dropped GPT-5.5 Instant out of absolutely nowhere. If you use ChatGPT, your default model just got a massive brain upgrade. OpenAI is claiming this new version has fifty-two point five percent fewer hallucinations when it comes to the serious stuff like medical and legal questions. So yeah, it's actually getting way more reliable. But what really blew my mind is the new context handling\u2014the AI actually remembers your past chats way better now and crushed math benchmarks like AIME, completely smoking its older versions. I've been testing it, and the multimodal reasoning is just on another level entirely. Honestly, this is classic OpenAI, constantly pushing the envelope and forcing everyone else to play catch-up. They are making enterprise-grade intelligence available to everyone instantly. What do you guys think, are you noticing the difference in your prompts?",
+    "id": "M4B7V9X2",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30"
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Nvidia's Bold Move: A $200 Billion CPU Monopoly?",
+    "summary": "Nvidia announced an aggressive expansion into a $200 billion enterprise CPU market with its Vera architecture, aiming to orchestrate complex agentic AI systems. CEO Jensen Huang controversially confirmed this massive market forecast actively includes China, despite stringent U.S. export controls.",
+    "engagement": "High",
+    "raw_text": "Alright guys, listen to this because it's an absolute flex. We all know Nvidia owns the graphics card space, right? Well, Jensen Huang just stood up in Taipei and basically declared war on the entire CPU industry. Nvidia is officially rolling out their 'Vera' CPU and combining it with the Rubin GPU to create the Vera Rubin platform. Jensen is predicting a brand new two hundred billion dollar market for these enterprise CPUs, specifically built to handle wild agentic AI workloads. And here is the kicker: he explicitly confirmed this massive forecast includes selling to the Chinese market. Despite all the U.S. export restrictions, they've got specialized H200 chips approved for like ten Chinese entities. Nvidia is moving beyond just making GPUs; they are trying to own the entire AI computational stack from top to bottom. The legacy companies like Intel and AMD have to be sweating right now. This is a total hardware monopoly in the making!",
+    "id": "L8R3P5Q4",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "Intel",
+      "AMD"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/L8R3P5Q4.png",
+    "image_prompt": "Realistic high-tech news image: Nvidia CEO Jensen Huang silhouette against a glowing holographic CPU/processor map, towering data-center stacks, fiery red/blue light split by a subtle trade-control border line, dramatic cinematic lighting, crisp detail, shallow depth of field, no text."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 1,
+    "title": "AI Solves 80-Year-Old Unsolvable Math Math Problem on its Own!",
+    "summary": "An OpenAI reasoning model autonomously disproved the discrete geometry 'unit distance' problem, which has remained unsolved since 1946. This achievement marks the first time an artificial intelligence has independently solved a major, prominent mathematical open problem.",
+    "engagement": "High",
+    "raw_text": "Okay, this next one sounds like sci-fi but it just happened. An AI autonomously solved an eighty-year-old math problem. Literally, since 1946, the 'unit distance' problem in combinatorial geometry has stumped human mathematicians, and an OpenAI reasoning model just cracked it wide open. We aren't talking about basic algebra; the AI found an infinite family of counterexamples, and real mathematicians have verified the proof. Experts are calling this a major milestone because it's the very first time an AI solved a prominent open problem completely on its own without a human holding its hand. Honestly, this is huge. It proves that generative models aren't just copying human data anymore; they are actually capable of producing original, highly sophisticated mathematical reasoning. We are stepping into an era where AI doesn't just assist researchers\u2014it actually becomes the researcher. How long until we see an AI win a Nobel Prize? Because at this rate, it feels inevitable.",
+    "id": "T2W5N7M6",
+    "category": "Science",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/T2W5N7M6.png",
+    "image_prompt": "Realistic news photo style: a focused AI server room glow reflecting on a chalkboard filled with abstract geometry lines, a worn 1946-era book nearby, mathematician\u2019s hand pointing, cinematic lighting, shallow depth of field, high detail, credible editorial mood, no text."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Combined",
+    "page": 7,
+    "title": "The Pope Just Declared Autonomous AI Weapons a Sin",
+    "summary": "Pope Leo XIV released a doctrinally binding encyclical condemning the unchecked capitalization and military deployment of AI architectures. Tech leaders, including Anthropic's cofounder, joined the Vatican to advocate for civil and religious oversight of artificial intelligence outside the confines of Big Tech.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, the biggest AI news of the day didn't come from Silicon Valley, it literally came from the Vatican. Pope Leo the Fourteenth just dropped a massive 82-page encyclical called Magnifica Humanitas, and it goes hard against the tech industry. The Pope is officially denouncing the culture of power and profit driving the AI arms race. But here's the crazy part: he explicitly demanded the 'disarming' of AI in military tech, stating it is morally unacceptable to let machines make lethal decisions without human command. Even wilder, Chris Olah, the co-founder of Anthropic, was right there on stage with the Vatican agreeing that tech companies shouldn't be the only ones governing this stuff. When secular tech billionaires are teaming up with the Pope to hit the brakes on autonomous warfare, you know things are getting serious. This is a massive geopolitical shift for global AI ethics. Are we about to see global religious alliances regulating tech?",
+    "id": "C7H9J2K1",
+    "category": "Ethics",
+    "companies": [
+      "Anthropic"
+    ],
+    "people": [
+      "Pope Leo XIV",
+      "Christopher Olah"
+    ],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/C7H9J2K1.png",
+    "image_prompt": "Realistic editorial photo: Vatican interior at dusk, Pope in white vestments framed by ornate columns, subtle holographic AI warning motif over a distant soldier silhouette, tech executives in suits in the foreground listening; moody chiaroscuro lighting, documentary style, high detail, no text."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+    "page": 5,
+    "title": "Why Your Human Resume is Getting Auto-Rejected by AI",
+    "summary": "Recent academic testing has uncovered 'AI Self-preferencing', revealing that hiring algorithms drastically favor resumes generated by the exact same foundation model over those organically written by humans. Nvidia's Jonathan Ross publicly warned job seekers about this measurable algorithmic bias, advising the use of multiple AI iterations to pass automated corporate filters.",
+    "engagement": "High",
+    "raw_text": "Are you applying for jobs right now? If so, you absolutely need to hear this. Nvidia's Chief Software Architect just exposed a massive flaw in corporate hiring systems. It turns out, AI recruiters are heavily biased\u2014but not in the way you think. They suffer from 'AI Self-preferencing'. Researchers tested thousands of resumes and found that if you use an AI to write your resume, and the company uses that exact same AI model to screen applicants, you are up to sixty percent more likely to get an interview. Let that sink in. The AI literally prefers its own writing style over a human's. If you write a unique, purely human resume with your own linguistic flair, you are statistically getting penalized by the system. Honestly, this is dystopian. The advice right now? Generate multiple resumes using different foundation models just to maximize your mathematical odds of beating the filters. The game is rigged, guys.",
+    "id": "P6D4F1S8",
+    "category": "Business",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Jonathan Ross"
+    ],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/P6D4F1S8.png",
+    "image_prompt": "Realistic editorial photo: tense job seeker at desk in dim office, laptop screen with abstract AI circuit glow, blurred HR inbox icons, warning-like shadowy HUD overlays, split light between human handwriting paper and machine-generated forms, moody blue-gray color, high detail, natural lighting, news style."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 2,
+    "title": "Amazon Drops $50 Billion on OpenAI as Microsoft Deal Shifts",
+    "summary": "AWS and OpenAI forged a monumental strategic alliance worth up to $50 billion, positioning Amazon as the exclusive third-party cloud distributor for OpenAI's 'Frontier' enterprise platform. Simultaneously, OpenAI shifted its existing Microsoft Azure deal to a non-exclusive license with a capped revenue share format through 2030.",
+    "engagement": "Low",
+    "raw_text": "Listen up because the balance of power in the AI cloud wars just violently shifted. Amazon Web Services just locked in a historic, fifty billion dollar strategic partnership with OpenAI. Yes, fifty billion. They are putting down fifteen billion immediately, with the rest tied to huge milestones like an OpenAI IPO or the achievement of AGI. What does this mean? AWS is now going to be the exclusive third-party distributor of OpenAI's enterprise platform called 'Frontier'. Plus, they are teaming up to build a stateful runtime environment specifically for deploying AI agents. Meanwhile, OpenAI just restructured their deal with Microsoft to be non-exclusive, meaning they don't have to share revenue anymore, but they pay a capped cut until 2030. Basically, OpenAI is playing the cloud giants against each other perfectly. For enterprise builders, this means AWS is about to become the ultimate powerhouse for deploying complex, multi-agent AI ecosystems at scale.",
+    "id": "W9T2Q6E4",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "AWS",
+      "OpenAI",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/W9T2Q6E4.png",
+    "image_prompt": "Cinematic newsroom-style photo: dramatic split-screen of a sleek AWS server rack and a glowing AI circuitry orb above it; subtle corporate skyline in blur. Dark blue to amber lighting, high contrast, realistic depth of field, premium editorial composition, no text, no logos."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+    "page": 5,
+    "title": "Big Tech Owes You $831,000 for Your Data",
+    "summary": "A landmark macroeconomic analysis by the Web3 Foundation calculates that technology giants extract $831,497 in commercial value from the average American over a digital lifetime. Extrapolated nationally, this reveals a $268 trillion uncompensated data economy, fueling legislative efforts for algorithmic taxation and mandatory data dividends.",
+    "engagement": "High",
+    "raw_text": "Okay, prepare to be furious because a new report just exposed exactly how much your personal data is worth, and you aren't getting a penny of it. The Web3 Foundation just dropped a massive study and calculated that big tech companies extract up to eight hundred and thirty-one thousand dollars in commercial value from a single American internet user over their lifetime. When you scale that up, we are talking about a two hundred and sixty-eight trillion dollar data economy just in the US. They evaluated Big Data entities like Amazon, Microsoft, and Meta, and found they make over a grand a year just off your digital footprint. Honestly, this is huge leverage for future laws. Legislators finally have the math to potentially demand mandatory data dividends or universal basic income funded by taxing these algorithms. You are generating a fortune in raw material for these companies just by scrolling, and it's time people realize the hidden price of 'free' services.",
+    "id": "B3X5C8V1",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/B3X5C8V1.png",
+    "image_prompt": "Hyper-real editorial photo: a tense consumer at home with holographic data streams swirling from devices into towering faceless server silhouettes. Split lighting\u2014warm personal life vs cold corporate glow. Subtle macro charts as bokeh, cinematic, high contrast, 16:9, no text."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 3,
+    "title": "The Deepfake Cure? Major AI Players Adopt SynthID",
+    "summary": "To combat the proliferation of deepfakes, major AI developers including OpenAI, Kakao, and Eleven Labs have formally agreed to adopt Google's SynthID watermark for generated media. This creates a powerful industry standard, allowing users to transparently verify the algorithmic origin of content directly through platforms like Chrome.",
+    "engagement": "Medium",
+    "raw_text": "Have you ever been fooled by an AI-generated image online? Well, the entire tech industry is finally teaming up to fix the deepfake problem. In a super rare cross-industry move, OpenAI, Kakao, and Eleven Labs have officially agreed to adopt Google's SynthID watermark for all their AI-generated images and videos. SynthID was developed by DeepMind, and it bakes an invisible watermark directly into the pixels or audio that can't be easily scrubbed out. Google has already applied this to over a hundred billion assets. This means if you see a wild video on social media, you can verify its origin right inside Chrome or Google Search to see if it came from a camera or a server. Honestly, this is a much-needed win for internet transparency. With AI getting so insanely realistic, having a universal standard to detect generative content is the only way we are going to survive the next wave of digital misinformation.",
+    "id": "Z7L1M3N9",
+    "category": "Software",
+    "companies": [
+      "Google",
+      "DeepMind",
+      "OpenAI",
+      "Kakao",
+      "Eleven Labs"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/Z7L1M3N9.png",
+    "image_prompt": "Realistic newsroom scene: diverse AI engineers beside holographic \u201cmedia integrity\u201d icons, a subtle Chrome-like verification overlay on a laptop screen, dark tech background with soft blue lighting, dramatic depth of field, cinematic, high-detail, natural faces\u2014no text, no logos."
+  },
+  {
+    "date": "2026-05-25",
+    "source_file": "Tech News Roundup - May 25, 2026.pdf",
+    "page": 1,
+    "title": "China's DeepSeek Destroys Western AI Pricing with 75% Cut",
+    "summary": "DeepSeek announced a 75% price reduction for its flagship V4-Pro API, achieving massive cost-efficiency advantages over Western models like GPT-5.5. This aggressive pricing strategy is enabled by abundant domestic compute resources via Huawei's Ascend hardware, reflecting China's broader geopolitical push to monopolize global AI service affordability.",
+    "engagement": "Medium",
+    "raw_text": "Here is a massive wake-up call for the Western AI monopolies. DeepSeek, the rising AI startup out of China, just brutally undercut the entire market. They announced a permanent seventy-five percent price cut on their flagship V4-Pro language model. We are talking about API costs dropping down to just a fraction of a cent per million tokens. Independent benchmarks are already ranking the V4-Pro as having the best 'intelligence per dollar' on the planet, completely blowing past the cost-efficiency of GPT-5.5 and Claude. How are they doing this? Apparently, US export controls actually forced Huawei to ramp up their Ascend chips, giving DeepSeek the super cheap, high-volume compute they need to pull this off. This is a full-blown price war. China is playing the long game, using extreme affordability to dominate the global AI services market. If you are a developer, you have to seriously consider switching because the cost savings are just too insane to ignore.",
+    "id": "U5Y8I2O4",
+    "category": "Business",
+    "companies": [
+      "DeepSeek",
+      "Huawei",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "people": [],
+    "created_at": "2026-05-25T22:35:30+05:30",
+    "image_url": "images/26_05_26/U5Y8I2O4.png",
+    "image_prompt": "Futuristic news photo, split-scene: left, sleek server racks in China with glowing blue data streams and Huawei Ascend-style hardware; right, shadowy Western tech skyline fading under a large red downward price-wave metaphor. Cinematic lighting, high detail, realistic, tense geopolitical mood, no text."
+  }
 ]
