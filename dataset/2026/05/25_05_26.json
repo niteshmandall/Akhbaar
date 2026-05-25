@@ -1,0 +1,167 @@
+[
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 4,
+        "title": "Fujitsu Built AI That Fixes Its Own Code!",
+        "summary": "Fujitsu announced a self-evolving multi-Al agent technology that autonomously analyzes its operational experiences and adjusts parameters without human intervention. This system achieved a 28-point accuracy improvement in specialized domains like healthcare and manufacturing.",
+        "engagement": "High",
+        "raw_text": "You won't believe what Fujitsu just pulled off. We all know AI needs constant human tweaking to stay accurate, right? Well, not anymore. They just dropped a self-evolving multi-agent system that literally analyzes its own mistakes in real-time and fixes itself. No human engineers required! They tested this in super strict fields like healthcare, and the AI autonomously boosted its own accuracy by 28 points. The craziest part is that it runs locally, meaning massive corporations can use continuously learning AI without leaking their private data to the public cloud. This is a massive leap towards completely autonomous software ecosystems! Honestly, the era of static AI is completely dead.",
+        "id": "H7X2V9M1",
+        "category": "AI",
+        "companies": [
+            "Fujitsu"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 4,
+        "title": "Light-Based Chips Could Save the AI Power Grid!",
+        "summary": "Researchers at the University of Pennsylvania have published a breakthrough utilizing hybrid light-matter particles for photonic computing. This architecture could bypass silicon's thermal limitations, drastically accelerating neural networks while consuming a fraction of the energy.",
+        "engagement": "Medium",
+        "raw_text": "Here's the scary truth: AI is literally running out of electricity. Data centers are hitting massive thermal walls. But researchers at Penn just dropped a wild breakthrough—photonic computing. Instead of using electrons that generate a ton of heat, they are using hybrid light-matter particles to process data. Let that sink in. Computing with actual light! This could drastically speed up neural networks while using a tiny fraction of the power required by conventional processing clusters. If this scales to commercial manufacturing, it completely solves the massive energy crisis threatening to pause the AI boom. Honestly, light-based chips sound like pure sci-fi, but it's happening right now in the labs.",
+        "id": "R4P8K3N5",
+        "category": "Hardware",
+        "companies": [
+            "University of Pennsylvania"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 3,
+        "title": "The $1.1 Billion Secret AI Infrastructure Boom",
+        "summary": "Sterlite Technologies secured a $1.11 billion multi-year agreement to supply advanced optical connectivity products for hyperscale AI data centers in the United States. This highlights the critical secondary market for high-bandwidth physical infrastructure required to network GPU clusters.",
+        "engagement": "Low",
+        "raw_text": "Everyone is hyping up Nvidia chips, but they are totally ignoring the massive secondary boom happening right under our noses. Sterlite Technologies just bagged a jaw-dropping one point one billion dollar contract to supply optical connectivity for US data centers. Why? Because when you link tens of thousands of GPUs together, the bottleneck isn't the processing speed anymore—it's the data transit latency! You literally need next-generation physical cables and optical fiber to make these hyperscale AI clusters work. This is the hidden infrastructure play of the decade. The companies laying the actual cables are quietly making an absolute fortune while everyone else fights over silicon and API access.",
+        "id": "J1B6C9Q2",
+        "category": "Business",
+        "companies": [
+            "Sterlite Technologies"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 3,
+        "title": "Are Quantum Computers About to Break AI Security?",
+        "summary": "Crypto4A Technologies announced QxVault, a quantum-safe secrets management platform engineered for edge computing networks. The system aims to protect enterprise data and decentralized networks from the looming threat of quantum decryption.",
+        "engagement": "Medium",
+        "raw_text": "So, edge computing is exploding, right? But it's creating a massive security nightmare. As data moves away from centralized servers, it gets insanely vulnerable. That's why Crypto4A just launched QxVault. It's a secrets management platform designed for one terrifying purpose: surviving the quantum computing apocalypse. We know quantum decryption is coming, and it will shatter standard encryption like glass. QxVault is built to ensure cryptographic sovereignty across massive, decentralized edge networks, keeping corporate AI assets totally secure. It's wild that we are already having to deploy quantum-safe security today, but honestly, you can never be too early when it comes to defending the AI edge from future threats.",
+        "id": "F5D9L2Z8",
+        "category": "Software",
+        "companies": [
+            "Crypto4A Technologies"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 8,
+        "title": "India's Radically Different Master Plan for AI",
+        "summary": "The Government of India's MeitY and ISB convened a summit focusing on 'Inclusive AI' to leverage technology for last-mile public service delivery rather than just enterprise efficiency. The strategy aims for technological leapfrogging in healthcare and education, contrasting with Western defense-focused paradigms.",
+        "engagement": "Medium",
+        "raw_text": "While the US and Europe are obsessing over defense scaling and copyright laws, India is taking a radically different approach to AI. The Indian government just hosted a massive Governance Summit focusing entirely on 'Inclusive AI'. Instead of just making rich tech companies richer, they want to use AI for massive, last-mile public services like rural healthcare and decentralized education. They aren't trying to slow AI down; they are treating it as a national mission to technologically leapfrog deep societal inequalities at the state and rural levels. Honestly, I love this approach. It's a pragmatic, capacity-building model that completely shifts the global conversation from AI doom to real, on-the-ground human utility.",
+        "id": "W8M3N7V4",
+        "category": "Ethics",
+        "companies": [
+            "MeitY",
+            "ISB"
+        ],
+        "people": [
+            "S. Krishnan"
+        ],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Aggregation With Exclusion List (2).pdf",
+        "page": 9,
+        "title": "Computex 2026: Liquid Cooling is the New Gold Standard!",
+        "summary": "At Computex 2026, Supermicro showcased liquid-cooled Data Center Building Block Solutions designed for agentic AI thermal loads. Concurrently, PROMISE Technology unveiled ultra-low latency AI-optimized storage architectures to resolve data transit bottlenecks.",
+        "engagement": "Medium",
+        "raw_text": "Computex 2026 is right around the corner and the hardware leaks are insane! With agentic AI pushing servers to their absolute limits, standard air cooling is dead. Supermicro is going all-in, showcasing their modular Data Center blocks with end-to-end liquid cooling. You literally need heavy plumbing in your server racks now just to handle the heat! But it's not just about thermals. AI is chewing through so much multi-modal data that storage latency is crashing systems. PROMISE Technology is stepping up with their new NVMeBoost architectures, designed specifically to feed massive data sets to GPUs at ultra-low latencies while keeping energy costs down. The physical hardware ecosystem is mutating fast to keep up!",
+        "id": "T2G5Y1H6",
+        "category": "Hardware",
+        "companies": [
+            "Supermicro",
+            "PROMISE Technology"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Roundup - May 25, 2026.pdf",
+        "page": 1,
+        "title": "DNA-Guided CRISPR is the Next Biotech Miracle",
+        "summary": "Researchers at the University of Florida and UT-Austin published the first DNA-guided CRISPR system, replacing traditional RNA guides. This innovation dramatically increases precision and reduces costs, potentially revolutionizing synthetic biology and gene therapies.",
+        "engagement": "High",
+        "raw_text": "Okay, stepping away from silicon for a second because this biotech breakthrough is mind-blowing. We all know CRISPR, the gene-editing tool, right? Well, scientists at the University of Florida just hacked it. Instead of using RNA as the targeting guide, which is fragile and expensive, they engineered CRISPR to use DNA guides. This is an absolute game changer! DNA is way more stable, dirt cheap, and insanely precise. They are getting orders-of-magnitude fewer off-target cuts. This means we can safely edit cellular 'working copies' without permanently wrecking the core genome. This is going to make gene therapies and diagnostics drastically cheaper and safer for everyone. The future of synthetic biology is literally happening today!",
+        "id": "C9K4P8R2",
+        "category": "Science",
+        "companies": [
+            "University of Florida",
+            "UT-Austin"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Roundup - May 25, 2026.pdf",
+        "page": 3,
+        "title": "The Massive AI Talent Crisis Nobody is Talking About",
+        "summary": "IBM India's managing director warned that only about 30% of India's tech workforce currently possesses significant AI skills. Emphasizing the need to capitalize on the demographic dividend, IBM plans to train 5 million people in AI and quantum technologies by 2030.",
+        "engagement": "Low",
+        "raw_text": "We keep talking about the AI boom, but who is actually going to build and maintain all this stuff? IBM India's head just dropped a harsh truth bomb: only around thirty percent of India's tech workforce actually has meaningful AI skills right now. That is a massive talent gap! If emerging markets want to capitalize on their demographic dividend, they desperately need a reskilling revolution. IBM is actually stepping up, committing to train five million people in AI and quantum tech by 2030. Honestly, this is the real bottleneck of the entire tech sector. It doesn't matter how fast the chips are if we don't have enough engineers who know how to deploy agentic workflows.",
+        "id": "S6F1D5M7",
+        "category": "Business",
+        "companies": [
+            "IBM"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Roundup - May 25, 2026.pdf",
+        "page": 3,
+        "title": "Tether Just Teamed Up With a Whole Country!",
+        "summary": "Crypto giant Tether announced plans to launch an official stablecoin pegged to the Georgian lari, fully backed by reserves and regulated by the Georgian central bank. This represents a significant milestone in private crypto firms collaborating with national governments.",
+        "engagement": "Medium",
+        "raw_text": "Crypto is making major geopolitical moves again! Tether, the stablecoin giant, just announced they are launching an official stablecoin pegged to the Georgian lari. But here is the crazy part—it's fully backed and actually supported by the Georgian government and their central bank! Georgia is already a massive crypto-mining hub, but this bridges the gap between private crypto companies and actual national economies. We are seeing countries totally skip the complicated Central Bank Digital Currency route and just partner directly with established crypto players. If this experiment works, expect a tidal wave of developing nations adopting private stablecoins as official national infrastructure. The global financial system is quietly getting a massive structural upgrade.",
+        "id": "L3Q7W2E9",
+        "category": "Business",
+        "companies": [
+            "Tether"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    },
+    {
+        "date": "2026-05-25",
+        "source_file": "Tech News Roundup - May 25, 2026.pdf",
+        "page": 3,
+        "title": "The US is Losing the Global AI Adoption Race",
+        "summary": "Microsoft's Q1 2026 AI diffusion report revealed that 17.8% of the global working-age population used generative AI tools, with the UAE leading at 70.1% penetration. The United States ranked 21st globally with approximately 31.3% adoption, highlighting a widening global digital divide.",
+        "engagement": "Medium",
+        "raw_text": "Think everyone in the US is using AI? Think again. Microsoft just dropped their Q1 2026 AI diffusion report, and the stats are wild. Globally, almost eighteen percent of working-age people are using generative AI. But here is the shocker: the UAE is absolutely dominating with a massive seventy percent penetration rate! Meanwhile, the United States is lagging way behind at just thirty-one percent, ranking twenty-first in the world. Asia is seeing explosive gains because tools are finally supporting local languages better. But there is a huge warning sign here too: the gap between developed and developing economies is widening fast. AI is becoming a global superpower race, and right now, the US consumer is falling behind.",
+        "id": "B9V4X6Z3",
+        "category": "Software",
+        "companies": [
+            "Microsoft"
+        ],
+        "people": [],
+        "created_at": "2026-05-25T22:38:37+05:30"
+    }
+]
