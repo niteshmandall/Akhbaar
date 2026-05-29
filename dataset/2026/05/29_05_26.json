@@ -1,0 +1,174 @@
+[
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 2",
+    "page": 2,
+    "title": "Dell’s Stock SKYROCKETS 33%! Data Centers Officially Overtake PC Sales!",
+    "summary": "Dell Technologies reported an absolute record-breaking quarter powered by a surge in demand for AI-ready servers. Data center infrastructure revenue hit $16.1 billion, successfully overtaking legacy PC sales for the first time.",
+    "engagement": "High",
+    "raw_text": "You won’t believe the absolute monster day Dell Technologies just had on Wall Street! Their stock literally skyrocketed by thirty-three percent in a single trading session, adding a mind-blowing sixty-eight billion dollars to their market value! Here's the wild part: the company known for selling office laptops has officially flipped into a data center titan. Thanks to an absolute flood of orders for GPU and specialized AI-ready servers from cloud providers, Dell's data center revenue surged to an insane sixteen point one billion dollars, completely overtaking their standard PC sales for the quarter. This is proof that the corporate AI infrastructure build-out is a absolute goldmine for legacy enterprise IT giants. Legacy computer companies are turning into hyper-profitable AI powerhouses overnight because everyone is scrambling to buy the hardware needed to host massive models. Honestly, this is a legendary transition!",
+    "id": "del33ai8",
+    "category": "Hardware",
+    "companies": [
+      "Dell Technologies"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 3",
+    "page": 2,
+    "title": "ByteDance Is Building Its Own Custom CPUs to Ditch Nvidia!",
+    "summary": "TikTok's parent company ByteDance is actively developing custom CPUs based on Arm and RISC-V architectures to power its internal servers. The move is a strategic play to reduce dependency on hyper-expensive third-party silicon and scale its AI platforms like Coze.",
+    "engagement": "High",
+    "raw_text": "Check this out—ByteDance, the mega-power behind TikTok, is making a massive, top-secret play to build its own custom CPUs from scratch! They are running down two separate development tracks right now: one built on SoftBank's Arm architecture, and another using the open-source RISC-V standard. Why are they doing this? Because chip prices are soaring to the moon and ongoing hardware shortages are threatening to choke out their massive global AI rollout plans for platforms like Coze. They are already locking down foundry capacity with external manufacturing partners like Samsung to push out at least one hundred thousand AI inference units in their very first year! Just like Amazon and Google did with Graviton and TPUs, ByteDance is vertically integrating into silicon to permanently slash their cloud infrastructure bills and tell Nvidia they don't want to rely on them forever. This is an absolute power move that is going to shake up the global chip supply chain!",
+    "id": "bytecpu4",
+    "category": "Hardware",
+    "companies": [
+      "ByteDance",
+      "Samsung",
+      "Nvidia",
+      "SoftBank"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 2",
+    "page": 2,
+    "title": "Intel Drops $3.3 BILLION to Build Massive Next-Gen Chip Factory in India!",
+    "summary": "Intel and its partner 3D Global Solutions have committed $3.3 billion to establish an advanced semiconductor substrate packaging plant in Odisha, India. Backed by government incentives, the site will support global chip makers and create 1,800 engineering roles.",
+    "engagement": "High",
+    "raw_text": "So check this out—the global semiconductor map is officially being redrawn, and India is securing a massive piece of the pie! Intel just teamed up with U.S. partner 3D Global Solutions to drop a whopping three point three billion dollars to build a state-of-the-art semiconductor substrate manufacturing plant in Odisha, India! Now, substrates might sound boring, but they are absolutely critical advanced packaging components needed to build modern high-performance AI chips. Backed by massive Indian government incentives, this factory is going to employ around eighteen hundred highly skilled engineers and technicians. Here's the big picture: instead of relying completely on East Asian foundries, global chip makers are actively diversifying their supply chains, and this puts India right on the front lines of high-tech manufacturing. It’s a massive win for India's domestic tech ambitions and a crucial shield against future global chip supply shocks!",
+    "id": "int33od8",
+    "category": "Hardware",
+    "companies": [
+      "Intel",
+      "3D Global Solutions"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 1",
+    "page": 29,
+    "title": "Illinois Passes Massive 'Frontier AI Safety Act' With $3 Million Fines!",
+    "summary": "The Illinois state legislature passed Senate Bill 315, establishing a comprehensive accountability framework targeting foundational developers of the largest AI models. The bill mandates architectural disclosures and grants exclusive enforcement to the State Attorney General.",
+    "engagement": "High",
+    "raw_text": "Alright, here is a massive legislative hammer that just dropped! The Illinois state legislature has officially passed Senate Bill three-fifteen, known as the Frontier AI Safety Act, and it is easily one of the strictest AI accountability bills in the country. This isn't going after random users; it is aiming directly up the supply chain at the multi-billion-dollar conglomerates creating foundational models. Developers are now legally forced to file detailed, verified disclosures with state authorities covering their internal system architecture, safety protocols, and risk mitigation strategies. If they release a dangerous model or act with gross negligence, the Illinois Attorney General has exclusive power to slap them with civil penalties capped at three million dollars per violation! To protect tech companies from chaotic, endless class-action lawsuits, private citizens can't sue directly. But make no mistake, this forces Big Tech to fund the very bureaucratic system created to police them. The countdown to 2028 enforcement is officially on!",
+    "id": "illsb315",
+    "category": "Business",
+    "companies": [],
+    "people": [
+      "J.B. Pritzker"
+    ],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 2",
+    "page": 1,
+    "title": "Ubuntu Creator Drops 'Workshop' to Fight AI Agent Dependency Hell!",
+    "summary": "Canonical, the company behind Ubuntu, unveiled 'Workshop,' an open-source development tool designed to standardize AI pipelines using simple YAML files. The platform features unprivileged container sandboxes to isolate and safely execute autonomous AI agent code.",
+    "engagement": "Medium",
+    "raw_text": "If you're a developer or a builder, look at this, because the creators of Ubuntu just solved a massive headache for AI engineering. Canonical just unveiled a brand-new tool called 'Workshop,' and it is explicitly built to kill 'dependency hell' in AI pipelines. Instead of tearing your hair out trying to reproduce machine learning environments, Workshop lets you define your entire project—code repos, datasets, and compute resources—in a simple YAML file. It automatically reproduces that exact same stack locally, in the cloud, or wherever you deploy. Here's the wild part: it includes a specialized sandbox with totally unprivileged containers. Why do we care? Because when you let autonomous AI agents run code, you do not want them accidentally deleting your hard drive, messing with your networks, or hijacking your USB ports. Workshop locks them in an isolated box so you can let your agents run wild without risking your system security. This is exactly the kind of unglamorous infrastructure tool we need as AI agents multiply!",
+    "id": "canwork6",
+    "category": "AI",
+    "companies": [
+      "Canonical"
+    ],
+    "people": [
+      "Jon Seager"
+    ],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 1",
+    "page": 17,
+    "title": "Cognizant Unleashes 'Headless APIs' for Autonomous Healthcare Agents!",
+    "summary": "Cognizant opened its TriZetto Unify healthcare administration platform to autonomous AI agents via a new headless API model. The architecture automates Electronic Prior Authorization workflows while keeping human doctors in the loop for final clinical decisions.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—Cognizant just made a massive, highly technical upgrade that shows exactly where enterprise software is heading. They just opened up their massive TriZetto Unify healthcare platform—which handles over two hundred million members—to autonomous AI agents using a brand new 'headless API' model! Look, legacy software is designed with visual dashboards meant for human eyes and mouse clicks. But AI agents don’t need a pretty interface; they need lightning-fast machine-to-machine pipelines. Cognizant is letting AI act as a native, first-class user account to tackle prior authorization—the absolute worst bureaucratic nightmare where doctors waste thirteen hours a week chasing insurance approvals. The agent can automatically pull data, check compliance, and submit forms instantly under federal rules. Don't worry, human doctors still have to sign off on final clinical decisions, but this sets a massive template for how enterprise software will be rebuilt for pure machine autonomy!",
+    "id": "cogtriz7",
+    "category": "AI",
+    "companies": [
+      "Cognizant"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 3",
+    "page": 2,
+    "title": "Supercharged PCIe Gen5 SSD Controllers Launch to Power Edge AI PCs!",
+    "summary": "Silicon Motion announced the SM2524XT, a DRAMless PCIe Gen5 SSD controller optimized specifically for AI inference and heavy KV-cache workflows. The hardware achieves up to 14 GB/s sequential read speeds to support local large language models.",
+    "engagement": "Medium",
+    "raw_text": "For all my hardware nerds out there, listen up, because local AI performance on your laptop is about to get a massive speed boost! Silicon Motion just announced a brand-new, purpose-built PCIe Gen5 SSD controller called the SM2524XT. Now, why does an SSD controller matter for AI? Here’s the wild part: when you're running complex large language models locally on an 'AI PC,' the system runs into massive data bottlenecks called KV-caches that completely choke up standard memory stacks. This new four-core controller delivers an insane sequential read speed of up to fourteen gigabytes per second and two point five million random IOPS! It is explicitly engineered to offload that intense memory pressure from your system RAM and drastically cut latency down to nothing. This is a clear sign that edge-inference hardware is maturing at lightning speed, and our storage drives are being fundamentally redesigned to handle heavy AI workloads natively!",
+    "id": "sm2524xt",
+    "category": "Hardware",
+    "companies": [
+      "Silicon Motion"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 2",
+    "page": 1,
+    "title": "Brands Bypass Creative Agencies! AI Cuts Ad Production From 24 Days to 2 Hours!",
+    "summary": "Major global brands like Kimberly-Clark and Target are aggressively moving ad production in-house using custom AI pipelines. Kimberly-Clark reported cutting asset generation cycles down from 24 days to just two hours.",
+    "engagement": "Medium",
+    "raw_text": "Traditional ad agencies are in absolute panic mode right now, guys! Major global brands are officially bypassing creative agencies and moving their ad production completely in-house using generative AI. Get a load of this: consumer giant Kimberly-Clark built an AI platform that literally crushed their content production timeline from twenty-four days to just two hours! They're using it for everything from localized copy to influencer selection. Meanwhile, companies like J.C. Penney's owner are testing AI product images to kill off expensive photoshoots, and Target India is pumping out hyper-fast campaign copy using algorithms. Analysts are warning that traditional agencies can no longer rely on raw scale to survive; they have to prove highly specialized value because AI has turned creative production into a near-instant commodity. The baseline unit economics of marketing are changing forever, and human marketers are being pushed into purely strategic roles!",
+    "id": "adbrand4",
+    "category": "Business",
+    "companies": [
+      "Kimberly-Clark",
+      "Target",
+      "Gartner"
+    ],
+    "people": [
+      "Jay Wilson"
+    ],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 2",
+    "page": 3,
+    "title": "Google Keyword Ads Declared ILLEGAL in Landmark Trademark Ruling!",
+    "summary": "The Delhi High Court ruled that Google violated trademark laws by allowing advertisers to bid on competitor brand names as search keywords. Google was fined and ordered to pay damages in a case that could disrupt global online advertising.",
+    "engagement": "Medium",
+    "raw_text": "This is a massive legal ruling that could completely flip the digital advertising world upside down. The Delhi High Court just ruled that Google actively violated trademark law by allowing companies to bid on a direct competitor's trademarked name as search keywords! The case blew up when a bathroom-fittings maker named Hindware caught a rival using its exact brand name to trigger their own Google ads. Google was ordered to pay around thirty-one thousand dollars in damages, which is pocket change for them, but here's the wild part: bidding on competitor keywords is a standard, everyday practice for millions of businesses worldwide. If this ruling creates a domino effect, tech platforms might be forced to completely rewrite how keyword auctions work globally. This could completely change how you run search campaigns and safeguard your brand online. Keep a close eye on this one, because the ad tech game just got a lot more complicated!",
+    "id": "gooindad",
+    "category": "Business",
+    "companies": [
+      "Google",
+      "Hindware"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "Source 1",
+    "page": 37,
+    "title": "Stanford Researchers Secure $8M to Build Flawless 'Deterministic' Legal AI!",
+    "summary": "Munich-based startup Bayshore emerged from stealth with an $8 million seed round led by Earlybird Venture Capital. The company encodes rigid compliance frameworks into deterministic code to prevent AI hallucinations in legal sectors.",
+    "engagement": "Medium",
+    "raw_text": "We all know that general-purpose AI models are probabilistic—meaning they basically guess the next most likely word, which leads to crazy hallucinations and total factual errors. That's an absolute, career-ending nightmare if you're trying to use it for strict legal compliance or statutory auditing. Well, a brilliant new Munich startup founded by Stanford researchers called Bayshore just raised a super-fast eight million dollar seed round from Earlybird Venture Capital to fix this exact problem! Instead of relying on guesswork, they are translating insanely complex legal rulesets into strict, machine-readable, deterministic code that AI agents are physically forced to obey without deviation. It applies an unyielding, zero-tolerance constraint layer directly over the AI, ensuring absolute reliability and zero drift. This is the second wave of the AI boom, guys: hyper-verticalization where we stop trying to make chatbots smarter and start building rigid guardrails to make them flawless for professional enterprise work!",
+    "id": "bayseed8",
+    "category": "AI",
+    "companies": [
+      "Bayshore",
+      "Earlybird Venture Capital"
+    ],
+    "people": [],
+    "created_at": "2026-05-29T21:24:34Z"
+  }
+]
