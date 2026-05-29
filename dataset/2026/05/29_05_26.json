@@ -3,17 +3,19 @@
     "date": "2026-05-29",
     "source_file": "Source 2",
     "page": 2,
-    "title": "Dell’s Stock SKYROCKETS 33%! Data Centers Officially Overtake PC Sales!",
+    "title": "Dell\u2019s Stock SKYROCKETS 33%! Data Centers Officially Overtake PC Sales!",
     "summary": "Dell Technologies reported an absolute record-breaking quarter powered by a surge in demand for AI-ready servers. Data center infrastructure revenue hit $16.1 billion, successfully overtaking legacy PC sales for the first time.",
     "engagement": "High",
-    "raw_text": "You won’t believe the absolute monster day Dell Technologies just had on Wall Street! Their stock literally skyrocketed by thirty-three percent in a single trading session, adding a mind-blowing sixty-eight billion dollars to their market value! Here's the wild part: the company known for selling office laptops has officially flipped into a data center titan. Thanks to an absolute flood of orders for GPU and specialized AI-ready servers from cloud providers, Dell's data center revenue surged to an insane sixteen point one billion dollars, completely overtaking their standard PC sales for the quarter. This is proof that the corporate AI infrastructure build-out is a absolute goldmine for legacy enterprise IT giants. Legacy computer companies are turning into hyper-profitable AI powerhouses overnight because everyone is scrambling to buy the hardware needed to host massive models. Honestly, this is a legendary transition!",
+    "raw_text": "You won\u2019t believe the absolute monster day Dell Technologies just had on Wall Street! Their stock literally skyrocketed by thirty-three percent in a single trading session, adding a mind-blowing sixty-eight billion dollars to their market value! Here's the wild part: the company known for selling office laptops has officially flipped into a data center titan. Thanks to an absolute flood of orders for GPU and specialized AI-ready servers from cloud providers, Dell's data center revenue surged to an insane sixteen point one billion dollars, completely overtaking their standard PC sales for the quarter. This is proof that the corporate AI infrastructure build-out is a absolute goldmine for legacy enterprise IT giants. Legacy computer companies are turning into hyper-profitable AI powerhouses overnight because everyone is scrambling to buy the hardware needed to host massive models. Honestly, this is a legendary transition!",
     "id": "del33ai8",
     "category": "Hardware",
     "companies": [
       "Dell Technologies"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/del33ai8.png",
+    "image_prompt": "Realistic high-quality news photo: modern data center hall with glowing server racks and cooling lights, subtle upward stock-chart light trail in background, sleek corporate tech atmosphere, dramatic yet believable lighting, shallow depth of field, no text, 16:9."
   },
   {
     "date": "2026-05-29",
@@ -22,7 +24,7 @@
     "title": "ByteDance Is Building Its Own Custom CPUs to Ditch Nvidia!",
     "summary": "TikTok's parent company ByteDance is actively developing custom CPUs based on Arm and RISC-V architectures to power its internal servers. The move is a strategic play to reduce dependency on hyper-expensive third-party silicon and scale its AI platforms like Coze.",
     "engagement": "High",
-    "raw_text": "Check this out—ByteDance, the mega-power behind TikTok, is making a massive, top-secret play to build its own custom CPUs from scratch! They are running down two separate development tracks right now: one built on SoftBank's Arm architecture, and another using the open-source RISC-V standard. Why are they doing this? Because chip prices are soaring to the moon and ongoing hardware shortages are threatening to choke out their massive global AI rollout plans for platforms like Coze. They are already locking down foundry capacity with external manufacturing partners like Samsung to push out at least one hundred thousand AI inference units in their very first year! Just like Amazon and Google did with Graviton and TPUs, ByteDance is vertically integrating into silicon to permanently slash their cloud infrastructure bills and tell Nvidia they don't want to rely on them forever. This is an absolute power move that is going to shake up the global chip supply chain!",
+    "raw_text": "Check this out\u2014ByteDance, the mega-power behind TikTok, is making a massive, top-secret play to build its own custom CPUs from scratch! They are running down two separate development tracks right now: one built on SoftBank's Arm architecture, and another using the open-source RISC-V standard. Why are they doing this? Because chip prices are soaring to the moon and ongoing hardware shortages are threatening to choke out their massive global AI rollout plans for platforms like Coze. They are already locking down foundry capacity with external manufacturing partners like Samsung to push out at least one hundred thousand AI inference units in their very first year! Just like Amazon and Google did with Graviton and TPUs, ByteDance is vertically integrating into silicon to permanently slash their cloud infrastructure bills and tell Nvidia they don't want to rely on them forever. This is an absolute power move that is going to shake up the global chip supply chain!",
     "id": "bytecpu4",
     "category": "Hardware",
     "companies": [
@@ -32,7 +34,9 @@
       "SoftBank"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/bytecpu4.png",
+    "image_prompt": "Realistic newsroom photo style: a sleek data center at night, glowing server racks, faint server silhouettes labeled by cables (no text), engineers in neutral suits reviewing blueprints on tablets, centerpiece showing a modern CPU chip close-up on an anti-static mat, cool tech lighting, cinematic depth of field."
   },
   {
     "date": "2026-05-29",
@@ -41,7 +45,7 @@
     "title": "Intel Drops $3.3 BILLION to Build Massive Next-Gen Chip Factory in India!",
     "summary": "Intel and its partner 3D Global Solutions have committed $3.3 billion to establish an advanced semiconductor substrate packaging plant in Odisha, India. Backed by government incentives, the site will support global chip makers and create 1,800 engineering roles.",
     "engagement": "High",
-    "raw_text": "So check this out—the global semiconductor map is officially being redrawn, and India is securing a massive piece of the pie! Intel just teamed up with U.S. partner 3D Global Solutions to drop a whopping three point three billion dollars to build a state-of-the-art semiconductor substrate manufacturing plant in Odisha, India! Now, substrates might sound boring, but they are absolutely critical advanced packaging components needed to build modern high-performance AI chips. Backed by massive Indian government incentives, this factory is going to employ around eighteen hundred highly skilled engineers and technicians. Here's the big picture: instead of relying completely on East Asian foundries, global chip makers are actively diversifying their supply chains, and this puts India right on the front lines of high-tech manufacturing. It’s a massive win for India's domestic tech ambitions and a crucial shield against future global chip supply shocks!",
+    "raw_text": "So check this out\u2014the global semiconductor map is officially being redrawn, and India is securing a massive piece of the pie! Intel just teamed up with U.S. partner 3D Global Solutions to drop a whopping three point three billion dollars to build a state-of-the-art semiconductor substrate manufacturing plant in Odisha, India! Now, substrates might sound boring, but they are absolutely critical advanced packaging components needed to build modern high-performance AI chips. Backed by massive Indian government incentives, this factory is going to employ around eighteen hundred highly skilled engineers and technicians. Here's the big picture: instead of relying completely on East Asian foundries, global chip makers are actively diversifying their supply chains, and this puts India right on the front lines of high-tech manufacturing. It\u2019s a massive win for India's domestic tech ambitions and a crucial shield against future global chip supply shocks!",
     "id": "int33od8",
     "category": "Hardware",
     "companies": [
@@ -49,7 +53,9 @@
       "3D Global Solutions"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/int33od8.png",
+    "image_prompt": "Photorealistic news image: sleek semiconductor substrate packaging plant exterior in Odisha, India at dusk, with Intel-style clean architecture, subtle circuit motifs on building facade, construction cranes, Indian flag in background, engineers in safety helmets observing holographic chip schematic (no text), dramatic lighting, ultra-realistic, high detail."
   },
   {
     "date": "2026-05-29",
@@ -65,7 +71,9 @@
     "people": [
       "J.B. Pritzker"
     ],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/illsb315.png",
+    "image_prompt": "Realistic newsroom scene in Illinois at dusk: a stern State Capitol silhouette, silhouetted legislators, a subtle holographic AI network overlay over servers, flashing legal-document glow, dramatic lighting, high-detail photojournalism, muted blue-gray tones, shallow depth of field, no text."
   },
   {
     "date": "2026-05-29",
@@ -74,7 +82,7 @@
     "title": "Ubuntu Creator Drops 'Workshop' to Fight AI Agent Dependency Hell!",
     "summary": "Canonical, the company behind Ubuntu, unveiled 'Workshop,' an open-source development tool designed to standardize AI pipelines using simple YAML files. The platform features unprivileged container sandboxes to isolate and safely execute autonomous AI agent code.",
     "engagement": "Medium",
-    "raw_text": "If you're a developer or a builder, look at this, because the creators of Ubuntu just solved a massive headache for AI engineering. Canonical just unveiled a brand-new tool called 'Workshop,' and it is explicitly built to kill 'dependency hell' in AI pipelines. Instead of tearing your hair out trying to reproduce machine learning environments, Workshop lets you define your entire project—code repos, datasets, and compute resources—in a simple YAML file. It automatically reproduces that exact same stack locally, in the cloud, or wherever you deploy. Here's the wild part: it includes a specialized sandbox with totally unprivileged containers. Why do we care? Because when you let autonomous AI agents run code, you do not want them accidentally deleting your hard drive, messing with your networks, or hijacking your USB ports. Workshop locks them in an isolated box so you can let your agents run wild without risking your system security. This is exactly the kind of unglamorous infrastructure tool we need as AI agents multiply!",
+    "raw_text": "If you're a developer or a builder, look at this, because the creators of Ubuntu just solved a massive headache for AI engineering. Canonical just unveiled a brand-new tool called 'Workshop,' and it is explicitly built to kill 'dependency hell' in AI pipelines. Instead of tearing your hair out trying to reproduce machine learning environments, Workshop lets you define your entire project\u2014code repos, datasets, and compute resources\u2014in a simple YAML file. It automatically reproduces that exact same stack locally, in the cloud, or wherever you deploy. Here's the wild part: it includes a specialized sandbox with totally unprivileged containers. Why do we care? Because when you let autonomous AI agents run code, you do not want them accidentally deleting your hard drive, messing with your networks, or hijacking your USB ports. Workshop locks them in an isolated box so you can let your agents run wild without risking your system security. This is exactly the kind of unglamorous infrastructure tool we need as AI agents multiply!",
     "id": "canwork6",
     "category": "AI",
     "companies": [
@@ -83,7 +91,9 @@
     "people": [
       "Jon Seager"
     ],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/canwork6.png",
+    "image_prompt": "Realistic high-quality newsroom-style image: Canonical/Ubuntu tech atmosphere, developer workstation with open laptop and abstract YAML-like code glow (no text), glowing container sandbox icons, unprivileged secure enclaves, AI agent silhouettes; cool blue lighting, shallow depth of field, crisp detail, cinematic mood."
   },
   {
     "date": "2026-05-29",
@@ -92,14 +102,16 @@
     "title": "Cognizant Unleashes 'Headless APIs' for Autonomous Healthcare Agents!",
     "summary": "Cognizant opened its TriZetto Unify healthcare administration platform to autonomous AI agents via a new headless API model. The architecture automates Electronic Prior Authorization workflows while keeping human doctors in the loop for final clinical decisions.",
     "engagement": "Medium",
-    "raw_text": "So check this out—Cognizant just made a massive, highly technical upgrade that shows exactly where enterprise software is heading. They just opened up their massive TriZetto Unify healthcare platform—which handles over two hundred million members—to autonomous AI agents using a brand new 'headless API' model! Look, legacy software is designed with visual dashboards meant for human eyes and mouse clicks. But AI agents don’t need a pretty interface; they need lightning-fast machine-to-machine pipelines. Cognizant is letting AI act as a native, first-class user account to tackle prior authorization—the absolute worst bureaucratic nightmare where doctors waste thirteen hours a week chasing insurance approvals. The agent can automatically pull data, check compliance, and submit forms instantly under federal rules. Don't worry, human doctors still have to sign off on final clinical decisions, but this sets a massive template for how enterprise software will be rebuilt for pure machine autonomy!",
+    "raw_text": "So check this out\u2014Cognizant just made a massive, highly technical upgrade that shows exactly where enterprise software is heading. They just opened up their massive TriZetto Unify healthcare platform\u2014which handles over two hundred million members\u2014to autonomous AI agents using a brand new 'headless API' model! Look, legacy software is designed with visual dashboards meant for human eyes and mouse clicks. But AI agents don\u2019t need a pretty interface; they need lightning-fast machine-to-machine pipelines. Cognizant is letting AI act as a native, first-class user account to tackle prior authorization\u2014the absolute worst bureaucratic nightmare where doctors waste thirteen hours a week chasing insurance approvals. The agent can automatically pull data, check compliance, and submit forms instantly under federal rules. Don't worry, human doctors still have to sign off on final clinical decisions, but this sets a massive template for how enterprise software will be rebuilt for pure machine autonomy!",
     "id": "cogtriz7",
     "category": "AI",
     "companies": [
       "Cognizant"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/cogtriz7.png",
+    "image_prompt": "Realistic newsroom-style tech scene: futuristic healthcare data streams flowing from a server rack into a hospital ward, glowing API nodes connecting \u201cheadless\u201d interfaces, doctors in scrubs reviewing holographic prior-authorization timelines on tablets, calm trustworthy mood, ultra-detailed, cinematic lighting, 16:9."
   },
   {
     "date": "2026-05-29",
@@ -108,14 +120,16 @@
     "title": "Supercharged PCIe Gen5 SSD Controllers Launch to Power Edge AI PCs!",
     "summary": "Silicon Motion announced the SM2524XT, a DRAMless PCIe Gen5 SSD controller optimized specifically for AI inference and heavy KV-cache workflows. The hardware achieves up to 14 GB/s sequential read speeds to support local large language models.",
     "engagement": "Medium",
-    "raw_text": "For all my hardware nerds out there, listen up, because local AI performance on your laptop is about to get a massive speed boost! Silicon Motion just announced a brand-new, purpose-built PCIe Gen5 SSD controller called the SM2524XT. Now, why does an SSD controller matter for AI? Here’s the wild part: when you're running complex large language models locally on an 'AI PC,' the system runs into massive data bottlenecks called KV-caches that completely choke up standard memory stacks. This new four-core controller delivers an insane sequential read speed of up to fourteen gigabytes per second and two point five million random IOPS! It is explicitly engineered to offload that intense memory pressure from your system RAM and drastically cut latency down to nothing. This is a clear sign that edge-inference hardware is maturing at lightning speed, and our storage drives are being fundamentally redesigned to handle heavy AI workloads natively!",
+    "raw_text": "For all my hardware nerds out there, listen up, because local AI performance on your laptop is about to get a massive speed boost! Silicon Motion just announced a brand-new, purpose-built PCIe Gen5 SSD controller called the SM2524XT. Now, why does an SSD controller matter for AI? Here\u2019s the wild part: when you're running complex large language models locally on an 'AI PC,' the system runs into massive data bottlenecks called KV-caches that completely choke up standard memory stacks. This new four-core controller delivers an insane sequential read speed of up to fourteen gigabytes per second and two point five million random IOPS! It is explicitly engineered to offload that intense memory pressure from your system RAM and drastically cut latency down to nothing. This is a clear sign that edge-inference hardware is maturing at lightning speed, and our storage drives are being fundamentally redesigned to handle heavy AI workloads natively!",
     "id": "sm2524xt",
     "category": "Hardware",
     "companies": [
       "Silicon Motion"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/sm2524xt.png",
+    "image_prompt": "Futuristic newsroom tech photo: close-up of a sleek PCIe Gen5 SSD controller PCB with neon-lit traces, glowing PCIe lanes, and subtle AI waveform/KV-cache data streams flowing into a compact SSD module; ultra-realistic, high contrast, cool blue lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-05-29",
@@ -135,7 +149,9 @@
     "people": [
       "Jay Wilson"
     ],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/adbrand4.png",
+    "image_prompt": "Realistic newsroom photo: a sleek AI server room beside a modern marketing studio, with engineers and subtle robotic arms, glowing data streams, split-screen feel showing \u201c24 days to 2 hours\u201d timeline implied by motion blur, cool corporate lighting, high detail, no text, news style."
   },
   {
     "date": "2026-05-29",
@@ -152,7 +168,9 @@
       "Hindware"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/gooindad.png",
+    "image_prompt": "Photorealistic news scene: Delhi High Court facade at dusk, dramatic clouds, journalists and legal papers blurred in foreground, a subtle split-image of search ads symbols and a gavel striking\u2014moody, high-contrast lighting, shallow depth of field, ultra-detailed, realistic, no text."
   },
   {
     "date": "2026-05-29",
@@ -161,7 +179,7 @@
     "title": "Stanford Researchers Secure $8M to Build Flawless 'Deterministic' Legal AI!",
     "summary": "Munich-based startup Bayshore emerged from stealth with an $8 million seed round led by Earlybird Venture Capital. The company encodes rigid compliance frameworks into deterministic code to prevent AI hallucinations in legal sectors.",
     "engagement": "Medium",
-    "raw_text": "We all know that general-purpose AI models are probabilistic—meaning they basically guess the next most likely word, which leads to crazy hallucinations and total factual errors. That's an absolute, career-ending nightmare if you're trying to use it for strict legal compliance or statutory auditing. Well, a brilliant new Munich startup founded by Stanford researchers called Bayshore just raised a super-fast eight million dollar seed round from Earlybird Venture Capital to fix this exact problem! Instead of relying on guesswork, they are translating insanely complex legal rulesets into strict, machine-readable, deterministic code that AI agents are physically forced to obey without deviation. It applies an unyielding, zero-tolerance constraint layer directly over the AI, ensuring absolute reliability and zero drift. This is the second wave of the AI boom, guys: hyper-verticalization where we stop trying to make chatbots smarter and start building rigid guardrails to make them flawless for professional enterprise work!",
+    "raw_text": "We all know that general-purpose AI models are probabilistic\u2014meaning they basically guess the next most likely word, which leads to crazy hallucinations and total factual errors. That's an absolute, career-ending nightmare if you're trying to use it for strict legal compliance or statutory auditing. Well, a brilliant new Munich startup founded by Stanford researchers called Bayshore just raised a super-fast eight million dollar seed round from Earlybird Venture Capital to fix this exact problem! Instead of relying on guesswork, they are translating insanely complex legal rulesets into strict, machine-readable, deterministic code that AI agents are physically forced to obey without deviation. It applies an unyielding, zero-tolerance constraint layer directly over the AI, ensuring absolute reliability and zero drift. This is the second wave of the AI boom, guys: hyper-verticalization where we stop trying to make chatbots smarter and start building rigid guardrails to make them flawless for professional enterprise work!",
     "id": "bayseed8",
     "category": "AI",
     "companies": [
@@ -169,6 +187,8 @@
       "Earlybird Venture Capital"
     ],
     "people": [],
-    "created_at": "2026-05-29T21:24:34Z"
+    "created_at": "2026-05-29T21:24:34Z",
+    "image_url": "images/29_05_26/bayseed8.png",
+    "image_prompt": "Photorealistic newsroom scene: Stanford-style researchers in lab coats overlaying transparent legal code holograms on a laptop, Munich skyline through window, cautious tech mood, cinematic lighting, shallow depth of field, high detail, no text, realistic news photography."
   }
 ]
