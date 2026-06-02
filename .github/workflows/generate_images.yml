@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,6 +28,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Pull latest changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase origin ${{ github.ref_name }}
+
       - name: Run image generation script
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
@@ -34,14 +42,34 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add dataset/
           # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto-generate images for new news items"
-            git pull --rebase origin ${{ github.ref_name }}
-            git push origin HEAD:${{ github.ref_name }}
+            
+            success=false
+            for i in {1..5}; do
+              echo "Attempt $i to pull and push changes..."
+              if git pull --rebase -Xours origin ${{ github.ref_name }}; then
+                if git push origin HEAD:${{ github.ref_name }}; then
+                  echo "Successfully pushed changes!"
+                  success=true
+                  break
+                else
+                  echo "Push failed, another change might have been pushed in the meantime."
+                fi
+              else
+                echo "Pull/rebase failed, aborting rebase..."
+                git rebase --abort
+              fi
+              echo "Retrying in 5 seconds..."
+              sleep 5
+            done
+            
+            if [ "$success" = false ]; then
+              echo "Failed to push changes after 5 attempts."
+              exit 1
+            fi
           fi
