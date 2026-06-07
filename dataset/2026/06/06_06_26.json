@@ -6,7 +6,7 @@
     "title": "Apple's $599 MacBook Neo Absolutely DESTROYS Windows 11 Laptops!",
     "summary": "Apple released the $599 MacBook Neo utilizing a recycled A18 Pro chip, achieving massive market success and forcing shipment forecasts up to 10 million units. In response, Dell launched a $699 XPS 13 configuration, but its 8GB of RAM severely bottlenecks Windows 11 performance compared to macOS's unified memory handling.",
     "engagement": "High",
-    "raw_text": "So check this out, the budget laptop wars just went absolutely nuclear, and honestly, this is huge. Apple just completely blindsided the market by dropping the new MacBook Neo for only $599. They literally recycled the iPhone A18 Pro chip, threw it in an aluminum chassis, and demand is so off the charts they had to double their shipping forecasts to 10 million units! To fight back, Dell just dropped a $699 XPS 13 with the new Intel Wildcat Lake chip. On paper, the Dell looks like a beast with a 120Hz OLED screen and dual-fan cooling, but here’s the wild part: both machines ship with 8 gigabytes of RAM, and Windows 11 is absolutely choking on it. Reviewers are showing the MacBook effortlessly crushing 4K video editing while juggling dozens of tabs and apps because of macOS's unified memory. Meanwhile, the Windows machine turns into a stuttering mess under the same exact workload. Microsoft better fix their memory management fast, because right now, Apple is handing them a devastating loss in the entry-level market!",
+    "raw_text": "So check this out, the budget laptop wars just went absolutely nuclear, and honestly, this is huge. Apple just completely blindsided the market by dropping the new MacBook Neo for only $599. They literally recycled the iPhone A18 Pro chip, threw it in an aluminum chassis, and demand is so off the charts they had to double their shipping forecasts to 10 million units! To fight back, Dell just dropped a $699 XPS 13 with the new Intel Wildcat Lake chip. On paper, the Dell looks like a beast with a 120Hz OLED screen and dual-fan cooling, but here\u2019s the wild part: both machines ship with 8 gigabytes of RAM, and Windows 11 is absolutely choking on it. Reviewers are showing the MacBook effortlessly crushing 4K video editing while juggling dozens of tabs and apps because of macOS's unified memory. Meanwhile, the Windows machine turns into a stuttering mess under the same exact workload. Microsoft better fix their memory management fast, because right now, Apple is handing them a devastating loss in the entry-level market!",
     "id": "A9B2X4P7L3",
     "category": "Hardware",
     "companies": [
@@ -16,7 +16,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/A9B2X4P7L3.png",
+    "image_prompt": "Realistic photoreal news photo: split-scene tech rivalry on sleek desk. Left: minimalist Apple MacBook Neo with vivid glow, recycled-chip aesthetic. Right: Dell XPS 13 with subtle overheating/fan blur. Dynamic lighting, shallow depth of field, modern newsroom mood, ultra-high detail, no text."
   },
   {
     "date": "2026-06-06",
@@ -25,7 +27,7 @@
     "title": "NVIDIA's New RTX Spark Chip is an Existential Threat to Intel!",
     "summary": "At Computex 2026, NVIDIA unveiled the RTX Spark, an Arm-based CPU fused with a Blackwell GPU capable of delivering 1 petaflop of local AI performance. This hardware allows consumer laptops and specialized development boxes to run 120-billion parameter models locally, bypassing the cloud latency and token costs of traditional inference.",
     "engagement": "High",
-    "raw_text": "Here’s the wild part about Computex this year—Nvidia isn't just upgrading chips; they are trying to rewrite how we use computers completely. So check this out, they just announced the RTX Spark, an insane system-on-chip built for Windows AI laptops. We are talking about a 20-core Arm CPU fused directly with a Blackwell GPU packing over six thousand CUDA cores. And honestly, this is huge because it delivers one petaflop of local AI performance with up to 128 gigs of unified memory. What does that actually mean for you? It means you can run massive 120-billion parameter AI models directly on your desk without ever connecting to the cloud or paying stupid token fees. Microsoft is already jumping on this with their new Surface RTX Spark Dev Box, and Asus just revealed a whole lineup of Creator laptops running this silicon. This completely bypassed Intel and AMD’s traditional x86 stuff, causing their stocks to take a serious hit. Local AI is officially the future, and Nvidia is leading the charge.",
+    "raw_text": "Here\u2019s the wild part about Computex this year\u2014Nvidia isn't just upgrading chips; they are trying to rewrite how we use computers completely. So check this out, they just announced the RTX Spark, an insane system-on-chip built for Windows AI laptops. We are talking about a 20-core Arm CPU fused directly with a Blackwell GPU packing over six thousand CUDA cores. And honestly, this is huge because it delivers one petaflop of local AI performance with up to 128 gigs of unified memory. What does that actually mean for you? It means you can run massive 120-billion parameter AI models directly on your desk without ever connecting to the cloud or paying stupid token fees. Microsoft is already jumping on this with their new Surface RTX Spark Dev Box, and Asus just revealed a whole lineup of Creator laptops running this silicon. This completely bypassed Intel and AMD\u2019s traditional x86 stuff, causing their stocks to take a serious hit. Local AI is officially the future, and Nvidia is leading the charge.",
     "id": "X8N7V2Q1M5",
     "category": "Hardware",
     "companies": [
@@ -37,7 +39,9 @@
       "Qualcomm"
     ],
     "people": [],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/X8N7V2Q1M5.png",
+    "image_prompt": "Photorealistic news image: sleek futuristic laptop on a desk, its interior glowing with \u201cblackwell\u201d GPU-like light rings and arm-chip circuitry, subtle semiconductor heatmap overlays, ambient Computex-style lighting, depth of field, dramatic tech mood, high detail, no text."
   },
   {
     "date": "2026-06-02",
@@ -46,7 +50,7 @@
     "title": "The NSA is using AI to Hack Foreign Networks (Anthropic Claude Mythos)",
     "summary": "Anthropic has withheld the general release of its vulnerability-hunting AI model, Claude Mythos Preview, due to its advanced capability to exploit zero-day flaws autonomously. The United States National Security Agency is currently utilizing the model, with on-site assistance from Anthropic engineers, to plan offensive cyber operations against foreign adversaries.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge and a little bit terrifying. You guys know Anthropic, right? The team behind the Claude AI? Well, they just created a model so insanely good at finding zero-day vulnerabilities in software that they straight-up refused to release it to the public. They call it the Claude Mythos Preview. But here’s the wild part: instead of just locking it in a vault, they’re giving it to 150 critical infrastructure operators like power grids and hospitals so they can patch their systems before hackers get in. Even crazier? Reports say the US National Security Agency is actively using Claude Mythos to plan offensive cyber operations against foreign adversaries. Anthropic even sent forward deployed engineers to the NSA to help customize the model as a cyberweapon! One of Anthropic's own co-founders, Jack Clark, just publicly warned that humanity is risking losing control of AI entirely because these models are writing their own code now. The AI arms race isn’t just about chatbots anymore; it's literally digital warfare.",
+    "raw_text": "Honestly, this is huge and a little bit terrifying. You guys know Anthropic, right? The team behind the Claude AI? Well, they just created a model so insanely good at finding zero-day vulnerabilities in software that they straight-up refused to release it to the public. They call it the Claude Mythos Preview. But here\u2019s the wild part: instead of just locking it in a vault, they\u2019re giving it to 150 critical infrastructure operators like power grids and hospitals so they can patch their systems before hackers get in. Even crazier? Reports say the US National Security Agency is actively using Claude Mythos to plan offensive cyber operations against foreign adversaries. Anthropic even sent forward deployed engineers to the NSA to help customize the model as a cyberweapon! One of Anthropic's own co-founders, Jack Clark, just publicly warned that humanity is risking losing control of AI entirely because these models are writing their own code now. The AI arms race isn\u2019t just about chatbots anymore; it's literally digital warfare.",
     "id": "C4B9R3M1T9",
     "category": "AI",
     "companies": [
@@ -56,7 +60,9 @@
       "Jack Clark",
       "Daniela Amodei"
     ],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/C4B9R3M1T9.png",
+    "image_prompt": "Hyper-realistic news photo, dimly lit NSA operations room, blurred holographic network maps and code-like light trails, silhouettes of analysts, a distant server rack glowing, subtle armored cyber tools on desks, tense noir mood, shallow depth of field, high detail, natural colors, no text."
   },
   {
     "date": "2026-06-06",
@@ -65,7 +71,7 @@
     "title": "Jeff Bezos Drops $100M on 'Brain-Inspired' AI Startup Flourish",
     "summary": "Flourish AI secured $500 million in initial funding at a $2.5 billion valuation to develop 'Cortex AI', a neuromorphic computing system mimicking biological connectomics. Backed by Jeff Bezos, the company aims to operate advanced intelligence within a 20 to 50 watt envelope to bypass the massive energy consumption of standard cloud GPU data centers.",
     "engagement": "High",
-    "raw_text": "So check this out, the entire AI industry is running into a massive brick wall. Hyperscalers are projected to spend over 650 billion dollars this year alone just on data centers and energy, which is completely unsustainable. But here's the wild part: a startup called Flourish AI just raised 500 million dollars at a 2.5 billion dollar valuation to fix this, and Jeff Bezos himself is pouring a hundred million into it. Honestly, this is huge because they aren't using traditional silicon chips. Flourish is building 'Cortex AI,' a brain-inspired neuromorphic system based on the biological mapping of actual neurons and synapses. The goal? To run the world's most advanced AI models on just 20 to 50 watts of power—literally what your laptop uses. If they can pull this off and get an AI running with the energy efficiency of a human brain, it will completely bankrupt the massive power-hungry GPU farms we use today. They are aiming to put continuously learning AI on consumer devices within five years. The bio-computing revolution is here.",
+    "raw_text": "So check this out, the entire AI industry is running into a massive brick wall. Hyperscalers are projected to spend over 650 billion dollars this year alone just on data centers and energy, which is completely unsustainable. But here's the wild part: a startup called Flourish AI just raised 500 million dollars at a 2.5 billion dollar valuation to fix this, and Jeff Bezos himself is pouring a hundred million into it. Honestly, this is huge because they aren't using traditional silicon chips. Flourish is building 'Cortex AI,' a brain-inspired neuromorphic system based on the biological mapping of actual neurons and synapses. The goal? To run the world's most advanced AI models on just 20 to 50 watts of power\u2014literally what your laptop uses. If they can pull this off and get an AI running with the energy efficiency of a human brain, it will completely bankrupt the massive power-hungry GPU farms we use today. They are aiming to put continuously learning AI on consumer devices within five years. The bio-computing revolution is here.",
     "id": "F7J2K9N4L1",
     "category": "Science",
     "companies": [
@@ -81,7 +87,9 @@
       "Thomas Reardon",
       "Rob Williams"
     ],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/F7J2K9N4L1.png",
+    "image_prompt": "Realistic news photo style: Jeff Bezos in a modern tech lab beside glowing neuromorphic chip modules, holographic brain/connectome visualization in the background, subtle blue lighting, sleek analytics screens, futuristic but credible, shallow depth of field, high detail, dramatic yet factual mood, no text."
   },
   {
     "date": "2026-06-06",
@@ -90,7 +98,7 @@
     "title": "Google & SpaceX are Launching Secret Data Centers into Space!",
     "summary": "Recent financial filings disclose that Google is paying SpaceX approximately $920 million per month to lease terrestrial servers for training its Gemini AI models. This temporary arrangement precedes a broader strategic initiative to deploy orbital data centers into Low Earth Orbit by 2027 to avoid terrestrial power grid and cooling constraints.",
     "engagement": "High",
-    "raw_text": "Here’s the wild part about the AI boom—we are literally running out of room on Earth to power it. So check this out, new financial filings just revealed a massive, secretive partnership between Google and SpaceX. Right now, Google is paying SpaceX a mind-bending 920 million dollars every single month just to lease terrestrial servers that Elon’s xAI used to use, all to support their Gemini AI models. But honestly, this is huge, because it’s just step one. Google is officially planning to launch their actual data centers into Low Earth Orbit by 2027. Why? Because space is freezing cold and has unlimited vacuum cooling, which solves the massive overheating issues down here. Plus, they bypass terrestrial power grid constraints entirely. SpaceX is even planning to launch its own specialized server satellites by 2028. We are moving from the cloud to the actual stars. The physical backbone of the internet and AI is leaving the atmosphere, and the tech giants are literally launching their infrastructure into orbit.",
+    "raw_text": "Here\u2019s the wild part about the AI boom\u2014we are literally running out of room on Earth to power it. So check this out, new financial filings just revealed a massive, secretive partnership between Google and SpaceX. Right now, Google is paying SpaceX a mind-bending 920 million dollars every single month just to lease terrestrial servers that Elon\u2019s xAI used to use, all to support their Gemini AI models. But honestly, this is huge, because it\u2019s just step one. Google is officially planning to launch their actual data centers into Low Earth Orbit by 2027. Why? Because space is freezing cold and has unlimited vacuum cooling, which solves the massive overheating issues down here. Plus, they bypass terrestrial power grid constraints entirely. SpaceX is even planning to launch its own specialized server satellites by 2028. We are moving from the cloud to the actual stars. The physical backbone of the internet and AI is leaving the atmosphere, and the tech giants are literally launching their infrastructure into orbit.",
     "id": "S3P9X1V6B8",
     "category": "Hardware",
     "companies": [
@@ -99,7 +107,9 @@
       "xAI"
     ],
     "people": [],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/S3P9X1V6B8.png",
+    "image_prompt": "Cinematic newsroom news photo: SpaceX Falcon rocket at dusk launching from Florida, faint smoke trails; above, a glowing low-earth-orbit satellite cluster resembling modular data centers with solar panels; subtle futuristic tech HUD lighting, realistic lighting, high detail, sharp focus, dramatic but credible."
   },
   {
     "date": "2026-06-06",
@@ -108,7 +118,7 @@
     "title": "The AI Jobs Apocalypse: White House Pushes 'Public Stakes' in Tech",
     "summary": "The Trump administration is discussing mechanisms with AI leaders like OpenAI and Anthropic to grant the American public a financial stake in AI industry profitability. This proposal aims to alleviate populist resistance to AI-driven job displacements while promoting rapid data center expansion through the AI Action Plan.",
     "engagement": "High",
-    "raw_text": "So check this out, the political landscape around AI just got completely turned upside down. President Donald Trump has started holding massive closed-door meetings with executives from OpenAI, Anthropic, and SpaceXAI, and here’s the wild part: they are discussing giving the American public a literal financial stake in the AI industry's success! Honestly, this is huge. The idea is to basically pay out a 'dividend' to everyday citizens to offset the jobs that are going to be wiped out by AI automation, which is something even Bernie Sanders and Sam Altman have talked about. At the same time, they are trying to push an 'AI Action Plan' to roll back regulations and build insane amounts of new data centers. But it's causing chaos—the architect behind this light-touch regulation plan, Sriram Krishnan, just announced he’s leaving the White House on June 6th due to friction between Silicon Valley and factions worried about job losses. AI is officially the biggest political battleground of the decade.",
+    "raw_text": "So check this out, the political landscape around AI just got completely turned upside down. President Donald Trump has started holding massive closed-door meetings with executives from OpenAI, Anthropic, and SpaceXAI, and here\u2019s the wild part: they are discussing giving the American public a literal financial stake in the AI industry's success! Honestly, this is huge. The idea is to basically pay out a 'dividend' to everyday citizens to offset the jobs that are going to be wiped out by AI automation, which is something even Bernie Sanders and Sam Altman have talked about. At the same time, they are trying to push an 'AI Action Plan' to roll back regulations and build insane amounts of new data centers. But it's causing chaos\u2014the architect behind this light-touch regulation plan, Sriram Krishnan, just announced he\u2019s leaving the White House on June 6th due to friction between Silicon Valley and factions worried about job losses. AI is officially the biggest political battleground of the decade.",
     "id": "P6M4T2R8W9",
     "category": "Business",
     "companies": [
@@ -122,7 +132,9 @@
       "Sam Altman",
       "Sriram Krishnan"
     ],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/P6M4T2R8W9.png",
+    "image_prompt": "Cinematic realistic newsroom photo: U.S. White House facade at dusk, semi-transparent holographic AI network over skyline, data-center silhouettes with glowing servers, diverse workers in foreground facing uncertain future, subtle financial \u201cpublic stake\u201d motifs via floating tokens, moody dramatic lighting, high detail."
   },
   {
     "date": "2026-06-06",
@@ -131,14 +143,16 @@
     "title": "Google Faces Record-Breaking Fine Over Search Manipulation!",
     "summary": "Google is facing the largest antitrust penalty in history from the European Union for violating the Digital Markets Act (DMA) by prioritizing proprietary services like Google Flights over rivals. Google has rejected the regulatory mandates, claiming the required algorithmic changes would severely downgrade the core Search experience.",
     "engagement": "Medium",
-    "raw_text": "So check this out, Google is currently facing what might be the absolute worst regulatory nightmare in its entire history. The European Union is getting ready to slam them with the biggest antitrust penalty ever recorded for violating their new Digital Markets Act. Here’s the wild part: the EU says Google has been illegally rigging its search results to prioritize its own products, like Google Flights and Google Shopping, instead of showing rival services. Honestly, this is huge for anyone who uses the internet. The EU gave Google extra time to fix it, but they basically failed the test. Google is furious, publicly fighting back by saying these forced changes are the 'biggest downgrade' in the history of Google Search and that it's ruining the user experience just to make a few complaining corporations happy. But the reality is, regulators are now literally forcing big tech companies to change their proprietary algorithms. If the EU wins this fight, the way we search for literally everything online is going to permanently change.",
+    "raw_text": "So check this out, Google is currently facing what might be the absolute worst regulatory nightmare in its entire history. The European Union is getting ready to slam them with the biggest antitrust penalty ever recorded for violating their new Digital Markets Act. Here\u2019s the wild part: the EU says Google has been illegally rigging its search results to prioritize its own products, like Google Flights and Google Shopping, instead of showing rival services. Honestly, this is huge for anyone who uses the internet. The EU gave Google extra time to fix it, but they basically failed the test. Google is furious, publicly fighting back by saying these forced changes are the 'biggest downgrade' in the history of Google Search and that it's ruining the user experience just to make a few complaining corporations happy. But the reality is, regulators are now literally forcing big tech companies to change their proprietary algorithms. If the EU wins this fight, the way we search for literally everything online is going to permanently change.",
     "id": "G2E8U7Y3N1",
     "category": "Business",
     "companies": [
       "Google"
     ],
     "people": [],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/G2E8U7Y3N1.png",
+    "image_prompt": "Breaking-news photo style: EU courthouse facade with dramatic storm clouds, a large Google-like search interface hologram splitting/tearing, blurred EU flag colors in background, tense atmosphere; subtle scales of justice motif; newsroom lighting, high detail, realistic, no text, 16:9."
   },
   {
     "date": "2026-06-06",
@@ -147,14 +161,16 @@
     "title": "China Achieves Massive Quantum Computing Breakthrough (QRAM)",
     "summary": "Researchers at China's Zhejiang University have successfully engineered the world's first working prototype of a bucket-brigade Quantum Random Access Memory (QRAM) architecture. Published in Nature Physics, the superconducting processor processed 4-bit and 8-bit classical data formats simultaneously in a superposition state, addressing a major bottleneck in quantum data loading.",
     "engagement": "Medium",
-    "raw_text": "Here’s the wild part about quantum computers—they are insanely fast, but getting standard data into them has always been a massive, impossible bottleneck. Until now. So check this out, researchers at China's Zhejiang University just published a literal game-changing breakthrough in Nature Physics. They successfully built and operated the world’s first prototype of a bucket-brigade Quantum Random Access Memory architecture, or QRAM. Honestly, this is huge. They mapped a binary tree of quantum routers onto a superconducting processor and actually processed 4-bit and 8-bit classical data formats directly into quantum states simultaneously. While there's still some noise when they hit 8 bits, this proves that we can physically bridge the gap between our everyday big data and quantum hardware. We are talking about unlocking things like hyper-advanced pharmaceutical modeling and next-level cryptography that will completely alter global security. The quantum revolution isn't decades away anymore; they are solving the core physics problems right now, and China is making massive strides.",
+    "raw_text": "Here\u2019s the wild part about quantum computers\u2014they are insanely fast, but getting standard data into them has always been a massive, impossible bottleneck. Until now. So check this out, researchers at China's Zhejiang University just published a literal game-changing breakthrough in Nature Physics. They successfully built and operated the world\u2019s first prototype of a bucket-brigade Quantum Random Access Memory architecture, or QRAM. Honestly, this is huge. They mapped a binary tree of quantum routers onto a superconducting processor and actually processed 4-bit and 8-bit classical data formats directly into quantum states simultaneously. While there's still some noise when they hit 8 bits, this proves that we can physically bridge the gap between our everyday big data and quantum hardware. We are talking about unlocking things like hyper-advanced pharmaceutical modeling and next-level cryptography that will completely alter global security. The quantum revolution isn't decades away anymore; they are solving the core physics problems right now, and China is making massive strides.",
     "id": "Q5W3Z8L2M9",
     "category": "Science",
     "companies": [
       "Zhejiang University"
     ],
     "people": [],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/Q5W3Z8L2M9.png",
+    "image_prompt": "Futuristic newsroom-style tech visual: a superconducting quantum processor chip with glowing circuitry, faint cryogenic coils and liquid-nitrogen vapor, holographic bucket-brigade QRAM pathways branching into twin 4-bit/8-bit streams in superposition, dramatic blue lighting, high realism, sharp focus, no text."
   },
   {
     "date": "2026-06-05",
@@ -163,7 +179,7 @@
     "title": "SpaceX Veteran's Startup Raises $500M for Deep Space Rockets",
     "summary": "Impulse Space closed a $500 million Series D funding round co-led by 137 Ventures and BANNER VC, valuing the company at over $1 billion. The firm, founded by former SpaceX executive Tom Mueller, develops chemical propulsion vehicles like Mira and Helios designed for rapid orbital maneuvering and deep-space payloads.",
     "engagement": "Medium",
-    "raw_text": "So check this out, the space industry is shifting from just launching rockets to building an entire highway system in orbit, and honestly, this is huge. A company called Impulse Space, founded by SpaceX legend Tom Mueller, just locked down a massive 500 million dollar Series D funding round. That pushes their total valuation past a billion dollars! Here’s the wild part: while everyone else is using slow electric thrusters, Impulse is building spacecraft called Mira and Helios that use insane chemical propulsion engines. This lets them do super rapid, tactical maneuvering and 'last-mile' delivery of satellites in space. They can literally sprint across high-energy orbits to reposition spy satellites or communication relays faster than anyone else on the market. They are ramping up production in California and Colorado to dominate this sector before a potential SpaceX IPO shakes up the whole market. If you want to know what the next trillion-dollar space economy looks like, it’s all about in-space mobility.",
+    "raw_text": "So check this out, the space industry is shifting from just launching rockets to building an entire highway system in orbit, and honestly, this is huge. A company called Impulse Space, founded by SpaceX legend Tom Mueller, just locked down a massive 500 million dollar Series D funding round. That pushes their total valuation past a billion dollars! Here\u2019s the wild part: while everyone else is using slow electric thrusters, Impulse is building spacecraft called Mira and Helios that use insane chemical propulsion engines. This lets them do super rapid, tactical maneuvering and 'last-mile' delivery of satellites in space. They can literally sprint across high-energy orbits to reposition spy satellites or communication relays faster than anyone else on the market. They are ramping up production in California and Colorado to dominate this sector before a potential SpaceX IPO shakes up the whole market. If you want to know what the next trillion-dollar space economy looks like, it\u2019s all about in-space mobility.",
     "id": "I7R4F2E9O6",
     "category": "Science",
     "companies": [
@@ -176,7 +192,9 @@
     "people": [
       "Tom Mueller"
     ],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/I7R4F2E9O6.png",
+    "image_prompt": "Photorealistic news image: modern spacecraft in orbit, glowing chemical rocket engine plume, Earth curvature in background, dramatic twilight lighting, sleek aerospace facility silhouette, subtle investor-style newsroom ambiance, ultra-detailed, sharp focus, natural colors, no text, no logos."
   },
   {
     "date": "2026-06-06",
@@ -185,7 +203,7 @@
     "title": "This Lightweight AI Just Replaced Google's $1B Gemini Model",
     "summary": "Lovelace AI published benchmarks revealing that its deterministic 'YottaGraph' context engine enables a lightweight AI model to match Google's Gemini Deep Research Max in performance. By relying on an offline knowledge graph of 60 million entities rather than real-time cloud data retrieval, Lovelace cuts operational computing costs by over 99%.",
     "engagement": "Medium",
-    "raw_text": "Here’s the wild part about the massive AI agents everyone is building—they cost an absolute fortune to run because they rely on brute-force computing. But so check this out, a specialized AI startup called Lovelace just completely flipped the script. They published benchmarks proving their lightweight AI agent matched Google’s insane Gemini Deep Research Max model, but did it at less than 1 percent of the cost! Honestly, this is huge. How did they do it? Instead of letting the AI roam the internet like Google does, Lovelace built the 'YottaGraph,' a deterministic context engine mapping over 60 million entities and billions of facts completely offline. The AI just pulls from this highly structured database instead of wasting massive amounts of energy and cloud tokens on real-time retrieval. Their CEO Andrew Moore says we are entering an era where 'context can do the heavy lifting,' meaning we don’t need giant, power-hungry models for everything. This is going to save enterprises absolute billions.",
+    "raw_text": "Here\u2019s the wild part about the massive AI agents everyone is building\u2014they cost an absolute fortune to run because they rely on brute-force computing. But so check this out, a specialized AI startup called Lovelace just completely flipped the script. They published benchmarks proving their lightweight AI agent matched Google\u2019s insane Gemini Deep Research Max model, but did it at less than 1 percent of the cost! Honestly, this is huge. How did they do it? Instead of letting the AI roam the internet like Google does, Lovelace built the 'YottaGraph,' a deterministic context engine mapping over 60 million entities and billions of facts completely offline. The AI just pulls from this highly structured database instead of wasting massive amounts of energy and cloud tokens on real-time retrieval. Their CEO Andrew Moore says we are entering an era where 'context can do the heavy lifting,' meaning we don\u2019t need giant, power-hungry models for everything. This is going to save enterprises absolute billions.",
     "id": "L1P8T6X4D3",
     "category": "AI",
     "companies": [
@@ -195,6 +213,8 @@
     "people": [
       "Andrew Moore"
     ],
-    "created_at": "2026-06-07T21:54:00+05:30"
+    "created_at": "2026-06-07T21:54:00+05:30",
+    "image_url": "images/06_06_26/L1P8T6X4D3.png",
+    "image_prompt": "Photorealistic newsroom-style composite: a sleek lightweight AI server rack glowing softly, a translucent offline knowledge graph orbiting it, subtle neural network circuitry, distant cloud data centers dimmed, split-scene suggesting 1B-scale performance vs cost savings; crisp lighting, high detail, neutral corporate mood."
   }
 ]
