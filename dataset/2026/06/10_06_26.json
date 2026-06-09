@@ -1,0 +1,174 @@
+[
+  {
+    "date": "2026-06-09",
+    "source_file": "Major Tech News – June 9, 2026.pdf",
+    "page": 1,
+    "title": "Mind-Blowing AI Image Generation Drops at CVPR 2026!",
+    "summary": "The CVPR 2026 conference showcased groundbreaking AI projects like NitroGen for ultrafast image generation and SAM 3D for object segmentation. These advancements highlight rapid progress in computer vision, pushing applications in AR/VR and robotics.",
+    "engagement": "High",
+    "raw_text": "What is up guys, so check this out! The CVPR 2026 conference just dropped some absolute heat, and if you care about AI or graphics, this is huge. We are talking about next-level stuff like 'NitroGen', which literally generates high-quality images in just seconds. And there's this other project called 'SAM 3D' that actually helps AI understand the 3D shapes of objects. Honestly, the momentum in computer vision research right now is completely out of control. The conference got over sixteen thousand submissions this year, which just proves the crazy velocity of this space. You can literally see how these massive generative models are going to push the envelope for AR, VR, and even robotics very soon. I'm looking at these daytime-to-nighttime rendering tools like 'D4RT' and 'ChordEdit' for real-time video editing via audio cues, and it's clear the future of content creation is totally changing. If you're a creator, you better be paying close attention to what these researchers are building right now because it's going to be in our hands before we know it!",
+    "id": "A9B2C3D4E5",
+    "category": "AI",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Major Tech News – June 9, 2026.pdf",
+    "page": 1,
+    "title": "AI is Getting REAL Personalities with 'PsychAdapter'",
+    "summary": "Researchers at Stanford and Vanderbilt developed 'PsychAdapter', a method giving large language models realistic psychological traits. This system steers AI tone and content with up to 97% accuracy, aiming to revolutionize training simulations and personalized content.",
+    "engagement": "Medium",
+    "raw_text": "Okay, this next one is kind of wild and a little bit spooky. Researchers from Stanford and Vanderbilt just introduced something called 'PsychAdapter'. Basically, they found a way to give large language models actual, realistic human personalities. Here's the wild part: they do this by feeding the AI continuous psychological trait scores, like how extroverted or depressed a person is, or their age. The AI then totally changes its tone and content to match that exact profile. And experts say it works with an accuracy of around 87 to 97 percent! I mean, think about the applications here. We could be talking about AI patients for mental health therapy training, or hyper-personalized marketing and education. Published in npj Artificial Intelligence, this completely illustrates the insane effort going into making AI feel like a real person. I honestly don't know if I'm ready to talk to an AI that acts exactly like a grumpy old man or an overly hyper extrovert, but it is definitely coming to your favorite chat apps soon! Let me know what personality you would program.",
+    "id": "F6G7H8I9J0",
+    "category": "AI",
+    "companies": [
+      "Stanford",
+      "Vanderbilt"
+    ],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Major Tech News – June 9, 2026.pdf",
+    "page": 1,
+    "title": "China Plunges a 24MW Data Center Underwater!",
+    "summary": "China has commenced operations of the 'Shanghai Lingang' underwater data center, positioned 10 meters below the sea surface and powered by offshore wind. This facility uses ambient seawater cooling to cut energy usage by over 20% and drastically reduce freshwater demands.",
+    "engagement": "Medium",
+    "raw_text": "So you know how everyone is freaking out about how much power and water AI data centers use? Well, China might have just done something brilliant. They just launched their first submerged, wind-powered data center right off the coast of Shanghai. It is a 24-megawatt facility called 'Shanghai Lingang', and it is literally sitting ten meters underwater. Here is the genius part: they are powering it with a nearby offshore wind farm and cooling it naturally using the ambient seawater. By doing this, they are cutting energy use by over 20 percent compared to land-based centers, and it massively reduces the need for freshwater. This is huge for the environment because drought concerns around AI computing have been skyrocketing globally. It's a collaboration between HiCloud and China Comms Construction. Honestly, seeing green tech meet hardcore AI infrastructure like this is exactly what the industry needs. If this works at scale, we might start seeing major tech companies just tossing their servers into the ocean to save on the cooling bills!",
+    "id": "K1L2M3N4O5",
+    "category": "Hardware",
+    "companies": [
+      "HiCloud",
+      "China Comms Construction"
+    ],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-08",
+    "source_file": "Major Tech News – June 9, 2026.pdf",
+    "page": 3,
+    "title": "EU Blocks Apple's 'Siri AI' Rollout Delay Request!",
+    "summary": "Following Apple's announcement of 'Siri AI' and 'Apple Intelligence' at WWDC, the European Union denied Apple's request for an 18-month exemption from Digital Markets Act obligations. The EU insisted Apple must comply with strict interoperability and privacy standards, meaning Apple cannot indefinitely delay European deployments.",
+    "engagement": "High",
+    "raw_text": "Alright Apple fans, we've got some massive drama following the big WWDC announcements! So, Apple just unveiled the next-generation 'Apple Intelligence' across iOS 27 and showed off a completely revamped 'Siri AI'. Siri is finally getting on-device generative AI to look at your screen and answer stuff contextually. But here is the massive catch: the European Union just totally shut down Apple! Apple asked the EU for an 18-month exemption from the Digital Markets Act because the new rules are super strict, and they've been delaying Siri AI in Europe because of it. Well, EU officials basically laughed and called the request 'unacceptable'. They straight up told Apple they have to comply just like everyone else. What this means is that Apple cannot just delay these new features indefinitely in Europe. They have to figure out how to meet EU security and privacy rules, or they are going to face major issues. Honestly, the tension between major tech and European regulators right now is insane. Let me know in the comments if you think the EU is being too strict!",
+    "id": "P6Q7R8S9T0",
+    "category": "Mobile",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-04",
+    "source_file": "Major Tech News – June 9, 2026.pdf",
+    "page": 2,
+    "title": "Your New Home Assistant Robot is Here: Stretch 4!",
+    "summary": "Robotics startup Hello Robot is releasing the Stretch 4, a domestic assistant robot featuring a telescoping arm capable of folding laundry and fetching items. The robot uses sophisticated AI vision to navigate homes, marking significant progress in practical consumer robotics.",
+    "engagement": "High",
+    "raw_text": "Okay, we are officially living in the future. Have you guys ever wanted a robot to just fold your laundry? Well, the robotics startup 'Hello Robot' is dropping the Stretch 4, and it is built specifically for your house. Unlike those massive, scary industrial robots, Stretch 4 has a telescoping arm and is designed to fetch objects, do chores, and handle smart-home tasks safely. A recent report highlighted its super sophisticated AI vision and manipulation skills, meaning it won't just crash into your couch while carrying a glass of water. Honestly, the consumer robotics space is heating up so fast right now. It might not be cheap enough for the absolute mass market just yet, but this is a massive leap toward having a real-life Rosie the Robot in your living room. The convergence of AI and physical robotics is what I'm most hyped about this year. Imagine just telling your robot to clean the kitchen while you sit back and watch YouTube! Who else is buying one the second they get affordable? Let me know below!",
+    "id": "U1V2W3X4Y5",
+    "category": "Hardware",
+    "companies": [
+      "Hello Robot"
+    ],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "EU Forces WhatsApp to Allow Rival AI Chatbots!",
+    "summary": "The European Commission issued an interim order mandating Meta to restore free API access on WhatsApp for third-party rival AI chatbots within five days. Regulators rejected Meta's prohibitive access fees, acting swiftly to prevent Meta from entrenching a monopoly under the Digital Markets Act.",
+    "engagement": "High",
+    "raw_text": "Meta is taking an absolute beating in Europe right now! The European Commission just dropped a massive hammer on Mark Zuckerberg's empire, officially ordering Meta to open up WhatsApp to rival third-party AI chatbots. And they told them they have to do it for free within five working days! So what happened was startups like 'Poke.com' and a French company called 'Agentik' were basically locked out of WhatsApp after Meta changed its policies and tried to charge them insane access fees. The EU regulators stepped in and said absolutely not, declaring the fee an unfair 'access ban' disguised as monetization. It's insane because the EU has only used these drastic 'interim measures' one other time in the last 17 years! If Meta doesn't comply, they could face fines up to ten percent of their total global annual revenue, which is billions of dollars. Meta is furious and calling it regulatory overreach, but this sets a wild precedent. The walled gardens of big tech are officially crumbling!",
+    "id": "Z6A7B8C9D0",
+    "category": "Business",
+    "companies": [
+      "Meta",
+      "The Interaction Company",
+      "Agentik"
+    ],
+    "people": [
+      "Teresa Ribera"
+    ],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-02",
+    "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
+    "page": 12,
+    "title": "IBM Pledges $10 BILLION for Fault-Tolerant Quantum PCs!",
+    "summary": "IBM CEO Arvind Krishna announced a massive $10 billion investment over the next five years focused on quantum computing research, development, and manufacturing. This capital injection aims to deliver the world's first large-scale, genuinely fault-tolerant quantum computer by 2029.",
+    "engagement": "Medium",
+    "raw_text": "If you thought the AI hardware wars were crazy, just wait until you see what is happening with quantum computers. IBM just dropped a total bombshell, committing over ten billion dollars to quantum computing over the next five years! IBM's CEO Arvind Krishna announced this massive push to ensure they dominate the post-classical computing era. They are putting this money into R&D, scaling up manufacturing, and ecosystem partnerships. But here is the most insane part: their ultimate target is to deliver the world's very first large-scale, fully fault-tolerant quantum computer by 2029. We are talking just three years away! They already have a fleet of over 90 quantum systems deployed, but reaching genuine fault tolerance is the holy grail. If they pull this off, the breakthroughs we are going to see in material science and cryptography will make our current supercomputers look like pocket calculators. Ten billion is no joke, guys. Quantum is officially moving from the science fiction lab straight into mass production!",
+    "id": "E1F2G3H4I5",
+    "category": "Hardware",
+    "companies": [
+      "IBM"
+    ],
+    "people": [
+      "Arvind Krishna"
+    ],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
+    "page": 6,
+    "title": "The US Government Wants Total Control Over AI Laws!",
+    "summary": "Bipartisan U.S. lawmakers unveiled the 'Great American Artificial Intelligence Act of 2026', a comprehensive framework designed to preempt state-level AI regulations for three years. The controversial bill establishes a Center for AI Standards and mandates third-party audits for frontier models, drawing fierce opposition from civil rights groups.",
+    "engagement": "High",
+    "raw_text": "We need to talk about the massive legal war brewing over AI in the United States right now. Lawmakers just released a nearly 270-page draft called the 'Great American Artificial Intelligence Act of 2026'. Here is why everyone is losing their minds: the bill includes a federal preemption clause that completely overrides all state-level AI regulations for three full years. Basically, the federal government wants total control. It sets up a new Center for AI Standards within the Department of Commerce and forces massive AI companies to undergo third-party audits by independent verifiers. The tech industry absolutely loves this because it prevents a messy patchwork of state laws, but civil rights groups are furious. They argue this gives tech monopolies a three-year regulatory 'safe harbor' to do whatever they want with total impunity. Add this to the new light-touch Executive Order focusing only on downstream criminal use, and it is clear the US is terrified of losing the global AI arms race. Expect major political fireworks over this!",
+    "id": "J6K7L8M9N0",
+    "category": "Business",
+    "companies": [],
+    "people": [
+      "Jay Obernolte",
+      "Lori Trahan"
+    ],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
+    "page": 9,
+    "title": "Crusoe Inks 5 Gigawatts of Power for Insane AI Datacenters!",
+    "summary": "Crusoe announced it has contracted 4.9 gigawatts of power capacity across its data center pipeline, with operations already active at a 1.2-gigawatt campus in Texas built for Oracle. This massive expansion highlights the shift toward dedicated, industrial-scale energy generation to support hyperscaler AI compute needs.",
+    "engagement": "Medium",
+    "raw_text": "If you want to know how thirsty AI models are for electricity, listen to this. An infrastructure company called Crusoe just announced they have officially contracted 4.9 gigawatts of capacity for their AI data centers. Almost five gigawatts! That is enough energy to power entire cities. They have already built this massive 1.2 gigawatt campus in Abilene, Texas, exclusively for Oracle. And they just broke ground on a second 900-megawatt campus right next to it just for Microsoft! Honestly, standard commercial real estate just can't handle the power needs of modern AI anymore. We are seeing a massive shift where building an AI data center is basically like building a heavy industrial manufacturing plant. Crusoe even says their total development pipeline is over 40 gigawatts! The amount of physical and logical infrastructure going into the ground right now to train these models is absolutely staggering. The big question is: can our national energy grids actually handle all this without failing? Let me know your thoughts.",
+    "id": "O1P2Q3R4S5",
+    "category": "Hardware",
+    "companies": [
+      "Crusoe",
+      "Oracle",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-06-09T23:05:48Z"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation With Exclusion List (6).pdf",
+    "page": 4,
+    "title": "Hackers are using AI to STEAL tech jobs and data!",
+    "summary": "The CrowdStrike 2026 Threat Landscape Report reveals that state-sponsored adversaries are executing sophisticated cyberespionage campaigns against the tech sector to steal core AI algorithmic weights. North Korean groups, like FAMOUS CHOLLIMA, successfully used AI-enhanced personas to secure remote IT roles within U.S. tech firms, driving 47% of state-sponsored interactive intrusions.",
+    "engagement": "High",
+    "raw_text": "Okay guys, the cybersecurity world is officially on fire. The new CrowdStrike 2026 report just proved that foreign hackers aren't just stealing credit cards anymore; they are explicitly hunting down our core AI models. We're talking state-sponsored groups infiltrating infrastructure providers to exfiltrate massive algorithmic weights. But here is the craziest part of the whole report. Hackers from North Korea, specifically a group called 'FAMOUS CHOLLIMA', have been using advanced AI personas and fake companies to actually get hired for remote IT jobs inside major U.S. tech firms! I am not making this up. This deceptive employment tactic alone accounted for 47 percent of all state-sponsored intrusions against the sector. They are literally getting on the payroll to bypass financial restrictions and steal data from the inside. E-crime syndicates are also using AI-generated scripts to dump credentials at machine speed. If tech companies don't implement zero-trust architectures immediately, these threat actors are going to walk away with the keys to our entire digital future.",
+    "id": "T6U7V8W9X0",
+    "category": "Business",
+    "companies": [
+      "CrowdStrike"
+    ],
+    "people": [
+      "Jake Schuster",
+      "Adam Meyers"
+    ],
+    "created_at": "2026-06-09T23:05:48Z"
+  }
+]
