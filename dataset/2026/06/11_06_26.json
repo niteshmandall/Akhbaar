@@ -1,0 +1,192 @@
+[
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 1,
+    "title": "Anthropic's Claude Fable 5 Can Run for DAYS Unsupervised!",
+    "summary": "Anthropic released Claude Fable 5, an asynchronous model optimized for long-horizon agentic systems. It features an Opus 4.8 fallback safety layer that silently reroutes high-risk queries without outright refusals.",
+    "engagement": "High",
+    "raw_text": "So check this out, Anthropic just dropped Claude Fable 5, and it is completely changing the game for AI. We are moving past the days of turn-based chatting. This new 'Mythos-class' model is designed to be fully autonomous and run for days without you needing to babysit it. Honestly, this is huge for developers wanting to delegate massive coding tasks or migrate entire databases without clicking 'continue' every ten minutes. But here's the wild part: they built in a secret safety net. If you ask it something sketchy about advanced cyber-warfare or biology, it silently reroutes your prompt to Opus 4.8 to verify the information. There are no more annoying refusals, just seamless, strategic safety checks in the background. They are clearly gearing up for a massive IPO, already pulling in a staggering $47 billion run-rate. If you're building with enterprise AI or just love automation, you absolutely need to be looking at this right now!",
+    "id": "A4B9F2D8",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "AWS",
+      "GitHub",
+      "Amazon",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 2,
+    "title": "Google's New AI Gives You Real-Time Babel Fish Superpowers!",
+    "summary": "Google introduced Gemini 3.5 Live Translate, a low-latency model supporting near real-time multimodal audio streaming across 70+ languages. The synthesized speech preserves the original speaker's vocal characteristics and protects against deepfakes using a SynthID watermark.",
+    "engagement": "High",
+    "raw_text": "Here's something straight out of sci-fi. Google just announced Gemini 3.5 Live Translate, and it's basically a real-life Babel Fish. You know those awkward pauses when using a translation app? They are completely gone. This new model streams audio continuously, detecting and translating over 70 languages with just a few seconds of delay. But the craziest part is it keeps your original pitch, tone, emotional intonation, and pacing. You won't sound like a robotic GPS anymore when talking to someone across the globe! To keep things secure, they are tagging all outputs with an invisible SynthID audio watermark to fight the spread of deepfakes. Android users are even getting a private 'Listening Mode' that streams directly into the earpiece without headphones. I've got to say, for travel, mobile accessibility, or global business, this is an absolute game-changer.",
+    "id": "G8H1L3P5",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Grab",
+      "LiveKit"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 3,
+    "title": "A Massive Gemini Outage Just Froze The Internet",
+    "summary": "A six-hour global outage severely disrupted Google Gemini, causing prompt failures and server conflicts across mobile and web interfaces. This massive disruption highlighted the operational fragility of enterprise pipelines relying on centralized cloud-AI integrations.",
+    "engagement": "Medium",
+    "raw_text": "We need to talk about the massive Google Gemini crash that just happened. For over six hours, Gemini completely bricked globally. Users were getting slammed with 'error 1076' handshake timeouts and 'error 1099' server conflicts across mobile and web. While the lightweight Flash Lite model barely survived, the high-performance models were totally dead in the water. Why does this matter? Because modern corporations are deeply relying on these large language model APIs for everything from live customer support to document search. A multi-hour outage literally freezes their entire operational pipelines. This is a massive wake-up call, especially with Apple planning to integrate Gemini into Siri soon. It just proves that no matter how smart these multimodal AI models get, the underlying centralized servers are still super vulnerable to capacity constraints. Are we putting too much trust in the cloud?",
+    "id": "C2J9M4W7",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Apple"
+    ],
+    "people": [
+      "Josh Woodward"
+    ],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 4,
+    "title": "This AI System Just Saved 900 Lives at a Florida Hospital",
+    "summary": "Tampa General Hospital deployed a Palantir-powered Sepsis Hub that halved overall sepsis mortality and significantly reduced patient stay times. The system continuously analyzes real-time electronic health records and vitals to catch physiological signs before symptoms become clinically apparent.",
+    "engagement": "Medium",
+    "raw_text": "This is probably the most important AI news of the week. Forget about chatbots for a second; Tampa General Hospital just used Palantir's AI to literally save hundreds of lives. They built this 'Sepsis Hub' that constantly analyzes electronic health records, vitals, and unstructured clinical notes to catch subtle signs of sepsis before doctors can even see the symptoms. Sepsis moves incredibly fast, so catching it early is literally a matter of life or death. The clinical results? They cut 48-hour sepsis mortality by 68% and halved overall sepsis deaths. They estimate nearly 900 additional lives were saved. This is proof that when we stop focusing on silly AI gimmicks and start integrating intelligent software directly into front-line clinical operations, we can massively improve human safety and hospital efficiency. We need to see more real-world AI deployment like this immediately.",
+    "id": "P5T7Q1Y9",
+    "category": "Science",
+    "companies": [
+      "Palantir Technologies",
+      "Tampa General Hospital"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 5,
+    "title": "Autonomous Trucking Startup Einride Faces Brutal 73% Valuation Drop",
+    "summary": "Einride debuted on the Nasdaq via a SPAC merger at a $1.35 billion pre-money equity valuation. The listing represented a 73% compression from earlier traditional IPO targets, signaling cooling investor enthusiasm for the slow-moving autonomous transport sector.",
+    "engagement": "Low",
+    "raw_text": "Let's dive into the business side of tech. Einride, the Swedish autonomous trucking startup, finally hit the Nasdaq public market. But it wasn't the massive IPO they initially wanted. They had to take the SPAC route, merging with Legato Merger Corp to bypass underwriter scrutiny. Now, they are sitting at a $1.35 billion valuation. If that sounds big, remember they were initially aiming for a $5 billion valuation! That is a massive 73% drop in value. It really shows how much investor hype has cooled off for autonomous transport. Between high vehicle capital costs and charging limitations, the timeline for widespread robo-trucks is slipping. Still, they've got $65 million in contracted revenue with big enterprise names like PepsiCo and Heineken. So, the real question is: Can their data-driven 'Saga' operating system convert their $800 million pipeline into real, profitable revenue?",
+    "id": "E3V8X6N2",
+    "category": "Business",
+    "companies": [
+      "Einride AB",
+      "Legato Merger Corp. III",
+      "PepsiCo",
+      "Heineken",
+      "Aurora Innovation",
+      "Kodiak AI"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 6,
+    "title": "Say Goodbye to College Delivery Robots!",
+    "summary": "Starship Technologies is terminating its autonomous food delivery services across U.S. university campuses, including NC A&T. The company is pivoting away from seasonal, low-margin college operations to concentrate on high-density commercial markets in Europe.",
+    "engagement": "Medium",
+    "raw_text": "If you go to a U.S. college, you might notice something missing on campus very soon. Starship Technologies is pulling their little autonomous food delivery robots out of U.S. universities. NC A&T just announced they are completely terminating the delivery service. It turns out, delivering late-night snacks to dorms isn't as profitable as it looks. The high maintenance costs of the robot fleets and the fact that campuses shut down for the summer really squeezed their profit margins. Instead, Starship is pivoting hard with a massive strategic realignment. They are moving their focus to high-density European cities where labor costs are higher and year-round delivery actually makes financial sense. It is kind of a bummer to see them go, but it proves a harsh reality: cool showcase tech still has to make money in the long run. I guess students will have to go back to walking to the dining hall.",
+    "id": "S9R2F5D1",
+    "category": "Hardware",
+    "companies": [
+      "Starship Technologies",
+      "NC A&T"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 7,
+    "title": "OpenAI's Insane $500 BILLION Bet on the Ultimate Data Center",
+    "summary": "OpenAI is in advanced talks to construct a massive 10-gigawatt AI data center campus in Ohio backed by SoftBank and Nvidia. Expected to cost over $500 billion, the project includes plans for a dedicated 9.2-gigawatt natural gas power plant.",
+    "engagement": "High",
+    "raw_text": "I cannot even comprehend the scale of this next story. OpenAI is currently in advanced talks to build a massive 10-gigawatt AI data center campus in southern Ohio. Just to put that into perspective, 10 gigawatts is roughly 4.5 times the generation capacity of the Hoover Dam! They are teaming up with SoftBank and Nvidia to make this happen, even planning to build a dedicated 9.2-gigawatt natural gas power plant on an old federal uranium enrichment site. Power, not chip supply, is the new primary bottleneck for AI expansion. Nvidia isn't just supplying hardware; they are basically acting as the infrastructure financier, guaranteeing the lease. The total build-out is expected to cost over $500 billion. The energy this mega-campus will consume is more than many developed nations. OpenAI is placing a half-trillion-dollar bet on the future of AI. Do you think it's worth the massive environmental footprint?",
+    "id": "O1K4Z8H7",
+    "category": "Infrastructure",
+    "companies": [
+      "OpenAI",
+      "Nvidia",
+      "SoftBank",
+      "SB Energy"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 8,
+    "title": "Meta Built a Supercomputer Cooled by the OCEAN!",
+    "summary": "Meta has partnered with Reliance Industries to lease a custom 168-MW AI data center in Gujarat, India. The built-to-suit facility operates entirely on renewable energy and introduces a massive environmental innovation by utilizing desalinated seawater for its cooling systems.",
+    "engagement": "Medium",
+    "raw_text": "Meta is getting incredibly creative with their new AI physical infrastructure. They just partnered with Reliance Industries to lease a bespoke 168-Megawatt AI data center in Gujarat, India. But here is the truly fascinating part: traditional data centers normally drink millions of gallons of fresh water daily to stay cool, which causes severe friction with local communities. To solve this, Meta's new facility is being cooled using desalinated seawater. That is a brilliant innovation to mitigate political sensitivity and bypass local freshwater resource constraints. On top of that, they have contracted 1 gigawatt of solar and wind energy across India to ensure the whole operation runs on 100% clean power. Meta is rushing to get computing power closer to their fastest-growing user base, and they are doing it while trying to stay green. Honestly, I think we will see a lot more of this seawater tech soon.",
+    "id": "M7X9C2V4",
+    "category": "Infrastructure",
+    "companies": [
+      "Meta",
+      "Reliance Industries Limited",
+      "Jio",
+      "CleanMax",
+      "Fourth Partner Energy"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-09",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 11,
+    "title": "IT Giant TCS Plans to Hire 500,000 AI AGENTS by 2029",
+    "summary": "Tata Consultancy Services expects to deploy an equal number of AI agents as physical human employees within the next three years. By restructuring its workforce and minimizing entry-level hiring intensity, TCS is pivoting aggressively toward full-stack AI service delivery.",
+    "engagement": "High",
+    "raw_text": "If you work in the software or tech industry, you need to sit down and listen to this. The Chairman of Tata Consultancy Services, which currently employs roughly 600,000 people, just made a terrifyingly bold prediction. Within the next three years, they are going to deploy an equal number of AI agents as physical human staff. That is over half a million active AI agents running their operations! Generative AI is starting to completely automate software testing and application maintenance, which used to be the entry-level drivers for India's IT services industry. Now, TCS says they aren't going to do mass layoffs, but they are dramatically reducing their hiring intensity moving forward. If you are a new IT grad, the game has fundamentally changed. You aren't just coding anymore; success will depend on governing complex fleets of AI agents. The traditional labor arbitrage era is officially ending.",
+    "id": "T6B3N9K1",
+    "category": "Business",
+    "companies": [
+      "Tata Consultancy Services",
+      "OpenAI"
+    ],
+    "people": [
+      "Natarajan Chandrasekaran"
+    ],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  },
+  {
+    "date": "2026-06-10",
+    "source_file": "Tech News Aggregation and Exclusion (2).pdf",
+    "page": 13,
+    "title": "Will Trump Pay YOU an OpenAI Dividend?!",
+    "summary": "OpenAI and the Trump administration are negotiating a framework granting the U.S. government a direct equity stake in the $852 billion company. This donated equity would seed a 'Public Wealth Fund' designed to distribute future AI returns directly to American households.",
+    "engagement": "High",
+    "raw_text": "This is probably the craziest merger of politics and tech I have ever seen. OpenAI and the Trump administration are currently in active negotiations where the U.S. government would take a direct equity stake in the artificial intelligence company. The plan is to create a nationally managed 'Public Wealth Fund'. As the $852 billion AI company grows, the financial returns would actually be distributed directly to American households. It is almost like an AI-funded universal basic income. President Trump called the idea 'a beautiful thing,' and Sam Altman has been meeting with lawmakers on both sides to push this forward. Of course, public interest groups are freaking out, warning this creates a massive conflict of interest where the government won't regulate AI because they want the stock to keep climbing. But what do you guys think? Would you want a direct piece of OpenAI's massive future profits?",
+    "id": "W4Q8P2L5",
+    "category": "Policy",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Donald Trump",
+      "Sam Altman",
+      "Bernie Sanders"
+    ],
+    "created_at": "2026-06-11T09:36:22.000+05:30"
+  }
+]
