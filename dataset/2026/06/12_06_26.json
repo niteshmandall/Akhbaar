@@ -1,0 +1,204 @@
+[
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 4,
+    "title": "Jeff Bezos Just Dropped $12 BILLION on an AI 'General Engineer'!",
+    "summary": "Jeff Bezos and Vik Bajaj co-founded Prometheus, closing a $12 billion Series B round for a $41 billion valuation. The company focuses on building an artificial general engineer designed to operate within the constraints of physical laws rather than generating text.",
+    "engagement": "High",
+    "raw_text": "So check this out, Jeff Bezos is back in the CEO chair, and he is dropping an absolute fortune on AI! But here is the wild part: Prometheus is not just another ChatGPT clone making poetry or writing emails. They just raised 12 billion dollars to build what they are calling an 'artificial general engineer'. We are talking about an advanced AI system trained on real-world physics, complex experimental data, and robotics that can literally design a commercial jet engine or fabricate microchips from scratch. I honestly think this is huge because it is actively shifting AI from digital toys to heavy industrial manufacturing. The compute power required to run these deterministic, physics-bound simulations is astronomical, which fully explains why they need billions in cash right now. Bezos even hinted they might just buy legacy manufacturing plants and let their proprietary AI tools optimize everything to outpace human competitors. If this actually works, it is going to completely revolutionize how we build everything in the physical world!",
+    "id": "A9B2C3X1",
+    "category": "AI",
+    "companies": [
+      "Prometheus",
+      "Amazon",
+      "Verily",
+      "JPMorgan",
+      "BlackRock",
+      "Goldman Sachs",
+      "DST Global",
+      "Arch Venture Partners"
+    ],
+    "people": [
+      "Jeff Bezos",
+      "Vik Bajaj"
+    ],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 5,
+    "title": "Microsoft's New Surface Ultra Has INSANE Specs for AI!",
+    "summary": "At Microsoft Build 2026, CEO Satya Nadella unveiled the Surface Ultra and RTX Spark Dev Box. The new hardware features 128GB of high-bandwidth memory, 20 Arm CPU cores, and an integrated NVIDIA RTX Spark superchip to power local AI development.",
+    "engagement": "High",
+    "raw_text": "You guys are not going to believe the absolute monster of a laptop Microsoft just announced at Build 2026! Satya Nadella got on stage and dropped the Microsoft Surface Ultra, and the specifications are honestly mind-blowing. This is not just a regular laptop; it is basically a portable AI server built directly with NVIDIA's new RTX Spark superchip. It packs 128GB of high-bandwidth memory and a crazy 20-core ARM processor right under a 15-inch mini-LED screen. But wait, there is more! They also announced this insane Surface RTX Spark Dev Box for your desk that pushes 1 petaflop of AI processing power, effectively bringing data-center-class capabilities directly to local developer environments. Demand is literally so high that Nadella joked even he could not secure a spot on the waitlist for the Dev Box. They are also pushing a next-gen quantum processing unit called Majorana 2 with goals for a commercial framework by 2029. The hardware wars are officially back, and Microsoft is playing absolutely no games with this release!",
+    "id": "B8C4D5Y2",
+    "category": "Hardware",
+    "companies": [
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "people": [
+      "Satya Nadella"
+    ],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 6,
+    "title": "HUGE Win for PC Gamers: Microsoft Unlocks Local AI for RTX Cards!",
+    "summary": "Microsoft updated its Windows App SDK to allow non-Copilot+ PCs to run local AI capabilities using standard NVIDIA GeForce RTX 30 series GPUs. This shift allows models like Phi Silica to operate on local VRAM, extending the lifespan of millions of existing PCs.",
+    "engagement": "High",
+    "raw_text": "Huge news for everyone currently rocking a dedicated graphics card in their PC rig! So, previously, Microsoft gatekept their cool new local AI features to only the newest 'Copilot+' PCs that had a dedicated Neural Processing Unit. But they just rolled out an incredible update to the Windows App SDK that unlocks local AI inference for anyone with an NVIDIA RTX 30 series or newer GPU featuring at least 6GB of VRAM. Honestly, this is massive because millions of gamers and creators do not have to throw away their perfectly good PCs just to get access to baseline AI features. Your existing GPU can now run the Microsoft Phi Silica language model entirely offline, meaning you don't have to communicate with remote Azure servers at all. Now, here is the catch: they are still holding back some of the higher-risk stuff, keeping advanced continuous-telemetry features like 'Recall' locked securely behind the NPU requirement. But getting standard AI summaries and generation for free on our existing gaming rigs? We absolutely take those wins every single time!",
+    "id": "C7D5E6Z3",
+    "category": "Software",
+    "companies": [
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 7,
+    "title": "80 TOPS? The New ASUS ROG Laptops Are Unstoppable!",
+    "summary": "ASUS Republic of Gamers initiated pre-orders for its new creator and gaming hardware, including the ProArt PZ14 and TUF Gaming A14. The devices utilize new AI processors, with the PZ14 delivering up to 80 TOPS of dedicated AI performance and claiming a 22-hour battery duration.",
+    "engagement": "Medium",
+    "raw_text": "If you are looking to buy a new laptop this year, you need to listen up because ASUS just completely changed the game. They just opened pre-orders for their new flagship line, and the performance numbers they are pushing are absolutely insane. Forget standard clock speeds; the tech industry is all about TOPS now, which stands for Tera Operations Per Second. The new creator-focused ProArt PZ14 packs a Snapdragon X2 Elite processor and pushes an unbelievable 80 TOPS of dedicated AI performance. That means it can easily run intense AI background tasks, video enhancements, and multi-modal processing without dragging down your main CPU or GPU. But here is the craziest part: because the NPU is so insanely power-efficient for matrix multiplication, ASUS claims this thing has an exceptional 22-hour operational battery life. They also dropped the TUF Gaming A14 with the newest AMD AI chips. If you ever needed proof that dedicated AI silicon is now a baseline requirement across all consumer hardware tiers, this is definitely it!",
+    "id": "D6E6F7A4",
+    "category": "Hardware",
+    "companies": [
+      "ASUS",
+      "Qualcomm",
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 13,
+    "title": "Canva Finally Added the ONE Feature We've Been Begging For!",
+    "summary": "Visual communications platform Canva introduced a highly requested Offline Mode at no additional cost for all users. The feature allows seamless offline designing and local caching for up to 14 days, auto-syncing when internet access is restored.",
+    "engagement": "High",
+    "raw_text": "Okay creators, Canva just dropped a massive platform update that is going to entirely save your life if you travel often or have spotty Wi-Fi! They officially rolled out a highly requested 'Offline Mode,' and the best part is it is available universally for free, no matter what user tier you are currently on. Here is exactly how it works: you literally just click 'Make available offline,' and the software caches your specific design locally. This allows you full creative manipulation and lets you keep working on it for up to 14 days devoid of any internet connection. When you finally get your network access restored, their conflict-resolution algorithms automatically sync all your modifications seamlessly across the cloud database and your connected devices. Honestly, it sounds like a minor quality-of-life software update, but for small businesses and mobile professionals—especially those operating in emerging markets like India where broadband is not reliable—this is a total game-changer. We are no longer trapped by a weak signal when a design deadline is breathing down our necks!",
+    "id": "E5F7G8B5",
+    "category": "Software",
+    "companies": [
+      "Canva"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 2,
+    "title": "$10 Billion 'Helix' Project is Building the AI Grid!",
+    "summary": "A $10 billion joint venture named Helix Digital Infrastructure has been launched by KKR, Kuwait Investment Authority, NVIDIA, and Vistra. Led by former AWS CEO Adam Selipsky, Helix aims to resolve AI hyperscale data center bottlenecks by vertically integrating capital, silicon, and baseload utility power.",
+    "engagement": "Medium",
+    "raw_text": "We all know that new AI models take a literal ton of computing power, but absolutely nobody talks about the massive power grid crisis currently going on behind the scenes! To fix it, some of the biggest financial and tech players in the world just teamed up to launch Helix Digital Infrastructure. We are talking about private equity titan KKR, the Kuwait sovereign wealth fund, NVIDIA, and utility giant Vistra throwing $10 billion into one single new company. Former AWS CEO Adam Selipsky is stepping in to lead the whole global operation. What they are doing is basically building a unified, repeatable supply chain for data centers, perfectly combining the financial assets, the NVIDIA hardware, and the raw utility power. With Vistra bringing their massive fleet of nuclear, solar, and natural gas power plants directly to the table, they completely bypass the fragmented regulatory grid delays that usually slow these massive hyperscale deployments down. It might sound a bit like boring corporate infrastructure, but this convergence is literally what will keep the entire AI revolution from totally crashing our local power grids!",
+    "id": "F4G8H9C6",
+    "category": "Business",
+    "companies": [
+      "Helix Digital Infrastructure",
+      "KKR",
+      "Kuwait Investment Authority",
+      "NVIDIA",
+      "Vistra",
+      "Amazon"
+    ],
+    "people": [
+      "Adam Selipsky",
+      "Joe Bae",
+      "Scott Nuttall",
+      "Waldemar Szlezak",
+      "Jensen Huang"
+    ],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 13,
+    "title": "Can Your AI Shopping Bot Get You Sued?",
+    "summary": "Legal experts at Ballard Spahr have published an analysis highlighting severe unresolved liability issues surrounding autonomous AI shopping bots. Current digital commerce laws struggle to determine responsibility when AI proxy agents aggressively negotiate or exploit digital pricing glitches on behalf of human users.",
+    "engagement": "High",
+    "raw_text": "What actually happens if your personal AI assistant goes completely rogue while shopping on Amazon? Litigators at the Ballard Spahr law firm are currently sounding the massive alarm about AI shopping bots, and the legal implications are actually terrifying. Let's say you tell your autonomous AI agent to find you the absolute cheapest television on the internet. What if it blindly accepts some opaque arbitration clause embedded deep in a site's terms of service, or what if it rapidly exploits a website's digital pricing glitch to execute thousands of unauthorized purchases? Who actually gets sued in that scenario? Is it the software developer who coded the AI, the retailer for having inadequate cyber-defense systems, or you, the human consumer who originally deployed the bot? Lawyers are pointing out that our 20th-century contract laws were built for humans interacting directly with servers, not autonomous algorithmic intermediaries aggressively negotiating with other algorithms. It is completely wild to think that using a smart AI proxy to get a good deal online could leave you legally liable. It is literally like hiring a digital hitman for coupon codes!",
+    "id": "G3H9I0D7",
+    "category": "Law",
+    "companies": [
+      "Ballard Spahr"
+    ],
+    "people": [
+      "Adam Maarec",
+      "Stephanie A. Sheridan",
+      "Meegan Brooks"
+    ],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 8,
+    "title": "Adobe's New AI Agent Will Literally Do Your Job For You",
+    "summary": "Adobe has announced the general availability of the CX Enterprise Coworker, an agentic AI solution designed to coordinate workflows across analytics and content creation. The system can autonomously build campaign plans, generate creative assets, and execute adjustments based on real-time market signals without constant human input.",
+    "engagement": "Low",
+    "raw_text": "Marketers and content creators, you might want to immediately update your resumes, because Adobe just dropped a digital teammate that never sleeps! It is called the CX Enterprise Coworker, and it bridges what industry analysts call the critical 'execution gap'. Instead of you manually writing an email using ChatGPT and then going to another application to build the audience list, you just give this new AI agent a high-level goal. It autonomously builds the entire campaign plan, generates brand-compliant creative content, targets the exact audience segment, and sets up analytical tracking all within a single unified workflow. And get this—it continuously monitors how the campaign is doing live and automatically executes adjustments based on shifting market conditions. It even plays nice with outside third-party AI platforms from Amazon, Anthropic, and Google using open standard protocols. We are no longer just dealing with a digital software dashboard; this is literally an autonomous coworker doing the heavy lifting on your behalf! I honestly think enterprise software will never be the same after this.",
+    "id": "H2I0J1E8",
+    "category": "Business",
+    "companies": [
+      "Adobe",
+      "Amazon Web Services",
+      "Anthropic",
+      "Google Cloud",
+      "Microsoft",
+      "OpenAI",
+      "Constellation Research"
+    ],
+    "people": [
+      "Anjul Bhambhri"
+    ],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 10,
+    "title": "Microsoft Just Killed 'Prompt Engineering' With SkillOpt!",
+    "summary": "Microsoft introduced an open-source framework called SkillOpt that brings deep-learning optimization directly to plain-text AI instructions. The framework iteratively refines agent 'skill' files using feedback loops to automatically generate instructions that improve execution accuracy, effectively replacing manual prompt engineering.",
+    "engagement": "Medium",
+    "raw_text": "Do you remember a couple of years ago when 'Prompt Engineer' was supposedly going to be the absolute hottest new job title of the decade? Yeah, well, Microsoft just basically automated that entire career out of existence. They recently released a brand new open-source framework called SkillOpt, and the underlying tech is insanely clever. Normally, developers spend hours blindly guessing which specific words in a text prompt will make an AI agent do its job correctly, which is terribly slow and highly prone to human error. SkillOpt takes rigorous mathematical deep-learning techniques and applies them directly to the plain-text markdown files. It systematically explores syntactic modifications, runs performance tests, looks at the failures, and iteratively rewrites the text prompt over and over until it mathematically validates the absolute perfect combination of words to yield the highest accuracy. It is basically an AI seamlessly optimizing its own instructions without developers having to touch the underlying foundation model's weights. If you are building automated agents right now, this tool completely removes the manual guesswork!",
+    "id": "I1J1K2F9",
+    "category": "Software",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  },
+  {
+    "date": "2026-06-11",
+    "source_file": "Tech News Aggregation With Exclusion List (7).pdf",
+    "page": 9,
+    "title": "Big Tech's Secret War Against 'Dinosaur Code'",
+    "summary": "IBM and ServiceNow have expanded their collaboration to help organizations overcome the 'legacy trap' by preparing archaic IT systems for agentic AI. Utilizing tools like IBM Bob and the watsonx.data platform, the partnership scans and translates monolithic legacy code into modern, AI-ready microservices while establishing strict data governance protocols.",
+    "engagement": "Low",
+    "raw_text": "We always hear a lot about cutting-edge artificial intelligence, but here is the dirty little secret of the massive corporate world: most large organizations are still running on absolute dinosaur code! Decades of archaic, deeply interconnected legacy IT systems make it completely impossible to securely feed clean data into modern AI models, which industry experts accurately call the 'legacy trap'. To combat this, IBM and ServiceNow just announced a massive multi-year collaboration to finally fix this foundational barrier. Instead of doing a super expensive and risky 'rip-and-replace' of old hardware mainframes, they are smartly using AI code-translation tools like IBM Bob to continuously scan old Java architectures and reliably translate them into fresh, modern, AI-ready microservices. They are also building out robust data governance protocols to ensure all the proprietary info fed into agentic models is perfectly clean and fully legally compliant. It is obviously not the sexiest consumer tech out there, but this is exactly the required foundational plumbing needed to actually make enterprise AI fully functional at scale!",
+    "id": "J0K2L3G0",
+    "category": "Business",
+    "companies": [
+      "IBM",
+      "ServiceNow",
+      "Red Hat",
+      "HashiCorp"
+    ],
+    "people": [],
+    "created_at": "2026-06-11T21:33:08+05:30"
+  }
+]
