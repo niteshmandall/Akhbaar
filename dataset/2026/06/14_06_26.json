@@ -1,0 +1,185 @@
+[
+  {
+    "date": "2026-06-14",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 1,
+    "title": "Meta CANCELS Open Source AI: The Terrifying Bio-Risk of Muse Spark!",
+    "summary": "Meta has indefinitely restricted its Muse Spark frontier model to a closed-API architecture after internal testing revealed uncontrollable biological security risks. The company's Chief AI Officer confirmed that open-source strategies are no longer viable for hyper-scaled, frontier AI systems due to weaponization potential.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys, the era of open-source AI as we know it might just be officially over. For years, Meta has been the absolute champion of giving away their massive AI models for free, completely wrecking the competition's moats. But here's the wild part: they just pulled the plug on their latest frontier model, Muse Spark. Why? Because the AI is literally getting too dangerous to exist in the wild. Meta's Chief AI Officer, Alexandr Wang, straight up admitted that internal red-teaming found severe, uncontrollable biological security risks. We're talking about an AI that could potentially help bad actors create or weaponize pathogens. Honestly, this is huge. It means the scaling laws are pushing AI into emergent reasoning territories that are genuinely scary. The bleeding edge of AI is now going to be permanently locked behind corporate firewalls. Drop a comment below—do you think Meta is making the right call keeping this secret, or is this just an excuse to lock down the market?",
+    "id": "a1B2c3D4",
+    "category": "AI",
+    "companies": [
+      "Meta",
+      "Scale AI"
+    ],
+    "people": [
+      "Alexandr Wang"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-14",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 2,
+    "title": "Instagram and WhatsApp Are Getting PAID Tiers: Meta's Desperate Pivot!",
+    "summary": "Following the strategic shift away from open-source AI, Meta is aggressively testing direct subscription models across its primary applications, including Instagram, Facebook, and WhatsApp. This monetization pivot aims to generate the direct consumer revenue necessary to sustain the massive capital expenditures required for continuous AI model training and cluster expansion.",
+    "engagement": "High",
+    "raw_text": "Alright, brace yourselves, because your favorite free apps are about to get very expensive. Following Meta's terrifying realization that frontier AI is too dangerous to open-source, they are completely changing how they make money. Here is the crazy thing: Meta is aggressively testing direct subscription models across literally everything—Instagram, Facebook, WhatsApp, and their core AI chatbots. Why? Because training these hyper-scaled AI models costs an absolute fortune, and the era of free money is totally over. Without the ecosystem benefits of open-sourcing their AI, Meta has to squeeze direct revenue out of us, the users, to pay for their astronomical server and computing costs. I honestly can't believe we're seeing the end of the totally free social media era. Are you guys actually willing to pay a monthly premium just to use Instagram or WhatsApp? Let me know in the comments because this monetization pivot is about to change the internet forever.",
+    "id": "e5F6g7H8",
+    "category": "Business",
+    "companies": [
+      "Meta",
+      "Instagram",
+      "Facebook",
+      "WhatsApp"
+    ],
+    "people": [],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-14",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 3,
+    "title": "AI is WAY Smarter Than We Thought: The FrontierMath Benchmark Scandal!",
+    "summary": "An AI-assisted audit of the highly respected FrontierMath evaluation framework revealed fatal logical flaws in forty-two percent of its problems. Once these human errors were corrected in the v2 dataset, frontier AI models like GPT-5.5 achieved massive performance leaps, disproving previous assumptions about their mathematical reasoning limitations.",
+    "engagement": "Medium",
+    "raw_text": "Okay, you guys have to hear about this massive scandal in the AI research world. For months, everyone thought our best AI models were terrible at advanced mathematics. They were failing the ultimate test, a benchmark called FrontierMath, which is basically the final boss of math tests. But guess what? An AI just audited the human-made test and found that 42% of the questions were completely broken!. The human experts literally baked logical hallucinations and impossible puzzles into the test itself. Once Epoch AI fixed the flawed questions and released version 2, AI models like GPT-5.5 and Google's AI co-mathematician absolutely crushed it, scoring up to 85%. Honestly, this is a massive wake-up call. It proves the static tests we use to measure AI are failing, and we need dynamically generated, living benchmarks to keep up. So, the AI wasn't dumb; the humans just made a broken test!",
+    "id": "i9J0k1L2",
+    "category": "AI",
+    "companies": [
+      "Epoch AI",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 5,
+    "title": "Mercedes-Benz Built an INSANE 'Talk to Data' AI Network!",
+    "summary": "Mercedes-Benz Korea has successfully migrated over five hundred complex KPI definitions from legacy silos into a unified semantic layer using Databricks. This architecture allows their multi-agent AI network to query structured enterprise data lakes directly, delivering mathematically precise answers and entirely eliminating hallucination risks.",
+    "engagement": "Low",
+    "raw_text": "If you're an enterprise data nerd, this is going to blow your mind. You know how AI chatbots always hallucinate when you ask them about hard company data?. Well, Mercedes-Benz Korea just completely solved this massive bottleneck. They deployed a wild 'Talk to Data' multi-agent network using Databricks. What they did was extract over 500 complex business metrics from old, clunky dashboards and built a unified, AI-ready semantic layer in the Unity Catalog. Now, instead of a chatbot guessing what 'total sales' means, a master supervisor agent routes your question to a specific persona agent, which pulls the exact, mathematically perfect SQL code to give you the real answer. No more hallucinations. Zero. Honestly, this is the definitive blueprint for the future of enterprise AI. It bridges the gap between raw data and natural language perfectly.",
+    "id": "m3N4o5P6",
+    "category": "Business",
+    "companies": [
+      "Mercedes-Benz",
+      "Databricks",
+      "Microsoft"
+    ],
+    "people": [
+      "Fares Kamal",
+      "Sai Yang"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 7,
+    "title": "The MTEB v3 Update: Hugging Face Fixes AI Model Evaluations!",
+    "summary": "Hugging Face has completely rebuilt its Massive Text Embedding Benchmark (MTEB) to introduce high-speed granular filtering and strict data contamination tracking. The v3 platform leverages FastAPI and Svelte to provide transparent, modality-specific evaluations for thousands of enterprise embedding models.",
+    "engagement": "Low",
+    "raw_text": "For my developers building RAG applications, this one is for you. Choosing the right text embedding model has been an absolute nightmare lately. The old Hugging Face MTEB leaderboard was insanely slow, crashed constantly, and those aggregate average scores basically hid all the critical flaws in the models. But Hugging Face just dropped MTEB v3, and it's a total gamechanger. They completely rebuilt the backend with FastAPI and Svelte, so it's lightning-fast. But here's the best part: they finally introduced strict contamination tracking. Now you can actually see if an AI model is 'cheating' by having the test data included in its training set. Plus, you can filter by super specific domains like legal, medical, or even cross-modal image and audio benchmarks spanning 159 languages. We can finally stop blindly chasing top average scores and actually pick the right model for the job!.",
+    "id": "q7R8s9T0",
+    "category": "Software",
+    "companies": [
+      "Hugging Face"
+    ],
+    "people": [],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 9,
+    "title": "AI is Drinking All Our Water! The Hidden Ecological Crisis.",
+    "summary": "The rapid expansion of hyperscale AI data centers is placing unprecedented strain on global water tables, heavily impacting drought-stricken regions like Texas and Washington. Moving to closed-loop cooling systems merely shifts the environmental burden, as the increased electrical demand heavily relies on water-intensive fossil fuel combustion.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys... our obsession with AI is literally draining the planet's water supply, and no one is talking about it. To cool down these massive, hyper-dense AI data centers, tech companies are evaporating millions of gallons of drinking water right into the atmosphere. In places like Texas, which is already suffering from severe droughts, projections show data centers could suck up 9% of the state's entire water supply by 2040!. Now, tech giants claim they're fixing it by moving to 'closed-loop' refrigeration systems that don't evaporate water locally. But here's the catch: those giant refrigerators use way more electricity. And where does that power come from? Fossil fuel power plants, which inherently need massive amounts of water for steam and cooling anyway. It’s a vicious thermodynamic paradox, and it might just permanently halt AI infrastructure growth in major regions. Are you worried about AI's ecological footprint?",
+    "id": "u1V2w3X4",
+    "category": "Hardware",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 10,
+    "title": "The UK Just Became Europe's $1.6 Trillion AI Superpower!",
+    "summary": "Driven by massive hyper-growth in the artificial intelligence sector, the United Kingdom's technology ecosystem has achieved a historic market valuation of $1.6 trillion. The UK now possesses a higher AI valuation than France and Germany combined, solidifying its status as an indispensable node in global technology supply chains.",
+    "engagement": "Medium",
+    "raw_text": "The global AI race has a new undisputed champion in Europe, and it is the United Kingdom!. According to the brand new 2026 Tech Nation Report, the UK's tech ecosystem just hit an absolutely massive 1.6 trillion dollar valuation. And guess what’s driving almost all of that wealth? Artificial Intelligence. The AI sector saw almost a 100% surge in valuation in just the past year, adding $255 billion to the economy. The UK's AI market is literally worth more than France and Germany combined right now. While the rest of Europe was busy focusing on heavy, strict regulations and compliance, the UK created a super permissive, capital-rich environment to build infrastructure. Now they are home to over 2,500 venture-backed AI startups and absolute powerhouse scaleups like Nscale and Wayve. Honestly, this proves that moving fast and building infrastructure wins the day. The UK is officially an AI superpower!.",
+    "id": "y5Z6a7B8",
+    "category": "Business",
+    "companies": [
+      "Nscale",
+      "ElevenLabs",
+      "Wayve"
+    ],
+    "people": [
+      "Alice Chambers",
+      "Ed Ludlow",
+      "Caroline Hyde"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-14",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 11,
+    "title": "College Students Get FREE GPUs! Taiwan University's Radical Move.",
+    "summary": "Recognizing the severe socioeconomic digital divide created by expensive AI tools, National Taiwan University has established an AI and Digital Governance Strategy Task Force to guarantee compute equity. The institution will now classify high-performance GPU computing power as a fundamental public utility, subsidizing access identically to electricity or internet bandwidth.",
+    "engagement": "High",
+    "raw_text": "If you're a college student right now, pay close attention to this, because it’s about to change your life. AI is getting incredibly expensive, and it's creating a massive divide between rich students who can afford premium models and those who can't. But National Taiwan University is doing something absolutely legendary to fix this. They just launched a massive task force to classify GPU computing power as a basic public utility. This means that access to high-performance AI hardware is going to be treated just like electricity, campus Wi-Fi, or library access. They're building an internal, university-wide platform to pool and share GPU resources so that absolutely every student gets equitable access, regardless of how much money they have. Honestly, I think this is a massive win for education. Gating AI behind personal wealth is a terrible idea, and NTU is setting a global standard here. Should every university give free GPU access to students?",
+    "id": "c9D0e1F2",
+    "category": "Science",
+    "companies": [
+      "National Taiwan University"
+    ],
+    "people": [
+      "Chen Wen-chang",
+      "Chien Shiuh-shen"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 13,
+    "title": "Canada BANS Social Media for Minors! But There's a Catch...",
+    "summary": "Canada has joined an international coalition introducing legislation to ban social media and AI chatbots for individuals under sixteen. However, digital policy experts argue these mandates are technically unenforceable, as adolescents easily bypass age estimation technologies using AI-generated spoofing and cryptographic evasion.",
+    "engagement": "High",
+    "raw_text": "Canada just dropped a massive legislative bomb: they are completely banning social media and AI chatbots for anyone under 16 years old!. They’re joining a bunch of other countries trying to shield teenagers' brains from toxic, addictive algorithms. But here is the crazy part—digital forensics experts are saying this law is absolutely doomed to fail. Why? Because teenagers are literally using AI to beat the system!. They are deploying sophisticated AI-generated spoofing photos to trick age verification software into thinking they are adults. We already saw Australia try this exact same ban last year, and it was a total disaster because kids just bypass the digital fences. Experts are warning that these performative bans just give parents a false sense of security while ignoring the underlying addictive algorithms. Until we force the tech giants to change the platforms themselves, these bans are totally useless. Do you think kids should be banned from social media?",
+    "id": "g3H4i5J6",
+    "category": "Mobile",
+    "companies": [],
+    "people": [
+      "Ian Duncan"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  },
+  {
+    "date": "2026-06-13",
+    "source_file": "Tech News Aggregation With Exclusion List (8).pdf",
+    "page": 14,
+    "title": "AI is Taking Over the 2026 World Cup! No More Human Referees?",
+    "summary": "A strategic partnership between Adidas and Lenovo has transformed the upcoming 2026 FIFA World Cup into a heavily monitored IoT environment. The deployment of the edge-computing integrated Adidas Trionda ball will continuously transmit sub-millisecond kinetic data, fundamentally eliminating human error in complex officiating decisions.",
+    "engagement": "High",
+    "raw_text": "Soccer fans, you are going to lose your minds over this. The 2026 FIFA World Cup is officially going to be the most high-tech sporting event in human history, and it might just mean the end of terrible referee calls forever. Adidas and Lenovo just announced an insane partnership that essentially turns the entire playing field into a giant, intelligent supercomputer. They’re introducing the new Adidas Trionda ball, which is literally packed with physical AI and IoT sensors. This ball streams precise spatial and impact data directly to edge computing servers built into the stadium. Because the processing happens locally at the edge, the system tracks every single movement with sub-millisecond latency. Meaning, controversial handballs and microscopic offside calls are going to be judged with absolute mathematical perfection. No more human error. Honestly, this is wild. Are we ready for robots to basically referee the World Cup?",
+    "id": "k7L8m9N0",
+    "category": "Hardware",
+    "companies": [
+      "Adidas",
+      "Lenovo",
+      "FIFA"
+    ],
+    "people": [
+      "Alice Chambers"
+    ],
+    "created_at": "2026-06-14T09:51:37+05:30"
+  }
+]
