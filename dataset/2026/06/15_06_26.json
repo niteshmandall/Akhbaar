@@ -7,7 +7,7 @@
     "summary": "The United States Commerce Department has invoked emergency export controls to globally suspend Anthropic's Claude Fable 5 and Mythos 5 models. This unprecedented action was triggered by a reported jailbreak exploit highlighting severe national security and cybersecurity vulnerabilities.",
     "engagement": "High",
     "raw_text": "So check this out, the U.S. government just dropped a massive hammer on the AI industry. Literally, out of nowhere, the Commerce Department slapped emergency export controls on Anthropic's newest models, Claude Fable 5 and Mythos 5, forcing a total global shutdown. Why? Because Mythos 5 is apparently the ultimate hacker AI, capable of finding zero-day exploits on its own. An unnamed group claimed they successfully jailbroke the safety features, and the Trump administration freaked out over national security risks. Honestly, this is huge. It means the government is treating language models like actual weapons. If you aren't based in the U.S., you just lost access, zero warning. Is this the start of global AI fragmentation? Let me know in the comments.",
-    "id": "A1B2C3D4E5",
+    "id": "37b7106a",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -17,7 +17,9 @@
       "Howard Lutnick",
       "Dario Amodei"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/37b7106a.png",
+    "image_prompt": "Photorealistic newsroom scene with a tense U.S. government vibe: blurred officials, a glowing server rack labeled \u201cAI,\u201d a stark American flag reflection on glass, dark cybersecurity cables, warning-red lighting, dramatic shadows, shallow depth of field, ultra-detailed, high contrast, no text."
   },
   {
     "date": "2026-06-14",
@@ -26,8 +28,8 @@
     "title": "Elon Musk Drops $60 BILLION on AI Coding App Cursor!",
     "summary": "SpaceX has agreed to a $60 billion call option to acquire the AI coding assistant Cursor later in the 2026 fiscal year. The deal features a historic $10 billion breakup fee, allowing Cursor to integrate directly with SpaceX's massive silicon superclusters.",
     "engagement": "High",
-    "raw_text": "Here's the wild part: Elon Musk's SpaceX just made one of the most aggressive software deals in history. They secured an option to buy Cursor, the massive AI coding tool, for an insane 60 billion dollars! And get this—if SpaceX backs out, they owe Cursor a 10 billion dollar breakup fee. That is 17 percent of the deal! Cursor has been burning about 900 million dollars a year on compute costs , so they desperately need native hardware access. Now, they get to plug directly into the 'Colossus' supercluster, completely bypassing external API fees. SpaceX isn't just about rockets anymore; they are literally building a vertically integrated 'neocloud' to take on Amazon and Microsoft. I've been using Cursor daily, and this move changes everything.",
-    "id": "F6G7H8I9J0",
+    "raw_text": "Here's the wild part: Elon Musk's SpaceX just made one of the most aggressive software deals in history. They secured an option to buy Cursor, the massive AI coding tool, for an insane 60 billion dollars! And get this\u2014if SpaceX backs out, they owe Cursor a 10 billion dollar breakup fee. That is 17 percent of the deal! Cursor has been burning about 900 million dollars a year on compute costs , so they desperately need native hardware access. Now, they get to plug directly into the 'Colossus' supercluster, completely bypassing external API fees. SpaceX isn't just about rockets anymore; they are literally building a vertically integrated 'neocloud' to take on Amazon and Microsoft. I've been using Cursor daily, and this move changes everything.",
+    "id": "623e287a",
     "category": "Business",
     "companies": [
       "SpaceX",
@@ -37,28 +39,32 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/623e287a.png",
+    "image_prompt": "Realistic high-tech news image: Elon Musk in a sleek control-room foreground, holographic AI code streams swirling beside him, SpaceX rocket launch pad and futuristic silicon server \u201csuperclusters\u201d glowing in the background, dramatic cinematic lighting, crisp detail, neutral color grading, no text, no logos."
   },
   {
     "date": "2026-05-20",
     "source_file": "Tech News Aggregator Report Request (3).pdf",
     "page": 4,
     "title": "OpenAI Just Solved an 80-Year-Old Math Mystery!",
-    "summary": "An internal OpenAI reasoning model has autonomously generated a formal mathematical proof disproving the 1946 Erdős planar unit-distance conjecture. Utilizing concepts like infinite class field towers, the AI established a definitive lower bound that was vetted by human experts including Fields Medalist Timothy Gowers.",
+    "summary": "An internal OpenAI reasoning model has autonomously generated a formal mathematical proof disproving the 1946 Erd\u0151s planar unit-distance conjecture. Utilizing concepts like infinite class field towers, the AI established a definitive lower bound that was vetted by human experts including Fields Medalist Timothy Gowers.",
     "engagement": "High",
-    "raw_text": "Guys, AI just crossed a line I didn't think we'd see for another decade. OpenAI's internal reasoning model literally disproved an 80-year-old math problem called the Erdős unit-distance conjecture. Paul Erdős posed this problem back in 1946, and it has stumped mathematicians ever since. But the AI engineered a bridge between algebraic number theory and elementary geometry to prove it wrong! Human experts, including Fields Medalist Timothy Gowers, actually verified the proof, so it is 100 percent legit. This is totally unprecedented because it wasn't a specialized math bot; it used the same general reasoning architecture that writes your emails. We've officially moved from AI just matching patterns to actually generating original human knowledge. The AGI timeline might be shrinking faster than we realize!",
-    "id": "K1L2M3N4O5",
+    "raw_text": "Guys, AI just crossed a line I didn't think we'd see for another decade. OpenAI's internal reasoning model literally disproved an 80-year-old math problem called the Erd\u0151s unit-distance conjecture. Paul Erd\u0151s posed this problem back in 1946, and it has stumped mathematicians ever since. But the AI engineered a bridge between algebraic number theory and elementary geometry to prove it wrong! Human experts, including Fields Medalist Timothy Gowers, actually verified the proof, so it is 100 percent legit. This is totally unprecedented because it wasn't a specialized math bot; it used the same general reasoning architecture that writes your emails. We've officially moved from AI just matching patterns to actually generating original human knowledge. The AGI timeline might be shrinking faster than we realize!",
+    "id": "6e99bbc4",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [
-      "Paul Erdős",
+      "Paul Erd\u0151s",
       "Timothy Gowers",
       "Will Sawin",
       "Scott Aaronson"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/6e99bbc4.png",
+    "image_prompt": "Photoreal editorial scene: researchers in a modern OpenAI-style lab monitor geometric graphs and proof diagrams glowing on translucent screens; moody blue lighting, subtle fractal patterns, mathematic icons, tense futuristic atmosphere, shallow depth of field, ultra-realistic, high detail, news photo quality, no text."
   },
   {
     "date": "2026-06-14",
@@ -68,7 +74,7 @@
     "summary": "Google Research has introduced TurboQuant, a revolutionary compression algorithm that achieves a 6x memory reduction in LLM inference. The architecture circumvents traditional Key-Value cache bottlenecks with zero accuracy loss, enabling frontier AI agents to run on local hardware.",
     "engagement": "Medium",
     "raw_text": "Tired of paying cloud providers for AI access? Google Research just dropped a bombshell called TurboQuant. Basically, when large language models generate text, they use something called a Key-Value cache which eats up massive amounts of GPU memory. TurboQuant completely bypasses the normal block normalization steps using some crazy math like random preconditioning, shrinking the memory footprint by a factor of six! And the best part? It has zero accuracy loss at 3.5 bits per channel. This isn't just an abstract paper; in testing on Nvidia H100 GPUs, it ran up to 8 times faster for computing attention. The reality is we are moving away from brute-force hardware and toward insane algorithmic efficiency. Very soon, you'll be running insanely smart AI agents natively on your own local hardware.",
-    "id": "P6Q7R8S9T0",
+    "id": "2200c19c",
     "category": "Science",
     "companies": [
       "Google",
@@ -80,7 +86,9 @@
       "Majid Daliri",
       "Majid Hadian"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/2200c19c.png",
+    "image_prompt": "Futuristic news-style scene: sleek local workstation with glowing AI cores, visible data streams flowing into a compact \u201ccompressed\u201d memory module, subtle circuit-grid background, cool blue lighting, professional realism, high contrast, shallow depth of field, crisp details, no text."
   },
   {
     "date": "2026-06-14",
@@ -90,7 +98,7 @@
     "summary": "Grassroots opposition and legislative moratoriums successfully halted at least 75 major AI data center projects valued at $130 billion in Q1 2026. Citizens are mobilizing across 49 states to protest the severe impacts on local energy grids, water consumption, and utility costs.",
     "engagement": "Medium",
     "raw_text": "You won't believe the roadblock the AI industry just hit. In just the first three months of 2026, local protests blocked 130 billion dollars' worth of hyperscale data centers across the US. That is 75 major projects halted! We aren't talking about a few angry neighbors; this is a highly organized movement across 49 states. People are realizing that these massive AI computing hubs are draining the local energy grids, jacking up utility rates, and consuming insane amounts of water for cooling. Politicians are even proposing statewide bans on data centers. Some lawmakers tried to blame foreign dark money , but data analysts confirmed it is a 100 percent organic, grassroots movement driven by angry citizens. If the tech giants can't build the physical infrastructure, the whole AI bubble might actually burst.",
-    "id": "U1V2W3X4Y5",
+    "id": "1f78c11b",
     "category": "Business",
     "companies": [
       "Data Center Watch",
@@ -107,17 +115,19 @@
       "Kash Patel",
       "Dina Sadek"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/1f78c11b.png",
+    "image_prompt": "Photorealistic news photo: diverse protesters with placards and banners (no text) blocking a fenced AI data center construction site; dusk sky, police barricades, cranes idle. Background shows massive server building silhouettes, power lines, water pipes. Intense, dramatic, documentary mood."
   },
   {
     "date": "2026-06-11",
     "source_file": "Tech News Aggregator Report Request (3).pdf",
     "page": 15,
-    "title": "Google Drops Gemini 3.5 Flash – Is it Better Than ChatGPT?",
+    "title": "Google Drops Gemini 3.5 Flash \u2013 Is it Better Than ChatGPT?",
     "summary": "Alphabet CEO Sundar Pichai announced the immediate public availability of the Gemini 3.5 Flash model ahead of Google I/O 2026. The model is integrated directly into the core Gemini application, with the flagship Gemini 3.5 Pro scheduled for release in the coming weeks.",
     "engagement": "High",
     "raw_text": "The AI wars are heating up again! Right before the Google I/O keynote, CEO Sundar Pichai just shadow-dropped Gemini 3.5 Flash. You can literally access it right now inside the main Gemini app. Google is moving incredibly fast right now, desperately trying to keep their enterprise cloud dominance safe from OpenAI and Anthropic. But here's the real kicker: Pichai also confirmed that the massive flagship model, Gemini 3.5 Pro, is currently in internal testing and will roll out in the next few weeks. I'm going to be putting Flash through some hardcore prompt testing today, so hit subscribe if you want to see if it actually crushes the competition.",
-    "id": "Z6A7B8C9D0",
+    "id": "bd316f7d",
     "category": "AI",
     "companies": [
       "Google",
@@ -128,7 +138,9 @@
     "people": [
       "Sundar Pichai"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/bd316f7d.png",
+    "image_prompt": "Photorealistic newsroom scene with a sleek Google-style AI assistant hologram emerging from a smartphone, subtle circuit patterns, modern tech ambiance, CEO silhouette at press backdrop, soft blue lighting, shallow depth of field, high contrast, realistic reflections, no text."
   },
   {
     "date": "2026-06-13",
@@ -138,31 +150,35 @@
     "summary": "A major payments consortium has announced the upcoming rollout of ZelleUSD (ZLUSD), a proprietary U.S. dollar-backed stablecoin. The initiative aims to modernize traditional financial networks, targeting the massive international remittance corridor between the United States and India.",
     "engagement": "Medium",
     "raw_text": "Traditional finance is finally embracing crypto. A massive payments consortium just announced they are rolling out ZelleUSD, a fully U.S. dollar-backed stablecoin. Yep, you heard that right, ZLUSD is coming. Their main target is the gigantic international payment corridor between the US and India, which is currently the biggest remittance market in the world. They want to bypass the slow, legacy banking system entirely by using blockchain architectures. At the exact same time, the Financial Stability Board is putting out strict new rules for AI in banking, worrying that a few tech monopolies might control the entire global financial system. So while AI is getting regulated, crypto might actually be becoming the standard for your everyday cross-border transfers.",
-    "id": "E1F2G3H4I5",
+    "id": "df414b4e",
     "category": "Business",
     "companies": [
       "Zelle",
       "Financial Stability Board"
     ],
     "people": [],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/df414b4e.png",
+    "image_prompt": "Ultra-realistic news photo style: sleek futuristic payment hub with glowing circuit lines over a subtle US\u2013India map, silhouetted fintech executives in suits at a glass control room, warm newsroom lighting, shallow depth of field, dramatic blue-gold tones, high detail, no text, no logos."
   },
   {
     "date": "2026-06-14",
     "source_file": "Tech News Aggregator Report Request (3).pdf",
     "page": 14,
-    "title": "A Hydrogen Airship Just Flew Over Paris! 🎈",
-    "summary": "The French firm HyLight successfully piloted an autonomous, zero-emission hydrogen airship over a pedestrianized Champs-Élysées to preview the VivaTech 10th-anniversary exhibition. The sustainable dirigible is designed to replace polluting helicopters for surveying critical infrastructure, offering up to 10 hours of operational endurance.",
+    "title": "A Hydrogen Airship Just Flew Over Paris!",
+    "summary": "The French firm HyLight successfully piloted an autonomous, zero-emission hydrogen airship over a pedestrianized Champs-\u00c9lys\u00e9es to preview the VivaTech 10th-anniversary exhibition. The sustainable dirigible is designed to replace polluting helicopters for surveying critical infrastructure, offering up to 10 hours of operational endurance.",
     "engagement": "Medium",
-    "raw_text": "I am absolutely blown away by what just happened in Paris. To kick off the 10th anniversary of the VivaTech fair, they literally shut down all traffic on the Champs-Élysées and flew a massive autonomous hydrogen airship right down the avenue! Built by a French startup called HyLight, this thing looks like science fiction. It operates in near-total silence, runs entirely on hydrogen propulsion, and produces zero emissions—just water vapor. They built this to replace loud, dirty helicopters that currently inspect railway and energy pipelines. This dirigible can fly for 10 straight hours and map 350 kilometers in one go. Honestly, it's so refreshing to see sustainable hardware that actually works. You can literally go see it hovering over the Paris Expo this week.",
-    "id": "J6K7L8M9N0",
+    "raw_text": "I am absolutely blown away by what just happened in Paris. To kick off the 10th anniversary of the VivaTech fair, they literally shut down all traffic on the Champs-\u00c9lys\u00e9es and flew a massive autonomous hydrogen airship right down the avenue! Built by a French startup called HyLight, this thing looks like science fiction. It operates in near-total silence, runs entirely on hydrogen propulsion, and produces zero emissions\u2014just water vapor. They built this to replace loud, dirty helicopters that currently inspect railway and energy pipelines. This dirigible can fly for 10 straight hours and map 350 kilometers in one go. Honestly, it's so refreshing to see sustainable hardware that actually works. You can literally go see it hovering over the Paris Expo this week.",
+    "id": "a613ae2c",
     "category": "Hardware",
     "companies": [
       "HyLight",
       "Google"
     ],
     "people": [],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/a613ae2c.png",
+    "image_prompt": "Realistic high-quality news photo of an autonomous hydrogen airship gliding above Paris\u2019 pedestrianized Champs-\u00c9lys\u00e9es at golden hour, soft clouds, warm streetlights, crowds watching from below, modern futuristic dirigible details, zero-emission concept, crisp focus, cinematic wide shot."
   },
   {
     "date": "2026-06-14",
@@ -172,7 +188,7 @@
     "summary": "Indian Prime Minister Narendra Modi and French President Emmanuel Macron jointly inaugurated the 'Bharat Innovates 2026' summit in Nice, France, showcasing 120 Indian deep-tech startups. The strategic delegation highlighted sovereign breakthroughs in space propulsion, aerospace autonomy, and edge AI semiconductor manufacturing.",
     "engagement": "Low",
     "raw_text": "India is making a massive power play in the global tech scene, and nobody is talking about it. Prime Minister Modi and French President Macron just inaugurated the Bharat Innovates 2026 summit in Nice, France. Instead of basic IT software, India brought 120 elite deep-tech startups showcasing things like plasma spacecraft thrusters that run on water, autonomous drone swarms for GPS-denied combat zones, and native edge AI chips built on 12-nanometer processes. Startups like Bellatrix Aerospace and Netrasemi are proving that India is transitioning from just writing code to building sovereign, hard-tech hardware. Collectively, these startups have raised over 1.5 billion dollars and hold 1,500 patents. The message to the West is clear: India isn't just a consumer anymore; they are creating foundational intellectual property for the world.",
-    "id": "O1P2Q3R4S5",
+    "id": "66ceafb5",
     "category": "Science",
     "companies": [
       "Bellatrix Aerospace",
@@ -188,7 +204,9 @@
       "Emmanuel Macron",
       "Dharmendra Pradhan"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/66ceafb5.png",
+    "image_prompt": "Realistic high-quality photojournalism: Narendra Modi and Emmanuel Macron at a modern summit stage in Nice, France, warm evening lights, diverse Indian deep-tech founders behind, holographic tech visuals (space propulsion, aerospace, edge AI chips) in the background, suited delegates, confident diplomatic mood, shallow depth of field."
   },
   {
     "date": "2026-06-14",
@@ -198,7 +216,7 @@
     "summary": "Starbucks CEO Brian Niccol is heavily investing in 'invisible' AI to optimize supply chains, predictive inventory, and dynamic workforce scheduling. Instead of customer-facing chatbots, the retail giant is focusing on back-end operational flows to generate massive financial returns and margin expansion.",
     "engagement": "Low",
     "raw_text": "While everyone is arguing about ChatGPT and Gemini, Starbucks is executing a masterclass in what they call 'Invisible AI'. CEO Brian Niccol isn't building a goofy barista chatbot that hallucinates your coffee order. Instead, they are pouring millions into back-end AI for hardcore supply chain optimization, predicting exactly what inventory a store needs before they know it, and dynamically scheduling the workforce. It is totally invisible to the customer. Honestly, this is where the real money is in 2026. The companies that use AI to fix their operational bottlenecks and expand their margins are going to win the next decade. So next time you grab your morning coffee, just know an incredibly advanced predictive model probably made sure those beans were in stock.",
-    "id": "T6U7V8W9X0",
+    "id": "00ee69ef",
     "category": "Business",
     "companies": [
       "Starbucks"
@@ -206,6 +224,8 @@
     "people": [
       "Brian Niccol"
     ],
-    "created_at": "2026-06-14T21:56:06+05:30"
+    "created_at": "2026-06-14T21:56:06+05:30",
+    "image_url": "images/15_06_26/00ee69ef.png",
+    "image_prompt": "Realistic news photo style: Starbucks HQ at dusk, softly lit windows; faint holographic network/flow lines blending into warehouses and delivery routes; subtle AI chip glow in shadows; warehouse workers and managers with tablets, motion blur logistics, corporate calm, high detail, cinematic lighting, no text."
   }
 ]
