@@ -1,0 +1,185 @@
+[
+  {
+    "date": "2026-06-19",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "The Government Just Banned This AI With Only 90 Minutes Notice!",
+    "summary": "The Trump administration issued an emergency export control directive forcing Anthropic to immediately suspend global access to its Fable 5 and Mythos 5 models outside the US. Citing unspecified national security threats regarding advanced cybersecurity, the order gave executives less than two hours to comply.",
+    "engagement": "High",
+    "raw_text": "So check this out, the US government just did something completely unprecedented in the history of AI! Out of absolutely nowhere, the Trump administration dropped a massive hammer on Anthropic, ordering an emergency global ban on their brand-new Fable 5 and Mythos 5 models. Get this: Anthropic executives were given a mere 90 minutes to shut down access for everyone outside the United States! Honestly, this is huge because Fable 5 is their absolute flagship model, packed with a mind-blowing 1-million-token context window designed for crazy advanced agentic workflows. Here's the wild part: Anthropic actually spent thousands of hours red-teaming this model side-by-side with US and UK safety institutes and had explicit approval to launch it! Then, boom, the government reverses course overnight, claiming a massive 'national security threat' over potential cybersecurity exploits. If you're a developer relying on third-party APIs, this is a total wake-up call. If the government can geo-fence a frontier model in under two hours, no one is safe. We are looking at a whole new era of tech regulation, and it is getting wild out there!",
+    "id": "antf5_2026",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Amazon"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "Global Technology & Artificial Intelligence Market Intelligence Report",
+    "page": 11,
+    "title": "Amazon Just KILLED The $40M Sam Altman Movie To Protect OpenAI Deal!",
+    "summary": "Amazon MGM Studios has abruptly canceled the distribution rights for 'Artificial,' a nearly finished $40 million biographical film about OpenAI CEO Sam Altman directed by Luca Guadagnino. The decision closely follows a massive $50 billion strategic investment and cloud computing partnership established between Amazon and OpenAI earlier this year.",
+    "engagement": "High",
+    "raw_text": "You cannot make this stuff up! Amazon MGM Studios just completely axed the distribution rights for 'Artificial'—a nearly completed, forty-million-dollar biopic detailing the infamous 2023 firing and rehiring of OpenAI CEO Sam Altman. The movie was being directed by the legendary Luca Guadagnino and literally starred Andrew Garfield as Sam Altman! So why did Amazon kill it right before the finish line? Well, here’s the wild part: it all comes down to a staggering fifty-billion-dollar partnership that Amazon recently struck with OpenAI. Yep, Amazon Web Services is heavily tied up with OpenAI Frontier, and they're running OpenAI tasks on their proprietary Trainium chips. Rumor has it the film portrayed OpenAI co-founder Ilya Sutskever as the moral hero and painted Altman in a pretty unflattering light. Faced with a choice between releasing a Hollywood critique or protecting a fifty-billion-dollar tech alliance, Amazon chose the money and buried the movie. Honestly, this shows the terrifying amount of soft power these AI hyper-scalers now wield over our culture. The film is now being shopped to other studios, and I seriously hope someone picks it up!",
+    "id": "samalt_movie",
+    "category": "Business",
+    "companies": [
+      "Amazon",
+      "Amazon MGM Studios",
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman",
+      "Luca Guadagnino",
+      "Andrew Garfield",
+      "Ilya Sutskever",
+      "Yura Borisov",
+      "Elon Musk",
+      "Ike Barinholtz",
+      "Jason Schwartzman",
+      "Mark Rylance",
+      "Simon Rich"
+    ],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "ChatGPT AI & Tech News",
+    "page": 2,
+    "title": "Elon Musk Just Launched AI Into Orbit! Inside SpaceX’s New Space Data Center",
+    "summary": "SpaceX has unveiled its first orbital data center satellite, named 'AI1,' which features a 150 kW compute payload and 70-meter solar wings. The company has filed plans with the FCC aiming to potentially launch up to one million of these satellites to establish space-based AI infrastructure.",
+    "engagement": "High",
+    "raw_text": "Elon Musk is officially taking the AI arms race to literal outer space! SpaceX just unveiled its very first orbital data center satellite, fittingly named AI1. This thing is an absolute beast, carrying a massive 150-kilowatt compute payload and rocking giant 70-meter solar wings to keep it powered up in orbit. But here is the wild part: SpaceX just filed paperwork with the FCC revealing a mind-blowing long-term plan to launch up to one million of these AI satellites! We are talking about building a literal constellation of space-based AI data centers. Think about it—by moving compute clusters into space, you completely bypass the brutal energy grid constraints and terrestrial land issues that tech giants are fighting over right now on Earth. Plus, it offers unprecedented global data sovereignty. Love him or hate him, Elon is playing 4D chess here. While everyone else is fighting over local electricity lines, SpaceX is just going straight to the sun for energy. This is easily one of the coolest and most futuristic tech developments I've seen all year!",
+    "id": "spcx_orbit",
+    "category": "Space",
+    "companies": [
+      "SpaceX"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "ChatGPT AI & Tech News",
+    "page": 2,
+    "title": "This Popular Shoe Brand Just Quit Fashion To Become An AI Startup?!",
+    "summary": "Former sustainable footwear retailer Allbirds has officially sold its shoe unit for $43 million and pivoted into an AI infrastructure startup renamed 'Smartbird.' Backed by an additional $100 million in funding and led by former AWS executive Nadia Carlsten, the company will build private AI compute clusters focused on data sovereignty.",
+    "engagement": "High",
+    "raw_text": "Okay, this has got to be the most bizarre corporate pivot in tech history! You guys remember Allbirds, the company famous for making those super cozy, sustainable wool running shoes? Well, they just completely quit the shoe business! They sold off their entire footwear unit for forty-three million dollars, raised another hundred million, and just relaunched as an AI infrastructure startup called Smartbird. Yes, you heard that right—wool shoes to AI servers! Their new CEO is Nadia Carlsten, a heavy hitter who used to be at AWS. Instead of fighting the massive public cloud monopolies, Smartbird is targeting a highly specialized niche: building ultra-secure, private AI compute clusters for industries that demand absolute data sovereignty, like pharma, energy, and finance. It's basically a boutique 'neocloud' for companies that don't trust standard public servers with their secret formulas. Honestly, it sounds crazy on paper, but given how desperate enterprises are for secure AI infrastructure right now, this madness might actually work. What a time to be alive!",
+    "id": "allb_smart",
+    "category": "Business",
+    "companies": [
+      "Allbirds",
+      "Smartbird"
+    ],
+    "people": [
+      "Nadia Carlsten"
+    ],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "Global Technology & Artificial Intelligence Market Intelligence Report",
+    "page": 32,
+    "title": "Google AI Caught Telling People That Creepypasta Monsters Are Real!",
+    "summary": "Investigations have revealed that Google's AI Overviews feature repeatedly presented fictional entries from the SCP Foundation horror fan-fiction project as real-world facts. The retrieval-augmented generation failures occurred in at least 20 documented instances, exposing vulnerabilities in how the system screens source authority.",
+    "engagement": "High",
+    "raw_text": "Google's AI is back at it again with some absolutely hilarious, yet terrifyingly bad hallucinations! So check this out: a new investigation just revealed that Google’s flagship AI Overviews feature has been confidently telling users that internet horror monsters are real. We're talking about the SCP Foundation, which is a massive online collaborative creepypasta and sci-fi fan-fiction project. Because these fictional entries are written in a super official, encyclopedic tone, Google’s AI completely fell for it. In at least 20 documented cases, the AI ingested the text as absolute historical truth and spat it out as answers to real queries! This is a textbook breakdown of Google’s retrieval-augmented generation systems, failing to distinguish between an authoritative database and internet fiction. It’s a huge mess for user trust, especially since AI Overviews now show up on up to 40% of all search queries. Marketing agencies are literally rewriting their playbooks just to protect clients from being misrepresented by these broken algorithms. Check your sources, folks, because the internet is getting weird!",
+    "id": "goog_scp",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-08",
+    "source_file": "ChatGPT AI & Tech News",
+    "page": 1,
+    "title": "Siri Is Finally Smart! Apple Just Unveiled Apple Intelligence At WWDC",
+    "summary": "At WWDC 2026, Apple announced a massive overhaul of its AI capabilities under the brand 'Apple Intelligence,' featuring a completely redesigned Siri. The updated assistant is context-aware, capable of interacting with on-screen content, and securely leverages cross-app personal data across iOS and macOS 27.",
+    "engagement": "High",
+    "raw_text": "Apple just completely changed the game for how we use our iPhones and Macs! At WWDC, they finally dropped the curtain on their massive AI overhaul, officially dubbed 'Apple Intelligence.' And yes, the headline here is that Siri is getting a total brain transplant. The new Siri is deeply integrated into iOS 27 and macOS 27, making it way more context-aware than ever before. It can literally look at whatever is on your screen, understand it, and execute complex commands. Need it to grab personal details from a random message thread, cross-reference it with a photo, and fetch a live update from the web? Done. The best part is Apple’s unique privacy-first architecture, which processes as much as possible on-device or through highly secure cloud nodes. Instead of just being a voice command tool to set timers, Siri is evolving into a genuinely proactive personal assistant. This is the massive upgrade Apple users have been waiting for, and it feels like the future is finally sitting in our pockets!",
+    "id": "appl_intel",
+    "category": "Mobile",
+    "companies": [
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "ChatGPT AI & Tech News",
+    "page": 2,
+    "title": "Waymo Issues Massive Robotaxi Recall Over Blind Spots In Construction Zones",
+    "summary": "Waymo has issued a voluntary recall for 3,900 autonomous vehicles in the United States following a software bug that caused robotaxis to misidentify freeway ramp closures and construction signs. This marks the company's second safety-related recall filed with the NHTSA within a single month.",
+    "engagement": "Medium",
+    "raw_text": "Alphabet’s autonomous vehicle division, Waymo, just issued a massive voluntary recall for thirty-nine hundred of its self-driving robotaxis across the US. Here's the wild part: this is actually their second major safety recall in a single month! This time around, they filed with the NHTSA because of a critical software bug where the cars were failing to recognize freeway ramp closures and construction zone signs. Imagine riding in the back of a driverless car heading straight into an active construction area—definitely not a vibe! Waymo has already deployed a software patch to fix the glitch, but it highlights the serious real-world safety hurdles that self-driving tech still faces. They're also dealing with some regulatory heat after separate incidents, like a vehicle illegally passing a stopped school bus. Look, I love the idea of a driverless future, but these back-to-back software bugs show that even the industry leaders have a long way to go before autonomous cars can handle the chaos of everyday city streets flawlessly.",
+    "id": "waym_rec",
+    "category": "Hardware",
+    "companies": [
+      "Waymo",
+      "Alphabet"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "ChatGPT AI & Tech News",
+    "page": 1,
+    "title": "How ONE 13-Word Reddit Comment Can Hack High-Tech AI Search Engines!",
+    "summary": "Security researchers at Cornell Tech discovered a critical vulnerability called 'WARP' (Web Agent Retrieval Poisoning), proving that a simple 13-word comment on a popular site like Reddit can manipulate AI search agents. The exploit forces AI assistants to cite fabricated information and distribute malicious links across unrelated queries.",
+    "engagement": "Medium",
+    "raw_text": "We have an absolute game-changer in the world of cybersecurity and it proves just how fragile modern AI systems really are. Researchers over at Cornell Tech just uncovered a mind-blowing exploit called 'WARP'—which stands for Web Agent Retrieval Poisoning. Get this: they proved that adding a single, tiny, thirteen-word comment to a popular Reddit page can completely poison advanced AI search assistants like OpenAI's Deep Research! Because these AI search bots continuously crawl community content, attackers can craft a brief line of text that tricks the AI into validating fake information and promoting malicious links across entirely unrelated search queries. It is shockingly simple to pull off and exposes a massive vulnerability in how AI validates truth on the open web. This discovery is basically firing the starting gun for an era of AI SEO warfare, where hackers can stealthily manipulate search responses with a single sentence. Security teams are scrambling to patch this pattern, but it's a stark reminder that AI agents are only as smart as the data they ingest!",
+    "id": "corn_warp",
+    "category": "Science",
+    "companies": [
+      "Cornell Tech",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "Global Technology & Artificial Intelligence Market Intelligence Report",
+    "page": 25,
+    "title": "Databricks Unveils 'Genie One' To Launch The Era Of Autonomous B2B AI Agents",
+    "summary": "Databricks announced its new 'Genie One' suite and a major Lake Transactional/Analytical Processing (LTAP) architectural shift at its Data + AI Summit. Powered by the Reyden compute engine, the updates deliver sub-100 millisecond latencies allowing thousands of concurrent AI agents to query enterprise data lakes directly.",
+    "engagement": "Low",
+    "raw_text": "Alright, let's talk enterprise tech because Databricks just dropped a massive architectural update at their Data + AI Summit that is going to fundamentally reshape how big businesses run. They just unveiled 'Genie One,' an AI-powered agentic system that transforms traditional, passive corporate data lakes into active, autonomous digital coworkers. Instead of writing complex SQL queries, non-technical business teams can use Genie to handle complex multi-step workflows across finance and sales automatically. Under the hood, Databricks is introducing something called LTAP—Lake Transactional/Analytical Processing—powered by a blazing fast new compute engine called Reyden. This allows real-time data queries with sub-100 millisecond latencies, meaning tens of thousands of corporate AI agents can hit the company's data simultaneously without breaking a sweat. To top it off, they are tossing out traditional seat-based licenses and giving away ten dollars of free AI compute per user every month. While it's heavy B2B enterprise software, this structural shift is going to turbocharge how corporations deploy internal AI automation over the next decade.",
+    "id": "db_genie",
+    "category": "Business",
+    "companies": [
+      "Databricks"
+    ],
+    "people": [],
+    "created_at": "2026-06-19T22:45:10Z"
+  },
+  {
+    "date": "2026-06-19",
+    "source_file": "Global Technology & Artificial Intelligence Market Intelligence Report",
+    "page": 16,
+    "title": "NVIDIA Raises $25 Billion In Historic Corporate Bond Deal For AI Infrastructure",
+    "summary": "NVIDIA successfully executed an upscale $25 billion corporate bond offering to fund long-term supply chain obligations and its upcoming Vera Rubin data center platform. The debt sale drew over $85 billion in market orders, securing long-dated capital with maturity tranches extending out to 2056.",
+    "engagement": "Low",
+    "raw_text": "Shifting focus to the high-stakes world of corporate finance, NVIDIA just pulled off its largest debt sale in company history. They successfully priced a massive twenty-five billion dollar corporate bond offering, and Wall Street went absolutely wild for it, throwing down over eighty-five billion dollars in total orders. This massive demand allowed NVIDIA to scale up the deal from its initial twenty billion target and secure long-dated capital stretching all the way out to 2056! Now, what makes this fascinating from a corporate strategy perspective is that NVIDIA doesn't actually need the cash right now—they are sitting on forty billion dollars in negative net debt and churning out record free cash flows. Instead, CFO Colette Kress is smartly locking in cheap, long-term financing at the peak of the tech cycle to fund their staggering one hundred and twenty-four billion dollars in forward supply chain obligations and the rollout of their next-gen Vera Rubin data center platform. It's a massive macro-level bet that the AI hardware infrastructure boom is a multi-decade cycle, guaranteeing financial flexibility for the next thirty years.",
+    "id": "nvda_bond",
+    "category": "Business",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [
+      "Colette Kress"
+    ],
+    "created_at": "2026-06-19T22:45:10Z"
+  }
+]
