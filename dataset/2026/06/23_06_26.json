@@ -1,200 +1,220 @@
 [
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 1,
-        "title": "US Government BAN! Anthropic's Claude Fable 5 Abruptly Shut Down Worldwide!",
-        "summary": "The US Commerce Department implemented sweeping export controls on Anthropic's Claude Fable 5 and Mythos 5 models. Due to technical limitations in verifying user nationalities in real-time, Anthropic disabled global access entirely.",
-        "engagement": "High",
-        "raw_text": "So check this out, the US government just dropped an absolute bomb on the AI world! They literally forced Anthropic to pull the plug on their brand new models, Claude Fable 5 and Mythos 5, globally! Why? Because the Commerce Department treated the software weights like restricted, military-grade weapons. Fable 5 was absolutely crushing it, scoring over 80% on the SWE-Bench Pro coding test, beating out OpenAI's GPT-5.5! But here's the wild part: within just 72 hours of launch, researchers found a jailbreak that could let anyone use it to hunt for zero-day cyber vulnerabilities. Panic mode activated! The government demanded Anthropic block all foreign nationals from using it. Since real-time nationality verification across an API is completely impossible, Anthropic had to just shut the whole thing down worldwide. Honestly, this is huge. Cyber experts are already screaming that pulling defensive AI from allies while bad actors build their own open-source models is a massive strategic blunder. What do you think? Is this national security or straight-up government overreach?",
-        "id": "a7b9c2d1",
-        "category": "AI",
-        "companies": [
-            "Anthropic",
-            "Amazon"
-        ],
-        "people": [
-            "Howard W. Lutnick",
-            "Dario Amodei",
-            "Alex Stamos",
-            "Philip Zimmermann"
-        ],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 1,
-        "title": "GOVERNMENTS IN DANGER? Five Eyes Issues Terrifying Warning on Agentic AI!",
-        "summary": "The Five Eyes intelligence alliance released a joint advisory warning that advanced frontier AI models capable of autonomously disrupting businesses and governments are months away. The agencies emphasized that independent 'agentic AI' will drastically accelerate cyber threats.",
-        "engagement": "High",
-        "raw_text": "Alright, if you thought the Anthropic ban was crazy, here is why the government is panicking. The Five Eyes intelligence alliance—we're talking the US, UK, Canada, Australia, and New Zealand—just released a terrifying joint advisory. They are warning that rogue frontier AI models capable of autonomously taking down businesses and even entire governments are months, not years away! We are moving fast into the era of 'agentic AI,' which means these systems can independently chain cyber exploits and hack networks in real-time without any human clicking a button. Here's the wild part: the intelligence agencies say open-source models trail proprietary ones by only six to eight months. That means the scary, restricted hacking capabilities of top-tier models will hit the public domain before the end of this year! They’re telling organizations to stop trying to just prevent hacks and start building deep cyber resilience because the current digital ecosystem is fundamentally too fragile to handle what’s coming. This isn't just an IT problem anymore; it's a full-blown national security emergency!",
-        "id": "k8m3n4p9",
-        "category": "AI",
-        "companies": [
-            "NSA",
-            "CISA",
-            "NCSC"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 1,
-        "title": "THE INTERNET MELTED! X, Reddit, and AWS Hit by Massive Synchronized Outage!",
-        "summary": "A massive global internet outage disrupted major platforms including X, Reddit, Microsoft Teams, and Amazon Web Services. The failure was traced to a physical fiber cut in Eastern North America alongside routing errors linked to network provider Zayo.",
-        "engagement": "High",
-        "raw_text": "Did your internet melt down today? Because you definitely weren't alone! A massive, synchronized global outage just absolutely slammed X, Reddit, Microsoft Teams, and Amazon Web Services all at once! Downdetector was completely lighting up with tens of thousands of complaints, and people worldwide were getting nasty backend API errors. So, what caused this digital apocalypse? Here's the wild part: it wasn't a cyberattack. Cloudflare traced the entire cascading failure back to a physical fiber cut in Eastern North America, combined with massive routing failures from a major network provider named Zayo. Honestly, this is huge because it exposes just how incredibly fragile our centralized cloud infrastructure really is. We think of the internet as this invisible, indestructible web, but a single physical cable getting cut in North America can literally paralyze global communication platforms and billion-dollar apps in seconds. Traffic engineers managed to patch things up and reroute the data within a few hours, but man, it's a scary reminder of how fragile our connected world actually is!",
-        "id": "z2x4v6b8",
-        "category": "Infrastructure",
-        "companies": [
-            "X",
-            "Reddit",
-            "Microsoft",
-            "Amazon",
-            "Cloudflare",
-            "Zayo"
-        ],
-        "people": [
-            "Cody Combs",
-            "Mark Wilson",
-            "Anhata Rooprai"
-        ],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 4,
-        "title": "NATIONWIDE BAN! India Blocks Telegram Over Shocking Exam Fraud Loophole!",
-        "summary": "The Indian government enacted a nationwide ban on Telegram following a security compromise of the NEET-UG 2026 medical entrance re-examination. Crime syndicates exploited Telegram's message-editing feature to forge timestamped proof of exam leaks.",
-        "engagement": "High",
-        "raw_text": "So check this out, India just completely banned Telegram nationwide! The Ministry of Electronics and IT dropped the hammer to fight a massive examination fraud syndicate after the NEET-UG medical entrance exam got severely compromised. Now, here's the wild part about how the scammers did it: they heavily exploited Telegram's message-editing feature. Basically, criminal admins would post random, harmless text *before* the exam even started. Then, after the test finished and they got the real questions, they would go back and edit those old messages to include the leaked exam paper! Because of Telegram's system, it made it look like timestamped 'proof' that they had the leak in advance. They used these fake leaks to trigger nationwide panic and extort millions of rupees from desperate students and their families! The government tried to get Telegram to take down the channels, but when the platform didn't comply fast enough, they just blocked the whole app. Honestly, this is a wild look at the ongoing war between encrypted apps and government laws!",
-        "id": "q1w2e3r4",
-        "category": "Business",
-        "companies": [
-            "Telegram",
-            "National Testing Agency",
-            "Ministry of Electronics and Information Technology",
-            "Central Bureau of Investigation"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 5,
-        "title": "BUDGET REVOLUTION? Nothing Phone 4b Leaked Alongside Space-Age Oppo and TCL Screens!",
-        "summary": "Smartphone brands are pushing new design boundaries, with TCL expanding its blue-light reducing NXTPAPER display tech and Oppo teasing a 3D cosmic pattern for the Reno 16. Simultaneously, Nothing is prepping a budget-friendly 'Nothing Phone 4b'.",
-        "engagement": "High",
-        "raw_text": "Let's talk consumer hardware because some wild new smartphone tech is heading our way! First up, TCL is leaning hard into eye comfort with their new NXTPAPER 70 Pro. We are spending hours on our phones doing AI tasks and reading, so TCL engineered a display that drastically cuts blue light, flicker, and glare. It literally gives you an e-ink, paper-like reading experience but keeps full color and high performance. Then we have Oppo, who just teased their upcoming Reno 16 series for India, featuring a crazy 'HoloFusion' 3D cosmic pattern on the back panel. They are completely ditching boring glass for deeply textured, space-age aesthetics! But here's the wild part: Carl Pei's brand, Nothing, is getting ready to shake up the budget market with the 'Nothing Phone 4b'. Word is, it's going to be a streamlined, single-camera device built specifically to undercut current market pricing. Honestly, I love seeing companies innovate on design and eye health instead of just bumping processor specs. Which one of these are you hyped for?",
-        "id": "f5g6h7j8",
-        "category": "Hardware",
-        "companies": [
-            "TCL",
-            "Oppo",
-            "Nothing"
-        ],
-        "people": [
-            "Carl Pei"
-        ],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 3,
-        "title": "THE ULTIMATE AI CONCIERGE! Tencent Is Testing Autonomous 'Xiaowei' Inside WeChat!",
-        "summary": "Tencent has commenced beta testing for 'Xiaowei,' an autonomous AI assistant integrated directly into the WeChat super-app ecosystem. The system relies on Tencent's proprietary Weixin models and can execute complex tasks via mini-programs.",
-        "engagement": "High",
-        "raw_text": "So, while the US is busy banning AI models left and right, China is sprinting ahead with actual consumer rollouts. Tencent has officially started beta testing a mind-blowing new autonomous AI assistant called 'Xiaowei' inside the WeChat super-app! Now, this isn't just another basic chatbot you talk to when you're bored. Xiaowei acts as a full command layer built directly on top of WeChat's massive library of mini-programs. You can just give it natural voice or text commands, and it will autonomously navigate menus, write your emails, make calls, or even execute financial transactions for you! It's running on Tencent's proprietary Weixin models and routes complex logic to DeepSeek. They are targeting a massive public rollout in Q3 of this year. Honestly, this is huge because it finally brings the sci-fi dream of a true digital concierge right into an app that billions of people already use every single day. The West is focusing on restrictions, but China is focusing on absolute deployment!",
-        "id": "y9u8i7o6",
-        "category": "AI",
-        "companies": [
-            "Tencent",
-            "DeepSeek"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 2,
-        "title": "CHIP BREAKTHROUGH! This New Invention Solves the AI Data Center Power Crisis!",
-        "summary": "Binghamton University researchers have developed a single-stage point-of-load converter that steps down data center power directly from 48V to 1V. This breakthrough improves energy efficiency by 10% to 12% and alleviates extreme thermal loads.",
-        "engagement": "Medium",
-        "raw_text": "Alright, here is a massive breakthrough from the lab that could literally save the AI industry from its own power crisis. Researchers at Binghamton University have invented a revolutionary single-stage power converter for AI data centers. See, right now, chips are running at ultra-low voltages like 1 volt to avoid melting the silicon, while data centers distribute power at 48 volts. Stepping that down usually takes multiple messy stages, wasting around 20% of the energy entirely as heat. But Associate Professor Pritam Das and his team built a chip that does that massive drop in a single high-frequency stage! It instantly bumps energy efficiency by over 10% and doubles the speed at which power can spike during intense AI training loops. Here's the wild part: they even patented a way to package this converter within just 5 millimeters of the microchip! Honestly, this is huge because thermal and power limits are the number one thing slowing down next-gen GPUs. This single invention fixes both!",
-        "id": "t1v2x3y4",
-        "category": "Science",
-        "companies": [
-            "Binghamton University",
-            "National Science Foundation"
-        ],
-        "people": [
-            "Pritam Das",
-            "Tuhin Sasmal",
-            "Chris Kocher",
-            "Katie Liu"
-        ],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-04",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 2,
-        "title": "THE DEVASTATING TRUTH! UN Warns AI Will Consume 945 TWh of Power by 2030!",
-        "summary": "The United Nations University released a report projecting that global AI infrastructure will consume 945 terawatt-hours of electricity annually by 2030. The study reveals that 80% to 90% of this demand comes from day-to-day inference rather than training.",
-        "engagement": "Medium",
-        "raw_text": "We all love using AI, but a devastating new UN report just revealed the true environmental cost of our prompts, and it is honestly staggering. The United Nations University projects that global AI data centers will consume an insane 945 terawatt-hours of electricity annually by 2030! To put that in perspective, that is nearly triple the combined annual electricity usage of Pakistan, Bangladesh, and Nigeria! And here's the wild part: 80% to 90% of that energy isn't even from training models—it's from our daily inference and usage. Generating just one AI image takes over a thousand times more power than a simple text search! Plus, the water needed to cool these massive server farms by 2030 will equal the basic domestic needs of 1.3 billion people, all while generating 2.5 million tonnes of toxic e-waste every year. The UN warns we are hitting a massive 'rebound effect' where making tech efficient just makes us use it exponentially more. We need to wake up!",
-        "id": "m1n2b3v4",
-        "category": "AI",
-        "companies": [
-            "United Nations University"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 3,
-        "title": "AI AT WIMBLEDON! How IBM's Watsonx Is Changing Live Sports Forever!",
-        "summary": "IBM and the All England Lawn Tennis Club launched updated watsonx AI features for Wimbledon 2026, featuring analytics that explain match momentum shifts. Developers used an AI accelerator named 'IBM Bob' to index 15,000 assets in 47 minutes.",
-        "engagement": "Medium",
-        "raw_text": "Tennis fans, check this out! IBM and Wimbledon have teamed up to completely revolutionize the 2026 Championships using watsonx AI! They are launching a suite of hyper-personalized fan features, starting with a brand new 'Key Moments' tool. Instead of just showing a basic win probability graph, this AI actually explains the exact reasoning behind massive momentum shifts in a match by analyzing historical data and live variables in real-time. Plus, they're adding 'Match Chat,' an interactive AI companion where you can ask things like 'What just happened?' and get instant summaries with video highlights. But here's the wild part from the dev side: engineers used an AI-powered developer accelerator called 'IBM Bob' to map Wimbledon's massive digital archive. It extracted and organized over 15,000 digital assets and their metadata in just 47 minutes! That is a workload that usually takes a full team of human engineers months to pull off. The future of sports tech is officially here!",
-        "id": "p5o4i3u2",
-        "category": "AI",
-        "companies": [
-            "IBM",
-            "All England Lawn Tennis Club"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Global Technology and Artificial Intelligence Research Report",
-        "page": 3,
-        "title": "Adobe Launches Massive 'Agentic AI' Ecosystem at Cannes Lions 2026!",
-        "summary": "Adobe introduced Adobe CX Enterprise and CX Enterprise Coworker at Cannes Lions to automate marketing orchestration. Adobe also announced partnerships with Omnicom, WPP, Stagwell, and Accenture Song alongside native integrations with Anthropic and Microsoft.",
-        "engagement": "Low",
-        "raw_text": "Over at the Cannes Lions festival, Adobe just made a massive B2B play to become the absolute foundation for enterprise marketing automation. They unveiled 'Adobe CX Enterprise' and the 'CX Enterprise Coworker,' which are built to completely automate corporate marketing campaigns from planning to measurement. We are talking about deep, autonomous agentic orchestration. They announced huge partnerships with global advertising networks like Omnicom, WPP, and Accenture Song to deploy these AI agentic models across major industries. But here's the wild part for the tech stack: Adobe built native interoperability using Model Context Protocol servers. This means their marketing tools can plug directly into Anthropic's Claude Enterprise or Microsoft 365 Copilot. So corporate teams can use their favorite AI models while Adobe's backend strictly enforces brand safety and data privacy compliance. It's a huge corporate win for scaling AI without leaks, but definitely targeted at enterprise suits rather than the average consumer.",
-        "id": "e9r8t7y6",
-        "category": "AI",
-        "companies": [
-            "Adobe",
-            "Omnicom",
-            "WPP",
-            "Stagwell",
-            "Accenture",
-            "Anthropic",
-            "Microsoft"
-        ],
-        "people": [],
-        "created_at": "2026-06-22T23:39:20Z"
-    }
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 1,
+    "title": "US Government BAN! Anthropic's Claude Fable 5 Abruptly Shut Down Worldwide!",
+    "summary": "The US Commerce Department implemented sweeping export controls on Anthropic's Claude Fable 5 and Mythos 5 models. Due to technical limitations in verifying user nationalities in real-time, Anthropic disabled global access entirely.",
+    "engagement": "High",
+    "raw_text": "So check this out, the US government just dropped an absolute bomb on the AI world! They literally forced Anthropic to pull the plug on their brand new models, Claude Fable 5 and Mythos 5, globally! Why? Because the Commerce Department treated the software weights like restricted, military-grade weapons. Fable 5 was absolutely crushing it, scoring over 80% on the SWE-Bench Pro coding test, beating out OpenAI's GPT-5.5! But here's the wild part: within just 72 hours of launch, researchers found a jailbreak that could let anyone use it to hunt for zero-day cyber vulnerabilities. Panic mode activated! The government demanded Anthropic block all foreign nationals from using it. Since real-time nationality verification across an API is completely impossible, Anthropic had to just shut the whole thing down worldwide. Honestly, this is huge. Cyber experts are already screaming that pulling defensive AI from allies while bad actors build their own open-source models is a massive strategic blunder. What do you think? Is this national security or straight-up government overreach?",
+    "id": "a7b9c2d1",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Amazon"
+    ],
+    "people": [
+      "Howard W. Lutnick",
+      "Dario Amodei",
+      "Alex Stamos",
+      "Philip Zimmermann"
+    ],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/a7b9c2d1.png",
+    "image_prompt": "Photorealistic news scene: dimly lit US Capitol at dusk, government seal-like architecture in background, a glowing satellite dish and server racks behind glass, warning-red cables and shutdown light sparks, tense global network map silhouette, journalists in foreground, dramatic cinematic lighting, sharp detail, no text."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 1,
+    "title": "GOVERNMENTS IN DANGER? Five Eyes Issues Terrifying Warning on Agentic AI!",
+    "summary": "The Five Eyes intelligence alliance released a joint advisory warning that advanced frontier AI models capable of autonomously disrupting businesses and governments are months away. The agencies emphasized that independent 'agentic AI' will drastically accelerate cyber threats.",
+    "engagement": "High",
+    "raw_text": "Alright, if you thought the Anthropic ban was crazy, here is why the government is panicking. The Five Eyes intelligence alliance\u2014we're talking the US, UK, Canada, Australia, and New Zealand\u2014just released a terrifying joint advisory. They are warning that rogue frontier AI models capable of autonomously taking down businesses and even entire governments are months, not years away! We are moving fast into the era of 'agentic AI,' which means these systems can independently chain cyber exploits and hack networks in real-time without any human clicking a button. Here's the wild part: the intelligence agencies say open-source models trail proprietary ones by only six to eight months. That means the scary, restricted hacking capabilities of top-tier models will hit the public domain before the end of this year! They\u2019re telling organizations to stop trying to just prevent hacks and start building deep cyber resilience because the current digital ecosystem is fundamentally too fragile to handle what\u2019s coming. This isn't just an IT problem anymore; it's a full-blown national security emergency!",
+    "id": "k8m3n4p9",
+    "category": "AI",
+    "companies": [
+      "NSA",
+      "CISA",
+      "NCSC"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/k8m3n4p9.png",
+    "image_prompt": "Photorealistic news image: shadowy cyber landscape above a modern world map, silhouettes of secret agents near servers, glowing AI cores forming warning-like pulses, stormy dark-blue atmosphere, tense government-building outlines, high contrast lighting, ultra-detailed, cinematic realism, no text."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 1,
+    "title": "THE INTERNET MELTED! X, Reddit, and AWS Hit by Massive Synchronized Outage!",
+    "summary": "A massive global internet outage disrupted major platforms including X, Reddit, Microsoft Teams, and Amazon Web Services. The failure was traced to a physical fiber cut in Eastern North America alongside routing errors linked to network provider Zayo.",
+    "engagement": "High",
+    "raw_text": "Did your internet melt down today? Because you definitely weren't alone! A massive, synchronized global outage just absolutely slammed X, Reddit, Microsoft Teams, and Amazon Web Services all at once! Downdetector was completely lighting up with tens of thousands of complaints, and people worldwide were getting nasty backend API errors. So, what caused this digital apocalypse? Here's the wild part: it wasn't a cyberattack. Cloudflare traced the entire cascading failure back to a physical fiber cut in Eastern North America, combined with massive routing failures from a major network provider named Zayo. Honestly, this is huge because it exposes just how incredibly fragile our centralized cloud infrastructure really is. We think of the internet as this invisible, indestructible web, but a single physical cable getting cut in North America can literally paralyze global communication platforms and billion-dollar apps in seconds. Traffic engineers managed to patch things up and reroute the data within a few hours, but man, it's a scary reminder of how fragile our connected world actually is!",
+    "id": "z2x4v6b8",
+    "category": "Infrastructure",
+    "companies": [
+      "X",
+      "Reddit",
+      "Microsoft",
+      "Amazon",
+      "Cloudflare",
+      "Zayo"
+    ],
+    "people": [
+      "Cody Combs",
+      "Mark Wilson",
+      "Anhata Rooprai"
+    ],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/z2x4v6b8.png",
+    "image_prompt": "Realistic breaking-news photo style: stormy night fiber-optic network control room, glowing switchboards and severed blue cables, dark maps with glowing network lines flickering, distant city lights fading, tense engineers in PPE, dramatic lighting, high detail, no text, no logos."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 4,
+    "title": "NATIONWIDE BAN! India Blocks Telegram Over Shocking Exam Fraud Loophole!",
+    "summary": "The Indian government enacted a nationwide ban on Telegram following a security compromise of the NEET-UG 2026 medical entrance re-examination. Crime syndicates exploited Telegram's message-editing feature to forge timestamped proof of exam leaks.",
+    "engagement": "High",
+    "raw_text": "So check this out, India just completely banned Telegram nationwide! The Ministry of Electronics and IT dropped the hammer to fight a massive examination fraud syndicate after the NEET-UG medical entrance exam got severely compromised. Now, here's the wild part about how the scammers did it: they heavily exploited Telegram's message-editing feature. Basically, criminal admins would post random, harmless text *before* the exam even started. Then, after the test finished and they got the real questions, they would go back and edit those old messages to include the leaked exam paper! Because of Telegram's system, it made it look like timestamped 'proof' that they had the leak in advance. They used these fake leaks to trigger nationwide panic and extort millions of rupees from desperate students and their families! The government tried to get Telegram to take down the channels, but when the platform didn't comply fast enough, they just blocked the whole app. Honestly, this is a wild look at the ongoing war between encrypted apps and government laws!",
+    "id": "25089dea",
+    "category": "Business",
+    "companies": [
+      "Telegram",
+      "National Testing Agency",
+      "Ministry of Electronics and Information Technology",
+      "Central Bureau of Investigation"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/25089dea.png",
+    "image_prompt": "Realistic photojournalism style: dramatic Indian government building at dusk, barred Telegram icon-like silhouette in foreground (no text), tense security personnel and CCTV cameras, blurred forensic evidence table with exam paperwork and timestamped device screens, moody red-blue lighting, high detail, sharp focus, newsworthy atmosphere."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 5,
+    "title": "BUDGET REVOLUTION? Nothing Phone 4b Leaked Alongside Space-Age Oppo and TCL Screens!",
+    "summary": "Smartphone brands are pushing new design boundaries, with TCL expanding its blue-light reducing NXTPAPER display tech and Oppo teasing a 3D cosmic pattern for the Reno 16. Simultaneously, Nothing is prepping a budget-friendly 'Nothing Phone 4b'.",
+    "engagement": "High",
+    "raw_text": "Let's talk consumer hardware because some wild new smartphone tech is heading our way! First up, TCL is leaning hard into eye comfort with their new NXTPAPER 70 Pro. We are spending hours on our phones doing AI tasks and reading, so TCL engineered a display that drastically cuts blue light, flicker, and glare. It literally gives you an e-ink, paper-like reading experience but keeps full color and high performance. Then we have Oppo, who just teased their upcoming Reno 16 series for India, featuring a crazy 'HoloFusion' 3D cosmic pattern on the back panel. They are completely ditching boring glass for deeply textured, space-age aesthetics! But here's the wild part: Carl Pei's brand, Nothing, is getting ready to shake up the budget market with the 'Nothing Phone 4b'. Word is, it's going to be a streamlined, single-camera device built specifically to undercut current market pricing. Honestly, I love seeing companies innovate on design and eye health instead of just bumping processor specs. Which one of these are you hyped for?",
+    "id": "f5g6h7j8",
+    "category": "Hardware",
+    "companies": [
+      "TCL",
+      "Oppo",
+      "Nothing"
+    ],
+    "people": [
+      "Carl Pei"
+    ],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/f5g6h7j8.png",
+    "image_prompt": "Realistic high-tech news image: split-scene of premium smartphones on dark studio backdrop. Left: TCL NXTPAPER screen glow, bluish eye-safe tint. Right: Oppo Reno-style 3D cosmic pattern device. Foreground: sleek Nothing Phone concept with subtle lights, minimalist design, futuristic mood, sharp lighting, high detail, no text."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 3,
+    "title": "THE ULTIMATE AI CONCIERGE! Tencent Is Testing Autonomous 'Xiaowei' Inside WeChat!",
+    "summary": "Tencent has commenced beta testing for 'Xiaowei,' an autonomous AI assistant integrated directly into the WeChat super-app ecosystem. The system relies on Tencent's proprietary Weixin models and can execute complex tasks via mini-programs.",
+    "engagement": "High",
+    "raw_text": "So, while the US is busy banning AI models left and right, China is sprinting ahead with actual consumer rollouts. Tencent has officially started beta testing a mind-blowing new autonomous AI assistant called 'Xiaowei' inside the WeChat super-app! Now, this isn't just another basic chatbot you talk to when you're bored. Xiaowei acts as a full command layer built directly on top of WeChat's massive library of mini-programs. You can just give it natural voice or text commands, and it will autonomously navigate menus, write your emails, make calls, or even execute financial transactions for you! It's running on Tencent's proprietary Weixin models and routes complex logic to DeepSeek. They are targeting a massive public rollout in Q3 of this year. Honestly, this is huge because it finally brings the sci-fi dream of a true digital concierge right into an app that billions of people already use every single day. The West is focusing on restrictions, but China is focusing on absolute deployment!",
+    "id": "y9u8i7o6",
+    "category": "AI",
+    "companies": [
+      "Tencent",
+      "DeepSeek"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/y9u8i7o6.png",
+    "image_prompt": "Realistic high-quality news photo style: a sleek smartphone showing a glowing WeChat-like chat interface without readable text, an AI concierge hologram orb hovering above with subtle circuit patterns, blurred Tencent-style office lights in the background, modern tech atmosphere, cool blue/teal color grading, shallow depth of field, cinematic lighting, ultra-detailed, 4k, no words, no logos."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 2,
+    "title": "CHIP BREAKTHROUGH! This New Invention Solves the AI Data Center Power Crisis!",
+    "summary": "Binghamton University researchers have developed a single-stage point-of-load converter that steps down data center power directly from 48V to 1V. This breakthrough improves energy efficiency by 10% to 12% and alleviates extreme thermal loads.",
+    "engagement": "Medium",
+    "raw_text": "Alright, here is a massive breakthrough from the lab that could literally save the AI industry from its own power crisis. Researchers at Binghamton University have invented a revolutionary single-stage power converter for AI data centers. See, right now, chips are running at ultra-low voltages like 1 volt to avoid melting the silicon, while data centers distribute power at 48 volts. Stepping that down usually takes multiple messy stages, wasting around 20% of the energy entirely as heat. But Associate Professor Pritam Das and his team built a chip that does that massive drop in a single high-frequency stage! It instantly bumps energy efficiency by over 10% and doubles the speed at which power can spike during intense AI training loops. Here's the wild part: they even patented a way to package this converter within just 5 millimeters of the microchip! Honestly, this is huge because thermal and power limits are the number one thing slowing down next-gen GPUs. This single invention fixes both!",
+    "id": "t1v2x3y4",
+    "category": "Science",
+    "companies": [
+      "Binghamton University",
+      "National Science Foundation"
+    ],
+    "people": [
+      "Pritam Das",
+      "Tuhin Sasmal",
+      "Chris Kocher",
+      "Katie Liu"
+    ],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/t1v2x3y4.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a modern AI data center interior with glowing server racks, subtle heat shimmer, and clean 48V-to-1V power electronics concept shown as an ultra-detailed single-stage converter module on a transparent panel, dramatic cinematic lighting, blue-white palette, high contrast, sharp focus."
+  },
+  {
+    "date": "2026-06-04",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 2,
+    "title": "THE DEVASTATING TRUTH! UN Warns AI Will Consume 945 TWh of Power by 2030!",
+    "summary": "The United Nations University released a report projecting that global AI infrastructure will consume 945 terawatt-hours of electricity annually by 2030. The study reveals that 80% to 90% of this demand comes from day-to-day inference rather than training.",
+    "engagement": "Medium",
+    "raw_text": "We all love using AI, but a devastating new UN report just revealed the true environmental cost of our prompts, and it is honestly staggering. The United Nations University projects that global AI data centers will consume an insane 945 terawatt-hours of electricity annually by 2030! To put that in perspective, that is nearly triple the combined annual electricity usage of Pakistan, Bangladesh, and Nigeria! And here's the wild part: 80% to 90% of that energy isn't even from training models\u2014it's from our daily inference and usage. Generating just one AI image takes over a thousand times more power than a simple text search! Plus, the water needed to cool these massive server farms by 2030 will equal the basic domestic needs of 1.3 billion people, all while generating 2.5 million tonnes of toxic e-waste every year. The UN warns we are hitting a massive 'rebound effect' where making tech efficient just makes us use it exponentially more. We need to wake up!",
+    "id": "m1n2b3v4",
+    "category": "AI",
+    "companies": [
+      "United Nations University"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/m1n2b3v4.png",
+    "image_prompt": "Cinematic news photo of a vast data center at night, glowing server racks, high-voltage cables, cooling towers, subtle AI circuitry overlay in haze. Foreboding mood, realistic lighting, shallow depth of field, commuters blurred far below, emphasis on massive electricity demand."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 3,
+    "title": "AI AT WIMBLEDON! How IBM's Watsonx Is Changing Live Sports Forever!",
+    "summary": "IBM and the All England Lawn Tennis Club launched updated watsonx AI features for Wimbledon 2026, featuring analytics that explain match momentum shifts. Developers used an AI accelerator named 'IBM Bob' to index 15,000 assets in 47 minutes.",
+    "engagement": "Medium",
+    "raw_text": "Tennis fans, check this out! IBM and Wimbledon have teamed up to completely revolutionize the 2026 Championships using watsonx AI! They are launching a suite of hyper-personalized fan features, starting with a brand new 'Key Moments' tool. Instead of just showing a basic win probability graph, this AI actually explains the exact reasoning behind massive momentum shifts in a match by analyzing historical data and live variables in real-time. Plus, they're adding 'Match Chat,' an interactive AI companion where you can ask things like 'What just happened?' and get instant summaries with video highlights. But here's the wild part from the dev side: engineers used an AI-powered developer accelerator called 'IBM Bob' to map Wimbledon's massive digital archive. It extracted and organized over 15,000 digital assets and their metadata in just 47 minutes! That is a workload that usually takes a full team of human engineers months to pull off. The future of sports tech is officially here!",
+    "id": "p5o4i3u2",
+    "category": "AI",
+    "companies": [
+      "IBM",
+      "All England Lawn Tennis Club"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/p5o4i3u2.png",
+    "image_prompt": "Photorealistic newsroom-style scene at Wimbledon: a sleek IBM watsonx AI server rack glowing subtly beside a tennis court, holographic momentum-wave overlays over players, photographers and officials in soft focus, dramatic overcast sky, crisp details, cinematic lighting, ultra-high realism, no text."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Global Technology and Artificial Intelligence Research Report",
+    "page": 3,
+    "title": "Adobe Launches Massive 'Agentic AI' Ecosystem at Cannes Lions 2026!",
+    "summary": "Adobe introduced Adobe CX Enterprise and CX Enterprise Coworker at Cannes Lions to automate marketing orchestration. Adobe also announced partnerships with Omnicom, WPP, Stagwell, and Accenture Song alongside native integrations with Anthropic and Microsoft.",
+    "engagement": "Low",
+    "raw_text": "Over at the Cannes Lions festival, Adobe just made a massive B2B play to become the absolute foundation for enterprise marketing automation. They unveiled 'Adobe CX Enterprise' and the 'CX Enterprise Coworker,' which are built to completely automate corporate marketing campaigns from planning to measurement. We are talking about deep, autonomous agentic orchestration. They announced huge partnerships with global advertising networks like Omnicom, WPP, and Accenture Song to deploy these AI agentic models across major industries. But here's the wild part for the tech stack: Adobe built native interoperability using Model Context Protocol servers. This means their marketing tools can plug directly into Anthropic's Claude Enterprise or Microsoft 365 Copilot. So corporate teams can use their favorite AI models while Adobe's backend strictly enforces brand safety and data privacy compliance. It's a huge corporate win for scaling AI without leaks, but definitely targeted at enterprise suits rather than the average consumer.",
+    "id": "e9r8t7y6",
+    "category": "AI",
+    "companies": [
+      "Adobe",
+      "Omnicom",
+      "WPP",
+      "Stagwell",
+      "Accenture",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-06-22T23:39:20Z",
+    "image_url": "images/23_06_26/e9r8t7y6.png",
+    "image_prompt": "Ultra-realistic Cannes Lions 2026 newsroom photo: Adobe execs on a modern stage unveiling \u201cagentic AI\u201d marketing orchestration, holographic blue data streams above smart podiums, subtle circuit graphics, diverse attendees, bright Mediterranean evening lighting, cinematic depth of field, no text, high detail."
+  }
 ]
