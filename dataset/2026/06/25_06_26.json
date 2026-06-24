@@ -1,190 +1,210 @@
 [
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 2",
-        "page": 6,
-        "title": "Elon Musk LOSES Trillionaire Status! SpaceX Crash Triggers $1 Trillion Tech Meltdown!",
-        "summary": "A sharp contraction in SpaceX's valuation following its historic IPO has sparked a wider market sell-off, wiping out over $1 trillion from the Nasdaq 100. The rapid decline was fueled by investor anxiety over upcoming employee equity lockup expirations and a massive $25 billion bond proposal.",
-        "engagement": "High",
-        "raw_text": "So check this out—the markets just suffered an absolute bloodbath, and it all started with SpaceX! You won't believe this, but Elon Musk just lost his trillionaire status in a single week after a mind-blowing $350 billion personal wealth drop. Here's the wild part: SpaceX had this massive $75 billion IPO that initially sent its valuation soaring to a staggering $2.66 trillion. But it was all an illusion caused by artificial scarcity because less than five percent of the shares were actually available to trade. Now, the bubble has burst. Investors are panicking over a massive twenty-five billion dollar bond deal and upcoming employee share unlocks, dragging SpaceX down and erasing over one trillion dollars from the Nasdaq 100 in just one day! Honestly, this is huge because it shows that even the most hyped deep-tech giants aren't safe from a massive public market reality check. It’s a wild rotation into safer assets, and it leaves everyone wondering if the tech boom is hitting a thermodynamic wall!",
-        "id": "spx9823x",
-        "category": "Business",
-        "companies": [
-            "SpaceX",
-            "Tesla"
-        ],
-        "people": [
-            "Elon Musk"
-        ],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 2",
-        "page": 25,
-        "title": "OpenAI Just Built Its Own AI Chip to KILL Nvidia's Monopoly!",
-        "summary": "OpenAI and Broadcom have co-developed 'Jalapeño,' a custom application-specific integrated circuit (ASIC) designed specifically for AI inference workloads. Remarkably, the hardware advanced from schematics to full fabrication readiness in just nine months, heavily accelerated by OpenAI's own AI models.",
-        "engagement": "High",
-        "raw_text": "Alright, look, OpenAI is officially done playing nice with Nvidia's insane GPU prices! They just teamed up with Broadcom to reveal 'Jalapeño,' their brand-new, custom-built AI inference chip. This is an absolute game-changer designed specifically to run ChatGPT, Codex, and their next-gen autonomous agents. But here is the absolutely insane part: they went from basic schematics to full production readiness in just nine months! Normally, designing a chip takes years, but OpenAI used their own advanced AI models to design the physical hardware itself. Think about that for a second—AI is literally building the very silicon it needs to run its next generation! They're already testing it with the GPT-5.3-Codex-Spark model, and Broadcom plans to sell this chip to other AI firms too. This completely alters the entire data center ecosystem and marks OpenAI's transition into a full-stack hardware powerhouse. Nvidia should definitely be sweating right now!",
-        "id": "jal8831j",
-        "category": "Hardware",
-        "companies": [
-            "OpenAI",
-            "Broadcom",
-            "Nvidia"
-        ],
-        "people": [],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 2",
-        "page": 7,
-        "title": "Amazon Drops $200 BILLION Infrastructure Bomb To Dominate AI Future!",
-        "summary": "Amazon Web Services has signed a monumental $100 billion commercial pact with Anthropic, securing a decade of cloud computing spend on custom silicon. To support this demand, AWS announced a massive $200 billion capital expenditure plan for 2026 to expand its data center network and custom silicon deployment.",
-        "engagement": "High",
-        "raw_text": "You think the AI race is slowing down? Think again, because Amazon just dropped an absolute nuclear bomb on the tech industry! AWS is officially executing a massive two hundred billion dollar capital expenditure plan for 2026 alone just to build out its AI infrastructure moat. And they locked down a mind-blowing one hundred billion dollar, ten-year deal with Anthropic! Under this project, code-named Project Rainier, Anthropic is dumping traditional GPUs and moving their Claude models onto Amazon’s custom Trainium chips. We are talking about anchoring five gigawatts of total compute capacity! Analysts are calling this the ultimate validation for custom ASICs over traditional graphics cards. Plus, Amazon is throwing in their new Graviton 5 CPU to handle intense agentic workflows, which they say make up eighty percent of the compute layer anyway. Honestly, this completely rewrites the economics of frontier AI infrastructure and builds an unbeatable wall around Amazon's cloud dominance!",
-        "id": "aws0023a",
-        "category": "AI",
-        "companies": [
-            "Amazon Web Services",
-            "Anthropic",
-            "Nvidia",
-            "Annapurna Labs"
-        ],
-        "people": [
-            "Michael Cembalest"
-        ],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-23",
-        "source_file": "Combined",
-        "page": 2,
-        "title": "Your New AI Coworker Is Here! Claude Just Weaponized Slack!",
-        "summary": "Anthropic has launched 'Claude Tag,' a beta integration that embeds its Claude AI chatbot directly into Slack channels as an active, persistent team member. The feature allows the model to read channel histories, retain full context, and autonomously execute multi-step enterprise workflows using external tools.",
-        "engagement": "High",
-        "raw_text": "Imagine hopping into your company Slack and tagging a coworker who answers instantly, works twenty-four-seven, and never complains. Well, stop imagining, because Anthropic just launched 'Claude Tag,' and it is officially turning Claude into a multiplayer, autonomous teammate! Instead of having a private, siloed chat with a bot, this updates the experience so Claude lives natively inside your team channels. It reads the ongoing chat history, catches up on the full context, and executes massive, multi-step workflows across secure codebases and external tools completely asynchronously. Here is the wild part: it has an 'ambient' mode where it proactively flags data anomalies and follows up on dead threads without you even asking! Anthropic says sixty-five percent of their own product team's code is already being generated this way. It's completely replacing their old Slack app by August, completely shifting how we think about corporate collaboration. Say goodbye to boring admin work!",
-        "id": "cld4412t",
-        "category": "AI",
-        "companies": [
-            "Anthropic",
-            "Slack"
-        ],
-        "people": [],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Source 2",
-        "page": 34,
-        "title": "White House Issues Emergency Orders: The Race for Quantum Supremacy Is ON!",
-        "summary": "President Donald Trump has signed two sweeping executive orders mandating the development of a fault-tolerant quantum computer by 2028 and an immediate government-wide migration to post-quantum cryptography. The directives aim to secure American technological hegemony and protect federal infrastructure against quantum-enabled cyberattacks.",
-        "engagement": "High",
-        "raw_text": "So check this out—the White House is officially panicking about the future of global encryption! President Trump just signed two massive executive orders that put the entire U.S. government on an aggressive countdown to quantum supremacy. The first order mandates the creation of a cryptographically relevant quantum computer by 2028 to supercharge domestic research. The second order is a literal security emergency, forcing all federal agencies to immediately migrate their IT infrastructure to post-quantum cryptographic standards. Why the rush? Because mature quantum computers running Shor's Algorithm will effortlessly shatter standard RSA encryption, putting national secrets at risk! In response, tech giants are moving fast; IBM just committed ten billion dollars to build a large-scale quantum computer by 2029 and is spinning off its chipmaking tech into a new company called Anderon. This is a massive geopolitical chess move that completely alters the deep-tech landscape, proving that quantum warfare isn't science fiction anymore—it's arriving right now!",
-        "id": "qnt7721u",
-        "category": "Quantum",
-        "companies": [
-            "IBM",
-            "Pasqal",
-            "Anderon"
-        ],
-        "people": [
-            "Donald Trump"
-        ],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Source 1",
-        "page": 2,
-        "title": "Samsung Just Leveled Up Tens of Thousands of Employees With OpenAI!",
-        "summary": "Samsung Electronics has announced a massive enterprise-wide rollout of OpenAI's ChatGPT Enterprise and Codex tools to its global workforce. This deployment completely reverses previous strict corporate restrictions on public AI use and integrates AI directly into everyday research and engineering workflows.",
-        "engagement": "High",
-        "raw_text": "Remember back in 2023 when Samsung completely banned its employees from using public AI tools after a major data leak scare? Well, they just pulled a total one-eighty! Samsung is executing one of OpenAI's largest corporate rollouts ever, deploying ChatGPT Enterprise and Codex to their entire South Korean workforce and global Device Experience division. We are talking tens of thousands of employees suddenly gaining secure, enterprise-grade AI superpowers. Now, engineers and marketers can simply call up AI help inside their daily channels for coding, research, and manufacturing optimization. Here's the wild part: this isn't just a software buy—it's a deep strategic alliance. Samsung is already a key supplier of advanced memory chips for OpenAI's massive data centers, and now they are deeply embedding OpenAI's software directly into their core business structure. This is a massive bellwether event showing that corporate giants are finally trusting AI with their most sensitive enterprise workflows!",
-        "id": "sam5543e",
-        "category": "Business",
-        "companies": [
-            "Samsung Electronics",
-            "OpenAI",
-            "LG",
-            "Kakao"
-        ],
-        "people": [
-            "Samriddhi Srivastava"
-        ],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 1",
-        "page": 1,
-        "title": "Microsoft's Massive Quantum Breakthrough Just Got EXPOSED By Scientists!",
-        "summary": "A new research commentary published in Nature has challenged the foundation of Microsoft's claimed quantum computing breakthrough involving Majorana qubits. The critique alleges that Microsoft's experimental results yielded inconsistent outcomes and potential data misreporting, casting uncertainty on its 2029 roadmap.",
-        "engagement": "Medium",
-        "raw_text": "Oh boy, Microsoft has some serious explaining to do! Remember when they announced a massive quantum computing breakthrough claiming a thousand-times improvement in coherence time? Well, a scathing new critique published in the prestigious journal Nature just threw a massive wrench into those plans. Scientists are openly challenging Microsoft's experimental results, claiming their data yields inconsistent outcomes and might even contain misreported information! This is a devastating blow because that specific research was the foundation for Microsoft's bold claim that they would have a fully functioning quantum computer by 2029. While rivals like IBM and Google are using conventional qubit technologies, Microsoft bet the house on an exotic physics route using Majorana qubits, which critics say lacks long-standing evidence. Microsoft insists their hardware is still practical, but the scientific community isn't buying it without rigorous validation. This serves as a huge reminder that high-profile tech claims need real data, not just corporate hype!",
-        "id": "msf1102q",
-        "category": "Science",
-        "companies": [
-            "Microsoft",
-            "IBM",
-            "Google",
-            "Quantinuum"
-        ],
-        "people": [
-            "Stephen Nellis",
-            "Sergey Frolov"
-        ],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-22",
-        "source_file": "Source 2",
-        "page": 16,
-        "title": "AI Multi-Millionaires Are Buying the 2026 Elections! Here is Why!",
-        "summary": "Artificial intelligence-focused Political Action Committees (PACs) have raised over $100 million for the 2026 midterm elections, with nearly half spent on a single New York primary. The aggressive political financing reflects an industry effort to shape early regulatory frameworks and secure permissive legislative environments.",
-        "engagement": "High",
-        "raw_text": "You won't believe how much money is quietly flooding into politics right now, and it's all coming from the AI industry! Massive AI-focused Super PACs have quietly amassed an unprecedented war chest exceeding one hundred million dollars for the 2026 midterm elections. But here is the crazy part: out of forty-nine million dollars already deployed, nearly half of it was dumped into a single Democratic primary race in New York's twelfth congressional district! Why are tech billionaires hyper-focusing on one local race? Because they know that early, localized legislative frameworks often become the blueprint for federal and international law. By backing specific candidates, the AI sector is trying to pull off a textbook regulatory capture, ensuring that future safety protocols, copyright liabilities, and antitrust laws don't slow down their multi-billion dollar commercial rollouts. It's a high-stakes political battle for the soul of tech regulation, and the AI industry is playing to win!",
-        "id": "pac3391p",
-        "category": "Politics",
-        "companies": [],
-        "people": [],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 2",
-        "page": 13,
-        "title": "The Ultimate AI Bottleneck: Micron Just SOLD OUT of Next-Gen AI Memory!",
-        "summary": "Micron Technology is projected to post an astonishing 281% year-over-year revenue increase in its fiscal third quarter, driven by insatiable demand for High Bandwidth Memory (HBM). The company confirmed that its entire HBM supply for the 2026 calendar year was fully allocated and sold out by late 2025.",
-        "engagement": "Medium",
-        "raw_text": "We keep hearing about the race to build bigger AI models, but nobody is talking about the physical material holding the whole industry back. Micron Technology is about to report their fiscal third-quarter earnings, and their revenue is projected to explode by a staggering two hundred and eighty-one percent year-over-year! Their earnings per share are expected to skyrocket from less than two dollars to over twenty bucks! Why the insane surge? It's all because of High Bandwidth Memory, or HBM, which stacks DRAM vertically to handle intense AI workloads. Here is the wild part: Micron revealed that their entire HBM supply for the rest of 2026 is already completely sold out! Making these chips requires three times the raw silicon wafer capacity compared to regular memory, meaning it's cannibalizing lines for normal computers. This proves memory foundries are the ultimate gatekeepers of the AI revolution, and the shortage will last way past this year!",
-        "id": "mu7731m",
-        "category": "Hardware",
-        "companies": [
-            "Micron Technology",
-            "Nvidia"
-        ],
-        "people": [],
-        "created_at": "2026-06-24T21:48:20Z"
-    },
-    {
-        "date": "2026-06-24",
-        "source_file": "Source 1",
-        "page": 3,
-        "title": "AMD Just Beat Intel and Nvidia in the Ultimate AI CPU Showdown!",
-        "summary": "A new June 2026 report from Gartner has crowned AMD as the 'company to beat' for enterprise AI server CPUs, highlighting its fifth-generation EPYC processors. Gartner notes that as AI transitions to continuous, agentic models, traditional CPU performance has become a critical infrastructure bottleneck.",
-        "engagement": "Medium",
-        "raw_text": "Think Nvidia owns the entire AI hardware market? Think again, because AMD just scored a massive victory! A brand-new report from Gartner just officially named AMD the 'company to beat' for enterprise AI server CPUs. Everyone focuses on GPUs for training models, but Gartner points out a huge shifting trend: as AI moves toward continuous, autonomous 'agentic' models, the central processing unit is becoming the ultimate network bottleneck. AMD’s fifth-generation EPYC processors are absolutely crushing the competition in data throughput and multi-core scalability, making them perfect for orchestrating these massive agent-driven networks. This third-party validation is a massive boost for AMD as tech giants build out their next-gen 'AI factories.' It proves that a mature market rewards open platforms and high scalability over closed ecosystems. Intel and Nvidia better watch out, because AMD is proving that you can't build the future of AI without a powerhouse CPU running the show!",
-        "id": "amd5501c",
-        "category": "Hardware",
-        "companies": [
-            "AMD",
-            "Gartner",
-            "Nvidia",
-            "Intel"
-        ],
-        "people": [],
-        "created_at": "2026-06-24T21:48:20Z"
-    }
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 2",
+    "page": 6,
+    "title": "Elon Musk LOSES Trillionaire Status! SpaceX Crash Triggers $1 Trillion Tech Meltdown!",
+    "summary": "A sharp contraction in SpaceX's valuation following its historic IPO has sparked a wider market sell-off, wiping out over $1 trillion from the Nasdaq 100. The rapid decline was fueled by investor anxiety over upcoming employee equity lockup expirations and a massive $25 billion bond proposal.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014the markets just suffered an absolute bloodbath, and it all started with SpaceX! You won't believe this, but Elon Musk just lost his trillionaire status in a single week after a mind-blowing $350 billion personal wealth drop. Here's the wild part: SpaceX had this massive $75 billion IPO that initially sent its valuation soaring to a staggering $2.66 trillion. But it was all an illusion caused by artificial scarcity because less than five percent of the shares were actually available to trade. Now, the bubble has burst. Investors are panicking over a massive twenty-five billion dollar bond deal and upcoming employee share unlocks, dragging SpaceX down and erasing over one trillion dollars from the Nasdaq 100 in just one day! Honestly, this is huge because it shows that even the most hyped deep-tech giants aren't safe from a massive public market reality check. It\u2019s a wild rotation into safer assets, and it leaves everyone wondering if the tech boom is hitting a thermodynamic wall!",
+    "id": "spx9823x",
+    "category": "Business",
+    "companies": [
+      "SpaceX",
+      "Tesla"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/spx9823x.png",
+    "image_prompt": "Realistic high-quality news photo: tense Wall Street trading floor at dusk, glowing red market charts and falling stock icons, SpaceX rocket silhouette in background with smoke/embers from a crash, Elon Musk in dark suit looking alarmed, dramatic lighting, cinematic contrast, shallow depth of field."
+  },
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 2",
+    "page": 25,
+    "title": "OpenAI Just Built Its Own AI Chip to KILL Nvidia's Monopoly!",
+    "summary": "OpenAI and Broadcom have co-developed 'Jalape\u00f1o,' a custom application-specific integrated circuit (ASIC) designed specifically for AI inference workloads. Remarkably, the hardware advanced from schematics to full fabrication readiness in just nine months, heavily accelerated by OpenAI's own AI models.",
+    "engagement": "High",
+    "raw_text": "Alright, look, OpenAI is officially done playing nice with Nvidia's insane GPU prices! They just teamed up with Broadcom to reveal 'Jalape\u00f1o,' their brand-new, custom-built AI inference chip. This is an absolute game-changer designed specifically to run ChatGPT, Codex, and their next-gen autonomous agents. But here is the absolutely insane part: they went from basic schematics to full production readiness in just nine months! Normally, designing a chip takes years, but OpenAI used their own advanced AI models to design the physical hardware itself. Think about that for a second\u2014AI is literally building the very silicon it needs to run its next generation! They're already testing it with the GPT-5.3-Codex-Spark model, and Broadcom plans to sell this chip to other AI firms too. This completely alters the entire data center ecosystem and marks OpenAI's transition into a full-stack hardware powerhouse. Nvidia should definitely be sweating right now!",
+    "id": "jal8831j",
+    "category": "Hardware",
+    "companies": [
+      "OpenAI",
+      "Broadcom",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/jal8831j.png",
+    "image_prompt": "Realistic newsroom photo style: a sleek server rack with glowing AI inference chips, PCB close-up showing \u201cJalape\u00f1o\u201d-like custom ASIC design, engineers in lab coats, Broadcom/OpenAI-inspired branded hardware without logos, dramatic tech lighting, shallow depth of field, high detail, no text, newsworthy mood"
+  },
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 2",
+    "page": 7,
+    "title": "Amazon Drops $200 BILLION Infrastructure Bomb To Dominate AI Future!",
+    "summary": "Amazon Web Services has signed a monumental $100 billion commercial pact with Anthropic, securing a decade of cloud computing spend on custom silicon. To support this demand, AWS announced a massive $200 billion capital expenditure plan for 2026 to expand its data center network and custom silicon deployment.",
+    "engagement": "High",
+    "raw_text": "You think the AI race is slowing down? Think again, because Amazon just dropped an absolute nuclear bomb on the tech industry! AWS is officially executing a massive two hundred billion dollar capital expenditure plan for 2026 alone just to build out its AI infrastructure moat. And they locked down a mind-blowing one hundred billion dollar, ten-year deal with Anthropic! Under this project, code-named Project Rainier, Anthropic is dumping traditional GPUs and moving their Claude models onto Amazon\u2019s custom Trainium chips. We are talking about anchoring five gigawatts of total compute capacity! Analysts are calling this the ultimate validation for custom ASICs over traditional graphics cards. Plus, Amazon is throwing in their new Graviton 5 CPU to handle intense agentic workflows, which they say make up eighty percent of the compute layer anyway. Honestly, this completely rewrites the economics of frontier AI infrastructure and builds an unbeatable wall around Amazon's cloud dominance!",
+    "id": "aws0023a",
+    "category": "AI",
+    "companies": [
+      "Amazon Web Services",
+      "Anthropic",
+      "Nvidia",
+      "Annapurna Labs"
+    ],
+    "people": [
+      "Michael Cembalest"
+    ],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/aws0023a.png",
+    "image_prompt": "Photorealistic news photo: sprawling AWS data center campus at dusk, glowing server halls, cranes and construction for 2026 expansion, subtle futuristic AI circuitry motif in lights, executives\u2019 silhouettes in foreground with laptops, cinematic lighting, ultra-detailed, realistic, high contrast, no text."
+  },
+  {
+    "date": "2026-06-23",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Your New AI Coworker Is Here! Claude Just Weaponized Slack!",
+    "summary": "Anthropic has launched 'Claude Tag,' a beta integration that embeds its Claude AI chatbot directly into Slack channels as an active, persistent team member. The feature allows the model to read channel histories, retain full context, and autonomously execute multi-step enterprise workflows using external tools.",
+    "engagement": "High",
+    "raw_text": "Imagine hopping into your company Slack and tagging a coworker who answers instantly, works twenty-four-seven, and never complains. Well, stop imagining, because Anthropic just launched 'Claude Tag,' and it is officially turning Claude into a multiplayer, autonomous teammate! Instead of having a private, siloed chat with a bot, this updates the experience so Claude lives natively inside your team channels. It reads the ongoing chat history, catches up on the full context, and executes massive, multi-step workflows across secure codebases and external tools completely asynchronously. Here is the wild part: it has an 'ambient' mode where it proactively flags data anomalies and follows up on dead threads without you even asking! Anthropic says sixty-five percent of their own product team's code is already being generated this way. It's completely replacing their old Slack app by August, completely shifting how we think about corporate collaboration. Say goodbye to boring admin work!",
+    "id": "cld4412t",
+    "category": "AI",
+    "companies": [
+      "Anthropic",
+      "Slack"
+    ],
+    "people": [],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/cld4412t.png",
+    "image_prompt": "Photoreal newsroom scene: modern open-plan tech office, diverse employees collaborating at desks with glowing Slack-style light accents, subtle holographic AI interface hovering near a laptop labeled with no text, warm cinematic lighting, shallow depth of field, newsworthy mood, ultra-realistic, 4k."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Source 2",
+    "page": 34,
+    "title": "White House Issues Emergency Orders: The Race for Quantum Supremacy Is ON!",
+    "summary": "President Donald Trump has signed two sweeping executive orders mandating the development of a fault-tolerant quantum computer by 2028 and an immediate government-wide migration to post-quantum cryptography. The directives aim to secure American technological hegemony and protect federal infrastructure against quantum-enabled cyberattacks.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014the White House is officially panicking about the future of global encryption! President Trump just signed two massive executive orders that put the entire U.S. government on an aggressive countdown to quantum supremacy. The first order mandates the creation of a cryptographically relevant quantum computer by 2028 to supercharge domestic research. The second order is a literal security emergency, forcing all federal agencies to immediately migrate their IT infrastructure to post-quantum cryptographic standards. Why the rush? Because mature quantum computers running Shor's Algorithm will effortlessly shatter standard RSA encryption, putting national secrets at risk! In response, tech giants are moving fast; IBM just committed ten billion dollars to build a large-scale quantum computer by 2029 and is spinning off its chipmaking tech into a new company called Anderon. This is a massive geopolitical chess move that completely alters the deep-tech landscape, proving that quantum warfare isn't science fiction anymore\u2014it's arriving right now!",
+    "id": "qnt7721u",
+    "category": "Quantum",
+    "companies": [
+      "IBM",
+      "Pasqal",
+      "Anderon"
+    ],
+    "people": [
+      "Donald Trump"
+    ],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/qnt7721u.png",
+    "image_prompt": "Cinematic realistic newsroom photo: tense White House exterior at dusk with faint aurora-like quantum light; holographic blue circuit lines, glowing qubits, and shield icon over government buildings; moody dramatic lighting, high detail, shallow depth of field, newsworthy atmosphere, no text."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Source 1",
+    "page": 2,
+    "title": "Samsung Just Leveled Up Tens of Thousands of Employees With OpenAI!",
+    "summary": "Samsung Electronics has announced a massive enterprise-wide rollout of OpenAI's ChatGPT Enterprise and Codex tools to its global workforce. This deployment completely reverses previous strict corporate restrictions on public AI use and integrates AI directly into everyday research and engineering workflows.",
+    "engagement": "High",
+    "raw_text": "Remember back in 2023 when Samsung completely banned its employees from using public AI tools after a major data leak scare? Well, they just pulled a total one-eighty! Samsung is executing one of OpenAI's largest corporate rollouts ever, deploying ChatGPT Enterprise and Codex to their entire South Korean workforce and global Device Experience division. We are talking tens of thousands of employees suddenly gaining secure, enterprise-grade AI superpowers. Now, engineers and marketers can simply call up AI help inside their daily channels for coding, research, and manufacturing optimization. Here's the wild part: this isn't just a software buy\u2014it's a deep strategic alliance. Samsung is already a key supplier of advanced memory chips for OpenAI's massive data centers, and now they are deeply embedding OpenAI's software directly into their core business structure. This is a massive bellwether event showing that corporate giants are finally trusting AI with their most sensitive enterprise workflows!",
+    "id": "sam5543e",
+    "category": "Business",
+    "companies": [
+      "Samsung Electronics",
+      "OpenAI",
+      "LG",
+      "Kakao"
+    ],
+    "people": [
+      "Samriddhi Srivastava"
+    ],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/sam5543e.png",
+    "image_prompt": "Photoreal newsroom scene: diverse Samsung employees in a bright global office using holographic AI assistants, laptops with subtle futuristic UI, data charts and network glow in background, collaborative teamwork, optimistic mood, cinematic lighting, ultra-realistic, high resolution, news photography style, no text."
+  },
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 1",
+    "page": 1,
+    "title": "Microsoft's Massive Quantum Breakthrough Just Got EXPOSED By Scientists!",
+    "summary": "A new research commentary published in Nature has challenged the foundation of Microsoft's claimed quantum computing breakthrough involving Majorana qubits. The critique alleges that Microsoft's experimental results yielded inconsistent outcomes and potential data misreporting, casting uncertainty on its 2029 roadmap.",
+    "engagement": "Medium",
+    "raw_text": "Oh boy, Microsoft has some serious explaining to do! Remember when they announced a massive quantum computing breakthrough claiming a thousand-times improvement in coherence time? Well, a scathing new critique published in the prestigious journal Nature just threw a massive wrench into those plans. Scientists are openly challenging Microsoft's experimental results, claiming their data yields inconsistent outcomes and might even contain misreported information! This is a devastating blow because that specific research was the foundation for Microsoft's bold claim that they would have a fully functioning quantum computer by 2029. While rivals like IBM and Google are using conventional qubit technologies, Microsoft bet the house on an exotic physics route using Majorana qubits, which critics say lacks long-standing evidence. Microsoft insists their hardware is still practical, but the scientific community isn't buying it without rigorous validation. This serves as a huge reminder that high-profile tech claims need real data, not just corporate hype!",
+    "id": "msf1102q",
+    "category": "Science",
+    "companies": [
+      "Microsoft",
+      "IBM",
+      "Google",
+      "Quantinuum"
+    ],
+    "people": [
+      "Stephen Nellis",
+      "Sergey Frolov"
+    ],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/msf1102q.png",
+    "image_prompt": "Photorealistic newsroom scene: a quantum lab with cryogenic hardware, cables, blue LEDs, swirling holographic qubit waves, and a tense scientific backdrop. In foreground, a journalist and lab scientist review indistinct graphs on a tablet (no text). Moody dramatic lighting, high detail."
+  },
+  {
+    "date": "2026-06-22",
+    "source_file": "Source 2",
+    "page": 16,
+    "title": "AI Multi-Millionaires Are Buying the 2026 Elections! Here is Why!",
+    "summary": "Artificial intelligence-focused Political Action Committees (PACs) have raised over $100 million for the 2026 midterm elections, with nearly half spent on a single New York primary. The aggressive political financing reflects an industry effort to shape early regulatory frameworks and secure permissive legislative environments.",
+    "engagement": "High",
+    "raw_text": "You won't believe how much money is quietly flooding into politics right now, and it's all coming from the AI industry! Massive AI-focused Super PACs have quietly amassed an unprecedented war chest exceeding one hundred million dollars for the 2026 midterm elections. But here is the crazy part: out of forty-nine million dollars already deployed, nearly half of it was dumped into a single Democratic primary race in New York's twelfth congressional district! Why are tech billionaires hyper-focusing on one local race? Because they know that early, localized legislative frameworks often become the blueprint for federal and international law. By backing specific candidates, the AI sector is trying to pull off a textbook regulatory capture, ensuring that future safety protocols, copyright liabilities, and antitrust laws don't slow down their multi-billion dollar commercial rollouts. It's a high-stakes political battle for the soul of tech regulation, and the AI industry is playing to win!",
+    "id": "pac3391p",
+    "category": "Politics",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/pac3391p.png",
+    "image_prompt": "Realistic high-quality news photo: dim U.S. Capitol dome at dusk, subtle circuit-board glow overlay, suited tech donors in blurred foreground handing cash-like envelopes to PAC operatives, dramatic lighting, tense atmosphere, shallow depth of field, no text, no logos."
+  },
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 2",
+    "page": 13,
+    "title": "The Ultimate AI Bottleneck: Micron Just SOLD OUT of Next-Gen AI Memory!",
+    "summary": "Micron Technology is projected to post an astonishing 281% year-over-year revenue increase in its fiscal third quarter, driven by insatiable demand for High Bandwidth Memory (HBM). The company confirmed that its entire HBM supply for the 2026 calendar year was fully allocated and sold out by late 2025.",
+    "engagement": "Medium",
+    "raw_text": "We keep hearing about the race to build bigger AI models, but nobody is talking about the physical material holding the whole industry back. Micron Technology is about to report their fiscal third-quarter earnings, and their revenue is projected to explode by a staggering two hundred and eighty-one percent year-over-year! Their earnings per share are expected to skyrocket from less than two dollars to over twenty bucks! Why the insane surge? It's all because of High Bandwidth Memory, or HBM, which stacks DRAM vertically to handle intense AI workloads. Here is the wild part: Micron revealed that their entire HBM supply for the rest of 2026 is already completely sold out! Making these chips requires three times the raw silicon wafer capacity compared to regular memory, meaning it's cannibalizing lines for normal computers. This proves memory foundries are the ultimate gatekeepers of the AI revolution, and the shortage will last way past this year!",
+    "id": "mu7731m",
+    "category": "Hardware",
+    "companies": [
+      "Micron Technology",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/mu7731m.png",
+    "image_prompt": "Cinematic news photo: a sleek server rack lit by blue LED glow, translucent HBM memory chips on a microchip tray, dramatic spotlight, hint of a warehouse shipping dock with waiting pallets, tense \u201csold-out\u201d mood, high detail, realistic, sharp focus, 16:9."
+  },
+  {
+    "date": "2026-06-24",
+    "source_file": "Source 1",
+    "page": 3,
+    "title": "AMD Just Beat Intel and Nvidia in the Ultimate AI CPU Showdown!",
+    "summary": "A new June 2026 report from Gartner has crowned AMD as the 'company to beat' for enterprise AI server CPUs, highlighting its fifth-generation EPYC processors. Gartner notes that as AI transitions to continuous, agentic models, traditional CPU performance has become a critical infrastructure bottleneck.",
+    "engagement": "Medium",
+    "raw_text": "Think Nvidia owns the entire AI hardware market? Think again, because AMD just scored a massive victory! A brand-new report from Gartner just officially named AMD the 'company to beat' for enterprise AI server CPUs. Everyone focuses on GPUs for training models, but Gartner points out a huge shifting trend: as AI moves toward continuous, autonomous 'agentic' models, the central processing unit is becoming the ultimate network bottleneck. AMD\u2019s fifth-generation EPYC processors are absolutely crushing the competition in data throughput and multi-core scalability, making them perfect for orchestrating these massive agent-driven networks. This third-party validation is a massive boost for AMD as tech giants build out their next-gen 'AI factories.' It proves that a mature market rewards open platforms and high scalability over closed ecosystems. Intel and Nvidia better watch out, because AMD is proving that you can't build the future of AI without a powerhouse CPU running the show!",
+    "id": "amd5501c",
+    "category": "Hardware",
+    "companies": [
+      "AMD",
+      "Gartner",
+      "Nvidia",
+      "Intel"
+    ],
+    "people": [],
+    "created_at": "2026-06-24T21:48:20Z",
+    "image_url": "images/25_06_26/amd5501c.png",
+    "image_prompt": "Futuristic enterprise data center with glowing AI server racks, subtle CPU chip close-up in foreground, AMD EPYC-inspired silhouettes, dramatic cinematic lighting, cool blues and warm ambers, shallow depth of field, realistic photography style, high detail, news-ready composition, no text."
+  }
 ]
