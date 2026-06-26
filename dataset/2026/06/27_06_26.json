@@ -1,0 +1,188 @@
+[
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 2",
+    "page": 1,
+    "title": "OpenAI Just Secretly Built a Chip to KILL Nvidia!",
+    "summary": "OpenAI and Broadcom have unveiled Jalapeño, OpenAI's first custom AI ASIC for inference. It matches top-tier Nvidia and Google chips while boasting substantially better power efficiency, with full deployment planned by late 2026.",
+    "engagement": "High",
+    "raw_text": "So check this out, because this is absolute insanity. We all know Nvidia has been the undisputed king of the AI world, right? Well, OpenAI just dropped a massive bomb on the industry. They’ve teamed up with Broadcom and quietly developed their very own custom silicon, code-named Jalapeño! Honestly, this is huge. It took them just nine months to build this thing, which in hardware time is basically overnight. Early benchmarks are showing that Jalapeño goes toe-to-toe with Nvidia’s top GPUs and Google’s TPUs, but here is the wild part: it runs way cooler and promises substantially better performance per watt! I've been saying for months that OpenAI needed to control their own hardware destiny to drop those ChatGPT computing costs, and they just did it. By the end of 2026, they’re rolling these chips out fully, which means we might see a massive shift away from Nvidia reliance. Are we looking at the start of a new silicon war? Let me know in the comments, but seriously, Jalapeño is about to spice up the entire AI landscape!",
+    "id": "JAL2026X91",
+    "category": "Hardware",
+    "companies": [
+      "OpenAI",
+      "Broadcom",
+      "Nvidia",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 3,
+    "title": "WhatsApp is Turning into the Ultimate Super-App!",
+    "summary": "Meta has invested $900 million into Indian fintech CRED and appointed its founder, Kunal Shah, to lead WhatsApp globally. This move signals a massive shift to transform the messaging app into a fully monetized, AI-driven digital commerce ecosystem.",
+    "engagement": "High",
+    "raw_text": "What is going on, guys? Here's the wild part about your favorite messaging app: WhatsApp is about to completely change the way you spend money. Meta just dropped a staggering $900 million to grab a 20% stake in an Indian fintech unicorn called CRED. But wait, it gets crazier! Mark Zuckerberg actually replaced WhatsApp's veteran leader with CRED’s founder, Kunal Shah. Why? Because Meta is desperate to turn WhatsApp from a simple texting utility into a full-blown financial super-app! Honestly, this is a brilliant move. Instead of just sending memes to your group chat, you’re soon going to have AI-powered commercial agents right in your DMs, handling subscriptions, payments, and wealth management. They are building a massive digital commerce empire directly inside the encrypted app we already use every single day. I think this totally redefines social media monetization, skipping annoying ads and going straight for transaction fees. If Shah pulls this off, WhatsApp will literally become the operating system for your digital wallet. Hit that like button if you’d trust Meta with your bank details!",
+    "id": "META900CRED8",
+    "category": "Mobile",
+    "companies": [
+      "Meta",
+      "WhatsApp",
+      "CRED"
+    ],
+    "people": [
+      "Kunal Shah",
+      "Mark Zuckerberg",
+      "Will Cathcart",
+      "Miten Sampat"
+    ],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 9,
+    "title": "The UK Just Became a Nuclear Fusion and Humanoid Robot Powerhouse!",
+    "summary": "Astral Systems raised £23 million to develop modular medical isotope fusion reactors in Bristol. Concurrently, US-based Bear Robotics acquired Bristol's Kinisi Robotics to integrate advanced manipulation algorithms into commercial humanoid fleets.",
+    "engagement": "High",
+    "raw_text": "Okay, you have to hear about what is happening over in the UK right now, because the South West of England is straight-up turning into a sci-fi movie! We have two massive deep-tech stories coming out of Bristol today. First, a startup called Astral Systems just bagged 23 million pounds to build actual, working nuclear fusion reactors! But here is the genius twist—they aren't trying to power the whole grid yet. They are building mini modular reactors to solve the supply chain crisis for medical isotopes used in cancer treatments. Near-term commercial fusion is finally here! And if that wasn't enough, Bear Robotics—one of the biggest names in the US for commercial robot fleets—just bought out Bristol-based Kinisi Robotics. Why? Because Kinisi makes next-level humanoid manipulation algorithms. We are talking about upgrading robots from just rolling around on wheels to actually having fine-motor skills and interacting with complex environments like a human would. I am telling you, between desktop fusion reactors and ultra-smart humanoid bots, Bristol is officially the European capital of the future. Subscribe for more crazy tech updates!",
+    "id": "BRISROBO77",
+    "category": "Science",
+    "companies": [
+      "Astral Systems",
+      "Kinisi Robotics",
+      "Bear Robotics",
+      "Emm"
+    ],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 1,
+    "title": "Qualcomm's Dragonfly Chip is Breaking the Memory Wall!",
+    "summary": "Qualcomm launched its Dragonfly data center portfolio, featuring the revolutionary High Bandwidth Compute (HBC) 3D-stacked architecture. The new AI250 and AI300 accelerators aim to drastically lower power consumption for AI inference workloads, securing a multi-generation deal with Meta.",
+    "engagement": "Medium",
+    "raw_text": "Hey everyone, let's dive into some serious hardware news today. You might think Qualcomm is just the company that powers your smartphone, but they are making a massive play for the hyperscale data center market. They just unveiled their new Dragonfly portfolio, and it is specifically designed to smash through the dreaded memory wall. For those who don't know, moving data between a processor and memory actually takes more energy than doing the math itself! It's a huge bottleneck. So check this out: Qualcomm engineered something called High Bandwidth Compute, or HBC. Instead of using super expensive side-by-side memory, they literally 3D-stacked low-power memory dies directly on top of the compute accelerator! This completely bypasses the traditional data movement tax. They are claiming a ridiculous 6x increase in bandwidth-per-watt. It is such a massive leap in power efficiency that Meta has already signed a multi-year deal to use these chips. As AI models keep getting bigger, power efficiency is the real endgame, and Qualcomm is proving they are ready to play in the big leagues.",
+    "id": "QUALDRAG88X",
+    "category": "Hardware",
+    "companies": [
+      "Qualcomm Technologies",
+      "Meta"
+    ],
+    "people": [
+      "Cristiano Amon"
+    ],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 11,
+    "title": "Stanford's New AI Can Perfectly Fake Human Personalities!",
+    "summary": "Stanford researchers have introduced PsychAdapter, an AI framework capable of dynamically emulating precise human personality traits, age brackets, and mental health profiles. While useful for psychological simulations, it raises severe concerns regarding undetectable, socially manipulative bots.",
+    "engagement": "High",
+    "raw_text": "We need to talk about some seriously terrifying AI research that just dropped from Stanford University. You know how chatbots usually sound, well, like robots? Stanford just developed a new framework called PsychAdapter, and honestly, this is huge—and a little bit scary. This system allows developers to inject extreme levels of psychological realism into an AI. You can dial in exact personality traits, set specific age brackets, and even give the AI distinct mental health profiles so it completely mimics a real human being! On one hand, this is an incredible breakthrough for creating deep, personalized therapeutic bots or simulating human behavior for psychology studies. But here is the wild part: imagine this falling into the wrong hands. We are talking about the potential for completely undetectable, socially manipulative bots that know exactly how to push your emotional buttons. As we get deeper into the era of embodied AI and hyper-realistic digital agents, the line between human and machine is getting fully blurred. Are we ready for bots that have better empathy than most people on the internet? Let me know below.",
+    "id": "STANPSYCH12",
+    "category": "AI",
+    "companies": [
+      "Stanford University"
+    ],
+    "people": [
+      "Andrew Myers"
+    ],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 2",
+    "page": 1,
+    "title": "AI is Now Writing its Own Scientific Software!",
+    "summary": "A new system called Empirical Research Assistance (ERA) has successfully automated the design and coding of scientific algorithms. Highlighted in Nature, ERA generated 40 novel bioinformatics methods and 14 COVID-19 forecasting models that outperformed human benchmarks.",
+    "engagement": "Medium",
+    "raw_text": "Welcome back, tech nerds! Today we have a massive update on the AI research front, and this one is for all the developers and scientists out there. A new study published in Nature just revealed an AI system called ERA, which stands for Empirical Research Assistance. And guys, this AI is literally designing and writing its own complex scientific software! We aren’t talking about basic scripts here. ERA generated 40 entirely new algorithms for single-cell bioinformatics, and it even created 14 COVID-19 forecasting models that actually beat the human-made benchmarks from the CDC. Honestly, this is a crazy milestone for AI-accelerated science. It proves that large language models aren’t just good for writing emails or summarizing articles; they can automate the absolute hardest parts of end-to-end scientific research. Think about how much faster we can cure diseases or model climate change if an AI is doing the heavy computational lifting and coding in the background. It is a fantastic peek into the future of automated R&D. Hit subscribe if you love seeing AI push human boundaries!",
+    "id": "NATUREERA54",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 4,
+    "title": "Bank of England Drops the Hammer on Stablecoins!",
+    "summary": "The Bank of England has instituted strict regulations for systemic sterling-denominated stablecoins. Issuers are now legally required to maintain a 70% government debt and 30% central bank deposit backing ratio to guarantee instantaneous redemption.",
+    "engagement": "Low",
+    "raw_text": "Alright, let's shift gears and talk about some major macroeconomic and crypto regulation news hitting the UK. I know central bank policy isn't always the flashiest topic, but if you hold any crypto, you need to pay attention. The Bank of England just dropped a rigid new regulatory framework for systemic sterling stablecoins. They are completely done messing around with digital bank runs. Under the new draft Code of Practice, any major stablecoin used for payments has to be backed by a highly specific 70/30 split. That means exactly 70% of the backing assets must be held in short-term UK government gilts, and the remaining 30% has to sit directly as central bank deposits. While this might sound super restrictive, it actually gives these private tokens a massive quasi-sovereign guarantee of prompt redemption. It ensures that if you want to cash out, the liquidity is absolutely there. London is clearly trying to position itself as the safest, most legally secure hub for decentralized finance. It's a huge step toward making Web3 infrastructure actually viable for everyday institutional finance.",
+    "id": "BOE7030CRY",
+    "category": "Business",
+    "companies": [
+      "Bank of England"
+    ],
+    "people": [
+      "Sarah Breeden"
+    ],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 5,
+    "title": "AI Just Got FDA Approval to Read Your X-Rays!",
+    "summary": "Aidoc has received the FDA's prestigious Breakthrough Device Designation for its First Read generative AI platform. The system autonomously drafts clinical radiology reports for chest radiographs, aiming to resolve severe diagnostic bottlenecks in emergency departments.",
+    "engagement": "Medium",
+    "raw_text": "What’s up everybody, let’s talk about a breakthrough that could actually save your life! We have a massive update from the medical tech space today. Clinical AI leader Aidoc just scored the ultra-rare FDA Breakthrough Device Designation for a new generative AI called First Read. So check this out: hospitals right now are facing an insane shortage of radiologists, which is causing emergency room imaging wait times to drag out by up to 150 minutes! First Read steps in to fix this by autonomously looking at chest X-rays and instantly drafting the preliminary clinical report. It is specifically validated to detect four critical, life-threatening conditions. Now, it doesn’t fully replace the doctor—it uses a human-in-the-loop system where the physician signs off on the final text—but it completely removes the busywork. Transforming our highly trained doctors from data-entry clerks back into actual clinicians is just brilliant. This is a perfect example of AI doing real-world good, safely navigating strict federal regulations to literally save patients time and improve care. Stay tuned for more MedTech updates!",
+    "id": "AIDOCFDA4X",
+    "category": "Science",
+    "companies": [
+      "Aidoc",
+      "Sutter Health",
+      "Wellspan Health",
+      "Mercy"
+    ],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 1",
+    "page": 10,
+    "title": "Your Raspberry Pi 5 Just Got a Massive AI Upgrade!",
+    "summary": "South Korean chipmaker DeepX and edge hardware provider Sixfab have launched the AI HAT+ for the Raspberry Pi 5. By integrating an ultra-low-power neural processing unit, the board enables high-performance, edge-native AI inference without relying on cloud connectivity.",
+    "engagement": "Medium",
+    "raw_text": "Calling all hardware hackers and makers, this update is specifically for you! If you love tinkering with the Raspberry Pi 5, you are going to want to order this new attachment immediately. DeepX, a South Korean AI semiconductor startup, just teamed up with Sixfab to drop the AI HAT+ expansion board. Here's the deal: standard Raspberry Pis are awesome, but they seriously lack the raw parallel processing power needed for complex AI vision or natural language tasks. You usually have to rely on laggy cloud connections. But this new HAT integrates a dedicated, ultra-low-power Neural Processing Unit right onto the board! By offloading all that heavy tensor math to the NPU, you can run high-performance AI inference locally on the extreme edge. No cloud required! This means absolute data privacy, zero latency, and super low power draw. Whether you're building autonomous drones, smart manufacturing sensors, or cool DIY robotics in your garage, this hardware acceleration is an absolute game changer. Let me know in the comments what crazy AI project you would build with this thing!",
+    "id": "RPI5DEEPX",
+    "category": "Hardware",
+    "companies": [
+      "DeepX",
+      "Sixfab"
+    ],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  },
+  {
+    "date": "2026-06-26",
+    "source_file": "Source 2",
+    "page": 1,
+    "title": "SpaceX Just Made a $6.3 Billion AI GPU Deal!",
+    "summary": "Open-source AI lab Reflection AI has signed a massive $150 million per month GPU contract with SpaceX. Utilizing SpaceX's ex-xAI data center, the deal provides access to Nvidia H100-class GPUs through 2029 to train public AI models.",
+    "engagement": "High",
+    "raw_text": "Hold on to your seats, because the numbers in this next story are absolutely mind-blowing. An open-source AI lab called Reflection AI, which was founded by a bunch of former DeepMind engineers, just secured one of the biggest computing contracts we have ever seen! They signed a deal with SpaceX for a staggering 150 million dollars a month just to rent GPUs. If they extend this through 2029, we are looking at a 6.3 billion dollar contract! So check this out: they are going to be using SpaceX's massive data center—the one that xAI used to use—packed with top-tier Nvidia H100-class hardware. But the best part? Reflection AI is a non-profit, and they are using all this insane computing power to train open-source models that they plan to release publicly to the world! It is so awesome to see open-weight AI labs getting access to this level of hyperscale infrastructure. We are finally seeing a real alternative to the closed-door corporate giants. This space is heating up incredibly fast, so make sure you subscribe to keep up with it all!",
+    "id": "SPACEXREF33",
+    "category": "AI",
+    "companies": [
+      "Reflection AI",
+      "SpaceX",
+      "DeepMind",
+      "Nvidia",
+      "xAI"
+    ],
+    "people": [],
+    "created_at": "2026-06-26T21:00:20+05:30"
+  }
+]
