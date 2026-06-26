@@ -6,8 +6,8 @@
     "title": "Google is MELTING DOWN! Mass Talent Exodus and Gemini 3.5 DELAYED!",
     "summary": "Alphabet is facing a severe talent retention crisis as legendary AI researchers defect to rivals OpenAI and Anthropic, causing a multi-billion dollar market cap crash. Meanwhile, the launch of its highly anticipated Gemini 3.5 Pro model has been officially delayed to July 2026.",
     "engagement": "High",
-    "raw_text": "So check this out—Google is literally melting down right now, and Wall Street is completely panicking! We just learned that Google DeepMind is suffering an absolute nightmare talent exodus, losing the absolute apex minds of the industry to OpenAI and Anthropic. I mean, we're talking about Noam Shazeer—the guy who literally co-authored the paper inventing modern LLMs—bolting for OpenAI. And Dr. John Jumper, the Nobel Prize winner behind AlphaFold? He just dumped Google for Anthropic! This talent bleed was so brutal it wiped a staggering 270 billion dollars off Alphabet's market cap in a single day. And here's the wild part: to make matters even worse, Google just pushed back the release of Gemini 3.5 Pro to July because early testers say it's just not hitting the mark on complex reasoning. They are now crashing head-first into OpenAI's GPT-5.6 launch window. Honestly, this is huge. It shows that having all the compute in the world means absolutely nothing if you can't keep the geniuses who actually build the models. Google's internal bureaucracy might just cost them the AI war!",
-    "id": "A1b2C3d4E5",
+    "raw_text": "So check this out\u2014Google is literally melting down right now, and Wall Street is completely panicking! We just learned that Google DeepMind is suffering an absolute nightmare talent exodus, losing the absolute apex minds of the industry to OpenAI and Anthropic. I mean, we're talking about Noam Shazeer\u2014the guy who literally co-authored the paper inventing modern LLMs\u2014bolting for OpenAI. And Dr. John Jumper, the Nobel Prize winner behind AlphaFold? He just dumped Google for Anthropic! This talent bleed was so brutal it wiped a staggering 270 billion dollars off Alphabet's market cap in a single day. And here's the wild part: to make matters even worse, Google just pushed back the release of Gemini 3.5 Pro to July because early testers say it's just not hitting the mark on complex reasoning. They are now crashing head-first into OpenAI's GPT-5.6 launch window. Honestly, this is huge. It shows that having all the compute in the world means absolutely nothing if you can't keep the geniuses who actually build the models. Google's internal bureaucracy might just cost them the AI war!",
+    "id": "1866f20f",
     "category": "AI",
     "companies": [
       "Alphabet",
@@ -22,17 +22,19 @@
       "Alexander Pritzel",
       "Satya Nadella"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/1866f20f.png",
+    "image_prompt": "Cinematic realistic news photo: a towering Google campus silhouette at dusk, lit like a crisis scene, with subtle glowing cracks and melting metal effect on reflective glass, silhouetted workers leaving with suitcases, distant servers flicker, dramatic red-blue storm sky, tense newsroom tone, ultra-detailed, no text."
   },
   {
     "date": "2026-06-25",
     "source_file": "Global Technology and Artificial Intelligence Research Brief",
     "page": 17,
     "title": "Nvidia Should Be Terrified: OpenAI Just Dropped Their Own AI Chip!",
-    "summary": "OpenAI has officially broken its reliance on merchant silicon by co-developing 'Jalapeño,' a massive custom inference ASIC with Broadcom. The chip is uniquely optimized for running massive LLM workloads with a projected 50% cost reduction.",
+    "summary": "OpenAI has officially broken its reliance on merchant silicon by co-developing 'Jalape\u00f1o,' a massive custom inference ASIC with Broadcom. The chip is uniquely optimized for running massive LLM workloads with a projected 50% cost reduction.",
     "engagement": "High",
-    "raw_text": "Alright, look at this! OpenAI just fired a massive warning shot straight at Nvidia's hardware monopoly. Sam Altman and Greg Brockman just received the very first physical silicon samples of their brand-new custom AI chip called 'Jalapeño!' They co-developed this monster with Broadcom in an ultra-fast nine-month cycle, and it is a massive, reticle-sized ASIC designed completely for inference. See, running ChatGPT globally is costing OpenAI an astronomical amount of money and power on standard Nvidia GPUs. Jalapeño solves this by packing high-bandwidth memory modules physically right next to the processor to kill latency and save power. Broadcom's CEO says this setup will bring up to 50% cost savings! OpenAI is planning to deploy this across Microsoft data centers to power a massive 10-gigawatt infrastructure by 2029. Nvidia has had an insane run, but when your biggest clients decide to build their own silicon instead of buying your marked-up hardware, the game completely changes. Nvidia should be very, very worried about this custom chip revolution!",
-    "id": "F6g7H8i9J0",
+    "raw_text": "Alright, look at this! OpenAI just fired a massive warning shot straight at Nvidia's hardware monopoly. Sam Altman and Greg Brockman just received the very first physical silicon samples of their brand-new custom AI chip called 'Jalape\u00f1o!' They co-developed this monster with Broadcom in an ultra-fast nine-month cycle, and it is a massive, reticle-sized ASIC designed completely for inference. See, running ChatGPT globally is costing OpenAI an astronomical amount of money and power on standard Nvidia GPUs. Jalape\u00f1o solves this by packing high-bandwidth memory modules physically right next to the processor to kill latency and save power. Broadcom's CEO says this setup will bring up to 50% cost savings! OpenAI is planning to deploy this across Microsoft data centers to power a massive 10-gigawatt infrastructure by 2029. Nvidia has had an insane run, but when your biggest clients decide to build their own silicon instead of buying your marked-up hardware, the game completely changes. Nvidia should be very, very worried about this custom chip revolution!",
+    "id": "a97addd2",
     "category": "Hardware",
     "companies": [
       "OpenAI",
@@ -45,7 +47,9 @@
       "Greg Brockman",
       "Hock Tan"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/a97addd2.png",
+    "image_prompt": "Cinematic newsroom style shot: sleek custom AI chip board labeled by shapes only, glowing blue circuitry, subtle Broadcom/OpenAI-like logos omitted, large server racks in background, ominous contrast lighting, tech journalists\u2019 silhouettes, shallow depth of field, ultra-realistic, high detail, dramatic mood."
   },
   {
     "date": "2026-06-25",
@@ -54,14 +58,16 @@
     "title": "Moore's Law is BACK! IBM Just Shattered the 1-Nanometer Barrier!",
     "summary": "IBM has introduced a historic 0.7-nanometer transistor architecture that utilizes vertical 3D stacking to bypass physical scaling limits. The breakthrough promises a 50% processing power boost or a 70% reduction in energy consumption for AI data centers.",
     "engagement": "Medium",
-    "raw_text": "You guys won't believe what IBM just pulled off in the lab. For years, experts have been warning that Moore's Law is dead because flat, 2D microchips are hitting a literal atomic wall. But IBM just completely changed the game by unveiling the world's first sub-1 nanometer chip technology—a mind-blowing 0.7-nanometer architecture! Here's the wild part: instead of trying to cram transistors side-by-side, they engineered a revolutionary vertical 3D stacking design. They can now fit nearly 100 billion transistors onto a piece of silicon the size of a human fingernail! For data centers that are currently sweating under massive power constraints from running AI, this is the ultimate lifesaver. Chip designers can choose between a 50% boost in raw processing power or an insane 70% reduction in power consumption! It's still about five years away from commercial deployment, but this completely rewrites the roadmap for the next decade of supercomputing. Absolutely brilliant structural engineering from IBM!",
-    "id": "K1l2M3n4O5",
+    "raw_text": "You guys won't believe what IBM just pulled off in the lab. For years, experts have been warning that Moore's Law is dead because flat, 2D microchips are hitting a literal atomic wall. But IBM just completely changed the game by unveiling the world's first sub-1 nanometer chip technology\u2014a mind-blowing 0.7-nanometer architecture! Here's the wild part: instead of trying to cram transistors side-by-side, they engineered a revolutionary vertical 3D stacking design. They can now fit nearly 100 billion transistors onto a piece of silicon the size of a human fingernail! For data centers that are currently sweating under massive power constraints from running AI, this is the ultimate lifesaver. Chip designers can choose between a 50% boost in raw processing power or an insane 70% reduction in power consumption! It's still about five years away from commercial deployment, but this completely rewrites the roadmap for the next decade of supercomputing. Absolutely brilliant structural engineering from IBM!",
+    "id": "58683300",
     "category": "Science",
     "companies": [
       "IBM"
     ],
     "people": [],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/58683300.png",
+    "image_prompt": "Photorealistic news image: sleek IBM-style semiconductor wafer on a dark lab bench, macro view of a futuristic 0.7\u2011nm vertical 3D stacked transistor cross-section, glowing nanoscale lines implying breakthrough, cool blue/teal lighting, high contrast, cinematic depth of field, ultra-realistic, no text."
   },
   {
     "date": "2026-06-25",
@@ -70,8 +76,8 @@
     "title": "Why Your Next Mac is Going to Cost Way More (Thanks, AI Squeeze!)",
     "summary": "Micron's blockbuster Q3 earnings revealed a massive shift to a utility-like model, locking in billions for AI memory hardware. However, this data center prioritization has triggered component shortages, forcing Apple to hike retail prices globally.",
     "engagement": "High",
-    "raw_text": "Here's a crazy piece of tech news that is going to hit your wallet directly. Micron Technology just dropped an absolute monster Q3 earnings report, pulling in a staggering 22 billion dollars in locked-in contracts for High Bandwidth Memory. They've shifted to this 'take or pay' utility model, forcing tech giants to pay upfront just to secure their hardware supply. But here is the massive ripple effect for regular consumers: because memory factories are giving absolute priority to hyper-profitable AI data centers, standard DRAM and NAND flash supply has completely cratered. And guess who's passing those insane component costs right down to you? Apple! Tim Cook just announced sudden global price hikes across the entire Mac and iPad lineups because absorbing this component inflation is totally unsustainable for their margins. Apple's stock even dropped 5% on the news. This is the zero-sum reality of the AI boom—big tech infrastructure is hogging the hardware, and regular consumer electronics are getting hit with an AI tax!",
-    "id": "P6q7R8s9T0",
+    "raw_text": "Here's a crazy piece of tech news that is going to hit your wallet directly. Micron Technology just dropped an absolute monster Q3 earnings report, pulling in a staggering 22 billion dollars in locked-in contracts for High Bandwidth Memory. They've shifted to this 'take or pay' utility model, forcing tech giants to pay upfront just to secure their hardware supply. But here is the massive ripple effect for regular consumers: because memory factories are giving absolute priority to hyper-profitable AI data centers, standard DRAM and NAND flash supply has completely cratered. And guess who's passing those insane component costs right down to you? Apple! Tim Cook just announced sudden global price hikes across the entire Mac and iPad lineups because absorbing this component inflation is totally unsustainable for their margins. Apple's stock even dropped 5% on the news. This is the zero-sum reality of the AI boom\u2014big tech infrastructure is hogging the hardware, and regular consumer electronics are getting hit with an AI tax!",
+    "id": "32fb0de4",
     "category": "Business",
     "companies": [
       "Micron Technology",
@@ -80,21 +86,25 @@
     "people": [
       "Tim Cook"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/32fb0de4.png",
+    "image_prompt": "Realistic high-quality news photo: a sleek Mac on a dim desk beside servers glowing with blue AI cores; warehouse racks of memory chips partially empty; distant workers in a data center. Moody lighting, shallow depth of field, credible documentary style, high contrast, no text."
   },
   {
     "date": "2026-06-26",
     "source_file": "Global Technology and Artificial Intelligence Research Brief",
     "page": 30,
-    "title": "China's New Supercomputer Tops Global Charts—But There's a Catch!",
+    "title": "China's New Supercomputer Tops Global Charts\u2014But There's a Catch!",
     "summary": "China's domestic LineShine supercomputer has claimed the top spot in traditional TOP500 benchmarks using entirely homegrown chips. However, the system lagged behind US counterparts in specialized generative AI matrices, ranking fourth globally.",
     "engagement": "Medium",
     "raw_text": "The geopolitical tech war is getting intense! China just deployed an entirely indigenous supercomputer called LineShine, and it just blasted its way to the top of the traditional TOP500 benchmark. What makes this a massive deal is that LineShine runs completely on domestically designed Chinese chips, proving Beijing can build elite hardware despite heavy US trade embargoes. But wait, here's the catch that the headlines are totally missing: when you test this machine on actual artificial intelligence workloads, it drops down to fourth place globally! See, traditional supercomputing relies on double-precision math, but modern generative AI runs on mixed-precision matrix multiplication. On that front, American tech giants are still dominating the field with their specialized AI clusters. So while China scored a huge victory for self-sufficiency and raw brute force, the computing race has officially split into two tracks. Brute force scientific processing is one thing, but reigning supreme in generative AI infrastructure is a whole different ballgame!",
-    "id": "U1v2W3x4Y5",
+    "id": "c23f67d2",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/c23f67d2.png",
+    "image_prompt": "Realistic newsroom photo: sleek LineShine supercomputer hall in China, glowing blue server racks and holographic benchmark graphs fading in the background, engineers in safety glass observing. Split-scene tension\u2014top chart gleaming on left, dimmed AI matrix on right\u2014high-tech, cinematic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-06-26",
@@ -103,8 +113,8 @@
     "title": "The Agentic Internet is Here! Huawei's Insane New 5G Network Upgrade",
     "summary": "Huawei launched its GigaUplink solution at MWC Shanghai to handle the data-heavy upstream demands of mobile AI agents. The multi-antenna system delivers a 500% increase in total uplink capacity and broadens network coverage.",
     "engagement": "Medium",
-    "raw_text": "So check this out—the internet as we know it is fundamentally changing, and Huawei is laying the groundwork. Right now, our cellular networks are completely asymmetrical, meaning they're heavily built for downlinks so we can stream videos and scroll social media. But with the rise of Mobile AI, wearable smart glasses, and autonomous AI agents, things are flipping. These AI agents are constantly generating and uploading live HD video and environmental telemetry to the cloud for real-time inference. To save the networks from buckling, Huawei just dropped their 'GigaUplink' solution at MWC Shanghai. By combining advanced massive MIMO antennas with intelligent collaboration algorithms, they've boosted total network uplink capacity by an insane 500%! They even demonstrated this live, connecting humanoid robots at a half-marathon. This is the absolute prerequisite for the 'Agentic Internet Era.' We are moving away from raw data volume billing to experience-based metrics. Huawei is basically building the nervous system for future autonomous devices!",
-    "id": "Z6a7B8c9D0",
+    "raw_text": "So check this out\u2014the internet as we know it is fundamentally changing, and Huawei is laying the groundwork. Right now, our cellular networks are completely asymmetrical, meaning they're heavily built for downlinks so we can stream videos and scroll social media. But with the rise of Mobile AI, wearable smart glasses, and autonomous AI agents, things are flipping. These AI agents are constantly generating and uploading live HD video and environmental telemetry to the cloud for real-time inference. To save the networks from buckling, Huawei just dropped their 'GigaUplink' solution at MWC Shanghai. By combining advanced massive MIMO antennas with intelligent collaboration algorithms, they've boosted total network uplink capacity by an insane 500%! They even demonstrated this live, connecting humanoid robots at a half-marathon. This is the absolute prerequisite for the 'Agentic Internet Era.' We are moving away from raw data volume billing to experience-based metrics. Huawei is basically building the nervous system for future autonomous devices!",
+    "id": "2158d068",
     "category": "Mobile",
     "companies": [
       "Huawei",
@@ -115,7 +125,9 @@
       "Barbara Pareglio",
       "Wen Ku"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/2158d068.png",
+    "image_prompt": "Ultra-realistic news photo at MWC Shanghai: Huawei engineers in sleek suits beside a glowing 5G multi-antenna radio unit, dense urban skyline behind, subtle holographic network lines arcing skyward, bright blue tech lighting, cinematic depth of field, high detail, sharp focus, no text, 16:9."
   },
   {
     "date": "2026-06-26",
@@ -124,8 +136,8 @@
     "title": "Move Over Big Tech: This Boutique Cloud Just Won AI Platform of the Year!",
     "summary": "Bitdeer AI won top honors at the 2026 AI Breakthrough Awards for its vertically integrated 'AI Factory' hosting model. The platform addresses enterprise cloud fragmentation by managing everything from physical data centers to application software.",
     "engagement": "Low",
-    "raw_text": "When we talk about hosting massive AI models, everyone immediately thinks of Amazon, Microsoft, or Google. But there's a major shift happening right now. A boutique cloud provider called Bitdeer AI just took home the 'AI Cloud Platform of the Year' at the 2026 AI Breakthrough Awards! While standard mega-clouds are struggling with massive capacity shortages, fragmented workflows, and unpredictable surge pricing, Bitdeer is winning with a brilliant 'AI Factory' model. They don't lease server space—they own the physical high-performance data centers, optimizing everything from custom liquid cooling for next-gen Nvidia chips right up to the application software. This means enterprise developers get bare-metal access and structural cost stability without middleman markups. It's a huge deal for companies trying to scale up AI workflows without getting absolute sticker shock from legacy cloud giants. Keep an eye on specialized, boutique infrastructure plays like this, because the era of the universal public cloud monopoly might be showing its cracks!",
-    "id": "E1f2G3h4I5",
+    "raw_text": "When we talk about hosting massive AI models, everyone immediately thinks of Amazon, Microsoft, or Google. But there's a major shift happening right now. A boutique cloud provider called Bitdeer AI just took home the 'AI Cloud Platform of the Year' at the 2026 AI Breakthrough Awards! While standard mega-clouds are struggling with massive capacity shortages, fragmented workflows, and unpredictable surge pricing, Bitdeer is winning with a brilliant 'AI Factory' model. They don't lease server space\u2014they own the physical high-performance data centers, optimizing everything from custom liquid cooling for next-gen Nvidia chips right up to the application software. This means enterprise developers get bare-metal access and structural cost stability without middleman markups. It's a huge deal for companies trying to scale up AI workflows without getting absolute sticker shock from legacy cloud giants. Keep an eye on specialized, boutique infrastructure plays like this, because the era of the universal public cloud monopoly might be showing its cracks!",
+    "id": "5b61beae",
     "category": "Business",
     "companies": [
       "Bitdeer AI",
@@ -133,7 +145,9 @@
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/5b61beae.png",
+    "image_prompt": "Realistic news photo of a modern data center \u201cAI Factory\u201d: sleek servers, glowing fiber lines, subtle holographic AI network over racks, engineers in high-tech attire reviewing holograms, cinematic lighting, shallow depth of field, high detail, credible corporate mood, no text, no logos."
   },
   {
     "date": "2026-06-25",
@@ -143,14 +157,16 @@
     "summary": "Databricks and NVIDIA have released 'Genesis Workbench,' a secure platform tailored for computational life sciences. The system allows pharamaceutical researchers to utilize GPU-accelerated AI tools entirely inside their corporate firewall.",
     "engagement": "Medium",
     "raw_text": "We all know AI is doing amazing things in medical research, but pharmaceutical companies have been dealing with a major blocker: data privacy. Sending proprietary molecular designs and sensitive genomic data out to public AI model APIs is an absolute legal nightmare. To fix this, Databricks and NVIDIA just teamed up to launch the 'Genesis Workbench.' This is a major open-platform blueprint that integrates NVIDIA's BioNeMo and CUDA frameworks directly into Databricks' secure environments. The wild part? It runs completely serverless and entirely inside the company's private corporate perimeter. No external API calls required! It even features a slick no-code interface, meaning traditional biologists can fine-tune complex chemical models without needing a degree in computer science. With over half of organizations citing privacy as their main barrier to adopting generative AI, this in-perimeter architecture is a masterclass in data governance. It's going to seriously speed up the timeline for discovering life-saving drugs!",
-    "id": "J6k7L8m9N0",
+    "id": "d54864f1",
     "category": "AI",
     "companies": [
       "Databricks",
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/d54864f1.png",
+    "image_prompt": "Realistic photo-style newsroom image: a bioinformatics researcher at a sleek lab workstation with translucent holographic DNA/graph networks, surrounded by NVIDIA-like green GPU motifs and secure data shield iconography, glowing \u201cin-perimeter\u201d ambiance, corporate firewall aesthetic, high-detail, cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-06-25",
@@ -160,7 +176,7 @@
     "summary": "Australian mining billionaire Gina Rinehart has invested $50 million into Lumitron Technologies to commercialize its HyperView system. The tech uses ultra-high-energy electron beams to capture images with 1,000 times the resolution of traditional X-rays.",
     "engagement": "High",
     "raw_text": "Get ready for a crazy crossover between heavy industrial mining and breakthrough healthcare! Australian billionaire Gina Rinehart just injected 50 million dollars into a California startup called Lumitron Technologies to commercialize something called 'HyperView' technology. And guys, this sounds like absolute sci-fi. HyperView uses very high-energy electron beams to produce images with up to 1,000 times the resolution of a conventional X-ray system! In the mining sector, this lets companies look at mineral ore at a sub-atomic level to detect hidden contaminants and instantly find high-grade minerals, saving massive amounts of energy. But medically, this mind-blowing resolution offers an unprecedented breakthrough for early-stage breast cancer detection, which is a cause Rinehart is deeply passionate about. Her company, Hancock Prospecting, is getting a board seat with an option to scale the investment to 100 million later this year. Using the exact same underlying physics to optimize rare-earth mining and save human lives? That is an absolute epic tech play!",
-    "id": "O1p2Q3r4S5",
+    "id": "86afe1a1",
     "category": "Hardware",
     "companies": [
       "Lumitron Technologies",
@@ -170,7 +186,9 @@
     "people": [
       "Gina Rinehart"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/86afe1a1.png",
+    "image_prompt": "Ultra-realistic news photo: Australian outback mining site at dusk, billionaire standing in hardhat near Lumitron-style lab equipment; glowing futuristic electron-beam projector emitting a thin beam into a transparent imaging chamber; dramatic cinematic lighting, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-06-25",
@@ -179,8 +197,8 @@
     "title": "The AI Crackdown! US States Pass Sweeping New Bans and Restrictions",
     "summary": "A chaotic wave of state-level AI regulations has emerged across the US due to ongoing federal inaction. Major pieces of legislation include Rhode Island's complete ban on unsupervised therapy chatbots and New York's moratorium on massive data centers.",
     "engagement": "High",
-    "raw_text": "Alright, here's the wild part about the legal side of tech right now—the United States is entering a phase of complete AI policy chaos! Because Congress has completely stalled on making a unified federal framework, individual states are taking matters into their own hands, and they are dropping the hammer. A massive new legislative tracker reveals that over 78 chatbot bills are active across 27 states. Rhode Island just officially enacted a law that completely bans companies from offering AI mental health therapy chatbots unless a licensed human professional is directly supervising them! Over in New York, they are advancing the 'Responsible Data Center Development Act,' which slaps a devastating one-year freeze on any new mega-data centers drawing over 20 megawatts. Meanwhile, California is straight up banning AI from acting as public school teachers! This patchwork of conflicting laws is going to crush smaller AI startups that can't afford massive legal teams, while the tech giants just coast through. The regulatory wild west is officially over!",
-    "id": "T6u7V8w9X0",
+    "raw_text": "Alright, here's the wild part about the legal side of tech right now\u2014the United States is entering a phase of complete AI policy chaos! Because Congress has completely stalled on making a unified federal framework, individual states are taking matters into their own hands, and they are dropping the hammer. A massive new legislative tracker reveals that over 78 chatbot bills are active across 27 states. Rhode Island just officially enacted a law that completely bans companies from offering AI mental health therapy chatbots unless a licensed human professional is directly supervising them! Over in New York, they are advancing the 'Responsible Data Center Development Act,' which slaps a devastating one-year freeze on any new mega-data centers drawing over 20 megawatts. Meanwhile, California is straight up banning AI from acting as public school teachers! This patchwork of conflicting laws is going to crush smaller AI startups that can't afford massive legal teams, while the tech giants just coast through. The regulatory wild west is officially over!",
+    "id": "068135ab",
     "category": "Business",
     "companies": [
       "The Transparency Coalition"
@@ -190,6 +208,8 @@
       "Dan McKee",
       "Kathy Hochul"
     ],
-    "created_at": "2026-06-26T08:58:05Z"
+    "created_at": "2026-06-26T08:58:05Z",
+    "image_url": "images/26_06_26/068135ab.png",
+    "image_prompt": "Realistic news photo: tense US state Capitol silhouettes under stormy skies, flashing red-blue emergency lights, a split-scene tech overlay of AI circuitry and data servers fading into chaos, blurred crowd of lawmakers, dramatic lighting, high detail, cinematic, no text."
   }
 ]
