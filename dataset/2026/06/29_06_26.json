@@ -7,7 +7,7 @@
     "summary": "The U.S. Commerce Department partially lifted its strict export ban on Anthropic's advanced cybersecurity model, Claude Mythos 5, following an intense national security suspension. The model will now be restricted to roughly 100 vetted organizations under Project Glasswing, while the consumer variant remains entirely blocked.",
     "engagement": "High",
     "raw_text": "So check this out, the U.S. government just made a wild move that changes the AI landscape forever! They partially walked back their absolute ban on Anthropic's insane cybersecurity model, Claude Mythos 5. We are talking about an AI so powerful at hacking and defense that Uncle Sam straight-up locked it down under export laws, even blocking Anthropic's own foreign engineers from looking at it! Here's the wild part: they are now letting only about 100 heavily vetted groups access it through something called Project Glasswing. But if you're hoping to use the consumer version, Fable 5? Forget about it. The feds say it stays offline until Anthropic mathematically proves it can't be jailbroken. Honestly, this is huge because cybersecurity experts are calling that demand completely impossible for generative networks! We are officially living in a world where cutting-edge AI is treated like a literal military weapon. I think this managed-release stuff is going to push developers straight into open-source alternatives just to escape government control. What do you think, is this safety or total overreach?",
-    "id": "a1b2c3d4",
+    "id": "8b442c40",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -17,7 +17,9 @@
       "Howard Lutnick",
       "Tom Brown"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/8b442c40.png",
+    "image_prompt": "Realistic news photo: tense U.S. Capitol and Commerce Department silhouette at dusk, subtle glowing data streams, a shadowy AI core emblem with \u201cban\u201d crossed-out vibe (no text), government officials in suits reviewing sealed files, atmospheric haze, high detail, cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-06-10",
@@ -26,8 +28,8 @@
     "title": "The Largest AI Heist Ever? Anthropic Accuses Alibaba of Massive Cloning Attack!",
     "summary": "Anthropic has formally accused Alibaba's Qwen AI lab of executing an industrial-scale 'adversarial distillation attack' to steal intellectual property. Allegedly, Alibaba utilized 25,000 fraudulent accounts to generate over 28.8 million exchanges, siphoning Claude's advanced software engineering logic.",
     "engagement": "High",
-    "raw_text": "Okay, you need to hear about the absolute drama exploding between Anthropic and Alibaba right now! Anthropic is officially accusing Alibaba’s Qwen AI lab of pulling off the largest AI heist in history. We're talking about a massive 'adversarial distillation attack' where Alibaba allegedly used twenty-five thousand fake accounts to siphon Claude’s advanced coding and reasoning capabilities. Here's the wild part: they generated over twenty-eight million exchanges to train their own student model on the cheap, totally bypassing the billions Anthropic spent on computing. Anthropic caught them red-handed using IP data and metadata, and they've already dragged this straight to U.S. Senators! Honestly, this is huge because it proves the old ways of corporate espionage are dead. Hackers don't need to steal source code anymore; they just scrape your public API until their AI is as smart as yours! I think this is a massive wake-up call for the entire tech sector. We're going to see a massive boom in AI-native security tools because of this.",
-    "id": "e5f6g7h8",
+    "raw_text": "Okay, you need to hear about the absolute drama exploding between Anthropic and Alibaba right now! Anthropic is officially accusing Alibaba\u2019s Qwen AI lab of pulling off the largest AI heist in history. We're talking about a massive 'adversarial distillation attack' where Alibaba allegedly used twenty-five thousand fake accounts to siphon Claude\u2019s advanced coding and reasoning capabilities. Here's the wild part: they generated over twenty-eight million exchanges to train their own student model on the cheap, totally bypassing the billions Anthropic spent on computing. Anthropic caught them red-handed using IP data and metadata, and they've already dragged this straight to U.S. Senators! Honestly, this is huge because it proves the old ways of corporate espionage are dead. Hackers don't need to steal source code anymore; they just scrape your public API until their AI is as smart as yours! I think this is a massive wake-up call for the entire tech sector. We're going to see a massive boom in AI-native security tools because of this.",
+    "id": "ea15e672",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -37,7 +39,9 @@
       "Tim Scott",
       "Elizabeth Warren"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/ea15e672.png",
+    "image_prompt": "Realistic editorial photo of a tense cybercrime newsroom: dark monitors with glowing code streams, blurred figures in suits at desks, a massive shadowy network diagram morphing into a duplicate \u201cAI brain\u201d motif, dramatic lighting, moody blue/red palette, shallow depth of field, ultra-high detail, no text."
   },
   {
     "date": "2026-06-26",
@@ -46,8 +50,8 @@
     "title": "Congress Moves to Block Foreign Adversaries Renting AI Chips in the Cloud!",
     "summary": "U.S. lawmakers introduced the bipartisan 'Cloud Security Act' to shut down a major loophole allowing foreign entities to bypass hardware export controls. The bill grants legal safe harbor to cloud providers like AWS and Azure to report suspicious computational renting by foreign adversaries.",
     "engagement": "Medium",
-    "raw_text": "So check this out, Congress is finally moving to close the ultimate tech loophole! Right now, even though foreign adversaries are banned from buying physical AI chips, they've just been renting power on those exact same chips through American cloud providers like AWS and Azure. Sneaky, right? Well, the newly introduced 'Cloud Security Act' is putting a dead stop to that. Here's the wild part: it gives total legal safe harbor to tech companies that voluntarily snitch on suspicious foreign customers. Before this, strict privacy laws made flagging this behavior a legal nightmare. Honestly, this is huge because it redefines computing as a trackable, borderless utility rather than a physical piece of hardware. My take? This is going to fracture the global internet even more. Foreign states are going to speed up building their own sovereign data centers so they can avoid U.S. surveillance and Western tech entirely. It’s a massive paradigm shift in modern trade policy!",
-    "id": "i9j0k1l2",
+    "raw_text": "So check this out, Congress is finally moving to close the ultimate tech loophole! Right now, even though foreign adversaries are banned from buying physical AI chips, they've just been renting power on those exact same chips through American cloud providers like AWS and Azure. Sneaky, right? Well, the newly introduced 'Cloud Security Act' is putting a dead stop to that. Here's the wild part: it gives total legal safe harbor to tech companies that voluntarily snitch on suspicious foreign customers. Before this, strict privacy laws made flagging this behavior a legal nightmare. Honestly, this is huge because it redefines computing as a trackable, borderless utility rather than a physical piece of hardware. My take? This is going to fracture the global internet even more. Foreign states are going to speed up building their own sovereign data centers so they can avoid U.S. surveillance and Western tech entirely. It\u2019s a massive paradigm shift in modern trade policy!",
+    "id": "1e0f508a",
     "category": "Business",
     "companies": [
       "Amazon Web Services",
@@ -57,7 +61,9 @@
       "Josh Gottheimer",
       "John Moolenaar"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/1e0f508a.png",
+    "image_prompt": "Realistic newsroom scene: U.S. Capitol silhouette at dusk, dramatic lighting, lawmakers\u2019 hands debating documents, sleek data-center servers glowing in foreground, cloud computing network hologram, subtle silhouettes of foreign actors in shadow, tense investigative mood, high-detail, sharp focus, no text."
   },
   {
     "date": "2026-06-26",
@@ -66,8 +72,8 @@
     "title": "The End of Deepfakes? Senate Advances Strict New Federal Protections!",
     "summary": "The U.S. Senate Judiciary Committee unanimously advanced the NO FAKES Act to establish robust federal protections against unauthorized AI digital replicas. Concurrently, lawmakers introduced the AI Labeling Act of 2026, mandating visible and machine-readable cryptographic tags on all synthetic content.",
     "engagement": "High",
-    "raw_text": "We are finally getting real federal weapons against deepfakes, and honestly, it’s about time! The Senate Judiciary Committee just unanimously advanced the NO FAKES Act. This creates heavy federal protections and gives direct subpoena powers to crush anyone cloning your voice or visual likeness without your consent. But wait, here’s the wild part: they also introduced the AI Labeling Act, mandating that every single piece of AI-generated content—images, video, audio, even chatbots—must have visible and machine-readable cryptographic tags! This completely shifts the fight from trying to stop people from making AI, to regulating it at the point where regular consumers interact with it. We've all seen how out of control voice cloning has gotten, so this is an absolute win for protecting human identity. The only catch is that current watermarking tech is super easy for sophisticated bad actors to hack and bypass. It’s going to be an absolute cat-and-mouse game between regulators and hackers!",
-    "id": "m3n4o5p6",
+    "raw_text": "We are finally getting real federal weapons against deepfakes, and honestly, it\u2019s about time! The Senate Judiciary Committee just unanimously advanced the NO FAKES Act. This creates heavy federal protections and gives direct subpoena powers to crush anyone cloning your voice or visual likeness without your consent. But wait, here\u2019s the wild part: they also introduced the AI Labeling Act, mandating that every single piece of AI-generated content\u2014images, video, audio, even chatbots\u2014must have visible and machine-readable cryptographic tags! This completely shifts the fight from trying to stop people from making AI, to regulating it at the point where regular consumers interact with it. We've all seen how out of control voice cloning has gotten, so this is an absolute win for protecting human identity. The only catch is that current watermarking tech is super easy for sophisticated bad actors to hack and bypass. It\u2019s going to be an absolute cat-and-mouse game between regulators and hackers!",
+    "id": "88240ca9",
     "category": "AI",
     "companies": [],
     "people": [
@@ -75,7 +81,9 @@
       "John Curtis",
       "Mark Warner"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/88240ca9.png",
+    "image_prompt": "Realistic newsroom scene: U.S. Capitol in soft morning light beyond windows, lawmakers in suits reviewing AI ethics documents, subtle holographic shield and warning-free biometric/face mesh overlay, cryptographic code-like glow tags drifting as abstract icons, serious news mood, high detail, natural colors, no text."
   },
   {
     "date": "2026-06-26",
@@ -84,15 +92,17 @@
     "title": "Onsemi Strikes Massive $7 Billion Deal to Conquer 'Physical AI' Robots!",
     "summary": "Semiconductor manufacturer onsemi announced an all-stock acquisition of Synaptics Incorporated valued at $7 billion to capture dominance in the edge hardware sector. The combined entity will vertically integrate power management layers with edge neural processing units (NPUs) for real-world robotics and vehicles.",
     "engagement": "High",
-    "raw_text": "Get ready, because the tech industry just triggered a massive consolidation wave to solve the biggest bottleneck in hardware! Onsemi is officially buying Synaptics in a jaw-dropping seven-billion-dollar all-stock deal! Now, why does this matter to you? Because it’s a massive bet on what experts are calling 'Physical AI'. While everyone has been obsessing over cloud data centers, the next frontier is intelligent machines that sense and adapt in the real physical world—think autonomous vehicles, advanced industrial robotics, and crazy smart AR headsets. Here's the wild part: the primary constraint on robots isn't smart code; it’s battery life and heat! By combining onsemi's legendary power management with Synaptics' edge neural processing units, they are creating a hyper-efficient nervous system for future hardware. Honestly, this is huge because it challenges pure chipmakers by focusing on localized energy efficiency over raw computational brute force. The future of robotics just took a massive leap forward!",
-    "id": "q7r8s9t0",
+    "raw_text": "Get ready, because the tech industry just triggered a massive consolidation wave to solve the biggest bottleneck in hardware! Onsemi is officially buying Synaptics in a jaw-dropping seven-billion-dollar all-stock deal! Now, why does this matter to you? Because it\u2019s a massive bet on what experts are calling 'Physical AI'. While everyone has been obsessing over cloud data centers, the next frontier is intelligent machines that sense and adapt in the real physical world\u2014think autonomous vehicles, advanced industrial robotics, and crazy smart AR headsets. Here's the wild part: the primary constraint on robots isn't smart code; it\u2019s battery life and heat! By combining onsemi's legendary power management with Synaptics' edge neural processing units, they are creating a hyper-efficient nervous system for future hardware. Honestly, this is huge because it challenges pure chipmakers by focusing on localized energy efficiency over raw computational brute force. The future of robotics just took a massive leap forward!",
+    "id": "78da9d62",
     "category": "Hardware",
     "companies": [
       "onsemi",
       "Synaptics Incorporated"
     ],
     "people": [],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/78da9d62.png",
+    "image_prompt": "Ultra-realistic news photo-style scene: sleek humanoid robot arm and autonomous car dashboard, glowing circuitry and edge-NPU chips fused with power-management circuitry, dramatic corporate lighting, shallow depth of field, high detail, natural colors, modern tech mood, crisp focus, no text."
   },
   {
     "date": "2026-06-26",
@@ -102,7 +112,7 @@
     "summary": "San Francisco startup Patronus AI secured $50 million in Series B funding to scale its 'Digital World Models' testing environment. The company aims to address the 88% failure rate of enterprise AI agent pilots by providing language diffusion-based simulation frameworks.",
     "engagement": "Medium",
     "raw_text": "So check this out: there is a silent crisis happening in tech where an astonishing eighty-eight percent of enterprise AI agent pilots fail to ever reach production! Companies are finding out that conversational chatbots completely break down when trying to execute complex, multi-step real-world workflows. Enter Patronus AI, who just raised a massive fifty-million-dollar Series B to solve exactly this! They are using advanced language diffusion to build 'Digital World Models'. Think of it like a hyper-realistic, simulated enterprise sandbox where engineering teams can violently stress-test their autonomous AI agents before giving them access to live company data. Here's the wild part: this completely mirrors the self-driving car industry, which required billions of miles of simulated driving before hitting public roads. Honestly, this is huge. Whoever controls the definitive simulation environment is going to dictate the safety and regulatory compliance standards for the entire upcoming agentic economy. Keep your eyes on this space!",
-    "id": "u1v2w3x4",
+    "id": "e2ebe7fc",
     "category": "AI",
     "companies": [
       "Patronus AI",
@@ -115,7 +125,9 @@
     "people": [
       "Gokul Rajaram"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/e2ebe7fc.png",
+    "image_prompt": "Realistic high-quality news photo: futuristic San Francisco skyline at dusk, a sleek server rack core glowing like a digital \u201csandbox\u201d maze beneath glass, engineers in lab coats observing holographic simulation graphs, cinematic lighting, tech mood, shallow depth of field, no text."
   },
   {
     "date": "2026-06-26",
@@ -124,17 +136,19 @@
     "title": "F5 Acquires SurePath AI to Terminate Dangerous Corporate 'Shadow AI' Leaks!",
     "summary": "Networking giant F5 announced the acquisition of Denver startup SurePath AI to integrate network-level interception capabilities into its platform. The technology allows enterprises to detect, govern, and restrict employee use of unsanctioned, public-facing generative AI interfaces.",
     "engagement": "Medium",
-    "raw_text": "Here's a crazy fact for you: the biggest cyber threat to massive corporations right now isn't some elite group of external hackers—it's their own employees! Workers are recklessly pasting highly sensitive corporate intellectual property, legal documents, and financial data into public, unsanctioned generative AI tools. To kill this 'shadow AI' threat, networking giant F5 just snapped up a stealthy startup called SurePath AI. F5's CEO bluntly stated that the more an enterprise adopts AI, the less visibility it has into what AI is actually operating inside the company. SurePath acts as a network-level interceptor that tracks exactly what models your employees are using and slams down strict governance guardrails in real-time. Honestly, this is huge because corporate IT is officially pivoting from defending the outer perimeter to actively surveillance-monitoring internal employee behavior to maintain data integrity. If you're using unauthorized AI at work, big brother is definitely watching you now!",
-    "id": "y5z6a7b8",
+    "raw_text": "Here's a crazy fact for you: the biggest cyber threat to massive corporations right now isn't some elite group of external hackers\u2014it's their own employees! Workers are recklessly pasting highly sensitive corporate intellectual property, legal documents, and financial data into public, unsanctioned generative AI tools. To kill this 'shadow AI' threat, networking giant F5 just snapped up a stealthy startup called SurePath AI. F5's CEO bluntly stated that the more an enterprise adopts AI, the less visibility it has into what AI is actually operating inside the company. SurePath acts as a network-level interceptor that tracks exactly what models your employees are using and slams down strict governance guardrails in real-time. Honestly, this is huge because corporate IT is officially pivoting from defending the outer perimeter to actively surveillance-monitoring internal employee behavior to maintain data integrity. If you're using unauthorized AI at work, big brother is definitely watching you now!",
+    "id": "ebffdef3",
     "category": "AI",
     "companies": [
       "F5",
       "SurePath AI"
     ],
     "people": [
-      "François Locoh-Donou"
+      "Fran\u00e7ois Locoh-Donou"
     ],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/ebffdef3.png",
+    "image_prompt": "Realistic newsroom-style photo: sleek corporate server room with glowing network lines flowing toward a central shield icon, subtle AI circuitry motifs, Denver skyline silhouette in distance, executives in suits observing on holographic dashboard, tense security mood, high contrast, crisp detail, no text."
   },
   {
     "date": "2026-06-27",
@@ -144,14 +158,16 @@
     "summary": "Consumer electronics giant Xiaomi disrupted the foundational model landscape by open-sourcing its MiMo-V2 architecture via OpenRouter. The flagship variant, MiMo-V2-Pro, boasts over 1 trillion parameters and a 1-million token context window optimized for complex autonomous task execution.",
     "engagement": "High",
     "raw_text": "Alright, Xiaomi just absolutely nuked the narrative that Western tech giants hold an insurmountable lead in artificial intelligence! Out of nowhere, they just dropped their insane MiMo-V2 family of foundation models straight into the open-source ecosystem via OpenRouter. The flagship model, MiMo-V2-Pro, features a mind-blowing one-trillion-plus parameters and a staggering one-million token context length! Here's the wild part: this model can absorb entire codebases or hundreds of legal documents in a single pass at an incredibly cheap inference cost. They also dropped MiMo-V2-Omni, which natively processes video, audio, and images without relying on annoying external wrappers. Honestly, this is huge because it completely commoditizes premium AI reasoning capabilities. Xiaomi is proving that the game has completely rotated from passive, conversational chat to active, autonomous digital task execution. Open-source developers are eating absolutely fantastic today!",
-    "id": "c9d0e1f2",
+    "id": "4b769565",
     "category": "AI",
     "companies": [
       "Xiaomi",
       "OpenRouter"
     ],
     "people": [],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/4b769565.png",
+    "image_prompt": "Photorealistic newsroom scene: sleek Xiaomi-style AI server racks with glowing cores and holographic neural network strands, futuristic compute cables, subtle world map light, dramatic cinematic lighting, high detail, shallow depth of field, realistic reflections, modern tech atmosphere, no text."
   },
   {
     "date": "2026-03-15",
@@ -160,14 +176,16 @@
     "title": "Apple Beats 'RAMageddon' Semiconductor Inflation with New $599 MacBook Neo!",
     "summary": "To combat AI-driven supply chain inflation and premium chip costs, Apple launched the MacBook Neo at a highly competitive $599 price point. The 13-inch laptop successfully implements the A18 Pro mobile-class silicon rather than more expensive M-series chips to power local operating system intelligence.",
     "engagement": "High",
-    "raw_text": "So check this out, the massive AI boom has officially triggered a hidden 'AI tax' on our electronics wallets, causing severe chip inflation dubbed 'RAMageddon'! Premium manufacturing nodes for local AI processing have become so crazy expensive that Apple had to raise prices across its main iPad and Mac lines. But instead of alienating budget buyers, Apple pulled off an absolute genius architectural pivot by dropping the MacBook Neo for just five hundred and ninety-nine bucks! Here's the wild part: to hit that price point without killing the AI performance needed for modern features, Apple repurposed the A18 Pro chip—the exact same high-end silicon originally built for flagship iPhones! Reviewers are absolutely raving about it, giving it a Mashable Choice Award. Honestly, this is huge because it proves that mobile-class silicon inside a laptop chassis can absolutely dominate the sub-six-hundred-dollar laptop market while bypassing crazy premium supply chain constraints. Apple just completely changed the budget laptop game!",
-    "id": "g3h4i5j6",
+    "raw_text": "So check this out, the massive AI boom has officially triggered a hidden 'AI tax' on our electronics wallets, causing severe chip inflation dubbed 'RAMageddon'! Premium manufacturing nodes for local AI processing have become so crazy expensive that Apple had to raise prices across its main iPad and Mac lines. But instead of alienating budget buyers, Apple pulled off an absolute genius architectural pivot by dropping the MacBook Neo for just five hundred and ninety-nine bucks! Here's the wild part: to hit that price point without killing the AI performance needed for modern features, Apple repurposed the A18 Pro chip\u2014the exact same high-end silicon originally built for flagship iPhones! Reviewers are absolutely raving about it, giving it a Mashable Choice Award. Honestly, this is huge because it proves that mobile-class silicon inside a laptop chassis can absolutely dominate the sub-six-hundred-dollar laptop market while bypassing crazy premium supply chain constraints. Apple just completely changed the budget laptop game!",
+    "id": "0d4ad7ac",
     "category": "Hardware",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/0d4ad7ac.png",
+    "image_prompt": "Photorealistic newsroom product scene: sleek 13-inch MacBook Neo on a clean desk, soft studio lighting, close-up of cooling vents and premium matte finish, subtle AI circuit glow in background bokeh, tech-professional mood, high detail, natural colors, shallow depth of field, no text, no logos."
   },
   {
     "date": "2026-06-27",
@@ -176,13 +194,15 @@
     "title": "AI Invades Cancer Care! Autonomous Agents Take Over Medical Tumor Boards!",
     "summary": "Clinical trial data presented at the ASCO Breakthrough 2026 meeting revealed that specialized 'Agentic AI' systems are now managing multidisciplinary oncology tumor boards. The AI cross-references genomic data against global databases to rapidly optimize personalized cancer treatment pathways.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge and a literal matter of life and death! At the highly prestigious ASCO Breakthrough meeting, researchers just dropped mind-blowing data showing that specialized autonomous 'Agentic AI' is now managing complex, multidisciplinary medical tumor boards. We are talking about critical forums where cancer doctors, radiologists, and surgeons debate treatment plans. Now, an AI agent can instantly cross-reference a patient’s unique genomic profile against millions of global clinical trials and historical pathology data to deliver hyper-personalized medicine in seconds. But here's the wild part: it's creating an absolute legal minefield regarding medical liability. If a human oncologist decides to override the AI’s evidence-based recommendation and the patient gets worse, what happens to the doctor legally? This is a massive paradigm shift where medical AI isn't just a helper anymore; it's practically running the consultation room. The future of healthcare is arriving faster than we ever imagined!",
-    "id": "k7l8m9n0",
+    "raw_text": "Honestly, this is huge and a literal matter of life and death! At the highly prestigious ASCO Breakthrough meeting, researchers just dropped mind-blowing data showing that specialized autonomous 'Agentic AI' is now managing complex, multidisciplinary medical tumor boards. We are talking about critical forums where cancer doctors, radiologists, and surgeons debate treatment plans. Now, an AI agent can instantly cross-reference a patient\u2019s unique genomic profile against millions of global clinical trials and historical pathology data to deliver hyper-personalized medicine in seconds. But here's the wild part: it's creating an absolute legal minefield regarding medical liability. If a human oncologist decides to override the AI\u2019s evidence-based recommendation and the patient gets worse, what happens to the doctor legally? This is a massive paradigm shift where medical AI isn't just a helper anymore; it's practically running the consultation room. The future of healthcare is arriving faster than we ever imagined!",
+    "id": "7728e367",
     "category": "Science",
     "companies": [
       "ASCO"
     ],
     "people": [],
-    "created_at": "2026-06-28T00:48:31Z"
+    "created_at": "2026-06-28T00:48:31Z",
+    "image_url": "images/29_06_26/7728e367.png",
+    "image_prompt": "Photoreal news photo: futuristic oncology tumor board in a hospital conference room, holographic genomic maps floating above a round table, clinicians silhouetted in focus, an autonomous agent AI core emitting soft blue light, subtle server racks in background, high detail, cinematic, tense yet hopeful mood."
   }
 ]
