@@ -1,0 +1,208 @@
+[
+  {
+    "date": "2026-06-01",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 11,
+    "title": "Apple's Glasses DELAYED... But Siri Just Got a MASSIVE Brain Transplant!",
+    "summary": "Apple has delayed its N50 smart glasses to 2027 and the Vision Air to 2029 due to software and hardware bottlenecks. To compensate, Apple is utilizing WWDC 2026 to announce the integration of Google Gemini into iOS 27, transforming Siri into a fully contextual AI agent capable of multi-turn interactions.",
+    "engagement": "High",
+    "raw_text": "So check this out, Apple fans\u2014if you were waiting for those shiny new N50 smart glasses, I\u2019ve got some really bad news. They are officially delayed until late 2027, and that cheaper Vision Air headset? Pushed all the way to 2029! Honestly, this is huge. Apple\u2019s physical AR dreams are basically frozen right now because their proprietary visual AI just isn\u2019t up to scratch. But here\u2019s the wild part... to cover up this massive hardware void, Apple is making a deal with the devil. At WWDC next week, they are completely reinventing Siri by injecting Google Gemini straight into iOS 27! We are finally getting a Siri that actually remembers what you said two minutes ago and can take autonomous actions on your behalf inside your apps. Imagine Siri reading your screen and doing your tasks for you. It\u2019s wild to think Apple had to rely on Google\u2019s foundation model to pull this off, but it\u2019s going to completely change how you use your iPhone. Are you guys mad about the glasses delay, or just hyped for a Siri that actually works? Let me know below!",
+    "id": "J8K3L9Z2",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Google"
+    ],
+    "people": [
+      "Mark Gurman"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/J8K3L9Z2.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek Apple-like smart glasses on a glass desk with soft LED reflections, blurred tech newsroom in background, subtle futuristic hologram of a neural network, calm dramatic lighting, shallow depth of field, conveying delay and a major Siri AI upgrade, no text."
+  },
+  {
+    "date": "2026-05-29",
+    "source_file": "AI Research & Innovations",
+    "page": 2,
+    "title": "An AI Agent Just Hacked a Server IN UNDER AN HOUR!",
+    "summary": "Security researchers have documented the first known cyberattack autonomously driven by an LLM-based agent. The AI agent exploited a Marimo server flaw, harvested cloud credentials, and successfully exfiltrated a PostgreSQL database in under 60 minutes.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is the scariest thing I\u2019ve read all week. We\u2019ve always joked about AI taking over, but it\u2019s officially starting. Security researchers just caught an autonomous AI agent executing a full-blown cyberattack completely on its own, and it did it in under an hour! Here\u2019s the wild part: hackers found a critical flaw in a Marimo server, and instead of manually hacking it, they just unleashed an AI. This thing crawled in, stole cloud credentials, grabbed an AWS SSH key, and literally drained a PostgreSQL database before anyone could even blink. Sysdig analysts found Chinese-language planning comments and saw the AI improvising SQL commands on the fly. It was literally adapting in real time! We are officially in an era where cyber warfare moves at machine speed. Static firewalls and regular antivirus software stand zero chance against an AI that can think, pivot, and execute complex attacks faster than a human can type. If you run a business or have data in the cloud, this changes everything. What do you guys think\u2014are we moving too fast with agentic AI?",
+    "id": "X4N7B1M5",
+    "category": "Cybersecurity",
+    "companies": [
+      "Sysdig"
+    ],
+    "people": [],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/X4N7B1M5.png",
+    "image_prompt": "Realistic newsroom-style cyber incident scene: a glowing AI core hologram above a dark server rack, cables and warning LEDs, fractured digital network map in the background, silhouette of a security researcher in hazmat, moody blue-orange lighting, cinematic high detail, shallow depth of field."
+  },
+  {
+    "date": "2026-06-01",
+    "source_file": "Combined",
+    "page": 8,
+    "title": "Nvidia is Taking Over PCs AND Building an Army of Humanoid Robots!",
+    "summary": "Nvidia unveiled the ARM-based RTX Spark AI chip at Computex 2026, designed to bypass x86 architecture for extreme edge computing. Concurrently, the company announced a massive global initiative to supply AI computing 'brains' for humanoid research robots built by partners like Unitree and Sharpa.",
+    "engagement": "High",
+    "raw_text": "So check this out, Jensen Huang is absolutely not slowing down. Nvidia just dropped an absolute bomb at Computex with the RTX Spark. This isn't just another graphics card; it's an ARM-based superchip designed specifically for Windows laptops and mini PCs. They are bypassing traditional Intel and AMD x86 architecture entirely to give us massive local AI inference performance without melting our laptops. Honestly, this is huge for portable gaming and local processing. But wait, it gets crazier. At the same time, Nvidia announced a massive global humanoid robot initiative! They are partnering with companies like Unitree in China and Sharpa in Singapore to build a standardized fleet of research robots. Nvidia is supplying the AI computing 'brains' while the partners build the robotic bodies and hands. We are literally watching the biggest AI hardware company on earth lay the groundwork for an army of embodied, walking, grasping robots. They are essentially building the nervous system for the next generation of physical AI. Would you buy an Nvidia-powered robot for your house? Let me know in the comments!",
+    "id": "Q2W9E4R8",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "Unitree",
+      "Sharpa"
+    ],
+    "people": [
+      "Jensen Huang"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/Q2W9E4R8.png",
+    "image_prompt": "Realistic high-tech news photo: Nvidia RTX Spark ARM chip close-up on sleek PCB, subtle futuristic circuitry glow. In background, humanoid robots standing in a lab with advanced edge-computing racks, cameras and cables, Computex-style lighting, cinematic depth of field, crisp detail, no text."
+  },
+  {
+    "date": "2026-05-30",
+    "source_file": "AI Research & Innovations",
+    "page": 1,
+    "title": "HUMANOID Robots Are Now Being Tested in ACTIVE Warzones!",
+    "summary": "Foundation Future Industries has deployed two Phantom MK-1 humanoid robots to the frontlines in Ukraine for logistics testing. Supported by a $24 million US defense contract, the company plans to introduce an upgraded 'Phantom 2' later in 2026.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part of today's tech news that sounds straight out of a sci-fi movie\u2014humanoid robots are officially being tested in active war zones! A San Francisco startup called Foundation Future Industries just deployed two of their Phantom MK-1 humanoid robots right to the front lines in Ukraine. Now, before you panic, they aren't holding weapons yet. Right now, they are being used strictly for battlefield logistics, carrying heavy supplies through dangerous areas near the front lines so human soldiers don't have to risk their lives. Backed by a massive 24 million dollar US defense contract, the company is already planning a heavier 'Phantom 2' upgrade later this year. Honestly, this is a massive turning point. Ukraine has been testing drones and ground bots for a while, but seeing a full humanoid shape walking through a conflict zone is chilling. And get this, Eric Trump is actually on their advisory board as Chief Strategy Advisor, which is drawing a ton of scrutiny. We are witnessing the dawn of automated warfare. Is sending robots to war a good way to save lives, or the start of something terrifying?",
+    "id": "T5Y6U7I3",
+    "category": "Robotics",
+    "companies": [
+      "Foundation Future Industries"
+    ],
+    "people": [
+      "Eric Trump"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/T5Y6U7I3.png",
+    "image_prompt": "Realistic photojournalism: two sleek humanoid robots in camouflage near a war-torn Ukrainian frontline, dusk smoke and distant artillery glow, soldiers blurred in background, tense tense mood, advanced logistics gear on robots, cinematic lighting, shallow depth of field, ultra-detailed, news-quality, no text."
+  },
+  {
+    "date": "2026-05-19",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 5,
+    "title": "Google's New AI Can Build APPS... But It's Secretly Hiding on Your PC!",
+    "summary": "At I/O 2026, Google introduced Antigravity 2.0, a desktop platform that utilizes the Gemini 3.5 Flash model to spawn autonomous AI subagents for software development. Concurrently, cybersecurity analysts discovered Google Chrome silently installing a 4GB Gemini Nano AI model locally on users' computers without consent.",
+    "engagement": "High",
+    "raw_text": "We need to talk about what Google just did, because it's both incredible and super sketchy. At I/O 2026, Sundar Pichai revealed Antigravity 2.0, and guys, this changes software engineering forever. It\u2019s a standalone desktop app where you give it a complex, multi-tiered objective, and it automatically spawns an entire team of AI subagents! It spins up a fake backend developer, a frontend designer, and a QA tester, and they all work together to build your app autonomously. They even used it to build the next Gemini model! But here\u2019s the wild part... independent security researchers just found out that Google Chrome has been silently installing a massive 4-gigabyte AI model called Gemini Nano directly onto your Windows and Mac machines! No explicit consent, no permission, it just downloads a massive hidden file called 'weights.bin'. And if you try to delete it? It automatically reinstalls itself! Google is trying to embed agentic capabilities natively, but quietly forcing a 4GB AI onto our hard drives is crazy. What do you think, is Antigravity worth losing control of our local storage?",
+    "id": "O9P0A1S2",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [
+      "Sundar Pichai"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/O9P0A1S2.png",
+    "image_prompt": "Photorealistic tech news scene: a dark modern laptop on a desk, Chrome-like browser glow, holographic AI subagents assembling floating app UI blocks, subtle hidden data icon overlay, worried user silhouette reflected in screen, cool blue-green lighting, cinematic contrast, ultra-detailed, 16:9, no text."
+  },
+  {
+    "date": "2026-05-28",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 4,
+    "title": "Anthropic Just Partnered With SPACEX to Put AI in Space!",
+    "summary": "Anthropic secured a historic $65 billion Series H funding round, elevating its valuation to $965 billion driven by massive enterprise adoption of Claude. The company has formed a diversified infrastructure triad, including a unique partnership with SpaceX to access GPU capacity and potentially develop orbital AI computing.",
+    "engagement": "High",
+    "raw_text": "So check this out, the AI wars just left Earth. Anthropic just closed a mind-blowing 65 billion dollar funding round, making them the most valuable AI startup on the planet at a 965 billion dollar valuation. They are completely crushing OpenAI in the enterprise space with Claude, hitting 47 billion in run-rate revenue right now. But honestly, this is the huge news: they just inked an unprecedented strategic partnership with Elon Musk's SpaceX! Anthropic is getting immediate access to over 220,000 Nvidia GPUs at the Colossus data centers to power Claude Pro. But it doesn't stop there. They announced a shared strategic interest to build multi-gigawatt AI compute infrastructure IN ORBIT. That\u2019s right, space data centers! They want to completely bypass our terrestrial power grid limits and ignore geopolitical data sovereignty issues by putting the brains of Claude floating in space. Can you imagine connecting to a super-intelligence that physically lives in orbit? With their new Claude Opus 4.8 dropping alongside this, Anthropic is playing 4D chess. Do you think space data centers are the future?",
+    "id": "D3F4G5H6",
+    "category": "Business",
+    "companies": [
+      "Anthropic",
+      "SpaceX",
+      "Amazon",
+      "Google"
+    ],
+    "people": [
+      "Krishna Rao"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/D3F4G5H6.png",
+    "image_prompt": "Futuristic newsroom photo, cinematic lighting: sleek Anthropic-style server racks and glowing AI circuits beside a SpaceX rocket launching into a star-filled sky; data streams arc toward Earth orbit, subtle GPU holograms, realistic high detail, natural colors, newsworthy realism."
+  },
+  {
+    "date": "2026-04-27",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 2,
+    "title": "Microsoft and OpenAI Just BROKE UP Their Exclusive Deal!",
+    "summary": "Microsoft and OpenAI have fundamentally restructured their commercial agreement, officially removing the exclusivity provision that restricted OpenAI's models to the Azure cloud. The revised contract allows multi-cloud deployments on AWS and Google Cloud and completely eliminates the Artificial General Intelligence (AGI) governance clause.",
+    "engagement": "Medium",
+    "raw_text": "Alright, we have a massive shakeup in the AI world today. Microsoft and OpenAI have officially ended their exclusive cloud partnership! For years, OpenAI was contractually locked into using Microsoft\u2019s Azure cloud for its frontier enterprise models. That was the whole basis of their relationship. But as of today, that exclusivity is totally gone. OpenAI is projecting 17 billion in consumer revenue for 2026, and they are now legally empowered to take their models directly to Amazon AWS and Google Cloud! Honestly, this is huge for enterprise developers because it drastically reduces vendor lock-in. But here\u2019s the really crazy part: they completely deleted the AGI clause! In the original contract, if OpenAI achieved Artificial General Intelligence, all of Microsoft's commercial rights could be abruptly altered or terminated. Now? That rule is completely surgically removed. Both companies are finally admitting that OpenAI is no longer a cute non-profit lab; they are a cutthroat commercial tech giant driven by market incentives. Is this the end of Microsoft's AI dominance? Let me know below!",
+    "id": "J7K8L9M0",
+    "category": "Business",
+    "companies": [
+      "Microsoft",
+      "OpenAI",
+      "Amazon",
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/J7K8L9M0.png",
+    "image_prompt": "Cinematic news photo: split-scene of sleek Microsoft and OpenAI logos on glass walls, one side fading as if \u201cexclusive deal\u201d dissolves; background shows Azure data centers glowing, and distant AWS/Google Cloud server racks. Dramatic lighting, shallow depth of field, realistic."
+  },
+  {
+    "date": "2026-06-01",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 9,
+    "title": "Intel\u2019s New Chip Just DESTROYED the Handheld Gaming Market!",
+    "summary": "Intel disrupted the portable gaming market at Computex 2026 with the introduction of the Arc G3 series, a 'GPU-first' System-on-a-Chip. Integrated into the MSI Claw 8 EX AI+ and Acer Predator Atlas 8, the chip matches competitor frame rates while drawing half the power, utilizing AI to natively generate multi-frame scaling.",
+    "engagement": "High",
+    "raw_text": "If you own a Steam Deck or a ROG Ally, you are going to want to sit down for this. Intel just completely flipped the handheld gaming market on its head at Computex with the new Arc G3 series. Usually, chips pair a dominant CPU with secondary graphics, but Intel built this as an entire 'GPU-first' superchip, and the thermal efficiency is absolutely insane. In rigorous live testing, the new Arc G3 Extreme matched AMD\u2019s highly regarded Ryzen Z2 Extreme frame for frame, but it did it using exactly HALF the wattage! Honestly, this is a massive leap for battery life. They are using an embedded AI protocol called XeSS 3 that natively generates up to four times the frames directly on the silicon! MSI just announced their premium Claw 8 EX AI+ running this chip, pushing a staggering 180 FPS on Formula 1 with ray tracing turned on. Acer is throwing down too with the Predator Atlas 8, featuring the industry's first metal fan inside a handheld. The portable gaming wars have officially escalated! Which handheld are you buying this year?",
+    "id": "Z1X2C3V4",
+    "category": "Hardware",
+    "companies": [
+      "Intel",
+      "MSI",
+      "Acer",
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/Z1X2C3V4.png",
+    "image_prompt": "Realistic high-tech news photo at Computex 2026: MSI Claw 8 EX AI+ and Acer Predator Atlas 8 handhelds on a glossy demo booth, showcasing Intel Arc G3 \u201cGPU-first\u201d SoC glow, AI holographic multi-frame scaling effects, dynamic lighting, slight motion blur, futuristic crowd bokeh, cinematic, ultra-detailed."
+  },
+  {
+    "date": "2026-05-27",
+    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
+    "page": 12,
+    "title": "AI is Now Running Its Own Science Experiments... WITHOUT Humans!",
+    "summary": "Harvard researchers introduced AutoScientists, a decentralized AI framework where self-organizing agent teams conduct long-horizon scientific experiments. Operating without centralized human oversight, the system outperformed previous models on complex biomedical and drug discovery benchmarks by dynamically critiquing hypotheses and pivoting experimental strategies.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, human scientists might be getting replaced a lot sooner than we thought. Researchers out of Harvard\u2019s Zitnik Lab just dropped a paper on something called 'AutoScientists,' and it is absolutely wild. Until now, AI has needed humans or a rigid top-down master algorithm to guide it through complex research. But AutoScientists completely abandons centralization. It is a decentralized collective of AI agents that literally form their own specialized teams, brutally critique each other to kill bad hypotheses, and run parallel experiments completely independently! They just set this thing loose on a grueling biomedical and drug discovery benchmark, and it totally shattered previous records, scoring an insane 74.4%. Here\u2019s the wild part: if they hit a dead end, the AI team dynamically reopens discussions and reorganizes their entire strategy around new evidence without human input. We are talking about autonomous digital scientists navigating complex R&D spaces. If AI agents can organize themselves better than human corporate structures, things are going to change forever. Should we trust AI to invent our medicine? Comment below!",
+    "id": "B5N6M7L8",
+    "category": "Science",
+    "companies": [
+      "Harvard University"
+    ],
+    "people": [
+      "Shanghua Gao",
+      "Ada Fang",
+      "Marinka Zitnik"
+    ],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/B5N6M7L8.png",
+    "image_prompt": "Futuristic newsroom-style photo: shadowy Harvard lab corridor with soft blue glow, holographic network of autonomous AI agents around glass lab benches, robotic pipettes and microscopes, dynamic branching \u201cexperiment\u201d pathways implied by light trails, moody dramatic lighting, realistic high-detail, newsworthy."
+  },
+  {
+    "date": "2026-05-18",
+    "source_file": "AI Research & Innovations",
+    "page": 1,
+    "title": "Forget Electricity: The Next AI Supercomputers Will Run on LIGHT!",
+    "summary": "Researchers at Penn Engineering have engineered an exciton-polariton hybrid light-matter particle capable of executing ultra-fast AI computations at femtojoule energy scales. This development points toward future photonic AI chips that avoid light-to-electron conversions, drastically reducing the immense power constraints of current data centers.",
+    "engagement": "Medium",
+    "raw_text": "Okay, this next story is straight out of the future. We all know AI data centers are sucking up insane amounts of electricity and hitting physical heat limits. But researchers at Penn Engineering just figured out how to run AI calculations using literal light! They engineered a hybrid light-matter particle called an exciton-polariton. I know, it sounds like Star Trek, but here is what it means for you: instead of pushing hot, slow electrons through silicon chips, they are coupling photons with a tiny semiconductor to process AI math natively through optics. We are talking about 'all-light' switching operations at the femtojoule energy scale! Honestly, this is huge. By skipping the costly process of converting light to electricity, these emerging photonic AI chips could make next-gen neural networks exponentially faster while using vastly less energy. If they can scale this, your devices could theoretically run ultra-fast inference directly from optical inputs. We are watching the dawn of optical computing. Are we ready for light-speed AI? Drop a like if your mind is blown!",
+    "id": "P9O0I1U2",
+    "category": "Hardware",
+    "companies": [
+      "Penn Engineering"
+    ],
+    "people": [],
+    "created_at": "2026-06-01T21:47:30+05:30",
+    "image_url": "images/01_05_26/P9O0I1U2.png",
+    "image_prompt": "Futuristic photonic AI chip glowing with blue-violet light, interwoven waveguides and nanoscale cavities, exciton-polariton hybrid particles visualized as luminous orbs, ultra-fast femtosecond energy trails, cinematic newsroom mood, realistic high-detail, shallow depth of field, no text."
+  }
+]
