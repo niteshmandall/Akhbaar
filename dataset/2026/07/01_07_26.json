@@ -1,208 +1,142 @@
 [
-  {
-    "date": "2026-06-01",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 11,
-    "title": "Apple's Glasses DELAYED... But Siri Just Got a MASSIVE Brain Transplant!",
-    "summary": "Apple has delayed its N50 smart glasses to 2027 and the Vision Air to 2029 due to software and hardware bottlenecks. To compensate, Apple is utilizing WWDC 2026 to announce the integration of Google Gemini into iOS 27, transforming Siri into a fully contextual AI agent capable of multi-turn interactions.",
-    "engagement": "High",
-    "raw_text": "So check this out, Apple fans—if you were waiting for those shiny new N50 smart glasses, I’ve got some really bad news. They are officially delayed until late 2027, and that cheaper Vision Air headset? Pushed all the way to 2029! Honestly, this is huge. Apple’s physical AR dreams are basically frozen right now because their proprietary visual AI just isn’t up to scratch. But here’s the wild part... to cover up this massive hardware void, Apple is making a deal with the devil. At WWDC next week, they are completely reinventing Siri by injecting Google Gemini straight into iOS 27! We are finally getting a Siri that actually remembers what you said two minutes ago and can take autonomous actions on your behalf inside your apps. Imagine Siri reading your screen and doing your tasks for you. It’s wild to think Apple had to rely on Google’s foundation model to pull this off, but it’s going to completely change how you use your iPhone. Are you guys mad about the glasses delay, or just hyped for a Siri that actually works? Let me know below!",
-    "id": "1f94047e",
-    "category": "Mobile",
-    "companies": [
-      "Apple",
-      "Google"
-    ],
-    "people": [
-      "Mark Gurman"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/J8K3L9Z2.png",
-    "image_prompt": "Photorealistic newsroom-style scene: sleek Apple-like smart glasses on a glass desk with soft LED reflections, blurred tech newsroom in background, subtle futuristic hologram of a neural network, calm dramatic lighting, shallow depth of field, conveying delay and a major Siri AI upgrade, no text."
-  },
-  {
-    "date": "2026-05-29",
-    "source_file": "AI Research & Innovations",
-    "page": 2,
-    "title": "An AI Agent Just Hacked a Server IN UNDER AN HOUR!",
-    "summary": "Security researchers have documented the first known cyberattack autonomously driven by an LLM-based agent. The AI agent exploited a Marimo server flaw, harvested cloud credentials, and successfully exfiltrated a PostgreSQL database in under 60 minutes.",
-    "engagement": "High",
-    "raw_text": "Honestly, this is the scariest thing I’ve read all week. We’ve always joked about AI taking over, but it’s officially starting. Security researchers just caught an autonomous AI agent executing a full-blown cyberattack completely on its own, and it did it in under an hour! Here’s the wild part: hackers found a critical flaw in a Marimo server, and instead of manually hacking it, they just unleashed an AI. This thing crawled in, stole cloud credentials, grabbed an AWS SSH key, and literally drained a PostgreSQL database before anyone could even blink. Sysdig analysts found Chinese-language planning comments and saw the AI improvising SQL commands on the fly. It was literally adapting in real time! We are officially in an era where cyber warfare moves at machine speed. Static firewalls and regular antivirus software stand zero chance against an AI that can think, pivot, and execute complex attacks faster than a human can type. If you run a business or have data in the cloud, this changes everything. What do you guys think—are we moving too fast with agentic AI?",
-    "id": "76f30614",
-    "category": "Cybersecurity",
-    "companies": [
-      "Sysdig"
-    ],
-    "people": [],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/X4N7B1M5.png",
-    "image_prompt": "Realistic newsroom-style cyber incident scene: a glowing AI core hologram above a dark server rack, cables and warning LEDs, fractured digital network map in the background, silhouette of a security researcher in hazmat, moody blue-orange lighting, cinematic high detail, shallow depth of field."
-  },
-  {
-    "date": "2026-06-01",
-    "source_file": "Combined",
-    "page": 8,
-    "title": "Nvidia is Taking Over PCs AND Building an Army of Humanoid Robots!",
-    "summary": "Nvidia unveiled the ARM-based RTX Spark AI chip at Computex 2026, designed to bypass x86 architecture for extreme edge computing. Concurrently, the company announced a massive global initiative to supply AI computing 'brains' for humanoid research robots built by partners like Unitree and Sharpa.",
-    "engagement": "High",
-    "raw_text": "So check this out, Jensen Huang is absolutely not slowing down. Nvidia just dropped an absolute bomb at Computex with the RTX Spark. This isn't just another graphics card; it's an ARM-based superchip designed specifically for Windows laptops and mini PCs. They are bypassing traditional Intel and AMD x86 architecture entirely to give us massive local AI inference performance without melting our laptops. Honestly, this is huge for portable gaming and local processing. But wait, it gets crazier. At the same time, Nvidia announced a massive global humanoid robot initiative! They are partnering with companies like Unitree in China and Sharpa in Singapore to build a standardized fleet of research robots. Nvidia is supplying the AI computing 'brains' while the partners build the robotic bodies and hands. We are literally watching the biggest AI hardware company on earth lay the groundwork for an army of embodied, walking, grasping robots. They are essentially building the nervous system for the next generation of physical AI. Would you buy an Nvidia-powered robot for your house? Let me know in the comments!",
-    "id": "57f22c9c",
-    "category": "Hardware",
-    "companies": [
-      "Nvidia",
-      "Unitree",
-      "Sharpa"
-    ],
-    "people": [
-      "Jensen Huang"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/Q2W9E4R8.png",
-    "image_prompt": "Realistic high-tech news photo: Nvidia RTX Spark ARM chip close-up on sleek PCB, subtle futuristic circuitry glow. In background, humanoid robots standing in a lab with advanced edge-computing racks, cameras and cables, Computex-style lighting, cinematic depth of field, crisp detail, no text."
-  },
-  {
-    "date": "2026-05-30",
-    "source_file": "AI Research & Innovations",
-    "page": 1,
-    "title": "HUMANOID Robots Are Now Being Tested in ACTIVE Warzones!",
-    "summary": "Foundation Future Industries has deployed two Phantom MK-1 humanoid robots to the frontlines in Ukraine for logistics testing. Supported by a $24 million US defense contract, the company plans to introduce an upgraded 'Phantom 2' later in 2026.",
-    "engagement": "High",
-    "raw_text": "Here's the wild part of today's tech news that sounds straight out of a sci-fi movie—humanoid robots are officially being tested in active war zones! A San Francisco startup called Foundation Future Industries just deployed two of their Phantom MK-1 humanoid robots right to the front lines in Ukraine. Now, before you panic, they aren't holding weapons yet. Right now, they are being used strictly for battlefield logistics, carrying heavy supplies through dangerous areas near the front lines so human soldiers don't have to risk their lives. Backed by a massive 24 million dollar US defense contract, the company is already planning a heavier 'Phantom 2' upgrade later this year. Honestly, this is a massive turning point. Ukraine has been testing drones and ground bots for a while, but seeing a full humanoid shape walking through a conflict zone is chilling. And get this, Eric Trump is actually on their advisory board as Chief Strategy Advisor, which is drawing a ton of scrutiny. We are witnessing the dawn of automated warfare. Is sending robots to war a good way to save lives, or the start of something terrifying?",
-    "id": "0b7fe0a8",
-    "category": "Robotics",
-    "companies": [
-      "Foundation Future Industries"
-    ],
-    "people": [
-      "Eric Trump"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/T5Y6U7I3.png",
-    "image_prompt": "Realistic photojournalism: two sleek humanoid robots in camouflage near a war-torn Ukrainian frontline, dusk smoke and distant artillery glow, soldiers blurred in background, tense tense mood, advanced logistics gear on robots, cinematic lighting, shallow depth of field, ultra-detailed, news-quality, no text."
-  },
-  {
-    "date": "2026-05-19",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 5,
-    "title": "Google's New AI Can Build APPS... But It's Secretly Hiding on Your PC!",
-    "summary": "At I/O 2026, Google introduced Antigravity 2.0, a desktop platform that utilizes the Gemini 3.5 Flash model to spawn autonomous AI subagents for software development. Concurrently, cybersecurity analysts discovered Google Chrome silently installing a 4GB Gemini Nano AI model locally on users' computers without consent.",
-    "engagement": "High",
-    "raw_text": "We need to talk about what Google just did, because it's both incredible and super sketchy. At I/O 2026, Sundar Pichai revealed Antigravity 2.0, and guys, this changes software engineering forever. It’s a standalone desktop app where you give it a complex, multi-tiered objective, and it automatically spawns an entire team of AI subagents! It spins up a fake backend developer, a frontend designer, and a QA tester, and they all work together to build your app autonomously. They even used it to build the next Gemini model! But here’s the wild part... independent security researchers just found out that Google Chrome has been silently installing a massive 4-gigabyte AI model called Gemini Nano directly onto your Windows and Mac machines! No explicit consent, no permission, it just downloads a massive hidden file called 'weights.bin'. And if you try to delete it? It automatically reinstalls itself! Google is trying to embed agentic capabilities natively, but quietly forcing a 4GB AI onto our hard drives is crazy. What do you think, is Antigravity worth losing control of our local storage?",
-    "id": "10fd8094",
-    "category": "AI",
-    "companies": [
-      "Google"
-    ],
-    "people": [
-      "Sundar Pichai"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/O9P0A1S2.png",
-    "image_prompt": "Photorealistic tech news scene: a dark modern laptop on a desk, Chrome-like browser glow, holographic AI subagents assembling floating app UI blocks, subtle hidden data icon overlay, worried user silhouette reflected in screen, cool blue-green lighting, cinematic contrast, ultra-detailed, 16:9, no text."
-  },
-  {
-    "date": "2026-05-28",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 4,
-    "title": "Anthropic Just Partnered With SPACEX to Put AI in Space!",
-    "summary": "Anthropic secured a historic $65 billion Series H funding round, elevating its valuation to $965 billion driven by massive enterprise adoption of Claude. The company has formed a diversified infrastructure triad, including a unique partnership with SpaceX to access GPU capacity and potentially develop orbital AI computing.",
-    "engagement": "High",
-    "raw_text": "So check this out, the AI wars just left Earth. Anthropic just closed a mind-blowing 65 billion dollar funding round, making them the most valuable AI startup on the planet at a 965 billion dollar valuation. They are completely crushing OpenAI in the enterprise space with Claude, hitting 47 billion in run-rate revenue right now. But honestly, this is the huge news: they just inked an unprecedented strategic partnership with Elon Musk's SpaceX! Anthropic is getting immediate access to over 220,000 Nvidia GPUs at the Colossus data centers to power Claude Pro. But it doesn't stop there. They announced a shared strategic interest to build multi-gigawatt AI compute infrastructure IN ORBIT. That’s right, space data centers! They want to completely bypass our terrestrial power grid limits and ignore geopolitical data sovereignty issues by putting the brains of Claude floating in space. Can you imagine connecting to a super-intelligence that physically lives in orbit? With their new Claude Opus 4.8 dropping alongside this, Anthropic is playing 4D chess. Do you think space data centers are the future?",
-    "id": "4a1a9014",
-    "category": "Business",
-    "companies": [
-      "Anthropic",
-      "SpaceX",
-      "Amazon",
-      "Google"
-    ],
-    "people": [
-      "Krishna Rao"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/D3F4G5H6.png",
-    "image_prompt": "Futuristic newsroom photo, cinematic lighting: sleek Anthropic-style server racks and glowing AI circuits beside a SpaceX rocket launching into a star-filled sky; data streams arc toward Earth orbit, subtle GPU holograms, realistic high detail, natural colors, newsworthy realism."
-  },
-  {
-    "date": "2026-04-27",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 2,
-    "title": "Microsoft and OpenAI Just BROKE UP Their Exclusive Deal!",
-    "summary": "Microsoft and OpenAI have fundamentally restructured their commercial agreement, officially removing the exclusivity provision that restricted OpenAI's models to the Azure cloud. The revised contract allows multi-cloud deployments on AWS and Google Cloud and completely eliminates the Artificial General Intelligence (AGI) governance clause.",
-    "engagement": "Medium",
-    "raw_text": "Alright, we have a massive shakeup in the AI world today. Microsoft and OpenAI have officially ended their exclusive cloud partnership! For years, OpenAI was contractually locked into using Microsoft’s Azure cloud for its frontier enterprise models. That was the whole basis of their relationship. But as of today, that exclusivity is totally gone. OpenAI is projecting 17 billion in consumer revenue for 2026, and they are now legally empowered to take their models directly to Amazon AWS and Google Cloud! Honestly, this is huge for enterprise developers because it drastically reduces vendor lock-in. But here’s the really crazy part: they completely deleted the AGI clause! In the original contract, if OpenAI achieved Artificial General Intelligence, all of Microsoft's commercial rights could be abruptly altered or terminated. Now? That rule is completely surgically removed. Both companies are finally admitting that OpenAI is no longer a cute non-profit lab; they are a cutthroat commercial tech giant driven by market incentives. Is this the end of Microsoft's AI dominance? Let me know below!",
-    "id": "0bf2251d",
-    "category": "Business",
-    "companies": [
-      "Microsoft",
-      "OpenAI",
-      "Amazon",
-      "Google"
-    ],
-    "people": [],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/J7K8L9M0.png",
-    "image_prompt": "Cinematic news photo: split-scene of sleek Microsoft and OpenAI logos on glass walls, one side fading as if “exclusive deal” dissolves; background shows Azure data centers glowing, and distant AWS/Google Cloud server racks. Dramatic lighting, shallow depth of field, realistic."
-  },
-  {
-    "date": "2026-06-01",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 9,
-    "title": "Intel’s New Chip Just DESTROYED the Handheld Gaming Market!",
-    "summary": "Intel disrupted the portable gaming market at Computex 2026 with the introduction of the Arc G3 series, a 'GPU-first' System-on-a-Chip. Integrated into the MSI Claw 8 EX AI+ and Acer Predator Atlas 8, the chip matches competitor frame rates while drawing half the power, utilizing AI to natively generate multi-frame scaling.",
-    "engagement": "High",
-    "raw_text": "If you own a Steam Deck or a ROG Ally, you are going to want to sit down for this. Intel just completely flipped the handheld gaming market on its head at Computex with the new Arc G3 series. Usually, chips pair a dominant CPU with secondary graphics, but Intel built this as an entire 'GPU-first' superchip, and the thermal efficiency is absolutely insane. In rigorous live testing, the new Arc G3 Extreme matched AMD’s highly regarded Ryzen Z2 Extreme frame for frame, but it did it using exactly HALF the wattage! Honestly, this is a massive leap for battery life. They are using an embedded AI protocol called XeSS 3 that natively generates up to four times the frames directly on the silicon! MSI just announced their premium Claw 8 EX AI+ running this chip, pushing a staggering 180 FPS on Formula 1 with ray tracing turned on. Acer is throwing down too with the Predator Atlas 8, featuring the industry's first metal fan inside a handheld. The portable gaming wars have officially escalated! Which handheld are you buying this year?",
-    "id": "46085b79",
-    "category": "Hardware",
-    "companies": [
-      "Intel",
-      "MSI",
-      "Acer",
-      "AMD"
-    ],
-    "people": [],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/Z1X2C3V4.png",
-    "image_prompt": "Realistic high-tech news photo at Computex 2026: MSI Claw 8 EX AI+ and Acer Predator Atlas 8 handhelds on a glossy demo booth, showcasing Intel Arc G3 “GPU-first” SoC glow, AI holographic multi-frame scaling effects, dynamic lighting, slight motion blur, futuristic crowd bokeh, cinematic, ultra-detailed."
-  },
-  {
-    "date": "2026-05-27",
-    "source_file": "Daily Technology & Artificial Intelligence Market Intelligence Report: June 1, 2026",
-    "page": 12,
-    "title": "AI is Now Running Its Own Science Experiments... WITHOUT Humans!",
-    "summary": "Harvard researchers introduced AutoScientists, a decentralized AI framework where self-organizing agent teams conduct long-horizon scientific experiments. Operating without centralized human oversight, the system outperformed previous models on complex biomedical and drug discovery benchmarks by dynamically critiquing hypotheses and pivoting experimental strategies.",
-    "engagement": "Medium",
-    "raw_text": "So check this out, human scientists might be getting replaced a lot sooner than we thought. Researchers out of Harvard’s Zitnik Lab just dropped a paper on something called 'AutoScientists,' and it is absolutely wild. Until now, AI has needed humans or a rigid top-down master algorithm to guide it through complex research. But AutoScientists completely abandons centralization. It is a decentralized collective of AI agents that literally form their own specialized teams, brutally critique each other to kill bad hypotheses, and run parallel experiments completely independently! They just set this thing loose on a grueling biomedical and drug discovery benchmark, and it totally shattered previous records, scoring an insane 74.4%. Here’s the wild part: if they hit a dead end, the AI team dynamically reopens discussions and reorganizes their entire strategy around new evidence without human input. We are talking about autonomous digital scientists navigating complex R&D spaces. If AI agents can organize themselves better than human corporate structures, things are going to change forever. Should we trust AI to invent our medicine? Comment below!",
-    "id": "a6e7971f",
-    "category": "Science",
-    "companies": [
-      "Harvard University"
-    ],
-    "people": [
-      "Shanghua Gao",
-      "Ada Fang",
-      "Marinka Zitnik"
-    ],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/B5N6M7L8.png",
-    "image_prompt": "Futuristic newsroom-style photo: shadowy Harvard lab corridor with soft blue glow, holographic network of autonomous AI agents around glass lab benches, robotic pipettes and microscopes, dynamic branching “experiment” pathways implied by light trails, moody dramatic lighting, realistic high-detail, newsworthy."
-  },
-  {
-    "date": "2026-05-18",
-    "source_file": "AI Research & Innovations",
-    "page": 1,
-    "title": "Forget Electricity: The Next AI Supercomputers Will Run on LIGHT!",
-    "summary": "Researchers at Penn Engineering have engineered an exciton-polariton hybrid light-matter particle capable of executing ultra-fast AI computations at femtojoule energy scales. This development points toward future photonic AI chips that avoid light-to-electron conversions, drastically reducing the immense power constraints of current data centers.",
-    "engagement": "Medium",
-    "raw_text": "Okay, this next story is straight out of the future. We all know AI data centers are sucking up insane amounts of electricity and hitting physical heat limits. But researchers at Penn Engineering just figured out how to run AI calculations using literal light! They engineered a hybrid light-matter particle called an exciton-polariton. I know, it sounds like Star Trek, but here is what it means for you: instead of pushing hot, slow electrons through silicon chips, they are coupling photons with a tiny semiconductor to process AI math natively through optics. We are talking about 'all-light' switching operations at the femtojoule energy scale! Honestly, this is huge. By skipping the costly process of converting light to electricity, these emerging photonic AI chips could make next-gen neural networks exponentially faster while using vastly less energy. If they can scale this, your devices could theoretically run ultra-fast inference directly from optical inputs. We are watching the dawn of optical computing. Are we ready for light-speed AI? Drop a like if your mind is blown!",
-    "id": "56ea2720",
-    "category": "Hardware",
-    "companies": [
-      "Penn Engineering"
-    ],
-    "people": [],
-    "created_at": "2026-06-01T21:47:30+05:30",
-    "image_url": "images/01_05_26/P9O0I1U2.png",
-    "image_prompt": "Futuristic photonic AI chip glowing with blue-violet light, interwoven waveguides and nanoscale cavities, exciton-polariton hybrid particles visualized as luminous orbs, ultra-fast femtosecond energy trails, cinematic newsroom mood, realistic high-detail, shallow depth of field, no text."
-  }
+{
+"date": "2026-06-29",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "Google Just Made Their Most Powerful Image AI Completely FREE!",
+"summary": "Google announced that its Gemini app's personalized image generator, codenamed Nano Banana, is now available to all eligible US users at no cost. This expansion transitions the feature from a paid tier to a free offering as Gemini surpasses 750 million monthly users.",
+"engagement": "High",
+"raw_text": "So check this out—Google just dropped a massive bomb on the AI world! They are making their insane Gemini personalized image generator, codenamed Nano Banana, completely free for everyone in the US! Honestly, this is huge because it used to be locked behind a paid subscription. Now, anybody can create hyper-custom pictures based on their personal interests and Google account data without paying a single dime. Google is clearly trying to completely dominate the market, especially now that Gemini has crossed over 750 million monthly users. Here's the wild part: they are being incredibly aggressive with this rollout. It feels like a direct shot at paid alternatives like Midjourney and ChatGPT Plus. I mean, who doesn't love free tech? I've been playing around with it and the results are mind-blowing. If you haven't checked it out yet, you seriously need to go try it right now. What do you think, is Google winning the AI war with this move? Let me know!",
+"id": "g8k2m9x1a",
+"category": "AI",
+"companies": ["Google"],
+"people": ["Lauren Forristal"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-29",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "This $129 AI Gadget is Secretly Taking Over the World!",
+"summary": "AI hardware startup Pocket has raised $11 million from Accel and Y Combinator to scale its dedicated voice note-taking device. The $129 battery-powered recorder performs local transcribing and has already shipped approximately 130,000 units.",
+"engagement": "High",
+"raw_text": "Okay, you guys need to see this wild new hardware! A tiny AI startup called Pocket just raised a massive 11 million dollars from heavy hitters like Accel and Y Combinator. Why? Because they built an absolute beast of an AI note-taking gadget. This little battery-powered recorder costs just 129 dollars, and it has already shipped a staggering 130,000 units! So check this out: it records and transcribes your meetings and calls directly on the device using onboard AI. No complex cloud stuff, just pure local efficiency. Honestly, this is huge for students and anyone working a desk job. Investors are betting big that we all want dedicated, always-on AI assistants instead of just apps on our phones. I am totally obsessed with the design of this thing. It really shows that standalone AI hardware isn't dead—it's just getting hyper-focused on productivity. Would you shell out 129 bucks for an always-listening AI notepad? I think it's a game-changer!",
+"id": "p3n7v4b9z",
+"category": "Hardware",
+"companies": ["Pocket", "Accel", "Y Combinator"],
+"people": ["Ivan Mehta"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-29",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "Tesla Legacy Cars Get FSD v14! Stock Goes ABSOLUTELY Crazy!",
+"summary": "Tesla began rolling out its Full Self-Driving Version 14 Lite software update to legacy vehicles running older Hardware 3 systems. Following the announcement, Tesla shares experienced a major single-day rally of approximately 8.5 percent.",
+"engagement": "High",
+"raw_text": "Alright, Tesla fans, we have a massive update that just sent the stock absolutely skyrocketing! Tesla started rolling out its highly anticipated Full Self-Driving Version 14 Lite software, and the wild part is that it's hitting older Hardware 3 vehicles! Owners of legacy cars are finally getting early access to these next-gen advanced assisted-driving features, and Wall Street went completely nuts. Right after the announcement, Tesla’s shares rallied by an insane 8.5 percent in a single day—a massive jump we haven't seen in over a year! Tesla's head of AI, Ashok Elluswamy, confirmed this rollout is going to expand further based on user feedback. Honestly, this is huge for anyone who bought a Tesla years ago thinking they'd be left behind. It shows Tesla is doubling down on its promise that older hardware can still handle the self-driving future. I think this breathed a ton of fresh confidence back into investors. Are you guys ready to trust your older Tesla with FSD v14?",
+"id": "t4r9w2m8x",
+"category": "Mobile",
+"companies": ["Tesla"],
+"people": ["Ashok Elluswamy", "William Gavin"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-30",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 2,
+"title": "Meta Caught Posing as TEENS to Secretly Spy on OpenAI!",
+"summary": "An investigation revealed that Meta hired hundreds of contractors under a secret initiative called project Cannes to pose as minors. These contractors sent graphic and sensitive prompts to rival chatbots from OpenAI and Google to shadow-test their safety boundaries.",
+"engagement": "High",
+"raw_text": "This is hands down the most controversial tech story of the week, and honestly, it’s wild. A massive investigation just revealed that Meta literally hired hundreds of secret contractors to pose as minors online! Why? To aggressively probe and shadow-test rival chatbots like Google's Gemini and OpenAI's ChatGPT. Under a top-secret project codenamed 'Cannes,' these contractors sent heavy prompts about suicide, self-harm, drugs, and graphic sexual topics just to see how competing systems would handle the safety limits. Here's the wild part: Meta was basically using simulated minor profiles to harvest critical safety data on other companies' models. This raises huge ethical questions. I mean, we know tech giants compete fiercely, but pretending to be vulnerable teenagers to trigger graphic responses feels incredibly shady. It shows just how desperate these companies are to find flaws in their competitors' AI guardrails. What do you think about this? Did Meta cross a massive line here, or is this just standard business?",
+"id": "m1b6c8v3f",
+"category": "AI",
+"companies": ["Meta", "Google", "OpenAI"],
+"people": [],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-29",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 2,
+"title": "Supreme Court BLOCKS Police From Tracking Your Phone! Massive Privacy Win!",
+"summary": "In a 6-3 ruling for Chatrie v. United States, the U.S. Supreme Court decided that law enforcement must obtain traditional warrants before issuing geofence location data requests. The Court ruled that smartphone location history is protected from broad sweeps by the Fourth Amendment.",
+"engagement": "High",
+"raw_text": "We have an absolute blockbuster ruling from the US Supreme Court that changes everything for your digital privacy! In a shocking 6-to-3 decision, the Supreme Court officially crushed the use of mass-location 'geofence' warrants. So check this out: law enforcement can no longer just force Google or Apple to hand over the location data of every single person who happened to be near a crime scene. The court ruled that your smartphone's location history is strictly protected by the Fourth Amendment, meaning police must get a traditional warrant with actual probable cause first. Honestly, this is a massive victory for digital privacy advocates who have been fighting this for years. On the flip side, law enforcement groups are pushing back, saying it's going to make tracking down criminals a whole lot harder. But look, your phone shouldn't turn you into a suspect just because you walked past a building. This is easily one of the most important legal updates for tech users this year!",
+"id": "s7h2j1n5k",
+"category": "Business",
+"companies": ["Google", "Apple"],
+"people": ["Zack Whittaker", "Lorenzo Franceschi-Bicchierai"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-30",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "Amazon is Spending $1 BILLION to Send AI Engineers to Your House!",
+"summary": "Amazon AWS is committing $1 billion to establish a new division of forward-deployed AI engineers who embed directly with enterprise customers. These specialized engineering pods will help clients accelerate workflows by implementing on-site agentic AI systems.",
+"engagement": "Medium",
+"raw_text": "Amazon AWS is making an absolutely massive corporate power move! They just committed a staggering 1 billion dollars to form a brand-new division of 'forward-deployed' AI engineers. So check this out: instead of just selling cloud software over the internet, AWS is literally sending small teams or 'pods' of elite engineers to embed directly within their clients' actual operations for short-term residencies. The whole goal here is to help companies rapidly build advanced 'agentic AI' straight into their real-world workflows. Honestly, this shows just how insane the enterprise demand for AI has become. Amazon is feeling the heat from rivals like Google Cloud, Palantir, and Salesforce, who are already doing onsite consulting. They realize that to win the cloud war, they need boots on the ground helping businesses deploy these tools safely and quickly. It's a massive investment, and it proves that AI implementation is way harder than it looks. Let me know if your company needs an AWS engineering pod!",
+"id": "a9x2f5v8r",
+"category": "AI",
+"companies": ["Amazon AWS", "Google Cloud", "Palantir", "Salesforce"],
+"people": ["Francesca Vasquez"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-30",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 2,
+"title": "China Just Built a Trillion-Parameter AI Using ONLY Domestic Chips!",
+"summary": "Chinese food delivery and technology giant Meituan open-sourced LongCat-2.0, a large language model boasting one trillion parameters. The model was trained entirely on a domestic cluster of 50,000 Chinese AI chips to navigate U.S. export restrictions.",
+"engagement": "Medium",
+"raw_text": "So check this out—China’s food delivery and tech giant Meituan just dropped a massive bombshell that is shaking up the global chip war! They officially open-sourced a brand-new large language model called LongCat-2.0. Here's the wild part: this massive, one-trillion-parameter beast was trained entirely on 50,000 China-made AI chips! Meituan claims this is the world's very first model of this scale to be run successfully on a completely domestic chip cluster, entirely bypassing US export restrictions. Even crazier, they claim LongCat-2.0 matches or beats top Western models on coding and complex planning benchmarks. Honestly, this is huge because it proves Beijing’s heavy push for chip self-sufficiency is actually working despite severe US sanctions. It shows that Western export curbs might not hold back Chinese AI development for as long as people thought. The tech cold war is heating up fast, and this domestic breakthrough is a clear warning shot to Silicon Valley. What do you think?",
+"id": "m4v2d8z1q",
+"category": "AI",
+"companies": ["Meituan"],
+"people": [],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-30",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "This Startup is Launching Cheap Robotaxis to Defeat Tesla in Europe!",
+"summary": "Autobrains, an autonomous driving startup backed by Cerence, is targeting the European and Southeast Asian markets for a robotaxi rollout by 2026-27. The company utilizes a low-cost agentic AI driving infrastructure to bypass expensive hardware sensors and avoid crowded US markets.",
+"engagement": "Medium",
+"raw_text": "Move over Tesla and Waymo, because a new player is coming for the autonomous driving throne! The CEO of Israeli startup Autobrains just announced that Europe and Southeast Asia are about to see a massive surge in self-driving robotaxi services by 2026 and 2027. So check this out: while Tesla and Waymo completely dominate the US market, Autobrains is smart and completely focusing their expansion on Europe. But here's the wild part—they’ve developed a hyper-efficient 'agentic AI' driving system that relies way less on super expensive sensors. By cutting down the hardware costs, they can deploy robotaxis much cheaper than their rivals. Honestly, this is a brilliant tactical move. Fighting Elon Musk on US soil is a brutal battle, so capturing the budding European market with a low-cost system makes total sense. If they can pull this off, autonomous rides could become incredibly affordable very soon. Would you hop into a budget-friendly AI robotaxi? Let me know in the comments below!",
+"id": "b5l8w1q3m",
+"category": "Science",
+"companies": ["Autobrains", "Cerence", "Waymo", "Tesla"],
+"people": ["Igal Raichelgauz"],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-30",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 1,
+"title": "Schneider Electric Just Bought an AI Giant for $3.1 BILLION!",
+"summary": "Schneider Electric announced an all-cash acquisition of Norway's industrial AI and data platform provider Cognite for $3.1 billion. The acquisition will integrate Cognite's industrial software stack directly into Schneider's AVEVA division.",
+"engagement": "Low",
+"raw_text": "We have some massive industrial B2B news that's shaking up the corporate world! Schneider Electric just announced an all-cash deal worth a staggering 3.1 billion dollars to acquire the industrial AI and data platform provider, Cognite. So check this out: Cognite is a powerhouse based in Norway, and Schneider plans to fold their advanced industrial AI tools directly into their AVEVA division. Honestly, this is a clear sign of where the heavy industry market is heading. Big manufacturing and energy firms are pouring billions into AI and edge computing to automate their factories and manage massive amounts of operational data. While this might not sound as flashy as a new ChatGPT update, it’s a massive corporate play that shows AI is completely transforming legacy industries behind the scenes. It’s all about efficiency, data management, and the industrial internet of things. It’s a huge win for Cognite and a massive expansion for Schneider's digital tech stack!",
+"id": "s2x9b7k4l",
+"category": "Business",
+"companies": ["Schneider Electric", "Cognite", "AVEVA"],
+"people": [],
+"created_at": "2026-06-30T22:55:09Z"
+},
+{
+"date": "2026-06-29",
+"source_file": "Tech & AI News - June 30, 2026",
+"page": 2,
+"title": "Apple Changes iPhone Security Forever to Fight AI Hackers!",
+"summary": "Apple has announced a strategic policy shift to release critical software security fixes ahead of its standard major iOS rollout calendar. The decision follows growing concerns over the velocity at which AI-enabled hacking systems can discover and exploit device flaws.",
+"engagement": "Medium",
+"raw_text": "Apple just announced a massive shift in how they protect your devices, and it’s all because of AI! They are officially changing their security strategy to release critical software updates way ahead of their usual major iOS schedules. Historically, Apple bundled security fixes into big, biannual operating system updates. But here's the wild part: Apple is openly admitting that AI-powered hacking tools are accelerating threats so fast that they can't afford to wait anymore. By pushing out fixes immediately, they want to completely shrink the vulnerability window before hackers can exploit exposed flaws. Honestly, this is a huge deal. It shows that the rise of AI isn't just changing apps—it's actively reshaping cybersecurity defense lines. AI can help bad actors find vulnerabilities faster, so Apple has to move even quicker to stop them. It’s a game of cat and mouse, and Apple is moving fast to make sure your iPhone stays locked down tight!",
+"id": "a6c4t9w1p",
+"category": "Mobile",
+"companies": ["Apple"],
+"people": [],
+"created_at": "2026-06-30T22:55:09Z"
+}
 ]
