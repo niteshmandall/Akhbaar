@@ -1,207 +1,184 @@
 [
   {
-    "date": "2026-06-29",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "Google Just Made Their Most Powerful Image AI Completely FREE!",
-    "summary": "Google announced that its Gemini app's personalized image generator, codenamed Nano Banana, is now available to all eligible US users at no cost. This expansion transitions the feature from a paid tier to a free offering as Gemini surpasses 750 million monthly users.",
-    "engagement": "High",
-    "raw_text": "So check this out—Google just dropped a massive bomb on the AI world! They are making their insane Gemini personalized image generator, codenamed Nano Banana, completely free for everyone in the US! Honestly, this is huge because it used to be locked behind a paid subscription. Now, anybody can create hyper-custom pictures based on their personal interests and Google account data without paying a single dime. Google is clearly trying to completely dominate the market, especially now that Gemini has crossed over 750 million monthly users. Here's the wild part: they are being incredibly aggressive with this rollout. It feels like a direct shot at paid alternatives like Midjourney and ChatGPT Plus. I mean, who doesn't love free tech? I've been playing around with it and the results are mind-blowing. If you haven't checked it out yet, you seriously need to go try it right now. What do you think, is Google winning the AI war with this move? Let me know!",
-    "id": "1061c558",
-    "category": "AI",
-    "companies": [
-      "Google"
-    ],
-    "people": [
-      "Lauren Forristal"
-    ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/g8k2m9x1a.png",
-    "image_prompt": "Photorealistic news photo: modern Silicon Valley office at dusk, diverse engineers near a holographic smartphone UI showing abstract colorful “image generation” icons, warm neon rim light, cinematic depth of field, realistic skin tones, high detail, confident tech-news mood, no text, ultra sharp."
-  },
-  {
-    "date": "2026-06-29",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "This $129 AI Gadget is Secretly Taking Over the World!",
-    "summary": "AI hardware startup Pocket has raised $11 million from Accel and Y Combinator to scale its dedicated voice note-taking device. The $129 battery-powered recorder performs local transcribing and has already shipped approximately 130,000 units.",
-    "engagement": "High",
-    "raw_text": "Okay, you guys need to see this wild new hardware! A tiny AI startup called Pocket just raised a massive 11 million dollars from heavy hitters like Accel and Y Combinator. Why? Because they built an absolute beast of an AI note-taking gadget. This little battery-powered recorder costs just 129 dollars, and it has already shipped a staggering 130,000 units! So check this out: it records and transcribes your meetings and calls directly on the device using onboard AI. No complex cloud stuff, just pure local efficiency. Honestly, this is huge for students and anyone working a desk job. Investors are betting big that we all want dedicated, always-on AI assistants instead of just apps on our phones. I am totally obsessed with the design of this thing. It really shows that standalone AI hardware isn't dead—it's just getting hyper-focused on productivity. Would you shell out 129 bucks for an always-listening AI notepad? I think it's a game-changer!",
-    "id": "83302ec4",
-    "category": "Hardware",
-    "companies": [
-      "Pocket",
-      "Accel",
-      "Y Combinator"
-    ],
-    "people": [
-      "Ivan Mehta"
-    ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/p3n7v4b9z.png",
-    "image_prompt": "Photorealistic newsroom-style scene: a sleek $129 pocket voice recorder on a desk, subtle LED glow, close-up of buttons and mic grille, smartphone nearby showing abstract waveform (no text), warm cinematic lighting, shallow depth of field, professional tech-news mood, high detail."
-  },
-  {
-    "date": "2026-06-29",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "Tesla Legacy Cars Get FSD v14! Stock Goes ABSOLUTELY Crazy!",
-    "summary": "Tesla began rolling out its Full Self-Driving Version 14 Lite software update to legacy vehicles running older Hardware 3 systems. Following the announcement, Tesla shares experienced a major single-day rally of approximately 8.5 percent.",
-    "engagement": "High",
-    "raw_text": "Alright, Tesla fans, we have a massive update that just sent the stock absolutely skyrocketing! Tesla started rolling out its highly anticipated Full Self-Driving Version 14 Lite software, and the wild part is that it's hitting older Hardware 3 vehicles! Owners of legacy cars are finally getting early access to these next-gen advanced assisted-driving features, and Wall Street went completely nuts. Right after the announcement, Tesla’s shares rallied by an insane 8.5 percent in a single day—a massive jump we haven't seen in over a year! Tesla's head of AI, Ashok Elluswamy, confirmed this rollout is going to expand further based on user feedback. Honestly, this is huge for anyone who bought a Tesla years ago thinking they'd be left behind. It shows Tesla is doubling down on its promise that older hardware can still handle the self-driving future. I think this breathed a ton of fresh confidence back into investors. Are you guys ready to trust your older Tesla with FSD v14?",
-    "id": "ceeefb65",
-    "category": "Mobile",
-    "companies": [
-      "Tesla"
-    ],
-    "people": [
-      "Ashok Elluswamy",
-      "William Gavin"
-    ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/t4r9w2m8x.png",
-    "image_prompt": "Realistic high-quality news photo: dramatic stock market trading floor with glowing red/green charts surging upward, Tesla Model S and Model 3 silhouettes in foreground, sleek modern cars at night with LED headlights, futuristic tech vibe, tense excitement, cinematic lighting, shallow depth of field. No text."
-  },
-  {
     "date": "2026-06-30",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 2,
-    "title": "Meta Caught Posing as TEENS to Secretly Spy on OpenAI!",
-    "summary": "An investigation revealed that Meta hired hundreds of contractors under a secret initiative called project Cannes to pose as minors. These contractors sent graphic and sensitive prompts to rival chatbots from OpenAI and Google to shadow-test their safety boundaries.",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Anthropic Just Dropped Claude Sonnet 5: The Game-Changing AI Agent You Can Actually Afford!",
+    "summary": "Anthropic has launched Claude Sonnet 5, a midsize large language model featuring advanced planning and browsing capabilities. Priced significantly lower than larger models, it will become the default option for Claude's free and Pro tiers.",
     "engagement": "High",
-    "raw_text": "This is hands down the most controversial tech story of the week, and honestly, it’s wild. A massive investigation just revealed that Meta literally hired hundreds of secret contractors to pose as minors online! Why? To aggressively probe and shadow-test rival chatbots like Google's Gemini and OpenAI's ChatGPT. Under a top-secret project codenamed 'Cannes,' these contractors sent heavy prompts about suicide, self-harm, drugs, and graphic sexual topics just to see how competing systems would handle the safety limits. Here's the wild part: Meta was basically using simulated minor profiles to harvest critical safety data on other companies' models. This raises huge ethical questions. I mean, we know tech giants compete fiercely, but pretending to be vulnerable teenagers to trigger graphic responses feels incredibly shady. It shows just how desperate these companies are to find flaws in their competitors' AI guardrails. What do you think about this? Did Meta cross a massive line here, or is this just standard business?",
-    "id": "5cd03e86",
+    "raw_text": "So check this out—Anthropic just casually went ahead and released Claude Sonnet 5, and it is an absolute game-changer! We are talking about a midsize model that has fully 'agentic' features. That means it can literally browse the web, plan complex tasks out, and execute multi-step operations all by itself. Here's the wild part: it basically matches the mind-blowing performance of their massive Claude Opus model, but it’s dirt cheap! TechCrunch says it’s only two bucks per million input tokens, which is honestly huge for developers who want to build insane AI agents without going completely broke. Plus, it’s already rolling out as the default for both free and Pro tiers. Anthropic is completely shaking up the market here, leaving competitors scrambling to match this level of accessibility and power. If you’ve been waiting for AI that actually *does* things instead of just talking, this is it. I’m telling you, the race for autonomous AI agents just went into hyperdrive!",
+    "id": "A5n8XpQ1",
     "category": "AI",
     "companies": [
-      "Meta",
-      "Google",
+      "Anthropic"
+    ],
+    "people": [
+      "Kyle Wiggers"
+    ],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-06-15",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "OpenAI’s Secret Weapon Revealed! GPT-5.6 Limited Preview Has Officially Started!",
+    "summary": "OpenAI has initiated a limited preview of its next-generation model family, codenamed GPT-5.6, focusing on advanced software engineering and cybersecurity. The rollout is currently restricted to select partners while coordinating with government agencies.",
+    "engagement": "High",
+    "raw_text": "Alright guys, brace yourselves because OpenAI is playing chess while everyone else is playing checkers. They just started a super exclusive, limited preview of their next-gen model family, GPT-5.6! Codenamed Sol, Terra, and Luna, this thing is reportedly pushing the absolute boundaries of software engineering, cybersecurity, and advanced scientific research. Now, here’s the wild part—it’s not in ChatGPT yet. They are only giving access to select partners because they’re heavily coordinating with government agencies before letting the public touch it. Honestly, this is massive because the U.S. government is breathing down their necks with scrutiny, which is actually delaying the full release and making everyone eye alternative models. But make no mistake, GPT-5.6 is shaping up to be an absolute monster in reasoning and coding. Are we looking at the doorstep of true AGI here? We’ll find out soon enough, but the hype is incredibly real!",
+    "id": "b9K2wMzL",
+    "category": "AI",
+    "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-06-30T22:55:09Z"
+    "created_at": "2026-07-02T19:53:44Z"
   },
   {
-    "date": "2026-06-29",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 2,
-    "title": "Supreme Court BLOCKS Police From Tracking Your Phone! Massive Privacy Win!",
-    "summary": "In a 6-3 ruling for Chatrie v. United States, the U.S. Supreme Court decided that law enforcement must obtain traditional warrants before issuing geofence location data requests. The Court ruled that smartphone location history is protected from broad sweeps by the Fourth Amendment.",
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "A Mini DeepSeek Moment?! China’s New GLM-5.2 Just Shocked the Entire AI World!",
+    "summary": "Beijing-based startup Z.ai has released GLM-5.2, an AI model that rivals Western frontrunners on coding and agentic benchmarks at a fraction of the cost. Alongside the model, the company launched ZCode to directly compete with GitHub Copilot and Cursor.",
     "engagement": "High",
-    "raw_text": "We have an absolute blockbuster ruling from the US Supreme Court that changes everything for your digital privacy! In a shocking 6-to-3 decision, the Supreme Court officially crushed the use of mass-location 'geofence' warrants. So check this out: law enforcement can no longer just force Google or Apple to hand over the location data of every single person who happened to be near a crime scene. The court ruled that your smartphone's location history is strictly protected by the Fourth Amendment, meaning police must get a traditional warrant with actual probable cause first. Honestly, this is a massive victory for digital privacy advocates who have been fighting this for years. On the flip side, law enforcement groups are pushing back, saying it's going to make tracking down criminals a whole lot harder. But look, your phone shouldn't turn you into a suspect just because you walked past a building. This is easily one of the most important legal updates for tech users this year!",
-    "id": "ad204268",
-    "category": "Business",
-    "companies": [
-      "Google",
-      "Apple"
-    ],
-    "people": [
-      "Zack Whittaker",
-      "Lorenzo Franceschi-Bicchierai"
-    ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/s7h2j1n5k.png",
-    "image_prompt": "Realistic news photo style: U.S. Supreme Court building under dramatic daylight, blurred smartphone in foreground with subtle map grid glow, police siren bokeh in background, tense privacy-themed mood, high contrast, shallow depth of field, ultra-detailed, 4K, no text."
-  },
-  {
-    "date": "2026-06-30",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "Amazon is Spending $1 BILLION to Send AI Engineers to Your House!",
-    "summary": "Amazon AWS is committing $1 billion to establish a new division of forward-deployed AI engineers who embed directly with enterprise customers. These specialized engineering pods will help clients accelerate workflows by implementing on-site agentic AI systems.",
-    "engagement": "Medium",
-    "raw_text": "Amazon AWS is making an absolutely massive corporate power move! They just committed a staggering 1 billion dollars to form a brand-new division of 'forward-deployed' AI engineers. So check this out: instead of just selling cloud software over the internet, AWS is literally sending small teams or 'pods' of elite engineers to embed directly within their clients' actual operations for short-term residencies. The whole goal here is to help companies rapidly build advanced 'agentic AI' straight into their real-world workflows. Honestly, this shows just how insane the enterprise demand for AI has become. Amazon is feeling the heat from rivals like Google Cloud, Palantir, and Salesforce, who are already doing onsite consulting. They realize that to win the cloud war, they need boots on the ground helping businesses deploy these tools safely and quickly. It's a massive investment, and it proves that AI implementation is way harder than it looks. Let me know if your company needs an AWS engineering pod!",
-    "id": "61ff524d",
+    "raw_text": "You won't believe what just happened in the global AI arms race. A Beijing startup called Z.ai just dropped GLM-5.2, and insiders are calling this a mini DeepSeek moment! This new large language model is performing almost as well as Claude Opus, matching top U.S. models in agentic coding abilities but at a microscopic fraction of the price. To make things even crazier, they also launched ZCode, which is going directly to war with GitHub Copilot and Cursor. Former U.S. AI czar David Sacks even confirmed that this thing is legit on par with Western models! Now, here’s the catch—analysts say data-security issues and heavy regulations will probably stop Western companies from adopting it. But honestly, this is huge because it proves China is closing the AI gap at lightning speed, offering insane open-source, cost-efficient alternatives while U.S. firms face mounting costs and oversight. The tech landscape is shifting right before our eyes!",
+    "id": "v7R4mT9K",
     "category": "AI",
     "companies": [
-      "Amazon AWS",
-      "Google Cloud",
-      "Palantir",
-      "Salesforce"
+      "Z.ai",
+      "Anthropic",
+      "OpenAI"
     ],
     "people": [
-      "Francesca Vasquez"
+      "David Sacks",
+      "Laurie Chen",
+      "Aditya Soni"
     ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/a9x2f5v8r.png",
-    "image_prompt": "Hyper-realistic newsroom photo: modern smart home exterior at dusk, subtle server-rack glow through window; two professional AWS engineers in sleek attire installing a compact AI device with glowing holographic UI icons; warm ambient light, cinematic depth of field, documentary realism, high detail, no text."
+    "created_at": "2026-07-02T19:53:44Z"
   },
   {
-    "date": "2026-06-30",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 2,
-    "title": "China Just Built a Trillion-Parameter AI Using ONLY Domestic Chips!",
-    "summary": "Chinese food delivery and technology giant Meituan open-sourced LongCat-2.0, a large language model boasting one trillion parameters. The model was trained entirely on a domestic cluster of 50,000 Chinese AI chips to navigate U.S. export restrictions.",
-    "engagement": "Medium",
-    "raw_text": "So check this out—China’s food delivery and tech giant Meituan just dropped a massive bombshell that is shaking up the global chip war! They officially open-sourced a brand-new large language model called LongCat-2.0. Here's the wild part: this massive, one-trillion-parameter beast was trained entirely on 50,000 China-made AI chips! Meituan claims this is the world's very first model of this scale to be run successfully on a completely domestic chip cluster, entirely bypassing US export restrictions. Even crazier, they claim LongCat-2.0 matches or beats top Western models on coding and complex planning benchmarks. Honestly, this is huge because it proves Beijing’s heavy push for chip self-sufficiency is actually working despite severe US sanctions. It shows that Western export curbs might not hold back Chinese AI development for as long as people thought. The tech cold war is heating up fast, and this domestic breakthrough is a clear warning shot to Silicon Valley. What do you think?",
-    "id": "22fba626",
-    "category": "AI",
-    "companies": [
-      "Meituan"
-    ],
-    "people": [],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/m4v2d8z1q.png",
-    "image_prompt": "News photo style: sleek data center in China at night, rows of glowing racks and cooling systems, faint blue light reflecting on polished server housings. A Chinese engineer in safety gear stands before a holographic AI network visualization. Subtle circuit patterns, dramatic cinematic lighting, realistic high detail, 16:9."
-  },
-  {
-    "date": "2026-06-30",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "This Startup is Launching Cheap Robotaxis to Defeat Tesla in Europe!",
-    "summary": "Autobrains, an autonomous driving startup backed by Cerence, is targeting the European and Southeast Asian markets for a robotaxi rollout by 2026-27. The company utilizes a low-cost agentic AI driving infrastructure to bypass expensive hardware sensors and avoid crowded US markets.",
-    "engagement": "Medium",
-    "raw_text": "Move over Tesla and Waymo, because a new player is coming for the autonomous driving throne! The CEO of Israeli startup Autobrains just announced that Europe and Southeast Asia are about to see a massive surge in self-driving robotaxi services by 2026 and 2027. So check this out: while Tesla and Waymo completely dominate the US market, Autobrains is smart and completely focusing their expansion on Europe. But here's the wild part—they’ve developed a hyper-efficient 'agentic AI' driving system that relies way less on super expensive sensors. By cutting down the hardware costs, they can deploy robotaxis much cheaper than their rivals. Honestly, this is a brilliant tactical move. Fighting Elon Musk on US soil is a brutal battle, so capturing the budding European market with a low-cost system makes total sense. If they can pull this off, autonomous rides could become incredibly affordable very soon. Would you hop into a budget-friendly AI robotaxi? Let me know in the comments below!",
-    "id": "1f9fa362",
-    "category": "Science",
-    "companies": [
-      "Autobrains",
-      "Cerence",
-      "Waymo",
-      "Tesla"
-    ],
-    "people": [
-      "Igal Raichelgauz"
-    ],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/b5l8w1q3m.png",
-    "image_prompt": "Photorealistic news photo: sleek compact robotaxi car with subtle sensor suite gliding through a European city street at dusk, warm streetlights, modern buildings, pedestrians blurred in motion, futuristic yet realistic autonomous driving tech vibe, cinematic lighting, shallow depth of field, high detail, no text."
-  },
-  {
-    "date": "2026-06-30",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 1,
-    "title": "Schneider Electric Just Bought an AI Giant for $3.1 BILLION!",
-    "summary": "Schneider Electric announced an all-cash acquisition of Norway's industrial AI and data platform provider Cognite for $3.1 billion. The acquisition will integrate Cognite's industrial software stack directly into Schneider's AVEVA division.",
-    "engagement": "Low",
-    "raw_text": "We have some massive industrial B2B news that's shaking up the corporate world! Schneider Electric just announced an all-cash deal worth a staggering 3.1 billion dollars to acquire the industrial AI and data platform provider, Cognite. So check this out: Cognite is a powerhouse based in Norway, and Schneider plans to fold their advanced industrial AI tools directly into their AVEVA division. Honestly, this is a clear sign of where the heavy industry market is heading. Big manufacturing and energy firms are pouring billions into AI and edge computing to automate their factories and manage massive amounts of operational data. While this might not sound as flashy as a new ChatGPT update, it’s a massive corporate play that shows AI is completely transforming legacy industries behind the scenes. It’s all about efficiency, data management, and the industrial internet of things. It’s a huge win for Cognite and a massive expansion for Schneider's digital tech stack!",
-    "id": "84274484",
-    "category": "Business",
-    "companies": [
-      "Schneider Electric",
-      "Cognite",
-      "AVEVA"
-    ],
-    "people": [],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/s2x9b7k4l.png",
-    "image_prompt": "Photorealistic corporate news scene: sleek modern headquarters at dusk, subtle industrial cranes in background, two executives in suits shaking hands in foreground, faint holographic AI/data grid overlay connecting factories and servers, cinematic lighting, high detail, realistic depth of field, no text."
-  },
-  {
-    "date": "2026-06-29",
-    "source_file": "Tech & AI News - June 30, 2026",
-    "page": 2,
-    "title": "Apple Changes iPhone Security Forever to Fight AI Hackers!",
-    "summary": "Apple has announced a strategic policy shift to release critical software security fixes ahead of its standard major iOS rollout calendar. The decision follows growing concerns over the velocity at which AI-enabled hacking systems can discover and exploit device flaws.",
-    "engagement": "Medium",
-    "raw_text": "Apple just announced a massive shift in how they protect your devices, and it’s all because of AI! They are officially changing their security strategy to release critical software updates way ahead of their usual major iOS schedules. Historically, Apple bundled security fixes into big, biannual operating system updates. But here's the wild part: Apple is openly admitting that AI-powered hacking tools are accelerating threats so fast that they can't afford to wait anymore. By pushing out fixes immediately, they want to completely shrink the vulnerability window before hackers can exploit exposed flaws. Honestly, this is a huge deal. It shows that the rise of AI isn't just changing apps—it's actively reshaping cybersecurity defense lines. AI can help bad actors find vulnerabilities faster, so Apple has to move even quicker to stop them. It’s a game of cat and mouse, and Apple is moving fast to make sure your iPhone stays locked down tight!",
-    "id": "8013ae52",
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 3,
+    "title": "Apple is Officially Building a Foldable iPhone! 10 MILLION 'iPhone Ultra' Units Ordered!",
+    "summary": "Reports indicate Apple has instructed its supply chain to prepare roughly 10 million units of its first foldable device, potentially named the iPhone Ultra, for a late 2026 launch. The phone is expected to feature a 7.8-inch inner display and an A20 processor.",
+    "engagement": "High",
+    "raw_text": "So check this out, Apple fans—the foldable iPhone is no longer just a myth! Japanese media just leaked that Apple told its suppliers to gear up for a massive production run of ten million units of its first-ever foldable phone, rumored to be called the 'iPhone Ultra.' This is way higher than anyone expected! Word on the street is that it's launching around September 2026, featuring a massive 7.8-inch inner display, Touch ID, and the ultra-powerful A20 chip. Here’s the wild part: Apple has apparently been quietly fixing all those annoying hinge issues behind closed doors to ensure this thing is absolutely flawless. They are betting big on foldable tech to stay at the absolute cutting edge of the smartphone industry. With Apple forecasting over 220 million total iPhones for the year, they are clearly feeling super confident. Get your wallets ready, because this is about to change the smartphone game forever!",
+    "id": "f2P9xV4n",
     "category": "Mobile",
     "companies": [
       "Apple"
     ],
+    "people": [
+      "Tim Hardwick"
+    ],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 1,
+    "title": "Tesla Crushes Estimates! Record Q2 Deliveries Leave Wall Street Speechless!",
+    "summary": "Tesla announced record-breaking second-quarter vehicle deliveries of 480,126 units, driven by a strong recovery in European demand. While the core EV business is bouncing back, investors remain focused on the company's autonomous driving and AI milestones.",
+    "engagement": "Medium",
+    "raw_text": "Check this out—Tesla just absolutely crushed its second-quarter delivery forecasts, proving all the doubters wrong! They managed to deliver a record-breaking 480,126 vehicles between April and June, which is an insane 25% jump year-over-year. A massive recovery in European demand completely offset some weakness in the U.S. market. This is huge because it shows Tesla's core electric vehicle momentum is roaring back after two years of declining sales. But here’s the interesting twist: the stock market's reaction was pretty quiet. Why? Because investors are looking way past just car sales right now. Everyone is betting big on Elon Musk's long-term visions for autonomous driving, robotaxis, and artificial intelligence. So while moving nearly half a million cars in a single quarter is a massive milestone, Wall Street is saying, 'Show us the self-driving future!' Keep your eyes on Tesla, because the real AI show is just getting started.",
+    "id": "k8M3nB5v",
+    "category": "Business",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [
+      "Akash Sriram",
+      "Elon Musk"
+    ],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-01",
+    "source_file": "Combined",
+    "page": 2,
+    "title": "Elon Musk SHUTS DOWN Rumors! The SpaceX AI Phone is NOT Happening!",
+    "summary": "Elon Musk has officially denied a Wall Street Journal report claiming SpaceX was developing an AI-focused smartphone prototype running Grok AI on Qualcomm chips. Musk stated the reports were entirely false, clarifying that SpaceX remains focused on rockets and satellites.",
+    "engagement": "High",
+    "raw_text": "Alright, we need to clear the air because the internet was losing its mind over a rumored SpaceX AI phone, but Elon Musk just completely shut it down! Reports were swirling from the Wall Street Journal claiming SpaceX had demonstrated a wild, AI-focused smartphone prototype running xAI's Grok and powered by Qualcomm chips. But on July 1st, Musk came out and called the entire story 'utterly false.' Here's the wild part: even though SpaceX is investing tons of money into AI, automated robotics, and satellite infrastructure, a consumer smartphone is definitely not on their radar right now. Tech media got a little too excited trying to paint SpaceX as a hardware competitor to Apple. While Musk definitely wants to be at the center of the global AI race, SpaceX is sticking to what it does best—launching rockets and expanding Starlink. So yeah, don't throw away your current phone just yet, because the Tesla or SpaceX phone remains a sci-fi dream!",
+    "id": "w3Z7qX2y",
+    "category": "Hardware",
+    "companies": [
+      "SpaceX",
+      "xAI",
+      "Qualcomm"
+    ],
+    "people": [
+      "Elon Musk",
+      "Akash Sriram"
+    ],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 6,
+    "title": "Google Just Open-Sourced a Mind-Blowing Privacy Library! Say Goodbye to Data Leaks!",
+    "summary": "Google has open-sourced its proprietary zero-knowledge proof identity library, code-named 'Longfellow-ZK', designed to verify credentials and age without revealing personal data. The system aligns with Europe's strict eIDAS and Digital Services Act mandates.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—Google just made a massive move for internet privacy by open-sourcing its proprietary zero-knowledge proof library, code-named 'Longfellow-ZK.' This is actually incredible technical wizardry. It lets developers verify things like your age or identity credentials without you ever having to show your actual birthdate or physical ID documents to the website! It uses insane cryptography to achieve what regulators call 'unlinkability' by design. Google is aligning this directly with Europe's strict new eIDAS regulations and the Digital Services Act to protect minors. Here's the wild part, though—Brave Research issued a massive critique saying zero-knowledge proofs aren't a magic cure-all because they still rely on centralized government authorities to issue the original IDs, which could leave out undocumented people. Still, by making this code totally open, Google is essentially building the foundation for the future of digital identity wallets. It’s a huge step toward escaping creepy data tracking!",
+    "id": "h4J8mN1x",
+    "category": "Science",
+    "companies": [
+      "Google",
+      "Brave"
+    ],
     "people": [],
-    "created_at": "2026-06-30T22:55:09Z",
-    "image_url": "images/01_07_26/a6c4t9w1p.png",
-    "image_prompt": "Realistic newsroom photo style: Apple iPhone close-up on desk, glowing security lock overlay, subtle circuit traces, dark futuristic cyber threat in background, dramatic lighting, high contrast, shallow depth of field, crisp details, credible tech news mood, no text."
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 10,
+    "title": "Microsoft and Nvidia Built an Absolute Beast! Meet the Local AI Supercomputer!",
+    "summary": "Microsoft introduced the Surface RTX Spark Dev Box at its Build 2026 conference, featuring Nvidia's Blackwell-architecture RTX Spark processor and 128GB of unified memory. The compact device delivers one petaflop of AI compute, enabling developers to run massive models locally.",
+    "engagement": "Medium",
+    "raw_text": "Software engineers, check this out—Microsoft and Nvidia just teamed up to put a literal AI supercomputer right on your desk! At Build 2026, they unveiled the Surface RTX Spark Dev Box, a hardware beast designed to run massive AI models completely locally. Forget about paying insane cloud API fees or worrying about data privacy leaks. The specs on this small-form-factor appliance are absolutely nuts: it packs Nvidia’s brand-new Blackwell-architecture RTX Spark processor, a mind-blowing 128 gigabytes of unified memory, and pushes out one petaflop of raw AI compute power! This means you can load and run AI models with over 120 billion parameters entirely on the edge. Honestly, this is huge because it signals a massive shift away from centralized cloud computing back to localized hardware power. It’s expensive, and the global RAM supply chain is under fire with lawsuits right now, but this Dev Box is a developer's absolute dream machine!",
+    "id": "t5V2cR7w",
+    "category": "Hardware",
+    "companies": [
+      "Microsoft",
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 12,
+    "title": "Stanford Physicists Just Solved Quantum Computing’s Biggest Nightmare!",
+    "summary": "Stanford University physicists have achieved a breakthrough by using the topological states of 'twisted light' to run quantum calculations at room temperature. This eliminates the need for expensive and power-hungry cryogenic cooling infrastructure.",
+    "engagement": "High",
+    "raw_text": "Okay, this is mind-blowing fundamental science right here. Stanford University physicists just solved the biggest nightmare in quantum computing! Traditionally, scaling quantum systems required massive, super expensive cryogenic refrigerators to cool qubits down to near absolute zero. But the Stanford team completely bypassed that bottleneck by using the topological states of light—specifically, 'twisted light' generated by the orbital angular momentum of photons. By encoding quantum data into these twisted photons, they executed complex quantum computations at ambient room temperature! Here's the wild part: if this photonic architecture scales up, the massive physical footprint and insane costs of quantum computers will completely collapse, bringing us closer to true quantum supremacy way faster than anyone predicted. This is a massive threat to modern cryptographic security, but an incredible leap for the future of processing power. Quantum computing is finally leaving the deep freeze!",
+    "id": "g9L4vK3p",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-07-02T19:53:44Z"
+  },
+  {
+    "date": "2026-07-02",
+    "source_file": "Combined",
+    "page": 11,
+    "title": "The RAM Cartel Exposed?! Tech Giants Sued for Artificially Exploding AI Costs!",
+    "summary": "A major class-action lawsuit has been filed by 17 distinct plaintiffs against memory manufacturers Samsung, SK Hynix, and Micron. The litigation alleges the companies colluded to artificially restrict RAM output since 2022 to inflate global tech prices.",
+    "engagement": "Medium",
+    "raw_text": "Here's a wild piece of drama that is hitting the entire tech supply chain right now! A massive class-action lawsuit has just been filed against the world’s leading memory giants—Samsung, SK Hynix, and Micron. Seventeen different plaintiffs are alleging that these three massive conglomerates teamed up like a secret cartel to artificially restrict the output of Random Access Memory starting way back in 2022. By collectively throttling production, they allegedly engineered a massive, artificial price hike. Now, why does this matter to you? Because high-bandwidth memory is the absolute critical bottleneck for training and running artificial intelligence. This suspected price-fixing scheme directly inflates the operational costs of the entire global tech sector, forcing downstream companies like Apple and Microsoft to pass those massive costs right onto us when we buy phones and PCs. It's an absolute corporate showdown, and things are about to get ugly in court!",
+    "id": "m1X4bZ9s",
+    "category": "Business",
+    "companies": [
+      "Samsung",
+      "SK Hynix",
+      "Micron",
+      "Apple",
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-07-02T19:53:44Z"
   }
 ]
