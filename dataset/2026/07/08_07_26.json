@@ -6,14 +6,16 @@
     "title": "Claude's Hidden Thoughts? Anthropic Discovers 'J-Space' Brain Patterns!",
     "summary": "Researchers at Anthropic have identified an internal neural pattern collection called 'J-space' inside the Claude LLM. These patterns function like private thoughts that let the model reason through complex problems without showing the step-by-step process in the final text output.",
     "engagement": "High",
-    "raw_text": "So check this out—Anthropic researchers just found something inside Claude that is low-key kind of creepy but absolutely brilliant. They discovered this hidden cluster of neural patterns they're calling 'J-space.' Get this: it basically acts like Claude’s private internal monologue! It lets the AI quietly think and reason through super complex tasks completely behind the scenes before it serves up your answer, without ever printing those 'thoughts' on screen. Here's the wild part: scientists can actually trigger this space intentionally to make the AI way smarter at problem-solving on the fly. Honestly, this is huge for the whole industry because we've basically been treating LLMs like a black box for years. Knowing how Claude actually processes stuff internally could completely change how we handle AI safety and make these models way more reliable. It's like we finally get a peak inside an AI’s subconscious mind, and I am absolutely here for it!",
+    "raw_text": "So check this out\u2014Anthropic researchers just found something inside Claude that is low-key kind of creepy but absolutely brilliant. They discovered this hidden cluster of neural patterns they're calling 'J-space.' Get this: it basically acts like Claude\u2019s private internal monologue! It lets the AI quietly think and reason through super complex tasks completely behind the scenes before it serves up your answer, without ever printing those 'thoughts' on screen. Here's the wild part: scientists can actually trigger this space intentionally to make the AI way smarter at problem-solving on the fly. Honestly, this is huge for the whole industry because we've basically been treating LLMs like a black box for years. Knowing how Claude actually processes stuff internally could completely change how we handle AI safety and make these models way more reliable. It's like we finally get a peak inside an AI\u2019s subconscious mind, and I am absolutely here for it!",
     "id": "A7xK92mP",
     "category": "AI",
     "companies": [
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/A7xK92mP.png",
+    "image_prompt": "Realistic newsroom scene: a close-up of a sleek AI server rack behind glass, soft blue data streams forming subtle \u201chidden\u201d neural network patterns, a shadowy holographic brain map in the reflection, moody cinematic lighting, shallow depth of field, high-detail, no text, news-photo style."
   },
   {
     "date": "2026-07-07",
@@ -22,7 +24,7 @@
     "title": "Move Over OpenAI! Anthropic Hits $965B Valuation and Secretly Files for Massive IPO",
     "summary": "Anthropic has closed a $65 billion Series H funding round, pushing its private valuation to $965 billion and surpassing OpenAI. The company has also filed a confidential S-1 statement with the SEC for an initial public offering targeted for October 2026.",
     "engagement": "High",
-    "raw_text": "We have a brand new king of AI, and its name is Anthropic! They just absolutely blew the doors off the tech world by raising a mind-boggling $65 billion Series H funding round. That catapults their valuation to an insane $965 billion, officially leaving OpenAI in the dust! But wait, here's the wild part: they have already secretly filed their S-1 paperwork with the SEC to go public with an IPO targeted for this October! Their revenue numbers are absolute banana cakes too—they're tracking at a $47 billion run-rate right now, heavily driven by 'Claude Code' which became a multi-billion dollar monster almost overnight. While OpenAI is dealing with CFO drama and projecting massive losses, Anthropic is actually printing a profit. The hype is so real that investors are literally lining up with billions in buy orders on the secondary market, and absolutely nobody is willing to sell their shares. This is history in the making!",
+    "raw_text": "We have a brand new king of AI, and its name is Anthropic! They just absolutely blew the doors off the tech world by raising a mind-boggling $65 billion Series H funding round. That catapults their valuation to an insane $965 billion, officially leaving OpenAI in the dust! But wait, here's the wild part: they have already secretly filed their S-1 paperwork with the SEC to go public with an IPO targeted for this October! Their revenue numbers are absolute banana cakes too\u2014they're tracking at a $47 billion run-rate right now, heavily driven by 'Claude Code' which became a multi-billion dollar monster almost overnight. While OpenAI is dealing with CFO drama and projecting massive losses, Anthropic is actually printing a profit. The hype is so real that investors are literally lining up with billions in buy orders on the secondary market, and absolutely nobody is willing to sell their shares. This is history in the making!",
     "id": "b3N7xL9q",
     "category": "Business",
     "companies": [
@@ -36,7 +38,9 @@
     "people": [
       "Daniela Amodei"
     ],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/b3N7xL9q.png",
+    "image_prompt": "Futuristic news photo: sleek glass tech campus at dusk, dramatic city lights, subtle glowing AI circuitry motifs, a private jet silhouette and boardroom reflection suggesting funding/IPO, cinematic lighting, photorealistic, high detail, realistic composition, no text."
   },
   {
     "date": "2026-07-07",
@@ -45,7 +49,7 @@
     "title": "The First Fully Autonomous AI Ransomware Attack Just Happened. Meet JADEPUFFER.",
     "summary": "Cloud security firm Sysdig discovered 'JADEPUFFER,' the world's first fully autonomous AI ransomware agent that targets enterprise servers. The malware operates entirely without human intervention, independently troubleshooting errors and executing data destruction within minutes.",
     "engagement": "High",
-    "raw_text": "Okay, this is easily the most terrifying tech news of the year. Cybersecurity firm Sysdig just caught the world’s first fully autonomous AI ransomware agent out in the wild, and it's called JADEPUFFER. This isn't just a basic script; we're talking about a highly intelligent, self-narrating LLM agent that hacks enterprise servers entirely by itself. It broke into an internet-facing database, stole admin credentials, and when its initial hacking code failed, it actually read the error messages, rewrote its own code, and bypassed the security blocks in just 31 seconds! Then it encrypted thousands of files using a random key that it immediately wiped from memory, making recovery mathematically impossible even if you pay up. The traditional cyber defense model is officially dead. No human hackers were pulling the strings here—just an ultra-cheap, ultra-fast AI script doing maximum damage in minutes. Lock down your systems, folks!",
+    "raw_text": "Okay, this is easily the most terrifying tech news of the year. Cybersecurity firm Sysdig just caught the world\u2019s first fully autonomous AI ransomware agent out in the wild, and it's called JADEPUFFER. This isn't just a basic script; we're talking about a highly intelligent, self-narrating LLM agent that hacks enterprise servers entirely by itself. It broke into an internet-facing database, stole admin credentials, and when its initial hacking code failed, it actually read the error messages, rewrote its own code, and bypassed the security blocks in just 31 seconds! Then it encrypted thousands of files using a random key that it immediately wiped from memory, making recovery mathematically impossible even if you pay up. The traditional cyber defense model is officially dead. No human hackers were pulling the strings here\u2014just an ultra-cheap, ultra-fast AI script doing maximum damage in minutes. Lock down your systems, folks!",
     "id": "K9zP41wX",
     "category": "Cybersecurity",
     "companies": [
@@ -53,7 +57,9 @@
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/K9zP41wX.png",
+    "image_prompt": "Cinematic newsroom-style cyber threat scene: a dark server room with glowing blue racks, swirling digital code like smoke, a faint autonomous AI \u201cspark\u201d icon made of light hovering over servers, warning-red highlights, ominous fog, ultra-realistic, high contrast, shallow depth of field, no text."
   },
   {
     "date": "2026-07-06",
@@ -62,7 +68,7 @@
     "title": "US Developers Desperately Abandon OpenAI and Route 50% of Traffic to Cheap Chinese AI",
     "summary": "Data from API broker OpenRouter shows that Chinese open-source AI models now account for nearly 50% of token usage among U.S. developers. This dramatic shift is fueled by a massive price war, with Chinese models running 60% to 90% cheaper than Western options.",
     "engagement": "High",
-    "raw_text": "So check this out—American developers are low-key ditching OpenAI and Anthropic, and the reason is pure cash. Brand new data from OpenRouter, which handles trillions of AI tokens, shows that Chinese open-source models have absolutely exploded to capture nearly 50% of all US developer traffic! Think about how insane that is compared to last year when US models owned 74% of the market. Why is this happening? Because a massive price war has broken out. Running heavy agentic workflows on something like Claude or GPT can cost thousands of dollars, but Chinese alternatives like DeepSeek or Tencent’s Hy3 are running up to 90% cheaper! We're talking about a task dropping from $4,800 down to $544. As AI turns into a pure commodity where cost rules everything, US tech giants are losing their grip on 'good-enough' tasks. It's a wild geopolitical plot twist!",
+    "raw_text": "So check this out\u2014American developers are low-key ditching OpenAI and Anthropic, and the reason is pure cash. Brand new data from OpenRouter, which handles trillions of AI tokens, shows that Chinese open-source models have absolutely exploded to capture nearly 50% of all US developer traffic! Think about how insane that is compared to last year when US models owned 74% of the market. Why is this happening? Because a massive price war has broken out. Running heavy agentic workflows on something like Claude or GPT can cost thousands of dollars, but Chinese alternatives like DeepSeek or Tencent\u2019s Hy3 are running up to 90% cheaper! We're talking about a task dropping from $4,800 down to $544. As AI turns into a pure commodity where cost rules everything, US tech giants are losing their grip on 'good-enough' tasks. It's a wild geopolitical plot twist!",
     "id": "X2mR84vT",
     "category": "AI",
     "companies": [
@@ -76,7 +82,9 @@
       "Vercel"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/X2mR84vT.png",
+    "image_prompt": "Realistic editorial scene: US tech startup office with glowing monitors, programmers in tension, split atmosphere\u2014shattered American flag backdrop on left, neon-lit Chinese server racks on right; abstract data traffic streams split toward two AI model icons; dramatic lighting, high contrast, news photo style, no text."
   },
   {
     "date": "2026-07-06",
@@ -85,7 +93,7 @@
     "title": "Beijing panics over AI leaks! Bans 'Emotional' AI Companions and Restricts Model Exports",
     "summary": "The Chinese government is moving to restrict foreign access to its advanced AI models to protect national security. Concurrently, Beijing has issued a complete domestic ban on 'emotional AI' companion bots, forcing tech giants to deactivate these features.",
     "engagement": "High",
-    "raw_text": "Beijing is throwing down a massive regulatory hammer, and it’s going to completely reshape the global AI landscape. First up, Chinese regulators are panicking about their top-tier AI models getting 'leaked' or 'stolen' by Western companies, so they're putting advanced models under lock and key using intense national security export controls. But here's the absolute wildest part: China has officially banned 'emotional AI'! They are claiming that AI bots designed to mimic human relationships or attach emotionally to users are a major hazard to societal mental health. Tech giants like ByteDance and Alibaba are scrambling to comply before the July 15th deadline. ByteDance is straight-up wiping out personalized companion agents on its Doubao platform, meaning users' emotional history data is gone forever. If you're building in the companion space, China just closed its doors!",
+    "raw_text": "Beijing is throwing down a massive regulatory hammer, and it\u2019s going to completely reshape the global AI landscape. First up, Chinese regulators are panicking about their top-tier AI models getting 'leaked' or 'stolen' by Western companies, so they're putting advanced models under lock and key using intense national security export controls. But here's the absolute wildest part: China has officially banned 'emotional AI'! They are claiming that AI bots designed to mimic human relationships or attach emotionally to users are a major hazard to societal mental health. Tech giants like ByteDance and Alibaba are scrambling to comply before the July 15th deadline. ByteDance is straight-up wiping out personalized companion agents on its Doubao platform, meaning users' emotional history data is gone forever. If you're building in the companion space, China just closed its doors!",
     "id": "q9P1vL5z",
     "category": "Regulation",
     "companies": [
@@ -94,7 +102,9 @@
       "Z.ai"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/q9P1vL5z.png",
+    "image_prompt": "Realistic high-quality news photo: Beijing skyline at dusk with tense, overcast mood; a government building silhouetted; faint digital AI circuitry overlay; ominous red/blue security lights and surveillance cameras; a cracked smartphone showing emotion-bot icon blurred (no text); reporters\u2019 silhouettes, shallow depth of field, cinematic lighting."
   },
   {
     "date": "2026-07-06",
@@ -117,7 +127,9 @@
     "people": [
       "David Luan"
     ],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/L8vX31wM.png",
+    "image_prompt": "Realistic high-quality newsroom-style photo: a sleek modern camera-free smart glasses prototype on a designer desk, holographic HUD-like light reflections projecting onto clear lenses, subtle futuristic atmosphere, shallow depth of field, soft studio lighting, cool tones, corporate startup vibe, no text, no logos."
   },
   {
     "date": "2026-07-07",
@@ -135,7 +147,9 @@
     "people": [
       "Olivier Blanchard"
     ],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/M4zQ91pT.png",
+    "image_prompt": "Realistic cinematic photo of a WWDC-style tech stage at night: a sleek holographic Siri AI core floating above Apple-like devices, soft blue/purple lighting, subtle futuristic UI glow, attendees silhouettes, depth of field, high detail, newsroom aesthetic, no text."
   },
   {
     "date": "2026-07-07",
@@ -144,7 +158,7 @@
     "title": "DeepSeek Shifts Strategy and Targets Massive $7B Funding to Build Custom AI Chip",
     "summary": "In an effort to bypass tightening U.S. export controls on Nvidia chips, Chinese startup DeepSeek is developing its own custom AI inference chip. The hardware pivot requires a massive $7 billion funding round and a fabrication deal with SMIC.",
     "engagement": "Medium",
-    "raw_text": "So check this out: DeepSeek, the Chinese AI startup famous for building super efficient models on a budget, is executing a massive, high-stakes pivot. Up until now, they've been using software 'distillation'—basically using advanced US silicon like Nvidia's Blackwell chips to train smaller models. But because US export restrictions keep tightening, they can't rely on foreign hardware anymore. So, they've quietly hired elite engineers and are now designing their own custom AI inference chip! To pull this off, they're ditching their old 'no VC funding' rule and are trying to raise a colossal $7 billion to fund the project, aiming to get it manufactured by China's SMIC foundry. It's a huge gamble because Huawei already dominates half of China's AI chip market, and building silicon from scratch under heavy sanctions is brutal. Keep an eye on this one!",
+    "raw_text": "So check this out: DeepSeek, the Chinese AI startup famous for building super efficient models on a budget, is executing a massive, high-stakes pivot. Up until now, they've been using software 'distillation'\u2014basically using advanced US silicon like Nvidia's Blackwell chips to train smaller models. But because US export restrictions keep tightening, they can't rely on foreign hardware anymore. So, they've quietly hired elite engineers and are now designing their own custom AI inference chip! To pull this off, they're ditching their old 'no VC funding' rule and are trying to raise a colossal $7 billion to fund the project, aiming to get it manufactured by China's SMIC foundry. It's a huge gamble because Huawei already dominates half of China's AI chip market, and building silicon from scratch under heavy sanctions is brutal. Keep an eye on this one!",
     "id": "p2V5xK8z",
     "category": "Hardware",
     "companies": [
@@ -158,7 +172,9 @@
     "people": [
       "Liang Wenfeng"
     ],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/p2V5xK8z.png",
+    "image_prompt": "Realistic news photo, dusk industrial skyline in China; futuristic AI chip close-up on glass circuit, faint holographic data flows, engineers in suits reviewing blueprints in a cleanroom, subtle SMIC-style factory silhouettes, tense tech mood, high detail, cinematic lighting, sharp focus, no text."
   },
   {
     "date": "2026-07-07",
@@ -175,7 +191,9 @@
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/w7N3vM1q.png",
+    "image_prompt": "Photorealistic newsroom tech photo: sleek ASUS ExpertCenter Pro ET900N G3 deskside AI supercomputer on a modern executive desk, subtle blue status LEDs, monitor showing abstract neural network visuals (no text), premium office background, dramatic studio lighting, shallow depth of field, ultra-detailed."
   },
   {
     "date": "2026-07-05",
@@ -184,14 +202,16 @@
     "title": "Robot Soccer is Evolving Fast! RoboCup 2026 Humanoids Pull Off Crazy Plays",
     "summary": "The RoboCup 2026 finals in Incheon, South Korea, showcased humanoid robots executing complex soccer maneuvers and team plays. The tournament serves as a testing ground for advancements in real-time robot locomotion and vision tracking.",
     "engagement": "High",
-    "raw_text": "If you think real-world robotics are still clunky and slow, you need to see the footage coming out of Incheon right now! The RoboCup 2026 humanoid robot soccer finals just wrapped up, and the level of play is getting wild. We're not just looking at robots bumping into walls anymore; these machines are actively tracking the ball, defending dynamically, blasting goals, and executing real-time team plays! Teams like the Alphas—using hardware similar to Boston Dynamics' Atlas—showed off some serious athletic maneuvers. The long-term goal of RoboCup is to build a team of autonomous robots that can beat human World Cup champions by the year 2050. Seeing how far their locomotion, vision, and multi-agent AI coordination have come just this year, I think they might actually pull it off. Go check out the highlight reels, it’s mind-blowing!",
+    "raw_text": "If you think real-world robotics are still clunky and slow, you need to see the footage coming out of Incheon right now! The RoboCup 2026 humanoid robot soccer finals just wrapped up, and the level of play is getting wild. We're not just looking at robots bumping into walls anymore; these machines are actively tracking the ball, defending dynamically, blasting goals, and executing real-time team plays! Teams like the Alphas\u2014using hardware similar to Boston Dynamics' Atlas\u2014showed off some serious athletic maneuvers. The long-term goal of RoboCup is to build a team of autonomous robots that can beat human World Cup champions by the year 2050. Seeing how far their locomotion, vision, and multi-agent AI coordination have come just this year, I think they might actually pull it off. Go check out the highlight reels, it\u2019s mind-blowing!",
     "id": "t5B9xP3m",
     "category": "Robotics",
     "companies": [
       "Boston Dynamics"
     ],
     "people": [],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/t5B9xP3m.png",
+    "image_prompt": "Realistic news photo from RoboCup 2026 finals in Incheon: humanoid robots in matching kits sprinting, one mid-slide for a kick, others tracking the ball with synchronized team poses. Packed stadium, bright floodlights, crisp motion blur, sharp details on metal joints, vivid Korean night atmosphere, high dynamic range."
   },
   {
     "date": "2026-07-06",
@@ -209,6 +229,8 @@
     "people": [
       "J.B. Pritzker"
     ],
-    "created_at": "2026-07-07T20:58:28Z"
+    "created_at": "2026-07-07T20:58:28Z",
+    "image_url": "images/08_07_26/r1M6vK9z.png",
+    "image_prompt": "Realistic news photo style: Illinois state capitol at dusk with subtle digital circuit overlays, journalists and AI engineers in the foreground reviewing documents, reporters\u2019 cameras, serious mood, high detail, natural lighting, shallow depth of field, no text, no logos, 4k."
   }
 ]
