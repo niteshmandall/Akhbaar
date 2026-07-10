@@ -1,210 +1,123 @@
 [
   {
-    "date": "2026-07-10",
+    "date": "2026-07-09",
     "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 1,
-    "title": "The $26.5 Billion Mega-Listing That Will Crash Apple's Prices!",
-    "summary": "South Korean semiconductor giant SK Hynix has officially debuted on the Nasdaq Global Select Market, executing the largest initial share sale in the United States by a foreign company on record. The public listing raised $26.5 billion to fuel global expansion, capitalizing on unprecedented demand for AI-centric High-Bandwidth Memory (HBM) chips.",
-    "engagement": "Low",
-    "raw_text": "Alright, let's talk about some serious money moving in the background that's going to affect every single one of us. So check this out: South Korean semiconductor giant SK Hynix just made history by pulling off a massive twenty-six point five billion dollar U.S. listing on the Nasdaq! Now, I know corporate listings usually sound super boring, but here is the wild part. They are doing this because the global AI memory market is in an absolute chokehold right now. Everyone is fighting over High-Bandwidth Memory chips, which Nvidia and AMD desperately need for their AI processors. This 'chipflation' is getting so bad that even tech giants like Apple are already warning us about price hikes on upcoming Macs and iPads! SK Hynix is using this massive pile of cash to build new state-of-the-art factories in Indiana and South Korea to try and save the supply chain. Honestly, it is a massive financial flex, but since it is pure B2B market dynamics, it's probably not going to trend on your feed today.",
-    "id": "skh92834nx",
-    "category": "Business",
-    "companies": [
-      "SK Hynix",
-      "Nvidia",
-      "AMD",
-      "Apple",
-      "Samsung",
-      "UBS"
-    ],
-    "people": [],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 3,
-    "title": "The Threat Is Real! This Massive New Law Targets Frontier AI!",
-    "summary": "Illinois Governor JB Pritzker has signed the Artificial Intelligence Safety Measures Act (SB 315) into law, establishing rigorous oversight on frontier AI models. The legislation sets a national precedent by requiring mandatory, annual third-party safety audits and establishing severe financial penalties for non-compliance.",
-    "engagement": "High",
-    "raw_text": "Oh man, the AI wild west is officially coming to an end, and things are getting real! Illinois just passed a massive new law called the Artificial Intelligence Safety Measures Act, and it is a total game changer. So check this out: Governor JB Pritzker just signed off on rules that force tech giants like OpenAI, Google, and Anthropic to subject their most powerful frontier AI models to mandatory, annual third-party safety audits! We are talking about preventing crazy, catastrophic risks like autonomous cyberattacks or the literal synthesis of biological weapons. If these mega-corporations don't comply? Boom—they get slapped with a cool one-million-dollar fine for the first strike, scaling up to three million for the next! Honestly, this is huge because while the federal government is just sitting on its hands, states like Illinois, California, and New York are stepping up to rewrite the rules of AI safety. Smash that follow button because this legal war over the future of AI is just getting started!",
-    "id": "ilsa9102pd",
-    "category": "AI",
-    "companies": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Crowell & Moring",
-      "Hooper Lundy",
-      "JURIST"
-    ],
-    "people": [
-      "JB Pritzker",
-      "Mary Edly-Allen",
-      "Daniel Didech"
-    ],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 4,
-    "title": "Japan Just Legalized Stealing Your Private Data For AI Training?!",
-    "summary": "Japan's Diet passed a highly controversial amendment to the Act on the Protection of Personal Information (APPI). The revised law removes opt-in consent requirements, allowing businesses to collect and process sensitive personal data without permission, provided it is used exclusively for AI development.",
-    "engagement": "High",
-    "raw_text": "Okay, you are not going to believe what Japan just did, and honestly, it is causing an absolute meltdown online! While the US and Europe are trying to lock down AI safety, Japan just went full rogue mode. The Japanese government passed a highly controversial law that completely eliminates opt-in consent for personal data! Yes, you heard that right. Tech companies in Japan can now legally scrape, collect, and process your super sensitive personal information—we are talking medical histories, criminal records, and personal beliefs—without ever asking for your permission, as long as they use it to train AI models! They want to make Japan the absolute easiest country in the world for AI development to beat out the US and China. But here's the wild part: if a company messes up and leaks data affecting more than a thousand people, the government will seize one hundred percent of their profits! What do you think? Is this brilliant innovation or a total privacy nightmare? Let me know below!",
-    "id": "jpn77301ax",
-    "category": "AI",
-    "companies": [
-      "Liberal Democratic Party",
-      "White & Case",
-      "Komeito",
-      "Sanseito"
-    ],
-    "people": [],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 5,
-    "title": "This Mind-Blowing Organic Chip is 10,000x More Efficient Than Your PC!",
-    "summary": "Engineers at Northwestern University have developed an electronic chip that mimics the reflex function of the human cerebellum. The low-power device successfully identified abnormal heart rhythms with 98% accuracy while consuming 10,000 times less computational energy than conventional AI architectures.",
-    "engagement": "High",
-    "raw_text": "Get ready to have your mind absolutely blown because the future of computing just arrived, and it is organic! So check this out: brilliant engineers at Northwestern University just built a revolutionary electronic chip that mimics the reflex center of the human brain—the cerebellum. And here is the wild part: in clinical trials, this tiny device detected dangerous heart arrhythmias with an insane ninety-eight percent accuracy, all while using ten-thousand times less energy than conventional AI! Let me say that again—ten-thousand times less power! Traditional AI is stuck shuttling data back and forth, burning massive amounts of electricity in giant data centers. But this new neuromorphic hardware merges processing and memory into single synaptic transistors that learn on the fly. We are talking about always-on, zero-latency medical wearables, smart robotics, and edge tech that don't need cloud connectivity at all. This is easily one of the biggest scientific breakthroughs of the year, and I am losing my mind over how huge this will be for consumer tech!",
-    "id": "nwu88371ch",
-    "category": "Science",
-    "companies": [
-      "Northwestern University",
-      "University of Hong Kong",
-      "University of Messina",
-      "National Science Foundation"
-    ],
-    "people": [
-      "Mark C. Hersam",
-      "Jonathan Rivnay",
-      "Pedram Khalili",
-      "Paddy Chan",
-      "Giovanni Finocchio"
-    ],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 6,
-    "title": "AI Just Became a Theoretical Physicist and Solved a Cosmic Mystery!",
-    "summary": "Physicists at the University of California, Irvine (UCI) have developed AMBer, an advanced artificial intelligence system capable of autonomously designing theoretical particle physics models. Utilizing reinforcement learning, the AI successfully proposed novel mathematical frameworks to explain the origin and mass of neutrinos.",
+    "page": 2,
+    "title": "The Death of SaaS?! Startups Just Raised a Record $510 Billion for THIS!",
+    "summary": "Global venture capital funding broke historical records in the first half of 2026, reaching a staggering $510 billion. The unprecedented capital influx is heavily concentrated in capital-intensive hardware like AI infrastructure, energy generation, and deep-tech bets.",
     "engagement": "Medium",
-    "raw_text": "We have some fascinating news from the world of deep science today that shows just how smart AI is truly becoming. Physicists over at UC Irvine have built an advanced AI system named AMBer, and it is literally acting as an autonomous theoretical physicist! So check this out: instead of just spotting patterns like ChatGPT, AMBer uses reinforcement learning to explore unexplored mathematical territories through trial and error. The AI actually managed to propose entirely novel mathematical models to solve one of the biggest mysteries in modern science—why subatomic particles called neutrinos have mass. It screens out bad ideas using Occam's razor to find the most elegant theories, totally matching real-world data from precision instruments. While this might sound a bit abstract for casual scrolling, it is a massive breakthrough for the scientific community because it lets human researchers bypass decades of manual guesswork. It's an incredible milestone for AI capabilities, even if it's a bit niche for mainstream social feeds!",
-    "id": "uci66201am",
-    "category": "Science",
-    "companies": [
-      "University of California, Irvine",
-      "Jiangmen Underground Neutrino Observatory",
-      "National Science Foundation",
-      "Department of Energy"
-    ],
-    "people": [
-      "Victoria Knapp-Pérez",
-      "Jake Rudolph",
-      "Daniel Whiteson",
-      "Max Fieg",
-      "Aishik Ghosh",
-      "Jason Baretz"
-    ],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 7,
-    "title": "The Massive $5 Billion Alliance Backing Open-Source Internet Security!",
-    "summary": "A strategic alliance between IBM, Red Hat, and Palo Alto Networks has culminated in the commercial launch of Project Lightwell. Backed by a $5 billion commitment and 20,000 engineers, the initiative secures the global open-source software supply chain against AI-accelerated exploits.",
-    "engagement": "Low",
-    "raw_text": "Let's dive into some heavy enterprise tech news that is quietly locking down the digital foundations of the internet. IBM, Red Hat, and Palo Alto Networks just officially rolled out Project Lightwell, dropping a massive five-billion-dollar investment and deploying an army of twenty-thousand engineers to secure open-source software! Here is the wild part: hackers are currently weaponizing AI to scan open-source repositories and discover hidden security flaws in minutes. Because open-source software runs almost everything online, it's a massive ticking time bomb. Project Lightwell fights back by using automated tools to spot these bugs, immediately applying 'virtual patches' to corporate firewalls before systems can be breached, and feeding the fixes right back to the community. Now, look, I know corporate B2B cybersecurity isn't the most glamorous topic for TikTok or Instagram reels, and it is definitely low engagement material for the general public. But for big businesses and IT teams keeping the web safe behind the scenes, this massive alliance is an absolute lifesaver.",
-    "id": "ibm55432pl",
+    "raw_text": "Alright tech fam, the startup game is changing forever and the old software-as-a-service hype is officially dead! So check this out: global venture capital funding just shattered every single historical record, hitting an absolute melting point of five hundred and ten billion dollars in just the first half of 2026. But here's the wild part—this cash isn't going to regular old apps anymore. Investors are dumping a massive three hundred and ninety-two billion of that total straight into North American deep-tech, AI infrastructure, grid-scale energy generation, and specialized cooling tech. They finally realized that the bottleneck for AI isn't just coding algorithms anymore; it's the physical hardware and massive power grids needed to keep these giant data centers alive. Honestly, this is huge because it means newly minted startups are armed with insane war chests to build physical tech. If you're a software dev or infrastructure architect, your talent is about to get a whole lot more expensive. It's a massive shift in how tech is built, and it's something everyone in the industry needs to watch!",
+    "id": "vcfnd510b2",
     "category": "Business",
     "companies": [
-      "IBM",
-      "Red Hat",
-      "Palo Alto Networks",
-      "ZDNet"
+      "Crunchbase",
+      "The Art of CTO"
     ],
-    "people": [
-      "Nikesh Arora"
-    ],
-    "created_at": "2026-07-10T22:33:35Z"
+    "people": [],
+    "created_at": "2026-07-10T23:02:15Z"
   },
   {
     "date": "2026-07-09",
     "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 8,
-    "title": "This Open-Source Framework Can Train ANY Robot in Just Two Hours!",
-    "summary": "Researchers at Carnegie Mellon University's School of Computer Science have open-sourced Robot I/O (RIO), a universal middleware software framework. RIO provides a unified interface that enables seamless AI portability across diverse robotic hardware, reducing setup times from months to mere hours.",
-    "engagement": "High",
-    "raw_text": "Alright, if you love robots as much as I do, you need to see this because the robot revolution just got a massive turbo boost! Researchers at Carnegie Mellon University just open-sourced a mind-blowing software framework called RIO, or Robot I/O. So check this out: historically, transferring an AI brain from one robot to another was an absolute nightmare that could take commercial engineers a whole year of rewriting code. RIO completely shatters that bottleneck by acting as a universal middleware layer! During testing, an undergraduate student with zero robotics experience used RIO to unbox, configure, and teleoperate a complex robotic arm in just two hours! This means we can finally train massive, universal AI foundation models that can easily control completely different robotic bodies. The team has already spun up a startup called Lavoro AI to bring this to massive smart factories worldwide. Honestly, this is huge news for automation, and it is going to bring us humanoid robot assistants way faster than anyone expected!",
-    "id": "cmu44309ri",
-    "category": "Hardware",
+    "page": 2,
+    "title": "The Sovereign Tech Takeover: NATO Locks Down Global AI and Chip Supply!",
+    "summary": "NATO member states have announced a £37 billion funding program for next-generation missile and air defense systems. The initiative focuses on autonomous targeting, secure communications, and dual-use semiconductor technology, further tightening the global commercial silicon supply.",
+    "engagement": "Low",
+    "raw_text": "So check this out: things are getting intensely geopolitical in the tech sector right now. NATO allies just met up at a leadership summit in Ankara and formally committed a massive thirty-seven billion pounds to step up their military game. Now, why does this matter to us? Because they aren't just buying traditional ammo—a massive chunk of this capital is locked down specifically for autonomous targeting systems, sensor fusion, secure communications, and dual-use space tech. Here is the wild part: modern military autonomous systems rely on the exact same high-end semiconductors, GPUs, and AI components that power our commercial AI data centers and consumer tech. By aggressively locking up manufacturing capacity for military use, NATO is going to severely tighten the global supply of high-end silicon available to commercial buyers. Plus, they are pulling top-tier software engineers away from consumer tech with lucrative defense contracts. It's an intense move that's going to ripple across the whole industry, but since it's heavy defense procurement, it's definitely playing in the background of your daily feeds.",
+    "id": "nato37bdf8",
+    "category": "Business",
     "companies": [
-      "Carnegie Mellon University",
-      "Bosch Center for Artificial Intelligence",
-      "Lavoro AI"
-    ],
-    "people": [
-      "Jean Oh",
-      "Guanya Shi",
-      "Jonathan Francis"
-    ],
-    "created_at": "2026-07-10T22:33:35Z"
-  },
-  {
-    "date": "2026-07-10",
-    "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 10,
-    "title": "Your Next Laptop Will Have a Dedicated Brain! The AI PC Era Is Here!",
-    "summary": "Traditional personal computer manufacturers are pushing aggressively into the edge-compute market, with ASUS launching its new AI-powered Vivobook laptops and Dell unveiling the AI-ready Pro Precision workstations. The synchronized launches mark a clear industry shift from cloud-based AI inference directly to local on-device hardware.",
-    "engagement": "High",
-    "raw_text": "Get ready to throw away your old computer, because the era of the 'AI PC' is officially hitting the mainstream market! ASUS just dropped their brand-new, AI-powered Vivobook laptops, and Dell instantly matched them by unveiling their beastly Pro Precision workstations. So check this out: instead of relying on slow cloud connections that send your private data away to tech companies, these new machines have dedicated Neural Processing Units built right into the physical silicon! This means you can run massive, powerful AI models directly on your local device with zero lag, full privacy, and completely offline without any internet connection or monthly API fees. Honestly, this is a massive hardware transition that is completely changing what a laptop can do, especially for creators, developers, and enterprise users who handle highly confidential files. We are witnessing a total evolution of consumer hardware, and your next PC upgrade is going to feel like leaping ten years into the future!",
-    "id": "apc11029hw",
-    "category": "Hardware",
-    "companies": [
-      "ASUS",
-      "Dell"
+      "NATO",
+      "The Art of CTO"
     ],
     "people": [],
-    "created_at": "2026-07-10T22:33:35Z"
+    "created_at": "2026-07-10T23:02:15Z"
   },
   {
-    "date": "2026-07-10",
+    "date": "2026-07-09",
     "source_file": "Strategic Research Report (July 10, 2026)",
-    "page": 10,
-    "title": "Anthropic Just Dropped a 'Spotify Wrapped' for AI Productivity!",
-    "summary": "Anthropic has launched 'Reflect for Claude,' a comprehensive analytical tool that provides users with deep insights into their interactions, prompt patterns, and task distributions with the Claude AI model. The feature introduces optimized workflow visualization and gamified productivity metrics.",
-    "engagement": "High",
-    "raw_text": "If you are using AI every single day to crush your workload, Anthropic just dropped a brilliant new feature that you are going to absolutely love! They just launched 'Reflect for Claude,' which is basically a full-blown 'Spotify Wrapped' but tailored entirely for your AI productivity. So check this out: instead of just staring at a blank, boring text box, this new analytical tool tracks your exact prompt patterns, charts your usage spikes throughout the day, and breaks down your top tasks—like coding, writing, or deep data analysis. They are even planning an update to track the exact amount of time you spend collaborating with the model! By gamifying your AI habits, it makes it super fun to see how efficient you are actually being, while letting companies audit how their teams are utilizing generative AI tools. Honestly, this is a brilliant move to make their platform incredibly sticky and personalized, and it's the exact kind of mass-appeal update that's going viral across tech social media right now!",
-    "id": "ant33940rc",
+    "page": 5,
+    "title": "The President's New AI Rules: Inside the Shocking White House Order!",
+    "summary": "The U.S. Federal Government has issued an Executive Order titled 'Promoting Advanced Artificial Intelligence Innovation and Security' to accelerate AI adoption in federal agencies. It also establishes voluntary cybersecurity testing programs for frontier models to safeguard critical infrastructure.",
+    "engagement": "Medium",
+    "raw_text": "Okay, we have some major news dropping straight from Washington! The White House just issued a brand-new Executive Order titled 'Promoting Advanced Artificial Intelligence Innovation and Security.' So check this out: the government is trying to play a delicate double-game here. On one side, they are ordering federal agencies to slash through red tape, accelerate the adoption of advanced AI tools, and beef up government cybersecurity. But here's the wild part: they are also setting up a formalized, voluntary program where top-tier frontier model developers can hand over their software for government-led cybersecurity testing before launching to the public! They are terrified of AI-enabled cyber threats taking down the power grid, financial networks, or healthcare systems. While it lacks the brutal, million-dollar penalties we just saw in state laws like Illinois, it shows a massive push to use AI for national defense while building a collaborative shield with the tech giants. It is a big deal for compliance, but since it's mostly voluntary frameworks, it's a solid medium-tier story for the tech community!",
+    "id": "whieo9928a",
     "category": "AI",
     "companies": [
-      "Anthropic"
+      "Sheppard Mullin"
     ],
     "people": [],
-    "created_at": "2026-07-10T22:33:35Z"
+    "created_at": "2026-07-10T23:02:15Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 9,
+    "title": "The Secret Cyber Threat: Why Companies Are Building AI Immunity Systems!",
+    "summary": "The rapid rise of autonomous AI agents has sparked a new sub-sector of cybersecurity platforms, with major launches from Codenotary, Automox, and First Recon AI. These tools focus on securing agent-to-agent interactions in real-time and providing audit-ready behavior logs.",
+    "engagement": "Low",
+    "raw_text": "Let's talk about a silent corporate security crisis brewing behind the scenes that nobody is talking about yet. Companies everywhere are aggressively setting up autonomous AI agents to run code, touch databases, and draft emails. But here's the wild part: these AI agents are talking directly to other AI agents at speeds that completely bypass human oversight, creating massive compliance and security nightmares! To stop an accidental AI meltdown, a whole new sub-sector of cybersecurity is exploding. This week, firms like First Recon AI launched inline policy engines to inspect agentic traffic, while Codenotary dropped AgentMon 3, an enterprise security platform that uses machine learning to baseline normal agent workflows and automatically isolate rogue AI bots. Automox even upgraded its setup with AI-driven patch policies. Honestly, this is basically an automated immune system for agentic swarms. It's pure B2B enterprise infrastructure, so it's a low-engagement story for casual scrolling, but for anyone running a dev studio or automation pipeline, it's an absolute must-have.",
+    "id": "sec99238ag",
+    "category": "Business",
+    "companies": [
+      "Codenotary",
+      "Automox",
+      "First Recon AI",
+      "Help Net Security"
+    ],
+    "people": [],
+    "created_at": "2026-07-10T23:02:15Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 9,
+    "title": "The Ultimate Deepfake Killer? This New AI Exposes Fake Files Instantly!",
+    "summary": "Attestiv has introduced DeepScan, a new infosec platform that combines artificial intelligence with forensic analysis for advanced file validation. The tool helps organizations detect tampered assets and verify file integrity amidst rising AI manipulation.",
+    "engagement": "High",
+    "raw_text": "With AI tools getting so incredibly powerful at generating hyper-realistic fake images, videos, and documents, how do we trust anything online anymore? Well, check this out: a security firm called Attestiv just dropped a brand-new product called DeepScan, and it is a literal lifesaver for digital trust. This platform combines advanced artificial intelligence directly with deep forensic analysis to perform high-level file validation! Here's the wild part—it doesn't just glance at the metadata; it scans the underlying structure of files to immediately catch if an image, invoice, or video has been tampered with or fully generated by AI. This is a massive 'wow' factor tool for corporate fraud prevention, journalism, and cybersecurity defenses trying to survive the deepfake wave. Honestly, this is an incredible piece of tech that shows how we can use defensive AI to fight back against malicious generative tools. Let me know down in the comments if you think tech like this can actually save us from deepfakes!",
+    "id": "att77291ds",
+    "category": "AI",
+    "companies": [
+      "Attestiv",
+      "Help Net Security"
+    ],
+    "people": [],
+    "created_at": "2026-07-10T23:02:15Z"
   },
   {
     "date": "2026-07-10",
     "source_file": "Strategic Research Report (July 10, 2026)",
     "page": 11,
-    "title": "Banned! Why This State Is Outlawing Smart Glasses Right Now!",
-    "summary": "The State of New York has officially banned the use of smart glasses inside all courtrooms, highlighting growing legislative and judicial concerns over digital surveillance. The restriction targets the unauthorized recording of sensitive legal proceedings via AI-enabled augmented reality hardware.",
+    "title": "Google's Secret New Feature: No More Cloud Subscriptions For Android!",
+    "summary": "Google is currently developing an automatic, system-level PC backup solution designed specifically for Android devices. The upcoming feature aims to bridge the ecosystem gap with competitors by allowing local data mirroring directly to desktop hardware.",
     "engagement": "High",
-    "raw_text": "Here is a wild tech controversy that is sparking a massive debate about privacy and the future of wearable tech! The State of New York has officially banned all smart glasses from every single courtroom across the entire state. So check this out: as augmented reality glasses get sleeker and look just like normal specs, civil institutions are totally freaking out about unchecked digital surveillance. These modern smart glasses have hidden high-def cameras, real-time facial recognition, and AI transcription tools that sync instantly to the cloud. New York judges are saying these devices pose a massive risk to witness anonymity, juror privacy, and could lead to illegal, live-streamed legal proceedings! Honestly, this is huge because it's the first major sign of a massive legal backlash against consumer AR hardware. We are definitely going to see strict geographical bans popping up everywhere as these devices become invisible. Let me know in the comments—do you think this ban is totally necessary or an overreaction?",
-    "id": "sny22048sg",
-    "category": "Hardware",
+    "raw_text": "Alright, Android users, listen up because Google is secretly working on an absolute lifesaver of a feature that's going to save you tons of cash! So check this out: reports just leaked that Google is in the advanced stages of building an automatic, system-level PC backup solution built natively into Android. Now, why is this huge? Because right now, if you want to keep your phone fully backed up, tech giants always try to force you into paying for monthly cloud storage subscriptions like Google One. This new update completely closes the ecosystem gap with Apple by letting you seamlessly mirror and secure all your mobile data directly to your local desktop computer hardware over your local network! Honestly, this is a massive win for data ownership, privacy, and anyone who hates recurring monthly fees. It's the ultimate consumer utility update that everyone's going to be talking about once it drops. Smash that like button if you're ready to ditch cloud storage fees for good!",
+    "id": "ggl88291pc",
+    "category": "Mobile",
     "companies": [
+      "Google",
       "TechPP"
     ],
     "people": [],
-    "created_at": "2026-07-10T22:33:35Z"
+    "created_at": "2026-07-10T23:02:15Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 11,
+    "title": "YouTube Is Changing Forever! Say Goodbye to Traditional Playlists!",
+    "summary": "YouTube has officially rolled out a new organizational feature that allows content creators to natively group their videos into structured, episodic shows. The format mimics traditional television and premium streaming structures to increase user watch time.",
+    "engagement": "High",
+    "raw_text": "If you create content or spend hours binging videos, you need to hear this because YouTube just dropped a massive platform update that is going to change how we watch content forever! YouTube has officially rolled out a brand-new feature that lets creators organize their videos into structured, episodic 'series' or 'shows' right on their channel. So check this out: instead of relying on those clunky, outdated playlists, this new formatting perfectly mimics traditional television and premium streaming networks like Netflix. It creates a beautifully structured, sequential watch experience that is explicitly designed to spark binge-watching behavior and skyrocket channel watch time! For creators, this means you can build highly engaging, multi-part episodic packages that keep viewers hooked from episode one to the finale. It's a brilliant tactical move by Alphabet to maximize ad inventory and keep you locked inside the app longer. Honestly, this is a total game changer for the creator economy, so make sure you update your studio layouts immediately!",
+    "id": "ytb11092ep",
+    "category": "Mobile",
+    "companies": [
+      "YouTube",
+      "Alphabet Inc.",
+      "TechPP"
+    ],
+    "people": [],
+    "created_at": "2026-07-10T23:02:15Z"
   }
 ]
