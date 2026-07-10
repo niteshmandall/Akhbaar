@@ -1,12 +1,12 @@
 [
   {
     "date": "2026-07-08",
-    "source_file": "Today’s Tech & AI News (July 9, 2026)",
+    "source_file": "Today\u2019s Tech & AI News (July 9, 2026)",
     "page": 2,
     "title": "Elon Musk Drops Grok 4.5: The New King of AI Coding is Here!",
     "summary": "SpaceX's AI division has officially launched Grok 4.5, an advanced model optimized for complex coding and autonomous agentic tasks. Integrated natively into the Cursor IDE via the recent $60 billion Anysphere acquisition, the model undercuts top-tier competitor pricing.",
     "engagement": "High",
-    "raw_text": "So check this out—Elon Musk’s AI division just dropped Grok 4.5, and it is an absolute game-changer for developers! They trained this beast on tens of thousands of Nvidia GB300 GPUs, and it is specifically built to completely crush complex coding and autonomous agentic tasks. Here’s the wild part: it is already natively integrated into the Cursor IDE through their insane sixty-billion-dollar acquisition of Anysphere. Musk is calling it an 'Opus-class' model, claiming it’s faster, way more token-efficient, and drastically cheaper to run than anything else out there. They are pricing it at just two dollars per million input tokens, completely undercutting rivals like Anthropic’s Claude 4.8! Honestly, this is huge because SpaceXAI is drawing a massive line in the sand for the developer tools market. If you're a software engineer, your workflow is about to get a serious supercharge, and the timing couldn't be wilder with OpenAI dropping their own updates at the exact same time.",
+    "raw_text": "So check this out\u2014Elon Musk\u2019s AI division just dropped Grok 4.5, and it is an absolute game-changer for developers! They trained this beast on tens of thousands of Nvidia GB300 GPUs, and it is specifically built to completely crush complex coding and autonomous agentic tasks. Here\u2019s the wild part: it is already natively integrated into the Cursor IDE through their insane sixty-billion-dollar acquisition of Anysphere. Musk is calling it an 'Opus-class' model, claiming it\u2019s faster, way more token-efficient, and drastically cheaper to run than anything else out there. They are pricing it at just two dollars per million input tokens, completely undercutting rivals like Anthropic\u2019s Claude 4.8! Honestly, this is huge because SpaceXAI is drawing a massive line in the sand for the developer tools market. If you're a software engineer, your workflow is about to get a serious supercharge, and the timing couldn't be wilder with OpenAI dropping their own updates at the exact same time.",
     "id": "gk45spx88a",
     "category": "AI",
     "companies": [
@@ -19,7 +19,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/gk45spx88a.png",
+    "image_prompt": "Realistic newsroom-style scene: a sleek laptop with Cursor IDE on a glowing monitor, futuristic AI circuit overlays, a subtle SpaceX-like rocket silhouette in the background, dynamic blue-orange lighting, confident tech mood, shallow depth of field, ultra-detailed, high contrast, no text, no logos."
   },
   {
     "date": "2026-07-09",
@@ -36,7 +38,9 @@
       "GitLab"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/ibmbobv299.png",
+    "image_prompt": "Photorealistic newsroom tech scene: sleek IBM-like server racks at center, three illuminated holographic layers (reasoning, infrastructure, interface) flowing into each other; subtle robotic subagents orbiting; neon-blue data streams parallel. Professional, high-contrast, cinematic lighting, shallow depth of field, ultra-real."
   },
   {
     "date": "2026-07-09",
@@ -45,7 +49,7 @@
     "title": "Vultr and SUSE Launch Epic 'AI Factory' to Kill the 18-Month Integration Tax!",
     "summary": "Vultr and SUSE have partnered to deploy a validated, full-stack enterprise AI platform powered by NVIDIA infrastructure. The platform provides instant blueprints for Retrieval-Augmented Generation architectures to bypass complex multi-month hardware integration cycles.",
     "engagement": "Medium",
-    "raw_text": "So check this out—enterprises usually have to pay a massive eighteen-month 'integration tax' just to stitch together GPUs, software, and networking before they can even use AI. But Vultr and SUSE just teamed up to completely kill that headache by launching the SUSE AI Factory on Vultr infrastructure! This is a fully validated, turnkey platform featuring NVIDIA hardware that gives businesses instant blueprints for complex setups like Retrieval-Augmented Generation. The best part? It is built on a totally vendor-agnostic Kubernetes foundation with zero-trust security architectures. This means companies get total data sovereignty and can seamlessly run their AI across sovereign clouds, on-prem data centers, or edge locations without getting trapped in proprietary vendor lock-in. Honestly, this is huge for niche infrastructure because it democratizes high-end AI deployment for massive corporations who are terrified of centralized public cloud vulnerabilities.",
+    "raw_text": "So check this out\u2014enterprises usually have to pay a massive eighteen-month 'integration tax' just to stitch together GPUs, software, and networking before they can even use AI. But Vultr and SUSE just teamed up to completely kill that headache by launching the SUSE AI Factory on Vultr infrastructure! This is a fully validated, turnkey platform featuring NVIDIA hardware that gives businesses instant blueprints for complex setups like Retrieval-Augmented Generation. The best part? It is built on a totally vendor-agnostic Kubernetes foundation with zero-trust security architectures. This means companies get total data sovereignty and can seamlessly run their AI across sovereign clouds, on-prem data centers, or edge locations without getting trapped in proprietary vendor lock-in. Honestly, this is huge for niche infrastructure because it democratizes high-end AI deployment for massive corporations who are terrified of centralized public cloud vulnerabilities.",
     "id": "vultrsuse77b",
     "category": "Infrastructure",
     "companies": [
@@ -54,16 +58,18 @@
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/vultrsuse77b.png",
+    "image_prompt": "Futuristic newsroom tech scene: a sleek \u201cAI factory\u201d server hall with glowing NVIDIA-style lights, interconnected AI blueprint holograms, and streamlined data pipelines flowing instantly from cloud nodes to an enterprise rack. Modern, realistic, high-contrast lighting, crisp detail, cinematic mood."
   },
   {
     "date": "2026-07-09",
-    "source_file": "Today’s Tech & AI News (July 9, 2026)",
+    "source_file": "Today\u2019s Tech & AI News (July 9, 2026)",
     "page": 3,
     "title": "Saudi Arabia Partners with Cohere in Massive 50MW AI Sovereign Mega-Deal!",
     "summary": "Saudi AI firm Humain and Canada's Cohere have unveiled a strategic partnership to co-develop regional AI infrastructure. Backed by the Saudi sovereign fund, Humain will dedicate 50 megawatts of AI compute capacity to train Cohere's next-gen Arabic-language models.",
     "engagement": "Medium",
-    "raw_text": "Alright, let's talk about a major geopolitical power move happening in the AI infrastructure space. Saudi AI firm Humain—which is backed by their massive sovereign wealth fund—just locked in a strategic partnership with Canada’s Cohere to co-develop massive enterprise AI solutions! Under this mega-deal, Humain is allocating at least fifty megawatts of dedicated AI compute power purely to train Cohere’s next-generation large models, with the capacity coming online by late 2027. They are focusing heavily on creating 'sovereign' models, specifically advanced Arabic-language and domain-specific models tailored directly for regional needs. Here’s the wild part: this ensures Cohere gets access to an absolute mountain of raw computing power, while Saudi Arabia secures cutting-edge AI tech domestically. This is a prime example of how the AI race is shifting toward massive, cross-border infrastructure alliances, and it’s going to completely alter regional tech dominance.",
+    "raw_text": "Alright, let's talk about a major geopolitical power move happening in the AI infrastructure space. Saudi AI firm Humain\u2014which is backed by their massive sovereign wealth fund\u2014just locked in a strategic partnership with Canada\u2019s Cohere to co-develop massive enterprise AI solutions! Under this mega-deal, Humain is allocating at least fifty megawatts of dedicated AI compute power purely to train Cohere\u2019s next-generation large models, with the capacity coming online by late 2027. They are focusing heavily on creating 'sovereign' models, specifically advanced Arabic-language and domain-specific models tailored directly for regional needs. Here\u2019s the wild part: this ensures Cohere gets access to an absolute mountain of raw computing power, while Saudi Arabia secures cutting-edge AI tech domestically. This is a prime example of how the AI race is shifting toward massive, cross-border infrastructure alliances, and it\u2019s going to completely alter regional tech dominance.",
     "id": "saucohere66c",
     "category": "Business",
     "companies": [
@@ -73,23 +79,27 @@
     "people": [
       "Mark Carney"
     ],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/saucohere66c.png",
+    "image_prompt": "Realistic news photo: futuristic data center in Saudi desert at dusk, warm lights and cooling towers, fiber lines and servers glow, executives shaking hands in modern attire between smart billboards, subtle Arabic calligraphic patterns as reflections, cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-07-09",
-    "source_file": "Today’s Tech & AI News (July 9, 2026)",
+    "source_file": "Today\u2019s Tech & AI News (July 9, 2026)",
     "page": 3,
     "title": "The UN Officially Steps In to Control Rogue Autonomous AI Agents!",
     "summary": "The United Nations' International Telecommunication Union has launched a global focus group initiative to craft safety trust frameworks for autonomous AI agents. The guidelines aim to ensure autonomous systems remain identifiable and accountable under meaningful human control.",
     "engagement": "Medium",
-    "raw_text": "So check this out—autonomous AI agents are getting so powerful that the United Nations is officially stepping in to regulate them! At the ITU's AI for Good summit in Geneva, global officials announced a brand-new initiative to form a dedicated focus group aimed at making AI agents trustworthy. We are talking about software assistants that can make real business decisions and handle financial transactions entirely on your behalf. While that boosts productivity sky-high, the UN warns it poses crazy risks like identity impersonation or completely unauthorized transactions. Here’s the plan: this group is crafting strict global standards to ensure these systems clearly disclose that they are AI, respect human oversight, and stay under meaningful human control. Honestly, this is huge because it’s the first major coordinated effort by international bodies to standardize safety guidelines before these autonomous agents completely take over critical infrastructure!",
+    "raw_text": "So check this out\u2014autonomous AI agents are getting so powerful that the United Nations is officially stepping in to regulate them! At the ITU's AI for Good summit in Geneva, global officials announced a brand-new initiative to form a dedicated focus group aimed at making AI agents trustworthy. We are talking about software assistants that can make real business decisions and handle financial transactions entirely on your behalf. While that boosts productivity sky-high, the UN warns it poses crazy risks like identity impersonation or completely unauthorized transactions. Here\u2019s the plan: this group is crafting strict global standards to ensure these systems clearly disclose that they are AI, respect human oversight, and stay under meaningful human control. Honestly, this is huge because it\u2019s the first major coordinated effort by international bodies to standardize safety guidelines before these autonomous agents completely take over critical infrastructure!",
     "id": "unagents55t",
     "category": "AI",
     "companies": [
       "International Telecommunication Union"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/unagents55t.png",
+    "image_prompt": "Realistic high-quality news photo: UN headquarters at dusk, illuminated facade, subtle holographic network of autonomous AI agents hovering above, security and oversight motif with humans in suits consulting. Serious, credible mood; cinematic lighting; sharp details; no text, no logos."
   },
   {
     "date": "2026-07-09",
@@ -98,7 +108,7 @@
     "title": "Military AI Explodes as Rocket One Integrates Secret SpaceXAI API!",
     "summary": "Rocket One Inc. has integrated the SpaceXAI API into its core technology stack to advance defense and space computing. The firm will combine these multimodal models with proprietary spintronic and nanomagnetic computing hardware for autonomous defense solutions.",
     "engagement": "High",
-    "raw_text": "The intersection of generative AI and kinetic military defense is solidifying faster than anyone expected! Rocket One, an autonomous defense software provider, just announced that they’ve been accepted into the highly exclusive SpaceXAI API program. This gives them unmitigated access to top-tier multimodal models for advanced reasoning, real-time video, voice processing, and coding. But here is the wild part: they aren't just building a chatbot; they are merging these foundation models with their own proprietary, licensed nanomagnetic and spintronic computing hardware! They are using this to build insane, completely autonomous solutions tailored specifically for space and defense economies. Honestly, this is huge and a little terrifying because it shows the military-industrial complex is now heavily relying on commercial AI models to power next-generation warfare architecture. The defense tech space is mutating fast!",
+    "raw_text": "The intersection of generative AI and kinetic military defense is solidifying faster than anyone expected! Rocket One, an autonomous defense software provider, just announced that they\u2019ve been accepted into the highly exclusive SpaceXAI API program. This gives them unmitigated access to top-tier multimodal models for advanced reasoning, real-time video, voice processing, and coding. But here is the wild part: they aren't just building a chatbot; they are merging these foundation models with their own proprietary, licensed nanomagnetic and spintronic computing hardware! They are using this to build insane, completely autonomous solutions tailored specifically for space and defense economies. Honestly, this is huge and a little terrifying because it shows the military-industrial complex is now heavily relying on commercial AI models to power next-generation warfare architecture. The defense tech space is mutating fast!",
     "id": "rktospxdef4",
     "category": "Science",
     "companies": [
@@ -106,7 +116,9 @@
       "SpaceX"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/rktospxdef4.png",
+    "image_prompt": "Realistic cinematic news photo: sleek defense operations center at night, engineers in soft blue light, holographic AI interface silhouettes and rocket launch imagery in the background, glowing circuit boards fused with futuristic spintronic/nanomagnetic hardware, high-tech atmosphere, dramatic lighting, shallow depth of field."
   },
   {
     "date": "2026-07-08",
@@ -127,7 +139,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/thrive2broll.png",
+    "image_prompt": "Photoreal corporate scene: sleek holding-company boardroom at dusk, bankers and analysts around a large wall screen of abstract legal/accounting icons, subtle robotic AI overlays, ambivalent mood, realistic lighting, high detail, shallow depth of field, news photo style, no text."
   },
   {
     "date": "2026-07-08",
@@ -143,7 +157,9 @@
       "Bespoke Labs"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/bespok40mpt.png",
+    "image_prompt": "Realistic editorial photo: sleek modern lab at dusk, holographic neural network overlays, diverse engineers collaborating around glowing screens, subtle AI circuitry motifs, cinematic lighting, shallow depth of field, newsworthy high-tech mood, sharp details, no text, 16:9."
   },
   {
     "date": "2026-07-09",
@@ -152,7 +168,7 @@
     "title": "Marvell Technology Set to Become the Next Trillion-Dollar AI Giant!",
     "summary": "Marvell Technology is experiencing a massive growth surge by supplying high-speed optical connectivity and custom silicon solutions for hyperscalers. Consensus estimates project a 40% growth rate through 2028, with Nvidia's CEO publicly naming the firm a future trillion-dollar company.",
     "engagement": "High",
-    "raw_text": "So check this out—everyone is completely obsessed with Nvidia, but industry insiders are already looking at who is going to win the next phase of the hardware boom. Nvidia’s own CEO, Jensen Huang, just publicly named Marvell Technology as the industry's next potential trillion-dollar company! Why? Because scaling massive AI clusters requires moving mind-boggling amounts of data through fiber optic cables at blistering speeds, and Marvell absolutely dominates backend connectivity and optics solutions. They are also designing custom chips for giants like Amazon and Alphabet to help them optimize their soaring power costs. Driven by this insatiable demand for optical infrastructure in disaggregated computing environments, experts are projecting Marvell will see massive growth of forty percent or more through 2028. If you're tracking the physical infrastructure making AI actually work, Marvell is a name you cannot ignore!",
+    "raw_text": "So check this out\u2014everyone is completely obsessed with Nvidia, but industry insiders are already looking at who is going to win the next phase of the hardware boom. Nvidia\u2019s own CEO, Jensen Huang, just publicly named Marvell Technology as the industry's next potential trillion-dollar company! Why? Because scaling massive AI clusters requires moving mind-boggling amounts of data through fiber optic cables at blistering speeds, and Marvell absolutely dominates backend connectivity and optics solutions. They are also designing custom chips for giants like Amazon and Alphabet to help them optimize their soaring power costs. Driven by this insatiable demand for optical infrastructure in disaggregated computing environments, experts are projecting Marvell will see massive growth of forty percent or more through 2028. If you're tracking the physical infrastructure making AI actually work, Marvell is a name you cannot ignore!",
     "id": "mrvlopt11p",
     "category": "Hardware",
     "companies": [
@@ -164,7 +180,9 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/mrvlopt11p.png",
+    "image_prompt": "Photoreal newsroom-style scene: sleek futuristic server/data center with glowing fiber-optic light paths and a marvell-like microchip silhouette on a workstation screen (no text). Business executives in suits confer beside racks; dramatic cinematic lighting, crisp details, realistic, high contrast, 16:9."
   },
   {
     "date": "2026-07-09",
@@ -173,7 +191,7 @@
     "title": "NASA Hands Out $17 Million for Next-Gen Autonomous Mars Robots!",
     "summary": "NASA has awarded $17 million in contracts under its STRIDE initiative to seven aerospace companies, including Astrobotic and Intuitive Machines. The funding focuses on developing advanced robotic surface mobility technologies to traverse scientifically challenging Martian terrain.",
     "engagement": "Medium",
-    "raw_text": "Here's something wild that is happening completely outside the world of software chatbots: NASA is gearing up for the future of deep space exploration! They just officially awarded seventeen million dollars in contracts under their brand-new STRIDE initiative. Seven elite aerospace companies—including heavy hitters like AeroVironment, Astrobotic, and Intuitive Machines—are getting funded to build highly advanced robotic surface mobility technologies. The goal here is to design autonomous hardware that will allow future Mars missions to seamlessly traverse incredibly brutal, rugged, and scientifically valuable Martian terrain where previous rovers would completely get stuck. Honestly, this is huge because it shows how advanced mechanical engineering and autonomous routing are merging to expand our footprint in the solar system. Space tech is moving incredibly fast, and these blueprints are going to shape the next decade of interplanetary exploration!",
+    "raw_text": "Here's something wild that is happening completely outside the world of software chatbots: NASA is gearing up for the future of deep space exploration! They just officially awarded seventeen million dollars in contracts under their brand-new STRIDE initiative. Seven elite aerospace companies\u2014including heavy hitters like AeroVironment, Astrobotic, and Intuitive Machines\u2014are getting funded to build highly advanced robotic surface mobility technologies. The goal here is to design autonomous hardware that will allow future Mars missions to seamlessly traverse incredibly brutal, rugged, and scientifically valuable Martian terrain where previous rovers would completely get stuck. Honestly, this is huge because it shows how advanced mechanical engineering and autonomous routing are merging to expand our footprint in the solar system. Space tech is moving incredibly fast, and these blueprints are going to shape the next decade of interplanetary exploration!",
     "id": "nasastride3",
     "category": "Science",
     "companies": [
@@ -183,6 +201,8 @@
       "Intuitive Machines"
     ],
     "people": [],
-    "created_at": "2026-07-09T22:05:00Z"
+    "created_at": "2026-07-09T22:05:00Z",
+    "image_url": "images/10_07_26/nasastride3.png",
+    "image_prompt": "Realistic NASA news photo: a next-gen autonomous Mars rover in sharp focus on rocky, dust-covered Martian terrain, with a distant landing craft and orange planet sky; cinematic lighting, high detail, natural colors, shallow depth of field, 16:9, no text."
   }
 ]
