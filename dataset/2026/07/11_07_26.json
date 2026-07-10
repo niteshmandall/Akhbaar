@@ -1,232 +1,210 @@
 [
   {
-    "date": "2026-07-09",
-    "source_file": "Combined",
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
     "page": 1,
-    "title": "OpenAI Unleashes GPT-5.6 Globally After Top-Secret Government Review!",
-    "summary": "OpenAI has officially initiated the global public rollout of its GPT-5.6 model ecosystem following clearance from a 30-day federal cybersecurity review. The new model family features specialized tiers including Sol, Terra, and Luna, alongside a zero-latency real-time voice assistant called GPT-Live.",
-    "engagement": "High",
-    "raw_text": "So check this out—OpenAI just officially kicked off the global rollout of its brand-new GPT-5.6 model family, and the hype is real! But here is the wild part: it almost didn't happen because of an intense 30-day national security review by the U.S. government. Now that it’s cleared, we are getting a crazy three-tier lineup: Sol, Terra, and Luna. Sol is the absolute beast here, featuring an 'Ultra' mode that acts like a master orchestrator, spinning up a bunch of sub-agents behind the scenes to crush complex tasks. It actually delays its answers on purpose just to think harder! Plus, they are dropping GPT-Live, bringing zero-latency, real-time voice interactions straight into ChatGPT. Honestly, this is huge because it completely changes how we talk to AI. While early developer testers say it might not completely blow Anthropic's Fable 5 out of the water in raw intelligence, its sheer speed, tool-calling capabilities, and reliability are driving token numbers through the roof. Get ready, because the AI arms race just went into absolute overdrive!",
-    "id": "5148c385",
-    "category": "AI",
+    "title": "The $26.5 Billion Mega-Listing That Will Crash Apple's Prices!",
+    "summary": "South Korean semiconductor giant SK Hynix has officially debuted on the Nasdaq Global Select Market, executing the largest initial share sale in the United States by a foreign company on record. The public listing raised $26.5 billion to fuel global expansion, capitalizing on unprecedented demand for AI-centric High-Bandwidth Memory (HBM) chips.",
+    "engagement": "Low",
+    "raw_text": "Alright, let's talk about some serious money moving in the background that's going to affect every single one of us. So check this out: South Korean semiconductor giant SK Hynix just made history by pulling off a massive twenty-six point five billion dollar U.S. listing on the Nasdaq! Now, I know corporate listings usually sound super boring, but here is the wild part. They are doing this because the global AI memory market is in an absolute chokehold right now. Everyone is fighting over High-Bandwidth Memory chips, which Nvidia and AMD desperately need for their AI processors. This 'chipflation' is getting so bad that even tech giants like Apple are already warning us about price hikes on upcoming Macs and iPads! SK Hynix is using this massive pile of cash to build new state-of-the-art factories in Indiana and South Korea to try and save the supply chain. Honestly, it is a massive financial flex, but since it is pure B2B market dynamics, it's probably not going to trend on your feed today.",
+    "id": "skh92834nx",
+    "category": "Business",
     "companies": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "people": [
-      "Sam Altman"
-    ],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/090dc2c6.png",
-    "image_prompt": "Futuristic newsroom scene at dusk: a sleek global server array and holographic AI network map glowing above, subtle government seal-like silhouettes in background, journalists in soft focus, dramatic lighting, crisp photorealism, high detail, realistic depth of field, no text."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Combined",
-    "page": 2,
-    "title": "Meta Drops Muse Spark 1.1: The Ultimate 'Personal Superintelligence' Is Here!",
-    "summary": "Meta Superintelligence Labs has opened developer access to Muse Spark 1.1, an advanced multimodal reasoning model optimized for autonomous multi-agent orchestration. Operating via the new Meta Model API, the model is designed to natively write code, use software tools, and power next-gen conversational chatbots.",
-    "engagement": "High",
-    "raw_text": "You won't believe what Meta just dropped! Right alongside OpenAI's massive news, Meta Superintelligence Labs came swinging with Muse Spark 1.1, their ultimate multimodal reasoning model built entirely to dominate agentic workflows. This thing can write code, debug, use software tools, and process text, images, and video in a single conversation with almost zero prompting. Here's the wild part: it's built to operate seamlessly inside a massive multi-agent ecosystem. It can act as a primary agent, planning out multi-step tasks and delegating them to smaller sub-agents, or it can be a perfectly obedient sub-agent itself. Meta is making a super aggressive push for developer mindshare by launching the Meta Model API public preview. They are practically giving it away with free credits to pull developers away from closed ecosystems like Google and Microsoft. Honestly, this is huge because Meta is trying to build a personal superintelligence that lives directly inside your WhatsApp and Instagram feeds. Watch out OpenAI, because Meta is coming for the crown!",
-    "id": "f2fa1610",
-    "category": "AI",
-    "companies": [
-      "Meta",
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Microsoft"
+      "SK Hynix",
+      "Nvidia",
+      "AMD",
+      "Apple",
+      "Samsung",
+      "UBS"
     ],
     "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/6260de46.png",
-    "image_prompt": "Realistic newsroom tech photo: sleek holographic brain-emblem over a developer workstation, glowing UI panels, multi-agent network lines arcing between nodes, subtle futuristic server racks, dramatic blue lighting, shallow depth of field, high detail, cinematic, no text."
+    "created_at": "2026-07-10T22:33:35Z"
   },
   {
-    "date": "2026-07-08",
-    "source_file": "Global Artificial Intelligence and Technology Ecosystem",
-    "page": 2,
-    "title": "American Tech Firms Are Secretly Flooding to Chinese AI Models!",
-    "summary": "A CNBC investigation reveals that Chinese open-weight models like DeepSeek V4, Qwen, and GLM-5.2 now account for up to 46% of enterprise API token volume on U.S. developer platforms. U.S. enterprises are turning to overseas options due to extreme cost efficiency and highly competitive performance benchmarks.",
-    "engagement": "Medium",
-    "raw_text": "Alright, let's talk about a massive shift happening right under our noses in the tech world. U.S. enterprises are quietly ditching premium Western AI models and flooding into Chinese open-weight models like DeepSeek V4, Alibaba's Qwen, and Z.ai's GLM-5.2. A shocking new investigation reveals these overseas models now make up nearly half of the token volume on major developer platforms! Why? Because it’s pure economics. These models are a whopping sixty to ninety percent cheaper than flagship options from OpenAI and Anthropic. Here’s the wild part: GLM-5.2 actually beats GPT-5.5 on coding benchmarks while costing just a fifth of the price! To cope with crazy usage bills, American companies are adopting an 'advisor model architecture' where the cheap Chinese model handles ninety percent of everyday queries, only escalating to an expensive U.S. model when absolutely necessary. It turns out Silicon Valley frontier labs might be pricing themselves right out of the middle-tier market, and honestly, this could fundamentally restructure the entire global AI economy.",
-    "id": "0459362e",
-    "category": "AI",
-    "companies": [
-      "DeepSeek",
-      "Alibaba",
-      "Anthropic",
-      "OpenAI",
-      "Vercel",
-      "OpenRouter"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/18b93bc4.png",
-    "image_prompt": "Photorealistic newsroom scene: U.S. tech executives in suits reviewing dashboards on glowing monitors, data streams flowing across a dark map toward China. Subtle server racks, API token icons as abstract light particles, dramatic blue/cyan lighting, investigative mood, high detail, shallow depth of field, no text."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Combined",
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
     "page": 3,
-    "title": "Microsoft Ditches OpenAI & Anthropic to Save Billions in Enterprise AI Costs!",
-    "summary": "Microsoft has begun substituting licensed third-party models from OpenAI and Anthropic with its internally developed MAI models across Excel and Outlook to protect profit margins. Concurrently, a class-action securities lawsuit has been filed against the tech giant, alleging misleading disclosures regarding its AI dependencies.",
+    "title": "The Threat Is Real! This Massive New Law Targets Frontier AI!",
+    "summary": "Illinois Governor JB Pritzker has signed the Artificial Intelligence Safety Measures Act (SB 315) into law, establishing rigorous oversight on frontier AI models. The legislation sets a national precedent by requiring mandatory, annual third-party safety audits and establishing severe financial penalties for non-compliance.",
     "engagement": "High",
-    "raw_text": "So check this out, Microsoft is pulling off an absolute power move that is shaking up the entire AI industry. They have actively started stripping premium third-party models from OpenAI and Anthropic out of their core enterprise software! Tens of thousands of prompts inside Microsoft Excel and Outlook are now being routed directly through Microsoft's own internally built MAI models. Here's the wild part: Microsoft's AI chief, Mustafa Suleyman, straight-up admitted they are paying way too much money to competitors and their ultimate goal is to eliminate that cost entirely. Relying on massive frontier models just to format a spreadsheet or draft an email is an absolute financial nightmare at scale. But it gets even crazier—Microsoft is now facing a massive class-action lawsuit accusing them of misleading investors about their multi-billion-dollar dependency on OpenAI and Anthropic. This move is all about protecting profit margins, but it’s going to force the big model labs to drastically slash their prices or risk losing massive corporate contracts. Huge drama is unfolding!",
-    "id": "64cdd6b8",
+    "raw_text": "Oh man, the AI wild west is officially coming to an end, and things are getting real! Illinois just passed a massive new law called the Artificial Intelligence Safety Measures Act, and it is a total game changer. So check this out: Governor JB Pritzker just signed off on rules that force tech giants like OpenAI, Google, and Anthropic to subject their most powerful frontier AI models to mandatory, annual third-party safety audits! We are talking about preventing crazy, catastrophic risks like autonomous cyberattacks or the literal synthesis of biological weapons. If these mega-corporations don't comply? Boom—they get slapped with a cool one-million-dollar fine for the first strike, scaling up to three million for the next! Honestly, this is huge because while the federal government is just sitting on its hands, states like Illinois, California, and New York are stepping up to rewrite the rules of AI safety. Smash that follow button because this legal war over the future of AI is just getting started!",
+    "id": "ilsa9102pd",
+    "category": "AI",
+    "companies": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Crowell & Moring",
+      "Hooper Lundy",
+      "JURIST"
+    ],
+    "people": [
+      "JB Pritzker",
+      "Mary Edly-Allen",
+      "Daniel Didech"
+    ],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 4,
+    "title": "Japan Just Legalized Stealing Your Private Data For AI Training?!",
+    "summary": "Japan's Diet passed a highly controversial amendment to the Act on the Protection of Personal Information (APPI). The revised law removes opt-in consent requirements, allowing businesses to collect and process sensitive personal data without permission, provided it is used exclusively for AI development.",
+    "engagement": "High",
+    "raw_text": "Okay, you are not going to believe what Japan just did, and honestly, it is causing an absolute meltdown online! While the US and Europe are trying to lock down AI safety, Japan just went full rogue mode. The Japanese government passed a highly controversial law that completely eliminates opt-in consent for personal data! Yes, you heard that right. Tech companies in Japan can now legally scrape, collect, and process your super sensitive personal information—we are talking medical histories, criminal records, and personal beliefs—without ever asking for your permission, as long as they use it to train AI models! They want to make Japan the absolute easiest country in the world for AI development to beat out the US and China. But here's the wild part: if a company messes up and leaks data affecting more than a thousand people, the government will seize one hundred percent of their profits! What do you think? Is this brilliant innovation or a total privacy nightmare? Let me know below!",
+    "id": "jpn77301ax",
+    "category": "AI",
+    "companies": [
+      "Liberal Democratic Party",
+      "White & Case",
+      "Komeito",
+      "Sanseito"
+    ],
+    "people": [],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 5,
+    "title": "This Mind-Blowing Organic Chip is 10,000x More Efficient Than Your PC!",
+    "summary": "Engineers at Northwestern University have developed an electronic chip that mimics the reflex function of the human cerebellum. The low-power device successfully identified abnormal heart rhythms with 98% accuracy while consuming 10,000 times less computational energy than conventional AI architectures.",
+    "engagement": "High",
+    "raw_text": "Get ready to have your mind absolutely blown because the future of computing just arrived, and it is organic! So check this out: brilliant engineers at Northwestern University just built a revolutionary electronic chip that mimics the reflex center of the human brain—the cerebellum. And here is the wild part: in clinical trials, this tiny device detected dangerous heart arrhythmias with an insane ninety-eight percent accuracy, all while using ten-thousand times less energy than conventional AI! Let me say that again—ten-thousand times less power! Traditional AI is stuck shuttling data back and forth, burning massive amounts of electricity in giant data centers. But this new neuromorphic hardware merges processing and memory into single synaptic transistors that learn on the fly. We are talking about always-on, zero-latency medical wearables, smart robotics, and edge tech that don't need cloud connectivity at all. This is easily one of the biggest scientific breakthroughs of the year, and I am losing my mind over how huge this will be for consumer tech!",
+    "id": "nwu88371ch",
+    "category": "Science",
+    "companies": [
+      "Northwestern University",
+      "University of Hong Kong",
+      "University of Messina",
+      "National Science Foundation"
+    ],
+    "people": [
+      "Mark C. Hersam",
+      "Jonathan Rivnay",
+      "Pedram Khalili",
+      "Paddy Chan",
+      "Giovanni Finocchio"
+    ],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 6,
+    "title": "AI Just Became a Theoretical Physicist and Solved a Cosmic Mystery!",
+    "summary": "Physicists at the University of California, Irvine (UCI) have developed AMBer, an advanced artificial intelligence system capable of autonomously designing theoretical particle physics models. Utilizing reinforcement learning, the AI successfully proposed novel mathematical frameworks to explain the origin and mass of neutrinos.",
+    "engagement": "Medium",
+    "raw_text": "We have some fascinating news from the world of deep science today that shows just how smart AI is truly becoming. Physicists over at UC Irvine have built an advanced AI system named AMBer, and it is literally acting as an autonomous theoretical physicist! So check this out: instead of just spotting patterns like ChatGPT, AMBer uses reinforcement learning to explore unexplored mathematical territories through trial and error. The AI actually managed to propose entirely novel mathematical models to solve one of the biggest mysteries in modern science—why subatomic particles called neutrinos have mass. It screens out bad ideas using Occam's razor to find the most elegant theories, totally matching real-world data from precision instruments. While this might sound a bit abstract for casual scrolling, it is a massive breakthrough for the scientific community because it lets human researchers bypass decades of manual guesswork. It's an incredible milestone for AI capabilities, even if it's a bit niche for mainstream social feeds!",
+    "id": "uci66201am",
+    "category": "Science",
+    "companies": [
+      "University of California, Irvine",
+      "Jiangmen Underground Neutrino Observatory",
+      "National Science Foundation",
+      "Department of Energy"
+    ],
+    "people": [
+      "Victoria Knapp-Pérez",
+      "Jake Rudolph",
+      "Daniel Whiteson",
+      "Max Fieg",
+      "Aishik Ghosh",
+      "Jason Baretz"
+    ],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 7,
+    "title": "The Massive $5 Billion Alliance Backing Open-Source Internet Security!",
+    "summary": "A strategic alliance between IBM, Red Hat, and Palo Alto Networks has culminated in the commercial launch of Project Lightwell. Backed by a $5 billion commitment and 20,000 engineers, the initiative secures the global open-source software supply chain against AI-accelerated exploits.",
+    "engagement": "Low",
+    "raw_text": "Let's dive into some heavy enterprise tech news that is quietly locking down the digital foundations of the internet. IBM, Red Hat, and Palo Alto Networks just officially rolled out Project Lightwell, dropping a massive five-billion-dollar investment and deploying an army of twenty-thousand engineers to secure open-source software! Here is the wild part: hackers are currently weaponizing AI to scan open-source repositories and discover hidden security flaws in minutes. Because open-source software runs almost everything online, it's a massive ticking time bomb. Project Lightwell fights back by using automated tools to spot these bugs, immediately applying 'virtual patches' to corporate firewalls before systems can be breached, and feeding the fixes right back to the community. Now, look, I know corporate B2B cybersecurity isn't the most glamorous topic for TikTok or Instagram reels, and it is definitely low engagement material for the general public. But for big businesses and IT teams keeping the web safe behind the scenes, this massive alliance is an absolute lifesaver.",
+    "id": "ibm55432pl",
     "category": "Business",
     "companies": [
-      "Microsoft",
-      "OpenAI",
+      "IBM",
+      "Red Hat",
+      "Palo Alto Networks",
+      "ZDNet"
+    ],
+    "people": [
+      "Nikesh Arora"
+    ],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-09",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 8,
+    "title": "This Open-Source Framework Can Train ANY Robot in Just Two Hours!",
+    "summary": "Researchers at Carnegie Mellon University's School of Computer Science have open-sourced Robot I/O (RIO), a universal middleware software framework. RIO provides a unified interface that enables seamless AI portability across diverse robotic hardware, reducing setup times from months to mere hours.",
+    "engagement": "High",
+    "raw_text": "Alright, if you love robots as much as I do, you need to see this because the robot revolution just got a massive turbo boost! Researchers at Carnegie Mellon University just open-sourced a mind-blowing software framework called RIO, or Robot I/O. So check this out: historically, transferring an AI brain from one robot to another was an absolute nightmare that could take commercial engineers a whole year of rewriting code. RIO completely shatters that bottleneck by acting as a universal middleware layer! During testing, an undergraduate student with zero robotics experience used RIO to unbox, configure, and teleoperate a complex robotic arm in just two hours! This means we can finally train massive, universal AI foundation models that can easily control completely different robotic bodies. The team has already spun up a startup called Lavoro AI to bring this to massive smart factories worldwide. Honestly, this is huge news for automation, and it is going to bring us humanoid robot assistants way faster than anyone expected!",
+    "id": "cmu44309ri",
+    "category": "Hardware",
+    "companies": [
+      "Carnegie Mellon University",
+      "Bosch Center for Artificial Intelligence",
+      "Lavoro AI"
+    ],
+    "people": [
+      "Jean Oh",
+      "Guanya Shi",
+      "Jonathan Francis"
+    ],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 10,
+    "title": "Your Next Laptop Will Have a Dedicated Brain! The AI PC Era Is Here!",
+    "summary": "Traditional personal computer manufacturers are pushing aggressively into the edge-compute market, with ASUS launching its new AI-powered Vivobook laptops and Dell unveiling the AI-ready Pro Precision workstations. The synchronized launches mark a clear industry shift from cloud-based AI inference directly to local on-device hardware.",
+    "engagement": "High",
+    "raw_text": "Get ready to throw away your old computer, because the era of the 'AI PC' is officially hitting the mainstream market! ASUS just dropped their brand-new, AI-powered Vivobook laptops, and Dell instantly matched them by unveiling their beastly Pro Precision workstations. So check this out: instead of relying on slow cloud connections that send your private data away to tech companies, these new machines have dedicated Neural Processing Units built right into the physical silicon! This means you can run massive, powerful AI models directly on your local device with zero lag, full privacy, and completely offline without any internet connection or monthly API fees. Honestly, this is a massive hardware transition that is completely changing what a laptop can do, especially for creators, developers, and enterprise users who handle highly confidential files. We are witnessing a total evolution of consumer hardware, and your next PC upgrade is going to feel like leaping ten years into the future!",
+    "id": "apc11029hw",
+    "category": "Hardware",
+    "companies": [
+      "ASUS",
+      "Dell"
+    ],
+    "people": [],
+    "created_at": "2026-07-10T22:33:35Z"
+  },
+  {
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 10,
+    "title": "Anthropic Just Dropped a 'Spotify Wrapped' for AI Productivity!",
+    "summary": "Anthropic has launched 'Reflect for Claude,' a comprehensive analytical tool that provides users with deep insights into their interactions, prompt patterns, and task distributions with the Claude AI model. The feature introduces optimized workflow visualization and gamified productivity metrics.",
+    "engagement": "High",
+    "raw_text": "If you are using AI every single day to crush your workload, Anthropic just dropped a brilliant new feature that you are going to absolutely love! They just launched 'Reflect for Claude,' which is basically a full-blown 'Spotify Wrapped' but tailored entirely for your AI productivity. So check this out: instead of just staring at a blank, boring text box, this new analytical tool tracks your exact prompt patterns, charts your usage spikes throughout the day, and breaks down your top tasks—like coding, writing, or deep data analysis. They are even planning an update to track the exact amount of time you spend collaborating with the model! By gamifying your AI habits, it makes it super fun to see how efficient you are actually being, while letting companies audit how their teams are utilizing generative AI tools. Honestly, this is a brilliant move to make their platform incredibly sticky and personalized, and it's the exact kind of mass-appeal update that's going viral across tech social media right now!",
+    "id": "ant33940rc",
+    "category": "AI",
+    "companies": [
       "Anthropic"
     ],
-    "people": [
-      "Mustafa Suleyman"
-    ],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/53c5d74c.png",
-    "image_prompt": "Cinematic photo-real scene: Microsoft HQ at dusk, subtle holographic AI network overlay, shadowy servers and cloud icons, two contrasting glowing model “cores” fading out and new internal MAI signals appearing. Editorial news mood, high detail, realistic lighting, no text."
+    "people": [],
+    "created_at": "2026-07-10T22:33:35Z"
   },
   {
-    "date": "2026-07-09",
-    "source_file": "Global Artificial Intelligence and Technology Ecosystem",
-    "page": 4,
-    "title": "Apple Strikes Massive $30B Deal as Secret 2027 iPhone Pipeline Leaks!",
-    "summary": "Apple has formalized a historic $30 billion chip supply agreement with Broadcom to secure critical U.S. manufacturing capacity amid ongoing AI component scarcity. Supply chain leaks have simultaneously exposed Apple's 2027 roadmap, which features camera-equipped AirPods, a foldable iPhone, and the next-generation A20 Pro processor tier.",
+    "date": "2026-07-10",
+    "source_file": "Strategic Research Report (July 10, 2026)",
+    "page": 11,
+    "title": "Banned! Why This State Is Outlawing Smart Glasses Right Now!",
+    "summary": "The State of New York has officially banned the use of smart glasses inside all courtrooms, highlighting growing legislative and judicial concerns over digital surveillance. The restriction targets the unauthorized recording of sensitive legal proceedings via AI-enabled augmented reality hardware.",
     "engagement": "High",
-    "raw_text": "Apple just made an absolute monster move to lock down the future of AI hardware, signing a jaw-dropping thirty-billion-dollar chip supply agreement with Broadcom! This is easily one of the largest domestic manufacturing deals in history. Apple is scrambling to secure critical components because the global AI boom has caused a severe shortage of memory and storage, which is threatening to jack up device prices. But here is the wild part: supply chain leaks have completely unmasked Apple’s top-secret hardware roadmap for 2027! We are talking about camera-equipped AirPods, a first-generation foldable iPhone, and a heavily split processor strategy. The standard iPhone 18 will get a basic A20 chip, while the Pro and foldable versions are getting a high-powered A20 Pro architecture built specifically to run intense, on-device AI workloads. Honestly, this is huge because while cloud-based AI companies are fighting over data centers, Apple is quietly securing the physical supply chain to put ambient superintelligence right in your pocket. Apple stock is already climbing, and they are playing to win!",
-    "id": "df5b55ec",
+    "raw_text": "Here is a wild tech controversy that is sparking a massive debate about privacy and the future of wearable tech! The State of New York has officially banned all smart glasses from every single courtroom across the entire state. So check this out: as augmented reality glasses get sleeker and look just like normal specs, civil institutions are totally freaking out about unchecked digital surveillance. These modern smart glasses have hidden high-def cameras, real-time facial recognition, and AI transcription tools that sync instantly to the cloud. New York judges are saying these devices pose a massive risk to witness anonymity, juror privacy, and could lead to illegal, live-streamed legal proceedings! Honestly, this is huge because it's the first major sign of a massive legal backlash against consumer AR hardware. We are definitely going to see strict geographical bans popping up everywhere as these devices become invisible. Let me know in the comments—do you think this ban is totally necessary or an overreaction?",
+    "id": "sny22048sg",
     "category": "Hardware",
     "companies": [
-      "Apple",
-      "Broadcom"
+      "TechPP"
     ],
     "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/7a9355c7.png",
-    "image_prompt": "Photorealistic newsroom-style image: Apple/Broadcom semiconductor imagery, glossy microchip close-up, neon-blue AI circuitry glow, dramatic U.S. factory silhouette in background, subtle iPhone, foldable device outline, camera AirPods-like earbuds, confident corporate mood, high contrast, shallow depth of field, no text."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Combined",
-    "page": 4,
-    "title": "Meta Weaponizes Custom Silicon with Mass Production of 'Iris' AI Chip!",
-    "summary": "Meta is accelerating the vertical integration of its hardware ecosystem by pushing its proprietary Meta Training and Inference Accelerator (MTIA) 'Iris' chips into mass production this September. Developed alongside Broadcom and TSMC, the in-house custom chips aim to expand global compute capacity to 14 gigawatts and reduce dependence on merchant silicon.",
-    "engagement": "High",
-    "raw_text": "Meta is officially sick and tired of paying the ridiculous premium for Nvidia and AMD graphics cards, so they are taking matters into their own hands! Word just leaked that Meta is drastically accelerating production for its own custom AI chip, code-named 'Iris.' They are pushing this bad boy into mass production this September to double their global data center capacity to a mind-blowing fourteen gigawatts. Here's the wild part: Meta is working with Broadcom and TSMC on an insane six-month release cadence, completely destroying the typical annual industry cycle. They plan to drop a staggering one-hundred-and-forty-five billion dollars on AI infrastructure this year alone! By running their own Llama and Muse models on custom silicon, Meta can deliver AI services at practically zero marginal cost. Don't get me wrong, they are still buying Nvidia chips for heavy frontier training because the CUDA ecosystem is king, but for everyday inference and serving billions of users on Instagram and Facebook, Iris is the secret weapon that could change everything.",
-    "id": "f17308f0",
-    "category": "Hardware",
-    "companies": [
-      "Meta",
-      "Broadcom",
-      "TSMC",
-      "Nvidia",
-      "AMD"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/bd7b7baf.png",
-    "image_prompt": "Futuristic newsroom photo-illustration: a sleek server rack glowing with blue LEDs, a wafer-like “Iris” chip centerpiece on an illuminated microscope stage, subtle circuitry patterns, bold tech mood, realistic lighting, shallow depth of field, high-detail, no text, news-quality."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "ChatGPT",
-    "page": 2,
-    "title": "Micron Explosively Commits $250 Billion to U.S. Mega Semiconductor Campus!",
-    "summary": "Micron Technology has announced an expanded $250 billion roadmap for domestic semiconductor facilities running through 2035 to meet surging AI memory demands. The expansion centers on a massive campus in New York, supported by a $22 billion pre-purchase backlog for its high-bandwidth memory products.",
-    "engagement": "High",
-    "raw_text": "Hold onto your seats because Micron Technology just announced an absolutely mind-boggling two-hundred-and-fifty-billion-dollar investment into U.S. semiconductor facilities! This completely smashes their previous goals and is heavily backed by the U.S. government’s push to bring chip manufacturing back home. The epicenter of this massive expansion is a mega-campus in New York that is projected to generate a staggering ninety thousand jobs! Why the massive spend? Because the AI explosion has triggered a historic wave of 'chipflation' and an insatiable demand for High-Bandwidth Memory. Micron is a primary supplier for Nvidia’s world-dominating AI chips, and get this—customers have already pre-purchased a ridiculous twenty-two billion dollars worth of memory before it’s even built! They are even locking down a ten-year wafer supply deal with GlobalWafers in Texas. Micron’s stock immediately shot up eight percent on the news. This is proof that the AI era isn't just about cool chatbots; it's a multi-trillion-dollar physical land grab for the actual hardware running the future of humanity!",
-    "id": "a49a57e2",
-    "category": "Hardware",
-    "companies": [
-      "Micron Technology",
-      "Nvidia",
-      "GlobalWafers"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/1a6db4c5.png",
-    "image_prompt": "Realistic photojournalistic scene: a vast modern semiconductor campus in New York at dusk, glowing cleanroom windows, cranes and construction for massive fabs, sleek highway access, dramatic sky, subtle circuit-like light trails in haze, conveying massive AI memory expansion and investment energy."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Global Artificial Intelligence and Technology Ecosystem",
-    "page": 4,
-    "title": "U.S. Cities Formally Block $130 Billion in Hyperscale AI Data Centers!",
-    "summary": "Widespread community resistance across the United States has successfully blocked or delayed over $130 billion in planned data center expansions due to infrastructure anxieties. Prominent cancellations include Google's $1 billion site in Indiana and Amazon's $3.6 billion campus in Arizona, prompting an aggressive computational offshoring shift.",
-    "engagement": "High",
-    "raw_text": "We always talk about AI software scaling to infinity, but it just hit a massive, multi-billion-dollar brick wall in the real world. In a shocking turn of events, local communities across the United States have successfully blocked or delayed over one-hundred-and-thirty billion dollars in planned AI data center expansions! Hyperscalers thought they were completely unstoppable, but local town councils are saying 'hell no' over fears of grid collapse, water depletion, and skyrocketing utility rates. Check this out: Google was literally minutes away from a vote in Indiana before they panicked and abandoned a one-billion-dollar data center project! Meanwhile, Amazon got unanimously blocked in Arizona over a three-billion-dollar campus because people went wild over how much water it would consume. This massive domestic blockade is forcing tech giants to aggressively offshore their computing power. Companies are already locking down multi-billion-dollar leases for clean power in places like Norway and Finland. The software boom is officially colliding with thermodynamic reality!",
-    "id": "ed1303ab",
-    "category": "Infrastructure",
-    "companies": [
-      "Google",
-      "Amazon",
-      "Bitzero"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/a89b18f2.png",
-    "image_prompt": "Photorealistic wide news scene: tense U.S. suburban street and construction fences around a massive empty data-center pad, bulldozers paused, protest signs blurred, stormy dusk sky, journalists’ cameras, frustrated residents silhouettes, infrastructure pipes and utility lines; mood of resistance and uncertainty, ultra-detailed, high contrast."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Global Artificial Intelligence and Technology Ecosystem",
-    "page": 5,
-    "title": "Microsoft's Carbon Nightmare: Emissions Explode 25% to Fuel the AI Boom!",
-    "summary": "Microsoft's annual sustainability report revealed a staggering 25% year-over-year surge in carbon emissions, driven heavily by data center electricity consumption. To guarantee continuous uptime for its computational scaling, the corporation has increasingly relied on fossil fuels, including a major natural gas deal with Chevron.",
-    "engagement": "High",
-    "raw_text": "Microsoft has a massive dirty secret, and it was just exposed in their latest annual sustainability report. Their carbon emissions have absolutely skyrocketed by an alarming twenty-five percent year-over-year! They pumped out a staggering thirty-four million metric tons of greenhouse gases, which is literally on par with the total annual emissions of entire countries like Panama or Lithuania. This massive environmental disaster is entirely driven by the insane amount of electricity needed to power their new AI data centers. Here is the wild part: Microsoft is quietly ditching its heavily publicized green energy targets to prioritize absolute AI market dominance. They even signed a massive, highly controversial natural gas deal with Chevron in Texas just to keep the lights on! Meta is facing the exact same nightmare, with their emissions jumping a horrific sixty-four percent. It turns out the clean, futuristic AI revolution is actually being powered by good old-fashioned fossil fuels because current renewable infrastructure just can't keep up with the demand!",
-    "id": "ae9f8ace",
-    "category": "Infrastructure",
-    "companies": [
-      "Microsoft",
-      "Chevron",
-      "Meta"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/826e4316.png",
-    "image_prompt": "Cinematic realistic news photo: Microsoft-style data centers at dusk, towering servers glowing blue, smokestacks and natural gas flames in foreground, hazy sky with heat shimmer, utility lines toward facility, reporters’ silhouettes, somber investigative mood, sharp HDR, natural colors, no text."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "Global Artificial Intelligence and Technology Ecosystem",
-    "page": 5,
-    "title": "Apple Intelligence Lands on Apple Watch as Siri Lawsuit Settles for $250M!",
-    "summary": "Apple has deployed its overhauled Gemini-backed Siri AI to wearables via watchOS 27 developer beta 3, introducing contextual memory and additive task handling. Concurrently, a California court reviewed a preliminary $250 million class-action settlement paid by Apple over advertising delays related to these exact localized intelligence features.",
-    "engagement": "High",
-    "raw_text": "Big news for Apple Watch owners—Apple is officially bringing its revamped 'Apple Intelligence' framework straight to your wrist! The new watchOS 27 developer beta just dropped, and it brings a completely overhauled Siri AI experience powered by a customized implementation of Google's Gemini technology. This means Siri finally has deep contextual memory, handles follow-up questions easily, and won't completely reset when you ask it to add time to an existing timer! But here’s the drama: Apple just had to agree to pay a massive two-hundred-and-fifty-million-dollar class-action settlement to resolve a lawsuit over false advertising. Basically, consumers sued because Apple aggressively marketed these exact Siri AI features back in 2024 but delayed the actual rollout for years! This massive settlement finally clears a dark legal cloud right before the true public launch this September. Just a heads up though—if you live in the European Union or China, regulatory delays mean you are completely locked out of these features at launch.",
-    "id": "7dc43d76",
-    "category": "Mobile",
-    "companies": [
-      "Apple",
-      "Google"
-    ],
-    "people": [],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/0d8c2a0a.png",
-    "image_prompt": "Photorealistic news photo: Apple Watch on a wrist displaying subtle AI glow, smartwatch UI reflections, modern California courthouse blurred background, soft dawn light, tense investigative mood. Cinematic depth of field, ultra-detailed, natural colors, 4K, no text, no logos."
-  },
-  {
-    "date": "2026-07-09",
-    "source_file": "ChatGPT",
-    "page": 2,
-    "title": "SpaceX Record IPO Wealth Triggers Insane Private Jet Buying Spree!",
-    "summary": "The historic $85.7 billion SpaceX IPO, which included its xAI division, has generated unprecedented employee wealth, triggering a massive surge in private aviation acquisitions. Aviation trackers reported a 177% spike in private flights in SpaceX's Brownsville region and an 11% YoY increase in San Francisco during the IPO period.",
-    "engagement": "High",
-    "raw_text": "The recent SpaceX IPO didn't just break financial records—it literally triggered a wild luxury buying spree that is breaking the aviation market! The historic IPO, which included Elon Musk’s red-hot xAI division, raised an astronomical eighty-five billion dollars and created an army of overnight multi-millionaires. And what is the very first thing these newly minted tech moguls did? They went out and started buying private jets like crazy! Aircraft brokers are reporting an unprecedented surge, with aviation tracking data showing tech-driven private flights jumping eleven percent in San Francisco. Down in SpaceX’s launch region in Brownsville, Texas, private jet traffic skyrocketed by a mind-blowing one-hundred-and-seventy-seven percent during the IPO period! This insane phenomenon perfectly mirrors the wild dot-com booms of the past. It just goes to show you that the immense wealth being generated in the AI and aerospace race is spilling over into the real world in some of the most extravagant ways imaginable!",
-    "id": "a9aefa2c",
-    "category": "Business",
-    "companies": [
-      "SpaceX",
-      "xAI",
-      "Anysphere"
-    ],
-    "people": [
-      "Elon Musk"
-    ],
-    "created_at": "2026-07-09T21:51:19Z",
-    "image_url": "images/10_07_26/5ab652fa.png",
-    "image_prompt": "Futuristic newsroom-style photo: golden sunrise over Brownsville, Texas with a private jet on an airfield tarmac, sleek Gulfstream-like aircraft, atmospheric heat shimmer, subtle SpaceX rocket launch in distant haze, implied wealth surge via bustling hangar activity, realistic high-contrast, news-quality lighting, no text."
+    "created_at": "2026-07-10T22:33:35Z"
   }
 ]
