@@ -1,0 +1,189 @@
+[
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 1,
+    "title": "The End of Animal Testing? US Gov Pours $125M into AI Drug Discovery!",
+    "summary": "ARPA-H has launched the $125 million CATALYST program to replace physical drug testing with AI-driven computational modeling. This initiative uses machine learning to predict human physiological reactions to new drugs, fundamentally altering pharmaceutical development.",
+    "engagement": "High",
+    "raw_text": "So check this out, guys—this could literally change medicine forever. The US government just dropped 125 million dollars into a wild new program called CATALYST, run by ARPA-H. What does it do? It's basically replacing animal testing with AI. Yeah, you heard me right. Instead of taking years to physically test new drugs on animals, they are using insane machine learning models to predict exactly how a human body will react to a drug before it's even made! I honestly think this is huge. Over 90% of drugs fail in Phase 1 right now, which wastes billions of dollars. If this AI can accurately run in-silico simulations, we could see cures for massive diseases hitting the market years faster. It's tying into a bigger federal initiative called the Genesis Mission, basically forcing the healthcare system to upgrade its data tech. We are officially entering the era of digital twin biology, and it is going to blow your mind!",
+    "id": "ARPAH2026X1",
+    "category": "Science",
+    "companies": [
+      "ARPA-H"
+    ],
+    "people": [],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 2,
+    "title": "The AI Gold Rush: Why Universities Are Building a Massive 'Mineral Brain'!",
+    "summary": "A coalition of universities from Wyoming, Nevada, and Idaho has secured funding to build the Critical Mineral Intelligent Data Observatory (CM-IDO). This project uses AI to digitize historical geological records into a federated knowledge base to secure domestic supply chains.",
+    "engagement": "Medium",
+    "raw_text": "Okay, we need to talk about the physical stuff that makes AI even possible. You can't build massive data centers or advanced GPUs without critical minerals. But here's the wild part: the US has a massive data deficit when it comes to finding them! They are literally stuck looking at unstructured, old paper maps. So, a massive academic coalition across Wyoming, Nevada, and Idaho just got funded to build the CM-IDO. Basically, they're unleashing natural language processing and advanced OCR AI on huge archives of old state-level geological records. Instead of centralizing it, they're building a federated knowledge base where AI can just query the data and say 'Hey, dig here!'. It's essentially an AI gold map. While it might sound a bit dry, this is the backbone of the AI supply chain. Without this kind of infrastructure, we don't get our next-generation hardware. It's a huge move for domestic security!",
+    "id": "CMIDO723Y2",
+    "category": "Hardware",
+    "companies": [
+      "University of Wyoming",
+      "University of Nevada-Reno",
+      "University of Idaho"
+    ],
+    "people": [
+      "Tyler Brown",
+      "Alathea Davies",
+      "Simon Jowitt",
+      "Claudio Berti"
+    ],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 3,
+    "title": "WARNING: Over 14 Million Downloads Hit by FakeGit AI Malware!",
+    "summary": "Cybersecurity firm Island has identified a massive malware campaign called FakeGit spanning 7,600 malicious GitHub repositories. The attack specifically targets autonomous AI coding agents and MCP servers, tricking them into fetching malicious code.",
+    "engagement": "High",
+    "raw_text": "Guys, if you use AI coding agents, you need to hear this right now. Cybersecurity researchers just uncovered a massive malware campaign called FakeGit, and it is terrifying. We're talking over 7,600 malicious GitHub repos with 14 million downloads! But here's the crazy part—they aren't targeting human developers. They are specifically tricking your AI autonomous agents. Hackers realized that AI coding assistants just grab libraries based on metadata, so they set up poisoned repos that look exactly like legit AI tools and Model Context Protocol servers. Your AI literally fetches the malware and injects it straight into your code autonomously. This is a massive shift in how cyberattacks work. We've gone from typosquatting human errors to algorithmic manipulation where the AI itself is the victim. Honestly, this is a massive wake-up call for enterprise security. You can't just blindly trust your AI assistant anymore!",
+    "id": "FAKEGIT099Z3",
+    "category": "AI",
+    "companies": [
+      "Island",
+      "GitHub"
+    ],
+    "people": [],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 3,
+    "title": "Big Tech Wants to Regulate Itself? The Controversial 'FINRA for AI' Plan!",
+    "summary": "Experts from the Council on Foreign Relations are debating a proposal to create an industry-funded, self-regulatory organization (SRO) for frontier AI models. Modeled after FINRA, this body would bypass slow federal bureaucracy but raises significant concerns over regulatory capture.",
+    "engagement": "Low",
+    "raw_text": "Alright, let's dive into some heavy business news that is going to shape the entire future of AI. The tech industry is officially getting impatient with slow government regulations, and they are proposing a massive shift: an industry-funded self-regulatory organization just for AI. Think of it like FINRA for Wall Street, but for artificial intelligence. A panel from the Council on Foreign Relations, including former NSA and NIST officials, is actually backing this idea. The argument is that the government just doesn't pay enough to hire the elite AI safety engineers needed to audit trillion-parameter models. An industry-funded group could act fast and pay top dollar. But honestly, here is the controversial part—critics are terrified of regulatory capture. Basically, what if the giant tech incumbents use this self-funded body to create rules that just crush small open-source startups? It's a huge debate, and it could dictate the rules of the road globally.",
+    "id": "AISRO264A4",
+    "category": "Business",
+    "companies": [
+      "Council on Foreign Relations",
+      "FINRA"
+    ],
+    "people": [
+      "Vinh Nguyen",
+      "Elham Tabassi",
+      "Kat Duffy"
+    ],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 4,
+    "title": "AI Bots Are Breaking the Internet: How Approov is Fighting Back!",
+    "summary": "Enterprise security provider Approov has appointed Silicon Valley veteran Rex S. Jackson as independent Chairman of the Board. The move signals a strategic pivot to use advanced cryptographic attestation to defend corporate APIs against malicious AI agents.",
+    "engagement": "Medium",
+    "raw_text": "Okay, we just talked about AI malware, but how are big companies actually fighting back? Approov, a massive player in API security, just brought on Silicon Valley heavy hitter Rex S. Jackson as their new Chairman. This is a massive strategic pivot. Here's why it matters: AI agents don't use web browsers; they talk directly to servers through APIs. Traditional security like rate-limiting is completely useless against smart, decentralized AI swarms. Approov is using crazy cryptographic math to verify that the app requesting data is actually legitimate and hasn't been tampered with. Jackson helped take ChargePoint public, so bringing him in means they are gearing up for explosive growth. If you are in tech, API defense isn't just an option anymore, it's mandatory. We are literally watching the cybersecurity perimeter get completely redrawn in real time to handle autonomous machines!",
+    "id": "APPROV72B5",
+    "category": "Business",
+    "companies": [
+      "Approov",
+      "ChargePoint"
+    ],
+    "people": [
+      "Rex S. Jackson",
+      "Dr. Lucio Lanza",
+      "Ted Miracco"
+    ],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 5,
+    "title": "Tencent CTO Jumps Ship to Automate the Video Game Industry with AI!",
+    "summary": "Liquidnitro Games has hired a former global CTO from Tencent Games to lead their AI-enabled game production pipeline. This strategic executive hire aims to replace manual artistic processes with deep AI automation for asset generation and testing.",
+    "engagement": "High",
+    "raw_text": "What is going on in the gaming industry right now?! So, game budgets have been totally out of control lately, taking years to make a single title. But Liquidnitro Games just made a massive power move by hiring a former global CTO from Tencent Games! And they didn't hire him to make regular games—his specific job is to oversee AI-enabled game production. We are way past AI just making basic concept art. This is about deep structural automation. Imagine an AI generating massive 3D worlds and writing logic for NPCs in real-time. Tencent runs some of the biggest live-service games on the planet, so taking their CTO means Liquidnitro is about to build an absolute machine of an AI pipeline. This is a giant signal that the future of game dev isn't about how many hundreds of human artists you can hire, it's about how powerful your AI orchestration engine is!",
+    "id": "LIQUIDGAM3C6",
+    "category": "Mobile",
+    "companies": [
+      "Liquidnitro Games",
+      "Tencent Games"
+    ],
+    "people": [],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 5,
+    "title": "Supercell Veteran Joins Lil Snack to Build Tiny, Profitable AI Studios!",
+    "summary": "Gaming studio Lil Snack has recruited former Supercell veteran Bill Kang as its first Chief Operating Officer. The move emphasizes the industry's shift toward using AI tools to scale output while maintaining small, autonomous development teams.",
+    "engagement": "High",
+    "raw_text": "Speaking of wild gaming news, Lil Snack just snagged Bill Kang from Supercell to be their new Chief Operating Officer! If you know gaming, you know Supercell is legendary for making billions of dollars with incredibly tiny, super-talented teams. Well, Lil Snack is trying to replicate that magic using artificial intelligence. The goal is to keep human headcounts super low, but use intelligent AI workflows to scale up production exponentially. AI is literally going to act as 24/7 QA testers and dynamically generate live-service content so players don't get bored. The whole thesis they are testing is whether AI can actually maintain the creative quality needed to keep gamers hooked long-term. If Bill Kang can pull this off at Lil Snack, it proves you don't need a massive AAA studio with a thousand people to make a blockbuster game anymore.",
+    "id": "LILSNACK99D7",
+    "category": "Mobile",
+    "companies": [
+      "Lil Snack",
+      "Supercell"
+    ],
+    "people": [
+      "Bill Kang"
+    ],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 6,
+    "title": "AI is Now Running IT: Vitria Technology Dominates Gartner Hype Cycle!",
+    "summary": "Vitria Technology has been recognized as a Sample Vendor for Event Intelligence Solutions across seven distinct Gartner Hype Cycle reports for 2026. The company's VIA AIOps platform uses advanced AI to autonomously ingest and resolve IT network events.",
+    "engagement": "Low",
+    "raw_text": "Okay, this next one is for the enterprise IT nerds out there, and honestly, it's pretty impressive. Vitria Technology just flexed hard on the industry by getting named in seven different Gartner Hype Cycle reports for 2026. Seven! They are leading the charge in something called Event Intelligence Solutions. Basically, corporate networks are a total mess right now with microservices and AI agents all screaming at each other, creating millions of events per second. Vitria's VIA AIOps platform uses advanced AI to literally ingest all that data, figure out what's breaking, and fix it autonomously before a human operator even knows there's a problem. Gartner validating them this hard proves that AIOps is no longer just some experimental tech project. It is absolutely mandatory if you want your corporate infrastructure to survive in 2026. The machines are literally fixing the machines, guys!",
+    "id": "VITRIA2026E8",
+    "category": "Business",
+    "companies": [
+      "Vitria Technology",
+      "Gartner"
+    ],
+    "people": [],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 6,
+    "title": "Curing 'Malorchestration Disorder': LittleHorse Launches Business-as-Code!",
+    "summary": "Enterprise orchestration startup LittleHorse has unveiled its Saddle Command Center, pioneering a new Business-as-Code methodology. The platform provides a deterministic control layer that synchronizes microservices and AI agents to prevent system degradation.",
+    "engagement": "Medium",
+    "raw_text": "Have you ever heard of Malorchestration Disorder? It sounds like a made-up disease, but it's actually destroying enterprise IT, and a company called LittleHorse is trying to cure it. They just dropped their new Saddle Command Center, and they are pushing a wild new concept called Business-as-Code. Because companies have so many AI agents and microservices running around doing tasks, they easily get out of sync and crash the whole system. LittleHorse basically built a central nervous system for corporate networks. It lets companies write their entire complex business logic as deterministic code so that human workflows and AI agents stay in perfect synchronization. If you are deploying AI in a big company, you absolutely need this kind of control layer to audit everything these bots are doing. It's a huge step toward making automated networks actually stable and resilient!",
+    "id": "LHORSE42F9",
+    "category": "Business",
+    "companies": [
+      "LittleHorse"
+    ],
+    "people": [],
+    "created_at": "2026-07-23T21:40:45Z"
+  },
+  {
+    "date": "2026-07-23",
+    "source_file": "Tech News Aggregation With Exclusion (7).pdf",
+    "page": 7,
+    "title": "The Next Generation of AI Founders? Inside Colby College's Radical AI Program!",
+    "summary": "Colby College's Davis Institute for Artificial Intelligence has concluded its innovative Interdisciplinary Summer Bridges Program. The initiative challenges students from varied academic backgrounds to collaboratively design responsible, ethically aligned AI startup solutions.",
+    "engagement": "Medium",
+    "raw_text": "Alright, let's look at how we are actually training the next generation of AI founders. Colby College just wrapped up this incredibly cool, first-of-its-kind Interdisciplinary AI Summer Bridges Program. Look, traditionally, AI was just locked away in the computer science department, all math and algorithms. But this program brings in students from everywhere—humanities, economics, even international students from Germany—and teams them up to build responsible AI startups. David Watts, the director of Davis AI, said something super profound: true AI literacy is about understanding how the tech interacts with human ecosystems, not just the code. These students spent eight weeks baking ethics and societal impact directly into the core architecture of their startup pitches. They just did their capstone presentations for industry experts, and honestly, this is exactly what the tech world needs. Founders who see ethical alignment as a feature, not a bug!",
+    "id": "COLBYEDU1G0",
+    "category": "Science",
+    "companies": [
+      "Colby College",
+      "Davis Institute for Artificial Intelligence",
+      "Halloran Lab for Entrepreneurship"
+    ],
+    "people": [
+      "David Watts"
+    ],
+    "created_at": "2026-07-23T21:40:45Z"
+  }
+]
