@@ -6,14 +6,16 @@
     "title": "The End of Animal Testing? US Gov Pours $125M into AI Drug Discovery!",
     "summary": "ARPA-H has launched the $125 million CATALYST program to replace physical drug testing with AI-driven computational modeling. This initiative uses machine learning to predict human physiological reactions to new drugs, fundamentally altering pharmaceutical development.",
     "engagement": "High",
-    "raw_text": "So check this out, guys—this could literally change medicine forever. The US government just dropped 125 million dollars into a wild new program called CATALYST, run by ARPA-H. What does it do? It's basically replacing animal testing with AI. Yeah, you heard me right. Instead of taking years to physically test new drugs on animals, they are using insane machine learning models to predict exactly how a human body will react to a drug before it's even made! I honestly think this is huge. Over 90% of drugs fail in Phase 1 right now, which wastes billions of dollars. If this AI can accurately run in-silico simulations, we could see cures for massive diseases hitting the market years faster. It's tying into a bigger federal initiative called the Genesis Mission, basically forcing the healthcare system to upgrade its data tech. We are officially entering the era of digital twin biology, and it is going to blow your mind!",
+    "raw_text": "So check this out, guys\u2014this could literally change medicine forever. The US government just dropped 125 million dollars into a wild new program called CATALYST, run by ARPA-H. What does it do? It's basically replacing animal testing with AI. Yeah, you heard me right. Instead of taking years to physically test new drugs on animals, they are using insane machine learning models to predict exactly how a human body will react to a drug before it's even made! I honestly think this is huge. Over 90% of drugs fail in Phase 1 right now, which wastes billions of dollars. If this AI can accurately run in-silico simulations, we could see cures for massive diseases hitting the market years faster. It's tying into a bigger federal initiative called the Genesis Mission, basically forcing the healthcare system to upgrade its data tech. We are officially entering the era of digital twin biology, and it is going to blow your mind!",
     "id": "ARPAH2026X1",
     "category": "Science",
     "companies": [
       "ARPA-H"
     ],
     "people": [],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/ARPAH2026X1.png",
+    "image_prompt": "Realistic news photo style: ARPA-H/CATALYST theme, sterile biotech lab, diverse scientists monitoring holographic AI drug models and neural network graphs over petri dishes, futuristic compute screens, subtle US flag colors on equipment, hopeful mood, cinematic lighting, ultra-high detail, no text, 4k."
   },
   {
     "date": "2026-07-23",
@@ -36,7 +38,9 @@
       "Simon Jowitt",
       "Claudio Berti"
     ],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/CMIDO723Y2.png",
+    "image_prompt": "Realistic editorial photo style: a modern university lab with researchers around holographic AI maps of underground mineral deposits, glowing \u201cdigital strata\u201d over glass tables, desert mountains and geologic cores through windows, cool blue lighting, confident hopeful mood, high detail, natural lens blur, news-grade quality."
   },
   {
     "date": "2026-07-23",
@@ -45,7 +49,7 @@
     "title": "WARNING: Over 14 Million Downloads Hit by FakeGit AI Malware!",
     "summary": "Cybersecurity firm Island has identified a massive malware campaign called FakeGit spanning 7,600 malicious GitHub repositories. The attack specifically targets autonomous AI coding agents and MCP servers, tricking them into fetching malicious code.",
     "engagement": "High",
-    "raw_text": "Guys, if you use AI coding agents, you need to hear this right now. Cybersecurity researchers just uncovered a massive malware campaign called FakeGit, and it is terrifying. We're talking over 7,600 malicious GitHub repos with 14 million downloads! But here's the crazy part—they aren't targeting human developers. They are specifically tricking your AI autonomous agents. Hackers realized that AI coding assistants just grab libraries based on metadata, so they set up poisoned repos that look exactly like legit AI tools and Model Context Protocol servers. Your AI literally fetches the malware and injects it straight into your code autonomously. This is a massive shift in how cyberattacks work. We've gone from typosquatting human errors to algorithmic manipulation where the AI itself is the victim. Honestly, this is a massive wake-up call for enterprise security. You can't just blindly trust your AI assistant anymore!",
+    "raw_text": "Guys, if you use AI coding agents, you need to hear this right now. Cybersecurity researchers just uncovered a massive malware campaign called FakeGit, and it is terrifying. We're talking over 7,600 malicious GitHub repos with 14 million downloads! But here's the crazy part\u2014they aren't targeting human developers. They are specifically tricking your AI autonomous agents. Hackers realized that AI coding assistants just grab libraries based on metadata, so they set up poisoned repos that look exactly like legit AI tools and Model Context Protocol servers. Your AI literally fetches the malware and injects it straight into your code autonomously. This is a massive shift in how cyberattacks work. We've gone from typosquatting human errors to algorithmic manipulation where the AI itself is the victim. Honestly, this is a massive wake-up call for enterprise security. You can't just blindly trust your AI assistant anymore!",
     "id": "FAKEGIT099Z3",
     "category": "AI",
     "companies": [
@@ -53,7 +57,9 @@
       "GitHub"
     ],
     "people": [],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/FAKEGIT099Z3.png",
+    "image_prompt": "Realistic newsroom cybersecurity scene: tense analysts at dual monitors showing abstract code, red warning glows, shadowy \u201cdigital repository\u201d silhouettes, network connections funneling into a dark server core, glowing malware-like patterns, dramatic lighting, high detail, photojournalistic style, no text."
   },
   {
     "date": "2026-07-23",
@@ -62,7 +68,7 @@
     "title": "Big Tech Wants to Regulate Itself? The Controversial 'FINRA for AI' Plan!",
     "summary": "Experts from the Council on Foreign Relations are debating a proposal to create an industry-funded, self-regulatory organization (SRO) for frontier AI models. Modeled after FINRA, this body would bypass slow federal bureaucracy but raises significant concerns over regulatory capture.",
     "engagement": "Low",
-    "raw_text": "Alright, let's dive into some heavy business news that is going to shape the entire future of AI. The tech industry is officially getting impatient with slow government regulations, and they are proposing a massive shift: an industry-funded self-regulatory organization just for AI. Think of it like FINRA for Wall Street, but for artificial intelligence. A panel from the Council on Foreign Relations, including former NSA and NIST officials, is actually backing this idea. The argument is that the government just doesn't pay enough to hire the elite AI safety engineers needed to audit trillion-parameter models. An industry-funded group could act fast and pay top dollar. But honestly, here is the controversial part—critics are terrified of regulatory capture. Basically, what if the giant tech incumbents use this self-funded body to create rules that just crush small open-source startups? It's a huge debate, and it could dictate the rules of the road globally.",
+    "raw_text": "Alright, let's dive into some heavy business news that is going to shape the entire future of AI. The tech industry is officially getting impatient with slow government regulations, and they are proposing a massive shift: an industry-funded self-regulatory organization just for AI. Think of it like FINRA for Wall Street, but for artificial intelligence. A panel from the Council on Foreign Relations, including former NSA and NIST officials, is actually backing this idea. The argument is that the government just doesn't pay enough to hire the elite AI safety engineers needed to audit trillion-parameter models. An industry-funded group could act fast and pay top dollar. But honestly, here is the controversial part\u2014critics are terrified of regulatory capture. Basically, what if the giant tech incumbents use this self-funded body to create rules that just crush small open-source startups? It's a huge debate, and it could dictate the rules of the road globally.",
     "id": "AISRO264A4",
     "category": "Business",
     "companies": [
@@ -74,7 +80,9 @@
       "Elham Tabassi",
       "Kat Duffy"
     ],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/AISRO264A4.png",
+    "image_prompt": "Realistic editorial news photo style: a diverse panel of experts debating in a modern think-tank room, blurred high-tech AI servers behind, a subtle regulatory courtroom-like backdrop, tense serious mood, high contrast lighting, shallow depth of field, ultra-detailed, no text, no logos."
   },
   {
     "date": "2026-07-23",
@@ -95,7 +103,9 @@
       "Dr. Lucio Lanza",
       "Ted Miracco"
     ],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/APPROV72B5.png",
+    "image_prompt": "Realistic news photo, Silicon Valley boardroom at dusk, Rex S. Jackson in suit viewing glowing holographic API shield, cryptographic key motifs swirling over server racks, tense yet confident mood, cinematic lighting, ultra-detailed, natural skin tones, shallow depth of field, no text."
   },
   {
     "date": "2026-07-23",
@@ -104,7 +114,7 @@
     "title": "Tencent CTO Jumps Ship to Automate the Video Game Industry with AI!",
     "summary": "Liquidnitro Games has hired a former global CTO from Tencent Games to lead their AI-enabled game production pipeline. This strategic executive hire aims to replace manual artistic processes with deep AI automation for asset generation and testing.",
     "engagement": "High",
-    "raw_text": "What is going on in the gaming industry right now?! So, game budgets have been totally out of control lately, taking years to make a single title. But Liquidnitro Games just made a massive power move by hiring a former global CTO from Tencent Games! And they didn't hire him to make regular games—his specific job is to oversee AI-enabled game production. We are way past AI just making basic concept art. This is about deep structural automation. Imagine an AI generating massive 3D worlds and writing logic for NPCs in real-time. Tencent runs some of the biggest live-service games on the planet, so taking their CTO means Liquidnitro is about to build an absolute machine of an AI pipeline. This is a giant signal that the future of game dev isn't about how many hundreds of human artists you can hire, it's about how powerful your AI orchestration engine is!",
+    "raw_text": "What is going on in the gaming industry right now?! So, game budgets have been totally out of control lately, taking years to make a single title. But Liquidnitro Games just made a massive power move by hiring a former global CTO from Tencent Games! And they didn't hire him to make regular games\u2014his specific job is to oversee AI-enabled game production. We are way past AI just making basic concept art. This is about deep structural automation. Imagine an AI generating massive 3D worlds and writing logic for NPCs in real-time. Tencent runs some of the biggest live-service games on the planet, so taking their CTO means Liquidnitro is about to build an absolute machine of an AI pipeline. This is a giant signal that the future of game dev isn't about how many hundreds of human artists you can hire, it's about how powerful your AI orchestration engine is!",
     "id": "LIQUIDGAM3C6",
     "category": "Mobile",
     "companies": [
@@ -112,7 +122,9 @@
       "Tencent Games"
     ],
     "people": [],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/LIQUIDGAM3C6.png",
+    "image_prompt": "Realistic high-end newsroom style photo: a sleek AI server room beside a game studio, holographic blue holograms of character models and animation timelines, an executive in modern suit shaking hands with a game engineer, cinematic lighting, shallow depth of field, ultra-detailed, no text."
   },
   {
     "date": "2026-07-23",
@@ -131,7 +143,9 @@
     "people": [
       "Bill Kang"
     ],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/LILSNACK99D7.png",
+    "image_prompt": "Realistic high-quality newsroom photo: veteran game developer in a modern minimalist office with subtle gaming memorabilia, laptop showing abstract code/AI glow, small team of diverse engineers collaborating at compact desks, warm natural light, candid documentary mood, shallow depth of field, 4k. No text."
   },
   {
     "date": "2026-07-23",
@@ -148,7 +162,9 @@
       "Gartner"
     ],
     "people": [],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/VITRIA2026E8.png",
+    "image_prompt": "Realistic high-tech newsroom image: a sleek AI control room with glowing holographic network maps, autonomous event-handling light trails, server racks softly lit, data streams converging into a central interface, confident business mood, ultra-detailed, cinematic lighting, shallow depth of field, 4K."
   },
   {
     "date": "2026-07-23",
@@ -164,7 +180,9 @@
       "LittleHorse"
     ],
     "people": [],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/LHORSE42F9.png",
+    "image_prompt": "Photorealistic newsroom-style hero image: a sleek control room with transparent holographic dashboard of synced microservices and AI agent icons, glowing deterministic control pathways, subtle robotic/enterprise motifs, blue tech lighting, high contrast, ultra-real, sharp focus, no text, cinematic mood."
   },
   {
     "date": "2026-07-23",
@@ -173,7 +191,7 @@
     "title": "The Next Generation of AI Founders? Inside Colby College's Radical AI Program!",
     "summary": "Colby College's Davis Institute for Artificial Intelligence has concluded its innovative Interdisciplinary Summer Bridges Program. The initiative challenges students from varied academic backgrounds to collaboratively design responsible, ethically aligned AI startup solutions.",
     "engagement": "Medium",
-    "raw_text": "Alright, let's look at how we are actually training the next generation of AI founders. Colby College just wrapped up this incredibly cool, first-of-its-kind Interdisciplinary AI Summer Bridges Program. Look, traditionally, AI was just locked away in the computer science department, all math and algorithms. But this program brings in students from everywhere—humanities, economics, even international students from Germany—and teams them up to build responsible AI startups. David Watts, the director of Davis AI, said something super profound: true AI literacy is about understanding how the tech interacts with human ecosystems, not just the code. These students spent eight weeks baking ethics and societal impact directly into the core architecture of their startup pitches. They just did their capstone presentations for industry experts, and honestly, this is exactly what the tech world needs. Founders who see ethical alignment as a feature, not a bug!",
+    "raw_text": "Alright, let's look at how we are actually training the next generation of AI founders. Colby College just wrapped up this incredibly cool, first-of-its-kind Interdisciplinary AI Summer Bridges Program. Look, traditionally, AI was just locked away in the computer science department, all math and algorithms. But this program brings in students from everywhere\u2014humanities, economics, even international students from Germany\u2014and teams them up to build responsible AI startups. David Watts, the director of Davis AI, said something super profound: true AI literacy is about understanding how the tech interacts with human ecosystems, not just the code. These students spent eight weeks baking ethics and societal impact directly into the core architecture of their startup pitches. They just did their capstone presentations for industry experts, and honestly, this is exactly what the tech world needs. Founders who see ethical alignment as a feature, not a bug!",
     "id": "COLBYEDU1G0",
     "category": "Science",
     "companies": [
@@ -184,6 +202,8 @@
     "people": [
       "David Watts"
     ],
-    "created_at": "2026-07-23T21:40:45Z"
+    "created_at": "2026-07-23T21:40:45Z",
+    "image_url": "images/24_07_26/COLBYEDU1G0.png",
+    "image_prompt": "Realistic high-quality newsroom photo: diverse group of college students in a bright campus lab, collaborating around laptops and whiteboards, ethical AI icons on screen (no text), warm daylight, thoughtful focused expressions, modern tech ambiance, shallow depth of field, cinematic lighting, natural colors."
   }
 ]
