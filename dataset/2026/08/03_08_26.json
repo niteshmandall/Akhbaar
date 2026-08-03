@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2026-08-03",
+    "source_file": "AI Research & Breakthroughs (6).pdf",
+    "page": 2,
+    "title": "Hackers Infiltrate 131 AI Libraries: CrowdStrike Exposes Massive AI Cyber Attack Boom!",
+    "summary": "CrowdStrike released its 2026 Threat Hunting Report, warning that AI is now deeply embedded in adversary operations to automate exploits and target AI infrastructure. North Korean hackers injected malicious code into 131 trusted AI libraries, while Chinese actors exploited newly disclosed vulnerabilities in under 24 hours.",
+    "engagement": "High",
+    "raw_text": "So check this out—if you thought AI was just helping people write code and make memes, think again because hackers are using AI to wage full-blown digital war! CrowdStrike just released their 2026 Threat Hunting Report, and the findings are absolutely terrifying. Cyber adversaries are now using AI as a force multiplier to target AI infrastructure directly. Here's the wild part: North Korean hacking groups managed to inject malicious code into 131 trusted AI software libraries, and Chinese-linked actors are now using AI to exploit software vulnerabilities in under 24 hours! Hackers aren't just attacking servers anymore; they're poisoning the very machine learning models and libraries companies rely on every day. CrowdStrike's CEO warned that organizations need to defend AI just as aggressively as they adopt it. Honestly, this is huge because the line between AI development and cybersecurity has officially blurred, and the AI arms race is getting dangerous!",
+    "id": "crwdthreat1",
+    "category": "Security",
+    "companies": [
+      "CrowdStrike"
+    ],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-07-31",
+    "source_file": "AI Research & Breakthroughs (6).pdf",
+    "page": 1,
+    "title": "ByteDance Breakthrough Gives AI Agents Long-Term Memory That Never Forgets!",
+    "summary": "Researchers from ByteDance and HKUST introduced ADAMM, a novel Retrieval and Analytic memory framework for multimodal AI agents. ADAMM extracts structured attribute-value data and performs real-time analytics over past interactions, achieving a 7% to 11% accuracy boost on long-term benchmark tasks.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—ByteDance and HKUST just solved one of the biggest problems with AI agents: terrible long-term memory! Right now, if you talk to an AI assistant over weeks or months, it starts forgetting context or gets completely bogged down trying to remember everything. Enter ADAMM! This new framework gives AI agents both retrieval and analytical memory, meaning the agent doesn't just store past chat history like a flat text file—it structures data into attribute-value pairs and runs real-time computations over it. Here's the wild part: on benchmark tests like MemEye and MemGallery, ADAMM delivered an incredible 7 to 11 percent performance boost over standard retrieval systems! That means future AI assistants will actually track your spending habits, health data, and daily routines over months without losing speed or hallucinating. Honestly, this is huge because giving AI a dynamic 'skill memory' brings us one step closer to truly intelligent personal AI companions!",
+    "id": "adammem2",
+    "category": "AI",
+    "companies": [
+      "ByteDance",
+      "HKUST"
+    ],
+    "people": [
+      "Zhoujin Tian"
+    ],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-08-03",
+    "source_file": "Filtered Daily Tech News Report (1).pdf",
+    "page": 8,
+    "title": "Google Activates IP-Based Ad Tracking Across EU—Testing GDPR Limits!",
+    "summary": "Effective August 3, 2026, Google activated a policy using user IP addresses for ad targeting and measurement across the EU, UK, and Switzerland under IAB Europe TCF Feature 3. Because IP addresses are classified as personal data under GDPR, Google is forcing explicit opt-in consent through website banners.",
+    "engagement": "High",
+    "raw_text": "So check this out—Google just made a major move in Europe that is going to change online privacy forever! As of August 3, 2026, Google is formally using your actual IP address to track, measure, and target advertisements across the EU, UK, and Switzerland. Why the sudden shift? Because standard web cookies are dying—browsers block them and users delete them. But an IP address is an un-deletable network requirement sent with every request! Here's the wild part: under GDPR law, your IP address counts as personal data, so Google is registering this under IAB Europe's tracking framework and bundling it into standard cookie banners. If you click 'Accept All' on a website, you are unknowingly opting into persistent network-level fingerprinting that you can't clear from your browser cache! Honestly, this is huge because Google is testing the absolute legal boundaries of European privacy law, and privacy regulators are furious!",
+    "id": "googipgdpr3",
+    "category": "Business",
+    "companies": [
+      "Google",
+      "IAB Europe"
+    ],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-07-29",
+    "source_file": "Filtered Daily Tech News Report (1).pdf",
+    "page": 6,
+    "title": "AI Flunks Enterprise Data Test: Every Frontier LLM Scored 0% on Complex Extraction!",
+    "summary": "Researchers published ExtractBench, an exhaustive evaluation framework analyzing LLM performance on complex schema-guided data extraction across 4,869 enterprise document pages. On a complex 369-field financial reporting schema, every single tested frontier model achieved a 0% valid output rate due to hallucination and array truncation.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—we all thought frontier AI models were getting hyper-intelligent, but a new benchmark called ExtractBench just exposed a massive dirty secret! Researchers evaluated top AI models on extracting complex data from 4,869 real-world enterprise documents, like SEC filings and legal agreements. Here's the wild part: when forced to extract data into a complex 369-field financial schema, EVERY SINGLE frontier model scored a literal 0 percent success rate! When faced with large schemas, AI models hallucinated numbers, broke JSON formatting, or randomly truncated lists. The research proved that single-pass LLM generation completely fails at deterministic corporate data work. The only architecture that actually worked was LlamaExtract Agentic Plus, which breaks extraction into multi-step agent pipelines. Honestly, this is huge for developers because it proves you can't just throw raw LLM prompts at heavy enterprise data without building multi-step agent scaffolding!",
+    "id": "extbench4",
+    "category": "AI",
+    "companies": [
+      "Meta"
+    ],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-05-11",
+    "source_file": "Filtered Daily Tech News Report (1).pdf",
+    "page": 7,
+    "title": "Brain-Like BCPNN Neural Networks Promise 'Interpretable-by-Design' AI for EU Compliance!",
+    "summary": "A landmark paper proposes Bayesian Confidence Propagation Neural Networks (BCPNN) as a transparent alternative to black-box deep learning for EU AI Act compliance. Utilizing biologically plausible Hebbian learning, BCPNN synaptic weights inherently calculate statistical probabilities, eliminating opaque backpropagation.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—with the EU AI Act taking full effect in August 2026, standard 'black-box' deep learning models are in huge legal trouble because nobody can explain how they make decisions! But researchers just published a groundbreaking paper proposing BCPNN—Bayesian Confidence Propagation Neural Networks. Unlike traditional AI that uses opaque scalar weights tuned by backpropagation, BCPNN uses brain-like Hebbian learning! Here's the wild part: every single connection in a BCPNN is mathematically guaranteed to represent exact statistical probabilities. The network doesn't need external explainability tools because the weights themselves ARE the explanation! Plus, it outputs calibrated confidence scores and runs on ultra-low-power edge chips like FPGAs. Honestly, this is huge for European tech companies because it gives developers a way to deploy compliant, brain-like AI without risking massive regulatory fines under Article 13 of the EU AI Act!",
+    "id": "bcpnneu5",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-08-03",
+    "source_file": "Filtered Daily Tech News Report (1).pdf",
+    "page": 2,
+    "title": "Index Ventures Raises $3.5 Billion AI Fund—After Co-Founder Warns Market Is Unsustainable!",
+    "summary": "Venture capital firm Index Ventures closed a $3.5 billion fund dedicated to generative AI, funded heavily by sovereign wealth funds like GIC and Mubadala. The mega-raise occurred shortly after the firm's co-founder publicly warned that the current trajectory of the AI market is fundamentally unsustainable.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—the hype in AI venture capital has reached peak insanity! Index Ventures just closed a massive $3.5 billion mega-fund specifically dedicated to generative AI and silicon infrastructure. But here's the wild part: this huge raise came right after Index's own co-founder publicly warned that the AI market's current trajectory is completely 'unsustainable'! So why are institutional investors still dumping billions in? Because sovereign wealth funds like Singapore's GIC and Abu Dhabi's Mubadala are backing these mega-funds, and they feel missing the AI platform shift is a far bigger risk than enduring an investment bubble! Traditional venture capital is getting priced out, leaving sovereign wealth to fund the multi-billion-dollar AI hardware race. Honestly, this is huge because even the investors writing giant $3.5B checks know we might be in an AI bubble, but no one wants to stop playing!",
+    "id": "indexvc6",
+    "category": "Business",
+    "companies": [
+      "Index Ventures",
+      "GIC",
+      "Mubadala"
+    ],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  },
+  {
+    "date": "2026-08-03",
+    "source_file": "Filtered Daily Tech News Report (1).pdf",
+    "page": 3,
+    "title": "US Visa Warning: EB-1 Green Cards for Indian Engineers Facing Immediate Freeze!",
+    "summary": "The US Department of State issued a warning in its August 2026 Visa Bulletin that the EB-1 Green Card category for Indian applicants is near exhaustion for the fiscal year. Exhaustion of the quota will result in an 'unauthorized' status, halting visa issuance for top AI researchers and semiconductor engineers.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—Silicon Valley is facing a massive crisis that could stall the entire US tech industry! The US Department of State just dropped an emergency warning in its August 2026 Visa Bulletin: the EB-1 Green Card category for Indian-born applicants is about to run completely out of visas before the fiscal year ends! The EB-1 visa is reserved for extraordinary talents, top AI researchers, and semiconductor engineers building next-gen silicon. Here's the wild part: if the limit is breached, the State Department will mark the category as 'unauthorized', instantly freezing all new visa approvals for top talent! With US tech giants dropping nearly a trillion dollars on AI infrastructure, immigration bottlenecks are threatening to starve Silicon Valley of the elite engineering workforce required to build it. Honestly, this is huge because foreign talent builds America's tech backbone, and this visa freeze could shift technological dominance overseas!",
+    "id": "eb1visafreeze7",
+    "category": "Business",
+    "companies": [
+      "US Department of State"
+    ],
+    "people": [],
+    "created_at": "2026-08-03T17:09:35Z"
+  }
+]
