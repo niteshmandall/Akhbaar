@@ -6,8 +6,8 @@
     "title": "Meta Drops Free 30B AI That Runs Locally on Your PC!",
     "summary": "Meta has released Muse Glimmer, an open-weight 30-billion-parameter AI model designed for agentic tasks. Through 4-bit quantization, it compresses to under 20GB, allowing it to run offline on consumer-grade GPUs.",
     "engagement": "High",
-    "raw_text": "So check this out, Meta just absolutely flipped the AI world upside down. They just dropped Muse Glimmer, a 30-billion-parameter AI agent, and here’s the wild part—it runs entirely offline on your standard PC or Mac! We’re not talking about some watered-down chatbot; this thing natively reads PDFs, looks at financial charts, and can even debug its own code if it makes a mistake. Honestly, this is huge because you don't need to pay crazy cloud subscription fees anymore. By squishing the model down to under 20 gigs using some insane 4-bit quantization wizardry, Meta is letting anyone with a decent RTX GPU or Apple Silicon run frontier-level AI right in their bedroom. This totally undercuts the big subscription models from their rivals. If you’ve been wanting a powerful AI assistant without worrying about internet connectivity or massive cloud bills, Meta just handed it to you for free!",
-    "id": "A1B2C3D4",
+    "raw_text": "So check this out, Meta just absolutely flipped the AI world upside down. They just dropped Muse Glimmer, a 30-billion-parameter AI agent, and here\u2019s the wild part\u2014it runs entirely offline on your standard PC or Mac! We\u2019re not talking about some watered-down chatbot; this thing natively reads PDFs, looks at financial charts, and can even debug its own code if it makes a mistake. Honestly, this is huge because you don't need to pay crazy cloud subscription fees anymore. By squishing the model down to under 20 gigs using some insane 4-bit quantization wizardry, Meta is letting anyone with a decent RTX GPU or Apple Silicon run frontier-level AI right in their bedroom. This totally undercuts the big subscription models from their rivals. If you\u2019ve been wanting a powerful AI assistant without worrying about internet connectivity or massive cloud bills, Meta just handed it to you for free!",
+    "id": "44a89157",
     "category": "AI",
     "companies": [
       "Meta",
@@ -16,7 +16,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/44a89157.png",
+    "image_prompt": "Realistic newsroom scene: a sleek desktop PC with a glowing GPU, subtle holographic AI circuit patterns reflecting on a desk, muted blue tech lighting, modern office background bokeh, photoreal, high detail, cinematic contrast, credible tech news mood, no text."
   },
   {
     "date": "2026-08-10",
@@ -25,8 +27,8 @@
     "title": "Zuckerberg's 6,500-Word Warning: US Must Embrace Open AI!",
     "summary": "Mark Zuckerberg published a 6,500-word essay framing open-weight AI as a geopolitical necessity to counter foreign technological advancements. He argues that stringent domestic regulations will cede global AI dominance to international competitors.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge. Mark Zuckerberg isn’t just dropping new AI models; he’s dropping massive geopolitical truth bombs. Along with Meta’s latest AI release, Zuck just published a monster 6,500-word manifesto, and he is not holding back. He explicitly warns that if Washington keeps clamping down on AI with heavy regulations, the US is going to hand global dominance straight to foreign developers like DeepSeek, Moonshot, and Alibaba. Here's the wild part: he’s framing open-source AI as a matter of absolute national security. Zuckerberg argues that by making American AI open and free for the world to use, it establishes US technology as the global standard. We are witnessing a massive power play where Meta is basically telling the government to let them build openly, or risk losing the entire AI race. Will regulators listen? I have no idea, but this is a massive shot across the bow!",
-    "id": "E5F6G7H8",
+    "raw_text": "Honestly, this is huge. Mark Zuckerberg isn\u2019t just dropping new AI models; he\u2019s dropping massive geopolitical truth bombs. Along with Meta\u2019s latest AI release, Zuck just published a monster 6,500-word manifesto, and he is not holding back. He explicitly warns that if Washington keeps clamping down on AI with heavy regulations, the US is going to hand global dominance straight to foreign developers like DeepSeek, Moonshot, and Alibaba. Here's the wild part: he\u2019s framing open-source AI as a matter of absolute national security. Zuckerberg argues that by making American AI open and free for the world to use, it establishes US technology as the global standard. We are witnessing a massive power play where Meta is basically telling the government to let them build openly, or risk losing the entire AI race. Will regulators listen? I have no idea, but this is a massive shot across the bow!",
+    "id": "c45fbcb4",
     "category": "Business",
     "companies": [
       "Meta",
@@ -37,40 +39,46 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/c45fbcb4.png",
+    "image_prompt": "Photoreal newsroom scene: Mark Zuckerberg at a large desk, serious expression, holographic globe and open-weight AI circuits swirling behind him, US flag softly lit, dramatic cinematic lighting, shallow depth of field, high detail, natural colors, newsworthy realism, no text."
   },
   {
     "date": "2026-08-11",
     "source_file": "Daily Tech News Report (2).pdf",
     "page": 2,
-    "title": "NVIDIA’s New AI Model Completes Tasks 30% Faster!",
+    "title": "NVIDIA\u2019s New AI Model Completes Tasks 30% Faster!",
     "summary": "NVIDIA launched Nemotron 3.5 Lightning, a 30-billion-parameter Mixture-of-Experts model. It activates only 3 billion parameters per token, achieving an 86% accuracy rate on agentic evaluations while running significantly faster than competitors.",
     "engagement": "Medium",
-    "raw_text": "Okay developers, you are going to want to hear this. NVIDIA just introduced Nemotron 3.5 Lightning, and it is a total beast for long-running AI agents. So here's the deal: constantly running giant AI models for basic background tasks is just burning money. NVIDIA solved this by building a 30-billion-parameter model using a highly sophisticated Mixture-of-Experts architecture. What does that mean? It means when the AI is thinking, it only actually uses about 3 billion of those parameters at a time! This gives you the brainpower of a massive model but the speed and cost of a much smaller one. In fact, it's crushing benchmarks, completing 10,000 tasks 30% faster than other models its size with an impressive 86% accuracy rate. If you're building autonomous agents that need to run 24/7 without bankrupting you on compute costs, Nemotron 3.5 Lightning is exactly what you’ve been waiting for.",
-    "id": "I9J0K1L2",
+    "raw_text": "Okay developers, you are going to want to hear this. NVIDIA just introduced Nemotron 3.5 Lightning, and it is a total beast for long-running AI agents. So here's the deal: constantly running giant AI models for basic background tasks is just burning money. NVIDIA solved this by building a 30-billion-parameter model using a highly sophisticated Mixture-of-Experts architecture. What does that mean? It means when the AI is thinking, it only actually uses about 3 billion of those parameters at a time! This gives you the brainpower of a massive model but the speed and cost of a much smaller one. In fact, it's crushing benchmarks, completing 10,000 tasks 30% faster than other models its size with an impressive 86% accuracy rate. If you're building autonomous agents that need to run 24/7 without bankrupting you on compute costs, Nemotron 3.5 Lightning is exactly what you\u2019ve been waiting for.",
+    "id": "ef9d119e",
     "category": "AI",
     "companies": [
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/ef9d119e.png",
+    "image_prompt": "Photorealistic tech newsroom scene: sleek NVIDIA-style data center glow, a hovering holographic AI core labeled by visual light only, circuits forming a \u201clightning\u201d arc, motion blur for 30% faster speed, scientists in background, dramatic cinematic lighting, high detail, realistic depth of field."
   },
   {
     "date": "2026-08-11",
     "source_file": "Daily Tech News Report (2).pdf",
     "page": 3,
-    "title": "NVIDIA’s Switchyard Slashes AI Compute Costs by 74%!",
+    "title": "NVIDIA\u2019s Switchyard Slashes AI Compute Costs by 74%!",
     "summary": "NVIDIA released NeMo Switchyard, an open-source model routing library that dynamically allocates tasks between frontier models and specialized ones. This 'System of Models' architecture reduces overall enterprise compute costs by up to 74%.",
     "engagement": "Medium",
-    "raw_text": "We all know AI API bills can get out of control quickly, but NVIDIA just dropped a potential lifesaver called NeMo Switchyard. Imagine having a super-smart manager for your AI that automatically decides which model is best for a specific task. That's exactly what Switchyard does. Instead of sending every single basic request to a massive, expensive frontier model, this open-source router analyzes the complexity of the incoming query. If it's a simple task, it sends it down to a smaller model; if it's complex, it escalates it to the big guns. The results are absolutely insane—benchmarks show a 74% reduction in overall compute costs while maintaining peak accuracy! Infrastructure companies like Boomi are already using it and seeing massive latency drops. This means the era of relying on one giant monolithic AI is officially over; the future is a smart 'System of Models' working together.",
-    "id": "M3N4O5P6",
+    "raw_text": "We all know AI API bills can get out of control quickly, but NVIDIA just dropped a potential lifesaver called NeMo Switchyard. Imagine having a super-smart manager for your AI that automatically decides which model is best for a specific task. That's exactly what Switchyard does. Instead of sending every single basic request to a massive, expensive frontier model, this open-source router analyzes the complexity of the incoming query. If it's a simple task, it sends it down to a smaller model; if it's complex, it escalates it to the big guns. The results are absolutely insane\u2014benchmarks show a 74% reduction in overall compute costs while maintaining peak accuracy! Infrastructure companies like Boomi are already using it and seeing massive latency drops. This means the era of relying on one giant monolithic AI is officially over; the future is a smart 'System of Models' working together.",
+    "id": "6976467f",
     "category": "Developer Tools",
     "companies": [
       "NVIDIA",
       "Boomi"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/6976467f.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek data center interior with glowing AI switchboard network, dynamic flowing light paths between \u201cfrontier\u201d and specialized model nodes, subtle holographic routing lines converging, futuristic GPUs, cool blue-green palette, dramatic lighting, realistic depth of field, no text."
   },
   {
     "date": "2026-08-10",
@@ -80,7 +88,7 @@
     "summary": "Microsoft is finalizing the release of its custom Maia 300 AI accelerator and negotiating with TSMC for the production of over 300,000 units by 2027. This aggressive expansion aims to reduce Microsoft's reliance on third-party GPU providers.",
     "engagement": "Medium",
     "raw_text": "Is the NVIDIA hardware monopoly finally cracking? Microsoft is making a massive power play with their upcoming Maia 300 AI chips, and they mean serious business. We're talking about a 3-nanometer architecture with over 140 billion transistors built specifically for rapid AI inference workloads. Microsoft is so serious about this that they are actively negotiating with TSMC to lock down precious foundry capacity for over 300,000 of these custom chips by 2027! For years, cloud giants have been totally at the mercy of third-party GPU pricing and constraints, but by building their own custom silicon, Microsoft wants to drastically lower the cost of running AI on Azure. The real challenge now is convincing major third-party AI research labs to switch their massive workloads over to the Maia ecosystem. If Microsoft can pull this off, it could fundamentally change the economics of the entire cloud computing industry.",
-    "id": "Q7R8S9T0",
+    "id": "70e02e7d",
     "category": "Hardware",
     "companies": [
       "Microsoft",
@@ -90,7 +98,9 @@
       "Alphabet"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/70e02e7d.png",
+    "image_prompt": "Cinematic newsroom-style tech image: sleek server racks with glowing AI chip modules labeled Maia-like (no text), dual-tone blue/green lighting, subtle TSMC wafer silhouettes in background, confident Microsoft-to-NVIDIA rivalry mood, shallow depth of field, ultra-realistic, high detail, news photo quality."
   },
   {
     "date": "2026-08-11",
@@ -99,15 +109,17 @@
     "title": "The Rise of 'Physical AI': Robots Getting Smarter!",
     "summary": "GlobalLogic has launched a Physical AI Demo Zone in Krakow, Poland, integrating multi-agent systems with operational technology. The facility focuses on deploying autonomous drones, predictive maintenance, and synthetic data simulations for industrial robotics.",
     "engagement": "Low",
-    "raw_text": "We talk a lot about AI writing emails and generating images, but what happens when AI gets a physical body? GlobalLogic just opened a massive Demo Zone in Poland dedicated entirely to 'Physical AI'. We're talking about bridging the massive gap between digital IT software and physical industrial operations. Imagine fully autonomous drones inspecting critical energy grids or smart robotics on a factory floor that can learn and adapt in real-time. What’s really cool is they use synthetic data to create highly accurate 'digital twins' of complex physical systems. This means AI agents can simulate thousands of scenarios and learn from mistakes in a virtual world before their code ever touches a real machine. While it might sound like a bunch of B2B jargon, this is the crucial first step toward bringing intelligent, autonomous robotics safely into our everyday physical world.",
-    "id": "U1V2W3X4",
+    "raw_text": "We talk a lot about AI writing emails and generating images, but what happens when AI gets a physical body? GlobalLogic just opened a massive Demo Zone in Poland dedicated entirely to 'Physical AI'. We're talking about bridging the massive gap between digital IT software and physical industrial operations. Imagine fully autonomous drones inspecting critical energy grids or smart robotics on a factory floor that can learn and adapt in real-time. What\u2019s really cool is they use synthetic data to create highly accurate 'digital twins' of complex physical systems. This means AI agents can simulate thousands of scenarios and learn from mistakes in a virtual world before their code ever touches a real machine. While it might sound like a bunch of B2B jargon, this is the crucial first step toward bringing intelligent, autonomous robotics safely into our everyday physical world.",
+    "id": "c2cf7369",
     "category": "Business",
     "companies": [
       "GlobalLogic",
       "Hitachi Group"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/c2cf7369.png",
+    "image_prompt": "Cinematic newsroom-style photo of a modern Physical AI Demo Zone in Krakow: sleek industrial drones hovering above robotic cells, engineers in lab coats monitoring holographic multi-agent interfaces, glowing servers and sensors, clean tech lighting, realistic detail, high contrast, sharp focus, natural depth of field."
   },
   {
     "date": "2026-08-11",
@@ -116,15 +128,17 @@
     "title": "How Governments Are Finally Using AI Safely!",
     "summary": "Danish software provider cBrain introduced F2 AI Case Preparation, using vector-based information retrieval to securely process massive government datasets. This on-premises solution drastically reduces context windows and AI computing costs while maintaining strict data sovereignty.",
     "engagement": "Low",
-    "raw_text": "You might be wondering why your local government isn't using AI to speed up all that awful bureaucracy. Well, the main problem has always been data security and the sheer massive size of legal documents. But a Danish company called cBrain just figured out a massive workaround with their new F2 AI Case Preparation tool. Instead of sending millions of sensitive, classified government documents to a cloud AI—which is a massive security risk and incredibly expensive—they bring the AI to the data. By using vector-based semantic search on local servers, the system mathematically ranks and filters only the exact information needed before the AI even looks at it. This keeps everything perfectly private and massively cuts down on processing latency. They even proved it works with the State of California! It's not the flashiest tech, but this is exactly how we get faster, more efficient government services.",
-    "id": "Y5Z6A7B8",
+    "raw_text": "You might be wondering why your local government isn't using AI to speed up all that awful bureaucracy. Well, the main problem has always been data security and the sheer massive size of legal documents. But a Danish company called cBrain just figured out a massive workaround with their new F2 AI Case Preparation tool. Instead of sending millions of sensitive, classified government documents to a cloud AI\u2014which is a massive security risk and incredibly expensive\u2014they bring the AI to the data. By using vector-based semantic search on local servers, the system mathematically ranks and filters only the exact information needed before the AI even looks at it. This keeps everything perfectly private and massively cuts down on processing latency. They even proved it works with the State of California! It's not the flashiest tech, but this is exactly how we get faster, more efficient government services.",
+    "id": "30804d41",
     "category": "Business",
     "companies": [
       "cBrain",
       "State of California"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/30804d41.png",
+    "image_prompt": "Realistic news photo: Danish government tech hub, on\u2011prem server racks with soft blue lights, secure data center glow, subtle AI circuitry overlay, engineers in suits monitoring holographic vector data, calm credible mood, high detail, natural lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-08-11",
@@ -133,30 +147,34 @@
     "title": "AI is Saving Doctors 3 Weeks a Year in India!",
     "summary": "The Philips Future Health Index 2026 reveals that AI integration is significantly expanding clinical capacity in India. Survey data shows 71% of healthcare professionals attribute a direct increase in patient capacity to AI, saving an average of 132 administrative hours annually.",
     "engagement": "Medium",
-    "raw_text": "Here is some actual, real-world proof that AI is doing good for humanity. The latest Philips Future Health Index for 2026 just dropped, and the empirical data out of India is absolutely staggering. We aren't just talking about theories; 71% of doctors surveyed said AI has directly allowed them to treat more patients—up to 10 extra patients a week on average! By using AI to heavily automate things like medical charting and diagnostic scheduling, healthcare professionals are saving an average of 132 hours a year. That is three full working weeks of time given back to doctors! And the best part? It's making medicine more human. Fully 75% of them stated that because AI handles the boring digital bureaucracy, they can actually focus on having meaningful, empathetic conversations with their patients. In a country with strained medical infrastructure, AI is literally expanding capacity and improving care.",
-    "id": "C9D0E1F2",
+    "raw_text": "Here is some actual, real-world proof that AI is doing good for humanity. The latest Philips Future Health Index for 2026 just dropped, and the empirical data out of India is absolutely staggering. We aren't just talking about theories; 71% of doctors surveyed said AI has directly allowed them to treat more patients\u2014up to 10 extra patients a week on average! By using AI to heavily automate things like medical charting and diagnostic scheduling, healthcare professionals are saving an average of 132 hours a year. That is three full working weeks of time given back to doctors! And the best part? It's making medicine more human. Fully 75% of them stated that because AI handles the boring digital bureaucracy, they can actually focus on having meaningful, empathetic conversations with their patients. In a country with strained medical infrastructure, AI is literally expanding capacity and improving care.",
+    "id": "b1212581",
     "category": "Science",
     "companies": [
       "Philips"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/b1212581.png",
+    "image_prompt": "Photorealistic newsroom photo: Indian doctor in modern clinic reviewing patient data on a tablet, AI hologram-style light overlay, hospital hallway with staff, subtle futuristic tech cues, optimistic mood, natural lighting, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-08-11",
     "source_file": "Daily Tech News Report (2).pdf",
     "page": 6,
-    "title": "OpenAI’s New Cyber Model Hits 95% Exploit Rate!",
+    "title": "OpenAI\u2019s New Cyber Model Hits 95% Exploit Rate!",
     "summary": "Industry reports indicate that OpenAI's specialized cyber model has reached a 95% capability rate for specific operational requests. This highlights a growing intersection between frontier AI models and advanced cybersecurity infrastructure.",
     "engagement": "High",
-    "raw_text": "So check this out, things in the AI cybersecurity space just got incredibly intense. According to newly cited industry reports, OpenAI's specialized cyber model has reached a staggering 95% capability rate! While everyone online is talking about consumer chatbots and image generators, the real, high-stakes arms race is happening in cybersecurity. A model operating at 95% efficiency for cyber tasks could fundamentally change how organizations defend—and potentially probe—digital infrastructure. It makes total sense why there is so much pressure in the AI industry right now regarding open versus closed weights. We are witnessing a massive power play where models are becoming insanely capable at highly sensitive tasks. If a cyber model this powerful gets fully integrated into enterprise defense systems, it could be the ultimate weapon for stopping threats in real-time!",
-    "id": "G3H4I5J6",
+    "raw_text": "So check this out, things in the AI cybersecurity space just got incredibly intense. According to newly cited industry reports, OpenAI's specialized cyber model has reached a staggering 95% capability rate! While everyone online is talking about consumer chatbots and image generators, the real, high-stakes arms race is happening in cybersecurity. A model operating at 95% efficiency for cyber tasks could fundamentally change how organizations defend\u2014and potentially probe\u2014digital infrastructure. It makes total sense why there is so much pressure in the AI industry right now regarding open versus closed weights. We are witnessing a massive power play where models are becoming insanely capable at highly sensitive tasks. If a cyber model this powerful gets fully integrated into enterprise defense systems, it could be the ultimate weapon for stopping threats in real-time!",
+    "id": "6611ef29",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/6611ef29.png",
+    "image_prompt": "Photorealistic newsroom scene: a cybersecurity analyst at dual monitors with glowing network maps, code-like light trails, and a holographic AI core. Dark, high-tech atmosphere, cool blue tones, cinematic lighting, shallow depth of field, ultra-detailed, realistic, no text."
   },
   {
     "date": "2026-08-11",
@@ -166,13 +184,15 @@
     "summary": "Supermicro has launched the Super AI Station platform, integrating the new NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip. This hardware combination delivers 20 PFLOPS of local AI performance directly to enterprise workstations.",
     "engagement": "Medium",
     "raw_text": "If you thought your gaming PC was powerful, wait until you hear about the absolute monster that Supermicro and NVIDIA just unveiled. Say hello to the Super AI Station, quite literally a localized supercomputer designed to sit right on an enterprise desk! Powered by the newly announced NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip, this machine is an absolute unit. This isn't built for rendering video games; it is explicitly engineered to deliver a mind-blowing 20 PFLOPS of local AI performance. This means enterprises can run massive, long-running agentic AI workflows directly in their offices without constantly sending sensitive data back and forth to expensive cloud servers. Honestly, the amount of raw compute power they are squeezing into a localized desktop platform is mind-blowing. The era of the personal AI supercomputer is officially here, and it's going to change how companies build AI!",
-    "id": "K7L8M9N0",
+    "id": "d59bc474",
     "category": "Hardware",
     "companies": [
       "Supermicro",
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-08-11T20:50:57.000Z"
+    "created_at": "2026-08-11T20:50:57.000Z",
+    "image_url": "images/12_08_26/d59bc474.png",
+    "image_prompt": "Realistic high-tech newsroom-style photo: compact desk workstation featuring a sleek Supermicro-inspired server module with liquid-cooling glow, subtle NVIDIA-like blue light accents, visible GPU heat sink detail, modern enterprise office background, crisp lighting, shallow depth of field, 8K, vivid, no text."
   }
 ]
