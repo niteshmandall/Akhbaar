@@ -6,7 +6,7 @@
     "title": "Zero Hallucinations? Galiark Launches Mobius Deterministic Engine for Enterprise AI",
     "summary": "Galiark Corporation has launched Mobius, a deterministic reasoning engine designed to run alongside probabilistic language models in enterprise environments. The system executes fixed rules and includes an automated human-escalation protocol whenever evidentiary proof is inconclusive.",
     "engagement": "Medium",
-    "raw_text": "So check this out! We all know AI hallucinations are a massive headache, right? Well, Galiark just dropped something called the Mobius Engine, and honestly, this is huge for enterprise tech. Instead of relying on random probabilistic guesses like ChatGPT, Mobius is a deterministic reasoning engine. What does that actually mean? It means if you put in the exact same rules and evidence, you get the exact same answer every single time—zero hallucinations! They're targeting heavy-duty industries like healthcare, finance, and defense where making a statistical guess can literally get someone sued or hurt. It works alongside existing AI models, building a live world-model of an entire company. Here’s the wild part: if the evidence isn't 100% conclusive, Mobius doesn't just make stuff up. It immediately stops and hands the decision over to a real human operator. For a global AI market pushing toward two trillion dollars, solving the trust problem like this is a total game changer. I think we're going to see every major bank jumping on this deterministic trend super fast!",
+    "raw_text": "So check this out! We all know AI hallucinations are a massive headache, right? Well, Galiark just dropped something called the Mobius Engine, and honestly, this is huge for enterprise tech. Instead of relying on random probabilistic guesses like ChatGPT, Mobius is a deterministic reasoning engine. What does that actually mean? It means if you put in the exact same rules and evidence, you get the exact same answer every single time\u2014zero hallucinations! They're targeting heavy-duty industries like healthcare, finance, and defense where making a statistical guess can literally get someone sued or hurt. It works alongside existing AI models, building a live world-model of an entire company. Here\u2019s the wild part: if the evidence isn't 100% conclusive, Mobius doesn't just make stuff up. It immediately stops and hands the decision over to a real human operator. For a global AI market pushing toward two trillion dollars, solving the trust problem like this is a total game changer. I think we're going to see every major bank jumping on this deterministic trend super fast!",
     "id": "gal_mobius_9821",
     "category": "AI",
     "companies": [
@@ -17,7 +17,9 @@
       "Jason Scott",
       "Thomas Bennett"
     ],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/gal_mobius_9821.png",
+    "image_prompt": "Realistic newsroom photo style: a tech executive at a glass control room overlooking a holographic flowchart labeled by icons (no text). Dual-engine concept\u2014deterministic grid alongside probabilistic network\u2014plus a subtle human escalation pathway. Cool corporate lighting, high detail, newsworthy mood, 16:9."
   },
   {
     "date": "2026-08-13",
@@ -26,7 +28,7 @@
     "title": "Okta Slashes Enterprise AI Token Costs by 90% with Identity-Scoped MCP",
     "summary": "Identity provider Okta introduced identity-scoped Model Context Protocol (MCP) filtering to reduce enterprise prompt token overhead and eliminate security risks. The system filters available API tools based on user OAuth entitlements before prompts are sent to foundational models.",
     "engagement": "Medium",
-    "raw_text": "Here's a massive shift happening behind the scenes in enterprise AI cybersecurity! Okta just launched identity-scoped filtering for the Model Context Protocol, and it’s going to save companies millions in AI token costs. You see, whenever an AI agent connects to enterprise tools, the server usually feeds every single tool description into the prompt context window. Okta calls this the 'tool tax'—and it wastes a ton of money because you pay per token! But with Okta’s new tech, tools are filtered based on user permissions before the prompt ever hits the model. In testing, this cut unnecessary tool tokens by over 90%! Here's the wild part: it also solves a massive security nightmare. If an AI agent only sees the tools it's authorized to use, hacker prompt injection attacks can't trick it into accessing sensitive HR or financial databases. Companies like Airia are doubling down on this too with real-time security runbooks. It's not the flashy consumer stuff, but this security layer is what's making real enterprise AI possible!",
+    "raw_text": "Here's a massive shift happening behind the scenes in enterprise AI cybersecurity! Okta just launched identity-scoped filtering for the Model Context Protocol, and it\u2019s going to save companies millions in AI token costs. You see, whenever an AI agent connects to enterprise tools, the server usually feeds every single tool description into the prompt context window. Okta calls this the 'tool tax'\u2014and it wastes a ton of money because you pay per token! But with Okta\u2019s new tech, tools are filtered based on user permissions before the prompt ever hits the model. In testing, this cut unnecessary tool tokens by over 90%! Here's the wild part: it also solves a massive security nightmare. If an AI agent only sees the tools it's authorized to use, hacker prompt injection attacks can't trick it into accessing sensitive HR or financial databases. Companies like Airia are doubling down on this too with real-time security runbooks. It's not the flashy consumer stuff, but this security layer is what's making real enterprise AI possible!",
     "id": "okta_mcp_3341",
     "category": "Cybersecurity",
     "companies": [
@@ -34,7 +36,9 @@
       "Airia"
     ],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/okta_mcp_3341.png",
+    "image_prompt": "Futuristic newsroom tech illustration: a central secure gateway with glowing identity tokens flowing through an MCP filter, branching into shielded tool icons, reducing token streams into a bright \u201c90% drop\u201d style visual (no text). High-contrast, corporate, realistic, blue/teal glow, sharp detail."
   },
   {
     "date": "2026-08-13",
@@ -48,7 +52,9 @@
     "category": "Policy",
     "companies": [],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/aus_policy_7712.png",
+    "image_prompt": "Realistic high-rise cityscape of Sydney at dusk, sleek hyperscale data center towers with solar panels and wind turbines in foreground, dramatic skyline lighting, subtle electrical lines integrating renewables, government-style compliance atmosphere, cinematic photojournalism, sharp detail, no text, no logos."
   },
   {
     "date": "2026-08-13",
@@ -57,12 +63,14 @@
     "title": "South Korea Automates Shipping Ports in Massive 'Physical AI' Push",
     "summary": "South Korea unveiled its national 'Physical AI' strategy, deploying autonomous judgment algorithms directly into industrial hardware and logistics hubs. The policy designates Gwangyang Port and Jinhae New Port as primary testbeds to combat severe domestic labor shortages.",
     "engagement": "Medium",
-    "raw_text": "South Korea is making a massive, multi-billion-dollar bet on physical AI, and it’s mind-blowing! Facing critical demographic labor shortages, the Korean government just launched a national strategy to build autonomous 'Physical AI'—AI that makes real-time decisions and takes physical action in the real world. So check this out: they are converting Gwangyang and Jinhae ports into full-scale testbeds for fully autonomous maritime shipping and cargo handling! We're talking AI-driven cranes, automated cargo handlers, and smart logistics systems operating whole shipping ports with minimal human intervention. While everyone else is focused on software chatbots, South Korea is focusing on physical industrial heavy lifting. Here’s the wild part: they want to become the dominant global exporter of automated physical AI infrastructure. If this port automation experiment works, it could redefine global supply chains and heavy manufacturing forever. It really feels like we're stepping into a sci-fi film where machines handle all physical labor!",
+    "raw_text": "South Korea is making a massive, multi-billion-dollar bet on physical AI, and it\u2019s mind-blowing! Facing critical demographic labor shortages, the Korean government just launched a national strategy to build autonomous 'Physical AI'\u2014AI that makes real-time decisions and takes physical action in the real world. So check this out: they are converting Gwangyang and Jinhae ports into full-scale testbeds for fully autonomous maritime shipping and cargo handling! We're talking AI-driven cranes, automated cargo handlers, and smart logistics systems operating whole shipping ports with minimal human intervention. While everyone else is focused on software chatbots, South Korea is focusing on physical industrial heavy lifting. Here\u2019s the wild part: they want to become the dominant global exporter of automated physical AI infrastructure. If this port automation experiment works, it could redefine global supply chains and heavy manufacturing forever. It really feels like we're stepping into a sci-fi film where machines handle all physical labor!",
     "id": "sk_port_ai_8832",
     "category": "Robotics",
     "companies": [],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/sk_port_ai_8832.png",
+    "image_prompt": "Ultra-realistic news photo, dusk at Gwangyang Port: autonomous robotic cranes and guided vehicles moving in coordinated lanes, glowing sensors and AI-guided control systems integrated into industrial machinery, hazy harbor skyline, workers in safety gear observing from a distance, dramatic lighting, high detail, cinematic, no text."
   },
   {
     "date": "2026-08-13",
@@ -71,14 +79,16 @@
     "title": "Thrive Holdings Raises $2 Billion to Replace White-Collar Service Firms with AI",
     "summary": "Thrive Holdings secured $2 billion in capital to acquire traditional professional services firms like legal discovery and HR consultancies. The holding firm plans to replace human billable labor with autonomous AI agents, establishing a 'Service-as-Software' economic model.",
     "engagement": "Low",
-    "raw_text": "So check this out! Private equity is pivoting into AI in a crazy new way. Thrive Holdings just raised a whopping 2 billion dollars, but they aren't building LLMs or consumer apps. Instead, they are buying up traditional, human-intensive professional services firms—like legal discovery agencies, financial auditors, and HR consultants—and completely replacing their white-collar staff with autonomous AI agents! This new business model is called 'Service-as-Software.' Instead of selling software subscriptions to companies, Thrive buys the company itself, cuts human billable hours down to near zero using AI, and skyrockets profit margins. Here's the wild part: they can undercut legacy competitors on price while making way higher profits because algorithmic execution costs almost nothing compared to human salaries. Investors are realizing that the biggest immediate ROI for AI isn't generating funny pictures, but systematically automating white-collar corporate work. Is your job safe from this kind of PE takeover? Let me know!",
+    "raw_text": "So check this out! Private equity is pivoting into AI in a crazy new way. Thrive Holdings just raised a whopping 2 billion dollars, but they aren't building LLMs or consumer apps. Instead, they are buying up traditional, human-intensive professional services firms\u2014like legal discovery agencies, financial auditors, and HR consultants\u2014and completely replacing their white-collar staff with autonomous AI agents! This new business model is called 'Service-as-Software.' Instead of selling software subscriptions to companies, Thrive buys the company itself, cuts human billable hours down to near zero using AI, and skyrockets profit margins. Here's the wild part: they can undercut legacy competitors on price while making way higher profits because algorithmic execution costs almost nothing compared to human salaries. Investors are realizing that the biggest immediate ROI for AI isn't generating funny pictures, but systematically automating white-collar corporate work. Is your job safe from this kind of PE takeover? Let me know!",
     "id": "thrive_saas_2041",
     "category": "Business",
     "companies": [
       "Thrive Holdings"
     ],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/thrive_saas_2041.png",
+    "image_prompt": "Photorealistic news image: modern corporate boardroom at dusk, sleek executives silhouettes, holographic AI circuit overlay replacing paper contracts, server racks glowing, subtle humanoid robot hands near business documents, dramatic lighting, high detail, realistic, no text, 16:9."
   },
   {
     "date": "2026-08-13",
@@ -87,7 +97,7 @@
     "title": "AI Coding Market Explodes: Cognition Eyes $40B Valuation, Lovable Hits $13.3B",
     "summary": "AI software engineering agent startup Cognition is negotiating a funding round at a $40 billion valuation, while competitor Lovable achieved a $13.3 billion valuation after reaching $500 million ARR. Concurrently, automated code-testing firm Blacksmith experienced a 10x valuation surge.",
     "engagement": "High",
-    "raw_text": "Okay, you guys need to see these mind-blowing numbers in the AI dev world! Cognition—the team behind Devon, the autonomous coding agent—is in talks to raise funds at a staggering 40 billion dollar valuation! But wait, it gets crazier. Another AI dev platform called Lovable just hit a 13.3 billion dollar valuation after reaching 500 million dollars in annualized revenue. Plus, code-testing startup Blacksmith just saw their valuation explode tenfold in less than a year! So what is actually happening here? Wall Street and Silicon Valley aren't just betting on AI assistants anymore; they are betting that autonomous coding agents will straight-up replace entire offshore engineering teams. Developers are generating code faster than humans can even read it, which is why testing tools like Blacksmith are booming too. Honestly, if you're writing code or studying software engineering right now, you need to be paying attention. AI coding isn't just a gimmick anymore; it's absorbing hundreds of millions of enterprise software dollars at record speed. Let me know what you think in the comments!",
+    "raw_text": "Okay, you guys need to see these mind-blowing numbers in the AI dev world! Cognition\u2014the team behind Devon, the autonomous coding agent\u2014is in talks to raise funds at a staggering 40 billion dollar valuation! But wait, it gets crazier. Another AI dev platform called Lovable just hit a 13.3 billion dollar valuation after reaching 500 million dollars in annualized revenue. Plus, code-testing startup Blacksmith just saw their valuation explode tenfold in less than a year! So what is actually happening here? Wall Street and Silicon Valley aren't just betting on AI assistants anymore; they are betting that autonomous coding agents will straight-up replace entire offshore engineering teams. Developers are generating code faster than humans can even read it, which is why testing tools like Blacksmith are booming too. Honestly, if you're writing code or studying software engineering right now, you need to be paying attention. AI coding isn't just a gimmick anymore; it's absorbing hundreds of millions of enterprise software dollars at record speed. Let me know what you think in the comments!",
     "id": "dev_ai_40b_9102",
     "category": "AI",
     "companies": [
@@ -96,7 +106,9 @@
       "Blacksmith"
     ],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/dev_ai_40b_9102.png",
+    "image_prompt": "Futuristic newsroom scene with glowing holographic code streams and AI agents; center stage a subtle tech founder silhouette at a giant valuation dashboard, background investor silhouettes, upward stock graph light trails, sleek server racks, dramatic blue-orange lighting, realistic photojournalism, no text."
   },
   {
     "date": "2026-08-13",
@@ -105,7 +117,7 @@
     "title": "Amazon Will Train AI on Twitch Streamers by Default, Exec Admits 'Nobody Would Opt In'",
     "summary": "Amazon announced that Twitch streams will be harvested to train its foundational AI models by default, causing public controversy. Twitch Chief Product Officer Mike Minton defended the default opt-out stance on air, stating users would refuse if given an explicit opt-in choice.",
     "engagement": "High",
-    "raw_text": "So check this out, because Twitch streamers are about to be furious! Amazon officially announced that they are going to start harvesting and training their AI models on Twitch stream content by default. That's right, every emote, commentary, and live reaction is becoming AI training fodder. And here’s the wild part: Twitch’s Chief Product Officer, Mike Minton, actually went on a livestream and admitted, 'If this was opt-in, nobody would opt in. That's honestly the truth.' I mean, talk about saying the quiet part out loud! Amazon knows creators would say no, so they just turned it on for everyone anyway. Why are they doing this? Because the web is overflowing with fake, synthetic AI trash, and real human video interaction is like gold dust for training next-gen AI models. Honestly, this is such a shady move, and it's going to spark massive pushback from the streaming community. Creators spend thousands of hours building their personal brand, only to have Amazon siphon it into their LLMs. What do you guys think? Is this totally unethical?",
+    "raw_text": "So check this out, because Twitch streamers are about to be furious! Amazon officially announced that they are going to start harvesting and training their AI models on Twitch stream content by default. That's right, every emote, commentary, and live reaction is becoming AI training fodder. And here\u2019s the wild part: Twitch\u2019s Chief Product Officer, Mike Minton, actually went on a livestream and admitted, 'If this was opt-in, nobody would opt in. That's honestly the truth.' I mean, talk about saying the quiet part out loud! Amazon knows creators would say no, so they just turned it on for everyone anyway. Why are they doing this? Because the web is overflowing with fake, synthetic AI trash, and real human video interaction is like gold dust for training next-gen AI models. Honestly, this is such a shady move, and it's going to spark massive pushback from the streaming community. Creators spend thousands of hours building their personal brand, only to have Amazon siphon it into their LLMs. What do you guys think? Is this totally unethical?",
     "id": "twitch_ai_6619",
     "category": "AI",
     "companies": [
@@ -115,7 +127,9 @@
     "people": [
       "Mike Minton"
     ],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/twitch_ai_6619.png",
+    "image_prompt": "Realistic high-quality newsroom-style photo: Amazon exec at podium, wary Twitch streamer in front of gaming PC with twitch-like lights, blurred background of streaming avatars, laptop screens glowing with abstract AI data, tense controversial mood, cool blue/red lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-08-13",
@@ -124,14 +138,16 @@
     "title": "The End of Free AI: Alibaba to Charge Enterprises for Open-Source Models",
     "summary": "Alibaba announced plans to begin charging large commercial enterprise users for its next iteration of open-source AI models. The policy shift marks a transition away from subsidized open-weight loss-leaders as compute training costs escalate globally.",
     "engagement": "Medium",
-    "raw_text": "Big news for the open-source AI community, and honestly, it marks the end of an era! Alibaba has officially announced that it will start charging large enterprise customers to use its next generation of open-source AI models. For years, tech giants gave away open-weight models for free as a strategy to capture developer market share. But here’s the wild part: training frontier AI models now costs tens of millions of dollars per run, and companies can't just burn cash forever! Alibaba is introducing a tiered system where researchers and hobbyists can still use models for free, but if you're a big business running commercial workloads, you've gotta pay up. This is a massive shift in AI economics. The era of getting state-of-the-art open-source AI for free in enterprise production is officially over. Other tech companies are definitely going to follow Alibaba's lead here. How do you think this will impact independent developers and small startups?",
+    "raw_text": "Big news for the open-source AI community, and honestly, it marks the end of an era! Alibaba has officially announced that it will start charging large enterprise customers to use its next generation of open-source AI models. For years, tech giants gave away open-weight models for free as a strategy to capture developer market share. But here\u2019s the wild part: training frontier AI models now costs tens of millions of dollars per run, and companies can't just burn cash forever! Alibaba is introducing a tiered system where researchers and hobbyists can still use models for free, but if you're a big business running commercial workloads, you've gotta pay up. This is a massive shift in AI economics. The era of getting state-of-the-art open-source AI for free in enterprise production is officially over. Other tech companies are definitely going to follow Alibaba's lead here. How do you think this will impact independent developers and small startups?",
     "id": "ali_open_5541",
     "category": "AI",
     "companies": [
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/ali_open_5541.png",
+    "image_prompt": "Futuristic newsroom scene with a subtle Asian tech skyline; a large server room window glowing, silhouetted engineers in front of racks, cool blue lighting, realistic HDR, shallow depth of field, tense corporate mood, emphasis on \u201ccompute cost\u201d via visible cables and cooling fans, no text."
   },
   {
     "date": "2026-08-13",
@@ -140,14 +156,16 @@
     "title": "Honor Unveils World's First 'Robot Phone' with Motorized Mechanical Arm",
     "summary": "Hardware manufacturer Honor announced the August 2026 launch of its 'Robot Phone' featuring an integrated titanium alloy mechanical arm. The device incorporates a 200MP gimbal camera capable of physical rotation and kinetic tracking.",
     "engagement": "High",
-    "raw_text": "Hold on, because smartphone design just took a super weird, futuristic turn! Honor is releasing what they're calling the 'Robot Phone' in China, and it actually has a physical mechanical arm built right into it! I am not kidding—a motorized titanium alloy arm extends out from the phone chassis, holding a massive 200-megapixel gimbal camera. Here’s the wild part: because it’s powered by AI spatial reasoning, this phone can literally move, track you around the room, and physically react to its environment without you holding it. Imagine setting your phone on a table, and the lens physically rotates and follows you while you record a video or talk! It's combining kinetic robotics with a handheld mobile phone. Honestly, this is either the coolest hardware innovation we've seen in years, or the most over-engineered gimmick ever built. But you've gotta respect Honor for trying something totally radical. Would you buy a phone that moves on its own, or is that just creepy? Hit that like button and let me know!",
+    "raw_text": "Hold on, because smartphone design just took a super weird, futuristic turn! Honor is releasing what they're calling the 'Robot Phone' in China, and it actually has a physical mechanical arm built right into it! I am not kidding\u2014a motorized titanium alloy arm extends out from the phone chassis, holding a massive 200-megapixel gimbal camera. Here\u2019s the wild part: because it\u2019s powered by AI spatial reasoning, this phone can literally move, track you around the room, and physically react to its environment without you holding it. Imagine setting your phone on a table, and the lens physically rotates and follows you while you record a video or talk! It's combining kinetic robotics with a handheld mobile phone. Honestly, this is either the coolest hardware innovation we've seen in years, or the most over-engineered gimmick ever built. But you've gotta respect Honor for trying something totally radical. Would you buy a phone that moves on its own, or is that just creepy? Hit that like button and let me know!",
     "id": "honor_bot_1120",
     "category": "Hardware",
     "companies": [
       "Honor"
     ],
     "people": [],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/honor_bot_1120.png",
+    "image_prompt": "Realistic studio photo for a news website: sleek Honor \u201cRobot Phone\u201d on a dark matte surface, titanium alloy mechanical arm emerging and posed mid-motion, 200MP gimbal camera with subtle motor precision, soft rim lighting, cool tech color palette, shallow depth of field, high detail, ultra-sharp, no text."
   },
   {
     "date": "2026-08-13",
@@ -156,7 +174,7 @@
     "title": "CMU Study Exposes Tech Industry Hype: AI Doesn't 'Think' or 'Learn'",
     "summary": "Carnegie Mellon University researchers published a historical study critiquing the tech industry's use of 'strategic ambiguity' to anthropomorphize AI algorithms. The authors argue that benchmarks like MMLU measure classification accuracy rather than genuine human comprehension or intelligence.",
     "engagement": "Low",
-    "raw_text": "So check this out: researchers at Carnegie Mellon University just dropped a fascinating study calling out the tech industry for total hype around AI! The paper argues that tech leaders are using 'strategic ambiguity'—using words like 'thinking', 'learning', and 'reasoning' to make statistical math models sound like human brains. Here's the wild part: when computer scientists say an AI is 'learning', all it's really doing is optimizing mathematical weights to fit data. But the general public hears 'learning' and assumes the machine has real comprehension and lived experiences! CMU heavily critiqued popular benchmarks like MMLU, saying they don't test actual 'intelligence' or 'knowledge' at all—just classification accuracy and statistical pattern matching. The researchers warn that comparing computers to humans tricks lawmakers, judges, and consumers into viewing math algorithms as conscious competitors rather than advanced tools. Honestly, it's a huge reality check. We need to stop falling for marketing spin and talk about what AI actually is: really fast statistical math!",
+    "raw_text": "So check this out: researchers at Carnegie Mellon University just dropped a fascinating study calling out the tech industry for total hype around AI! The paper argues that tech leaders are using 'strategic ambiguity'\u2014using words like 'thinking', 'learning', and 'reasoning' to make statistical math models sound like human brains. Here's the wild part: when computer scientists say an AI is 'learning', all it's really doing is optimizing mathematical weights to fit data. But the general public hears 'learning' and assumes the machine has real comprehension and lived experiences! CMU heavily critiqued popular benchmarks like MMLU, saying they don't test actual 'intelligence' or 'knowledge' at all\u2014just classification accuracy and statistical pattern matching. The researchers warn that comparing computers to humans tricks lawmakers, judges, and consumers into viewing math algorithms as conscious competitors rather than advanced tools. Honestly, it's a huge reality check. We need to stop falling for marketing spin and talk about what AI actually is: really fast statistical math!",
     "id": "cmu_study_4431",
     "category": "Science",
     "companies": [
@@ -166,6 +184,8 @@
       "Christopher Phillips",
       "Alison Langmead"
     ],
-    "created_at": "2026-08-13T22:44:14Z"
+    "created_at": "2026-08-13T22:44:14Z",
+    "image_url": "images/14_08_26/cmu_study_4431.png",
+    "image_prompt": "Realistic newsroom photo: CMU-style campus backdrop at dusk, researchers in lab coats and glasses examining glowing AI model diagrams on a tablet; subtle holographic neural network overlays; skeptical mood, cinematic lighting, shallow depth of field, high detail, no text, no logos."
   }
 ]
