@@ -7,7 +7,7 @@
     "title": "DeepSeek V4-Pro Just Dropped: Western AI Labs Are in Serious Trouble!",
     "summary": "DeepSeek has released its 1.6-trillion parameter V4-Pro model featuring a 1-million token context window and near-zero cache pricing. While scoring second on SWE-bench Verified, it exhibits notable performance drops on long-horizon agentic benchmarks.",
     "engagement": "High",
-    "raw_text": "So check this out, DeepSeek just officially dropped DeepSeek V4-Pro into general availability, and honestly, this is completely shaking up the entire AI market! We are talking about a massive 1.6-trillion parameter MoE beast with a 1-million token context window. But here is the wild part: they just completely nuked the pricing model of Western competitors. They are charging $0.003625 per million tokens for context caching reads—that is literally less than one percent of their base input cost! That means you can dump entire enterprise codebases into this thing for pennies. Now, there is a catch you need to know about. While it scored an insane 96.4% on SWE-bench Verified—trailing only Claude Opus 5—it actually ranked dead last on LiveBench agentic coding evaluations. So while you probably should not trust it to build entire software architectures autonomously from scratch, for brute-force code review, continuous integration, and instant bug patching, DeepSeek just handed developers an absolute cheat code.",
+    "raw_text": "So check this out, DeepSeek just officially dropped DeepSeek V4-Pro into general availability, and honestly, this is completely shaking up the entire AI market! We are talking about a massive 1.6-trillion parameter MoE beast with a 1-million token context window. But here is the wild part: they just completely nuked the pricing model of Western competitors. They are charging $0.003625 per million tokens for context caching reads\u2014that is literally less than one percent of their base input cost! That means you can dump entire enterprise codebases into this thing for pennies. Now, there is a catch you need to know about. While it scored an insane 96.4% on SWE-bench Verified\u2014trailing only Claude Opus 5\u2014it actually ranked dead last on LiveBench agentic coding evaluations. So while you probably should not trust it to build entire software architectures autonomously from scratch, for brute-force code review, continuous integration, and instant bug patching, DeepSeek just handed developers an absolute cheat code.",
     "category": "AI",
     "companies": [
       "DeepSeek",
@@ -15,7 +15,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/ds4-ga-0816.png",
+    "image_prompt": "Cinematic newsroom scene, dramatic blue lighting, a sleek abstract AI server core morphing into a giant glowing \u201cbrain\u201d over a world map, Western lab silhouettes in the foreground fading in shadow, sleek data streams, tense high-tech mood, ultra-realistic, 4k, shallow depth of field, no text."
   },
   {
     "id": "nvda-sbe-0816",
@@ -34,7 +36,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/nvda-sbe-0816.png",
+    "image_prompt": "Realistic cinematic wide shot of a massive data-center campus in Ohio at dusk: towering server buildings, glowing fiber lines, cranes and workers, giant power substations, sleek modern transformers, subtle Nvidia-like tech vibe without logos, dramatic lighting, high detail, news photography style, no text."
   },
   {
     "id": "aapl-baba-0816",
@@ -44,14 +48,16 @@
     "title": "Apple Caves: Major Partnership with Alibaba to Rebuild Apple Intelligence!",
     "summary": "Apple has partnered with Chinese tech giant Alibaba to train and deploy a customized artificial intelligence model specifically for the Chinese domestic market. The move highlights the geopolitical fragmentation of foundational AI architectures due to strict localization laws.",
     "engagement": "High",
-    "raw_text": "You won't believe this move from Apple! In a massive break from their typical closed-garden ecosystem strategy, Apple has officially teamed up with Alibaba Group to develop and deploy a customized artificial intelligence engine exclusively for the Chinese mainland. Here's why this is huge: standard Apple Intelligence trained on Western servers flat out cannot pass Beijing's hyper-strict data localization and algorithmic censorship regulations. Instead of abandoning hundreds of millions of iPhone users in China, Apple threw in the towel and partnered with Alibaba to build a sanitized, fully domestic AI pipeline. This proves what analysts have been predicting all along—the global unified AI dream is officially dead. Tech giants are now being forced to build two completely separate versions of their software: one open version for the West, and one heavily restricted version for sovereign local regimes. Wild times for consumer tech!",
+    "raw_text": "You won't believe this move from Apple! In a massive break from their typical closed-garden ecosystem strategy, Apple has officially teamed up with Alibaba Group to develop and deploy a customized artificial intelligence engine exclusively for the Chinese mainland. Here's why this is huge: standard Apple Intelligence trained on Western servers flat out cannot pass Beijing's hyper-strict data localization and algorithmic censorship regulations. Instead of abandoning hundreds of millions of iPhone users in China, Apple threw in the towel and partnered with Alibaba to build a sanitized, fully domestic AI pipeline. This proves what analysts have been predicting all along\u2014the global unified AI dream is officially dead. Tech giants are now being forced to build two completely separate versions of their software: one open version for the West, and one heavily restricted version for sovereign local regimes. Wild times for consumer tech!",
     "category": "Mobile",
     "companies": [
       "Apple",
       "Alibaba Group"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/aapl-baba-0816.png",
+    "image_prompt": "Photorealistic news image: a sleek Apple-branded smartphone beside a subtle Alibaba-themed server rack backdrop in a modern Shanghai tech hub. Warm city lights, cool AI glow, programmers and data engineers blurred in foreground, dramatic shallow depth of field, cyber-network light trails, geopolitical tension mood, ultra-high detail."
   },
   {
     "id": "soonlab-game-0816",
@@ -67,7 +73,9 @@
       "SoonLab"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/soonlab-game-0816.png",
+    "image_prompt": "Realistic newsroom photo-style scene: diverse engineers in New York, holographic 3D game world projections from a laptop, wireframe physics bounds and spatial grids floating in neon blue, cinematic lighting, high detail, sharp focus, modern tech mood, no text."
   },
   {
     "id": "wearables-ambient-0816",
@@ -85,7 +93,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/wearables-ambient-0816.png",
+    "image_prompt": "Photoreal close-up of a modern screenless wearable band on a wrist, subtle indicator lights, natural skin texture, soft daylight; background shows a minimalist smartwatch tossed in a drawer, motion-blur crowd vibe, clean tech aesthetic, shallow depth of field, news photo realism, high detail."
   },
   {
     "id": "x-algo-transparency-0816",
@@ -101,7 +111,9 @@
       "X"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/x-algo-transparency-0816.png",
+    "image_prompt": "Photoreal news scene: shadowy server room with glowing code-like lines, a stylized \u201cFor You\u201d feed UI hologram, forensic data overlays, subtle figure in hoodie examining a laptop, dramatic lighting, cyber security mood, shallow depth of field, ultra high detail, no text, 16:9."
   },
   {
     "id": "aheesa-vihaan-0816",
@@ -119,7 +131,9 @@
       "C-DAC"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/aheesa-vihaan-0816.png",
+    "image_prompt": "Cinematic newsroom-style photo illustration: a Chennai skyline at dusk, glowing semiconductor wafer on a lab workbench, microchip traces evoking \u201cRISC-V\u201d circuitry, engineers in background, cool blue lighting, ultra-realistic, high contrast, shallow depth of field, sharp details, no text, 16:9."
   },
   {
     "id": "globalstar-amazon-0816",
@@ -137,7 +151,9 @@
       "SpaceX"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/globalstar-amazon-0816.png",
+    "image_prompt": "Cinematic newsroom photo of a SpaceX Falcon 9 launching at dusk with bright rocket plume, eight small satellites silhouetted beneath upper stage; subtle LEO Earth curvature in background, dramatic lighting, realistic, high detail, sharp focus, no text, newsworthy, 4K."
   },
   {
     "id": "ifa-edge-ai-0816",
@@ -153,7 +169,9 @@
       "IFA Berlin"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/ifa-edge-ai-0816.png",
+    "image_prompt": "Photorealistic Berlin IFA 2026 expo hall at dusk: sleek consumer devices on glowing modular display stands, tiny edge AI chips and neural network holograms hovering above them, engineers monitoring holographic graphs, modern tech mood, cinematic lighting, shallow depth of field, no text."
   },
   {
     "id": "jwst-blackhole-0816",
@@ -163,14 +181,16 @@
     "title": "James Webb Telescope Shatters Physics: The Cosmic Dawn Black Hole Illusion!",
     "summary": "New observations from the James Webb Space Telescope reveal that early-universe supermassive black holes appear artificially magnified by dense hydrogen envelopes. The optical scattering discovery indicates that early black hole masses were overestimated by up to 100x.",
     "engagement": "Medium",
-    "raw_text": "The James Webb Space Telescope just solved one of the most frustrating mysteries in modern astrophysics! For years, astronomers were baffled by data showing gargantuan supermassive black holes existing just 660 million years after the Big Bang, which defied all known laws of physics and gravitational accretion limits. But here is the wild part: JWST's latest spectral observations reveal that this early black hole is wrapped in a super-dense envelope of primordial hydrogen gas. That thick envelope scatters the accretion disk's light, creating an optical illusion that made the black hole appear up to 100 times more massive than it actually is! This discovery completely resolves a huge cosmological tension, proving that early black holes did not break physics—we were just misinterpreting the optical signatures caused by primordial gas clouds.",
+    "raw_text": "The James Webb Space Telescope just solved one of the most frustrating mysteries in modern astrophysics! For years, astronomers were baffled by data showing gargantuan supermassive black holes existing just 660 million years after the Big Bang, which defied all known laws of physics and gravitational accretion limits. But here is the wild part: JWST's latest spectral observations reveal that this early black hole is wrapped in a super-dense envelope of primordial hydrogen gas. That thick envelope scatters the accretion disk's light, creating an optical illusion that made the black hole appear up to 100 times more massive than it actually is! This discovery completely resolves a huge cosmological tension, proving that early black holes did not break physics\u2014we were just misinterpreting the optical signatures caused by primordial gas clouds.",
     "category": "Science",
     "companies": [
       "NASA",
       "ESA"
     ],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/jwst-blackhole-0816.png",
+    "image_prompt": "Realistic NASA-style news image: James Webb Telescope view toward the early universe, glowing cosmic dawn nebulae, distant quasar silhouette, translucent dense hydrogen envelope subtly scattering light around a black hole, dramatic space contrast, high detail, cinematic lighting, photoreal, no text."
   },
   {
     "id": "bio-synapse-ai-0816",
@@ -184,7 +204,9 @@
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/bio-synapse-ai-0816.png",
+    "image_prompt": "Photorealistic newsroom-style science scene: a macro view of a hibernating mouse brain with glowing synaptic clusters, surrounding dark, sparse neural pathways thinning into black, subtle winter-calm blue lighting, crisp high-detail, shallow depth of field, cinematic realism, no text."
   },
   {
     "id": "aus-news-levy-0816",
@@ -198,6 +220,8 @@
     "category": "Policy",
     "companies": [],
     "people": [],
-    "created_at": "2026-08-16T16:40:35Z"
+    "created_at": "2026-08-16T16:40:35Z",
+    "image_url": "images/17_08_26/aus-news-levy-0816.png",
+    "image_prompt": "Cinematic news photo style: Australian Parliament at dusk with dramatic sky, subtle tech motifs\u2014silhouette of smartphone and server racks in foreground, contrasting light over newsroom windows, tense political atmosphere, realistic lighting, high detail, shallow depth of field, no text."
   }
 ]
