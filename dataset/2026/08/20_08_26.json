@@ -6,7 +6,7 @@
     "title": "This Chinese Robot Maker Just Surged 629% On Its First Day Trading!",
     "summary": "Unitree Robotics made history with a 629% first-day stock surge on the Shanghai STAR Market, temporarily reaching a $66 billion valuation. The company raised approximately $900 million following massive retail oversubscription for its commercialized quadruped and humanoid robots.",
     "engagement": "High",
-    "raw_text": "So check this out—the humanoid robot revolution just had its biggest financial explosion ever! Chinese robotics company Unitree just debuted on Shanghai's STAR Market, and their stock went completely nuclear, surging 629% on day one. At its absolute peak, Unitree was valued at an insane 66 billion dollars. Here's the wild part: retail investors oversubscribed this IPO by over 8,000 times! Nearly 10 million people were fighting for a tiny slice of shares. And unlike some Western robot startups that are purely burning venture capital, Unitree actually turned a 591 million yuan profit in 2025 by selling over 5,000 humanoid robots and 23,000 robot dogs. Their new 'Superman' robot can run nearly 13 meters per second and jump two meters straight up. Tesla is pouring billions into Optimus, but Unitree is manufacturing and shipping at scale right now. Honestly, this is huge because it proves physical AI is no longer a distant sci-fi fantasy—the robot commercial war is officially here.",
+    "raw_text": "So check this out\u2014the humanoid robot revolution just had its biggest financial explosion ever! Chinese robotics company Unitree just debuted on Shanghai's STAR Market, and their stock went completely nuclear, surging 629% on day one. At its absolute peak, Unitree was valued at an insane 66 billion dollars. Here's the wild part: retail investors oversubscribed this IPO by over 8,000 times! Nearly 10 million people were fighting for a tiny slice of shares. And unlike some Western robot startups that are purely burning venture capital, Unitree actually turned a 591 million yuan profit in 2025 by selling over 5,000 humanoid robots and 23,000 robot dogs. Their new 'Superman' robot can run nearly 13 meters per second and jump two meters straight up. Tesla is pouring billions into Optimus, but Unitree is manufacturing and shipping at scale right now. Honestly, this is huge because it proves physical AI is no longer a distant sci-fi fantasy\u2014the robot commercial war is officially here.",
     "id": "utr9823a",
     "category": "Robotics",
     "companies": [
@@ -20,7 +20,9 @@
       "Wang Xingxing",
       "Elon Musk"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/utr9823a.png",
+    "image_prompt": "Photorealistic news photo: a sleek modern Chinese robotics lab at dawn, glowing quadruped and humanoid robot prototypes on a clean floor, journalists and investors in the background with screens showing charts (no text), dramatic lighting, high detail, natural colors, shallow depth of field, cinematic realism."
   },
   {
     "date": "2026-08-19",
@@ -36,7 +38,9 @@
       "Velaura AI"
     ],
     "people": [],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/vel4910b.png",
+    "image_prompt": "Realistic high-tech news photo: a Silicon Valley lab with Velaura AI engineers, glowing wafer chips on a bench, sleek humanoid robot arm beside a small battery-powered edge device, cool blue lighting, cinematic depth of field, ultra-detailed, photorealistic, no text."
   },
   {
     "date": "2026-08-19",
@@ -45,7 +49,7 @@
     "title": "Google Just Gave Away Its Multi-Agent AI Secret Weapon For Free!",
     "summary": "Google has transferred governance of its Agent2Agent (A2A) communication protocol to the Linux Foundation's Agentic AI Foundation. The open standard enables independent AI agents from different vendors to securely discover capabilities and delegate autonomous tasks without custom integration code.",
     "engagement": "Medium",
-    "raw_text": "So check this out—the way AI agents communicate across the entire internet just changed forever! Up until now, if you built an AI agent on LangGraph and wanted it to work with an agent on AWS Bedrock or CrewAI, developers had to write messy, fragile custom code. It was a complete developer bottleneck. But Google just officially handed over its Agent2Agent protocol, known as A2A, to the vendor-neutral Agentic AI Foundation under the Linux Foundation! Under A2A Version 1.0, every autonomous agent publishes an 'Agent Card' with its verified capabilities, allowing other agents to dynamically discover them, authenticate, and delegate multi-step tasks seamlessly. Huawei is already using A2A across HarmonyOS, and WeChat is integrating it for voice calls and messaging flows. We are literally watching the open protocols of the autonomous web get standardized in real-time. This is essentially HTTP for AI agents, and it unlocks a completely connected agent ecosystem.",
+    "raw_text": "So check this out\u2014the way AI agents communicate across the entire internet just changed forever! Up until now, if you built an AI agent on LangGraph and wanted it to work with an agent on AWS Bedrock or CrewAI, developers had to write messy, fragile custom code. It was a complete developer bottleneck. But Google just officially handed over its Agent2Agent protocol, known as A2A, to the vendor-neutral Agentic AI Foundation under the Linux Foundation! Under A2A Version 1.0, every autonomous agent publishes an 'Agent Card' with its verified capabilities, allowing other agents to dynamically discover them, authenticate, and delegate multi-step tasks seamlessly. Huawei is already using A2A across HarmonyOS, and WeChat is integrating it for voice calls and messaging flows. We are literally watching the open protocols of the autonomous web get standardized in real-time. This is essentially HTTP for AI agents, and it unlocks a completely connected agent ecosystem.",
     "id": "a2a7719c",
     "category": "AI",
     "companies": [
@@ -60,7 +64,9 @@
     "people": [
       "Mahesh Shanmugasundaram"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/a2a7719c.png",
+    "image_prompt": "Futuristic newsroom scene: a sleek server room core with glowing network nodes forming agent-to-agent links, subtle AI holograms, and a neutral handshake icon-like light pattern\u2014Google-like blue accents blending into Linux Foundation-inspired tones; dramatic cinematic lighting, realistic, high detail, no text."
   },
   {
     "date": "2026-08-19",
@@ -69,7 +75,7 @@
     "title": "Google and PayPal Just Unlocked Autonomous AI Shopping!",
     "summary": "Google Cloud and PayPal have expanded agentic commerce through the Agent Payments Protocol (AP2). The cryptographic framework splits transactions into checkout and payment mandates to enable verifiable, human-consented shopping between autonomous software agents.",
     "engagement": "High",
-    "raw_text": "Imagine sending your personal AI agent out onto the web to book your flights, buy your groceries, and negotiate discounts—without giving it your credit card number to go rogue! Google Cloud and PayPal have just joined forces to launch AP2, the Agent Payments Protocol. Here's the wild part: AP2 creates a cryptographic bridge for agent-to-agent financial transactions. It completely separates user authorization into two stages called 'Checkout Mandates' and 'Payment Mandates.' This means your shopping agent can independently browse products, negotiate pricing with a merchant's sales bot, and prepare the cart, but it cannot finalize payment without a cryptographically verified token backed by FIDO biometric standards. This completely eliminates the nightmare scenario of an AI hallucinating and accidentally draining your bank account! Autonomous e-commerce is officially leaving the theoretical lab stage. In just a couple of years, our AI assistants will be negotiating and transacting with retailer bots while we sleep.",
+    "raw_text": "Imagine sending your personal AI agent out onto the web to book your flights, buy your groceries, and negotiate discounts\u2014without giving it your credit card number to go rogue! Google Cloud and PayPal have just joined forces to launch AP2, the Agent Payments Protocol. Here's the wild part: AP2 creates a cryptographic bridge for agent-to-agent financial transactions. It completely separates user authorization into two stages called 'Checkout Mandates' and 'Payment Mandates.' This means your shopping agent can independently browse products, negotiate pricing with a merchant's sales bot, and prepare the cart, but it cannot finalize payment without a cryptographically verified token backed by FIDO biometric standards. This completely eliminates the nightmare scenario of an AI hallucinating and accidentally draining your bank account! Autonomous e-commerce is officially leaving the theoretical lab stage. In just a couple of years, our AI assistants will be negotiating and transacting with retailer bots while we sleep.",
     "id": "ap23301d",
     "category": "Fintech",
     "companies": [
@@ -78,7 +84,9 @@
       "FIDO Alliance"
     ],
     "people": [],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/ap23301d.png",
+    "image_prompt": "Futuristic yet realistic news photo: a luminous Google- and PayPal-inspired digital marketplace interface hovering above a smartphone, autonomous AI agents as subtle holograms exchanging encrypted handshakes, split-payment cryptography glowing in the air, cool blue lighting, high detail, sharp focus, cinematic mood, no text."
   },
   {
     "date": "2026-08-19",
@@ -87,7 +95,7 @@
     "title": "Fortinet Acquires Virtue AI To Stop Rogue AI Agents From Hacking Companies!",
     "summary": "Cybersecurity giant Fortinet has acquired AI runtime security pioneer Virtue AI to integrate Guardian Agent defenses into its enterprise Security Fabric. The technology protects against MCP vulnerabilities, malicious autonomous tool calls, and prompt injection attacks across enterprise agent workflows.",
     "engagement": "Medium",
-    "raw_text": "Cybersecurity just hit a major turning point because hackers aren't just targeting humans anymore—they are targeting autonomous AI agents! Fortinet just finalized a major acquisition of Virtue AI, a red-hot startup specializing in AI runtime validation and guardrails. As companies deploy autonomous agents that talk via MCP protocols and trigger database APIs, traditional firewalls become completely useless. Virtue AI's Guardian Agent platform actively red-teams enterprise AI systems across 50 sandboxed environments, constantly hunting for prompt injections and vulnerabilities. More importantly, it monitors live agent behavior in real time, stopping unauthorized or malicious tool calls before they execute and exfiltrate corporate data. Gartner projects the AI security market will explode from under three billion dollars to over 16 billion by 2030. Honestly, this is huge. Securing software is no longer just about passwords and firewalls; it is about verifying the logical intent of autonomous AI bots before they cause catastrophic enterprise damage.",
+    "raw_text": "Cybersecurity just hit a major turning point because hackers aren't just targeting humans anymore\u2014they are targeting autonomous AI agents! Fortinet just finalized a major acquisition of Virtue AI, a red-hot startup specializing in AI runtime validation and guardrails. As companies deploy autonomous agents that talk via MCP protocols and trigger database APIs, traditional firewalls become completely useless. Virtue AI's Guardian Agent platform actively red-teams enterprise AI systems across 50 sandboxed environments, constantly hunting for prompt injections and vulnerabilities. More importantly, it monitors live agent behavior in real time, stopping unauthorized or malicious tool calls before they execute and exfiltrate corporate data. Gartner projects the AI security market will explode from under three billion dollars to over 16 billion by 2030. Honestly, this is huge. Securing software is no longer just about passwords and firewalls; it is about verifying the logical intent of autonomous AI bots before they cause catastrophic enterprise damage.",
     "id": "ftn8412e",
     "category": "Cybersecurity",
     "companies": [
@@ -98,27 +106,31 @@
     "people": [
       "Ken Xie"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/ftn8412e.png",
+    "image_prompt": "Realistic high-tech newsroom scene: Fortinet exec silhouette shaking hands with Virtue AI engineer beside a secure data shield hologram. Behind them, glowing circuitry forms a defensive \u201cagent\u201d wall blocking rogue digital agents. Dark blue cyber mood, cinematic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-08-19",
     "source_file": "August 20 Tech News Report.pdf",
     "page": 4,
     "title": "Samsung Built A Massive Cooling Plant In India To Save Boiling AI Data Centers!",
-    "summary": "Samsung Electronics has opened a 13,826-square-meter HVAC manufacturing facility in Pune, India, through its newly acquired subsidiary FläktGroup. The plant will produce 6,500 specialized Air Handling and Fan Wall units annually to satisfy surging AI data center thermal demands across Asia-Pacific.",
+    "summary": "Samsung Electronics has opened a 13,826-square-meter HVAC manufacturing facility in Pune, India, through its newly acquired subsidiary Fl\u00e4ktGroup. The plant will produce 6,500 specialized Air Handling and Fan Wall units annually to satisfy surging AI data center thermal demands across Asia-Pacific.",
     "engagement": "Medium",
-    "raw_text": "Everyone talks about GPU shortages, but here is the dirty secret of the AI boom: artificial intelligence data centers are literally overheating! High-density AI chips generate ridiculous amounts of heat, and legacy server cooling systems just can't keep up. That's why Samsung acquired German cooling specialist FläktGroup for nearly 1.8 billion dollars, and they just opened a massive 14,000-square-meter manufacturing plant in Pune, India! This facility went from empty warehouse to full mass production in just six months and is built to pump out 6,500 specialized HVAC units every single year. We're talking heavy-duty Air Handling Units, modular Fan Walls, and precision Computer Room Air Handlers designed specifically to stop AI server clusters from thermal throttling. Samsung is playing total 4D chess here—by owning the thermal infrastructure, they make massive profits off the global AI expansion no matter which silicon chips companies buy. Cooling is the ultimate AI bottleneck, and Samsung is cashing in.",
+    "raw_text": "Everyone talks about GPU shortages, but here is the dirty secret of the AI boom: artificial intelligence data centers are literally overheating! High-density AI chips generate ridiculous amounts of heat, and legacy server cooling systems just can't keep up. That's why Samsung acquired German cooling specialist Fl\u00e4ktGroup for nearly 1.8 billion dollars, and they just opened a massive 14,000-square-meter manufacturing plant in Pune, India! This facility went from empty warehouse to full mass production in just six months and is built to pump out 6,500 specialized HVAC units every single year. We're talking heavy-duty Air Handling Units, modular Fan Walls, and precision Computer Room Air Handlers designed specifically to stop AI server clusters from thermal throttling. Samsung is playing total 4D chess here\u2014by owning the thermal infrastructure, they make massive profits off the global AI expansion no matter which silicon chips companies buy. Cooling is the ultimate AI bottleneck, and Samsung is cashing in.",
     "id": "sam5502f",
     "category": "Infrastructure",
     "companies": [
       "Samsung Electronics",
-      "FläktGroup"
+      "Fl\u00e4ktGroup"
     ],
     "people": [
       "Cheolgi Kim",
       "David Dorney"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/sam5502f.png",
+    "image_prompt": "Photorealistic wide shot of a massive modern HVAC manufacturing plant in Pune, India: large industrial buildings, rooftop ductwork and HVAC units, workers in safety gear, cranes, morning haze, dramatic lighting, realistic details, news-photo style, high resolution, no text, no logos."
   },
   {
     "date": "2026-08-20",
@@ -140,39 +152,45 @@
     "people": [
       "Samrat Choudhary"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/bih9921g.png",
+    "image_prompt": "Photorealistic news photo: Bihar AI Summit 2026 stage with dignitaries and engineers, Indian flags, digital holograms and server racks, Google/Microsoft officials shaking hands with Bihar govt leaders, audience in soft light, modern auditorium, cinematic depth of field, vibrant yet realistic tones."
   },
   {
     "date": "2026-08-20",
     "source_file": "August 20 Tech News Report.pdf",
     "page": 5,
-    "title": "Government Will Pay Social Media Creators Up To ₹1 Lakh Per Video!",
+    "title": "Government Will Pay Social Media Creators Up To \u20b91 Lakh Per Video!",
     "summary": "The Bihar state cabinet has approved an amendment to its digital media rules offering social media influencers up to Rs 1 lakh per video for publicizing government schemes. Creators will receive Rs 10,000 for every 100,000 views generated, incentivizing digital civic outreach.",
     "engagement": "High",
-    "raw_text": "If you create content on Instagram or YouTube, you need to hear this, because a government is literally paying influencers directly for viral views! The Bihar cabinet just officially passed an amendment to their Online Media Rules that allows content creators to earn up to 1 lakh rupees per video. The payout structure is simple: creators get paid 10,000 rupees for every 100,000 views they generate explaining public welfare schemes and government development initiatives. Governments are finally realizing that nobody reads dry official press releases anymore—young audiences consume information through short-form social video algorithms! By turning citizen outreach into a creator economy affiliate program, they get organic, high-converting social reach while rewarding digital creators with cash for their view counts. Whether you love or hate creator-government marketing, this proves that viral algorithmic distribution has officially become the dominant tool for modern public communication.",
+    "raw_text": "If you create content on Instagram or YouTube, you need to hear this, because a government is literally paying influencers directly for viral views! The Bihar cabinet just officially passed an amendment to their Online Media Rules that allows content creators to earn up to 1 lakh rupees per video. The payout structure is simple: creators get paid 10,000 rupees for every 100,000 views they generate explaining public welfare schemes and government development initiatives. Governments are finally realizing that nobody reads dry official press releases anymore\u2014young audiences consume information through short-form social video algorithms! By turning citizen outreach into a creator economy affiliate program, they get organic, high-converting social reach while rewarding digital creators with cash for their view counts. Whether you love or hate creator-government marketing, this proves that viral algorithmic distribution has officially become the dominant tool for modern public communication.",
     "id": "gov1104h",
     "category": "Social Media",
     "companies": [],
     "people": [
       "Samrat Choudhary"
     ],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/gov1104h.png",
+    "image_prompt": "Realistic news photo, Bihar government theme: a social media creator filming on a smartphone in a modern studio, subtle government office backdrop, digital analytics overlay vibes without text, warm confident mood, high detail, natural lighting, shallow depth of field, vibrant colors, ultra HD."
   },
   {
     "date": "2026-08-19",
     "source_file": "August 20 Tech News Report.pdf",
     "page": 5,
-    "title": "Scientists Gave Robots An 'Electric Eel' Sixth Sense—And It Sees In The Dark!",
+    "title": "Scientists Gave Robots An 'Electric Eel' Sixth Sense\u2014And It Sees In The Dark!",
     "summary": "Researchers from Xidian University and Jilin University have developed an electric eel-inspired hydrogel sensor that gives robots contactless tactile perception. The self-powered sensor detects electric field distortions to identify metals, plastics, and glass in total darkness without physical contact.",
     "engagement": "High",
-    "raw_text": "So check this out—scientists just gave robots an actual sixth sense inspired by electric eels, and it is mind-blowing! Researchers from Xidian and Jilin University built an ultra-flexible hydrogel sensor using a triboelectric nanogenerator that emits a tiny, continuous electric field. When a robotic arm approaches an object, it doesn't need to physically bump into it or use optical cameras. Instead, the object naturally distorts the electric field lines, and machine learning models analyze those micro-distortions to identify exactly what the object is made of—whether it's metal, wood, plastic, or transparent glass! It works flawlessly in pitch-black darkness and even underwater. Plus, it generates its own power from ambient movement! This completely solves the dangerous gap between visual vision and physical collision. Humanoid robots will be able to 'feel' your hand approaching before they ever make physical contact, eliminating accidental crushing injuries forever.",
+    "raw_text": "So check this out\u2014scientists just gave robots an actual sixth sense inspired by electric eels, and it is mind-blowing! Researchers from Xidian and Jilin University built an ultra-flexible hydrogel sensor using a triboelectric nanogenerator that emits a tiny, continuous electric field. When a robotic arm approaches an object, it doesn't need to physically bump into it or use optical cameras. Instead, the object naturally distorts the electric field lines, and machine learning models analyze those micro-distortions to identify exactly what the object is made of\u2014whether it's metal, wood, plastic, or transparent glass! It works flawlessly in pitch-black darkness and even underwater. Plus, it generates its own power from ambient movement! This completely solves the dangerous gap between visual vision and physical collision. Humanoid robots will be able to 'feel' your hand approaching before they ever make physical contact, eliminating accidental crushing injuries forever.",
     "id": "eel6640j",
     "category": "Science",
     "companies": [
       "ACS Publications"
     ],
     "people": [],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/eel6640j.png",
+    "image_prompt": "Realistic high-tech news photo: a sleek robot arm in a dark lab extends near transparent materials; a faint blue electric-field glow surrounds hydrogel sensor pads, showing contactless detection of metal, plastic, and glass. Cinematic lighting, high detail, shallow depth of field, no text, no logos."
   },
   {
     "date": "2026-08-16",
@@ -188,6 +206,8 @@
       "Shenzhen University"
     ],
     "people": [],
-    "created_at": "2026-08-20T08:24:00Z"
+    "created_at": "2026-08-20T08:24:00Z",
+    "image_url": "images/20_08_26/dep2026k.png",
+    "image_prompt": "Photorealistic editorial news image: dim laboratory, soft blue lighting. A researcher in white coat studies a glowing MRI brain scan hologram while an adolescent sits at a chair responding to faces on a monitor. Subtle biometric LEDs, tense futuristic mood, shallow depth of field, ultra high detail, no text."
   }
 ]
