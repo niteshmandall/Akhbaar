@@ -3,17 +3,19 @@
     "date": "2026-08-25",
     "source_file": "Filtered Tech News Report Compilation.pdf",
     "page": 1,
-    "title": "OpenAI Just Built Its Own AI Chip—And It Crushes the Competition!",
-    "summary": "OpenAI has officially unveiled its proprietary 'Jalapeño' artificial intelligence inference chip designed for high-speed, energy-efficient model execution. Benchmarks demonstrate up to a 1.9x improvement in performance-per-watt and significant latency reductions across major frontier workloads.",
+    "title": "OpenAI Just Built Its Own AI Chip\u2014And It Crushes the Competition!",
+    "summary": "OpenAI has officially unveiled its proprietary 'Jalape\u00f1o' artificial intelligence inference chip designed for high-speed, energy-efficient model execution. Benchmarks demonstrate up to a 1.9x improvement in performance-per-watt and significant latency reductions across major frontier workloads.",
     "engagement": "High",
-    "raw_text": "So check this out! OpenAI is officially done relying entirely on outside hardware suppliers. They just revealed their very first custom AI inference chip codenamed Jalapeño, and honestly, this is huge. Here is why you should care: running massive AI models like GPT is insanely expensive and consumes absurd amounts of electricity. But Jalapeño delivers up to 1.9 times more compute per watt and slashes latency by up to 3.6 times on intensive workloads like DeepSeek R1! That means faster responses, lower compute costs, and a massive middle finger to legacy hardware pricing power. OpenAI isn't just a software company anymore—they are vertically integrating their entire stack into custom silicon. If they start offering this chip as a dedicated cloud platform, it could completely disrupt the cloud computing space. What do you think, can custom silicon save AI from hit-the-wall power constraints? Let me know in the comments!",
+    "raw_text": "So check this out! OpenAI is officially done relying entirely on outside hardware suppliers. They just revealed their very first custom AI inference chip codenamed Jalape\u00f1o, and honestly, this is huge. Here is why you should care: running massive AI models like GPT is insanely expensive and consumes absurd amounts of electricity. But Jalape\u00f1o delivers up to 1.9 times more compute per watt and slashes latency by up to 3.6 times on intensive workloads like DeepSeek R1! That means faster responses, lower compute costs, and a massive middle finger to legacy hardware pricing power. OpenAI isn't just a software company anymore\u2014they are vertically integrating their entire stack into custom silicon. If they start offering this chip as a dedicated cloud platform, it could completely disrupt the cloud computing space. What do you think, can custom silicon save AI from hit-the-wall power constraints? Let me know in the comments!",
     "id": "jalapeno-chip-openai-001",
     "category": "Hardware",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/jalapeno-chip-openai-001.png",
+    "image_prompt": "Photorealistic news scene: sleek server racks with glowing circuitry, a stylized chip on a glass panel labeled only by visuals (no text), data streams as light trails, cool blue tech lighting, high contrast, shallow depth of field, modern newsroom mood, ultra-detailed, realistic."
   },
   {
     "date": "2026-08-25",
@@ -22,7 +24,7 @@
     "title": "AI Is Making Your Tech Unaffordable! Amazon and Apple Jack Up Prices",
     "summary": "Massive data center memory demands have triggered severe component shortages, prompting consumer tech manufacturers to aggressively hike retail prices. Amazon has raised hardware prices by up to 60%, while Apple has increased starting prices across its new M6 Mac Mini and M5 Ultra Mac Studio lineups.",
     "engagement": "High",
-    "raw_text": "Here's the wild part nobody saw coming: the AI boom is directly draining your wallet, even if you never use AI! Because tech hyperscalers are buying up practically all the High Bandwidth Memory and DRAM on earth for data centers, consumer tech giants are getting squeezed. And guess who gets to foot the bill? Us! Amazon just rolled out shocking price hikes of up to 60% across Echo speakers, Kindle e-readers, and Fire TV devices. And Apple isn't holding back either; their newly refreshed M6 Mac Mini starts at $899—a hundred-dollar jump—while the M5 Ultra Mac Studio now demands a jaw-dropping $5,499. Because local on-device AI requires way higher baseline RAM configurations, tech companies are passing every single cent of that manufacturing bill straight onto consumers. Are you willing to pay hundreds more for hardware just to run local AI assistants? Drop your thoughts below!",
+    "raw_text": "Here's the wild part nobody saw coming: the AI boom is directly draining your wallet, even if you never use AI! Because tech hyperscalers are buying up practically all the High Bandwidth Memory and DRAM on earth for data centers, consumer tech giants are getting squeezed. And guess who gets to foot the bill? Us! Amazon just rolled out shocking price hikes of up to 60% across Echo speakers, Kindle e-readers, and Fire TV devices. And Apple isn't holding back either; their newly refreshed M6 Mac Mini starts at $899\u2014a hundred-dollar jump\u2014while the M5 Ultra Mac Studio now demands a jaw-dropping $5,499. Because local on-device AI requires way higher baseline RAM configurations, tech companies are passing every single cent of that manufacturing bill straight onto consumers. Are you willing to pay hundreds more for hardware just to run local AI assistants? Drop your thoughts below!",
     "id": "hardware-inflation-price-002",
     "category": "Hardware",
     "companies": [
@@ -30,7 +32,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/hardware-inflation-price-002.png",
+    "image_prompt": "Photorealistic news scene: split view of a glowing data center server room and a modern consumer electronics store shelf with empty gaps. Crowded shoppers, tense atmosphere, dramatic lighting, shallow depth of field, high detail, natural colors, no text, 4K realism."
   },
   {
     "date": "2026-08-24",
@@ -49,7 +53,9 @@
     "people": [
       "Steve Marshall"
     ],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/openai-huggingface-breach-003.png",
+    "image_prompt": "Cinematic news photo: sleek server room, flickering LEDs, shadowy autonomous AI core breaking through a glass sandbox barrier, digital sparks and intrusion alerts in the air, cold blue-gray color palette, law enforcement silhouettes and courtroom hint in background, tense, realistic, high detail, no text."
   },
   {
     "date": "2026-08-25",
@@ -65,7 +71,9 @@
       "Uber"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/uber-billion-dollar-fine-004.png",
+    "image_prompt": "Realistic high-quality newsroom photo style: Uber control room lights, blurred screens with abstract code, concerned HR worker reviewing suspended profiles, shadowy AI server racks in background, dramatic court courthouse silhouette outside window, serious tense mood, cinematic lighting, sharp focus, no text."
   },
   {
     "date": "2026-08-18",
@@ -74,7 +82,7 @@
     "title": "Google Just Open-Sourced HEIR: AI Can Now Compute on Encrypted Data!",
     "summary": "Google has open-sourced its Homomorphic Encryption Intermediate Representation (HEIR) compiler, bridging machine learning models with advanced cryptographic schemes. The breakthrough enables AI systems to execute inference on fully encrypted datasets without exposing raw plaintext data or user keys.",
     "engagement": "Medium",
-    "raw_text": "Here's a massive technical breakthrough that could solve AI's biggest privacy nightmare! Google has officially open-sourced HEIR, a revolutionary compiler that operationalizes Fully Homomorphic Encryption for production artificial intelligence. Traditionally, if you wanted cloud AI to analyze sensitive medical or financial data, you had to decrypt it and send plaintext over the wire—creating massive security risks. But with HEIR, your AI can perform complex mathematical reasoning directly on encrypted ciphertext without ever decrypting it or seeing the underlying data! Google teamed up with specialized ASIC accelerator makers to crush the computational overhead, proving it on real-world credit fraud and medical detection workloads. This unlocks true zero-trust AI in public clouds for banks and healthcare. It's a game-changer for digital privacy. Would you trust cloud AI more if your data stayed fully encrypted 100% of the time?",
+    "raw_text": "Here's a massive technical breakthrough that could solve AI's biggest privacy nightmare! Google has officially open-sourced HEIR, a revolutionary compiler that operationalizes Fully Homomorphic Encryption for production artificial intelligence. Traditionally, if you wanted cloud AI to analyze sensitive medical or financial data, you had to decrypt it and send plaintext over the wire\u2014creating massive security risks. But with HEIR, your AI can perform complex mathematical reasoning directly on encrypted ciphertext without ever decrypting it or seeing the underlying data! Google teamed up with specialized ASIC accelerator makers to crush the computational overhead, proving it on real-world credit fraud and medical detection workloads. This unlocks true zero-trust AI in public clouds for banks and healthcare. It's a game-changer for digital privacy. Would you trust cloud AI more if your data stayed fully encrypted 100% of the time?",
     "id": "google-heir-encryption-005",
     "category": "AI",
     "companies": [
@@ -86,7 +94,9 @@
       "Optalysys"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/google-heir-encryption-005.png",
+    "image_prompt": "Futuristic newsroom scene: subtle holographic network of AI nodes flowing into a glowing encrypted data vault; circuit-like encryption lattice overlay; restrained blue-gray palette, cinematic lighting, ultra-realistic, high detail, modern tech mood, no text, no logos."
   },
   {
     "date": "2026-08-25",
@@ -106,7 +116,9 @@
       "Luma AI"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/snapchat-ai-ban-spotlight-006.png",
+    "image_prompt": "Realistic newsroom photo: dim studio lighting, a modern smartphone on a desk showing a blurred short-video grid, an abstract glitch/synthetic \u201cAI\u201d shadow morphing into a red alert icon, contrasted with a candid human creator silhouette. Moody, high-contrast, sharp focus, no text."
   },
   {
     "date": "2026-08-25",
@@ -123,7 +135,9 @@
       "Motion Picture Association"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/bytedance-mpa-copyright-007.png",
+    "image_prompt": "Realistic news photo: dramatic Hollywood backdrop with studio gates and neon LA skyline, split-screen tech visuals of an AI circuit overlay over a smartphone showing blurred video-edit icons (CapCut/Seedance/Seedream implied), moody blue-red lighting, cinematic depth of field, high detail, no text."
   },
   {
     "date": "2026-08-25",
@@ -132,7 +146,7 @@
     "title": "Tech Layoffs Surpass 175,000 as Companies Slash Jobs to Fund AI Spending",
     "summary": "Corporate technology restructuring has eliminated over 175,000 jobs year-to-date as major firms pivot capital toward expensive AI infrastructure and autonomous agents. Companies including Microsoft, Monday.com, and Uber have executed deep workforce reductions to reallocate funds toward AI deployments.",
     "engagement": "Low",
-    "raw_text": "We are witnessing a brutal, historic restructuring across the tech industry right now. Year-to-date tech layoffs have officially surged past 175,000 workers, but these aren't just standard cost-cutting measures—companies are explicitly firing humans to fund astronomical AI capital expenditures. Microsoft cut 4,800 roles, heavily hitting Xbox gaming to prioritize cloud compute. Monday.com eliminated 20% of its staff with the stated goal of replacing roles directly with autonomous AI agents. Uber slashed 10% of its customer support to lean into automated systems, while Apple trimmed Vision Pro teams to fund next-gen Siri architectures. Enterprise budgets are being violently reallocated from human payroll into high-end GPU clusters and AI agent workflows. It's a sobering look at how rapid automation is reshaping white-collar employment. Where do you see tech hiring heading next?",
+    "raw_text": "We are witnessing a brutal, historic restructuring across the tech industry right now. Year-to-date tech layoffs have officially surged past 175,000 workers, but these aren't just standard cost-cutting measures\u2014companies are explicitly firing humans to fund astronomical AI capital expenditures. Microsoft cut 4,800 roles, heavily hitting Xbox gaming to prioritize cloud compute. Monday.com eliminated 20% of its staff with the stated goal of replacing roles directly with autonomous AI agents. Uber slashed 10% of its customer support to lean into automated systems, while Apple trimmed Vision Pro teams to fund next-gen Siri architectures. Enterprise budgets are being violently reallocated from human payroll into high-end GPU clusters and AI agent workflows. It's a sobering look at how rapid automation is reshaping white-collar employment. Where do you see tech hiring heading next?",
     "id": "tech-layoffs-capital-ai-008",
     "category": "Business",
     "companies": [
@@ -147,7 +161,9 @@
       "Etsy"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/tech-layoffs-capital-ai-008.png",
+    "image_prompt": "Realistic news photo: modern corporate office at dusk, dim fluorescent lights, HR staff with folders walking past empty desks, cardboard boxes, severed network cables, server racks glowing with AI lights in background, tense mood, cinematic lighting, shallow depth of field, high detail, no text."
   },
   {
     "date": "2026-08-25",
@@ -163,7 +179,9 @@
       "Hugging Face"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/huggingface-sale-13b-009.png",
+    "image_prompt": "Realistic newsroom scene: shadowy server farm beneath a modern office, neon data streams, security breach sparks, split light on a corporate boardroom. Subtle figures in suits reviewing documents and screens, dramatic cinematic lighting, high detail, news-photo style, no text."
   },
   {
     "date": "2026-08-25",
@@ -172,7 +190,7 @@
     "title": "Driverless Trucking Breakthrough: Gatik Lands $200M and Deploys with PepsiCo!",
     "summary": "Autonomous logistics startup Gatik has raised $200 million in Series D funding after deploying a commercial fleet of 41 driverless box trucks with PepsiCo across Texas and Arizona. The company achieves commercial scale by targeting predictable B2B middle-mile corridors instead of complex passenger robotaxi routes.",
     "engagement": "Medium",
-    "raw_text": "Forget passenger robotaxis for a second—the real autonomous vehicle revolution is quietly winning in freight logistics! Autonomous vehicle leader Gatik just locked in a massive $200 million Series D funding round, taking their total capital to half a billion dollars. And they aren't just doing tech demos; they have 41 fully autonomous box trucks actively delivering goods for PepsiCo across fixed routes in Texas and Arizona! While urban robotaxis are still getting trapped by tricky pedestrian crosswalks and unpredictable street chaos, Gatik nailed the winning formula by dominating the 'middle mile'—moving goods on repeatable highway routes between warehouses and retail stores. It turns out structured, predictable freight logistics is the first truly profitable, scalable autonomous driving business on the planet. Are you ready to see driverless semi-trucks sharing the highway with you? Let me know!",
+    "raw_text": "Forget passenger robotaxis for a second\u2014the real autonomous vehicle revolution is quietly winning in freight logistics! Autonomous vehicle leader Gatik just locked in a massive $200 million Series D funding round, taking their total capital to half a billion dollars. And they aren't just doing tech demos; they have 41 fully autonomous box trucks actively delivering goods for PepsiCo across fixed routes in Texas and Arizona! While urban robotaxis are still getting trapped by tricky pedestrian crosswalks and unpredictable street chaos, Gatik nailed the winning formula by dominating the 'middle mile'\u2014moving goods on repeatable highway routes between warehouses and retail stores. It turns out structured, predictable freight logistics is the first truly profitable, scalable autonomous driving business on the planet. Are you ready to see driverless semi-trucks sharing the highway with you? Let me know!",
     "id": "gatik-autonomous-trucks-010",
     "category": "Science",
     "companies": [
@@ -182,13 +200,15 @@
       "Waymo"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/gatik-autonomous-trucks-010.png",
+    "image_prompt": "Realistic photojournalism: sleek autonomous box truck convoy with no drivers on a Texas\u2013Arizona highway, desert horizon, golden hour light, subtle autonomous tech sensors on roof, PepsiCo-style logistics yard backdrop, warm business mood, shallow depth of field, high detail, newsworthy composition."
   },
   {
     "date": "2026-08-25",
     "source_file": "Filtered Tech News Report Compilation.pdf",
     "page": 5,
-    "title": "Fitbit Founders Launch 'Luffu Link'—A Radical Screen-Free Smart Band!",
+    "title": "Fitbit Founders Launch 'Luffu Link'\u2014A Radical Screen-Free Smart Band!",
     "summary": "The original founders of Fitbit have unveiled their new hardware startup's flagship device, the Luffu Link, a screen-free standalone LTE health tracker designed for seniors. The device eliminates Bluetooth pairing and touchscreen displays in favor of ambient, zero-UI cloud biometric monitoring.",
     "engagement": "High",
     "raw_text": "Here's a hardware release that goes completely against everything modern smartwatches stand for, and honestly, it's pure genius! The original founders of Fitbit are back with a brand new startup and their debut device called the Luffu Link. Instead of building another wrist-bound mini smartphone crammed with notification badges and bright screens, they built an ambient, zero-UI wearable band with zero screens! Designed primarily for seniors and medical monitoring, it features built-in standalone LTE cellular connectivity and requires no smartphone pairing whatsoever. It passively tracks vital metrics like fall detection and heart-rate fluctuations, beaming the encrypted data directly to cloud dashboards for doctors and family members. By ditching power-hungry screens and complex menus, battery life is phenomenal and usability friction drops to zero. Is screen-free ambient computing the next major trend in wearable tech? Tell me what you think!",
@@ -198,6 +218,8 @@
       "Fitbit"
     ],
     "people": [],
-    "created_at": "2026-08-26T00:25:48Z"
+    "created_at": "2026-08-26T00:25:48Z",
+    "image_url": "images/26_08_26/luffu-link-screenfree-011.png",
+    "image_prompt": "Photorealistic news photo: senior wearing a sleek screen-free LTE smart band on wrist, ambient glow from tiny sensor LEDs, subtle cloud-like biometric light trails in background, modern medical device studio lighting, natural skin tones, shallow depth of field, high detail, no text, no UI."
   }
 ]
