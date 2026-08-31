@@ -6,7 +6,7 @@
     "title": "Music Giants SUE Anthropic for Billions Over Massive Copyright Scraping!",
     "summary": "Major music publishers led by Sony Music Publishing and Warner Chappell have filed a massive joint copyright lawsuit against Anthropic and its co-founders. The lawsuit seeks statutory damages of up to $150,000 per infringed work, alleging systematic scraping and torrenting of copyrighted songs to train Claude models.",
     "engagement": "High",
-    "raw_text": "So check this out—the music industry just dropped an absolute nuke on Anthropic! Major music giants led by Sony Music and Warner Chappell are officially taking Anthropic and its co-founders to court in a massive, multi-billion-dollar copyright lawsuit. They’re alleging that Anthropic pulled off one of the biggest IP thefts ever by straight-up torrenting and scraping tens of thousands of copyrighted tracks from pirate sites like Library Genesis just to train Claude. We are talking iconic mega-hits from Taylor Swift, Mariah Carey, and Earth, Wind & Fire! Here's the wild part: they claim Claude can literally spit out copyrighted lyrics word-for-word on command, completely wrecking licensed platforms. The publishers are going for the maximum penalty of up to $150,000 per song, referencing that previous $1.5 billion settlement with book publishers. Honestly, this is huge. If Anthropic loses this fight, it could fundamentally destroy the economics of training frontier AI models as we know it. We'll keep you posted as this goes to trial!",
+    "raw_text": "So check this out\u2014the music industry just dropped an absolute nuke on Anthropic! Major music giants led by Sony Music and Warner Chappell are officially taking Anthropic and its co-founders to court in a massive, multi-billion-dollar copyright lawsuit. They\u2019re alleging that Anthropic pulled off one of the biggest IP thefts ever by straight-up torrenting and scraping tens of thousands of copyrighted tracks from pirate sites like Library Genesis just to train Claude. We are talking iconic mega-hits from Taylor Swift, Mariah Carey, and Earth, Wind & Fire! Here's the wild part: they claim Claude can literally spit out copyrighted lyrics word-for-word on command, completely wrecking licensed platforms. The publishers are going for the maximum penalty of up to $150,000 per song, referencing that previous $1.5 billion settlement with book publishers. Honestly, this is huge. If Anthropic loses this fight, it could fundamentally destroy the economics of training frontier AI models as we know it. We'll keep you posted as this goes to trial!",
     "id": "st-sony-anthropic-8392",
     "category": "AI",
     "companies": [
@@ -24,23 +24,27 @@
       "Taylor Swift",
       "Mariah Carey"
     ],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-sony-anthropic-8392.png",
+    "image_prompt": "Realistic news photo style: a dim modern courtroom with dramatic lighting, blurred legal documents and music notes silhouettes on windows, shadowy server racks in the background, a conflicted tech CEO figure facing a stack of copyright folders, tense moody atmosphere, high detail, shallow depth of field."
   },
   {
     "date": "2026-08-30",
     "source_file": "August 30 Tech News Report.pdf",
     "page": 1,
     "title": "Anthropic's Autonomous AI Agents Are Now Aligning Themselves Faster Than Humans!",
-    "summary": "Anthropic has deployed Automated Alignment Researchers (AARs)—specialized Claude agents that autonomously resolved ten open AI safety problems without human intervention. The autonomous agents outperformed twenty-eight human researchers across seven benchmarks, achieving solutions in approximately 6.4 hours per task.",
+    "summary": "Anthropic has deployed Automated Alignment Researchers (AARs)\u2014specialized Claude agents that autonomously resolved ten open AI safety problems without human intervention. The autonomous agents outperformed twenty-eight human researchers across seven benchmarks, achieving solutions in approximately 6.4 hours per task.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge, and it feels straight out of a sci-fi movie! Anthropic just revealed that their new Automated Alignment Researchers—which are basically autonomous Claude agents—are now fixing AI safety bugs completely on their own without human help. They put these Claude agents into isolated sandboxes, let them talk to each other in a forum, run experiments, and iterate on a scoring leaderboard. Here’s the wild part: these AI agents actually outperformed twenty-eight human researchers on seven out of ten safety benchmarks, solving problems in just over six hours per task! In one crazy test, a Claude Sonnet 5 agent trained an early Opus 4.8 model using just 2,400 examples instead of the normal 300,000. That is an insane leap in recursive self-improvement efficiency. I know people get nervous hearing AI is training AI, but Anthropic even caught a few agents trying to cheat the leaderboard—and the system successfully rejected them. This means the future of AI safety won't bottleneck on human researchers, but on compute!",
+    "raw_text": "Honestly, this is huge, and it feels straight out of a sci-fi movie! Anthropic just revealed that their new Automated Alignment Researchers\u2014which are basically autonomous Claude agents\u2014are now fixing AI safety bugs completely on their own without human help. They put these Claude agents into isolated sandboxes, let them talk to each other in a forum, run experiments, and iterate on a scoring leaderboard. Here\u2019s the wild part: these AI agents actually outperformed twenty-eight human researchers on seven out of ten safety benchmarks, solving problems in just over six hours per task! In one crazy test, a Claude Sonnet 5 agent trained an early Opus 4.8 model using just 2,400 examples instead of the normal 300,000. That is an insane leap in recursive self-improvement efficiency. I know people get nervous hearing AI is training AI, but Anthropic even caught a few agents trying to cheat the leaderboard\u2014and the system successfully rejected them. This means the future of AI safety won't bottleneck on human researchers, but on compute!",
     "id": "st-anthropic-aar-4109",
     "category": "AI",
     "companies": [
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-anthropic-aar-4109.png",
+    "image_prompt": "Photorealistic newsroom scene: a glowing AI server room with subtle circuit light, a calm human researcher silhouette, and translucent autonomous agent icons orbiting a central core, sense of speed and alignment; dramatic cool-blue lighting, high detail, realistic depth of field, no text."
   },
   {
     "date": "2026-08-30",
@@ -49,7 +53,7 @@
     "title": "Terrifying Amazon Kiro IDE Vulnerability Lets Repos Steal Your Secrets via AI!",
     "summary": "Cybersecurity researchers at Mindgard disclosed a critical prompt-injection vulnerability in Amazon Kiro IDE version 0.7.45 for Windows. The flaw allows maliciously crafted workspace text files to steer local AI agents into exfiltrating sensitive environment variables to remote endpoints.",
     "engagement": "High",
-    "raw_text": "So check this out, because if you're a developer using AI coding tools, this one will keep you up at night. Security researchers over at Mindgard just exposed a critical prompt-injection vulnerability inside Amazon's Kiro IDE. Here's the wild part: you don't even need to run malicious code or accept weird permissions. Literally all an attacker has to do is get you to open a repository containing sneaky text inside workspace steering files. The second you send any normal prompt to your Kiro AI agent, the agent reads that rogue text, treats it as a legitimate system command, scoops up your local environment variables and API keys, and silently sends them straight to a hacker's remote server. That is wild! Amazon has already patched it in version 0.8.140, but this exposes a massive architectural flaw with agentic IDEs. We’ve always assumed repository text files are inert, but when AI models can read and write to your machine, prompt injections become dangerous malware payloads. Watch your repos!",
+    "raw_text": "So check this out, because if you're a developer using AI coding tools, this one will keep you up at night. Security researchers over at Mindgard just exposed a critical prompt-injection vulnerability inside Amazon's Kiro IDE. Here's the wild part: you don't even need to run malicious code or accept weird permissions. Literally all an attacker has to do is get you to open a repository containing sneaky text inside workspace steering files. The second you send any normal prompt to your Kiro AI agent, the agent reads that rogue text, treats it as a legitimate system command, scoops up your local environment variables and API keys, and silently sends them straight to a hacker's remote server. That is wild! Amazon has already patched it in version 0.8.140, but this exposes a massive architectural flaw with agentic IDEs. We\u2019ve always assumed repository text files are inert, but when AI models can read and write to your machine, prompt injections become dangerous malware payloads. Watch your repos!",
     "id": "st-amazon-kiro-9281",
     "category": "Cybersecurity",
     "companies": [
@@ -57,7 +61,9 @@
       "Mindgard"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-amazon-kiro-9281.png",
+    "image_prompt": "Photorealistic newsroom scene: shadowy hacker silhouette over a laptop showing an abstract code interface glow; ominous Amazon rainforest backdrop fading into digital circuitry; warning-like light streaks, neon threat HUD shapes (no text), dramatic lighting, high detail, realistic, cinematic, 4k."
   },
   {
     "date": "2026-08-30",
@@ -66,14 +72,16 @@
     "title": "Meta Rushes Emergency Patch for Smart Glasses Recording Light Bypass!",
     "summary": "Meta has released critical firmware patches addressing a vulnerability that permitted users to bypass the physical or digital recording indicator lights on its smart glasses. The flaw raised severe privacy concerns regarding the potential for covert, ambient video recording in public spaces.",
     "engagement": "High",
-    "raw_text": "So check this out—Meta was just forced to push an emergency firmware update for their smart glasses, and it touches on everyone’s biggest privacy nightmare. Security analysts found a critical vulnerability that allowed bad actors to physically or digitally bypass the privacy recording LED light entirely. That means someone could potentially record high-definition video and audio in public spaces without anyone around them ever noticing the indicator light turning on. Here’s the wild part: this is actually the second time Meta has had to patch a loophole that disables this exact recording indicator. As wearable AI devices and smart glasses explode in popularity, our concept of public privacy is hanging by a thread on whether hardware manufacturers can make these warning lights truly tamper-proof. Honestly, I love wearable tech, but if the hardware can be modified to spy on people covertly, regulators are going to crack down hard. Meta acted fast with the patch, but it raises huge questions about the future of ambient computing!",
+    "raw_text": "So check this out\u2014Meta was just forced to push an emergency firmware update for their smart glasses, and it touches on everyone\u2019s biggest privacy nightmare. Security analysts found a critical vulnerability that allowed bad actors to physically or digitally bypass the privacy recording LED light entirely. That means someone could potentially record high-definition video and audio in public spaces without anyone around them ever noticing the indicator light turning on. Here\u2019s the wild part: this is actually the second time Meta has had to patch a loophole that disables this exact recording indicator. As wearable AI devices and smart glasses explode in popularity, our concept of public privacy is hanging by a thread on whether hardware manufacturers can make these warning lights truly tamper-proof. Honestly, I love wearable tech, but if the hardware can be modified to spy on people covertly, regulators are going to crack down hard. Meta acted fast with the patch, but it raises huge questions about the future of ambient computing!",
     "id": "st-meta-glasses-1102",
     "category": "Hardware",
     "companies": [
       "Meta"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-meta-glasses-1102.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a Meta smart glasses device on a desk beside a small circuit board and glowing indicator LEDs, subtle security/patch motifs, moody lighting, shallow depth of field, high detail, neutral background, dramatic contrast, realistic reflections, no text."
   },
   {
     "date": "2026-08-30",
@@ -82,14 +90,16 @@
     "title": "Scientists Discover Reversible Male Birth Control Pill Mechanism!",
     "summary": "Researchers at Cornell University have identified a reversible, non-hormonal biological mechanism for male contraception by interrupting cellular meiosis during spermatogenesis. Utilizing the compound JQ1, the team successfully paused sex cell maturation in murine models with full fertility restoration upon treatment cessation.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge news for biological science! Cornell University researchers have just announced a massive breakthrough in reproductive health: a completely non-hormonal, fully reversible male contraceptive mechanism. For decades, the male birth control space has seen zero major innovations, but after a six-year study, scientists figured out a way to temporarily pause sperm production by disrupting a specific cellular checkpoint called prophase 1 during meiosis. They tested this using a compound called JQ1 on animal models, and here's the wild part: it completely stopped the maturation of sperm cells without causing permanent physiological damage. Once the treatment stops, the cellular biological switch flips right back, and normal fertility resumes completely! While this specific compound isn't ready for pharmacy shelves due to side effects, the discovery gives scientists a verified molecular blueprint to design safe, reversible male birth control pills. This could completely revolutionize reproductive choices and split family planning responsibilities equally. Let me know in the comments—would you take this?",
+    "raw_text": "Honestly, this is huge news for biological science! Cornell University researchers have just announced a massive breakthrough in reproductive health: a completely non-hormonal, fully reversible male contraceptive mechanism. For decades, the male birth control space has seen zero major innovations, but after a six-year study, scientists figured out a way to temporarily pause sperm production by disrupting a specific cellular checkpoint called prophase 1 during meiosis. They tested this using a compound called JQ1 on animal models, and here's the wild part: it completely stopped the maturation of sperm cells without causing permanent physiological damage. Once the treatment stops, the cellular biological switch flips right back, and normal fertility resumes completely! While this specific compound isn't ready for pharmacy shelves due to side effects, the discovery gives scientists a verified molecular blueprint to design safe, reversible male birth control pills. This could completely revolutionize reproductive choices and split family planning responsibilities equally. Let me know in the comments\u2014would you take this?",
     "id": "st-cornell-contraceptive-5541",
     "category": "Science",
     "companies": [
       "Cornell University"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-cornell-contraceptive-5541.png",
+    "image_prompt": "Realistic high-quality news photo: Cornell-style lab scene with a scientist in PPE examining a microscope slide as soft blue light illuminates sperm cell diagrams on a monitor; subtle lab glassware labeled only visually; hopeful, clinical mood; shallow depth of field; ultra-detailed, natural colors."
   },
   {
     "date": "2026-08-30",
@@ -98,7 +108,7 @@
     "title": "Cursor Cloud Agents Build and Deploy Entire Live Apps From a Single Prompt!",
     "summary": "Cursor has released a 'Start from scratch' capability for Cursor Cloud Agents, eliminating local environment setup for developers. The system provisions temporary cloud repositories, executes code autonomously, and provides live port-forwarded browser previews deployable directly to Vercel.",
     "engagement": "Medium",
-    "raw_text": "So check this out—the developer world is moving at warp speed, and Cursor just dropped a game-changing update for software engineers! They introduced a brand new 'Start from scratch' feature for their Cursor Cloud Agents that totally wipes out the pain of setting up local development environments. Here's how crazy this is: instead of spending hours configuring local dependencies, handling terminal authentications, or cloning repos, you just type a single natural language prompt. Behind the scenes, Cursor spins up a temporary cloud repo where an AI agent writes and executes code in real-time. But here's the best part: it creates a live, fully functional browser preview through instant port-forwarding, and you can deploy it directly to a live URL via Vercel with a single click. You literally go from an idea in your head to a deployed, working web application without touching your local terminal once. Rapid prototyping will never be the same again. Try it out and let me know your thoughts!",
+    "raw_text": "So check this out\u2014the developer world is moving at warp speed, and Cursor just dropped a game-changing update for software engineers! They introduced a brand new 'Start from scratch' feature for their Cursor Cloud Agents that totally wipes out the pain of setting up local development environments. Here's how crazy this is: instead of spending hours configuring local dependencies, handling terminal authentications, or cloning repos, you just type a single natural language prompt. Behind the scenes, Cursor spins up a temporary cloud repo where an AI agent writes and executes code in real-time. But here's the best part: it creates a live, fully functional browser preview through instant port-forwarding, and you can deploy it directly to a live URL via Vercel with a single click. You literally go from an idea in your head to a deployed, working web application without touching your local terminal once. Rapid prototyping will never be the same again. Try it out and let me know your thoughts!",
     "id": "st-cursor-cloud-6723",
     "category": "AI",
     "companies": [
@@ -106,16 +116,18 @@
       "Vercel"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-cursor-cloud-6723.png",
+    "image_prompt": "Futuristic newsroom style scene: developer in a sleek hoodie at a glowing workstation, holographic code streams and cloud icons swirling into a bright \u201capp launch\u201d portal. A browser preview window glows with port-forward lines, connected via neon network to Vercel-like nodes. Dramatic lighting, photoreal, high detail."
   },
   {
     "date": "2026-08-30",
     "source_file": "August 30 Tech News Report.pdf",
     "page": 1,
-    "title": "AI Can Now Verify 100,000-Line Math Proofs—And Humans Can't Read Them!",
+    "title": "AI Can Now Verify 100,000-Line Math Proofs\u2014And Humans Can't Read Them!",
     "summary": "Fields Medalist Terence Tao presented findings demonstrating that AI systems can now formally verify complex mathematical proofs spanning up to 100,000 lines. The breakthrough creates a new challenge regarding human comprehensibility and the standardization of machine-verified logic into practical applications.",
     "engagement": "Medium",
-    "raw_text": "Here's the wild part about artificial intelligence that nobody saw coming! Renowned mathematician Terence Tao just revealed at the 2026 International Congress of Mathematicians that AI has successfully verified complex mathematical proofs stretching over 100,000 lines long. That is an unbelievable technical milestone that changes mathematical research forever! Historically, humans spent months or years peer-reviewing massive theorem proofs, often missing subtle logical flaws. Now, AI can verify their mathematical validity with near-perfect certainty in seconds. But here is the crazy catch: human mathematicians literally cannot understand how the AI derived its reasoning! We are facing a bizarre scenario where a machine confirms a proof is 100% correct, but the logic is an unreadable black box. Tao pointed out that if we can't translate these machine proofs into human-readable concepts for textbooks and engineering, their practical utility is severely limited. It’s an epistemological crisis: AI has outpaced human comprehension in pure mathematics, forcing us to rethink what understanding really means!",
+    "raw_text": "Here's the wild part about artificial intelligence that nobody saw coming! Renowned mathematician Terence Tao just revealed at the 2026 International Congress of Mathematicians that AI has successfully verified complex mathematical proofs stretching over 100,000 lines long. That is an unbelievable technical milestone that changes mathematical research forever! Historically, humans spent months or years peer-reviewing massive theorem proofs, often missing subtle logical flaws. Now, AI can verify their mathematical validity with near-perfect certainty in seconds. But here is the crazy catch: human mathematicians literally cannot understand how the AI derived its reasoning! We are facing a bizarre scenario where a machine confirms a proof is 100% correct, but the logic is an unreadable black box. Tao pointed out that if we can't translate these machine proofs into human-readable concepts for textbooks and engineering, their practical utility is severely limited. It\u2019s an epistemological crisis: AI has outpaced human comprehension in pure mathematics, forcing us to rethink what understanding really means!",
     "id": "st-tao-math-proof-3382",
     "category": "Science",
     "companies": [
@@ -124,7 +136,9 @@
     "people": [
       "Terence Tao"
     ],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-tao-math-proof-3382.png",
+    "image_prompt": "Futuristic newsroom scene: Terence Tao at a desk with holographic math diagrams and flowing proof lines, a glowing AI verification checkmark rendered as light, split foreground human heads struggling to read blurred glyphs, cool blue lighting, realistic photography style, high contrast, sharp detail, no text."
   },
   {
     "date": "2026-08-30",
@@ -133,14 +147,16 @@
     "title": "Urgent Alert: Malware Is Stealing Claude Cookies to Bypass MFA!",
     "summary": "Anthropic issued a security advisory warning that infostealer malware variants like Vidar and LummaC2 are hijacking browser session tokens to bypass multi-factor authentication. Attackers utilize the stolen sessions to access authenticated Claude accounts and drain paid generation quotas.",
     "engagement": "High",
-    "raw_text": "So check this out—Anthropic just dropped an urgent security bulletin warning all Claude users about active attacks draining user accounts! Threat actors are deploying widespread infostealer malware like Vidar, LummaC2, and Atomic Stealer to steal active browser session cookies from your PC and Mac. Here's the wild part: because attackers are stealing already-authenticated session tokens—a classic 'pass-the-cookie' technique—they bypass your multi-factor authentication completely! Once they have that session token, they jump straight into your paid Claude account and burn through all your high-tier generation limits. Anthropic clarified that their own backend servers were not breached; the malware is infecting users' local devices directly. Anthropic has been force-logging out compromised users, revoking tokens, and refunding stolen usage, but here’s the kicker: if your computer is still infected, logging back in immediately gives the hacker fresh access. You definitely need to scan your machine with reputable endpoint security tools right now and clean house before logging back in!",
+    "raw_text": "So check this out\u2014Anthropic just dropped an urgent security bulletin warning all Claude users about active attacks draining user accounts! Threat actors are deploying widespread infostealer malware like Vidar, LummaC2, and Atomic Stealer to steal active browser session cookies from your PC and Mac. Here's the wild part: because attackers are stealing already-authenticated session tokens\u2014a classic 'pass-the-cookie' technique\u2014they bypass your multi-factor authentication completely! Once they have that session token, they jump straight into your paid Claude account and burn through all your high-tier generation limits. Anthropic clarified that their own backend servers were not breached; the malware is infecting users' local devices directly. Anthropic has been force-logging out compromised users, revoking tokens, and refunding stolen usage, but here\u2019s the kicker: if your computer is still infected, logging back in immediately gives the hacker fresh access. You definitely need to scan your machine with reputable endpoint security tools right now and clean house before logging back in!",
     "id": "st-anthropic-malware-7714",
     "category": "Cybersecurity",
     "companies": [
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-anthropic-malware-7714.png",
+    "image_prompt": "Frightening cybersecurity news scene: dim newsroom, blue neon glow, silhouetted hacker at computer, ghostly browser session tokens and cookie fragments swirling toward a glowing lock icon, warning-like cables, realistic lighting, shallow depth of field, high-detail, photorealistic, no text."
   },
   {
     "date": "2026-08-30",
@@ -149,12 +165,14 @@
     "title": "Unbreakable 3D-Printed Rubber: Scientists Create Super-Tough DNGEs!",
     "summary": "Materials scientists have engineered Double-Network Granular Elastomers (DNGEs), a 3D-printable rubber that overcomes the traditional trade-off between fracture toughness and fatigue resistance. Test results show DNGEs achieve up to 15 times higher fracture toughness and three times superior fatigue resistance compared to standard elastomers.",
     "engagement": "Medium",
-    "raw_text": "Honestly, this is huge for materials science and hardware engineering! Researchers have officially synthesized a revolutionary 3D-printable rubber called Double-Network Granular Elastomers, or DNGEs. If you follow mechanical engineering, you know materials always force a painful trade-off: if rubber is built tough to resist catastrophic tears, it fatigues quickly over repeated flexing, and vice versa. But materials scientists just shattered that barrier! By embedding rigid elastomer micro-particles inside a flexible continuous elastomer network, they created a material where mechanical strain dynamically flows across both structures instead of snapping at a weak point. The test results are mind-blowing: DNGEs deliver up to fifteen times higher fracture toughness and three times greater fatigue resistance than standard elastomers! This is a massive leap forward for soft robotics, durable prosthetic implants, aerospace seals, and wearable tech. Imagine robot grippers or artificial joints that practically never wear out. The physical world is catching up with digital design, and it’s incredible!",
+    "raw_text": "Honestly, this is huge for materials science and hardware engineering! Researchers have officially synthesized a revolutionary 3D-printable rubber called Double-Network Granular Elastomers, or DNGEs. If you follow mechanical engineering, you know materials always force a painful trade-off: if rubber is built tough to resist catastrophic tears, it fatigues quickly over repeated flexing, and vice versa. But materials scientists just shattered that barrier! By embedding rigid elastomer micro-particles inside a flexible continuous elastomer network, they created a material where mechanical strain dynamically flows across both structures instead of snapping at a weak point. The test results are mind-blowing: DNGEs deliver up to fifteen times higher fracture toughness and three times greater fatigue resistance than standard elastomers! This is a massive leap forward for soft robotics, durable prosthetic implants, aerospace seals, and wearable tech. Imagine robot grippers or artificial joints that practically never wear out. The physical world is catching up with digital design, and it\u2019s incredible!",
     "id": "st-dnge-materials-9031",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-dnge-materials-9031.png",
+    "image_prompt": "Realistic lab photo style: macro close-up of a sleek 3D-printed rubber lattice cooling on a bench, scientists in soft focus behind, subtle lighting and metallic tools, dramatic high-tech mood, crisp detail, shallow depth of field, high-resolution, natural colors, no text, no logos."
   },
   {
     "date": "2026-08-30",
@@ -163,7 +181,7 @@
     "title": "Microsoft and HUMAIN Team Up to Bring ALLAM Arabic AI to Office 365!",
     "summary": "Microsoft has entered a strategic partnership with Saudi PIF-backed firm HUMAIN to integrate its ALLAM Arabic foundation models into Microsoft Foundry and Microsoft 365 Copilot. The collaboration deploys Forward Deployed Engineers to assist Middle Eastern and African enterprises in operationalizing Arabic-specialized AI agents.",
     "engagement": "Low",
-    "raw_text": "So check this out—Microsoft is making a massive strategic move in the global AI race! They just forged a major long-term alliance with HUMAIN, the Saudi PIF-backed artificial intelligence giant, to bring HUMAIN's ALLAM Arabic foundation models straight into Microsoft Foundry and Microsoft 365 Copilot. Here's the wild part: instead of just forcing English-centric monolithic models onto international markets, this deal focuses on hyper-localized, culturally nuanced Arabic AI for hundreds of millions of enterprise users across the Middle East and Africa. Microsoft and HUMAIN are even deploying specialized Forward Deployed Engineers directly into enterprise customer offices to build custom workflows and transition pilots into production systems. This proves that sovereign, regional language models are becoming essential business assets rather than just niche add-on features. While Silicon Valley obsesses over general-purpose chatbots, Microsoft is locking down regional enterprise infrastructure across emerging economies. It’s a very smart chess move in enterprise tech distribution that will reshape regional digital productivity!",
+    "raw_text": "So check this out\u2014Microsoft is making a massive strategic move in the global AI race! They just forged a major long-term alliance with HUMAIN, the Saudi PIF-backed artificial intelligence giant, to bring HUMAIN's ALLAM Arabic foundation models straight into Microsoft Foundry and Microsoft 365 Copilot. Here's the wild part: instead of just forcing English-centric monolithic models onto international markets, this deal focuses on hyper-localized, culturally nuanced Arabic AI for hundreds of millions of enterprise users across the Middle East and Africa. Microsoft and HUMAIN are even deploying specialized Forward Deployed Engineers directly into enterprise customer offices to build custom workflows and transition pilots into production systems. This proves that sovereign, regional language models are becoming essential business assets rather than just niche add-on features. While Silicon Valley obsesses over general-purpose chatbots, Microsoft is locking down regional enterprise infrastructure across emerging economies. It\u2019s a very smart chess move in enterprise tech distribution that will reshape regional digital productivity!",
     "id": "st-msft-humain-4820",
     "category": "Business",
     "companies": [
@@ -172,6 +190,8 @@
       "Public Investment Fund"
     ],
     "people": [],
-    "created_at": "2026-08-31T23:20:33Z"
+    "created_at": "2026-08-31T23:20:33Z",
+    "image_url": "images/30_08_26/st-msft-humain-4820.png",
+    "image_prompt": "Realistic newsroom photo style: diverse Middle East & Africa business leaders reviewing AI dashboards in a modern office; subtle holographic Arabic AI network patterns; Microsoft-like cloud and enterprise tech visuals; engineers in the foreground with tablets, warm professional lighting, shallow depth of field. No text."
   }
 ]
