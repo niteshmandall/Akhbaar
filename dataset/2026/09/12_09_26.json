@@ -7,7 +7,7 @@
     "title": "Did OpenAI Just Solve A Century-Old Math Mystery?!",
     "summary": "OpenAI announced that an internal next-generation model deployed 10,000 autonomous AI agents to crack the Navier-Stokes Millennium Prize problem in 88 hours. The claimed mathematical proof has sparked intense excitement alongside scrutiny from researchers regarding methodology and potential external data use.",
     "engagement": "High",
-    "raw_text": "So check this out, because my mind is completely blown right now! OpenAI just dropped a bombshell claiming an unreleased, next-generation model beyond GPT-6 Astra apparently solved the Navier-Stokes Millennium Prize problem. Yes, that Navier-Stokes—one of the hardest, century-old unsolved math mysteries on Earth with a cool million-dollar bounty. How did they pull this off? They reportedly unleashed an army of ten thousand concurrent AI agents that collaborated non-stop for eighty-eight straight hours until they hammered out a formal mathematical proof. Honestly, this is huge. We are not just talking about writing cheeky emails or generating digital artwork anymore; we are watching massive AI swarms tackle pure, foundational theoretical physics and mathematics that human geniuses haven't cracked in over a century. But here is the wild part: the academic community is already throwing up red flags. Outside researchers are demanding receipts and questioning whether the system actually leaned on unpublished human research. Is it the greatest scientific leap in algorithmic history, or did the AI take shortcuts? Let me know down in the comments!",
+    "raw_text": "So check this out, because my mind is completely blown right now! OpenAI just dropped a bombshell claiming an unreleased, next-generation model beyond GPT-6 Astra apparently solved the Navier-Stokes Millennium Prize problem. Yes, that Navier-Stokes\u2014one of the hardest, century-old unsolved math mysteries on Earth with a cool million-dollar bounty. How did they pull this off? They reportedly unleashed an army of ten thousand concurrent AI agents that collaborated non-stop for eighty-eight straight hours until they hammered out a formal mathematical proof. Honestly, this is huge. We are not just talking about writing cheeky emails or generating digital artwork anymore; we are watching massive AI swarms tackle pure, foundational theoretical physics and mathematics that human geniuses haven't cracked in over a century. But here is the wild part: the academic community is already throwing up red flags. Outside researchers are demanding receipts and questioning whether the system actually leaned on unpublished human research. Is it the greatest scientific leap in algorithmic history, or did the AI take shortcuts? Let me know down in the comments!",
     "category": "AI",
     "companies": [
       "OpenAI"
@@ -23,7 +23,7 @@
     "title": "Meta's New AI Butler Can Run Your Entire Life Autonomously",
     "summary": "Meta has launched Muse, a dedicated personal AI assistant capable of autonomously executing everyday tasks including email dispatch, travel booking, and web searches. Unlike passive chatbots, Muse integrates directly across user calendars and platform accounts to act as a proactive digital butler.",
     "engagement": "High",
-    "raw_text": "So check this out: Meta just pulled back the curtain on its most ambitious project yet, and it’s called Muse. Forget everything you know about basic chatbots that just sit there waiting for your prompts. Muse is designed as an all-out personal AI butler that operates right inside your ecosystem. We're talking about an agent that connects straight into your calendar, your personal accounts, and your inbox. It doesn't just suggest flight options—it actually books the trip, drafts and fires off emails, manages your weekly shopping, and surfs the web on your behalf. Honestly, this is huge because we have officially crossed the threshold from passive question-answering machines to fully proactive digital proxies. Meta is trying to leapfrog Google and Amazon by baking autonomous agents directly into everyday communication apps. Here’s the wild part: imagine waking up and realizing an AI already resolved your morning logistics before your alarm even went off. The convenience is insane, but do you really trust Meta running your entire schedule? Drop your thoughts below!",
+    "raw_text": "So check this out: Meta just pulled back the curtain on its most ambitious project yet, and it\u2019s called Muse. Forget everything you know about basic chatbots that just sit there waiting for your prompts. Muse is designed as an all-out personal AI butler that operates right inside your ecosystem. We're talking about an agent that connects straight into your calendar, your personal accounts, and your inbox. It doesn't just suggest flight options\u2014it actually books the trip, drafts and fires off emails, manages your weekly shopping, and surfs the web on your behalf. Honestly, this is huge because we have officially crossed the threshold from passive question-answering machines to fully proactive digital proxies. Meta is trying to leapfrog Google and Amazon by baking autonomous agents directly into everyday communication apps. Here\u2019s the wild part: imagine waking up and realizing an AI already resolved your morning logistics before your alarm even went off. The convenience is insane, but do you really trust Meta running your entire schedule? Drop your thoughts below!",
     "category": "Mobile",
     "companies": [
       "Meta",
@@ -41,13 +41,15 @@
     "title": "Terrifying New Threat: Autonomous AI Hackers Infiltrate Companies In Hours",
     "summary": "Cybersecurity researchers at Palo Alto Networks Unit 42 revealed that an adversary used coordinated AI agents to execute a complete corporate network breach in under ten hours. The automated attack chain strung together over 50 MITRE-mapped techniques, drastically compressing operational timelines from weeks into hours.",
     "engagement": "High",
-    "raw_text": "So check this out, because this might be the most terrifying tech story of the year. The security researchers over at Palo Alto Networks’ Unit 42 just uncovered a real-world corporate breach that should send shivers down every IT department's spine. A hacking group unleashed a coordinated swarm of AI agents that broke into an enterprise network and compromised it in under ten hours. Normally, an attack of this magnitude requires human red-teamers weeks of methodical reconnaissance, credential theft, and manual lateral movement. Here's the wild part: the AI didn't invent some magical zero-day exploit. Instead, it chained together more than fifty well-known offensive techniques with blistering algorithmic speed and pinpoint coordination. While defenders were sleeping, the bots mapped defenses, escalated privileges, and pivoted silently across systems before anyone could react. Honestly, this is huge because it marks the dawn of AI-versus-AI warfare in cyberspace. If bad actors can automate sophisticated corporate heists overnight, traditional security playbooks are basically obsolete. Are we entering an era where humans simply can't keep up? Tell me below!",
+    "raw_text": "So check this out, because this might be the most terrifying tech story of the year. The security researchers over at Palo Alto Networks\u2019 Unit 42 just uncovered a real-world corporate breach that should send shivers down every IT department's spine. A hacking group unleashed a coordinated swarm of AI agents that broke into an enterprise network and compromised it in under ten hours. Normally, an attack of this magnitude requires human red-teamers weeks of methodical reconnaissance, credential theft, and manual lateral movement. Here's the wild part: the AI didn't invent some magical zero-day exploit. Instead, it chained together more than fifty well-known offensive techniques with blistering algorithmic speed and pinpoint coordination. While defenders were sleeping, the bots mapped defenses, escalated privileges, and pivoted silently across systems before anyone could react. Honestly, this is huge because it marks the dawn of AI-versus-AI warfare in cyberspace. If bad actors can automate sophisticated corporate heists overnight, traditional security playbooks are basically obsolete. Are we entering an era where humans simply can't keep up? Tell me below!",
     "category": "Cybersecurity",
     "companies": [
       "Palo Alto Networks"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/sec-582c919.png",
+    "image_prompt": "Cinematic news photo style: shadowy AI code streams and robotic hand silhouettes infiltrating a modern corporate office network. Dark cyber lab glow, monitors showing abstract threat maps, alarms flicker, tense researchers in foreground, motion blur of data. Hyper-realistic, high detail, no text."
   },
   {
     "id": "goo-410e823",
@@ -55,16 +57,18 @@
     "source_file": "AI Research and Breakthroughs.pdf",
     "page": 3,
     "title": "Google Just Dropped $15 Billion On Nuclear Power For AI",
-    "summary": "Alphabet announced an investment of at least €13 billion ($15.1 billion) to construct massive AI data center infrastructure across Finland over the next two years. The landmark European initiative features a 22-year power purchase agreement securing up to 50 percent of the output from a Finnish nuclear power facility.",
+    "summary": "Alphabet announced an investment of at least \u20ac13 billion ($15.1 billion) to construct massive AI data center infrastructure across Finland over the next two years. The landmark European initiative features a 22-year power purchase agreement securing up to 50 percent of the output from a Finnish nuclear power facility.",
     "engagement": "High",
-    "raw_text": "So check this out: Google is putting up astronomical amounts of cash to guarantee its AI dominance, and it involves actual atomic energy! Alphabet just committed over fifteen billion dollars to expand their massive data center infrastructure in Finland over the next two years. But here’s the wild part that everyone is talking about: they signed a massive twenty-two-year deal to suck down up to fifty percent of the total electrical output from a Finnish nuclear power plant. Let that sink in for a second. We've officially reached the point where general electrical grids literally cannot keep up with frontier model training and real-time inference workloads. Tech giants aren't just buying servers anymore; they are locking down dedicated nuclear reactors to keep their AI engines running around the clock without spewing carbon into the atmosphere. Honestly, this is huge because it proves the AI race has shifted into an unprecedented energy land-grab. If you control the power, you control the future of computing. What do you think about tech giants locking down nuclear plants? Let's discuss!",
+    "raw_text": "So check this out: Google is putting up astronomical amounts of cash to guarantee its AI dominance, and it involves actual atomic energy! Alphabet just committed over fifteen billion dollars to expand their massive data center infrastructure in Finland over the next two years. But here\u2019s the wild part that everyone is talking about: they signed a massive twenty-two-year deal to suck down up to fifty percent of the total electrical output from a Finnish nuclear power plant. Let that sink in for a second. We've officially reached the point where general electrical grids literally cannot keep up with frontier model training and real-time inference workloads. Tech giants aren't just buying servers anymore; they are locking down dedicated nuclear reactors to keep their AI engines running around the clock without spewing carbon into the atmosphere. Honestly, this is huge because it proves the AI race has shifted into an unprecedented energy land-grab. If you control the power, you control the future of computing. What do you think about tech giants locking down nuclear plants? Let's discuss!",
     "category": "Hardware",
     "companies": [
       "Alphabet",
       "Google"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/goo-410e823.png",
+    "image_prompt": "Photorealistic news image: futuristic AI data center complex in Finland at dusk, glowing server halls through glass, wind turbines on snowy outskirts, distant nuclear plant cooling towers under low clouds, dramatic lighting, high detail, realistic scale, cinematic mood, no text."
   },
   {
     "id": "fus-619a004",
@@ -74,13 +78,15 @@
     "title": "Nuclear Fusion Is Exploding Thanks To Insane AI Power Hunger",
     "summary": "Helion Energy has rapidly scaled to more than 800 employees and secured $465 million in fresh capital, bringing its total funding to approximately $1.5 billion. The Seattle-area startup is racing to construct the world's first commercial fusion facility to supply carbon-free power to energy-intensive AI data centers.",
     "engagement": "High",
-    "raw_text": "So check this out: the science-fiction dream of infinite, clean nuclear fusion is accelerating way faster than anyone predicted, and you can thank generative AI for footing the bill! Helion Energy, that ambitious Seattle startup trying to commercialize fusion, just announced they’ve ballooned past eight hundred employees and locked down another 465 million dollars in funding. That brings their total war chest to an eye-watering 1.5 billion dollars. Why is money pouring in right now? Because mega-scale data centers are threatening to break the global power grid, and tech titans desperately need 24/7 carbon-free baseload energy that solar and wind simply cannot supply alone. Here’s the wild part: Helion isn't treating fusion like an abstract university research experiment anymore. They are literally constructing commercial power plants in Washington state designed to hook directly into industrial infrastructure. Honestly, this is huge. We are watching the fusion race transition from decades of theoretical physics into a high-stakes engineering sprint driven by the silicon thirst for megawatts. Is fusion finally arriving, or is it another bubble? Let me know!",
+    "raw_text": "So check this out: the science-fiction dream of infinite, clean nuclear fusion is accelerating way faster than anyone predicted, and you can thank generative AI for footing the bill! Helion Energy, that ambitious Seattle startup trying to commercialize fusion, just announced they\u2019ve ballooned past eight hundred employees and locked down another 465 million dollars in funding. That brings their total war chest to an eye-watering 1.5 billion dollars. Why is money pouring in right now? Because mega-scale data centers are threatening to break the global power grid, and tech titans desperately need 24/7 carbon-free baseload energy that solar and wind simply cannot supply alone. Here\u2019s the wild part: Helion isn't treating fusion like an abstract university research experiment anymore. They are literally constructing commercial power plants in Washington state designed to hook directly into industrial infrastructure. Honestly, this is huge. We are watching the fusion race transition from decades of theoretical physics into a high-stakes engineering sprint driven by the silicon thirst for megawatts. Is fusion finally arriving, or is it another bubble? Let me know!",
     "category": "Science",
     "companies": [
       "Helion Energy"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/fus-619a004.png",
+    "image_prompt": "Seattle-area tech campus at dusk: Helion fusion facility under construction with steel towers, glowing containment ring, cranes, and workers. In foreground, sleek AI server racks with cables, subtle blue light. Realistic, cinematic, high detail, news photo style, shallow depth of field, no text."
   },
   {
     "id": "gen-312b988",
@@ -90,14 +96,16 @@
     "title": "DeepMind Maps 9 Billion DNA Mutations To Reinvent Medicine",
     "summary": "Google DeepMind released AlphaGenome Atlas, an open-access AI database that predicts the molecular consequences of every single-letter mutation across the human genome. Published in Nature, the model evaluates approximately nine billion potential genetic variants to dramatically accelerate genomic research and therapeutics.",
     "engagement": "Medium",
-    "raw_text": "So check this out: DeepMind is back at it again, and they might have just cracked open human genetics like never before. Building on their legendary AlphaFold success, they just published a massive paper in Nature unveiling the AlphaGenome Atlas. This computational beast evaluates and predicts the exact molecular fallout of all nine billion single-letter DNA variants across the entire human genome. Think about that for a second: our DNA is made up of three billion genetic letters, and DeepMind’s new model literally pre-calculated the consequences of every single potential spelling error. Here’s the wild part: instead of geneticists spending decades and millions of dollars running agonizing wet-lab experiments, researchers can now query this database for free in seconds to pinpoint disease-causing mutations and identify custom drug targets. Honestly, this is huge for the future of personalized medicine and rare disease research. While consumer chatbots get all the social media hype, DeepMind is quietly rewriting biological science from the ground up. Are you excited for AI-designed medicine? Drop your thoughts below!",
+    "raw_text": "So check this out: DeepMind is back at it again, and they might have just cracked open human genetics like never before. Building on their legendary AlphaFold success, they just published a massive paper in Nature unveiling the AlphaGenome Atlas. This computational beast evaluates and predicts the exact molecular fallout of all nine billion single-letter DNA variants across the entire human genome. Think about that for a second: our DNA is made up of three billion genetic letters, and DeepMind\u2019s new model literally pre-calculated the consequences of every single potential spelling error. Here\u2019s the wild part: instead of geneticists spending decades and millions of dollars running agonizing wet-lab experiments, researchers can now query this database for free in seconds to pinpoint disease-causing mutations and identify custom drug targets. Honestly, this is huge for the future of personalized medicine and rare disease research. While consumer chatbots get all the social media hype, DeepMind is quietly rewriting biological science from the ground up. Are you excited for AI-designed medicine? Drop your thoughts below!",
     "category": "Science",
     "companies": [
       "Google",
       "Google DeepMind"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/gen-312b988.png",
+    "image_prompt": "Photoreal futuristic newsroom scene: diverse scientists in lab coats around a glowing holographic human DNA double helix, streaming data points and mutation icons in cool blue light, subtle world-map grid backdrop, cinematic lighting, shallow depth of field, ultra-realistic, high detail, no text."
   },
   {
     "id": "cog-182f551",
@@ -115,7 +123,9 @@
       "Accel"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/cog-182f551.png",
+    "image_prompt": "Photorealistic newsroom scene with a sleek server rack glowing behind a stylized AI chip silhouette; a calm executive presenting a funding chart on a tablet to a cofounder; cinematic lighting, high detail, realistic colors, shallow depth of field, modern corporate mood, no text."
   },
   {
     "id": "qcom-720d441",
@@ -125,7 +135,7 @@
     "title": "Qualcomm Strikes Massive $60B AI Chip Deal With Amazon",
     "summary": "Qualcomm announced a major multi-year collaboration with Amazon Web Services involving the supply of custom AI inference silicon and optical networking hardware. Under the agreement, AWS secures the right to acquire up to $60 billion in specialized inference chips alongside $4 billion in Qualcomm equity warrants.",
     "engagement": "Medium",
-    "raw_text": "So check this out: Nvidia’s near-monopoly on data center silicon just received a massive challenge from an unexpected player. Qualcomm announced an eye-popping multi-year mega-partnership with Amazon Web Services, granting AWS options to purchase up to sixty billion dollars worth of custom AI inference processors and cutting-edge optical hardware. On top of that, Qualcomm granted Amazon four billion dollars in stock warrants to cement the alliance. Here's the wild part: we all know Qualcomm as the undisputed king of smartphone modems and mobile processors, but this deal proves they are successfully transforming into a cloud powerhouse. Hyper-scalers like AWS are spending tens of billions, and they are desperate to cut reliance on Nvidia's ultra-expensive GPUs by deploying dedicated, energy-efficient inference silicon at scale. Honestly, this is huge for the semiconductor ecosystem. Diversifying who powers the cloud will drive down AI computing costs across the board. Can Qualcomm actually threaten team green in the data center, or is Nvidia untouchable? Drop your comments below!",
+    "raw_text": "So check this out: Nvidia\u2019s near-monopoly on data center silicon just received a massive challenge from an unexpected player. Qualcomm announced an eye-popping multi-year mega-partnership with Amazon Web Services, granting AWS options to purchase up to sixty billion dollars worth of custom AI inference processors and cutting-edge optical hardware. On top of that, Qualcomm granted Amazon four billion dollars in stock warrants to cement the alliance. Here's the wild part: we all know Qualcomm as the undisputed king of smartphone modems and mobile processors, but this deal proves they are successfully transforming into a cloud powerhouse. Hyper-scalers like AWS are spending tens of billions, and they are desperate to cut reliance on Nvidia's ultra-expensive GPUs by deploying dedicated, energy-efficient inference silicon at scale. Honestly, this is huge for the semiconductor ecosystem. Diversifying who powers the cloud will drive down AI computing costs across the board. Can Qualcomm actually threaten team green in the data center, or is Nvidia untouchable? Drop your comments below!",
     "category": "Hardware",
     "companies": [
       "Qualcomm",
@@ -134,7 +144,9 @@
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/qcom-720d441.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek server racks with glowing AI chips and optical fiber cables, Amazon AWS-style cloud silhouettes in soft bokeh, corporate executives in suits in foreground, dramatic blue lighting, high detail, shallow depth of field, realistic, no text, no logos."
   },
   {
     "id": "jdc-883a992",
@@ -144,14 +156,16 @@
     "title": "China Builds Massive 100,000 Domestic GPU AI Supercluster",
     "summary": "Chinese cloud provider JD Cloud announced plans to deploy a supercluster powered by 100,000 GPUs sourced exclusively from domestic chipmaker Moore Threads. The infrastructure will accelerate large language model training, low-latency inference, and embodied AI robotics applications.",
     "engagement": "Medium",
-    "raw_text": "So check this out: the global semiconductor race just hit a historic milestone over in Asia. JD Cloud officially unveiled their plan to construct an enormous AI supercluster powered entirely by one hundred thousand domestic GPUs from Chinese startup Moore Threads. Yes, you heard that right—one hundred thousand GPUs operating without relying on Western silicon supply chains. Here’s the wild part: this represents the world's first deployment at this scale utilizing homegrown Chinese accelerator chips, specifically tuned for training next-gen foundational models, high-throughput inference, and embodied robotics AI. For the past few years, export restrictions forced Chinese tech giants to innovate rapidly around domestic alternatives, and this deployment proves local hardware manufacturers are stepping up to massive industrial production. Honestly, this is huge because it signals that the computing landscape is permanently bifurcating into parallel hardware stacks. If domestic Chinese silicon can reliably support clusters of this scale, the global hardware market will never look the same. Can Moore Threads genuinely compete on performance? Share your thoughts below!",
+    "raw_text": "So check this out: the global semiconductor race just hit a historic milestone over in Asia. JD Cloud officially unveiled their plan to construct an enormous AI supercluster powered entirely by one hundred thousand domestic GPUs from Chinese startup Moore Threads. Yes, you heard that right\u2014one hundred thousand GPUs operating without relying on Western silicon supply chains. Here\u2019s the wild part: this represents the world's first deployment at this scale utilizing homegrown Chinese accelerator chips, specifically tuned for training next-gen foundational models, high-throughput inference, and embodied robotics AI. For the past few years, export restrictions forced Chinese tech giants to innovate rapidly around domestic alternatives, and this deployment proves local hardware manufacturers are stepping up to massive industrial production. Honestly, this is huge because it signals that the computing landscape is permanently bifurcating into parallel hardware stacks. If domestic Chinese silicon can reliably support clusters of this scale, the global hardware market will never look the same. Can Moore Threads genuinely compete on performance? Share your thoughts below!",
     "category": "Hardware",
     "companies": [
       "JD Cloud",
       "Moore Threads"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/jdc-883a992.png",
+    "image_prompt": "Photorealistic news photo: sprawling data center campus in China at dusk, rows of illuminated server racks, cool blue LED glow, subtle steam vents, sleek technicians monitoring GPU clusters, massive cooling pipes, high-tech atmosphere, cinematic lighting, ultra-detailed, realistic, no text."
   },
   {
     "id": "ds-551k304",
@@ -161,12 +175,14 @@
     "title": "DeepSeek V4.1 Flash Drops: 552B Parameters Of Pure Speed",
     "summary": "Chinese AI lab DeepSeek launched a limited beta of V4.1 Flash, a 552-billion-parameter multilingual mixture-of-experts model featuring native multimodal capabilities. The architecture delivers substantially lower inference latency and higher throughput compared to prior generations.",
     "engagement": "Medium",
-    "raw_text": "So check this out: while Western AI labs are trading blows, DeepSeek quietly dropped another monster update that has developers buzzing. They just rolled out the beta for their brand-new V4.1 Flash model, and the specifications are insane. We are looking at a 552-billion-parameter multilingual mixture-of-experts architecture equipped with native multimodal text and image understanding. Here’s the wild part: they’ve engineered this model specifically for ultra-fast throughput and dramatically slashed inference costs, claiming it can go toe-to-toe with frontier Western models while running at a fraction of the computational overhead. Honestly, this is huge for the open-weights and efficient AI movement. DeepSeek has consistently shown that clever algorithmic design and sparse MoE routing can rival brute-force compute. If these early benchmarks hold up during public stress testing, developers are going to flock to it for production workflows. We are witnessing an incredible global algorithmic arms race, and the bar for efficiency just got pushed even higher. Are you planning to test V4.1 Flash in your apps? Let me know below!",
+    "raw_text": "So check this out: while Western AI labs are trading blows, DeepSeek quietly dropped another monster update that has developers buzzing. They just rolled out the beta for their brand-new V4.1 Flash model, and the specifications are insane. We are looking at a 552-billion-parameter multilingual mixture-of-experts architecture equipped with native multimodal text and image understanding. Here\u2019s the wild part: they\u2019ve engineered this model specifically for ultra-fast throughput and dramatically slashed inference costs, claiming it can go toe-to-toe with frontier Western models while running at a fraction of the computational overhead. Honestly, this is huge for the open-weights and efficient AI movement. DeepSeek has consistently shown that clever algorithmic design and sparse MoE routing can rival brute-force compute. If these early benchmarks hold up during public stress testing, developers are going to flock to it for production workflows. We are witnessing an incredible global algorithmic arms race, and the bar for efficiency just got pushed even higher. Are you planning to test V4.1 Flash in your apps? Let me know below!",
     "category": "AI",
     "companies": [
       "DeepSeek"
     ],
     "people": [],
-    "created_at": "2026-09-12T00:26:40Z"
+    "created_at": "2026-09-12T00:26:40Z",
+    "image_url": "images/12_09_26/ds-551k304.png",
+    "image_prompt": "Futuristic newsroom scene with a glowing neural network core at center, translucent circuitry flowing like streams, subtle Chinese skyline silhouette in the background, warm-to-cool tech lighting, realistic high-detail, cinematic depth of field, dynamic motion blur hinting speed, no text, no logos."
   }
 ]
