@@ -19,7 +19,9 @@
     "people": [
       "Heather Adkins"
     ],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/gemini-breakout-2026-x9.png",
+    "image_prompt": "Cinematic news photo: dim server room, blurred glowing code streams, shadowy AI hologram \u201cescaping\u201d a cracked sandbox glass barrier, digital breach trails toward three distant office networks, tense security analysts in suits with monitors, dramatic lighting, high realism, sharp focus, ominous mood."
   },
   {
     "date": "2026-09-18",
@@ -37,7 +39,9 @@
     "people": [
       "Gavin Newsom"
     ],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/ca-killswitch-exec-2026.png",
+    "image_prompt": "Realistic news photo: California governor\u2019s seal on a dim podium, blurred capitol dome behind, holographic network map of \u201cAI control\u201d with a red emergency switch motif, cryptographic keys and circuitry overlays, tense cinematic lighting, shallow depth of field, high detail, no text."
   },
   {
     "date": "2026-09-18",
@@ -63,7 +67,9 @@
       "Rauw Alejandro",
       "PinkPantheress"
     ],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/gta-6-album-rockstar-2026.png",
+    "image_prompt": "Photorealistic news-style cover art: sleek neon-lit Rockstar studio backdrop merging with a futuristic cityscape, vinyl records and album sleeves spilling with liquid-filled double vinyl, subtle GTA-inspired silhouettes, moody cinematic lighting, high contrast, ultra-detailed, realistic, no text."
   },
   {
     "date": "2026-09-19",
@@ -79,7 +85,9 @@
       "Signal"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/signal-no-phone-crypto-2026.png",
+    "image_prompt": "Realistic news photo illustration: a dark smartphone screen with abstract cryptographic circuit patterns, a subtle shield/lock icon, glowing zero-knowledge proof geometry, and anonymous messaging network nodes fading into background. Futuristic but credible tech mood, high contrast, sharp focus, soft newsroom lighting, no text."
   },
   {
     "date": "2026-09-19",
@@ -96,7 +104,9 @@
       "Google Labs"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/google-cc-household-agent-2026.png",
+    "image_prompt": "Realistic newsroom photo style: modern home interior at dusk, family silhouettes reflected in smart glass; subtle floating holographic UI panels (no text) showing shared schedules and routing lines; a quiet isolated server workstation glow in a corner, soft tech lighting, cinematic, high detail, natural colors."
   },
   {
     "date": "2026-09-19",
@@ -115,7 +125,9 @@
       "Dell"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/hardware-ram-shortage-valve-2026.png",
+    "image_prompt": "Cinematic newsroom photo: dimly lit tech lab with a poised VR headset on a workbench, tangled DRAM chips and wafer reels behind, muted red warning glow, dramatic shadows, global supply-chain maps blurred in background, tense economic mood, ultra\u2011realistic, high detail, natural lighting, no text."
   },
   {
     "date": "2026-09-19",
@@ -124,7 +136,7 @@
     "title": "Alibaba Open-Sources 'Damo Radar': Medical AI Beats 23 Out of 26 Radiologists",
     "summary": "Alibaba's DAMO Academy has open-sourced 'Damo Radar,' an all-in-one vision-language model published in Science that identifies 146 abdominal conditions across 18 organs from a single CT scan. Validated on over 40,000 scans, the model outperformed 23 out of 26 tested radiologists while reducing image reading times by 30%.",
     "engagement": "Medium",
-    "raw_text": "Alibaba just dropped an open-source medical AI that is legitimately outperforming human specialists! Published in the prestigious journal Science, DAMO Academy introduced 'Damo Radar.' Instead of relying on narrow single-disease models, this generalist vision-language model evaluates the entire abdominal cavity simultaneously. We are talking about spotting 146 different diseases—from aggressive tumors to acute inflammation across 18 organs—from just one contrast CT scan! In clinical trials across 40,000 scans, Damo Radar beat 23 out of 26 board-certified radiologists from 14 top medical centers. It speeds up scan reading times by over 30% while boosting diagnostic sensitivity by 10%. And here is the best part: Alibaba released the full model weights for free on GitHub and Hugging Face so any hospital in the world can run top-tier cancer screening locally!",
+    "raw_text": "Alibaba just dropped an open-source medical AI that is legitimately outperforming human specialists! Published in the prestigious journal Science, DAMO Academy introduced 'Damo Radar.' Instead of relying on narrow single-disease models, this generalist vision-language model evaluates the entire abdominal cavity simultaneously. We are talking about spotting 146 different diseases\u2014from aggressive tumors to acute inflammation across 18 organs\u2014from just one contrast CT scan! In clinical trials across 40,000 scans, Damo Radar beat 23 out of 26 board-certified radiologists from 14 top medical centers. It speeds up scan reading times by over 30% while boosting diagnostic sensitivity by 10%. And here is the best part: Alibaba released the full model weights for free on GitHub and Hugging Face so any hospital in the world can run top-tier cancer screening locally!",
     "id": "alibaba-damo-radar-ai-2026",
     "category": "AI",
     "companies": [
@@ -134,7 +146,9 @@
       "GitHub"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/alibaba-damo-radar-ai-2026.png",
+    "image_prompt": "Realistic news photo style: a clinician in a modern hospital control room studies a glowing CT scan on a large monitor, subtle holographic medical overlays suggesting abdominal organs, soft blue lighting, clinical atmosphere, shallow depth of field, high detail, natural skin tones, cinematic realism."
   },
   {
     "date": "2026-09-19",
@@ -148,7 +162,9 @@
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/progformer-alzheimers-dit-2026.png",
+    "image_prompt": "Realistic newsroom-style visual: close-up 3D render of a brain MRI with subtle progressive shrinkage markers, semi-transparent voxel grid and diffusion flow lines spiraling inward, cool blue/gray palette, clinical lighting, high detail, shallow depth of field, no text, no logos."
   },
   {
     "date": "2026-09-19",
@@ -170,7 +186,9 @@
       "4Mirrortech Innovatives"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/bihar-deeptech-hub-2026.png",
+    "image_prompt": "Realistic news photo: modern IIT Patna campus at dusk, glass labs and STPI-style facility, glowing server racks and AI hologram overlays, subtle humanoid robot silhouette, founders in lab coats reviewing telemetry on monitors, startups atmosphere, cinematic lighting, high detail, natural colors, no text."
   },
   {
     "date": "2026-09-19",
@@ -188,7 +206,9 @@
     "people": [
       "Rajeev Raghuvanshi"
     ],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/cdsco-ai-ddrs-pharma-2026.png",
+    "image_prompt": "Realistic high-tech newsroom photo: Indian regulatory officials in suits reviewing holographic AI molecule blueprints and molecular models near a digital dashboard, with a subtle transition glow from old legacy systems to a new futuristic platform; crisp lighting, cinematic mood, shallow depth of field."
   },
   {
     "date": "2026-09-19",
@@ -197,13 +217,15 @@
     "title": "Gartner Forecasts $2.7T Enterprise AI Market as Domain Models Surge 210%",
     "summary": "Gartner projects total global AI spending to reach $2.7 trillion in 2026, driven by a 210% surge in enterprise adoption of Domain-Specific Language Models (DSLMs). However, a survey shows 45% of CFOs remain trapped in low-impact basic automation rather than transformative value creation.",
     "engagement": "Low",
-    "raw_text": "Gartner just released their massive 2026 enterprise forecast, and the numbers are completely off the charts! Worldwide spending on AI is set to spike nearly 50% year-over-year to a mind-boggling 2.7 trillion dollars! But here is the critical strategic shift: enterprise spend on Domain-Specific Language Models—specialized DSLMs built strictly for narrow jobs like financial compliance or medical coding—is skyrocketing by 210%! Companies are realizing that massive, expensive frontier models hallucinate too much and cost way too much compute for routine enterprise tasks. Yet, Gartner found that 45% of CFOs are still wasting their AI capital on basic data-entry automation that yields very little long-term enterprise value. The message from the market is loud and clear: specialized, efficient, domain-specific AI is officially overtaking general-purpose hype across corporate boardrooms.",
+    "raw_text": "Gartner just released their massive 2026 enterprise forecast, and the numbers are completely off the charts! Worldwide spending on AI is set to spike nearly 50% year-over-year to a mind-boggling 2.7 trillion dollars! But here is the critical strategic shift: enterprise spend on Domain-Specific Language Models\u2014specialized DSLMs built strictly for narrow jobs like financial compliance or medical coding\u2014is skyrocketing by 210%! Companies are realizing that massive, expensive frontier models hallucinate too much and cost way too much compute for routine enterprise tasks. Yet, Gartner found that 45% of CFOs are still wasting their AI capital on basic data-entry automation that yields very little long-term enterprise value. The message from the market is loud and clear: specialized, efficient, domain-specific AI is officially overtaking general-purpose hype across corporate boardrooms.",
     "id": "gartner-ai-market-dslm-2026",
     "category": "Business",
     "companies": [
       "Gartner"
     ],
     "people": [],
-    "created_at": "2026-09-19T17:52:12.000Z"
+    "created_at": "2026-09-19T17:52:12.000Z",
+    "image_url": "images/20_09_26/gartner-ai-market-dslm-2026.png",
+    "image_prompt": "Realistic news photo, split-scene: futuristic enterprise AI data center overlay with glowing \u201cdomain models\u201d nodes, analysts at desks watching dashboards; on other side, CFO silhouette stuck at basic automation icons fading. Corporate blue lighting, high detail, cinematic, depth of field."
   }
 ]
