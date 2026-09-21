@@ -7,13 +7,15 @@
     "title": "Apple's Wild New Foldable: iPhone Duo and iPhone 18 Pro Drop!",
     "summary": "Apple officially launched the iPhone 18 Pro and Pro Max starting at $1,199 alongside its first foldable smartphone, the iPhone Duo, starting at $1,999. The launch drew massive global crowds as Apple established the slimmest foldable device design to date.",
     "engagement": "High",
-    "raw_text": "So check this out—Apple finally did it, and honestly, this is huge! We're not just looking at the incremental upgrade with the iPhone 18 Pro and Pro Max anymore. The real star that literally had people lining up around the block today is the all-new iPhone Duo! Yes, Apple's very first foldable phone is officially here, starting at a whopping two grand. But here's the wild part: they managed to engineer what is currently the thinnest foldable screen on the entire market. For years, Android fans have been clowning Apple for sitting on the sidelines while foldables took over. Well, Apple just stepped into the arena with custom silicon and an ultra-premium dual display that makes older foldable creases look ancient. I was skeptical when the rumors first surfaced, but seeing this hardware in person changes the game. If you've been waiting for foldables to hit true mainstream polish, this is the exact moment everything shifts!",
+    "raw_text": "So check this out\u2014Apple finally did it, and honestly, this is huge! We're not just looking at the incremental upgrade with the iPhone 18 Pro and Pro Max anymore. The real star that literally had people lining up around the block today is the all-new iPhone Duo! Yes, Apple's very first foldable phone is officially here, starting at a whopping two grand. But here's the wild part: they managed to engineer what is currently the thinnest foldable screen on the entire market. For years, Android fans have been clowning Apple for sitting on the sidelines while foldables took over. Well, Apple just stepped into the arena with custom silicon and an ultra-premium dual display that makes older foldable creases look ancient. I was skeptical when the rumors first surfaced, but seeing this hardware in person changes the game. If you've been waiting for foldables to hit true mainstream polish, this is the exact moment everything shifts!",
     "category": "Mobile",
     "companies": [
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_01.png",
+    "image_prompt": "Realistic high-quality news photo: Apple Store at night with glowing glass facade, massive crowd, photographers, and subtle iPhone Duo foldable silhouette on a sleek display. Slim folded design, premium lighting, shallow depth of field, cinematic reflections, crowd excitement, modern tech atmosphere, no text."
   },
   {
     "id": "tn2026_02",
@@ -23,7 +25,7 @@
     "title": "Claude Is Coding Itself: Anthropic Discloses 26% Autonomous R&D!",
     "summary": "Anthropic's inaugural R&D Automation Index revealed that Claude autonomously executes 26% of internal engineering tasks end-to-end. The company simultaneously hit a $100 billion annualized revenue run-rate powered by autonomous agent deployments.",
     "engagement": "High",
-    "raw_text": "Hold onto your seats because we have officially entered the recursive AI sci-fi era! Anthropic just dropped their R&D Automation Index, and the numbers are completely blowing my mind. Claude is now autonomously leading 26% of their internal research and engineering tasks end-to-end. Let me repeat that: Claude isn't just writing snippets or acting as an autocomplete copilot anymore—it's actively designing, debugging, and building its own successor! Back in February, that number was sitting at zero percent. Now, Anthropic has over 30,000 automated engineering agents running continuously across their clusters, driving their annualized run-rate past $100 billion. But here's the wild part that should keep you up at night: frontier reasoning models like Claude Opus 5 were proven by security researchers to chain zero-day exploits completely autonomously. We are watching artificial intelligence improve itself in continuous, multi-agent loops, and honestly, the sheer velocity of this self-improvement curve is both thrilling and terrifying!",
+    "raw_text": "Hold onto your seats because we have officially entered the recursive AI sci-fi era! Anthropic just dropped their R&D Automation Index, and the numbers are completely blowing my mind. Claude is now autonomously leading 26% of their internal research and engineering tasks end-to-end. Let me repeat that: Claude isn't just writing snippets or acting as an autocomplete copilot anymore\u2014it's actively designing, debugging, and building its own successor! Back in February, that number was sitting at zero percent. Now, Anthropic has over 30,000 automated engineering agents running continuously across their clusters, driving their annualized run-rate past $100 billion. But here's the wild part that should keep you up at night: frontier reasoning models like Claude Opus 5 were proven by security researchers to chain zero-day exploits completely autonomously. We are watching artificial intelligence improve itself in continuous, multi-agent loops, and honestly, the sheer velocity of this self-improvement curve is both thrilling and terrifying!",
     "category": "AI",
     "companies": [
       "Anthropic",
@@ -31,7 +33,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_02.png",
+    "image_prompt": "Futuristic newsroom scene: sleek server racks and glowing neural network lines, a humanoid AI silhouette made of light at center, subtle circuit patterns suggesting autonomous R&D, realistic lighting, high contrast, credible tech mood, shallow depth of field, no text."
   },
   {
     "id": "tn2026_03",
@@ -49,7 +53,9 @@
       "Stripe"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_03.png",
+    "image_prompt": "Cinematic newsroom-style illustration: split-screen of Amazon headquarters vs Meta AI server glow, with autonomous robot messenger \u201cMuse\u201d reaching toward a glowing e-commerce checkout blocked by a digital firewall; tense blue-orange lighting, photorealistic, high contrast, shallow depth of field, no text."
   },
   {
     "id": "tn2026_04",
@@ -59,7 +65,7 @@
     "title": "Microsoft & NVIDIA Team Up: 1 Petaflop Surface Laptop Ultra Announced!",
     "summary": "Microsoft and NVIDIA scheduled an October 7 event to launch the Surface Laptop Ultra featuring NVIDIA's custom Grace and Blackwell-powered RTX Spark SoC. The hardware brings up to 128 GB of unified memory and one petaflop of local FP4 compute to Windows workstations.",
     "engagement": "High",
-    "raw_text": "Mark your calendars for October 7, because Microsoft and NVIDIA are teaming up to completely reshape PC hardware! Satya Nadella and Jensen Huang are co-headlining a massive Windows summit to unleash the Surface Laptop Ultra, and the specs on this machine are mind-melting. We're talking about NVIDIA's custom RTX Spark platform, which packs a 20-core ARM Grace processor paired with Blackwell RTX graphics silicon. Here's the wild part: it features up to 128 gigabytes of unified LPDDR5X memory and delivers a full petaflop of FP4 AI processing locally on your desk! You'll be able to run massive 120-billion-parameter open-source models completely offline with sub-10ms latency—no cloud subscriptions, no token costs, and zero latency bottlenecks. Microsoft even rebuilt the Windows 11 scheduler specifically to balance tasks across Blackwell tensor cores. Move over Apple Silicon M-series, because native NVIDIA CUDA power has arrived directly on Windows laptops!",
+    "raw_text": "Mark your calendars for October 7, because Microsoft and NVIDIA are teaming up to completely reshape PC hardware! Satya Nadella and Jensen Huang are co-headlining a massive Windows summit to unleash the Surface Laptop Ultra, and the specs on this machine are mind-melting. We're talking about NVIDIA's custom RTX Spark platform, which packs a 20-core ARM Grace processor paired with Blackwell RTX graphics silicon. Here's the wild part: it features up to 128 gigabytes of unified LPDDR5X memory and delivers a full petaflop of FP4 AI processing locally on your desk! You'll be able to run massive 120-billion-parameter open-source models completely offline with sub-10ms latency\u2014no cloud subscriptions, no token costs, and zero latency bottlenecks. Microsoft even rebuilt the Windows 11 scheduler specifically to balance tasks across Blackwell tensor cores. Move over Apple Silicon M-series, because native NVIDIA CUDA power has arrived directly on Windows laptops!",
     "category": "Hardware",
     "companies": [
       "Microsoft",
@@ -70,7 +76,9 @@
       "Jensen Huang",
       "Pavan Davuluri"
     ],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_04.png",
+    "image_prompt": "Photorealistic news hero image: a sleek Surface Laptop Ultra on a modern tech stage, faint blue light beams, NVIDIA-style ambient glow, subtle abstract chip silhouettes in the background, premium metallic textures, crisp depth of field, professional cinematic lighting, no text."
   },
   {
     "id": "tn2026_05",
@@ -87,7 +95,9 @@
       "United Nations"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_05.png",
+    "image_prompt": "Photorealistic newsroom scene: UN experts in suits before a glowing UN emblem, tense expressions, holographic AI network breach diagram behind glass, emergency red alerts in dark palette, dramatic lighting, high detail, shallow depth of field, realistic photojournalism, no text."
   },
   {
     "id": "tn2026_06",
@@ -109,7 +119,9 @@
       "Quoc Le",
       "Oriol Vinyals"
     ],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_06.png",
+    "image_prompt": "Photoreal newsroom-style scene: a sleek AI lab with holographic molecular graphs, parallel experiment trays, glowing circuit pathways. Foreground: two distinguished ex-tech founders in smart attire at a glass console. Background: blurred monitors, investors\u2019 silhouettes, dramatic cinematic lighting."
   },
   {
     "id": "tn2026_07",
@@ -127,7 +139,9 @@
     "people": [
       "David Wang"
     ],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_07.png",
+    "image_prompt": "Realistic tech news image: sleek server-rack scene inside a futuristic lab, glowing cores representing 4,096 AI processors linked by light trails, near-packaged optical modules, circuitry featuring \u201cUnifiedBus\u201d style pathways, Huawei-like industrial design cues, dramatic blue-green lighting, high detail, shallow depth of field, no text."
   },
   {
     "id": "tn2026_08",
@@ -146,7 +160,9 @@
     "people": [
       "Carl Pei"
     ],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_08.png",
+    "image_prompt": "Cinematic newsroom photo: Carl Pei in a modern tech office beside an industrial hardware prototype, LED-lit shelves, Indian flags subtly reflected in glass, blurred Mumbai skyline through windows, subtle blue glow, corporate spin-off vibe, high-detail, realistic lighting, newsworthy composition, no text."
   },
   {
     "id": "tn2026_09",
@@ -166,7 +182,9 @@
     "people": [
       "Natasha Jones"
     ],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_09.png",
+    "image_prompt": "Realistic high-tech news photo: UK solar farm at golden hour, rows of panels and distant wind turbines, glowing data overlays (subtle, no text) over inverters and meters, blurred control room with monitors showing SCADA-like charts, confident engineer silhouette, cinematic lighting, crisp detail, natural colors."
   },
   {
     "id": "tn2026_10",
@@ -176,14 +194,16 @@
     "title": "Amazon Inks Massive $8B Power Deal With Generac for AI Data Centers!",
     "summary": "Amazon signed an $8 billion industrial procurement contract with Generac for backup generation hardware and microgrids while acquiring a 2.6% equity warrant. The multi-gigawatt power deal resolves grid queue backlogs that threaten global cloud expansion timelines.",
     "engagement": "Low",
-    "raw_text": "Here is a reality check on the artificial intelligence boom: the biggest bottleneck in tech right now isn't GPUs—it's electricity! Amazon just finalized a monumental $8 billion agreement with industrial power giant Generac to lock down backup generators and dedicated microgrids for its global AI data centers. Under the terms, Amazon even secured warrants for a 2.6% equity stake in Generac, with $2.4 billion in physical hardware deploying early next year. Hyperscale cloud operators are facing utility interconnection wait times of up to seven years across North America and Europe because municipal power grids simply cannot handle multi-gigawatt AI clusters. By locking up industrial turbines, transformers, and switchgear directly, Amazon is essentially transforming into its own independent utility company. This proves hyperscalers are willing to spend whatever it takes to keep their AI training clusters running without blacking out local cities!",
+    "raw_text": "Here is a reality check on the artificial intelligence boom: the biggest bottleneck in tech right now isn't GPUs\u2014it's electricity! Amazon just finalized a monumental $8 billion agreement with industrial power giant Generac to lock down backup generators and dedicated microgrids for its global AI data centers. Under the terms, Amazon even secured warrants for a 2.6% equity stake in Generac, with $2.4 billion in physical hardware deploying early next year. Hyperscale cloud operators are facing utility interconnection wait times of up to seven years across North America and Europe because municipal power grids simply cannot handle multi-gigawatt AI clusters. By locking up industrial turbines, transformers, and switchgear directly, Amazon is essentially transforming into its own independent utility company. This proves hyperscalers are willing to spend whatever it takes to keep their AI training clusters running without blacking out local cities!",
     "category": "Business",
     "companies": [
       "Amazon",
       "Generac"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_10.png",
+    "image_prompt": "Realistic newsroom photo style: Amazon cloud server racks at dusk, glowing data center corridors, technicians inspecting modular backup generators and microgrid power units, silhouetted utility substation infrastructure, dramatic sky, high-detail lighting, credible news aesthetics, no text, no logos."
   },
   {
     "id": "tn2026_11",
@@ -193,7 +213,7 @@
     "title": "AI Cloud Giant Nscale Files for $14.6 Billion IPO Despite Huge Losses!",
     "summary": "AI GPU infrastructure neocloud provider Nscale filed an S-1 registration on the NYSE under ticker NSCL seeking a $14.6 billion public valuation. Despite generating $140.6 million in H1 2026 revenue with 1,250% annual growth, net losses widened to $1.02 billion.",
     "engagement": "Low",
-    "raw_text": "Wall Street is about to get its biggest test of the AI infrastructure boom yet! London-based neocloud provider Nscale has officially filed its S-1 to go public on the New York Stock Exchange under ticker symbol NSCL at an estimated $14.6 billion valuation. The financials inside this prospectus are absolutely staggering. Nscale posted $140.6 million in revenue for the first half of 2026—a jaw-dropping 1,250% year-over-year surge! But here is the catch: their net losses exploded to over $1 billion in that exact same window. Backed by Nvidia, Microsoft, and OpenAI, Nscale claims a backlog of over $103 billion in signed customer contracts, including a rumored $45 billion compute reservation with Anthropic. Investors now have to decide whether building out billion-dollar GPU data centers is a sustainable long-term cash printer or a capital-intensive race to the bottom.",
+    "raw_text": "Wall Street is about to get its biggest test of the AI infrastructure boom yet! London-based neocloud provider Nscale has officially filed its S-1 to go public on the New York Stock Exchange under ticker symbol NSCL at an estimated $14.6 billion valuation. The financials inside this prospectus are absolutely staggering. Nscale posted $140.6 million in revenue for the first half of 2026\u2014a jaw-dropping 1,250% year-over-year surge! But here is the catch: their net losses exploded to over $1 billion in that exact same window. Backed by Nvidia, Microsoft, and OpenAI, Nscale claims a backlog of over $103 billion in signed customer contracts, including a rumored $45 billion compute reservation with Anthropic. Investors now have to decide whether building out billion-dollar GPU data centers is a sustainable long-term cash printer or a capital-intensive race to the bottom.",
     "category": "Business",
     "companies": [
       "Nscale",
@@ -203,7 +223,9 @@
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_11.png",
+    "image_prompt": "Realistic cinematic scene: towering data-center \u201ccloud\u201d skyline at night, glowing GPU racks through windows, rain-slick streets, dramatic neon-blue lighting, subtle investors\u2019 silhouette in foreground, press-camera bokeh, sense of high-stakes IPO, ultra-detailed, high contrast, no text, 16:9."
   },
   {
     "id": "tn2026_12",
@@ -220,6 +242,8 @@
       "SK Hynix"
     ],
     "people": [],
-    "created_at": "2026-09-21T14:55:58Z"
+    "created_at": "2026-09-21T14:55:58Z",
+    "image_url": "images/22_09_26/tn2026_12.png",
+    "image_prompt": "Realistic newsroom-style photo: Intel New Albany Ohio campus at dusk, cool industrial lighting; nearby cleanroom doors and faint circuit-blue glow suggesting HBM/DRAM. Two executives in suits shake hands over a tablet with holographic wafer schematics (no text). Tense, high-stakes negotiation mood."
   }
 ]
