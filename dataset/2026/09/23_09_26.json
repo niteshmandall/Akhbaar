@@ -6,7 +6,7 @@
     "title": "Alibaba Just Dropped a 10-Trillion Parameter AI Bomb!",
     "summary": "Alibaba unveiled its flagship Zhenwu V900 AI processor, delivering triple the compute throughput of its predecessor with 216 GB of memory. Alongside the silicon, Alibaba announced its Qwen roadmap targeting up to 10 trillion parameters driven by recursive self-improvement algorithms.",
     "engagement": "High",
-    "raw_text": "So check this out: Alibaba just blew the entire AI hardware race wide open! They held their massive keynote and dropped the Zhenwu V900 processor, packing a ridiculous 216 GB of ultra-fast memory and cluster scaling up to 500,000 chips. But here is the wild part that actually blew my mind: they are training a frontier model called Qwen 5 that aims for 10 trillion parameters! And how are they doing it? Recursive self-improvement. Their AI is literally designing its own microchips, running thousands of EDA layout tool loops on its own to shave die size by 42%. We are watching artificial intelligence transition from a chat interface into an autonomous engineer designing its own physical brains. Honestly, this is huge—China is building a full-stack, completely sovereign AI ecosystem that bypasses traditional Western supply bottlenecks entirely. If you thought the GPU race was slowing down, think again.",
+    "raw_text": "So check this out: Alibaba just blew the entire AI hardware race wide open! They held their massive keynote and dropped the Zhenwu V900 processor, packing a ridiculous 216 GB of ultra-fast memory and cluster scaling up to 500,000 chips. But here is the wild part that actually blew my mind: they are training a frontier model called Qwen 5 that aims for 10 trillion parameters! And how are they doing it? Recursive self-improvement. Their AI is literally designing its own microchips, running thousands of EDA layout tool loops on its own to shave die size by 42%. We are watching artificial intelligence transition from a chat interface into an autonomous engineer designing its own physical brains. Honestly, this is huge\u2014China is building a full-stack, completely sovereign AI ecosystem that bypasses traditional Western supply bottlenecks entirely. If you thought the GPU race was slowing down, think again.",
     "id": "ali_v900_qwen10t_901a",
     "category": "AI",
     "companies": [
@@ -18,7 +18,9 @@
       "Eddie Wu",
       "Joe Tsai"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/ali_v900_qwen10t_901a.png",
+    "image_prompt": "Ultra-realistic news photo style: sleek server racks in a futuristic data center, glowing blue circuit traces, central chip labeled only by shape (no text), holographic neural network patterns swirling. Mood: high-tech, dramatic lighting, sharp focus, shallow depth of field, 8k, HDR, realistic."
   },
   {
     "date": "2026-09-22",
@@ -27,7 +29,7 @@
     "title": "AI Is Now Designing Its Own Silicon Chips in 60-Hour Loops!",
     "summary": "During semiconductor layout trials, an automated design AI executed over 10,000 Electronic Design Automation tool calls continuously over 60 hours. The system autonomously shrank total die surface area by 42% without incurring any circuit performance penalties.",
     "engagement": "High",
-    "raw_text": "Here's the wild part you need to wrap your head around: AI is no longer just writing code or answering customer emails—it is literally designing physical microchips! In these groundbreaking semiconductor trials, an autonomous design model executed over 10,000 EDA tool calls in a continuous 60-hour loop completely unattended. The end result? It slashed total die surface area by an astonishing 42% while keeping full circuit performance intact! Think about that for a second. We've officially entered the era of recursive self-improvement where AI systems analyze their own operational limits, build synthetic training data, and optimize the very silicon they will run on next. This changes hardware engineering forever, compressing months of human layout trials into a single weekend. The feedback loop has started, and human engineers are moving from drafters to high-level system supervisors.",
+    "raw_text": "Here's the wild part you need to wrap your head around: AI is no longer just writing code or answering customer emails\u2014it is literally designing physical microchips! In these groundbreaking semiconductor trials, an autonomous design model executed over 10,000 EDA tool calls in a continuous 60-hour loop completely unattended. The end result? It slashed total die surface area by an astonishing 42% while keeping full circuit performance intact! Think about that for a second. We've officially entered the era of recursive self-improvement where AI systems analyze their own operational limits, build synthetic training data, and optimize the very silicon they will run on next. This changes hardware engineering forever, compressing months of human layout trials into a single weekend. The feedback loop has started, and human engineers are moving from drafters to high-level system supervisors.",
     "id": "eda_recursive_loop_338b",
     "category": "AI",
     "companies": [
@@ -37,7 +39,9 @@
     "people": [
       "Eddie Wu"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/eda_recursive_loop_338b.png",
+    "image_prompt": "Ultra-realistic newsroom photo style: a high-tech lab with illuminated wafer racks, glowing PCB schematics projected on glass, robotic arms and servers running, subtle AI circuit patterns in the air. Mood: dynamic, futuristic, credible; sharp focus, cinematic lighting, shallow depth of field. No text."
   },
   {
     "date": "2026-09-22",
@@ -56,7 +60,9 @@
     "people": [
       "Carlsen Martin"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/vivo_originos7_apple_412c.png",
+    "image_prompt": "Realistic news photo style: sleek Vivo smartphone displaying abstract \u201cecosystem\u201d glow, surrounded by subtle holographic icons of Apple Watch, AirPods, and iCloud. Neon newsroom lighting, cinematic depth of field, modern tech mood, crisp reflections, high detail, no text, no logos."
   },
   {
     "date": "2026-09-22",
@@ -65,7 +71,7 @@
     "title": "Cognex Drops Mega Bucks on RealSense to Dominate Humanoid Vision!",
     "summary": "Cognex Corporation announced a definitive agreement to acquire RealSense to expand into dynamic 3D spatial perception for humanoid robots and autonomous mobile platforms. RealSense is spinning off its facial authentication biometrics unit ahead of closing in Q4 2026.",
     "engagement": "High",
-    "raw_text": "The humanoid robotics race is heating up, and we just got a massive acquisition confirming where the industry is heading! Machine vision giant Cognex is officially buying RealSense—the famous depth-sensing pioneer that started inside Intel. RealSense has exploded to nearly $90 million in annual revenue because every humanoid robot and autonomous quadruped needs their 3D depth cameras and point-cloud mapping to walk and manipulate real-world objects without crashing. Before the deal closes, RealSense is spinning off its facial authentication business so Cognex can focus 100% on physical AI perception. As factory automation ditches static 2D overhead cameras for fully embodied spatial AI, owning the visual perception stack is like owning the steering wheel of next-gen robotics. This acquisition proves the physical AI revolution is arriving much faster than most people realize!",
+    "raw_text": "The humanoid robotics race is heating up, and we just got a massive acquisition confirming where the industry is heading! Machine vision giant Cognex is officially buying RealSense\u2014the famous depth-sensing pioneer that started inside Intel. RealSense has exploded to nearly $90 million in annual revenue because every humanoid robot and autonomous quadruped needs their 3D depth cameras and point-cloud mapping to walk and manipulate real-world objects without crashing. Before the deal closes, RealSense is spinning off its facial authentication business so Cognex can focus 100% on physical AI perception. As factory automation ditches static 2D overhead cameras for fully embodied spatial AI, owning the visual perception stack is like owning the steering wheel of next-gen robotics. This acquisition proves the physical AI revolution is arriving much faster than most people realize!",
     "id": "cognex_realsense_robot_771d",
     "category": "Hardware",
     "companies": [
@@ -77,7 +83,9 @@
       "Matt Moschner",
       "Nadav Orbach"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/cognex_realsense_robot_771d.png",
+    "image_prompt": "Realistic news photo style: a sleek humanoid robot and an autonomous mobile robot in a modern factory, hovering 3D holographic maps and spatial point clouds around them, subtle futuristic lighting, professional corporate atmosphere, shallow depth of field, high detail, natural colors, no text."
   },
   {
     "date": "2026-09-22",
@@ -94,7 +102,9 @@
       "Social Hardware International"
     ],
     "people": [],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/integra_bio_kinematics_509e.png",
+    "image_prompt": "Realistic news photo: scientist in a VR headset and bio-engineered haptic gloves teleoperating a robotic arm through a hazmat window. Neon-lit lab, stereoscopic screens glow, subtle haptic glove details, robotic gripper mid-action in a hazardous chamber, cinematic lighting, ultra-detailed, sharp focus, no text."
   },
   {
     "date": "2026-09-22",
@@ -113,7 +123,9 @@
     "people": [
       "Glen DeVos"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/mvis_elsfp_photonics_882f.png",
+    "image_prompt": "Photorealistic tech news scene: MicroVision/Scantinel ELSFP laser module with sleek metal chassis and faceplate, OIF-style pluggable optics, macro close-up showing laser emitters and cooling fins, subtle AI fabric cable backdrop, cool blue lighting, crisp focus, high contrast, professional product photography, no text."
   },
   {
     "date": "2026-09-22",
@@ -130,7 +142,9 @@
       "MediaTek"
     ],
     "people": [],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/quectel_genio_edge_614g.png",
+    "image_prompt": "Photorealistic newsroom-style hero image: sleek industrial edge AI module board with visible MT8371/Neural icons as abstract lighting, surrounded by compact IoT endpoint hardware, subtle circuit glow, shallow depth of field, cool blue tech palette, high contrast, crisp details, neutral background, no text."
   },
   {
     "date": "2026-09-22",
@@ -151,7 +165,9 @@
       "Melanie Ruderman",
       "Tom Chavez"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/time_kana_ad_agents_220h.png",
+    "image_prompt": "Realistic newsroom-style photo: TIME newsroom at dusk, split-scene view of enterprise software interfaces, analysts in suits monitoring dashboards, subtle holographic AI agent icons, server racks behind glass, dynamic ad campaign timeline visual arcs, professional, high-tech, credible lighting, shallow depth of field. No text."
   },
   {
     "date": "2026-09-22",
@@ -160,7 +176,7 @@
     "title": "DvSum & Aurora Unveil Autonomous AI Control Plane for Telecom Broadband!",
     "summary": "DvSum and Aurora Networks launched ServAssure NXT AI at SCTE TechExpo26 to create a closed-loop control plane for broadband network management. Domain-specific models autonomously correlate telemetry, isolate plant anomalies, and schedule predictive repairs before outages occur.",
     "engagement": "Low",
-    "raw_text": "Broadband networks are getting too complicated for humans to babysit, and this new launch proves telecom is handing the steering wheel to software agents. At SCTE TechExpo26, DvSum and Aurora Networks unveiled ServAssure NXT AI. Network operations centers are constantly drowning in alarm fatigue—hundreds of warning alerts flashing every hour across fragmented fiber and coaxial cables. Instead of waiting for customers to report broadband drops, this platform deploys specialized AI agents into an encrypted closed loop. The agents analyze physical-plant telemetry, pinpoint signal degradations, dynamically optimize spectrum routing, and schedule field repairs before you ever notice buffering on your home connection. It turns telecom operators from reactive firefighters into high-level supervisors of self-healing telecommunication infrastructure.",
+    "raw_text": "Broadband networks are getting too complicated for humans to babysit, and this new launch proves telecom is handing the steering wheel to software agents. At SCTE TechExpo26, DvSum and Aurora Networks unveiled ServAssure NXT AI. Network operations centers are constantly drowning in alarm fatigue\u2014hundreds of warning alerts flashing every hour across fragmented fiber and coaxial cables. Instead of waiting for customers to report broadband drops, this platform deploys specialized AI agents into an encrypted closed loop. The agents analyze physical-plant telemetry, pinpoint signal degradations, dynamically optimize spectrum routing, and schedule field repairs before you ever notice buffering on your home connection. It turns telecom operators from reactive firefighters into high-level supervisors of self-healing telecommunication infrastructure.",
     "id": "dvsum_aurora_nxt_105j",
     "category": "Business",
     "companies": [
@@ -168,7 +184,9 @@
       "Aurora Networks"
     ],
     "people": [],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/dvsum_aurora_nxt_105j.png",
+    "image_prompt": "Photorealistic news image: telecom control room with engineers, large panoramic LED wall showing abstract broadband network graphs, glowing data streams forming a closed-loop control plane. Sleek server racks labeled by visual icons only, bright Aurora-blue lighting, futuristic yet realistic, high detail, cinematic mood, shallow depth of field."
   },
   {
     "date": "2026-09-22",
@@ -177,7 +195,7 @@
     "title": "Alibaba Pledges Monster 20-Gigawatt Data Center Buildout to Fuel Cloud Dominance!",
     "summary": "Alibaba Cloud committed to expanding its operational data center infrastructure beyond 20 gigawatts of capacity by 2032. Citigroup financial analysts estimate this massive scale-out could expand Alibaba's external cloud revenues to $160 billion by FY2033.",
     "engagement": "Low",
-    "raw_text": "Let's talk about the absolute sheer scale of energy required to power next-generation AI! Alibaba Cloud dropped a staggering infrastructure roadmap committing to surpass 20 gigawatts of operational data center capacity by 2032. To put that into perspective, that is the power output of dozens of nuclear reactors dedicated entirely to compute and optical fabrics! Financial analysts at Citigroup crunched the numbers and pointed out that reaching this target implies external cloud revenues could surge to $160 billion by 2033—a 40% compound annual growth rate. Between proprietary Zhenyue SSD controllers, Panmai SmartNICs, and high-radix optical switches, Alibaba is engineering an independent hyperscale juggernaut. It shows the real constraint on AI dominance isn't just software algorithms—it's raw, uncompromising electrical power and physical infrastructure.",
+    "raw_text": "Let's talk about the absolute sheer scale of energy required to power next-generation AI! Alibaba Cloud dropped a staggering infrastructure roadmap committing to surpass 20 gigawatts of operational data center capacity by 2032. To put that into perspective, that is the power output of dozens of nuclear reactors dedicated entirely to compute and optical fabrics! Financial analysts at Citigroup crunched the numbers and pointed out that reaching this target implies external cloud revenues could surge to $160 billion by 2033\u2014a 40% compound annual growth rate. Between proprietary Zhenyue SSD controllers, Panmai SmartNICs, and high-radix optical switches, Alibaba is engineering an independent hyperscale juggernaut. It shows the real constraint on AI dominance isn't just software algorithms\u2014it's raw, uncompromising electrical power and physical infrastructure.",
     "id": "ali_20gw_datacenter_943k",
     "category": "Business",
     "companies": [
@@ -188,6 +206,8 @@
       "Eddie Wu",
       "Joe Tsai"
     ],
-    "created_at": "2026-09-22T18:27:16.000Z"
+    "created_at": "2026-09-22T18:27:16.000Z",
+    "image_url": "images/23_09_26/ali_20gw_datacenter_943k.png",
+    "image_prompt": "Futuristic, photorealistic news image: massive server hall racks and cooling systems, glowing fiber-optic cables, wide aerial of modern data center campus at dusk, subtle skyline silhouettes, dramatic cinematic lighting, businesslike tone, ultra-detailed, high contrast, no text."
   }
 ]
