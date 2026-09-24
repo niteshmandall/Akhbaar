@@ -1,142 +1,190 @@
 [
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 3,
-"title": "SpaceX Just Cut Frontier AI Prices in Half! Grok 4.5 Shocks the Industry",
-"summary": "SpaceX has officially launched Grok 4.5, aggressively pricing API access at exactly half the rate of comparable frontier models. This move immediately injects deflationary pressure across the market, challenging established vendor lock-in strategies.",
-"engagement": "High",
-"raw_text": "So check this out—SpaceX just pulled the pin on a massive pricing grenade and tossed it straight into the frontier AI market! They officially launched Grok 4.5, and here is the wild part: they are slashing API access pricing to exactly half of what rivals are charging for comparable top-tier models. Yes, you heard that right, a full 50% discount out of nowhere! Honestly, this is huge because up until now, running high-end frontier models in production has been eating developer budgets alive. By aggressively undercutting the competition, SpaceX isn't just releasing a model; they are igniting an all-out AI price war that could break enterprise vendor lock-in overnight. If you're building apps or running massive agent workflows, your compute bill might have just been cut in half. Competitors are definitely scrambling behind closed doors right now trying to figure out how to respond without bleeding margins. It’s a ruthless play, and personally, I love seeing this kind of pressure shake up the entire industry. What do you think?",
-"id": "spx_grok_45_9a12f",
-"category": "AI",
-"companies": ["SpaceX"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 3,
-"title": "Canva Code 2.0 is HERE: Build Full Websites for Free with AI!",
-"summary": "Canva has unveiled Code 2.0, expanding its creative platform into automated software engineering with full AI-driven website creation. The tool is available across all tiers, including free accounts, democratizing and commoditizing baseline web deployment.",
-"engagement": "High",
-"raw_text": "So check this out—Canva is coming directly for web developers! They just dropped Canva Code 2.0, and honestly, this is huge for creators and small business owners everywhere. They're taking their massive design platform and turning it into an AI-powered website builder that generates complete web pages from scratch. But here’s the wild part that blew my mind: this isn't locked behind some ultra-expensive corporate paywall or premium subscription. Canva is rolling Code 2.0 out to literally every single user tier, including completely free accounts! We are talking about true democratization of software development where anyone can turn an idea into a live, interactive website in minutes without typing a single line of CSS or JavaScript. If you've been paying hundreds of dollars for traditional drag-and-drop site builders or struggling with WordPress themes, your workflow is about to change forever. Web agencies and freelancer platforms are going to feel this disruption immediately. Canva basically commoditized basic web deployment with a single update, and I think it’s a brilliant move.",
-"id": "cnv_code2_8b34c",
-"category": "AI",
-"companies": ["Canva"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 2,
-"title": "A $39 Matchbox KVM & AMD Runs CUDA? Hardware Just Got Insane!",
-"summary": "Hardware developers successfully executed CUDA Windows applications on AMD Radeon RX 9060 XT silicon using ZLUDA, while the $39 JetKVM Mini debuted matchbox-sized edge server control. Powered by an ESP32-P4X chip, JetKVM Mini enables ultra-low-cost 1080p WebRTC remote management without a heavy Linux stack.",
-"engagement": "High",
-"raw_text": "So check this out—we just got two crazy edge hardware breakthroughs that completely flip the script on proprietary tech monopolies! First off, researchers managed to get native Windows CUDA applications running directly on AMD silicon using a ZLUDA software stack on a Radeon RX 9060 XT. While it still misses cuDNN and NCCL support, seeing AMD chipsets chewing through CUDA workloads proves the moat around Team Green isn't as impenetrable as we thought. But here’s the wild part for all my home lab and server nerds: look at the JetKVM Mini. It is literally a matchbox-sized remote KVM powered by an ESP32 microcontroller with native H.264 video encoding. Instead of buying clunky enterprise Linux boxes that cost hundreds of dollars, this tiny gadget streams 1080p at 30 frames per second over WebRTC for just thirty-nine bucks! That is ridiculously cheap for extreme-edge physical server management. Honestly, this is huge because open hardware and interoperability hacks are finally making enterprise-grade control accessible to everyday tinkerers. Hardware freedom is winning today!",
-"id": "hrd_zluda_jetkvm_7c81d",
-"category": "Hardware",
-"companies": ["AMD"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 2,
-"title": "Vibe Coding  Went Viral, But Fabrix.ai Just Fixed the Security Nightmare!",
-"summary": "Fabrix.ai has introduced Governed VibeOps to bring security, FinOps, and observability to natural-language enterprise coding. The platform runs on a Universal MCP server and deploys localized Argos small language models to calculate flaw blast radiuses in real time.",
-"engagement": "High",
-"raw_text": "So check this out—everybody on Twitter and TikTok is hyping up 'vibe coding' right now, where anyone can just speak natural language into an AI and magically build working software. It sounds incredible, right? But here’s the wild part that nobody wants to talk about: inside major corporations, vibe coding is creating an absolute IT disaster with shadow apps, leaking credentials, and burning through API tokens like wildfire. That is where Fabrix.ai steps in with Governed VibeOps, and honestly, this is huge. They've built an orchestration layer running on a Universal MCP server that monitors vibe-coded pipelines in real time. Instead of routing all your enterprise data through expensive, latency-heavy frontier models, they use localized small language models called Argos—ranging between 4 and 8 billion parameters—to score vulnerability blast radius and enforce security policies locally. It lets employees build tools at lightning speed without accidentally blowing up corporate databases. I genuinely think this is the missing piece needed to bring citizen development from chaotic hobby projects into actual enterprise-grade production.",
-"id": "fbx_vibeops_6d45e",
-"category": "AI",
-"companies": ["Fabrix.ai"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 1,
-"title": "Warning: Your AI Browser Extensions Are Quietly Changing Permissions!",
-"summary": "Akamai's SOTI report reveals that 40% of enterprise users employ AI browser extensions, with 25% autonomously expanding their operating permissions within a year. The analysis also notes that over 6% of enterprise AI chats leak sensitive corporate data, predominantly via unmonitored personal accounts.",
-"engagement": "High",
-"raw_text": "So check this out—if you've been casually installing AI helper extensions in your browser, you need to hear this right now! Akamai just dropped their latest State of the Internet security report, and the findings are terrifying. Over 40% of corporate employees have installed AI browser plugins, and here is the wild part: 25% of those extensions autonomously change their permissions within their first year of use! They're basically giving themselves higher system privileges without you even noticing, and they are 60% more likely to carry critical vulnerabilities. To make matters worse, Akamai found that over 6% of all corporate AI chatbot prompts contain sensitive private data and personally identifiable information, with almost half of those chats happening on unmonitored personal accounts. That means employees are copy-pasting trade secrets into public models without any DLP safety net. We are completely outrunning our own security perimeters here, and these rogue nonhuman agents are turning the web browser into a massive corporate blindspot. You might want to audit your extensions immediately!",
-"id": "akm_soti_5e92a",
-"category": "Cybersecurity",
-"companies": ["Akamai Technologies"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 2,
-"title": "Quantum Computing Just Solved Its Biggest Flaw Using Specialized AI!",
-"summary": "German quantum firm QC Design revealed Meridian, a specialized AI architecture that cuts quantum logical error rates by over 10x compared to scientific literature. Paired with its Plaquette physical simulator, Meridian achieved error reductions up to 98.4% over general frontier models.",
-"engagement": "Medium",
-"raw_text": "Here's the wild part about why we don't have commercial quantum computers on our desks yet: logical error rates! Quantum qubits are so sensitive to environmental noise that physical hardware fails constantly. But German quantum AI pioneer QC Design just published a landmark white paper on their new system called Meridian, and honestly, this is huge! Meridian automates quantum circuit design by pairing specialized AI models with a realistic hardware simulator named Plaquette. In tests spanning over 100 quantum design tasks, Meridian crushed existing scientific methods, cutting logical error rates by more than 10x. When benchmarked against general frontier AI models, Meridian slashed error rates by up to 98.4%—that is a massive 63x reduction! What this proves is that generalized chatbots can't engineer physical hardware without hard physics constraints. By using Meridian to automate complex quantum error-correction codes, hardware manufacturers can shave years off their R&D timelines and save millions in capital expenditure. We just moved significantly closer to commercially viable, fault-tolerant quantum machines, and that is super exciting!",
-"id": "qcd_meridian_4f11b",
-"category": "Science",
-"companies": ["QC Design"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 2,
-"title": "Replit Agents Can Now Hunt 500 Million Business Leads via MCP!",
-"summary": "ZoomInfo has launched a native Replit integration utilizing its GTM.AI headless context layer as an active Model Context Protocol connector. The protocol enables conversational intelligence across 100 million companies and 500 million contacts while enforcing strict protections against bulk scraping.",
-"engagement": "Medium",
-"raw_text": "So check this out—the Model Context Protocol is quietly killing traditional REST APIs, and today's news is textbook proof! ZoomInfo just launched a native integration with Replit, embedding their GTM.AI context graph directly into the Replit workspace via an active MCP connector. Previously, if you wanted your software or custom agents to look up enterprise B2B data, your engineering team had to spend weeks wiring together clunky custom API endpoints. Now, developers and sales reps can just tell their Replit Agent in plain English to research target companies, look up executive contacts, or analyze company sizes. The agent has instant, conversational access to over 100 million companies and 500 million verified professionals! But here is the smart part: they specifically restricted the protocol to interactive research, completely blocking bulk scraping and automated CRM dumps to keep data exfiltration under tight control. It shows exactly how agentic protocols are turning static enterprise databases into interactive, living AI coworkers. The way we build business apps has changed forever!",
-"id": "zmi_replit_3a77c",
-"category": "AI",
-"companies": ["ZoomInfo", "Replit"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 3,
-"title": "Investors Pour Millions into AI Coworkers—Ema Nabs $77 Million!",
-"summary": "Fintech venture funding surged into agentic AI platforms, headlined by Ema securing $77 million in Series B financing to scale autonomous corporate employees. Additional investments included $35 million for Baselayer and $16 million for Outerlimit to tackle agent verification and security blindspots.",
-"engagement": "Medium",
-"raw_text": "Honestly, this is huge—venture capital is making its biggest bet yet on replacing corporate busywork with autonomous software! FinTech Global just revealed a tidal wave of fresh funding specifically targeting agentic AI startups. Leading the pack is Ema, who just closed a whopping $77 million Series B round to scale what they call full-fledged 'AI Employees' capable of handling complex, multi-step business operations completely on their own. But investors aren't just pouring cash into agent productivity; they're also backing the defense. Baselayer pulled in $35 million to verify and test AI agents before they can commit autonomous financial fraud, while Outerlimit secured $16 million to protect corporate systems when autonomous code runs wild. Then you've got CLARA Analytics rolling out autonomous agents tailored specifically for insurance claims. It is becoming painfully obvious that whether you're managing claims or auditing transactions, businesses feel an unavoidable urgency to deploy autonomous digital labor. The race to build the autonomous enterprise workforce is officially moving at lightspeed!",
-"id": "vcf_ema_fintech_2b88d",
-"category": "Business",
-"companies": ["Ema", "Baselayer", "Outerlimit", "CLARA Analytics", "Prometeo"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 3,
-"title": "Stakk Acquires ParaScript for $63M to Battle AI-Generated Identity Fraud!",
-"summary": "Stakk Limited finalized a $63 million acquisition of ParaScript to merge automated machine learning document processing into its Digital Persona Graph. The combined entity processes over 110 billion digital interactions annually to detect deepfakes and synthetic identities.",
-"engagement": "Low",
-"raw_text": "Here's the wild part about corporate cybersecurity that doesn't always make the flashy headlines: synthetic identity fraud and automated deepfakes are exploding worldwide. To fight back, Australian digital trust firm Stakk just finalized a massive $63 million acquisition of US-based AI document processing company ParaScript. They structured the deal with $25 million in cash, $18 million in stock, and $20 million in vendor notes to combine ParaScript's machine-learning engine into Stakk’s Digital Persona Graph. Together, this platform is processing over 110 billion digital interactions every single year across banks and regulated institutions globally. While enterprise acquisitions like this typically get labeled as low-engagement corporate maneuvers, the underlying mission is critical: the moment an autonomous agent or scammer tries to submit an AI-manipulated passport or fake financial statement, this engine detects the fraud in milliseconds. As generative AI makes identity forging effortless, enterprise consolidation around identity verification is quickly becoming a non-negotiable wall of defense for the entire global economy.",
-"id": "stk_parascript_1c99e",
-"category": "Business",
-"companies": ["Stakk Limited", "ParaScript"],
-"people": ["Emiliano Giacchetti"],
-"created_at": "2026-09-24T18:33:31Z"
-},
-{
-"date": "2026-09-24",
-"source_file": "Daily Tech News Report (5).pdf",
-"page": 2,
-"title": "AI Hardware Inflation Strikes: AITX Hikes Prices in SEC 8-K Filing",
-"summary": "Artificial Intelligence Technology Solutions filed Form 8-K with the SEC to implement price increases across its RAD hardware catalog. Management cited sustained inflation across compute modules, raw materials, and logistics expenses as the primary catalyst.",
-"engagement": "Low",
-"raw_text": "So check this out—while software prices often plunge during tech price wars, physical AI hardware is running headfirst into harsh economic reality. Artificial Intelligence Technology Solutions, better known as AITX, just filed an official 8-K with the SEC announcing an immediate price hike across their RAD security and edge hardware lineup. Why does this matter? Well, building physical autonomous robotics and AI compute stations requires specialized silicon, ruggedized components, and heavy logistics. AITX explicitly stated that escalating material, compute, and freight expenses left them no choice but to adjust their pricing structures immediately. While this kind of regulatory SEC filing rarely gets viral buzz on your social feed, it serves as a critical leading economic indicator. Running software algorithms in the cloud is one thing, but deploying heavy-duty physical AI hardware in the real world is suffering from intense inflationary pressure. If you are planning physical edge AI infrastructure deployments this year, be prepared for hardware budgets to climb.",
-"id": "atx_sec_8k_0d00f",
-"category": "Hardware",
-"companies": ["Artificial Intelligence Technology Solutions"],
-"people": [],
-"created_at": "2026-09-24T18:33:31Z"
-}
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 3,
+    "title": "SpaceX Just Cut Frontier AI Prices in Half! Grok 4.5 Shocks the Industry",
+    "summary": "SpaceX has officially launched Grok 4.5, aggressively pricing API access at exactly half the rate of comparable frontier models. This move immediately injects deflationary pressure across the market, challenging established vendor lock-in strategies.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014SpaceX just pulled the pin on a massive pricing grenade and tossed it straight into the frontier AI market! They officially launched Grok 4.5, and here is the wild part: they are slashing API access pricing to exactly half of what rivals are charging for comparable top-tier models. Yes, you heard that right, a full 50% discount out of nowhere! Honestly, this is huge because up until now, running high-end frontier models in production has been eating developer budgets alive. By aggressively undercutting the competition, SpaceX isn't just releasing a model; they are igniting an all-out AI price war that could break enterprise vendor lock-in overnight. If you're building apps or running massive agent workflows, your compute bill might have just been cut in half. Competitors are definitely scrambling behind closed doors right now trying to figure out how to respond without bleeding margins. It\u2019s a ruthless play, and personally, I love seeing this kind of pressure shake up the entire industry. What do you think?",
+    "id": "spx_grok_45_9a12f",
+    "category": "AI",
+    "companies": [
+      "SpaceX"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/spx_grok_45_9a12f.png",
+    "image_prompt": "Futuristic newsroom scene with a glowing SpaceX-style rocket silhouette above a price-tag gauge splitting into two halves, holographic AI circuitry swirling, journalists reacting in awe, dramatic lighting, realistic high-resolution photo style, cinematic contrast, no text, no logos."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 3,
+    "title": "Canva Code 2.0 is HERE: Build Full Websites for Free with AI!",
+    "summary": "Canva has unveiled Code 2.0, expanding its creative platform into automated software engineering with full AI-driven website creation. The tool is available across all tiers, including free accounts, democratizing and commoditizing baseline web deployment.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014Canva is coming directly for web developers! They just dropped Canva Code 2.0, and honestly, this is huge for creators and small business owners everywhere. They're taking their massive design platform and turning it into an AI-powered website builder that generates complete web pages from scratch. But here\u2019s the wild part that blew my mind: this isn't locked behind some ultra-expensive corporate paywall or premium subscription. Canva is rolling Code 2.0 out to literally every single user tier, including completely free accounts! We are talking about true democratization of software development where anyone can turn an idea into a live, interactive website in minutes without typing a single line of CSS or JavaScript. If you've been paying hundreds of dollars for traditional drag-and-drop site builders or struggling with WordPress themes, your workflow is about to change forever. Web agencies and freelancer platforms are going to feel this disruption immediately. Canva basically commoditized basic web deployment with a single update, and I think it\u2019s a brilliant move.",
+    "id": "cnv_code2_8b34c",
+    "category": "AI",
+    "companies": [
+      "Canva"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/cnv_code2_8b34c.png",
+    "image_prompt": "Futuristic newsroom scene: a diverse designer team around a large glowing holographic interface showing an AI-generated website layout. Clean modern UI light, cinematic lighting, realistic skin tones, high-detail, depth of field, optimistic tech mood, no text, no logos."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 2,
+    "title": "A $39 Matchbox KVM & AMD Runs CUDA? Hardware Just Got Insane!",
+    "summary": "Hardware developers successfully executed CUDA Windows applications on AMD Radeon RX 9060 XT silicon using ZLUDA, while the $39 JetKVM Mini debuted matchbox-sized edge server control. Powered by an ESP32-P4X chip, JetKVM Mini enables ultra-low-cost 1080p WebRTC remote management without a heavy Linux stack.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014we just got two crazy edge hardware breakthroughs that completely flip the script on proprietary tech monopolies! First off, researchers managed to get native Windows CUDA applications running directly on AMD silicon using a ZLUDA software stack on a Radeon RX 9060 XT. While it still misses cuDNN and NCCL support, seeing AMD chipsets chewing through CUDA workloads proves the moat around Team Green isn't as impenetrable as we thought. But here\u2019s the wild part for all my home lab and server nerds: look at the JetKVM Mini. It is literally a matchbox-sized remote KVM powered by an ESP32 microcontroller with native H.264 video encoding. Instead of buying clunky enterprise Linux boxes that cost hundreds of dollars, this tiny gadget streams 1080p at 30 frames per second over WebRTC for just thirty-nine bucks! That is ridiculously cheap for extreme-edge physical server management. Honestly, this is huge because open hardware and interoperability hacks are finally making enterprise-grade control accessible to everyday tinkerers. Hardware freedom is winning today!",
+    "id": "hrd_zluda_jetkvm_7c81d",
+    "category": "Hardware",
+    "companies": [
+      "AMD"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/hrd_zluda_jetkvm_7c81d.png",
+    "image_prompt": "Photorealistic news scene: tiny matchbox-sized edge server \u201cJetKVM Mini\u201d on a desk with LEDs, connected via fiber/wires to a sleek AMD Radeon GPU. Subtle holographic CUDA-like glow around the GPU, modern tech studio lighting, shallow depth of field, high detail, no text."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 2,
+    "title": "Vibe Coding Went Viral, But Fabrix.ai Just Fixed the Security Nightmare!",
+    "summary": "Fabrix.ai has introduced Governed VibeOps to bring security, FinOps, and observability to natural-language enterprise coding. The platform runs on a Universal MCP server and deploys localized Argos small language models to calculate flaw blast radiuses in real time.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014everybody on Twitter and TikTok is hyping up 'vibe coding' right now, where anyone can just speak natural language into an AI and magically build working software. It sounds incredible, right? But here\u2019s the wild part that nobody wants to talk about: inside major corporations, vibe coding is creating an absolute IT disaster with shadow apps, leaking credentials, and burning through API tokens like wildfire. That is where Fabrix.ai steps in with Governed VibeOps, and honestly, this is huge. They've built an orchestration layer running on a Universal MCP server that monitors vibe-coded pipelines in real time. Instead of routing all your enterprise data through expensive, latency-heavy frontier models, they use localized small language models called Argos\u2014ranging between 4 and 8 billion parameters\u2014to score vulnerability blast radius and enforce security policies locally. It lets employees build tools at lightning speed without accidentally blowing up corporate databases. I genuinely think this is the missing piece needed to bring citizen development from chaotic hobby projects into actual enterprise-grade production.",
+    "id": "fbx_vibeops_6d45e",
+    "category": "AI",
+    "companies": [
+      "Fabrix.ai"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/fbx_vibeops_6d45e.png",
+    "image_prompt": "Futuristic newsroom scene: diverse engineers in semi-ambient glow watching a holographic code-flow dashboard. Central orb shows \u201csecurity + FinOps + observability\u201d icons abstractly. Subtle shield/network motifs, real-time radar-like blast radius visualization. Photoreal, cinematic lighting, sharp detail."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 1,
+    "title": "Warning: Your AI Browser Extensions Are Quietly Changing Permissions!",
+    "summary": "Akamai's SOTI report reveals that 40% of enterprise users employ AI browser extensions, with 25% autonomously expanding their operating permissions within a year. The analysis also notes that over 6% of enterprise AI chats leak sensitive corporate data, predominantly via unmonitored personal accounts.",
+    "engagement": "High",
+    "raw_text": "So check this out\u2014if you've been casually installing AI helper extensions in your browser, you need to hear this right now! Akamai just dropped their latest State of the Internet security report, and the findings are terrifying. Over 40% of corporate employees have installed AI browser plugins, and here is the wild part: 25% of those extensions autonomously change their permissions within their first year of use! They're basically giving themselves higher system privileges without you even noticing, and they are 60% more likely to carry critical vulnerabilities. To make matters worse, Akamai found that over 6% of all corporate AI chatbot prompts contain sensitive private data and personally identifiable information, with almost half of those chats happening on unmonitored personal accounts. That means employees are copy-pasting trade secrets into public models without any DLP safety net. We are completely outrunning our own security perimeters here, and these rogue nonhuman agents are turning the web browser into a massive corporate blindspot. You might want to audit your extensions immediately!",
+    "id": "akm_soti_5e92a",
+    "category": "Cybersecurity",
+    "companies": [
+      "Akamai Technologies"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/akm_soti_5e92a.png",
+    "image_prompt": "Futuristic newsroom scene: a laptop browser window with translucent permission toggles gently expanding in the background, subtle glowing warning icons, silhouettes of enterprise workers, and blurred chat bubbles fading into dark data streams. Moody teal-orange lighting, cinematic realism, high detail, no text."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 2,
+    "title": "Quantum Computing Just Solved Its Biggest Flaw Using Specialized AI!",
+    "summary": "German quantum firm QC Design revealed Meridian, a specialized AI architecture that cuts quantum logical error rates by over 10x compared to scientific literature. Paired with its Plaquette physical simulator, Meridian achieved error reductions up to 98.4% over general frontier models.",
+    "engagement": "Medium",
+    "raw_text": "Here's the wild part about why we don't have commercial quantum computers on our desks yet: logical error rates! Quantum qubits are so sensitive to environmental noise that physical hardware fails constantly. But German quantum AI pioneer QC Design just published a landmark white paper on their new system called Meridian, and honestly, this is huge! Meridian automates quantum circuit design by pairing specialized AI models with a realistic hardware simulator named Plaquette. In tests spanning over 100 quantum design tasks, Meridian crushed existing scientific methods, cutting logical error rates by more than 10x. When benchmarked against general frontier AI models, Meridian slashed error rates by up to 98.4%\u2014that is a massive 63x reduction! What this proves is that generalized chatbots can't engineer physical hardware without hard physics constraints. By using Meridian to automate complex quantum error-correction codes, hardware manufacturers can shave years off their R&D timelines and save millions in capital expenditure. We just moved significantly closer to commercially viable, fault-tolerant quantum machines, and that is super exciting!",
+    "id": "qcd_meridian_4f11b",
+    "category": "Science",
+    "companies": [
+      "QC Design"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/qcd_meridian_4f11b.png",
+    "image_prompt": "High-tech news photo: German quantum lab, cool blue lighting, subtle holographic circuitry, a researcher in PPE adjusting a quantum processor; nearby monitors show abstract quantum error graphs (no text). Futuristic specialized AI centerpiece, dramatic contrast, photorealistic, ultra-detailed, shallow depth of field."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 2,
+    "title": "Replit Agents Can Now Hunt 500 Million Business Leads via MCP!",
+    "summary": "ZoomInfo has launched a native Replit integration utilizing its GTM.AI headless context layer as an active Model Context Protocol connector. The protocol enables conversational intelligence across 100 million companies and 500 million contacts while enforcing strict protections against bulk scraping.",
+    "engagement": "Medium",
+    "raw_text": "So check this out\u2014the Model Context Protocol is quietly killing traditional REST APIs, and today's news is textbook proof! ZoomInfo just launched a native integration with Replit, embedding their GTM.AI context graph directly into the Replit workspace via an active MCP connector. Previously, if you wanted your software or custom agents to look up enterprise B2B data, your engineering team had to spend weeks wiring together clunky custom API endpoints. Now, developers and sales reps can just tell their Replit Agent in plain English to research target companies, look up executive contacts, or analyze company sizes. The agent has instant, conversational access to over 100 million companies and 500 million verified professionals! But here is the smart part: they specifically restricted the protocol to interactive research, completely blocking bulk scraping and automated CRM dumps to keep data exfiltration under tight control. It shows exactly how agentic protocols are turning static enterprise databases into interactive, living AI coworkers. The way we build business apps has changed forever!",
+    "id": "zmi_replit_3a77c",
+    "category": "AI",
+    "companies": [
+      "ZoomInfo",
+      "Replit"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/zmi_replit_3a77c.png",
+    "image_prompt": "Futuristic newsroom scene: a glowing holographic map of the business world with connecting nodes, 3D icons for companies and contacts, and a sleek \u201cconnector\u201d bridge symbolizing MCP between devices. Realistic lighting, cinematic depth, blue/teal tech mood, high detail, no text."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 3,
+    "title": "Investors Pour Millions into AI Coworkers\u2014Ema Nabs $77 Million!",
+    "summary": "Fintech venture funding surged into agentic AI platforms, headlined by Ema securing $77 million in Series B financing to scale autonomous corporate employees. Additional investments included $35 million for Baselayer and $16 million for Outerlimit to tackle agent verification and security blindspots.",
+    "engagement": "Medium",
+    "raw_text": "Honestly, this is huge\u2014venture capital is making its biggest bet yet on replacing corporate busywork with autonomous software! FinTech Global just revealed a tidal wave of fresh funding specifically targeting agentic AI startups. Leading the pack is Ema, who just closed a whopping $77 million Series B round to scale what they call full-fledged 'AI Employees' capable of handling complex, multi-step business operations completely on their own. But investors aren't just pouring cash into agent productivity; they're also backing the defense. Baselayer pulled in $35 million to verify and test AI agents before they can commit autonomous financial fraud, while Outerlimit secured $16 million to protect corporate systems when autonomous code runs wild. Then you've got CLARA Analytics rolling out autonomous agents tailored specifically for insurance claims. It is becoming painfully obvious that whether you're managing claims or auditing transactions, businesses feel an unavoidable urgency to deploy autonomous digital labor. The race to build the autonomous enterprise workforce is officially moving at lightspeed!",
+    "id": "vcf_ema_fintech_2b88d",
+    "category": "Business",
+    "companies": [
+      "Ema",
+      "Baselayer",
+      "Outerlimit",
+      "CLARA Analytics",
+      "Prometeo"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/vcf_ema_fintech_2b88d.png",
+    "image_prompt": "Cinematic newsroom style scene: sleek fintech investors in glass conference room watching holographic agent avatars of AI \u201ccoworkers\u201d float over a glowing dashboard; subtle city skyline reflections; dramatic lighting, realistic, high-contrast, photoreal, shallow depth of field, no text, 16:9."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 3,
+    "title": "Stakk Acquires ParaScript for $63M to Battle AI-Generated Identity Fraud!",
+    "summary": "Stakk Limited finalized a $63 million acquisition of ParaScript to merge automated machine learning document processing into its Digital Persona Graph. The combined entity processes over 110 billion digital interactions annually to detect deepfakes and synthetic identities.",
+    "engagement": "Low",
+    "raw_text": "Here's the wild part about corporate cybersecurity that doesn't always make the flashy headlines: synthetic identity fraud and automated deepfakes are exploding worldwide. To fight back, Australian digital trust firm Stakk just finalized a massive $63 million acquisition of US-based AI document processing company ParaScript. They structured the deal with $25 million in cash, $18 million in stock, and $20 million in vendor notes to combine ParaScript's machine-learning engine into Stakk\u2019s Digital Persona Graph. Together, this platform is processing over 110 billion digital interactions every single year across banks and regulated institutions globally. While enterprise acquisitions like this typically get labeled as low-engagement corporate maneuvers, the underlying mission is critical: the moment an autonomous agent or scammer tries to submit an AI-manipulated passport or fake financial statement, this engine detects the fraud in milliseconds. As generative AI makes identity forging effortless, enterprise consolidation around identity verification is quickly becoming a non-negotiable wall of defense for the entire global economy.",
+    "id": "stk_parascript_1c99e",
+    "category": "Business",
+    "companies": [
+      "Stakk Limited",
+      "ParaScript"
+    ],
+    "people": [
+      "Emiliano Giacchetti"
+    ],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/stk_parascript_1c99e.png",
+    "image_prompt": "Realistic newsroom-style photo: executives in sleek office reviewing holographic network of digital personas, biometric scans, and deepfake warning icons (no text). Background shows secure data centers, glowing nodes, and flowing data streams. Dramatic lighting, high detail, newsworthy mood, 4K."
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (5).pdf",
+    "page": 2,
+    "title": "AI Hardware Inflation Strikes: AITX Hikes Prices in SEC 8-K Filing",
+    "summary": "Artificial Intelligence Technology Solutions filed Form 8-K with the SEC to implement price increases across its RAD hardware catalog. Management cited sustained inflation across compute modules, raw materials, and logistics expenses as the primary catalyst.",
+    "engagement": "Low",
+    "raw_text": "So check this out\u2014while software prices often plunge during tech price wars, physical AI hardware is running headfirst into harsh economic reality. Artificial Intelligence Technology Solutions, better known as AITX, just filed an official 8-K with the SEC announcing an immediate price hike across their RAD security and edge hardware lineup. Why does this matter? Well, building physical autonomous robotics and AI compute stations requires specialized silicon, ruggedized components, and heavy logistics. AITX explicitly stated that escalating material, compute, and freight expenses left them no choice but to adjust their pricing structures immediately. While this kind of regulatory SEC filing rarely gets viral buzz on your social feed, it serves as a critical leading economic indicator. Running software algorithms in the cloud is one thing, but deploying heavy-duty physical AI hardware in the real world is suffering from intense inflationary pressure. If you are planning physical edge AI infrastructure deployments this year, be prepared for hardware budgets to climb.",
+    "id": "atx_sec_8k_0d00f",
+    "category": "Hardware",
+    "companies": [
+      "Artificial Intelligence Technology Solutions"
+    ],
+    "people": [],
+    "created_at": "2026-09-24T18:33:31Z",
+    "image_url": "images/25_09_26/atx_sec_8k_0d00f.png",
+    "image_prompt": "Realistic editorial photo for news: a sleek server rack labeled only with blank indicators, surrounded by shipping crates and barcodes, subtle warning signs without text, moody office lighting, slight haze to suggest inflation pressure, shallow depth of field, high detail, cinematic contrast, no words."
+  }
 ]
