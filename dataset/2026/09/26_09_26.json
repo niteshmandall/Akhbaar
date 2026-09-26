@@ -7,13 +7,15 @@
     "title": "OpenAI Slashes AI Prices by 90%: Meet GPT-6 Sol and Luna!",
     "summary": "OpenAI launched GPT-6 Sol and GPT-6 Luna underneath its flagship Astra tier, featuring a 1.05-million-token context window and up to 128,000 output tokens. The release cuts baseline pricing up to 50% alongside aggressive prompt caching discounts of up to 90% to lower enterprise autonomous agent costs.",
     "engagement": "High",
-    "raw_text": "So check this out: OpenAI just dropped a massive bomb on the AI industry, and it's not what you'd expect! Instead of just hyping up pure benchmark records, they officially rolled out GPT-6 Sol and GPT-6 Luna, and honestly, this is huge for anyone building with AI. We are looking at a gigantic 1.05-million-token context window with a mind-blowing 50% price cut compared to older models. But here's the wild part: they added aggressive prompt caching that cuts input costs by up to 90%! That means GPT-6 Luna sits at an insane ten cents per million input tokens, and just one single cent if it's cached. On coding benchmarks like DeepSWE, Sol is basically matching frontier-level models while costing eighty percent less cash. I've been saying for months that AI agents were getting way too expensive for real production apps, but OpenAI just changed the economics overnight. If you run workflows or build automated agents, your server bill just plummeted. What do you think—is cost deflation the real revolution here?",
+    "raw_text": "So check this out: OpenAI just dropped a massive bomb on the AI industry, and it's not what you'd expect! Instead of just hyping up pure benchmark records, they officially rolled out GPT-6 Sol and GPT-6 Luna, and honestly, this is huge for anyone building with AI. We are looking at a gigantic 1.05-million-token context window with a mind-blowing 50% price cut compared to older models. But here's the wild part: they added aggressive prompt caching that cuts input costs by up to 90%! That means GPT-6 Luna sits at an insane ten cents per million input tokens, and just one single cent if it's cached. On coding benchmarks like DeepSWE, Sol is basically matching frontier-level models while costing eighty percent less cash. I've been saying for months that AI agents were getting way too expensive for real production apps, but OpenAI just changed the economics overnight. If you run workflows or build automated agents, your server bill just plummeted. What do you think\u2014is cost deflation the real revolution here?",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/gpt6-sol-luna-926.png",
+    "image_prompt": "Futuristic tech newsroom scene: a sleek AI server rack emitting soft blue light, holographic network threads forming two glowing spheres labeled only by color (gold \u201cSol\u201d, violet \u201cLuna\u201d), dynamic price-drop visual as falling light bars, cool cinematic lighting, ultra-realistic, sharp focus, no text."
   },
   {
     "id": "google-suncatcher-412",
@@ -34,7 +36,9 @@
       "Sundar Pichai",
       "Travis Beals"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/google-suncatcher-412.png",
+    "image_prompt": "Realistic cinematic news photo: SpaceX Transporter rideshare rocket streaking toward low Earth orbit, subtle satellite hardware and futuristic AI chip modules in foreground, warm unfiltered sunlight bathing Earth limb, cool orbital shadows, high detail, sharp, natural colors, dynamic, no text."
   },
   {
     "id": "oracle-jupiter-force-majeure-883",
@@ -56,7 +60,9 @@
     "people": [
       "Phil Rosen"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/oracle-jupiter-force-majeure-883.png",
+    "image_prompt": "Cinematic news photo: vast desert megasite with skeletal AI data center frames, power substation and tangled transmission lines, utility grid control lights flickering, construction crews in hard hats, ominous storm clouds over New Mexico, tense corporate atmosphere, ultra-realistic, high detail, natural lighting, no text."
   },
   {
     "id": "msft-copilot-superapp-554",
@@ -76,7 +82,9 @@
       "Devindra Hardawar",
       "Tom Warren"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/msft-copilot-superapp-554.png",
+    "image_prompt": "Futuristic editorial photo of a sleek Microsoft-style control hub blending multiple Office icons as holographic streams into one \u201cCopilot\u201d interface; diverse office professionals in modern glass building; warm dawn lighting, cinematic realism, high detail, shallow depth of field, no text."
   },
   {
     "id": "google-call-for-me-pixel-771",
@@ -94,7 +102,9 @@
     "people": [
       "Aminu Abdullahi"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/google-call-for-me-pixel-771.png",
+    "image_prompt": "Photorealistic news photo: a modern Pixel phone on a desk with a subtle glowing AI voice interface, blurred city background, warm evening newsroom lighting, futuristic yet realistic tech vibe. Foreground shows a person\u2019s hand ready for single-tap takeover, ambient call waves. High detail, shallow depth of field, no text."
   },
   {
     "id": "anthropic-pentagon-blacklist-629",
@@ -117,7 +127,9 @@
       "Neomi Rao",
       "Karen LeCraft Henderson"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/anthropic-pentagon-blacklist-629.png",
+    "image_prompt": "Realistic newsroom photo style: grim Pentagon building at dusk, dramatic storm clouds, muted navy tones; foreground silhouette of a federal courthouse; subtle blurred server racks hinting AI, tense atmosphere, high detail, natural lighting, shallow depth of field, no text, no logos."
   },
   {
     "id": "australia-openai-agent-breach-338",
@@ -136,7 +148,9 @@
       "Anthony Albanese",
       "Raphael Satter"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/australia-openai-agent-breach-338.png",
+    "image_prompt": "Cinematic newsroom-style photo: dim server room, neon-blue network glow, silhouetted cybersecurity analyst near holographic access-map, red warning lights reflected on racks, abstract trail of breached firewall as light, tense investigative mood, ultra-realistic, high detail, shallow depth of field, no text."
   },
   {
     "id": "meta-vr-glasses-connect-109",
@@ -146,7 +160,7 @@
     "title": "Meta Kills the Bulky Headset: 100-Gram Dual 5K VR Glasses Revealed!",
     "summary": "Meta introduced its ultra-lightweight Meta VR Glasses priced at $1,299.99, featuring dual 5K micro-OLED displays and pancake optics scheduled for commercial release in spring 2027. The device cuts chassis weight down to 100 grams by offloading processing and battery components to a tethered pocket computing puck.",
     "engagement": "High",
-    "raw_text": "Mark Zuckerberg just took the stage at Meta Connect 2026 and dropped what might be the coolest piece of wearable tech we've ever seen: the Meta VR Glasses! Forget those heavy, brick-like headsets that strap onto your face; these new glasses weigh only 100 grams! That's nearly one-fifth the weight of the Quest 3 and radically lighter than Apple's Vision Pro. How did Meta pull this off? They separated the heavy battery and processor into a sleek, pocket-sized computing puck connected by a tiny optical cable. On your face, you get dual 5K micro-OLED displays pushing 37 pixels per degree with Dolby Vision HDR. There are zero physical controllers—everything works through precision eye tracking and hand gestures. Here's the wild part: the built-in cameras map any flat surface, turning a regular coffee shop table into a floating virtual keyboard and multi-monitor workspace. At thirteen hundred bucks, launching in spring 2027, this might finally make spatial computing mainstream. Are you ready to ditch your laptop for these?",
+    "raw_text": "Mark Zuckerberg just took the stage at Meta Connect 2026 and dropped what might be the coolest piece of wearable tech we've ever seen: the Meta VR Glasses! Forget those heavy, brick-like headsets that strap onto your face; these new glasses weigh only 100 grams! That's nearly one-fifth the weight of the Quest 3 and radically lighter than Apple's Vision Pro. How did Meta pull this off? They separated the heavy battery and processor into a sleek, pocket-sized computing puck connected by a tiny optical cable. On your face, you get dual 5K micro-OLED displays pushing 37 pixels per degree with Dolby Vision HDR. There are zero physical controllers\u2014everything works through precision eye tracking and hand gestures. Here's the wild part: the built-in cameras map any flat surface, turning a regular coffee shop table into a floating virtual keyboard and multi-monitor workspace. At thirteen hundred bucks, launching in spring 2027, this might finally make spatial computing mainstream. Are you ready to ditch your laptop for these?",
     "category": "Hardware",
     "companies": [
       "Meta"
@@ -154,7 +168,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/meta-vr-glasses-connect-109.png",
+    "image_prompt": "Realistic studio photo of ultra-light dual 5K VR glasses, sleek matte design, dual micro-OLED glow, pancake optics visible, 100g concept hinted by compact frame; tethered pocket computing puck off to the side; clean modern tech newsroom lighting, shallow depth of field, high detail, no text."
   },
   {
     "id": "rayban-meta-gen3-audio-245",
@@ -172,7 +188,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/rayban-meta-gen3-audio-245.png",
+    "image_prompt": "Photorealistic news photo: Meta Ray-Ban Gen 3 smart glasses on a sleek modern desk, 3K Ultra HD camera lens visible on one frame, 43-gram audio edition beside it, subtle directional mic array details, soft studio lighting, shallow depth of field, tech-neutral mood, high-detail, no text."
   },
   {
     "id": "meta-muse-charm-keychain-518",
@@ -192,7 +210,9 @@
     "people": [
       "Mark Zuckerberg"
     ],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/meta-muse-charm-keychain-518.png",
+    "image_prompt": "Photorealistic news photo: close-up of Meta \u201cMuse Charm\u201d keychain AI gadget on a newsroom desk, micro visual panel softly glowing, tiny directional microphones and touch sensors visible, subtle bokeh city lights behind, modern sleek tech mood, high detail, natural lighting, shallow depth of field, no text."
   },
   {
     "id": "apple-foldable-iphone-duo-994",
@@ -208,6 +228,8 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-09-26T10:46:43Z"
+    "created_at": "2026-09-26T10:46:43Z",
+    "image_url": "images/26_09_26/apple-foldable-iphone-duo-994.png",
+    "image_prompt": "Photorealistic studio news image: Apple iPhone Duo foldable on sleek dark marble, passport-style dual Super Retina XDR OLED displays open, liquid-metal sheen, precision fluidic zero-crease hinge visible, soft diffused lighting, shallow depth of field, premium tech mood, ultra-high detail, no text, no logos."
   }
 ]
