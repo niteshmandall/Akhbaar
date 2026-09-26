@@ -1,0 +1,217 @@
+[
+  {
+    "date": "2026-09-27",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 1,
+    "title": "AMD Just Hit $1 Trillion! Why Server CPUs Are Suddenly Crushing GPUs",
+    "summary": "Advanced Micro Devices has officially breached a historic $1 trillion market valuation amid a fundamental reassessment of server compute demands. Financial analysts project that autonomous agentic AI workflows will triple the server CPU market to $211 billion by 2030.",
+    "engagement": "High",
+    "raw_text": "So check this out—everyone thought the AI hardware race was strictly about GPUs and tensor accelerators, but AMD just completely flipped the script by crashing through the one-trillion-dollar valuation mark! Honestly, this is huge because it signals a massive hardware pivot. When you are pre-training large models, you need massive parallel matrix math, which GPUs absolutely crush. But we are now moving into the era of autonomous agents. Agents have to branch logic, parse dynamic environments, query databases, and call external tools step-by-step. That sequential logic chokes GPUs and leaves them idling while waiting on instructions. You actually need high-frequency, general-purpose CPU cores to orchestrate the entire pipeline! Wall Street is now predicting server CPU spending will skyrocket from $61 billion up to a staggering $211 billion by 2030. AMD positioned EPYC processors right at the heart of that transition, and the stock is soaring. I think people sleeping on CPUs just got a massive reality check. Are we about to see CPUs steal the spotlight back from GPUs?",
+    "id": "amd1t98x",
+    "category": "Hardware",
+    "companies": [
+      "AMD",
+      "BofA Securities"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 2,
+    "title": "This New Hypervisor Blocks 95% of Rogue AI Attacks Before Execution!",
+    "summary": "Researchers have unveiled OpenAgentFlow, a governance architecture that decouples policy enforcement from AI runtime execution to intercept unauthorized actions before system commitment. Evaluated across 1,220 complex agent cases, the framework demonstrated a 95.35% attack-blocking success rate with less than 2% false positives.",
+    "engagement": "Medium",
+    "raw_text": "Here’s the wild part about autonomous AI agents: right now, they basically run unchecked with full system privileges. If an agent decides to browse the open web, grab sensitive customer data, and dump it onto an external server, traditional filters often have no clue because each step looks completely normal! That is why this new paper on OpenAgentFlow caught my attention immediately. Researchers just built an external control plane inspired by software-defined networking that intercepts actions right before they hit your machine. Think of it like a dedicated hypervisor sitting directly between the AI’s brain and your actual operating environment. Every command gets normalized into an audit stream and evaluated against strict security policies. In benchmark tests across over a thousand scenarios, it shut down rogue and malicious behavior with a crazy 95.35% block rate, all while maintaining a false alarm rate under 2%. Honestly, this is the deterministic guardrail enterprise AI desperately needs before we let autonomous agents run our lives!",
+    "id": "oaf952ab",
+    "category": "AI",
+    "companies": [
+      "arXiv"
+    ],
+    "people": [
+      "Dongsheng Chen",
+      "Xiangyu Zhao",
+      "Xin Yao",
+      "Xuetao Wei"
+    ],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 2,
+    "title": "AI Traitors Exposed: DriftNet Catches Silent Prompt Injections in Real Time",
+    "summary": "Security researchers have introduced the AgentDrift benchmark and DriftNet, a 2-million parameter dual-head trajectory Transformer built to detect behavioral drift in hijacked AI agents. The architecture pinpoints the exact injection entry step in 98.7% of attacked sessions, vastly outperforming legacy surface-level detection models.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—indirect prompt injection is legitimately the scariest security flaw facing modern AI. Imagine sending your AI assistant to read an invoice or summarize a webpage, but that document contains hidden instructions telling the model to quietly exfiltrate your private keys. Old security tools only tell you if an entire session was clean or dirty, giving you zero clues on where things went sideways. Enter DriftNet, an incredible new dual-head trajectory Transformer packing under two million parameters. Instead of looking at raw text prompts, it tracks the actual behavior of the agent over time to spot when its trajectory begins drifting away from user intent. Here’s the wild part: DriftNet localized the exact injection step with a mind-blowing 98.7% accuracy! Even on sneaky delayed attacks—where the agent waits several steps before detonating malicious code—it achieved a 93.2% recovery rate while older baselines scored an embarrassing 17%. This changes forensic AI defense forever!",
+    "id": "drf871kz",
+    "category": "AI",
+    "companies": [
+      "arXiv",
+      "SoFarBot"
+    ],
+    "people": [
+      "Asif Pinjari",
+      "Mithun Paul Saint-Germain"
+    ],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 3,
+    "title": "Giving AI Working Memory: How Dynamic 'Forgetting' Unlocks Infinite Autonomy",
+    "summary": "A research paper published for ICLR introduces dynamic context-folding algorithms that allow long-horizon AI agents to selectively purge intermediate reasoning steps once completed. This compression mechanism prevents Key-Value cache memory exhaustion and model degradation over continuous, weeks-long autonomous workflows.",
+    "engagement": "Low",
+    "raw_text": "Honestly, this is one of the most clever AI research papers I have read all month. Right now, when you build an autonomous AI agent to do prolonged software engineering or continuous network monitoring, it runs headfirst into a massive brick wall: context exhaustion. Even with million-token windows, keeping every single intermediate thought, API output, and chain-of-thought step bloats the KV cache and degrades reasoning performance over time. A team of researchers just dropped a paper addressing this exact problem: When Can Agents Forget Their Reasoning? They engineered dynamic context compression that mimics human executive function. When you finish a math step or compile a piece of code, your brain flushes the intermediate clutter and only keeps the final result. These new gating algorithms let AI agents safely compress and discard old reasoning paths without breaking long-term logic. It sounds subtle, but this math is required if we ever want autonomous AI workers running reliably for weeks on end!",
+    "id": "ctx440lm",
+    "category": "AI",
+    "companies": [
+      "arXiv",
+      "ICLR"
+    ],
+    "people": [
+      "Mingxuan Wang",
+      "Fei Luo",
+      "Bo Wang"
+    ],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 3,
+    "title": "India's 3D-Printed Reusable Rocket Just Scored ₹200 Crore to Crush Launch Costs!",
+    "summary": "India's Technology Development Board has officially sanctioned ₹200 crore to private aerospace startup Agnikul Cosmos to accelerate its Agnibaan reusable launch vehicle. The funding aims to advance the startup's patented single-piece 3D-printed semi-cryogenic engine architecture from testing to commercial flight readiness.",
+    "engagement": "High",
+    "raw_text": "Here’s the wild part about the commercial space race: while everyone is watching SpaceX, an Indian space startup named Agnikul Cosmos is building something that might redefine rocket manufacturing entirely! The Indian government just backed them with a massive ₹200 crore investment to take their Agnibaan rocket completely reusable. If you haven't followed Agnikul, they made history with their Agnilet engine—the world's very first single-piece, 3D-printed semi-cryogenic rocket motor! Instead of welding thousands of fragile pipes, injectors, and cooling channels together, they literally print the entire combustion chamber as one seamless block of metal. That completely eliminates structural failure points and slashes production turnaround. Now, this new funding pushes the Agnibaan platform from prototype testing directly to operational orbital reusability, aiming to recover both the booster and upper stages. Space accessibility is getting democratization at lightspeed, and I am genuinely hyped to watch this vehicle take flight!",
+    "id": "agn200cr",
+    "category": "Science",
+    "companies": [
+      "Agnikul Cosmos",
+      "Technology Development Board"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-08",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "Launch Rockets from ANYWHERE? Inside Agnikul's Mobile Dhanush Launchpad!",
+    "summary": "Agnikul Cosmos has inaugurated specialized rocket assembly and testing facilities while scaling its transportable mobile launchpad platform named Dhanush. Fueled by stable liquid oxygen and aviation turbine fuel, Dhanush allows orbital-class rocket launches without fixed permanent spaceports.",
+    "engagement": "High",
+    "raw_text": "So check this out—imagine being able to launch an orbital-class satellite from literally anywhere on the planet without needing a massive multi-billion-dollar fixed launchpad. That is the exact mission behind Agnikul Cosmos and their crazy mobile launch system called Dhanush! Alongside opening brand new assembly and testing facilities to mass-produce reusable rockets, they are standardizing launches using Aviation Turbine Fuel paired with Liquid Oxygen. Why does that matter? Because aviation jet fuel is universally available at airports worldwide and incredibly stable compared to traditional cryogenic fuels. That means they can roll their transportable Dhanush launch setup to almost any coastal location, mount the rocket, fuel it on site, and blast off! Combined with their deep-throttling engine architecture for vertical propulsive landings, they are solving orbital logistics like an on-demand freight service. Honestly, this level of aerospace agility is mind-blowing. Tell me: would you trust a launchpad on wheels?",
+    "id": "dhn771mb",
+    "category": "Hardware",
+    "companies": [
+      "Agnikul Cosmos"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "The Consumer App Era Is OVER: $10.3B Pours Into Deep Tech and AI Infrastructure!",
+    "summary": "A comprehensive Tracxn report reveals Indian tech equity funding rose 7% year-over-year to $10.3 billion across the first nine months of 2026 despite a 38% collapse in deal volume. Venture capital has radically rotated away from early-stage consumer startups toward enterprise infrastructure, which surged five-fold to $1.6 billion.",
+    "engagement": "Low",
+    "raw_text": "If you want to understand where the global economy is actually headed, you have to look at venture capital data. Tracxn just dropped their comprehensive tech funding report for 2026, and the numbers expose a massive, ruthless shift. Total funding in India rose 7% to over $10.3 billion, but deal volume collapsed by 38%! Seed funding for consumer software crashed by 37%. What does that mean? The era of throwing cheap venture dollars at copycat delivery apps or social media clones is officially dead and buried. Investors are aggressively rotating into deep tech, hardware, and raw AI infrastructure. In fact, enterprise infrastructure investment skyrocketed five-fold to $1.6 billion, with dedicated AI infrastructure absorbing another $1.2 billion independently! We saw 18 massive mega-rounds over $100 million each. Capital is consolidating into foundational industrial backbones rather than flashy consumer apps, and founders need to adapt fast!",
+    "id": "trx103bn",
+    "category": "Business",
+    "companies": [
+      "Tracxn"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "$1 BILLION Megadeal: Nxtra Secures Massive Private Equity Influx for AI Clusters",
+    "summary": "Hyperscale data center operator Nxtra secured a $1 billion private equity influx to expand high-density infrastructure required by generative AI workloads. The transaction marks one of 18 mega-rounds completed in 2026 underscoring investor conviction in physical digital infrastructure.",
+    "engagement": "Low",
+    "raw_text": "We keep talking about AI algorithms, but who is actually building the physical powerhouses to run them? Nxtra just closed a gargantuan one-billion-dollar private equity deal to massively expand their hyperscale data center footprint! Honestly, this is huge because modern AI models and autonomous agent clusters require insane power density and liquid cooling systems that older server farms simply cannot support. Hyperscalers across the globe are spending 60 to 80 percent above baseline projections, and that capital is flowing straight into physical infrastructure operators like Nxtra. When you look at deals of this magnitude, it proves that institutional funds believe the compute crunch is going to last for the next decade. While retail investors are chasing software tokens, the real money is pouring billions into steel, concrete, power substations, and fiber backbones. Without companies like Nxtra building out massive rack-level capacity, the whole AI revolution hits a total standstill!",
+    "id": "nxt1000m",
+    "category": "Business",
+    "companies": [
+      "Nxtra"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-24",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "Neysa Raises Massive $600M Series B to Supercharge AI Cloud Infrastructure!",
+    "summary": "AI acceleration and cloud platform Neysa has successfully closed a pivotal $600 million Series B funding round. The capital injection reflects accelerating enterprise demand for purpose-built compute orchestration capable of sustaining autonomous agent workflows.",
+    "engagement": "Low",
+    "raw_text": "Here’s the wild part about the AI infrastructure boom: specialized cloud providers are raising funding rounds that look like late-stage IPOs! Neysa just locked down a massive $600 million Series B round, making it one of the largest infrastructure raises of the year. Why are investors throwing more than half a billion dollars at an AI platform? Because enterprises are realizing that off-the-shelf public cloud services are both way too expensive and poorly optimized for running autonomous multi-agent workloads. Companies need end-to-end orchestration, observability, and dedicated acceleration hardware to deploy AI agents at scale. Neysa is providing that turnkey infrastructure layer so developers don't have to build custom compute clusters from scratch. This $600 million war chest gives them the runway to challenge legacy cloud giants in the enterprise AI space. It is another undeniable signal that the AI gold rush is strictly rewarding the pick-and-shovel providers!",
+    "id": "ney600sb",
+    "category": "Business",
+    "companies": [
+      "Neysa"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-25",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "₹1,000 Crore Deep-Tech Warchest: Quantum, Spacetech, and Drone Batteries Funded!",
+    "summary": "Unicorn India Ventures announced the final closing of its ₹1,000 crore dedicated technology fund in strategic collaboration with IIT Madras. The capital is underwriting early-stage deep-tech startups including quantum computing firm Quanstra, spacetech developer Hathor, drone battery maker Triolt Energy, and carbon capture innovator Carbelim.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—while traditional venture capital is running scared from risky early bets, Unicorn India Ventures just announced the final close of their massive ₹1,000 crore deep-tech fund in direct partnership with IIT Madras! This isn't for basic software apps; this money is strictly earmarked for hard science and physical engineering. We are talking about startups like Quanstra developing quantum computing architectures, Hathor pushing spacetech forward, Triolt Energy building high-performance drone batteries, and Carbelim engineering bio-integrated carbon capture! Partnering directly with elite university labs like IIT Madras means these companies get world-class research facilities and patient institutional capital that doesn't demand overnight returns. Honestly, this is the exact playbook needed to build generational tech giants. If you love seeing deep science translate into real-world commercial hardware, keep your eyes glued to this portfolio!",
+    "id": "uiv1000c",
+    "category": "Business",
+    "companies": [
+      "Unicorn India Ventures",
+      "IIT Madras",
+      "Quanstra",
+      "Hathor",
+      "Triolt Energy",
+      "Carbelim"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 4,
+    "title": "IIT Kanpur Dumps 2-Minute Pitches to Hunt for Real Deep-Tech Giants!",
+    "summary": "The Entrepreneurship Cell at IIT Kanpur has officially announced UpStart 2026, a nationwide incubation initiative spanning Delhi, Bengaluru, Hyderabad, and Mumbai. The revamped program replaces brief demo pitches with extensive multi-week mentorship and technical stress-testing across Web3, cybersecurity, and deep-tech.",
+    "engagement": "Medium",
+    "raw_text": "Here’s the wild part about startup culture: those slick, two-minute pitch competitions where people pitch buzzwords to judges are officially dead! The Entrepreneurship Cell at IIT Kanpur just launched UpStart 2026, and they completely rebuilt the entire incubation model. Instead of quick superficial presentations, they are running an intensive multi-week acceleration tour hitting Delhi, Bengaluru, Hyderabad, and Mumbai. They are subjecting founders to brutal business-model stress-testing, technical code reviews, and deep-dive mentorship. Their target? Mission-critical industries like Web3 security, autonomous robotics, cybersecurity, and advanced engineering. Elite engineering schools are finally stepping up to bridge the brutal gap between academic research papers and commercial market viability. I love seeing this shift toward substance over hype. If you are building a real deep-tech company, this is the launchpad you need to check out right now!",
+    "id": "itk2026u",
+    "category": "Business",
+    "companies": [
+      "IIT Kanpur"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  },
+  {
+    "date": "2026-09-26",
+    "source_file": "Daily Tech News Report (7).pdf",
+    "page": 5,
+    "title": "AI in Real Medicine: Bihar Launches Massive AI Summit and Medical Tech Hub!",
+    "summary": "The Government of Bihar hosted the Bihar AI Summit 2026 alongside the inauguration of an AI Special Purpose Hub at AIIMS-Patna to deploy applied intelligence across healthcare and public services. The initiative integrates localized startup bootcamps at A.N. College with state-subsidized AI deployment for rural health delivery.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—everyone thinks artificial intelligence is only being deployed in Silicon Valley or big tech metropolises, but the most exciting transformations are happening in public healthcare! The state of Bihar just hosted the Bihar AI Summit 2026, and they announced something genuinely groundbreaking: a dedicated AI Special Purpose Hub at AIIMS-Patna! They are partnering with local academic bootcamps at A.N. College to directly fund and incubate medical AI technologies aimed at rural healthcare delivery and diagnostic access. Instead of using AI just to generate chatbot text, they are training models to read scans, manage triage in crowded district hospitals, and optimize regional public services. Honestly, this is how you stop tech brain drain and solve real human problems. Seeing state governments actively subsidize applied clinical AI is inspiring, and it shows the true impact of this technology outside corporate boardrooms!",
+    "id": "bhr2026a",
+    "category": "AI",
+    "companies": [
+      "AIIMS-Patna",
+      "Government of Bihar",
+      "A.N. College"
+    ],
+    "people": [],
+    "created_at": "2026-09-27T00:48:16Z"
+  }
+]
