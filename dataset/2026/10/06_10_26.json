@@ -15,7 +15,9 @@
       "Motorola"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/qc8e-9921-gen6.png",
+    "image_prompt": "Photorealistic tech news scene: sleek smartphone in foreground with glowing 2nm microchip overlay, subtle GPU/AI data streams, abstract circuit halo, futuristic newsroom lighting, cool blue tones, shallow depth of field, ultra-detailed, high contrast, no text, no logos, realistic reflections."
   },
   {
     "date": "2026-10-06",
@@ -37,13 +39,15 @@
       "Integral Ad Science"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/oai-ads-4412-gpt.png",
+    "image_prompt": "Realistic newsroom-style photo: a sleek AI interface hologram above a desk, with subtle ad-like image tiles glowing at the side, diverse users\u2019 silhouettes in soft focus, modern city lights through window, cool blue lighting, shallow depth of field, cinematic, high detail, no text, no logos."
   },
   {
     "date": "2026-10-06",
     "source_file": "Daily Tech News Report Compilation (3).pdf",
     "page": 5,
-    "title": "Google Search Just Got Rebuilt From Scratch—And Gemini Free Users Get Downgraded!",
+    "title": "Google Search Just Got Rebuilt From Scratch\u2014And Gemini Free Users Get Downgraded!",
     "summary": "Google is deploying its Antigravity user interface overhaul to Search, dynamically generating interactive widgets and background monitoring agents from multimodal inputs. Concurrently, Google is restricting free Gemini users exclusively to Flash-Lite while reserving advanced reasoning models for paid tiers.",
     "engagement": "High",
     "raw_text": "So check this out, Google is shaking up the internet in two massive ways today, and it affects basically every single person watching this! First up, they are rolling out 'Antigravity,' which is literally the biggest redesign to Google Search in decades. Instead of a boring list of links, the new search box takes text, video, and active Chrome tabs to dynamically generate custom interactive apps, charts, and simulations right on your screen. But here's the wild part you need to know about: starting October 9th, Google is aggressively locking down free Gemini access. If you're on the free tier, you are officially being demoted strictly to the lightweight Gemini 3.5 Flash-Lite model, losing access to standard Flash and Pro entirely! Even 'AI Plus' subscribers are getting booted off the Pro model, leaving top-tier capabilities and the new 'Deep Think' reasoning engine exclusively for high-paying Pro and Ultra members. Google is ruthlessly protecting its cloud margins, and casual users are definitely paying the price!",
@@ -53,7 +57,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/ggl-anti-8821-gem.png",
+    "image_prompt": "Futuristic newsroom tech scene: a glowing holographic Google Search interface rebuilt from scratch, dynamic floating widgets and subtle antigravity UI elements, with a side view of a Gemini-like AI core dimmed for \u201cfree\u201d users, tense contrast, cool blue lighting, photoreal, cinematic, no text."
   },
   {
     "date": "2026-10-06",
@@ -78,7 +84,9 @@
       "Alex Turner",
       "Julie Menin"
     ],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/nyc-risk-1190-kill.png",
+    "image_prompt": "Realistic news photo, NYC council chamber at dusk, tense atmosphere. Crowd of lawmakers, spotlighted witness in suit, laptop glow with abstract AI network overlay, security agents and red \u201cbreach\u201d warning lights in background, moody cinematic lighting, shallow depth of field, high detail, no text."
   },
   {
     "date": "2026-10-06",
@@ -96,7 +104,9 @@
     "people": [
       "Daron Acemoglu"
     ],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/econ-unemp-3301-iwf.png",
+    "image_prompt": "Photoreal newsroom scene: worried economists at a conference table, blurred U.S. skyline through window, holographic AI circuit overlays in cool blues, warning headline-like lighting without text. In foreground, a smartphone showing indistinct deepfake artifacts (no faces), ominous tone, cinematic, high-res, realistic."
   },
   {
     "date": "2026-10-06",
@@ -115,23 +125,27 @@
     "people": [
       "Swami Sarvapriyananda"
     ],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/anth-monk-7723-ftc.png",
+    "image_prompt": "Photorealistic newsroom-style scene: Anthropic AI headquarters lobby, tech-lit glass and steel. Swami Sarvapriyananda in saffron robes guided by staff, facing a conference room doorway where AI servers glow. Subtle compliance/legal vibe, muted tones, dramatic lighting, ultra-detailed, realistic, no text."
   },
   {
     "date": "2026-10-06",
     "source_file": "Daily Tech News Report Compilation (3).pdf",
     "page": 6,
-    "title": "Europe Invests €130M In AI Drone Defense: The Rise of Autonomous Warfare!",
-    "summary": "The European Union has allocated an additional €130 million to surveillance and counter-drone defense initiatives, bringing total funding over €500 million. The procurement focuses on kinetic AI interception systems to defend against inexpensive, autonomous drone threats.",
+    "title": "Europe Invests \u20ac130M In AI Drone Defense: The Rise of Autonomous Warfare!",
+    "summary": "The European Union has allocated an additional \u20ac130 million to surveillance and counter-drone defense initiatives, bringing total funding over \u20ac500 million. The procurement focuses on kinetic AI interception systems to defend against inexpensive, autonomous drone threats.",
     "engagement": "Medium",
-    "raw_text": "So check this out, modern warfare is transforming overnight, and European defense officials are pouring hundreds of millions of euros into cutting-edge tech to stay ahead. The European Union just approved a massive €130 million funding package dedicated entirely to counter-drone and automated surveillance infrastructure, pushing total spending past the half-billion-euro mark! Here is why this matters: asymmetric combat has completely shifted. Inexpensive, mass-produced commercial drones modified with autonomous AI guidance can now bypass traditional air defenses with scary precision. To counter this threat, Europe is prioritizing kinetic AI interception—essentially using smart, autonomous targeting algorithms to detect, track, and destroy incoming unmanned swarms in real time. We are seeing physical AI leave the consumer gadget space and move straight to the front lines of geopolitical defense. While high-tech military hardware usually doesn't grab daily consumer headlines, the rapid rise of autonomous counter-drone robotics is going to dictate the future of global security for decades to come.",
+    "raw_text": "So check this out, modern warfare is transforming overnight, and European defense officials are pouring hundreds of millions of euros into cutting-edge tech to stay ahead. The European Union just approved a massive \u20ac130 million funding package dedicated entirely to counter-drone and automated surveillance infrastructure, pushing total spending past the half-billion-euro mark! Here is why this matters: asymmetric combat has completely shifted. Inexpensive, mass-produced commercial drones modified with autonomous AI guidance can now bypass traditional air defenses with scary precision. To counter this threat, Europe is prioritizing kinetic AI interception\u2014essentially using smart, autonomous targeting algorithms to detect, track, and destroy incoming unmanned swarms in real time. We are seeing physical AI leave the consumer gadget space and move straight to the front lines of geopolitical defense. While high-tech military hardware usually doesn't grab daily consumer headlines, the rapid rise of autonomous counter-drone robotics is going to dictate the future of global security for decades to come.",
     "id": "eu-drone-5519-def",
     "category": "Hardware",
     "companies": [
       "European Union"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/eu-drone-5519-def.png",
+    "image_prompt": "Realistic news photo: EU-style forward operations base at dusk, hazy sky; soldiers in modern uniforms with radar screens; silhouetted quadcopter swarms; a sleek kinetic AI interceptor drone launching a controlled burst near drones; cinematic lighting, high detail, muted colors, shallow depth of field, no text."
   },
   {
     "date": "2026-10-06",
@@ -150,7 +164,9 @@
       "Alibaba"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/mbz-bench-6641-browse.png",
+    "image_prompt": "Photoreal newsroom scene: holographic browser windows float above a desk, split screens show chaotic web navigation failing, glowing red vs neutral panels, diverse flags and scripts on subtle UI mosaics, tense investigative mood, sharp lighting, high contrast, cinematic depth of field, no text."
   },
   {
     "date": "2026-10-06",
@@ -167,7 +183,9 @@
       "University of Toronto"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/stf-taste-2219-bench.png",
+    "image_prompt": "Photorealistic news image: sleek lab setting at Stanford, scientists in white coats analyzing a translucent \u201ctaste map\u201d hologram over glossy protein samples; smart device screen shows multicolor sensory blobs; futuristic yet realistic lighting, confident investigative mood, high detail, shallow depth of field."
   },
   {
     "date": "2026-10-06",
@@ -183,7 +201,9 @@
     "people": [
       "Jungkyu Park"
     ],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/med-neo-9943-flow.png",
+    "image_prompt": "Photorealistic news photo style: microscope view of stained breast tissue biopsy slide morphing into subtle AI heatmap overlays; researchers in lab with holographic 3D tissue patches; sleek dark blue interface glow, clinical lighting, futuristic yet realistic, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-10-06",
@@ -199,7 +219,9 @@
       "Fujitsu Limited"
     ],
     "people": [],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/fuj-uvance-3381-koz.png",
+    "image_prompt": "Realistic newsroom-style photo: sleek Japanese retail store interior at dusk, illuminated shelves and endcaps. Futuristic yet subtle holographic UI overlays show autonomous agent icons near inventory and loyalty kiosks. Consultants and shoppers in background, calm confident mood, high detail, natural lighting, shallow depth of field, 4k."
   },
   {
     "date": "2026-10-06",
@@ -220,6 +242,8 @@
     "people": [
       "Julie Sweet"
     ],
-    "created_at": "2026-10-06T05:33:14Z"
+    "created_at": "2026-10-06T05:33:14Z",
+    "image_url": "images/06_10_26/uip-pldt-1188-formy.png",
+    "image_prompt": "Photoreal newsroom-style scene: biopharma and telecom professionals reviewing holographic workflow maps and document streams on transparent displays; subtle AI agent icons floating; modern offices, cool blue lighting, cinematic realism, shallow depth of field, high detail, no text, balanced composition."
   }
 ]
