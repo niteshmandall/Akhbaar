@@ -6,7 +6,7 @@
     "title": "NVIDIA and Microsoft Just Killed Cloud AI with This Insane Laptop!",
     "summary": "Microsoft and NVIDIA have officially unveiled the Surface Laptop Ultra and Surface RTX Spark Dev Box powered by the RTX Spark superchip. Featuring an integrated Grace CPU, Blackwell GPU, and up to 128GB of unified memory, the hardware enables offline execution of 120-billion parameter AI models.",
     "engagement": "High",
-    "raw_text": "So check this out, guys—the era of paying monthly cloud fees just to run your favorite AI models might officially be dead. Microsoft and NVIDIA just dropped an absolute bomb at their San Francisco hardware event with the new Surface Laptop Ultra and Dev Box, and the specs are completely mind-blowing. At the heart of this beast is the NVIDIA RTX Spark superchip, which physically fuses a Grace CPU with a Blackwell RTX GPU. But here is the wild part: they packed up to 128 gigabytes of unified LPDDR5X memory right onto the chip! If you build software or mess around with local AI, you know that PCIe bottlenecks usually destroy performance. Not anymore. With this unified architecture, the GPU gets direct access to the entire memory pool, giving you a full PetaFLOP of compute in a portable rig. That means you can load massive 120-billion parameter reasoning models completely offline! No internet, zero API token costs, and zero cloud latency. Honestly, this is huge for privacy and real power users. Apple's M-series silicon finally has terrifying competition, and I am completely here for it.",
+    "raw_text": "So check this out, guys\u2014the era of paying monthly cloud fees just to run your favorite AI models might officially be dead. Microsoft and NVIDIA just dropped an absolute bomb at their San Francisco hardware event with the new Surface Laptop Ultra and Dev Box, and the specs are completely mind-blowing. At the heart of this beast is the NVIDIA RTX Spark superchip, which physically fuses a Grace CPU with a Blackwell RTX GPU. But here is the wild part: they packed up to 128 gigabytes of unified LPDDR5X memory right onto the chip! If you build software or mess around with local AI, you know that PCIe bottlenecks usually destroy performance. Not anymore. With this unified architecture, the GPU gets direct access to the entire memory pool, giving you a full PetaFLOP of compute in a portable rig. That means you can load massive 120-billion parameter reasoning models completely offline! No internet, zero API token costs, and zero cloud latency. Honestly, this is huge for privacy and real power users. Apple's M-series silicon finally has terrifying competition, and I am completely here for it.",
     "id": "tn78a91bc0",
     "category": "Hardware",
     "companies": [
@@ -14,7 +14,9 @@
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/tn78a91bc0.png",
+    "image_prompt": "Ultra-realistic studio photo of a sleek Microsoft-style Surface Laptop Ultra beside a compact RTX Spark Dev Box, both glowing subtly with futuristic accents; show heat-shimmer and circuit reflections, premium metallic materials, dark tech newsroom lighting, shallow depth of field, crisp detail, news-photo realism, no text."
   },
   {
     "date": "2026-10-07",
@@ -30,7 +32,9 @@
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/w11aion44e.png",
+    "image_prompt": "Photorealistic news photo: sleek Windows 11 desktop glow with subtle neural-network hologram \u201cbrain\u201d emerging; a secure sandboxed terminal-like window framed by transparent glass \u201cexecution containers\u201d; futuristic security shields, cool blue lighting, cinematic, high detail, realistic reflections, no text."
   },
   {
     "date": "2026-10-07",
@@ -50,7 +54,9 @@
     "people": [
       "Patrick Wardle"
     ],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/aplm09fd3x.png",
+    "image_prompt": "Futuristic yet realistic newsroom photo: sleek macOS laptop on dark desk, glowing lock icon made of subtle code threads, shadowy AI \u201cghost\u201d silhouettes reaching toward an iMessage-like folder, moody blue lighting, high contrast, shallow depth of field, cinematic, no text, ultra\u2011sharp."
   },
   {
     "date": "2026-10-07",
@@ -68,7 +74,9 @@
     "people": [
       "Mark Searle"
     ],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/av89iata12.png",
+    "image_prompt": "Cinematic newsroom-style scene: modern commercial cockpit interior at dusk, illuminated instrument panels flickering with glitchy HUD reflections, a distraught pilot silhouette, co-pilot checking radio; background shows blurred radar screens, satellite signal interference visuals, tense atmosphere, photorealistic, high detail, natural lighting."
   },
   {
     "date": "2026-10-07",
@@ -77,7 +85,7 @@
     "title": "Norway's Largest Bank Fires 400 Tech Workers as AI Replaces Human Coders!",
     "summary": "DNB Bank announced the elimination of 400 full-time equivalent positions within its Technology & Services division due to the deployment of autonomous AI. Chief Executive Kjerstin Braathen confirmed that AI agents have permanently replaced human staff in code generation, compliance, and data auditing.",
     "engagement": "Low",
-    "raw_text": "So check this out: the theoretical fear of artificial intelligence taking white-collar office jobs is no longer a debate—it is officially happening right before our eyes. Norway's biggest financial institution, DNB Bank, just announced they are cutting 400 full-time positions across their Technology and Services department. And here is the sobering part: this is not because the bank is losing money. CEO Kjerstin Braathen made it crystal clear that autonomous AI agents have successfully taken over core operational roles like automated KYC checks, customer data deduplication, and foundational software engineering. When algorithmic pair-programmers can write unit tests and refactor code twenty-four-seven without stopping, management simply eliminated the human headcount. We are witnessing the brutal rise of a two-track jobs market. While companies are spending massive fortunes hiring top-tier AI architects, junior software developers and compliance analysts are getting pushed out the door entirely. It is a sobering corporate reality check for anyone starting their career in tech. The routine desk jobs that used to train junior staff are vanishing into automated scripts.",
+    "raw_text": "So check this out: the theoretical fear of artificial intelligence taking white-collar office jobs is no longer a debate\u2014it is officially happening right before our eyes. Norway's biggest financial institution, DNB Bank, just announced they are cutting 400 full-time positions across their Technology and Services department. And here is the sobering part: this is not because the bank is losing money. CEO Kjerstin Braathen made it crystal clear that autonomous AI agents have successfully taken over core operational roles like automated KYC checks, customer data deduplication, and foundational software engineering. When algorithmic pair-programmers can write unit tests and refactor code twenty-four-seven without stopping, management simply eliminated the human headcount. We are witnessing the brutal rise of a two-track jobs market. While companies are spending massive fortunes hiring top-tier AI architects, junior software developers and compliance analysts are getting pushed out the door entirely. It is a sobering corporate reality check for anyone starting their career in tech. The routine desk jobs that used to train junior staff are vanishing into automated scripts.",
     "id": "dnb400layf",
     "category": "Business",
     "companies": [
@@ -88,7 +96,9 @@
     "people": [
       "Kjerstin Braathen"
     ],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/dnb400layf.png",
+    "image_prompt": "Realistic high-quality news photo: Norway\u2019s DNB bank building exterior at dusk, cool Nordic tones, subtle AI hologram over server room windows, silhouetted tech workers leaving, empty desks, tense newsroom mood, cinematic lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-10-07",
@@ -106,7 +116,9 @@
       "Telecom Regulatory Authority of India"
     ],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/imc2026sp9.png",
+    "image_prompt": "Ultra-realistic wide shot inside a futuristic convention hall in New Delhi at India Mobile Congress 2026: massive crowd, stage with glowing 6G/terahertz visual light beams, sub\u2011GHz antennas, holographic network diagrams, Bharat-style flags in color accents, engineers and startups presenting advanced hardware; vibrant, cinematic lighting, high detail, news photo quality."
   },
   {
     "date": "2026-10-07",
@@ -129,7 +141,9 @@
     "people": [
       "Shweta Rajpal Kohli"
     ],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/dpvrs77pol.png",
+    "image_prompt": "Cinematic photo-style scene of Indian tech leaders and top VC founders in a modern conference hall, holographic blueprints of satellite and deeptech hardware floating above a table map, diverse group handshake, warm professional lighting, realistic, high detail, newsworthy composition, no text."
   },
   {
     "date": "2026-10-07",
@@ -138,7 +152,7 @@
     "title": "Silicon Valley Meets Patna: State Inks Deals for 'BiharGPT' and Tech Hubs!",
     "summary": "The Government of Bihar signed comprehensive cloud and AI pacts with Google, Microsoft, and Sarvam, while partnering with CoRover to build the sovereign multilingual model 'BiharGPT'. Tiger Analytics also established a 200-person advanced AI delivery center in Patna to retain engineering talent.",
     "engagement": "Medium",
-    "raw_text": "So check this out: Tier-2 cities are rapidly becoming the surprise frontrunners in the artificial intelligence race, and Patna is pulling off an incredible transformation. Following the Bihar AI Summit, the state government just signed major strategic agreements with Google Cloud, Microsoft, and Sarvam. But here is the wild part: they partnered with CoRover to build 'BiharGPT'—a sovereign, hyper-local large language model specifically trained on regional dialects and civic databases to deliver automated public services directly to local citizens! Instead of waiting on generic models from Silicon Valley, they are building localized AI tailored for the population. On top of that, Tiger Analytics just announced a dedicated 200-person advanced AI delivery center right inside Patna. For decades, top engineering graduates from IIT Patna had to leave for Bengaluru or Hyderabad to land premier tech jobs. Now, with dedicated AI Centers of Excellence and grassroots skilling extended through 2031, local engineers can build world-class AI without moving away. Honestly, this is huge proof that cutting-edge tech hubs can flourish anywhere with the right government backing.",
+    "raw_text": "So check this out: Tier-2 cities are rapidly becoming the surprise frontrunners in the artificial intelligence race, and Patna is pulling off an incredible transformation. Following the Bihar AI Summit, the state government just signed major strategic agreements with Google Cloud, Microsoft, and Sarvam. But here is the wild part: they partnered with CoRover to build 'BiharGPT'\u2014a sovereign, hyper-local large language model specifically trained on regional dialects and civic databases to deliver automated public services directly to local citizens! Instead of waiting on generic models from Silicon Valley, they are building localized AI tailored for the population. On top of that, Tiger Analytics just announced a dedicated 200-person advanced AI delivery center right inside Patna. For decades, top engineering graduates from IIT Patna had to leave for Bengaluru or Hyderabad to land premier tech jobs. Now, with dedicated AI Centers of Excellence and grassroots skilling extended through 2031, local engineers can build world-class AI without moving away. Honestly, this is huge proof that cutting-edge tech hubs can flourish anywhere with the right government backing.",
     "id": "patgpt2026",
     "category": "AI",
     "companies": [
@@ -149,7 +163,9 @@
       "Tiger Analytics"
     ],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/patgpt2026.png",
+    "image_prompt": "Photorealistic news image: a futuristic Patna tech hub meeting room blending Indian and Silicon Valley aesthetics. Officials and engineers from diverse teams shake hands, holographic cloud/AI visuals overhead, server racks and city skyline in background, bright optimistic mood, cinematic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-10-07",
@@ -158,14 +174,16 @@
     "title": "Stop Cheating, Start Learning: Georgia Tech's 'Sherpa' AI Revolutionizes Tutoring!",
     "summary": "Georgia Tech researchers introduced 'Sherpa', an adaptive pedagogical framework that trains LLMs using Direct Preference Optimization on real student debugging trajectories. A downstream study of 656 Dutch high school students demonstrated that the framework significantly improved problem completion without giving away answers.",
     "engagement": "Medium",
-    "raw_text": "So check this out: we all know current AI chatbots make terrible human tutors because they immediately blurt out the final answer instead of helping you learn. Well, researchers at Georgia Tech just cracked the code with a brilliant new framework called 'Sherpa.' Instead of training models on standard question-and-answer pairs, the team converted real student programming logs—including compilation mistakes, retries, and errors—into serialized debugging trajectories. They then used Direct Preference Optimization to train the AI to recognize exactly where human students get stuck. Here is the wild part: the model acts like an authentic mentor, providing subtle hints and scaffolding so students discover the solution on their own! They tested Sherpa on 656 Dutch high-school students, and exercise completion rates shot up significantly. The system even uses an automated 14-point pedagogical evaluator to track student comprehension in real time. Honestly, this is huge for the future of education. If we can roll out adaptive models like Sherpa into school curricula, personalized one-on-one digital tutoring will finally become a practical reality.",
+    "raw_text": "So check this out: we all know current AI chatbots make terrible human tutors because they immediately blurt out the final answer instead of helping you learn. Well, researchers at Georgia Tech just cracked the code with a brilliant new framework called 'Sherpa.' Instead of training models on standard question-and-answer pairs, the team converted real student programming logs\u2014including compilation mistakes, retries, and errors\u2014into serialized debugging trajectories. They then used Direct Preference Optimization to train the AI to recognize exactly where human students get stuck. Here is the wild part: the model acts like an authentic mentor, providing subtle hints and scaffolding so students discover the solution on their own! They tested Sherpa on 656 Dutch high-school students, and exercise completion rates shot up significantly. The system even uses an automated 14-point pedagogical evaluator to track student comprehension in real time. Honestly, this is huge for the future of education. If we can roll out adaptive models like Sherpa into school curricula, personalized one-on-one digital tutoring will finally become a practical reality.",
     "id": "shrp88edai",
     "category": "Science",
     "companies": [
       "Georgia Tech"
     ],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/shrp88edai.png",
+    "image_prompt": "Realistic newsroom-style photo: Georgia Tech campus at dusk, warm lights, students at laptops with subtle AI holographic tutors hovering above screens, coding traces and flow arrows in soft blue glow, confident faces, no text, cinematic depth of field, high detail, natural colors."
   },
   {
     "date": "2026-10-07",
@@ -174,11 +192,13 @@
     "title": "AI Robots Just Learned Real Physics: Inside the Game-Changing 'WorldSolver'!",
     "summary": "Researchers published 'WorldSolver', a framework that eliminates physical hallucinations in generative AI models through a 'Code-as-World' paradigm. The system estimates dynamical parameters such as mass and friction, then automatically executes deterministic Python scripts in the PyChrono physics engine.",
     "engagement": "Medium",
-    "raw_text": "So check this out: generative video models and robotics AIs look amazing on screen, but they constantly hallucinate impossible physics because they do not understand mass, friction, or gravity. A team of researchers just published an absolute game-changer called 'WorldSolver' to fix this exact nightmare. Instead of relying on ungrounded neural imagination, WorldSolver operates on a revolutionary 'Code-as-World' paradigm. Here is the wild part: when the AI looks at a complex physical scene—like objects bouncing or sliding across a table—it does not try to guess what happens next in some latent space. Instead, it extracts the underlying dynamical parameters like mass and friction coefficients, and immediately writes executable Python code for PyChrono, an open-source deterministic multi-physics engine! By forcing the language model to translate real-world scenarios into verified mathematical differential equations, it achieves state-of-the-art zero-shot physical reasoning. Honestly, this is huge for humanoid robotics and autonomous vehicles. If you want an AI robot handling physical tools or driving safely, grounding its brain in immutable laws of physics is non-negotiable.",
+    "raw_text": "So check this out: generative video models and robotics AIs look amazing on screen, but they constantly hallucinate impossible physics because they do not understand mass, friction, or gravity. A team of researchers just published an absolute game-changer called 'WorldSolver' to fix this exact nightmare. Instead of relying on ungrounded neural imagination, WorldSolver operates on a revolutionary 'Code-as-World' paradigm. Here is the wild part: when the AI looks at a complex physical scene\u2014like objects bouncing or sliding across a table\u2014it does not try to guess what happens next in some latent space. Instead, it extracts the underlying dynamical parameters like mass and friction coefficients, and immediately writes executable Python code for PyChrono, an open-source deterministic multi-physics engine! By forcing the language model to translate real-world scenarios into verified mathematical differential equations, it achieves state-of-the-art zero-shot physical reasoning. Honestly, this is huge for humanoid robotics and autonomous vehicles. If you want an AI robot handling physical tools or driving safely, grounding its brain in immutable laws of physics is non-negotiable.",
     "id": "wsphys993k",
     "category": "Science",
     "companies": [],
     "people": [],
-    "created_at": "2026-10-07T14:17:22Z"
+    "created_at": "2026-10-07T14:17:22Z",
+    "image_url": "images/07_10_26/wsphys993k.png",
+    "image_prompt": "Futuristic newsroom photo style: a researcher in a lab watches a holographic \u201cphysics world\u201d of robots and blocks; glowing code lines flow into a PyChrono-like simulation, estimating mass/friction; realistic lighting, sharp focus, subtle sci-fi mood, high detail, no text, no logos."
   }
 ]
