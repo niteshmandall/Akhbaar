@@ -6,7 +6,7 @@
     "title": "Mind-Reading AI: Brain-IT Literally Reconstructs Your Thoughts!",
     "summary": "Researchers at the Weizmann Institute of Science have unveiled Brain-IT, an AI that reconstructs images based on just one hour of fMRI brain scan data. It utilizes dual semantic and structural streams to recreate what a subject is actively observing with unprecedented fidelity.",
     "engagement": "High",
-    "raw_text": "So check this out—we are officially entering the mind-reading era! Researchers in Israel just dropped a bomb at ICLR 2026 with an AI called Brain-IT. Honestly, this is huge. Normally, you'd need to sit in an MRI machine for 40 hours for a computer to even guess what you're looking at. But Brain-IT only needs one hour of calibration! Here's the wild part: it basically splits your brain waves into two channels—one figures out if you're looking at a banana or a stop sign, and the other maps the colors and spatial outlines. Then, a diffusion model fuses them together into an actual image of what your eyes are seeing right now! Yes, there are still some glitches—like turning a dog in a bathtub into a goat—but this is leaping ahead of previous models like MindEye2. The real crazy part is the future applications; this could let paralyzed patients communicate their visual thoughts. But it also brings up massive mental privacy concerns. How long until someone tries to read your dreams? We need to talk about this down in the comments!",
+    "raw_text": "So check this out\u2014we are officially entering the mind-reading era! Researchers in Israel just dropped a bomb at ICLR 2026 with an AI called Brain-IT. Honestly, this is huge. Normally, you'd need to sit in an MRI machine for 40 hours for a computer to even guess what you're looking at. But Brain-IT only needs one hour of calibration! Here's the wild part: it basically splits your brain waves into two channels\u2014one figures out if you're looking at a banana or a stop sign, and the other maps the colors and spatial outlines. Then, a diffusion model fuses them together into an actual image of what your eyes are seeing right now! Yes, there are still some glitches\u2014like turning a dog in a bathtub into a goat\u2014but this is leaping ahead of previous models like MindEye2. The real crazy part is the future applications; this could let paralyzed patients communicate their visual thoughts. But it also brings up massive mental privacy concerns. How long until someone tries to read your dreams? We need to talk about this down in the comments!",
     "id": "nws1X7vQ",
     "category": "Science",
     "companies": [
@@ -15,7 +15,9 @@
     "people": [
       "Prof. Michal Irani"
     ],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws1X7vQ.png",
+    "image_prompt": "Photorealistic news-style scene: a sleek lab with MRI scanner glow, a researcher in white coat viewing a holographic brain image. Dual-layer AI visualization recreates vivid images from fMRI, cinematic lighting, high detail, natural colors, modern tech mood, no text."
   },
   {
     "date": "2026-10-09",
@@ -34,7 +36,9 @@
     "people": [
       "Anirban Ghoshal"
     ],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws2P9kA.png",
+    "image_prompt": "Realistic newsroom scene: split-brain holographic interface over a glowing city server rack, two distinct orbits for \u201cdecision\u201d and \u201cgeneration,\u201d subtle circuit paths, cool blue/teal lighting, photoreal, high contrast, shallow depth of field, cinematic, ultra-detailed, no text."
   },
   {
     "date": "2026-10-09",
@@ -43,7 +47,7 @@
     "title": "OpenAI's New ChatGPT Update is Forcing Biometric Scans for Adults!",
     "summary": "OpenAI has replaced its standard birthdate checkboxes with an AI-powered behavioral age prediction system that automatically restricts accounts believed to belong to minors. Adult users incorrectly flagged by the algorithm must now verify their identity through third-party biometric facial scans and government IDs to regain unrestricted access.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about the latest ChatGPT update, and it has a lot of people furious. OpenAI is officially rolling out a machine-learning age prediction system that actively spies on your chat behavior to guess if you are a teenager. So check this out: instead of just asking for your birth date, the AI now analyzes your vocabulary, what time of day you're online, and the complexity of your prompts to guess your age. If it thinks you're under 18, boom—you get locked into a 'Restricted Mode' that aggressively censors content and alerts parents if it detects distress. Honestly, this is huge for child safety, but here is where it gets crazy. If you are a full-grown adult and the AI mistakenly flags you, the only way out is submitting a real-time facial scan and a government-issued ID to a third-party company called Persona. We are basically seeing the end of internet anonymity just to use a chatbot. They are supposedly prepping an unrestricted 'Adult Mode' for 2026, but are you willing to scan your face to use ChatGPT? Let me know!",
+    "raw_text": "Here's the wild part about the latest ChatGPT update, and it has a lot of people furious. OpenAI is officially rolling out a machine-learning age prediction system that actively spies on your chat behavior to guess if you are a teenager. So check this out: instead of just asking for your birth date, the AI now analyzes your vocabulary, what time of day you're online, and the complexity of your prompts to guess your age. If it thinks you're under 18, boom\u2014you get locked into a 'Restricted Mode' that aggressively censors content and alerts parents if it detects distress. Honestly, this is huge for child safety, but here is where it gets crazy. If you are a full-grown adult and the AI mistakenly flags you, the only way out is submitting a real-time facial scan and a government-issued ID to a third-party company called Persona. We are basically seeing the end of internet anonymity just to use a chatbot. They are supposedly prepping an unrestricted 'Adult Mode' for 2026, but are you willing to scan your face to use ChatGPT? Let me know!",
     "id": "nws3L2rB",
     "category": "AI",
     "companies": [
@@ -51,7 +55,9 @@
       "Persona"
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws3L2rB.png",
+    "image_prompt": "Photorealistic news photo: a modern smartphone showing a vague \u201cage verification\u201d UI (no text), a worried adult holding ID documents, a subtle biometric facial scan overlay in blue light, sterile office background, dramatic lighting, shallow depth of field, high detail, realistic, serious mood, no words."
   },
   {
     "date": "2026-10-09",
@@ -60,7 +66,7 @@
     "title": "Quantum Computing Breakthrough: IonQ Eradicates the Biggest Bottleneck!",
     "summary": "IonQ has successfully demonstrated a quantum memory-enhanced photonic interconnect, achieving over 1,000 entanglements per second between systems. This breakthrough enables the networking of multiple quantum processing units without decoherence, paving the way for fault-tolerant scalability.",
     "engagement": "Medium",
-    "raw_text": "We all know quantum computing sounds like science fiction, but IonQ just solved one of the hardest physics problems holding it back. So check this out: you can't just keep cramming physical qubits into one single processor because the noise gets out of control. The only fix is modularity—wiring smaller quantum chips together. The problem? Moving quantum data between chips usually destroys the fragile entanglement. But IonQ just demonstrated a photonic interconnect combined with a silicon-vacancy quantum memory module that actually preserves the state. They are hitting over 1,000 quantum entanglements per second, basically eradicating the network bottleneck. Honestly, this is huge. It completely validates their crazy roadmap to hit 2 million physical qubits by 2030. DARPA is so impressed they advanced IonQ to Stage C, unlocking a potential $300 million deal. Plus, they are already shipping this tech to South Korea. We are watching the actual quantum internet being born right now. Are you ready for the quantum age?",
+    "raw_text": "We all know quantum computing sounds like science fiction, but IonQ just solved one of the hardest physics problems holding it back. So check this out: you can't just keep cramming physical qubits into one single processor because the noise gets out of control. The only fix is modularity\u2014wiring smaller quantum chips together. The problem? Moving quantum data between chips usually destroys the fragile entanglement. But IonQ just demonstrated a photonic interconnect combined with a silicon-vacancy quantum memory module that actually preserves the state. They are hitting over 1,000 quantum entanglements per second, basically eradicating the network bottleneck. Honestly, this is huge. It completely validates their crazy roadmap to hit 2 million physical qubits by 2030. DARPA is so impressed they advanced IonQ to Stage C, unlocking a potential $300 million deal. Plus, they are already shipping this tech to South Korea. We are watching the actual quantum internet being born right now. Are you ready for the quantum age?",
     "id": "nws4W5mC",
     "category": "Hardware",
     "companies": [
@@ -69,7 +75,9 @@
       "Defense Advanced Research Projects Agency (DARPA)"
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws4W5mC.png",
+    "image_prompt": "Photorealistic news image: a sleek quantum lab with a glowing ion trap chamber and fiber-optic photonic interconnects; luminous entanglement links stream between distant cryogenic quantum processors, flawless coherence haze, cool blue/purple lighting, high detail, realistic depth of field, no text."
   },
   {
     "date": "2026-10-09",
@@ -88,7 +96,9 @@
       "Jefferies"
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws5T8yD.png",
+    "image_prompt": "Photorealistic newsroom-style scene: futuristic AI data center interior with glowing server racks, a central high-tech switch silhouette, translucent memory modules pooling via CXL-style links, cool blue lighting, subtle crowd at OCP summit in background, realistic depth of field, cinematic high-detail."
   },
   {
     "date": "2026-10-09",
@@ -97,7 +107,7 @@
     "title": "Space Race Silicon: Why Microchip Just Bought VORAGO Technologies",
     "summary": "Microchip Technology has acquired VORAGO Technologies to secure the patented HARDSIL process, which cost-effectively radiation-hardens standard commercial semiconductors for space. This strategic M&A bolsters Microchip's dominance in the aerospace sector while Steve Sanghi returns as permanent CEO.",
     "engagement": "Low",
-    "raw_text": "So check this out—the booming space economy just triggered a major semiconductor acquisition. We're launching thousands of satellites into low-Earth orbit right now, but regular silicon chips get absolutely fried by radiation in space, causing bit-flips and rapid degradation. Microchip Technology just made a massive move by acquiring VORAGO Technologies. VORAGO has this insane patented tech called HARDSIL. Instead of designing custom, super-expensive space chips from scratch, HARDSIL alters the manufacturing process at the substrate level so standard commercial chips can survive massive radiation and 200-degree temperatures. Honestly, this is huge for the 'New Space' economy because it drives costs way down. VORAGO has already powered over 70 space missions, and now Microchip gets to lock down that IP. Also, Microchip's legendary former leader, Steve Sanghi, just stepped back in as permanent CEO to guide them through this defense and aerospace expansion. If you are investing in the space race, keep your eyes on the silicon powering it!",
+    "raw_text": "So check this out\u2014the booming space economy just triggered a major semiconductor acquisition. We're launching thousands of satellites into low-Earth orbit right now, but regular silicon chips get absolutely fried by radiation in space, causing bit-flips and rapid degradation. Microchip Technology just made a massive move by acquiring VORAGO Technologies. VORAGO has this insane patented tech called HARDSIL. Instead of designing custom, super-expensive space chips from scratch, HARDSIL alters the manufacturing process at the substrate level so standard commercial chips can survive massive radiation and 200-degree temperatures. Honestly, this is huge for the 'New Space' economy because it drives costs way down. VORAGO has already powered over 70 space missions, and now Microchip gets to lock down that IP. Also, Microchip's legendary former leader, Steve Sanghi, just stepped back in as permanent CEO to guide them through this defense and aerospace expansion. If you are investing in the space race, keep your eyes on the silicon powering it!",
     "id": "nws6K4fE",
     "category": "Business",
     "companies": [
@@ -107,7 +117,9 @@
     "people": [
       "Steve Sanghi"
     ],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws6K4fE.png",
+    "image_prompt": "Photorealistic newsroom-style scene: sleek Microchip engineers beside a gleaming silicon wafer etched with circuit lines, a spacecraft silhouette and starfield through a window, subtle launch glow, cinematic lighting, high detail, realistic materials, professional news aesthetic, no text."
   },
   {
     "date": "2026-10-09",
@@ -116,12 +128,14 @@
     "title": "Python is Finally as Fast as C Thanks to PythoC!",
     "summary": "A new open-source transpiler named PythoC allows developers to generate standalone, perfectly compiled C code directly from Python syntax. While lacking support for some nuanced C11 features like variable-length arrays, it effectively bridges high-level scripting with bare-metal execution speeds.",
     "engagement": "Medium",
-    "raw_text": "Python developers, you are going to want to hear this! We all love Python because it's super fast to prototype, but we all hate how slow it executes compared to C. Well, there's a new open-source tool going around called PythoC, and it is blowing my mind. Unlike Cython, which just makes extensions for the Python runtime, PythoC is a literal transpiler that generates standalone C code straight from your Python syntax. The generated code gets compiled on the fly into an independent executable that looks like it was hand-written in C! Here's the wild part: it gives you the bare-metal efficiency needed for crazy AI or infrastructure workloads while letting you write in beautiful Python. It has a few quirks—like you have to use Python's match/case to simulate C's switch/case, and it doesn't support variable-length arrays just yet. But honestly, this is huge for systems engineers wanting the best of both worlds. This could completely change the way we optimize heavy computational workflows. Who is testing this out in their next build?",
+    "raw_text": "Python developers, you are going to want to hear this! We all love Python because it's super fast to prototype, but we all hate how slow it executes compared to C. Well, there's a new open-source tool going around called PythoC, and it is blowing my mind. Unlike Cython, which just makes extensions for the Python runtime, PythoC is a literal transpiler that generates standalone C code straight from your Python syntax. The generated code gets compiled on the fly into an independent executable that looks like it was hand-written in C! Here's the wild part: it gives you the bare-metal efficiency needed for crazy AI or infrastructure workloads while letting you write in beautiful Python. It has a few quirks\u2014like you have to use Python's match/case to simulate C's switch/case, and it doesn't support variable-length arrays just yet. But honestly, this is huge for systems engineers wanting the best of both worlds. This could completely change the way we optimize heavy computational workflows. Who is testing this out in their next build?",
     "id": "nws7M1gR",
     "category": "Software",
     "companies": [],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws7M1gR.png",
+    "image_prompt": "Futuristic newsroom desk with a glowing Python and C code bridge hologram, developers\u2019 silhouettes reflected in monitors, sleek server racks behind, warm tech lighting, sharp realistic style, shallow depth of field, dynamic cinematic glow symbolizing \u201cPython to bare-metal speed,\u201d no text."
   },
   {
     "date": "2026-10-09",
@@ -138,7 +152,9 @@
       "Ekart"
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws8Z4vL.png",
+    "image_prompt": "Photorealistic newsroom-style shot: India e-commerce operations center at night, glowing server racks, AI hologram maps of hyper-local delivery nodes, delivery vans and scooters waiting, workers monitoring screens, dynamic motion blur for peak traffic, dramatic lighting, ultra-detailed, realistic, no text."
   },
   {
     "date": "2026-10-09",
@@ -147,14 +163,16 @@
     "title": "Honda Admits EVs Aren't Ready, Goes All-In on 'Honda Hybrid' for 2027",
     "summary": "Amid slowing global adoption of pure Battery Electric Vehicles, Honda is consolidating its fragmented powertrain branding under the 'Honda Hybrid' moniker for a 2027 rollout. The new architecture integrates advanced edge computing and an electric all-wheel-drive system, indicating that software-defined hybrids are a long-term strategic focus rather than a temporary stepping stone.",
     "engagement": "Medium",
-    "raw_text": "If you've been watching the car market, you know that full electric vehicles are hitting a bit of a wall thanks to range anxiety and charging issues. Well, Honda just made a massive statement. They are officially ditching their messy naming conventions like i-MMD and e:HEV and consolidating everything under the incredibly simple 'Honda Hybrid' brand starting in 2027. But here's the wild part: they aren't just changing the name; they are completely redesigning the tech. The new system features heavy localized edge computing built right into the car to dynamically distribute torque via a brand new electric AWD setup. Honestly, this is huge because Honda is essentially admitting that highly efficient, software-defined hybrids aren't just a stepping stone to EVs anymore—they are the long-term play for the global market well into the next decade. Automakers are finally realizing that a pragmatic hybrid approach makes more sense for most people right now. Would you buy a high-tech hybrid over a full EV? Let me know!",
+    "raw_text": "If you've been watching the car market, you know that full electric vehicles are hitting a bit of a wall thanks to range anxiety and charging issues. Well, Honda just made a massive statement. They are officially ditching their messy naming conventions like i-MMD and e:HEV and consolidating everything under the incredibly simple 'Honda Hybrid' brand starting in 2027. But here's the wild part: they aren't just changing the name; they are completely redesigning the tech. The new system features heavy localized edge computing built right into the car to dynamically distribute torque via a brand new electric AWD setup. Honestly, this is huge because Honda is essentially admitting that highly efficient, software-defined hybrids aren't just a stepping stone to EVs anymore\u2014they are the long-term play for the global market well into the next decade. Automakers are finally realizing that a pragmatic hybrid approach makes more sense for most people right now. Would you buy a high-tech hybrid over a full EV? Let me know!",
     "id": "nws9B7xT",
     "category": "Mobility",
     "companies": [
       "Honda Motor Co."
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws9B7xT.png",
+    "image_prompt": "Realistic automotive news photo: sleek 2027 Honda Hybrid prototype SUV in a modern city at dusk, dramatic rim lighting, subtle charging/edge-computing visual cues on the windshield, hints of electric all\u2011wheel\u2011drive via glowing wheel hubs, ultra-detailed, shallow depth of field, cinematic, no text."
   },
   {
     "date": "2026-10-09",
@@ -170,6 +188,8 @@
       "Tata Consultancy Services (TCS)"
     ],
     "people": [],
-    "created_at": "2026-10-09T14:46:34.000Z"
+    "created_at": "2026-10-09T14:46:34.000Z",
+    "image_url": "images/10_10_26/nws0F2qY.png",
+    "image_prompt": "Realistic news photo: corporate Mumbai skyline at dusk, split scene\u2014left side server racks and falling revenue graph as dim lights, right side glowing AI data center with neural network light trails; suited executives in foreground looking concerned; dramatic lighting, high detail, editorial style, no text."
   }
 ]
