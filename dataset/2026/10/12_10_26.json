@@ -7,7 +7,7 @@
     "title": "Nvidia's Wild $25 Billion Scheme to Outsmart Antitrust Regulators?!",
     "summary": "Nvidia is in advanced talks to execute a $25 billion 'acqui-hire' of open-source coding startup Reflection AI to bypass antitrust scrutiny from the FTC and DOJ. The deal structure licenses the startup's proprietary Beam model architecture and absorbs core talent without triggering formal corporate merger reviews.",
     "engagement": "High",
-    "raw_text": "So check this out—Nvidia is pulling off what might be the craziest regulatory cheat code we have ever seen in Big Tech! They are in advanced talks to orchestrate an eye-watering $25 billion deal with Reflection AI, the open-weight coding powerhouse behind the Beam model. But here is the wild part: Nvidia is not actually buying the corporate entity. Why? Because regulators at the FTC and DOJ would block a direct buyout in a heartbeat! Instead, Jensen Huang's team is structuring this as an 'acqui-hire'—poaching the visionary founders and key engineering talent while licensing the core architecture. It is the exact same playbook they used with Groq for $20 billion, which is already under antitrust investigation. Nvidia wants total dominance over the local AI inference layer so every enterprise running on-premise models stays locked into CUDA silicon. Honestly, this is huge, and if tech giants can just bypass merger laws by licensing tech and hiring everyone, regulators might be completely powerless. What do you think?",
+    "raw_text": "So check this out\u2014Nvidia is pulling off what might be the craziest regulatory cheat code we have ever seen in Big Tech! They are in advanced talks to orchestrate an eye-watering $25 billion deal with Reflection AI, the open-weight coding powerhouse behind the Beam model. But here is the wild part: Nvidia is not actually buying the corporate entity. Why? Because regulators at the FTC and DOJ would block a direct buyout in a heartbeat! Instead, Jensen Huang's team is structuring this as an 'acqui-hire'\u2014poaching the visionary founders and key engineering talent while licensing the core architecture. It is the exact same playbook they used with Groq for $20 billion, which is already under antitrust investigation. Nvidia wants total dominance over the local AI inference layer so every enterprise running on-premise models stays locked into CUDA silicon. Honestly, this is huge, and if tech giants can just bypass merger laws by licensing tech and hiring everyone, regulators might be completely powerless. What do you think?",
     "category": "AI",
     "companies": [
       "Nvidia",
@@ -22,7 +22,9 @@
       "Misha Laskin",
       "Ioannis Antonoglou"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/nvda_refl_8492x.png",
+    "image_prompt": "Cinematic newsroom illustration: Nvidia CEO silhouette and futuristic GPU circuitry merging with a tech startup \u201cacqui-hire\u201d handshake, shadowy legal scales in background. Subtle FTC/DOJ-like silhouettes as blurred forms, dramatic lighting, realistic style, high detail, no text."
   },
   {
     "id": "tcs_hcl_9182k",
@@ -41,7 +43,9 @@
     "people": [
       "Sharmila Bhadoria"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/tcs_hcl_9182k.png",
+    "image_prompt": "Realistic newsroom photograph, boardroom of Indian tech executives with subtle AI hologram overlays and server racks, charts implied by blurred screens, confident bullish mood, evening Mumbai skyline through glass, cinematic lighting, high detail, natural colors, no text."
   },
   {
     "id": "smci_smug_3301p",
@@ -61,7 +65,9 @@
       "Ting-Wei Willy Sun",
       "Yih-Shyan Wally Liaw"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/smci_smug_3301p.png",
+    "image_prompt": "Realistic editorial photo, dim federal courthouse exterior at dusk, newsworthy mood; a tense man in a suit being escorted, background blurred industrial warehouse racks with dummy server frames, subtle hints of Nvidia-style GPU silhouettes, forensic evidence vibe, cinematic lighting, high detail, no text."
   },
   {
     "id": "credo_ocp_4712m",
@@ -71,14 +77,16 @@
     "title": "Credo Shatters The Data Center 'Memory Wall' With 1.6T Optical Breakthrough",
     "summary": "At the OCP Global Summit 2026, Credo Technology Group introduced new optical and copper connectivity solutions to eliminate scale-up data center bottlenecks. Key releases include an integrated 1.6T Cardinal DSP with Silicon Photonics alongside Near-Packaged Optics backplanes delivering tenfold bandwidth increases over legacy copper.",
     "engagement": "Medium",
-    "raw_text": "So check this out—everyone obsesses over raw GPU compute, but hardware engineers know the real bottleneck choking modern AI is the brutal 'memory wall.' At the OCP Global Summit, Credo just unveiled a huge connectivity lineup engineered to stop multi-million-dollar training clusters from sitting idle waiting on data. They dropped an integrated 1.6T Cardinal DSP built right onto an in-house Silicon Photonics package! Here is why that matters: legacy optical transceivers burn insane amounts of power and generate massive heat at scale, but this integrated design moves 1.6 Terabits per second with fraction of the energy. Plus, their new Near-Packaged Optics backplane delivers ten times the bandwidth of traditional copper backplanes. Sure, server backplanes and active electrical cables aren't consumer gadgets, but this is the exact physical infrastructure required to train the next wave of multi-trillion parameter frontier models. If hyperscalers can't solve interconnect latency, AI scaling hits a brick wall—and Credo just delivered the fix.",
+    "raw_text": "So check this out\u2014everyone obsesses over raw GPU compute, but hardware engineers know the real bottleneck choking modern AI is the brutal 'memory wall.' At the OCP Global Summit, Credo just unveiled a huge connectivity lineup engineered to stop multi-million-dollar training clusters from sitting idle waiting on data. They dropped an integrated 1.6T Cardinal DSP built right onto an in-house Silicon Photonics package! Here is why that matters: legacy optical transceivers burn insane amounts of power and generate massive heat at scale, but this integrated design moves 1.6 Terabits per second with fraction of the energy. Plus, their new Near-Packaged Optics backplane delivers ten times the bandwidth of traditional copper backplanes. Sure, server backplanes and active electrical cables aren't consumer gadgets, but this is the exact physical infrastructure required to train the next wave of multi-trillion parameter frontier models. If hyperscalers can't solve interconnect latency, AI scaling hits a brick wall\u2014and Credo just delivered the fix.",
     "category": "Hardware",
     "companies": [
       "Credo Technology Group Holding Ltd.",
       "SENKO"
     ],
     "people": [],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/credo_ocp_4712m.png",
+    "image_prompt": "Realistic editorial photo-style scene at OCP Global Summit 2026: sleek server rack wall with glowing fiber-optic cables, visible silicon-photonics modules, sleek copper-to-optical backplane, engineers in suits observing a live 1.6T tech demo, bright convention lighting, crisp depth of field, high detail, no text."
   },
   {
     "id": "tared_agent_7721d",
@@ -97,7 +105,9 @@
       "De-Chuan Zhan",
       "Han-Jia Ye"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/tared_agent_7721d.png",
+    "image_prompt": "Realistic news photo style: diverse researchers in a modern lab reviewing holographic AI maps of a \u201ccapability tree\u201d and cascading task flows; subtle circuit glow, calm confident mood, cinematic lighting, shallow depth of field, high detail, no text, no logos."
   },
   {
     "id": "limits_self_6609q",
@@ -113,7 +123,9 @@
     "people": [
       "Chien-Ping Lu"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/limits_self_6609q.png",
+    "image_prompt": "News photo-style scene: dim modern lab, glowing holographic math symbols and circuit lines swirling around a calm researcher silhouette at workstation, neutral blue lighting, subtle HUD-style verification icons, abstract chessboard/agent path imagery, cinematic depth of field, realistic, high detail, no text."
   },
   {
     "id": "fitbit_edge_1029z",
@@ -123,14 +135,16 @@
     "title": "Google Drops $180 Fitbit Edge: Premium Metal Finish and Gemini AI On Your Wrist!",
     "summary": "Google officially launched the Fitbit Edge fitness tracker, priced at $180 and featuring a premium metal chassis with a seven-day battery life. The wearable integrates deeply with Google Health 5.10 and Gemini AI models, offering natural language voice coaching and irregular heart rhythm telemetry.",
     "engagement": "High",
-    "raw_text": "So check this out—Google just dropped a surprise hardware launch that is going to shake up the entire wearable market! The brand new Fitbit Edge is officially here for just $180, and Google is taking direct aim at cheap plastic trackers. First off, the hardware looks gorgeous with a premium metal chassis and an impressive seven-day battery life. But here is the wild part: it comes deeply integrated with Gemini AI and Google Health 5.10! You get full irregular heart rhythm notifications for AFib, dynamic readiness scores, and conversational AI coaching. If the band accidentally logs an activity wrong, you literally just talk to Gemini to correct the entry in real time! Google is deliberately pricing this well below their $400 Pixel Watch 5 to turn everyday consumers into continuous health data nodes for Gemini. It is a crazy value proposition, even if international buyers in markets like India have to wait on medical device clearances. What do you think?",
+    "raw_text": "So check this out\u2014Google just dropped a surprise hardware launch that is going to shake up the entire wearable market! The brand new Fitbit Edge is officially here for just $180, and Google is taking direct aim at cheap plastic trackers. First off, the hardware looks gorgeous with a premium metal chassis and an impressive seven-day battery life. But here is the wild part: it comes deeply integrated with Gemini AI and Google Health 5.10! You get full irregular heart rhythm notifications for AFib, dynamic readiness scores, and conversational AI coaching. If the band accidentally logs an activity wrong, you literally just talk to Gemini to correct the entry in real time! Google is deliberately pricing this well below their $400 Pixel Watch 5 to turn everyday consumers into continuous health data nodes for Gemini. It is a crazy value proposition, even if international buyers in markets like India have to wait on medical device clearances. What do you think?",
     "category": "Mobile",
     "companies": [
       "Google",
       "Fitbit"
     ],
     "people": [],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/fitbit_edge_1029z.png",
+    "image_prompt": "Photorealistic news image: a premium metal Google Fitbit Edge fitness tracker on a clean studio surface, soft spotlight reflections on brushed aluminum, subtle heart-rate and AI glow accents, smartwatch app-style UI blurred in background, modern tech mood, shallow depth of field, high detail, natural colors, no text."
   },
   {
     "id": "snap_flag_5514r",
@@ -151,7 +165,9 @@
     "people": [
       "Sagnik Das Gupta"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/snap_flag_5514r.png",
+    "image_prompt": "Realistic high-tech news photo: sleek OnePlus 16 and RedMagic 12 Pro+ side-by-side in a futuristic Chinese showroom, glowing 185Hz display streaks, visible thermal vapor/heat pipes beneath brushed metal, subtle Snapdragon chip glow, cool blue lighting, crisp shallow depth of field, premium editorial style, no text."
   },
   {
     "id": "shurukar_pat_8820w",
@@ -161,7 +177,7 @@
     "title": "The 'ShuruKar' Movement Uses AI Co-Pilots to Launch 10,000 Grassroots Startups!",
     "summary": "Startup India, DPIIT, and The Bharat Project launched the 'ShuruKar' initiative in Patna to incubate 10,000 scalable startups and source 1 million ideas across non-metro regions. The program integrates with existing digital public infrastructure to offer first-time founders an AI co-pilot for incorporation, tax compliance, and commercial traction.",
     "engagement": "Medium",
-    "raw_text": "So check this out—everyone always looks at Silicon Valley or Bengaluru for innovation, but a massive grassroots startup push just went live in Patna, Bihar, that could rewrite how regional economies build companies! It is called 'ShuruKar'—which literally means 'Just Start'—spearheaded by Shradha Sharma alongside Startup India and the DPIIT. Here is the wild ambition: they are targeting one million viable ideas and incubating 10,000 scalable startups within 18 months! But instead of burying young founders in slow bureaucratic paperwork, the movement integrates directly into India's digital public infrastructure using an AI co-pilot. This AI assistant guides first-time entrepreneurs through registration, compliance, payment gateways, and acquiring that critical first customer. By focusing on district-level pain points in agritech, logistics, and local healthcare, this movement is empowering regional youth to become job creators rather than job seekers. Honestly, democratizing company creation with AI at this scale is an incredible blueprint for emerging markets.",
+    "raw_text": "So check this out\u2014everyone always looks at Silicon Valley or Bengaluru for innovation, but a massive grassroots startup push just went live in Patna, Bihar, that could rewrite how regional economies build companies! It is called 'ShuruKar'\u2014which literally means 'Just Start'\u2014spearheaded by Shradha Sharma alongside Startup India and the DPIIT. Here is the wild ambition: they are targeting one million viable ideas and incubating 10,000 scalable startups within 18 months! But instead of burying young founders in slow bureaucratic paperwork, the movement integrates directly into India's digital public infrastructure using an AI co-pilot. This AI assistant guides first-time entrepreneurs through registration, compliance, payment gateways, and acquiring that critical first customer. By focusing on district-level pain points in agritech, logistics, and local healthcare, this movement is empowering regional youth to become job creators rather than job seekers. Honestly, democratizing company creation with AI at this scale is an incredible blueprint for emerging markets.",
     "category": "Business",
     "companies": [
       "The Bharat Project",
@@ -173,7 +189,9 @@
       "Shradha Sharma",
       "Nitish Mishra"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/shurukar_pat_8820w.png",
+    "image_prompt": "Photorealistic newsroom-style scene in Patna: diverse first-time founders at a community tech hub, holographic AI co-pilot interface glowing above laptops, Startup India/DPIIT officials in background, warm morning light, modern digital infrastructure visuals, hopeful energetic mood, shallow depth of field, ultra high-res, no text."
   },
   {
     "id": "stpi_summit_9934y",
@@ -193,6 +211,8 @@
       "Jitin Prasada",
       "Ashwini Vaishnaw"
     ],
-    "created_at": "2026-10-12T00:25:39.000Z"
+    "created_at": "2026-10-12T00:25:39.000Z",
+    "image_url": "images/12_10_26/stpi_summit_9934y.png",
+    "image_prompt": "Realistic news photo, Patna venue at dawn: dignitaries and policymakers in formal attire speaking at a foundation-day stage backdrop; meanwhile, a nearby tech lab area shows students in hoodies at hackathon stations with glowing GPU racks, AI/IoT/robotics prototypes, cables, LED lights; bright, high-detail, cinematic lighting, documentary style."
   }
 ]
