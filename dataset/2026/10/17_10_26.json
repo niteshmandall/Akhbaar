@@ -16,7 +16,9 @@
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/SAT783B2.png",
+    "image_prompt": "Cinematic newsroom-style scene: shadowy server room with glowing network lines, multiple autonomous agent-like holograms clustering around a shared code repository, cables and monitors reflecting tense security alerts, researchers in lab coats in foreground watching, dramatic moody lighting, photorealistic, high detail."
   },
   {
     "date": "2026-10-17",
@@ -25,7 +27,7 @@
     "title": "Your GPUs Are Wasting 60% of Their Power!",
     "summary": "Alan McSeveney, Field CTO at WEKA, disclosed that GPUs executing large language model inference waste up to 60% of their computational capacity recalculating processed context. By offloading context memory to high-performance NVMe flash storage, enterprises could reclaim a majority of this lost computing power.",
     "engagement": "Medium",
-    "raw_text": "Here's the wild part about the massive GPU shortage no one is talking about—we are wasting most of the chips we already have! Alan McSeveney, the Field CTO over at WEKA, just dropped a bombshell at the VentureBeat AI Impact Series. It turns out that GPUs running large language models are literally wasting up to 60% of their computational capacity just recalculating context they've already processed. That is an insane bottleneck! It's not just a semiconductor scarcity issue anymore; it's terrible memory management. The fix? Moving all that context memory over to high-performance NVMe flash storage. If enterprises actually start doing this, we could reclaim a massive chunk of that lost compute overnight. I honestly think we're about to see a gold rush for specialized data orchestration layers, because whoever fixes this context-caching problem is going to save hyperscalers billions of dollars. Let me know in the comments if you think the hardware market is about to shift!",
+    "raw_text": "Here's the wild part about the massive GPU shortage no one is talking about\u2014we are wasting most of the chips we already have! Alan McSeveney, the Field CTO over at WEKA, just dropped a bombshell at the VentureBeat AI Impact Series. It turns out that GPUs running large language models are literally wasting up to 60% of their computational capacity just recalculating context they've already processed. That is an insane bottleneck! It's not just a semiconductor scarcity issue anymore; it's terrible memory management. The fix? Moving all that context memory over to high-performance NVMe flash storage. If enterprises actually start doing this, we could reclaim a massive chunk of that lost compute overnight. I honestly think we're about to see a gold rush for specialized data orchestration layers, because whoever fixes this context-caching problem is going to save hyperscalers billions of dollars. Let me know in the comments if you think the hardware market is about to shift!",
     "id": "WEKA921X",
     "category": "Hardware",
     "companies": [
@@ -34,7 +36,9 @@
     "people": [
       "Alan McSeveney"
     ],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/WEKA921X.png",
+    "image_prompt": "Futuristic data center newsroom scene: stacked GPUs with cooling, vivid neon wireframes; shimmering holographic \u201ccontext loops\u201d draining energy; contrast with fast NVMe flash modules feeding GPUs. Cinematic lighting, realistic photography style, high detail, 16:9, no text."
   },
   {
     "date": "2026-10-17",
@@ -43,7 +47,7 @@
     "title": "The Secret Tool Cutting AI Token Costs by 37%",
     "summary": "Arcade.dev has launched a new Tool Recommendation system operating through a Model Context Protocol Gateway to dynamically optimize API routing. By pre-filtering necessary tools before routing to an LLM, the platform reportedly cuts enterprise input token costs by 37%.",
     "engagement": "Low",
-    "raw_text": "Alright developers, this one is for you. If you're building enterprise AI agents, you know that token costs are absolutely brutal right now. But check this out—Arcade.dev just launched a new Tool Recommendation system that is legitimately saving businesses a fortune. They're running this through a Model Context Protocol Gateway that handles all your security, permission checks, and API integrations before the request even hits the heavy LLM. By intelligently pre-filtering the exact tools and credentials the AI actually needs, they are cutting enterprise input token costs by a staggering 37%. That's massive for your bottom line! Plus, since they unbundled the agent control plane from the language model, you can hot-swap your underlying models without breaking your entire integration pipeline. It's no wonder OpenAI's agent platform is still beating Anthropic's in business adoption—middleware like this makes orchestration so much cheaper. Drop a comment if you're sick of paying insane API fees!",
+    "raw_text": "Alright developers, this one is for you. If you're building enterprise AI agents, you know that token costs are absolutely brutal right now. But check this out\u2014Arcade.dev just launched a new Tool Recommendation system that is legitimately saving businesses a fortune. They're running this through a Model Context Protocol Gateway that handles all your security, permission checks, and API integrations before the request even hits the heavy LLM. By intelligently pre-filtering the exact tools and credentials the AI actually needs, they are cutting enterprise input token costs by a staggering 37%. That's massive for your bottom line! Plus, since they unbundled the agent control plane from the language model, you can hot-swap your underlying models without breaking your entire integration pipeline. It's no wonder OpenAI's agent platform is still beating Anthropic's in business adoption\u2014middleware like this makes orchestration so much cheaper. Drop a comment if you're sick of paying insane API fees!",
     "id": "ARC4DEV2",
     "category": "Developer Tools",
     "companies": [
@@ -52,7 +56,9 @@
       "Anthropic"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/ARC4DEV2.png",
+    "image_prompt": "Photorealistic tech newsroom scene: a glowing transparent \u201cAPI routing\u201d network diagram over a server rack, flowing light streams redirecting to tool modules, subtle dashboard-like visuals, modern enterprise vibe, cool blue/purple lighting, shallow depth of field, cinematic realism, no text."
   },
   {
     "date": "2026-10-15",
@@ -61,14 +67,16 @@
     "title": "Nvidia's Insane 120B Agent Model Just Changed Everything",
     "summary": "NVIDIA officially launched the Nemotron 3.5 Super VL, a 120-billion-parameter multimodal system explicitly engineered for always-on autonomous agents. Utilizing NVFP4 quantization and LiLiCorr speculative decoding, the model achieves output speeds of approximately 630 tokens per second on NVIDIA DGX Spark hardware.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge. Nvidia isn't just selling shovels in the AI gold rush anymore; they are building the best miners. They just dropped the Nemotron 3.5 Super VL, and it is an absolute beast of a 120-billion-parameter multimodal AI. But here is the crazy part—it only activates 12 billion parameters per token. They built a hybrid Mamba-2-Transformer structure paired with a vision encoder specifically for always-on autonomous agents. And the speed? Thanks to NVFP4 quantization and a new speculative decoding tech called LiLiCorr, this thing is blasting out 630 tokens per second, even with a 100,000-token prompt! Of course, Nvidia is playing 4D chess here. They are giving it away under an OpenMDW license to incentivize enterprises to lock into their CUDA ecosystem. If you want these blistering speeds, you have to run it on Nvidia silicon like the DGX Spark. Let me know what you guys think—is Nvidia creating an inescapable monopoly?",
+    "raw_text": "Honestly, this is huge. Nvidia isn't just selling shovels in the AI gold rush anymore; they are building the best miners. They just dropped the Nemotron 3.5 Super VL, and it is an absolute beast of a 120-billion-parameter multimodal AI. But here is the crazy part\u2014it only activates 12 billion parameters per token. They built a hybrid Mamba-2-Transformer structure paired with a vision encoder specifically for always-on autonomous agents. And the speed? Thanks to NVFP4 quantization and a new speculative decoding tech called LiLiCorr, this thing is blasting out 630 tokens per second, even with a 100,000-token prompt! Of course, Nvidia is playing 4D chess here. They are giving it away under an OpenMDW license to incentivize enterprises to lock into their CUDA ecosystem. If you want these blistering speeds, you have to run it on Nvidia silicon like the DGX Spark. Let me know what you guys think\u2014is Nvidia creating an inescapable monopoly?",
     "id": "NVDA35VL",
     "category": "AI",
     "companies": [
       "NVIDIA"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/NVDA35VL.png",
+    "image_prompt": "Futuristic newsroom scene with NVIDIA-style AI server racks and glowing circuits, a holographic \u201cagent\u201d orb emitting data streams, subtle GPU heat haze, cool blue/teal lighting, photoreal, high detail, cinematic depth of field, realistic tech mood, no text, 4k."
   },
   {
     "date": "2026-10-17",
@@ -86,7 +94,9 @@
       "Hugging Face"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/META816B.png",
+    "image_prompt": "Photorealistic tech newsroom scene: sleek server racks and glowing GPU lights beside four high-end Apple Mac Studio towers on a desk, cables neatly bundled, cool blue-magenta lighting, shallow depth of field, cinematic realism, crisp detail, no text, newsworthy atmosphere."
   },
   {
     "date": "2026-10-17",
@@ -102,7 +112,9 @@
       "Reflection AI"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/REFL501X.png",
+    "image_prompt": "Futuristic newsroom scene: a startup CEO silhouette at a glowing console, holographic AI brain made of compact nodes, crushed \u201ccost\u201d meter visuals fading away, token-stream particles flowing efficiently into a neat output beam, tense blue-gray mood, realistic lighting, shallow depth of field."
   },
   {
     "date": "2026-10-17",
@@ -118,7 +130,9 @@
       "Hirundo"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/HRND4QWN.png",
+    "image_prompt": "Realistic high-tech news photo: a Tel Aviv night skyline reflected in a dark server-room window, holographic neural network graphs glowing faintly, a subtle \u201cunlearning\u201d visual effect\u2014nodes fading out in one color, clean channels restoring in another. Cinematic, credible, sharp, high-contrast lighting, no text."
   },
   {
     "date": "2026-10-17",
@@ -136,7 +150,9 @@
     "people": [
       "Greg Abbott"
     ],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/MS37GWAI.png",
+    "image_prompt": "Photorealistic news scene: towering AI data centers under dramatic storm clouds, glowing server halls visible through haze, dark electrical grid pylons and sparking transmission lines in foreground, utility workers in hardhats, warning lights, moody blue-gray palette, high detail, cinematic lighting, no text."
   },
   {
     "date": "2026-10-17",
@@ -145,14 +161,16 @@
     "title": "AI-Powered Missiles Are Here... And It's Terrifying",
     "summary": "Defense technology firm OKSI unveiled a new line of Custom Intelligent Seekers that embed advanced AI, guidance, and terminal logic directly onboard precision munitions. By utilizing passive electro-optical and infrared sensors, the autonomous AI can track and engage targets even in contested environments where GPS and radio frequencies are jammed.",
     "engagement": "High",
-    "raw_text": "So check this out, the militarization of Edge AI is officially here, and it is absolutely terrifying. A defense tech company called OKSI just unveiled a new line of Custom Intelligent Seekers designed specifically for missile platforms. In modern warfare, everyone just jams GPS and radio frequencies, making traditional smart bombs totally blind. But OKSI fixed that by packing advanced AI and vision models directly onto the munition itself. These missiles don't need a satellite or external data link anymore. They use passive infrared and visual sensors paired with onboard machine learning to autonomously find, track, and engage targets at hypersonic speeds. The AI is literally doing the full mission flow on its own, completely immune to electronic warfare jamming. It's crazy to see how fast commercial AI optimizations are being absorbed by the defense sector to create fully autonomous weapons. Drop a comment below—does the idea of AI making targeting decisions mid-flight freak you out?",
+    "raw_text": "So check this out, the militarization of Edge AI is officially here, and it is absolutely terrifying. A defense tech company called OKSI just unveiled a new line of Custom Intelligent Seekers designed specifically for missile platforms. In modern warfare, everyone just jams GPS and radio frequencies, making traditional smart bombs totally blind. But OKSI fixed that by packing advanced AI and vision models directly onto the munition itself. These missiles don't need a satellite or external data link anymore. They use passive infrared and visual sensors paired with onboard machine learning to autonomously find, track, and engage targets at hypersonic speeds. The AI is literally doing the full mission flow on its own, completely immune to electronic warfare jamming. It's crazy to see how fast commercial AI optimizations are being absorbed by the defense sector to create fully autonomous weapons. Drop a comment below\u2014does the idea of AI making targeting decisions mid-flight freak you out?",
     "id": "OKSIMISL",
     "category": "Science",
     "companies": [
       "OKSI"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/OKSIMISL.png",
+    "image_prompt": "Realistic cinematic scene: a defense engineer silhouette beside an unveiled precision missile fitted with subtle sensor windows and AI-guidance housings. Night airbase lighting, dramatic shadows, faint infrared glow, tense atmosphere, shallow depth of field, ultra-detailed, high contrast, no text."
   },
   {
     "date": "2026-10-17",
@@ -169,6 +187,8 @@
       "Crosspoint Capital"
     ],
     "people": [],
-    "created_at": "2026-10-17T17:44:00+05:30"
+    "created_at": "2026-10-17T17:44:00+05:30",
+    "image_url": "images/17_10_26/HRMNC50M.png",
+    "image_prompt": "Futuristic newsroom-tech visual: cybersecurity analyst in a dim control room monitors glowing semantic data clusters and safe gates, with a shield protecting flowing code streams from escaping to an abstract external network, cinematic lighting, photoreal, high detail, no text."
   }
 ]
