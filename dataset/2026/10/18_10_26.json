@@ -6,7 +6,7 @@
     "title": "China Just Locked Down AI: 2-Trillion Parameter Models Are Now Illegal to Export!",
     "summary": "China's Ministry of Commerce and Ministry of Science and Technology have issued Announcement No. 48, placing export controls on 40 technologies including frontier AI models exceeding 2 trillion parameters. While cross-border transfers of weights and source code are strictly controlled, foreign developers retain access to these models through commercial cloud APIs.",
     "engagement": "High",
-    "raw_text": "So check this out—the AI cold war just hit a massive turning point, and honestly, this is huge. Beijing just dropped Announcement Number 48, slapping sweeping export controls on 40 cutting-edge technologies, with 23 of them aimed dead-center at artificial intelligence. We are talking about an outright ban on exporting frontier model weights if they have over two trillion parameters or cross ten to the twenty-sixth FLOPs in compute! Plus, any AI capable of autonomously generating malicious code? Locked down completely. But here’s the wild part: foreign developers aren't totally cut off. China is specifically letting international users tap into these models via APIs and SaaS. Why? Because they want our cash and our telemetry data, but they refuse to let anyone replicate their algorithmic secret sauce. It’s a genius, albeit terrifying, geopolitical flex that draws a massive iron curtain around sovereign AI models. If you thought tech nationalism was slowing down, think again, because the era of open borderless AI is officially coming to a brutal end.",
+    "raw_text": "So check this out\u2014the AI cold war just hit a massive turning point, and honestly, this is huge. Beijing just dropped Announcement Number 48, slapping sweeping export controls on 40 cutting-edge technologies, with 23 of them aimed dead-center at artificial intelligence. We are talking about an outright ban on exporting frontier model weights if they have over two trillion parameters or cross ten to the twenty-sixth FLOPs in compute! Plus, any AI capable of autonomously generating malicious code? Locked down completely. But here\u2019s the wild part: foreign developers aren't totally cut off. China is specifically letting international users tap into these models via APIs and SaaS. Why? Because they want our cash and our telemetry data, but they refuse to let anyone replicate their algorithmic secret sauce. It\u2019s a genius, albeit terrifying, geopolitical flex that draws a massive iron curtain around sovereign AI models. If you thought tech nationalism was slowing down, think again, because the era of open borderless AI is officially coming to a brutal end.",
     "id": "tn-20261018-c48a1",
     "category": "AI",
     "companies": [
@@ -14,7 +14,9 @@
       "MOST"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-c48a1.png",
+    "image_prompt": "Cinematic news photo-style: dim government briefing room in China, officials silhouettes, glowing holographic grid with oversized \u201cAI\u201d neural network forms, circuit-like map of East Asia, warning-blackout atmosphere, subtle export-control lock icon as a translucent overlay, high detail, realistic lighting, 16:9."
   },
   {
     "date": "2026-10-14",
@@ -23,7 +25,7 @@
     "title": "The $3.5 Trillion AI Bubble? Gartner Drops a Massive Warning for Cloud Giants!",
     "summary": "Gartner has issued a macroeconomic report forecasting that over $3.5 trillion in global AI infrastructure investments could face severe financial write-downs by the end of 2030. Driven by an immense gap between capital expenditures and realized enterprise revenue, over 80 percent of specialized neocloud providers are projected to fail or consolidate.",
     "engagement": "High",
-    "raw_text": "Is the AI bubble finally about to burst? Honestly, this new warning from Gartner sent actual shivers down Wall Street's spine. They're projecting that over 3.5 trillion dollars in AI data center and hardware spending could face massive financial impairment and write-downs by 2030. Think about that number for a second! AI companies are on track to spend nearly a trillion dollars on compute just this year, but enterprise software revenues are nowhere near paying the bills. Here’s the wild part: Gartner predicts that more than eighty percent of specialized neocloud providers—the companies renting out high-end GPUs on heavy leverage—are going to fail or lose their independence. Firms like CoreWeave are already seeing default probabilities spike over sixty percent because they're borrowing at nine percent while seeing a meager one percent return! While mega-hyperscalers like Microsoft and Google can absorb these losses with their traditional cloud cash cows, the smaller GPU renters are living on borrowed time. This is the multi-trillion-dollar reality check nobody wanted to hear!",
+    "raw_text": "Is the AI bubble finally about to burst? Honestly, this new warning from Gartner sent actual shivers down Wall Street's spine. They're projecting that over 3.5 trillion dollars in AI data center and hardware spending could face massive financial impairment and write-downs by 2030. Think about that number for a second! AI companies are on track to spend nearly a trillion dollars on compute just this year, but enterprise software revenues are nowhere near paying the bills. Here\u2019s the wild part: Gartner predicts that more than eighty percent of specialized neocloud providers\u2014the companies renting out high-end GPUs on heavy leverage\u2014are going to fail or lose their independence. Firms like CoreWeave are already seeing default probabilities spike over sixty percent because they're borrowing at nine percent while seeing a meager one percent return! While mega-hyperscalers like Microsoft and Google can absorb these losses with their traditional cloud cash cows, the smaller GPU renters are living on borrowed time. This is the multi-trillion-dollar reality check nobody wanted to hear!",
     "id": "tn-20261018-g35b2",
     "category": "Business",
     "companies": [
@@ -38,7 +40,9 @@
     "people": [
       "Gil Luria"
     ],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-g35b2.png",
+    "image_prompt": "Futuristic newsroom scene: dark looming megastructure of server racks shaped like a bubble, red warning lights, shattered cloud network cables, investors fleeing blurred silhouettes, cold blue-gray lighting, realistic cinematic depth, high-detail photorealism, ominous macroeconomic mood, no text."
   },
   {
     "date": "2026-10-16",
@@ -47,7 +51,7 @@
     "title": "Regulators Demand an AI Kill Switch! G7 Mandates 'Stop Commands' for Autonomous Agents",
     "summary": "G7 finance ministers and central-bank governors have mandated that autonomous AI agents deployed in critical financial networks must incorporate verifiable, independently enforced stop commands. The policy aims to prevent cascading algorithmic contagion and runaway credential chaining across distributed banking environments.",
     "engagement": "High",
-    "raw_text": "So check this out: global governments are officially terrified of rogue AI agents running wild inside our banking system. Meeting in Bangkok, G7 finance chiefs and central bankers just mandated that any autonomous AI deployed in critical financial networks must come with a hardwired, independently enforced 'stop command'—basically a universal kill switch! The Bank of England and the IMF are warning that standard firewalls won't save us when autonomous bots start orchestrating rapid-fire fraud or trading glitches. Here’s the crazy technical part: stopping an AI agent isn't as simple as pulling the plug. When a master agent spins off dozens of sub-agents, creates new authentication credentials, and triggers background cloud actions, simply hitting 'exit' on the main bot does nothing! If that kill switch doesn't instantaneously revoke all nested credential chains and reconcile every transaction ledger in a split second, the whole system collapses into algorithmic chaos. It sounds like straight science fiction, but the G7 is treating this as an imminent systemic threat.",
+    "raw_text": "So check this out: global governments are officially terrified of rogue AI agents running wild inside our banking system. Meeting in Bangkok, G7 finance chiefs and central bankers just mandated that any autonomous AI deployed in critical financial networks must come with a hardwired, independently enforced 'stop command'\u2014basically a universal kill switch! The Bank of England and the IMF are warning that standard firewalls won't save us when autonomous bots start orchestrating rapid-fire fraud or trading glitches. Here\u2019s the crazy technical part: stopping an AI agent isn't as simple as pulling the plug. When a master agent spins off dozens of sub-agents, creates new authentication credentials, and triggers background cloud actions, simply hitting 'exit' on the main bot does nothing! If that kill switch doesn't instantaneously revoke all nested credential chains and reconcile every transaction ledger in a split second, the whole system collapses into algorithmic chaos. It sounds like straight science fiction, but the G7 is treating this as an imminent systemic threat.",
     "id": "tn-20261018-g7s3c",
     "category": "Cybersecurity",
     "companies": [
@@ -60,7 +64,9 @@
     "people": [
       "Sarah Breeden"
     ],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-g7s3c.png",
+    "image_prompt": "Realistic newsroom photo style: G7 finance ministers and central bank officials in a glass conference room, anxious briefing, holographic AI network map over servers, a visible \u201cstop\u201d control icon as a glowing red emergency switch, tense moody lighting, high detail, natural colors, no text."
   },
   {
     "date": "2026-10-15",
@@ -76,7 +82,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-g4a4d.png",
+    "image_prompt": "Photorealistic newsroom-tech scene: Google-like AI robot \u201cbrain\u201d hologram glowing over a sleek humanoid robot arm in a clean industrial lab. Cinematic lighting, cool blue tones, subtle circuit patterns, depth of field, high detail, realistic reflections, dynamic perspective. No text."
   },
   {
     "date": "2026-10-15",
@@ -85,7 +93,7 @@
     "title": "Elon Musk's xAI Unleashes Grok Voice 3.0: Goodbye Call Centers, Hello Native Speech AI!",
     "summary": "xAI has released Grok Voice 3.0, a native speech-to-speech model optimized for high-volume automated conversational interactions. By eliminating intermediate text transcription steps, the architecture radically reduces latency while capturing subtle acoustic dynamics such as tone and emotional inflection.",
     "engagement": "High",
-    "raw_text": "Elon Musk's xAI just dropped something that is going to completely upend customer service and conversational AI forever. It’s called Grok Voice 3.0, and it is a native speech-to-speech model built specifically to handle massive volumes of real-time conversational calls. Here’s why this matters so much: old-school voice bots were painfully clunky because they had to transcribe your voice to text, send it to an LLM, and then convert that text back into robotic audio. That delay kills human conversation! Grok Voice 3.0 skips the text bottleneck entirely. It processes audio directly to audio with virtually zero latency. Here’s the wild part—it actually understands and mimics acoustic subtleties like hesitations, tonal shifts, and emotional inflections. If you pause to think or sound annoyed, Grok picks up on it instantly. We are looking at the death of traditional outbound call centers and sluggish interactive voice prompts. Love him or hate him, Musk’s team is building insane voice tech that feels unnervingly human.",
+    "raw_text": "Elon Musk's xAI just dropped something that is going to completely upend customer service and conversational AI forever. It\u2019s called Grok Voice 3.0, and it is a native speech-to-speech model built specifically to handle massive volumes of real-time conversational calls. Here\u2019s why this matters so much: old-school voice bots were painfully clunky because they had to transcribe your voice to text, send it to an LLM, and then convert that text back into robotic audio. That delay kills human conversation! Grok Voice 3.0 skips the text bottleneck entirely. It processes audio directly to audio with virtually zero latency. Here\u2019s the wild part\u2014it actually understands and mimics acoustic subtleties like hesitations, tonal shifts, and emotional inflections. If you pause to think or sound annoyed, Grok picks up on it instantly. We are looking at the death of traditional outbound call centers and sluggish interactive voice prompts. Love him or hate him, Musk\u2019s team is building insane voice tech that feels unnervingly human.",
     "id": "tn-20261018-gv35e",
     "category": "AI",
     "companies": [
@@ -94,7 +102,9 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-gv35e.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a sleek AI voice interface hologram projecting calm waveforms into a call-center hub, rows of modern headsets replaced by empty desks, subtle emotional speech cues in the air, cinematic lighting, high detail, realistic, newsworthy, no text."
   },
   {
     "date": "2026-10-18",
@@ -103,7 +113,7 @@
     "title": "Flagship AI on a Budget! Samsung Galaxy F70 5G Brings Circle to Search to the Masses",
     "summary": "Samsung has officially launched the Galaxy F70 5G in India, introducing premium edge AI capabilities like Google's Circle to Search to a budget consumer price tier. The hardware features a 5000mAh battery, a 50MP triple-camera setup, and enterprise-grade Knox security optimized for localized background processing.",
     "engagement": "High",
-    "raw_text": "Samsung just dropped a game-changer for budget smartphones, and honestly, this is huge news for regular consumers! They officially launched the Galaxy F70 5G in India, and while the specs are solid—we're talking a 5000mAh battery, a 50-megapixel triple camera, a vibrant sAMOLED display, and Knox security—the real story is the software. Samsung has officially ported flagship AI features, including Google's viral 'Circle to Search', straight into this budget-friendly lineup! Up until now, these heavy multimodal AI tools were basically locked behind thousand-dollar flagship devices with dedicated neural chips. But Samsung managed to optimize the models to run on lower-power chipsets and tighter memory. Why does this matter? Because millions of everyday users can now highlight anything on their screen to instantly search or translate without spending flagship money. Plus, it gives tech giants a massive pipeline of localized telemetry data from high-growth markets. Premium AI is finally trickling down to the masses, and I am totally here for it!",
+    "raw_text": "Samsung just dropped a game-changer for budget smartphones, and honestly, this is huge news for regular consumers! They officially launched the Galaxy F70 5G in India, and while the specs are solid\u2014we're talking a 5000mAh battery, a 50-megapixel triple camera, a vibrant sAMOLED display, and Knox security\u2014the real story is the software. Samsung has officially ported flagship AI features, including Google's viral 'Circle to Search', straight into this budget-friendly lineup! Up until now, these heavy multimodal AI tools were basically locked behind thousand-dollar flagship devices with dedicated neural chips. But Samsung managed to optimize the models to run on lower-power chipsets and tighter memory. Why does this matter? Because millions of everyday users can now highlight anything on their screen to instantly search or translate without spending flagship money. Plus, it gives tech giants a massive pipeline of localized telemetry data from high-growth markets. Premium AI is finally trickling down to the masses, and I am totally here for it!",
     "id": "tn-20261018-sf76f",
     "category": "Mobile",
     "companies": [
@@ -112,7 +122,9 @@
       "Flipkart"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-sf76f.png",
+    "image_prompt": "Photorealistic news banner: sleek Samsung Galaxy F70 5G on a modern Indian city desk, soft daylight, subtle neon edge-lit display showing circular UI glow (no text), triple-camera module visible, premium metallic finish, confident tech mood, shallow depth of field, ultra-detailed, high contrast, 4K."
   },
   {
     "date": "2026-10-18",
@@ -121,7 +133,7 @@
     "title": "Taiwan Goes All-In on AI Warfare: Massive $1.15B Fleet of Autonomous V-BAT Drones!",
     "summary": "Taiwan's military has approved a NT$37.2 billion procurement for 292 autonomous MQ-35A V-BAT VTOL drones from US defense technology firm Shield AI. Procured under Project Yuan Xiao, the drones will provide resilient target acquisition and missile designation in GPS-denied, heavily jammed electronic combat environments.",
     "engagement": "High",
-    "raw_text": "Taiwan just finalized an absolute monster of a defense deal, and it shows exactly where modern military tech is heading. They're spending 37.2 billion New Taiwan dollars—roughly 1.15 billion US dollars—to acquire 292 autonomous MQ-35A V-BAT drones from American defense firm Shield AI! Code-named Project Yuan Xiao, this makes Taiwan the largest operator of V-BATs outside the United States military. But here’s the wild part: these aren't your typical remote-controlled drones. They run advanced edge-AI software designed to navigate and target in completely GPS-denied environments saturated by intense electronic jamming. They're specifically pairing over 200 of these drones with mobile Hsiung Feng anti-ship missile batteries. If central radars get knocked out in a preliminary strike, these AI drones can autonomously take off vertically, hunt naval targets, and feed firing coordinates directly to mobile missile launchers during total communications blackouts! It is a textbook example of asymmetric drone warfare, and it fundamentally changes the defense calculus in the Taiwan Strait.",
+    "raw_text": "Taiwan just finalized an absolute monster of a defense deal, and it shows exactly where modern military tech is heading. They're spending 37.2 billion New Taiwan dollars\u2014roughly 1.15 billion US dollars\u2014to acquire 292 autonomous MQ-35A V-BAT drones from American defense firm Shield AI! Code-named Project Yuan Xiao, this makes Taiwan the largest operator of V-BATs outside the United States military. But here\u2019s the wild part: these aren't your typical remote-controlled drones. They run advanced edge-AI software designed to navigate and target in completely GPS-denied environments saturated by intense electronic jamming. They're specifically pairing over 200 of these drones with mobile Hsiung Feng anti-ship missile batteries. If central radars get knocked out in a preliminary strike, these AI drones can autonomously take off vertically, hunt naval targets, and feed firing coordinates directly to mobile missile launchers during total communications blackouts! It is a textbook example of asymmetric drone warfare, and it fundamentally changes the defense calculus in the Taiwan Strait.",
     "id": "tn-20261018-tvb7g",
     "category": "Defense",
     "companies": [
@@ -132,7 +144,9 @@
     "people": [
       "Brandon Tseng"
     ],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-tvb7g.png",
+    "image_prompt": "Realistic news photo style: a Taiwan coastal airfield at dusk with dozens of autonomous VTOL drones lined on launch pads, glowing status lights, subtle haze from sea wind, engineers in reflective gear viewing tablet screens (no text), one drone lifting off, cyber-jam electronic glow in sky, dramatic lighting, high detail, sharp focus."
   },
   {
     "date": "2026-10-18",
@@ -141,7 +155,7 @@
     "title": "JetBrains Shakes Up Coding: IntelliJ Engine Officially Unleashed on VS Code & Cursor!",
     "summary": "JetBrains has decoupled its proprietary Java and Kotlin analysis engines, releasing them as Language Server Protocol extensions for Visual Studio Code and Cursor. The integration equips autonomous coding agents and external IDEs with deterministic, compiler-grade semantic understanding to minimize code generation hallucinations.",
     "engagement": "Medium",
-    "raw_text": "If you're a developer or you build with AI coding assistants, you need to hear this, because JetBrains just made a jaw-dropping strategic pivot! For decades, if you wanted the world's best, compiler-grade Java and Kotlin refactoring, you had to use IntelliJ IDEA. But with AI-first code editors like Cursor blowing up on top of VS Code, JetBrains decided to adapt. They took their proprietary analysis engine and released it as a native Language Server Protocol plugin for VS Code and Cursor! Here’s why that's a massive deal: AI coding agents usually rely on fuzzy text matching and stochastic context windows, which lead to hallucinated variables and broken class imports. But with JetBrains' native LSP, autonomous agents can query deterministic syntax trees and verified compiler symbols directly inside Cursor! It slashes AI coding hallucinations instantly. While it's in free Release Candidate right now, post-trial will require an IntelliJ Ultimate subscription. JetBrains is literally evolving from a software vendor into the brain powering next-gen AI coding.",
+    "raw_text": "If you're a developer or you build with AI coding assistants, you need to hear this, because JetBrains just made a jaw-dropping strategic pivot! For decades, if you wanted the world's best, compiler-grade Java and Kotlin refactoring, you had to use IntelliJ IDEA. But with AI-first code editors like Cursor blowing up on top of VS Code, JetBrains decided to adapt. They took their proprietary analysis engine and released it as a native Language Server Protocol plugin for VS Code and Cursor! Here\u2019s why that's a massive deal: AI coding agents usually rely on fuzzy text matching and stochastic context windows, which lead to hallucinated variables and broken class imports. But with JetBrains' native LSP, autonomous agents can query deterministic syntax trees and verified compiler symbols directly inside Cursor! It slashes AI coding hallucinations instantly. While it's in free Release Candidate right now, post-trial will require an IntelliJ Ultimate subscription. JetBrains is literally evolving from a software vendor into the brain powering next-gen AI coding.",
     "id": "tn-20261018-jbl8h",
     "category": "AI",
     "companies": [
@@ -151,7 +165,9 @@
       "Red Hat"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-jbl8h.png",
+    "image_prompt": "Futuristic newsroom scene: sleek VS Code and Cursor UI holograms merging with a central \u201cIntelliJ engine\u201d core. Bright blue/teal light beams, circuitry details, glowing LSP nodes linking to a codebase silhouette, deterministic precision vibe, photoreal, cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-10-18",
@@ -160,14 +176,16 @@
     "title": "The Autonomous AI Illusion? Why Fast AI Models Completely Fall Apart on Complex Tasks",
     "summary": "A new academic benchmarking study using JevBench shows that fast System-1 AI models suffer severe performance collapses during extended, multi-step autonomous tasks. While smaller models achieved over 70 percent accuracy on single-step tasks, their closed-loop execution rates plummeted to as low as 5.7 percent without larger System-2 reasoning parameters.",
     "engagement": "Medium",
-    "raw_text": "We need to talk about the dirty secret of autonomous AI agents, because fresh benchmark data just exposed a massive flaw in how we evaluate AI! A new study on arXiv using the JevBench framework tested 30 leading models—including GPT-6 Luna, Claude Opus 5.5, and Gemma 4—on real-world, multi-step decision tasks. Here’s the shocking part: fast, low-cost 'System-1' models like Vega-27B and Jev actually beat GPT-6 on single-step queries, scoring over 72 percent accuracy for fractions of a cent! But the second researchers put these fast models into sustained, closed-loop agent workflows that required course corrections and long-term planning, their success rates completely tanked—plummeting to as low as 5.7 percent! Only massive, parameter-heavy System-2 architectures like Gemma-4-31B could maintain any coherent multi-step reasoning. This proves that quick, reactive AI models can give you a convincing illusion of intelligence on simple prompts, but when it comes to true autonomous agents running extended business logic, raw model scale still rules supreme. Benchmarks will never be the same!",
+    "raw_text": "We need to talk about the dirty secret of autonomous AI agents, because fresh benchmark data just exposed a massive flaw in how we evaluate AI! A new study on arXiv using the JevBench framework tested 30 leading models\u2014including GPT-6 Luna, Claude Opus 5.5, and Gemma 4\u2014on real-world, multi-step decision tasks. Here\u2019s the shocking part: fast, low-cost 'System-1' models like Vega-27B and Jev actually beat GPT-6 on single-step queries, scoring over 72 percent accuracy for fractions of a cent! But the second researchers put these fast models into sustained, closed-loop agent workflows that required course corrections and long-term planning, their success rates completely tanked\u2014plummeting to as low as 5.7 percent! Only massive, parameter-heavy System-2 architectures like Gemma-4-31B could maintain any coherent multi-step reasoning. This proves that quick, reactive AI models can give you a convincing illusion of intelligence on simple prompts, but when it comes to true autonomous agents running extended business logic, raw model scale still rules supreme. Benchmarks will never be the same!",
     "id": "tn-20261018-jb99i",
     "category": "Science",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-jb99i.png",
+    "image_prompt": "Cinematic editorial photo: a futuristic lab with glowing circuitry, a split-scene of a sleek fast AI \u201cbrain\u201d hologram failing mid-process into fragmented pieces, while a calmer, slower layered AI remains intact; dramatic lighting, deep shadows, high realism, news style."
   },
   {
     "date": "2026-10-16",
@@ -176,7 +194,7 @@
     "title": "China Blocks Next-Gen Solar Tech: Global Clean Energy Transition Hits a Massive Wall!",
     "summary": "China has proposed sweeping export prohibitions on 12 photovoltaic technologies, specifically blocking overseas transfers of perovskite and tandem solar cell manufacturing techniques. The restrictions also target engineering designs for massive 30,000-tonne polysilicon plants, disrupting international renewable manufacturing expansion plans.",
     "engagement": "Medium",
-    "raw_text": "While everyone was paying attention to China's new AI export curbs, Beijing quietly dropped another regulatory bombshell that could throw global green energy into total turmoil. Tucked inside Announcement 48 are aggressive export prohibitions targeting twelve advanced photovoltaic technologies! They are officially banning the export of next-generation perovskite and tandem solar cell manufacturing techniques, while strictly restricting blueprints for massive thirty-thousand-tonne polysilicon plants. Honestly, this is a massive deal for the global clean energy transition. Countries like India, which are pumping billions into initiatives like the Production Linked Incentive scheme to build domestic solar foundries, rely heavily on importing specialized Chinese manufacturing equipment and engineering blueprints. By slamming the door shut on these advanced solar patents, China is fiercely guarding its physical industrial supremacy. Developing nations wanting to leapfrog into high-efficiency solar tech just hit a massive geopolitical roadblock. The green energy race isn't just about sunlight and panels anymore—it’s an all-out supply chain war for manufacturing dominance!",
+    "raw_text": "While everyone was paying attention to China's new AI export curbs, Beijing quietly dropped another regulatory bombshell that could throw global green energy into total turmoil. Tucked inside Announcement 48 are aggressive export prohibitions targeting twelve advanced photovoltaic technologies! They are officially banning the export of next-generation perovskite and tandem solar cell manufacturing techniques, while strictly restricting blueprints for massive thirty-thousand-tonne polysilicon plants. Honestly, this is a massive deal for the global clean energy transition. Countries like India, which are pumping billions into initiatives like the Production Linked Incentive scheme to build domestic solar foundries, rely heavily on importing specialized Chinese manufacturing equipment and engineering blueprints. By slamming the door shut on these advanced solar patents, China is fiercely guarding its physical industrial supremacy. Developing nations wanting to leapfrog into high-efficiency solar tech just hit a massive geopolitical roadblock. The green energy race isn't just about sunlight and panels anymore\u2014it\u2019s an all-out supply chain war for manufacturing dominance!",
     "id": "tn-20261018-cs10j",
     "category": "Science",
     "companies": [
@@ -184,6 +202,8 @@
       "MOST"
     ],
     "people": [],
-    "created_at": "2026-10-18T11:23:00Z"
+    "created_at": "2026-10-18T11:23:00Z",
+    "image_url": "images/18_10_26/tn-20261018-cs10j.png",
+    "image_prompt": "Realistic high-quality news photo: a vast solar farm under dramatic storm clouds, glowing panels in foreground, distant factory silhouettes with cranes and pipelines, a subtle blockade barrier of shipping containers on the horizon, tense global-market mood, cinematic lighting, ultra-detailed, sharp focus, no text."
   }
 ]
