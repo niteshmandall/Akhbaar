@@ -6,14 +6,16 @@
     "title": "GPT-6 is HERE and it can SEE everything!",
     "summary": "OpenAI has officially launched GPT-6, deploying a new multimodal architecture with advanced visual processing to its global user base. This deployment aims to redefine consumer AI expectations by seamlessly merging fast conversational AI with deep visual reasoning in real-time.",
     "engagement": "High",
-    "raw_text": "Alright guys, stop whatever you are doing because OpenAI just dropped GPT-6 and it is absolutely insane! We knew they were working on something big, but this new multimodal architecture completely changes the game. Basically, GPT-6 isn't just reading your text prompts anymore; it has deeply advanced visual capabilities that let it see and understand complex inputs in real-time. I mean, we're talking about a massive leap in how fast and fluid these conversational bots are right now. The rollout is happening immediately across ChatGPT's global user base, meaning you can literally test its interactive features today. Honestly, this puts crazy pressure on competitors to catch up. The days of just typing are over—your AI can now digest visual context faster than ever. If you've tried GPT-6 already, drop a comment below and let me know if it actually lives up to the hype!",
+    "raw_text": "Alright guys, stop whatever you are doing because OpenAI just dropped GPT-6 and it is absolutely insane! We knew they were working on something big, but this new multimodal architecture completely changes the game. Basically, GPT-6 isn't just reading your text prompts anymore; it has deeply advanced visual capabilities that let it see and understand complex inputs in real-time. I mean, we're talking about a massive leap in how fast and fluid these conversational bots are right now. The rollout is happening immediately across ChatGPT's global user base, meaning you can literally test its interactive features today. Honestly, this puts crazy pressure on competitors to catch up. The days of just typing are over\u2014your AI can now digest visual context faster than ever. If you've tried GPT-6 already, drop a comment below and let me know if it actually lives up to the hype!",
     "id": "OAI20261020A",
     "category": "AI",
     "companies": [
       "OpenAI"
     ],
     "people": [],
-    "created_at": "2026-10-20T19:30:00+05:30"
+    "created_at": "2026-10-20T19:30:00+05:30",
+    "image_url": "images/20_10_26/OAI20261020A.png",
+    "image_prompt": "Photorealistic newsroom scene at dusk: journalists reviewing screens; large glowing abstract \u201cAI vision\u201d halo overlays a tablet showing multimodal camera feeds (faces, landscapes) blended into real-time UI; cinematic lighting, shallow depth of field, high detail, natural colors, newsworthy mood."
   },
   {
     "date": "2026-10-11",
@@ -29,7 +31,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-10-20T19:30:00+05:30"
+    "created_at": "2026-10-20T19:30:00+05:30",
+    "image_url": "images/20_10_26/AAPL20261020B.png",
+    "image_prompt": "Photorealistic tech news image: sleek Apple-style workstation desktop with glowing M4 Ultra-inspired circuitry aurora, subtle AI data glyphs (no text), professional 3D render scene on monitor, confident dramatic lighting, shallow depth of field, ultra-detailed, high contrast, newsroom mood."
   },
   {
     "date": "2026-10-07",
@@ -38,7 +42,7 @@
     "title": "The AI Price War is Getting INSANE (Claude 5.5 vs GPT-6 Sol)",
     "summary": "A massive wave of new, highly efficient AI models including Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol have entered the market with slashed API costs and million-token memory capacities. Concurrently, OpenAI delayed its GPT-6.1 Astra model after internal safety tests revealed it did not meet authorization and scoping standards.",
     "engagement": "Medium",
-    "raw_text": "Here is the wild part about the AI industry right now: the massive language models are getting exponentially smarter while getting drastically cheaper to run! We just saw a massive wave of new models drop in September, including Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol. Both of these beasts now read around one million tokens at once, meaning you can feed them a full year of invoices or an entire codebase in a single prompt. But here is the most interesting part—OpenAI actually chose to hold back their more advanced agentic model, GPT-6.1 Astra, right before its October release. According to their safety head Saachi Jain, it failed internal tests for staying within its scope and authorization. Honestly, this is a massive green flag for the industry. Sam Altman and Dario Amodei are actually calling for a steadier pace and stronger safety work. It shows they are taking safety seriously before these autonomous agents start touching our sensitive data. What do you think, should they slow down even more?",
+    "raw_text": "Here is the wild part about the AI industry right now: the massive language models are getting exponentially smarter while getting drastically cheaper to run! We just saw a massive wave of new models drop in September, including Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol. Both of these beasts now read around one million tokens at once, meaning you can feed them a full year of invoices or an entire codebase in a single prompt. But here is the most interesting part\u2014OpenAI actually chose to hold back their more advanced agentic model, GPT-6.1 Astra, right before its October release. According to their safety head Saachi Jain, it failed internal tests for staying within its scope and authorization. Honestly, this is a massive green flag for the industry. Sam Altman and Dario Amodei are actually calling for a steadier pace and stronger safety work. It shows they are taking safety seriously before these autonomous agents start touching our sensitive data. What do you think, should they slow down even more?",
     "id": "AIPW20261020C",
     "category": "AI",
     "companies": [
@@ -53,7 +57,9 @@
       "Dario Amodei",
       "Saachi Jain"
     ],
-    "created_at": "2026-10-20T19:30:00+05:30"
+    "created_at": "2026-10-20T19:30:00+05:30",
+    "image_url": "images/20_10_26/AIPW20261020C.png",
+    "image_prompt": "Cinematic newsroom scene: two glowing holographic AI cores labeled only by abstract light, competing over a digital price tag waterfall dropping to near-zero; cool blue vs warm amber lights; subtle code-matrix background; dramatic contrast, realistic reflections, high-detail, 16:9, no text."
   },
   {
     "date": "2026-10-13",
@@ -62,13 +68,15 @@
     "title": "Meta's New Hardware is Going to CHANGE Data Centers Forever!",
     "summary": "At the 2026 Open Compute Project Summit, Meta introduced its next-generation open networking infrastructure, featuring its first liquid-cooled network rack named IcePack and a 102.4T switch platform called IceCube. Meta also launched the Open Switch Platform Architecture initiative to collaboratively solve AI scaling challenges across the industry.",
     "engagement": "Low",
-    "raw_text": "Okay, I know networking hardware doesn't sound super exciting, but Meta just announced something at the 2026 OCP Summit that is going to fundamentally change how AI data centers operate. They just revealed their first-ever liquid-cooled network rack called IcePack and an absolute monster 102.4T switch platform named IceCube. Basically, the massive GPUs that train these cutting-edge models run so hot and require so much data that traditional air cooling and standard networking just can't keep up anymore. Meta is also pushing a new multiplane backend fabric called Flattened Planar Fabric that fundamentally rewires how GPUs connect to the network. The craziest part? They are launching the Open Switch Platform Architecture initiative and inviting the whole industry, including silicon vendors and system integrators, to build this open infrastructure together. It’s a huge open-source play to make AI scale-up infrastructure way more sustainable and efficient globally. If you care at all about the physical hardware actually powering your favorite AI apps, this is massive news.",
+    "raw_text": "Okay, I know networking hardware doesn't sound super exciting, but Meta just announced something at the 2026 OCP Summit that is going to fundamentally change how AI data centers operate. They just revealed their first-ever liquid-cooled network rack called IcePack and an absolute monster 102.4T switch platform named IceCube. Basically, the massive GPUs that train these cutting-edge models run so hot and require so much data that traditional air cooling and standard networking just can't keep up anymore. Meta is also pushing a new multiplane backend fabric called Flattened Planar Fabric that fundamentally rewires how GPUs connect to the network. The craziest part? They are launching the Open Switch Platform Architecture initiative and inviting the whole industry, including silicon vendors and system integrators, to build this open infrastructure together. It\u2019s a huge open-source play to make AI scale-up infrastructure way more sustainable and efficient globally. If you care at all about the physical hardware actually powering your favorite AI apps, this is massive news.",
     "id": "META20261020D",
     "category": "Hardware",
     "companies": [
       "Meta"
     ],
     "people": [],
-    "created_at": "2026-10-20T19:30:00+05:30"
+    "created_at": "2026-10-20T19:30:00+05:30",
+    "image_url": "images/20_10_26/META20261020D.png",
+    "image_prompt": "Photorealistic wide shot of a futuristic data center aisle: liquid-cooled network rack \u201cIcePack\u201d with visible cool pipes, glowing blue status LEDs, and an advanced modular 102.4T switch \u201cIceCube\u201d unit; tech engineers in sleek attire inspecting gear; cinematic lighting, ultra-detailed, realistic, news photography, no text."
   }
 ]
