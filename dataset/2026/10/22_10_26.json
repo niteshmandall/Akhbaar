@@ -1,0 +1,89 @@
+[
+  {
+    "date": "2026-10-23",
+    "source_file": "Daily Tech News Compilation (2).pdf",
+    "page": 5,
+    "title": "AI is Now Fixing Its Own Code! The CWE-Bench Breakthrough",
+    "summary": "Collinear AI introduced CWE-bench, a rigorous framework evaluating how well AI models can autonomously audit and patch real-world software vulnerabilities. Claude Opus 5.5 and Grok 4.7 demonstrated advanced capabilities in repairing code without human intervention.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, we always hear about AI being used by hackers, but what if AI was the ultimate cyber-defender? A new research paper from Collinear AI just dropped a benchmark called CWE-bench, and it is changing the game. Instead of testing if AI can hack, it tests if AI can fix broken code autonomously. They threw 120 massive software vulnerabilities at models like Grok 4.7 and Claude Opus 5.5, without telling them where the bugs were. And honestly, this is huge—these AI agents actually audited the code, found the flaws, and wrote the patches all on their own! Grok hit an 81% success rate when given a few tries. We are stepping into an era where AI ensembles will literally be the immune system for our software. If you're a developer, your workflow is about to get a massive AI shield!",
+    "id": "M7X9K2B1",
+    "category": "AI",
+    "companies": [
+      "Collinear AI",
+      "Anthropic",
+      "xAI"
+    ],
+    "people": [],
+    "created_at": "2026-10-23T09:49:00Z"
+  },
+  {
+    "date": "2026-10-23",
+    "source_file": "Daily Tech News Compilation (2).pdf",
+    "page": 8,
+    "title": "Run Insane AI Locally! Recursive Flint Destroys Cloud Dependency",
+    "summary": "The release of Recursive Flint, a 40-billion parameter mixture-of-experts model, enables massive inference speeds natively on consumer hardware like the M4 Pro MacBook. This localized compute trend addresses data privacy concerns while slashing cloud inference costs.",
+    "engagement": "High",
+    "raw_text": "Here's the wild part about AI right now—you might not need the cloud anymore. A new 40-billion parameter model called Recursive Flint just dropped, and it runs entirely on consumer hardware. We are talking 125 tokens per second directly on an M4 Pro MacBook Pro! No internet required, no sending your private code to a random server. It uses a smart mixture-of-experts trick to only activate 2.5 billion parameters per token. Alongside MiniMax's new M3.1 Flash driving costs down to 15 cents per million tokens, localized AI is officially here. If you want true privacy and blazing fast coding assistants running right on your laptop, this is the massive shift you've been waiting for.",
+    "id": "P3R8N5C2",
+    "category": "AI",
+    "companies": [
+      "Recursive",
+      "MiniMax",
+      "Apple"
+    ],
+    "people": [],
+    "created_at": "2026-10-23T09:49:00Z"
+  },
+  {
+    "date": "2026-10-23",
+    "source_file": "Daily Tech News Compilation (2).pdf",
+    "page": 10,
+    "title": "AI Robots Are Taking Over Hospital Sanitation!",
+    "summary": "Adata Technology and National Taiwan University Hospital deployed an AI-piloted sanitization robot to sterilize critical medical environments. The autonomous system navigates complex spaces and has successfully reduced overnight sanitation staffing requirements.",
+    "engagement": "Medium",
+    "raw_text": "Robots replacing jobs is happening faster than we thought, but this time it might be a literal lifesaver. Over in Taipei, the National Taiwan University Hospital teamed up with Adata Technology to drop an AI-piloted sanitization robot right into operating rooms. This thing uses advanced algorithmic visual recognition and a fully dexterous robotic arm to navigate around highly sensitive medical equipment and sterilize the space. It logs every single procedure onto an immutable digital record. Here is the crazy part—it's already reduced their overnight sanitation staff by four people! As we deal with global health crises, having tireless AI robots keeping our hospitals sterile 24/7 is a huge win. The future of healthcare is completely autonomous!",
+    "id": "C9F4L6D3",
+    "category": "Robotics",
+    "companies": [
+      "Adata Technology",
+      "National Taiwan University Hospital"
+    ],
+    "people": [],
+    "created_at": "2026-10-23T09:49:00Z"
+  },
+  {
+    "date": "2026-10-23",
+    "source_file": "Daily Tech News Compilation (2).pdf",
+    "page": 10,
+    "title": "ISRO's Next Big Launch: Revolutionizing Indian Railways!",
+    "summary": "The Indian Space Research Organisation confirmed the October 30 launch of the NVS-03 navigation satellite aboard the GSLV Mk II. This deployment aims to upgrade India's logistics by enabling real-time tracking for approximately 12,000 national trains.",
+    "engagement": "High",
+    "raw_text": "So check this out, ISRO is at it again and this time they are directly fixing one of India's biggest logistical headaches. On October 30th, they are launching the NVS-03 navigation satellite aboard the GSLV Mk II rocket. But this isn't just a generic space mission; this satellite is custom-built for tracking infrastructure. The government is using this deployment to enable real-time, ultra-accurate tracking for approximately 12,000 national trains across the country. If you've ever been frustrated by delayed train updates, this is the infrastructure upgrade we've been waiting for. It's an incredible example of how macro-level space tech translates into everyday utility. Huge props to ISRO for continuously pushing the boundaries!",
+    "id": "D2H7J9E4",
+    "category": "Space",
+    "companies": [
+      "ISRO"
+    ],
+    "people": [],
+    "created_at": "2026-10-23T09:49:00Z"
+  },
+  {
+    "date": "2026-10-23",
+    "source_file": "Daily Tech News Compilation (2).pdf",
+    "page": 11,
+    "title": "WhatsApp & Telegram Face MASSIVE New Rules in India!",
+    "summary": "Effective January 1, 2027, India's Department of Telecommunications will mandate that major messaging platforms cryptographically link user accounts to registered SIM cards. This hardware-level verification is designed to combat digital fraud and identity spoofing.",
+    "engagement": "High",
+    "raw_text": "If you use WhatsApp or Telegram in India, your digital privacy is about to fundamentally change. The Department of Telecommunications just dropped a massive new regulation going into effect on January 1, 2027. They are officially forcing messaging apps to cryptographically link your account directly to your physical SIM card! You can no longer just verify with a simple software code; they are enforcing hardware-level verification. The government says this is the only way to combat the insane rise in digital fraud and identity spoofing, which is a huge issue right now. Honestly, this is a massive structural shift for how we communicate online and cuts out burner accounts entirely. Let me know in the comments, is this a good move for security or a massive privacy overreach?",
+    "id": "E5K1M8F5",
+    "category": "Tech Policy",
+    "companies": [
+      "WhatsApp",
+      "Telegram",
+      "Department of Telecommunications"
+    ],
+    "people": [],
+    "created_at": "2026-10-23T09:49:00Z"
+  }
+]
