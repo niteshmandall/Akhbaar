@@ -6,7 +6,7 @@
     "title": "AI is Now Fixing Its Own Code! The CWE-Bench Breakthrough",
     "summary": "Collinear AI introduced CWE-bench, a rigorous framework evaluating how well AI models can autonomously audit and patch real-world software vulnerabilities. Claude Opus 5.5 and Grok 4.7 demonstrated advanced capabilities in repairing code without human intervention.",
     "engagement": "Medium",
-    "raw_text": "So check this out, we always hear about AI being used by hackers, but what if AI was the ultimate cyber-defender? A new research paper from Collinear AI just dropped a benchmark called CWE-bench, and it is changing the game. Instead of testing if AI can hack, it tests if AI can fix broken code autonomously. They threw 120 massive software vulnerabilities at models like Grok 4.7 and Claude Opus 5.5, without telling them where the bugs were. And honestly, this is huge—these AI agents actually audited the code, found the flaws, and wrote the patches all on their own! Grok hit an 81% success rate when given a few tries. We are stepping into an era where AI ensembles will literally be the immune system for our software. If you're a developer, your workflow is about to get a massive AI shield!",
+    "raw_text": "So check this out, we always hear about AI being used by hackers, but what if AI was the ultimate cyber-defender? A new research paper from Collinear AI just dropped a benchmark called CWE-bench, and it is changing the game. Instead of testing if AI can hack, it tests if AI can fix broken code autonomously. They threw 120 massive software vulnerabilities at models like Grok 4.7 and Claude Opus 5.5, without telling them where the bugs were. And honestly, this is huge\u2014these AI agents actually audited the code, found the flaws, and wrote the patches all on their own! Grok hit an 81% success rate when given a few tries. We are stepping into an era where AI ensembles will literally be the immune system for our software. If you're a developer, your workflow is about to get a massive AI shield!",
     "id": "M7X9K2B1",
     "category": "AI",
     "companies": [
@@ -15,7 +15,9 @@
       "xAI"
     ],
     "people": [],
-    "created_at": "2026-10-23T09:49:00Z"
+    "created_at": "2026-10-23T09:49:00Z",
+    "image_url": "images/22_10_26/M7X9K2B1.png",
+    "image_prompt": "Realistic news photo style: futuristic AI core repairing tangled code in a dark server room, holographic diff lines and glowing checkmarks, subtle human silhouette in foreground, dramatic blue-green lighting, high detail, cinematic depth of field, no text, no logos."
   },
   {
     "date": "2026-10-23",
@@ -24,7 +26,7 @@
     "title": "Run Insane AI Locally! Recursive Flint Destroys Cloud Dependency",
     "summary": "The release of Recursive Flint, a 40-billion parameter mixture-of-experts model, enables massive inference speeds natively on consumer hardware like the M4 Pro MacBook. This localized compute trend addresses data privacy concerns while slashing cloud inference costs.",
     "engagement": "High",
-    "raw_text": "Here's the wild part about AI right now—you might not need the cloud anymore. A new 40-billion parameter model called Recursive Flint just dropped, and it runs entirely on consumer hardware. We are talking 125 tokens per second directly on an M4 Pro MacBook Pro! No internet required, no sending your private code to a random server. It uses a smart mixture-of-experts trick to only activate 2.5 billion parameters per token. Alongside MiniMax's new M3.1 Flash driving costs down to 15 cents per million tokens, localized AI is officially here. If you want true privacy and blazing fast coding assistants running right on your laptop, this is the massive shift you've been waiting for.",
+    "raw_text": "Here's the wild part about AI right now\u2014you might not need the cloud anymore. A new 40-billion parameter model called Recursive Flint just dropped, and it runs entirely on consumer hardware. We are talking 125 tokens per second directly on an M4 Pro MacBook Pro! No internet required, no sending your private code to a random server. It uses a smart mixture-of-experts trick to only activate 2.5 billion parameters per token. Alongside MiniMax's new M3.1 Flash driving costs down to 15 cents per million tokens, localized AI is officially here. If you want true privacy and blazing fast coding assistants running right on your laptop, this is the massive shift you've been waiting for.",
     "id": "P3R8N5C2",
     "category": "AI",
     "companies": [
@@ -33,7 +35,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-10-23T09:49:00Z"
+    "created_at": "2026-10-23T09:49:00Z",
+    "image_url": "images/22_10_26/P3R8N5C2.png",
+    "image_prompt": "Realistic news photo of a sleek M4 Pro MacBook Pro on a desk, glowing neural circuit light forming around it, abstract \u201crecursive flint\u201d sparks fracturing into smaller shards, dark-to-blue tech ambiance, shallow depth of field, cinematic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-10-23",
@@ -42,7 +46,7 @@
     "title": "AI Robots Are Taking Over Hospital Sanitation!",
     "summary": "Adata Technology and National Taiwan University Hospital deployed an AI-piloted sanitization robot to sterilize critical medical environments. The autonomous system navigates complex spaces and has successfully reduced overnight sanitation staffing requirements.",
     "engagement": "Medium",
-    "raw_text": "Robots replacing jobs is happening faster than we thought, but this time it might be a literal lifesaver. Over in Taipei, the National Taiwan University Hospital teamed up with Adata Technology to drop an AI-piloted sanitization robot right into operating rooms. This thing uses advanced algorithmic visual recognition and a fully dexterous robotic arm to navigate around highly sensitive medical equipment and sterilize the space. It logs every single procedure onto an immutable digital record. Here is the crazy part—it's already reduced their overnight sanitation staff by four people! As we deal with global health crises, having tireless AI robots keeping our hospitals sterile 24/7 is a huge win. The future of healthcare is completely autonomous!",
+    "raw_text": "Robots replacing jobs is happening faster than we thought, but this time it might be a literal lifesaver. Over in Taipei, the National Taiwan University Hospital teamed up with Adata Technology to drop an AI-piloted sanitization robot right into operating rooms. This thing uses advanced algorithmic visual recognition and a fully dexterous robotic arm to navigate around highly sensitive medical equipment and sterilize the space. It logs every single procedure onto an immutable digital record. Here is the crazy part\u2014it's already reduced their overnight sanitation staff by four people! As we deal with global health crises, having tireless AI robots keeping our hospitals sterile 24/7 is a huge win. The future of healthcare is completely autonomous!",
     "id": "C9F4L6D3",
     "category": "Robotics",
     "companies": [
@@ -50,7 +54,9 @@
       "National Taiwan University Hospital"
     ],
     "people": [],
-    "created_at": "2026-10-23T09:49:00Z"
+    "created_at": "2026-10-23T09:49:00Z",
+    "image_url": "images/22_10_26/C9F4L6D3.png",
+    "image_prompt": "Photorealistic newsroom photo: modern hospital corridor at night, clinical lighting, polished floors. An AI-piloted sanitization robot with sensors glides autonomously near a closed ward door, misty UV-sterilization effect in the air, sterile carts in background, dramatic depth of field, realistic scale, high detail, no text."
   },
   {
     "date": "2026-10-23",
@@ -66,7 +72,9 @@
       "ISRO"
     ],
     "people": [],
-    "created_at": "2026-10-23T09:49:00Z"
+    "created_at": "2026-10-23T09:49:00Z",
+    "image_url": "images/22_10_26/D2H7J9E4.png",
+    "image_prompt": "Realistic high-quality news photo: ISRO launch pad at dawn with the GSLV Mk II poised for liftoff, rockets\u2019 glow and smoke; foreground shows a modern Indian freight train on rails with subtle satellite signal beams in the sky, dramatic lighting, cinematic atmosphere, sharp detail, no text."
   },
   {
     "date": "2026-10-23",
