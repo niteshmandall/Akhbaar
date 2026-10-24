@@ -6,7 +6,7 @@
     "title": "Microsoft KILLS Its Legendary 17-Year Innovation Lab Just to Buy More GPUs!",
     "summary": "Microsoft has officially shut down 'The Garage,' its 17-year-old grassroots incubation program and global maker space network, to divert capital toward massive AI infrastructure spending. The closure liquidates 15 global hubs that previously birthed iconic edge projects like the Xbox Adaptive Controller and Seeing AI.",
     "engagement": "High",
-    "raw_text": "So check this out, guys: Microsoft just quietly killed off one of the coolest parts of tech culture, and honestly, this is huge. For seventeen whole years, 'The Garage' was Microsoft's secret weapon—a grassroots playground where engineers had access to 3D printers, laser cutters, and total freedom to build wild side projects. We’re talking about the birthplace of legendary tech like the Xbox Adaptive Controller and the Seeing AI app! But now? Satya Nadella and CFO Amy Hood are shutting down all fifteen physical maker spaces worldwide. Why? Because every single dollar is being redirected to feed the insatiable beast of AI data centers and GPU clusters. Here's the wild part: engineers were literally told they can't even take their tools or materials home as the hubs get dismantled. Microsoft claims employees can just use Copilot to brainstorm code now, but come on—you can't 3D-print hardware with a chatbot prompt! It feels like grassroots hacker culture is officially dead at Big Tech, sacrificed on the altar of artificial general intelligence.",
+    "raw_text": "So check this out, guys: Microsoft just quietly killed off one of the coolest parts of tech culture, and honestly, this is huge. For seventeen whole years, 'The Garage' was Microsoft's secret weapon\u2014a grassroots playground where engineers had access to 3D printers, laser cutters, and total freedom to build wild side projects. We\u2019re talking about the birthplace of legendary tech like the Xbox Adaptive Controller and the Seeing AI app! But now? Satya Nadella and CFO Amy Hood are shutting down all fifteen physical maker spaces worldwide. Why? Because every single dollar is being redirected to feed the insatiable beast of AI data centers and GPU clusters. Here's the wild part: engineers were literally told they can't even take their tools or materials home as the hubs get dismantled. Microsoft claims employees can just use Copilot to brainstorm code now, but come on\u2014you can't 3D-print hardware with a chatbot prompt! It feels like grassroots hacker culture is officially dead at Big Tech, sacrificed on the altar of artificial general intelligence.",
     "id": "msft_gar_98x1",
     "category": "Business",
     "companies": [
@@ -16,16 +16,18 @@
       "Satya Nadella",
       "Amy Hood"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/msft_gar_98x1.png",
+    "image_prompt": "Realistic high-quality news photo: a dim, tech workshop branded by absence\u2014empty maker benches, unplugged 3D printers, scattered tools, faded Microsoft-style logos, quiet closure atmosphere. In background, blurred server racks and glowing GPU lights. Somber documentary mood, shallow depth of field. No text."
   },
   {
     "date": "2026-10-15",
     "source_file": "Daily Tech News Research Plan (1).pdf",
     "page": 2,
-    "title": "Google AI Just Beat Minecraft Completely Solo — And It Took 605 Deaths!",
+    "title": "Google AI Just Beat Minecraft Completely Solo \u2014 And It Took 605 Deaths!",
     "summary": "Four autonomous Google Gemini 4 Argon agents coordinated to defeat the Ender Dragon in Minecraft over a 27-hour survival run without human intervention. Communicating purely via in-game chat and executing thousands of JavaScript scripts, the agents developed emergent labor roles and shared memory logs to conquer the game.",
     "engagement": "High",
-    "raw_text": "So check this out, because this is an absolute milestone in gaming and artificial intelligence! A squad of four independent Google Gemini 4 Argon agents just beat Minecraft completely autonomously. No human prompts, no cheat codes, and no pre-scouted world seeds! It took them twenty-seven hours and fourteen minutes of non-stop survival gameplay, writing nearly twenty-eight hundred custom JavaScript scripts on the fly to mine, craft, and fight. Now, here’s the hilarious and wild part: they died 605 times! They drowned, fell into lava, and got wrecked by creepers, but they actually built a shared memory notebook in chat to coordinate rescue missions and recover their dropped loot before it despawned. Within ten minutes, they organically assigned roles: one gathered food, another mapped out the Nether, and another built dirt scaffolding during the boss fight while surviving with just two-and-a-half hearts! Running this cost over five hundred bucks in API tokens, but seeing an autonomous AI team organize like real Discord gamers is mind-blowing. Autonomous squads in enterprise workflows might actually be closer than we thought!",
+    "raw_text": "So check this out, because this is an absolute milestone in gaming and artificial intelligence! A squad of four independent Google Gemini 4 Argon agents just beat Minecraft completely autonomously. No human prompts, no cheat codes, and no pre-scouted world seeds! It took them twenty-seven hours and fourteen minutes of non-stop survival gameplay, writing nearly twenty-eight hundred custom JavaScript scripts on the fly to mine, craft, and fight. Now, here\u2019s the hilarious and wild part: they died 605 times! They drowned, fell into lava, and got wrecked by creepers, but they actually built a shared memory notebook in chat to coordinate rescue missions and recover their dropped loot before it despawned. Within ten minutes, they organically assigned roles: one gathered food, another mapped out the Nether, and another built dirt scaffolding during the boss fight while surviving with just two-and-a-half hearts! Running this cost over five hundred bucks in API tokens, but seeing an autonomous AI team organize like real Discord gamers is mind-blowing. Autonomous squads in enterprise workflows might actually be closer than we thought!",
     "id": "gem_mc_74k2",
     "category": "AI",
     "companies": [
@@ -37,7 +39,9 @@
       "Satinder Singh",
       "Roberta Raileanu"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/gem_mc_74k2.png",
+    "image_prompt": "Photorealistic scene: tense Minecraft-like Nether fortress at night, Ender Dragon silhouetted above obsidian spires, four small glowing autonomous \u201cagents\u201d (no humans) shown through in-game UI-less cues, chaotic particles, survival gear scattered, ominous failure trails implying many attempts, cinematic lighting, news photo realism, high detail, dramatic mood."
   },
   {
     "date": "2026-10-07",
@@ -57,7 +61,9 @@
     "people": [
       "Sietse Schelpe"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/gal_kv_50m3.png",
+    "image_prompt": "Futuristic newsroom scene: scientists in lab coats reviewing glowing holographic neural network graphs; a sleek AI server rack with encrypted NVMe drives streaming luminous data lines into a vast \u201cmemory\u201d halo; dramatic lighting, credible photoreal style, high detail, newsworthy mood, no text."
   },
   {
     "date": "2026-10-19",
@@ -66,7 +72,7 @@
     "title": "Quantum Computing Just Took a 10x Leap: Is Modern Encryption In Danger?",
     "summary": "Quantinuum has set a world record by achieving 99.9995% logical fidelity on its Helios trapped-ion quantum computer, reducing error rates tenfold. This achievement, yielding just five errors per million operations, significantly accelerates the timeline toward commercial fault-tolerant quantum computing by 2029.",
     "engagement": "High",
-    "raw_text": "So check this out, because quantum computing just hit an insane milestone that should honestly put the entire cybersecurity world on high alert! Quantinuum just shattered the world record for quantum error correction on their Helios machine, hitting an eye-watering 99.9995% logical fidelity. To put that into perspective, that is just five errors per million operations—a massive tenfold drop in errors compared to just last month! For years, quantum computing has been stuck in the noisy intermediate phase where qubits collapse if you practically sneeze near them. But by using a distance-seven color code across 73 physical qubits, Quantinuum proved they can create ultra-stable logical qubits. Here’s the wild part: CEO Rajeeb Hazra confirmed this puts them right on track to drop 'Apollo,' a universal fault-tolerant quantum computer, by 2029. That means 'Q-Day'—the terrifying moment when quantum machines can effortlessly crack RSA and Bitcoin encryption—is arriving way faster than anybody predicted. We urgently need to upgrade global cryptography before these beasts go online!",
+    "raw_text": "So check this out, because quantum computing just hit an insane milestone that should honestly put the entire cybersecurity world on high alert! Quantinuum just shattered the world record for quantum error correction on their Helios machine, hitting an eye-watering 99.9995% logical fidelity. To put that into perspective, that is just five errors per million operations\u2014a massive tenfold drop in errors compared to just last month! For years, quantum computing has been stuck in the noisy intermediate phase where qubits collapse if you practically sneeze near them. But by using a distance-seven color code across 73 physical qubits, Quantinuum proved they can create ultra-stable logical qubits. Here\u2019s the wild part: CEO Rajeeb Hazra confirmed this puts them right on track to drop 'Apollo,' a universal fault-tolerant quantum computer, by 2029. That means 'Q-Day'\u2014the terrifying moment when quantum machines can effortlessly crack RSA and Bitcoin encryption\u2014is arriving way faster than anybody predicted. We urgently need to upgrade global cryptography before these beasts go online!",
     "id": "qnt_hel_19q4",
     "category": "Science",
     "companies": [
@@ -75,7 +81,9 @@
     "people": [
       "Rajeeb Hazra"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/qnt_hel_19q4.png",
+    "image_prompt": "Photorealistic news image: a sleek Helios trapped-ion quantum computer in a dark lab, glowing blue laser beams aligning on a tiny ion chamber, precision optics and cables, subtle bokeh lights, dramatic cinematic lighting, high detail, realistic reflections, tense hopeful mood, no text."
   },
   {
     "date": "2026-10-15",
@@ -92,7 +100,9 @@
       "Charalampos Koilakos",
       "Ilias Georgakopoulos-Soares"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/bio_sec_81v5.png",
+    "image_prompt": "Cinematic newsroom scene: diverse scientists at monitors showing blurred protein structures, warning-like red hues, cybersecurity icons projected over lab glass, eerie generative AI network lines, macro DNA helix in background, tense investigative mood, photorealistic, high detail, sharp lighting, no text."
   },
   {
     "date": "2026-10-24",
@@ -101,14 +111,16 @@
     "title": "India Just Set a 24-Month Deadline to Build a 100% Native Smartphone!",
     "summary": "Indian IT Minister Ashwini Vaishnaw has established an October 23, 2028 deadline to launch the nation's first fully domestic smartphone brand. The ambitious initiative mandates end-to-end local intellectual property, targeting domestic 2nm to 3nm semiconductor design to challenge existing global tech duopolies.",
     "engagement": "High",
-    "raw_text": "So check this out: India is making a massive geopolitical power play in the consumer tech space! Union Minister Ashwini Vaishnaw just officially announced a hard launch date of October 23, 2028, to unveil India’s first completely sovereign, home-grown smartphone brand. Now, we aren't just talking about assembling imported parts in a local factory like previous 'Make in India' campaigns. No, the mandate requires 100% domestic intellectual property from the silicon up! We are talking about designing native 2-nanometer and 3-nanometer chips locally, engineering custom software stacks, and controlling the entire supply chain down to the consumer packaging. Here's the wild part: they have given themselves an aggressive 24-month timeline to break the brutal duopoly of Apple and Google. If India pulls this off, it fundamentally rewires the global electronics trade and proves a major sovereign nation can completely decouple its mobile infrastructure from foreign tech giants. Can they really challenge iOS and Android in just two years? Let me know your thoughts down below!",
+    "raw_text": "So check this out: India is making a massive geopolitical power play in the consumer tech space! Union Minister Ashwini Vaishnaw just officially announced a hard launch date of October 23, 2028, to unveil India\u2019s first completely sovereign, home-grown smartphone brand. Now, we aren't just talking about assembling imported parts in a local factory like previous 'Make in India' campaigns. No, the mandate requires 100% domestic intellectual property from the silicon up! We are talking about designing native 2-nanometer and 3-nanometer chips locally, engineering custom software stacks, and controlling the entire supply chain down to the consumer packaging. Here's the wild part: they have given themselves an aggressive 24-month timeline to break the brutal duopoly of Apple and Google. If India pulls this off, it fundamentally rewires the global electronics trade and proves a major sovereign nation can completely decouple its mobile infrastructure from foreign tech giants. Can they really challenge iOS and Android in just two years? Let me know your thoughts down below!",
     "id": "ind_phn_24d6",
     "category": "Mobile",
     "companies": [],
     "people": [
       "Ashwini Vaishnaw"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/ind_phn_24d6.png",
+    "image_prompt": "Photorealistic newsroom scene: Indian tech minister at a podium, blurred monitors with abstract chip circuitry, engineers in lab background, a futuristic smartphone on an elevated pedestal glowing with semiconductor patterns, warm national light, confident urgent mood, high detail, natural colors, cinematic lighting, no text."
   },
   {
     "date": "2026-10-15",
@@ -129,7 +141,9 @@
       "Cody Jones",
       "Emma Rosenfeld"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/goog_qnt_40m7.png",
+    "image_prompt": "Futuristic news photo style: Google Quantum AI lab with glowing cryogenic quantum processor (Willow) in a glass cryostat, subtle blue-violet light trails forming \u201cmagic state\u201d patterns, scientists in background, dramatic cinematic lighting, high detail, realistic, crisp focus, no text."
   },
   {
     "date": "2026-10-21",
@@ -138,14 +152,16 @@
     "title": "LiveAct: The Insane Real-Time World Model Training Autonomous Robots!",
     "summary": "Researchers have introduced LiveAct, a real-time multi-agent world model framework that synchronizes heterogeneous action streams across diverse robotics and gaming environments. Capable of rendering 17.7 frames per second at 512x448 resolution, LiveAct provides high-fidelity simulations for multi-robot reinforcement learning.",
     "engagement": "Medium",
-    "raw_text": "Here's the wild part about where robotics and world models are heading: a research team just dropped 'LiveAct,' and it might be the breakthrough multi-agent robotics has been waiting for! World models are essentially AI brains that learn the real laws of physics so they can predict what happens next. But until now, trying to simulate multiple agents doing completely different things—like one robot using continuous motor torques while another uses discrete inputs—completely broke the system. LiveAct solves this with a Heterogeneous Action Interface that cleanly binds individual action streams to specific visual agents in real-time. Built on the Wan2.2 architecture, it renders 17.7 frames per second at 512x448 resolution with over 94% agent attribution accuracy! Honestly, this is huge because it gives robotics teams a photorealistic, dynamic simulator where swarms of autonomous robots can run reinforcement learning without physically smashing expensive hardware in a real lab. We are watching video generation transition into interactive spatial intelligence before our eyes!",
+    "raw_text": "Here's the wild part about where robotics and world models are heading: a research team just dropped 'LiveAct,' and it might be the breakthrough multi-agent robotics has been waiting for! World models are essentially AI brains that learn the real laws of physics so they can predict what happens next. But until now, trying to simulate multiple agents doing completely different things\u2014like one robot using continuous motor torques while another uses discrete inputs\u2014completely broke the system. LiveAct solves this with a Heterogeneous Action Interface that cleanly binds individual action streams to specific visual agents in real-time. Built on the Wan2.2 architecture, it renders 17.7 frames per second at 512x448 resolution with over 94% agent attribution accuracy! Honestly, this is huge because it gives robotics teams a photorealistic, dynamic simulator where swarms of autonomous robots can run reinforcement learning without physically smashing expensive hardware in a real lab. We are watching video generation transition into interactive spatial intelligence before our eyes!",
     "id": "liv_act_17f8",
     "category": "AI",
     "companies": [],
     "people": [
       "Xinyu Wang"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/liv_act_17f8.png",
+    "image_prompt": "Futuristic newsroom-style scene: diverse autonomous robots in a neon-lit lab projecting synchronized holographic world-model streams across a split-screen of robots and game-like terrains, realistic metal details, volumetric lighting, dynamic motion blur, crisp 512x448 feel, high fidelity, news photo mood."
   },
   {
     "date": "2026-10-19",
@@ -154,14 +170,16 @@
     "title": "Every New Car in India Must Have AI Emergency Braking by 2030!",
     "summary": "India's Ministry of Road Transport and Highways has issued a draft notification mandating AIS-185 compliant Automatic Emergency Braking Systems across all passenger cars by 2030. The regulation will force automakers to integrate edge-AI sensors and computer vision into budget vehicles, significantly commoditizing automotive ADAS hardware.",
     "engagement": "Medium",
-    "raw_text": "So check this out: your next budget hatchback might soon be packed with advanced AI safety tech whether you asked for it or not! India's Ministry of Road Transport and Highways just dropped a draft notification mandating Automatic Emergency Braking Systems in all new passenger cars by October 2030, expanding to all existing models by 2032! On top of that, commercial taxis will be forced to have lane-keeping assist and drowsiness alerts by 2029. Historically, ADAS features were locked away behind expensive luxury packages, but this legal mandate forces automakers to bake edge-AI chips, radar, and computer vision cameras directly into entry-level commuter cars. Here’s the wild part: because the Indian automotive market is so gigantic, this single government regulation is going to drive down the cost of optical sensors and edge processors worldwide through pure economies of scale. It’s an algorithmic safety net that could save tens of thousands of lives, proving that AI safety isn’t just about chatbots—it’s hitting the asphalt!",
+    "raw_text": "So check this out: your next budget hatchback might soon be packed with advanced AI safety tech whether you asked for it or not! India's Ministry of Road Transport and Highways just dropped a draft notification mandating Automatic Emergency Braking Systems in all new passenger cars by October 2030, expanding to all existing models by 2032! On top of that, commercial taxis will be forced to have lane-keeping assist and drowsiness alerts by 2029. Historically, ADAS features were locked away behind expensive luxury packages, but this legal mandate forces automakers to bake edge-AI chips, radar, and computer vision cameras directly into entry-level commuter cars. Here\u2019s the wild part: because the Indian automotive market is so gigantic, this single government regulation is going to drive down the cost of optical sensors and edge processors worldwide through pure economies of scale. It\u2019s an algorithmic safety net that could save tens of thousands of lives, proving that AI safety isn\u2019t just about chatbots\u2014it\u2019s hitting the asphalt!",
     "id": "aeb_ind_30a9",
     "category": "Automotive",
     "companies": [
       "Ministry of Road Transport and Highways"
     ],
     "people": [],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/aeb_ind_30a9.png",
+    "image_prompt": "Realistic high-quality news image: a modern Indian city street at dusk, close-up of a budget passenger car with subtle sensor housings on bumper/windshield, soft AI/ADAS light reflections, pedestrians crossing safely, dramatic but credible regulatory mood, shallow depth of field, no text."
   },
   {
     "date": "2026-10-20",
@@ -179,7 +197,9 @@
     "people": [
       "Mohammad Kachuee"
     ],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/mas_grd_86p0.png",
+    "image_prompt": "Futuristic newsroom scene: sleek AI server racks with glowing shields and flowing code barriers, holographic multi-agent network nodes interlinked, one node intercepted by a protective \u201cguard\u201d effect; dramatic neon blue lighting, high realism, cinematic depth of field, news-ready tech mood."
   },
   {
     "date": "2026-10-23",
@@ -188,13 +208,15 @@
     "title": "Navitas Unveils 3300V Silicon Carbide Chips to Power Gigawatt AI Data Centers",
     "summary": "Navitas Semiconductor announced the expansion of its GeneSiC portfolio with new ultra-high-voltage 2300V and 3300V Silicon Carbide MOSFETs. Designed for gigawatt-scale AI data center infrastructure, these components cut switching losses by 15% and enable compact solid-state transformer architectures.",
     "engagement": "Low",
-    "raw_text": "While everyone is obsessed with GPU performance and chatbot benchmarks, the real bottleneck threatening AI expansion is pure electricity, and Navitas Semiconductor just dropped a critical hardware upgrade to tackle it! They have officially expanded their GeneSiC portfolio with ultra-high-voltage 2300-volt and 3300-volt Silicon Carbide MOSFETs specifically engineered for modern AI mega-data centers. As server farms scale toward gigawatt-level power draws, traditional silicon power converters choke on thermal inefficiencies and massive switching losses. Navitas’s new SiC devices slash switching losses by up to 15%, allowing power systems to operate at much higher frequencies with extreme energy density. By using these 3.3 kilovolt modules in series topologies, engineers can dramatically shrink the physical footprint of solid-state transformers feeding GPU racks. It may not have the viral flair of consumer gadgets, but wide-bandgap semiconductors like this are the unsung heroes keeping the global AI infrastructure running without blowing up power grids!",
+    "raw_text": "While everyone is obsessed with GPU performance and chatbot benchmarks, the real bottleneck threatening AI expansion is pure electricity, and Navitas Semiconductor just dropped a critical hardware upgrade to tackle it! They have officially expanded their GeneSiC portfolio with ultra-high-voltage 2300-volt and 3300-volt Silicon Carbide MOSFETs specifically engineered for modern AI mega-data centers. As server farms scale toward gigawatt-level power draws, traditional silicon power converters choke on thermal inefficiencies and massive switching losses. Navitas\u2019s new SiC devices slash switching losses by up to 15%, allowing power systems to operate at much higher frequencies with extreme energy density. By using these 3.3 kilovolt modules in series topologies, engineers can dramatically shrink the physical footprint of solid-state transformers feeding GPU racks. It may not have the viral flair of consumer gadgets, but wide-bandgap semiconductors like this are the unsung heroes keeping the global AI infrastructure running without blowing up power grids!",
     "id": "nav_sic_33n1",
     "category": "Hardware",
     "companies": [
       "Navitas Semiconductor"
     ],
     "people": [],
-    "created_at": "2026-10-24T01:48:30Z"
+    "created_at": "2026-10-24T01:48:30Z",
+    "image_url": "images/24_10_26/nav_sic_33n1.png",
+    "image_prompt": "Photorealistic news photo: sleek server-rack interior with glowing power electronics, ultra-high-voltage silicon carbide MOSFET modules, crisp blue-white lighting, subtle futuristic solid-state transformer hardware, shallow depth of field, high detail, corporate tech mood, no text."
   }
 ]
