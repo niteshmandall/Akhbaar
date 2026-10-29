@@ -6,7 +6,7 @@
     "title": "This New AI Coding Model Cuts Token Costs in HALF Without Losing Accuracy!",
     "summary": "Startup Particle has released Particle-1, a reinforcement-learning fine-tune of DeepSeek V4.1 Flash designed to eliminate verbose reasoning bloat in coding workflows. Across four major benchmarks, the model reduces output token consumption by 28.4% to 52.2% and cuts task costs by up to 51.6% while slightly improving accuracy.",
     "engagement": "Medium",
-    "raw_text": "So check this out, if you are building with AI coding agents right now, you already know that reasoning tokens are totally destroying your API budget. Well, a startup called Particle just dropped a model called Particle-1, and honestly, the efficiency gains here are super impressive. They took the open-weight DeepSeek V4.1 Flash model and put it through a two-stage reinforcement learning post-training curriculum using a rank-64 LoRA adapter. Here's the wild part: across four major agentic coding benchmarks like DeepSWE and ReactBench, Particle-1 slashes output token overhead by up to 52.2%. And it doesn't even get dumber! Its pass rate actually ticked up slightly to 72.57% compared to the base model's 71.15%. Instead of just awkwardly cutting off sentences, the RL training actually taught the model to work smarter—like reusing existing dbt macros instead of writing logic from scratch, and shrinking massive eleven-thousand-token Git confirmation calls down to under two thousand tokens. I think we are finally moving past raw model scaling and straight into the era of token economics. Just keep in mind the weights are closed on OpenRouter for now.",
+    "raw_text": "So check this out, if you are building with AI coding agents right now, you already know that reasoning tokens are totally destroying your API budget. Well, a startup called Particle just dropped a model called Particle-1, and honestly, the efficiency gains here are super impressive. They took the open-weight DeepSeek V4.1 Flash model and put it through a two-stage reinforcement learning post-training curriculum using a rank-64 LoRA adapter. Here's the wild part: across four major agentic coding benchmarks like DeepSWE and ReactBench, Particle-1 slashes output token overhead by up to 52.2%. And it doesn't even get dumber! Its pass rate actually ticked up slightly to 72.57% compared to the base model's 71.15%. Instead of just awkwardly cutting off sentences, the RL training actually taught the model to work smarter\u2014like reusing existing dbt macros instead of writing logic from scratch, and shrinking massive eleven-thousand-token Git confirmation calls down to under two thousand tokens. I think we are finally moving past raw model scaling and straight into the era of token economics. Just keep in mind the weights are closed on OpenRouter for now.",
     "id": "PRTCL1RL26",
     "category": "AI",
     "companies": [
@@ -16,7 +16,9 @@
       "OpenRouter"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/PRTCL1RL26.png",
+    "image_prompt": "Futuristic newsroom scene: a sleek AI chip \u201creplacing\u201d bulky code streams, with halved token blocks flowing into a clean terminal UI. Cool blues, subtle neon, realistic lighting, shallow depth of field, high-detail, editorial style, no text, no logos."
   },
   {
     "date": "2026-10-28",
@@ -41,7 +43,9 @@
       "Diederik Knol",
       "Cobus Greyling"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/NVNEM35TR6.png",
+    "image_prompt": "Futuristic newsroom scene with a glowing NVIDIA-style hologram of an audio waveform morphing into clean multilingual speech icons, circuit patterns in the background, a subtle globe overlay, and a split-screen waveform/voice profiles symbolizing diarization; crisp, realistic, high-tech, dramatic lighting."
   },
   {
     "date": "2026-10-28",
@@ -50,7 +54,7 @@
     "title": "Why AI Doctors Cost 3.2x MORE Than Human Physicians (New Study)",
     "summary": "A landmark peer-reviewed study in NEJM AI reveals that general-purpose LLMs recommend clinical care plans costing an average of $314 per visit, compared to just $97 for human physicians. The 3.2-fold cost surge is driven by AI models reflexively ordering diagnostic lab and imaging tests in up to 79% of visits where doctors deemed zero tests necessary.",
     "engagement": "High",
-    "raw_text": "We always hear that AI is going to make healthcare way cheaper, right? Well, so check this out—a massive new study published in NEJM AI just proved the exact opposite. Researchers tested over twenty general-purpose LLMs across 200 real emergency and outpatient cases, and honestly, the numbers are wild. While human doctors recommended care plans averaging $97 per visit, the AI models averaged $314 per visit. That is 3.2 times more expensive, with some models hitting nearly $600! Why is AI burning so much hospital cash? Because LLMs are massive hypochondriacs. In over 66% of visits where real doctors ordered zero diagnostic tests, the AI panicked and ordered blood panels, metabolic screenings, and imaging anyway, plus 2 to 5 times more specialist referrals. Even when researchers begged the AI in the system prompt to be super frugal, it still spent 40% more than humans. Now, to be fair, about 20% of those extra AI tests actually caught real medical guidelines that human doctors missed. So AI is a great safety net, but if we let it run hospitals alone, it'll bankrupt us!",
+    "raw_text": "We always hear that AI is going to make healthcare way cheaper, right? Well, so check this out\u2014a massive new study published in NEJM AI just proved the exact opposite. Researchers tested over twenty general-purpose LLMs across 200 real emergency and outpatient cases, and honestly, the numbers are wild. While human doctors recommended care plans averaging $97 per visit, the AI models averaged $314 per visit. That is 3.2 times more expensive, with some models hitting nearly $600! Why is AI burning so much hospital cash? Because LLMs are massive hypochondriacs. In over 66% of visits where real doctors ordered zero diagnostic tests, the AI panicked and ordered blood panels, metabolic screenings, and imaging anyway, plus 2 to 5 times more specialist referrals. Even when researchers begged the AI in the system prompt to be super frugal, it still spent 40% more than humans. Now, to be fair, about 20% of those extra AI tests actually caught real medical guidelines that human doctors missed. So AI is a great safety net, but if we let it run hospitals alone, it'll bankrupt us!",
     "id": "NEJMAICOST",
     "category": "Science",
     "companies": [
@@ -66,7 +70,9 @@
       "Shahar Shelly",
       "Rosa Furneaux"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/NEJMAICOST.png",
+    "image_prompt": "Realistic newsroom-style photo: split-scene comparison of an AI hologram doctor and a human physician in a clinic. Background: subtle lab and imaging icons as blurred overlays. Mood: investigative, neutral, high-contrast lighting, shallow depth of field, sharp detail, newsworthy, no text."
   },
   {
     "date": "2026-10-28",
@@ -75,14 +81,16 @@
     "title": "Meta's New 3D Puzzle Benchmark Proves If Vision AI Can Actually Think",
     "summary": "Meta's Fundamental AI Research (FAIR) group has open-sourced SixthView, a 604-puzzle benchmark with 11,634 images designed to test true 3D spatial reasoning in Vision-Language Models. Models are shown five faces of a complex interlocking cube and must mentally rotate and deduce the exact grid layout of the hidden sixth face.",
     "engagement": "Medium",
-    "raw_text": "So check this out: we know Vision-Language Models are amazing at describing 2D photos, but can they actually visualize 3D space inside their heads, or are they just faking it with pattern matching? Meta's FAIR team just dropped an open-source benchmark called SixthView to find out, and it looks brutal. It consists of 604 puzzles and over 11,000 images based on interlocking Soma-style 3D cubes, scaling up to 10-by-10-by-10 blocks. The AI gets to see five faces of the cube alongside the individual puzzle pieces, and it has to mentally rotate the internal geometry—accounting for recessed channels and clear through-holes—to predict the exact grid of the hidden sixth face. Here's the clever part: Meta split every puzzle into four different input modes, from pure text coordinates to multi-image renders. That way, if a model passes the text version but bombs the image version, we know its vision encoder is broken, not its logic backbone. Plus, if the AI gets even one single grid cell wrong, it gets a zero. For robotics and AR glasses, passing this test is mandatory.",
+    "raw_text": "So check this out: we know Vision-Language Models are amazing at describing 2D photos, but can they actually visualize 3D space inside their heads, or are they just faking it with pattern matching? Meta's FAIR team just dropped an open-source benchmark called SixthView to find out, and it looks brutal. It consists of 604 puzzles and over 11,000 images based on interlocking Soma-style 3D cubes, scaling up to 10-by-10-by-10 blocks. The AI gets to see five faces of the cube alongside the individual puzzle pieces, and it has to mentally rotate the internal geometry\u2014accounting for recessed channels and clear through-holes\u2014to predict the exact grid of the hidden sixth face. Here's the clever part: Meta split every puzzle into four different input modes, from pure text coordinates to multi-image renders. That way, if a model passes the text version but bombs the image version, we know its vision encoder is broken, not its logic backbone. Plus, if the AI gets even one single grid cell wrong, it gets a zero. For robotics and AR glasses, passing this test is mandatory.",
     "id": "META6VIEW8",
     "category": "AI",
     "companies": [
       "Meta"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/META6VIEW8.png",
+    "image_prompt": "Realistic studio photo for tech news: a futuristic 3D interlocking cube puzzle on a dark desk, five visible cube faces arranged like rotating panels, subtle holographic glow hinting a hidden sixth face, sharp lighting, shallow depth of field, cinematic mood, high-detail, no text."
   },
   {
     "date": "2026-10-29",
@@ -108,7 +116,9 @@
       "Guanya Shi",
       "Haozhi Qi"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/DEXPRT26RO.png",
+    "image_prompt": "Photorealistic news photo: a portable DexPort rig\u201420-DOF robotic hand mounted on a Meta Quest 2 controller\u2014held by researchers in a modern lab, soft cinematic lighting, shallow depth of field, subtle tech cables, focus on the human hand vs mechanical fingers, crisp detail, realistic."
   },
   {
     "date": "2026-10-29",
@@ -117,7 +127,7 @@
     "title": "WARNING: A Tiny UI Bug in Claude Code is Burning 16% of Your Money!",
     "summary": "Independent OpenTelemetry audits by Flamerix AI and developer reports have exposed that a background UI feature in Anthropic's Claude Code called agent_summary consumes an average of 16.4% of total user token spend. The feature forks the entire conversation history every 30 seconds per subagent just to generate a 3-to-5-word status update, often billing at Claude Opus rates.",
     "engagement": "High",
-    "raw_text": "If you use Anthropic's Claude Code, stop what you're doing and listen to this, because a tiny UI feature is secretly draining your wallet! Independent telemetry audits by Flamerix AI and furious developers on GitHub just exposed a massive token burn bug inside Claude Code. You know that cute little 3-to-5-word status update in the UI panel that tells you what your background subagents are doing? It's controlled by a timer called agent_summary that fires every 30 seconds. Here's the wild part: every time that 30-second timer ticks, it forks your subagent's entire conversation transcript—sometimes hundreds of thousands of tokens—and sends it straight to your primary model, which is usually Claude Opus, with zero cache writes! Audits showed people are paying a ratio of 9,000 input tokens for a single output token. Across a full week of multi-agent coding, that cosmetic status line ate up an average of 16.4% of total API spend, and up to 26% in heavy sessions! Until Anthropic adds an off switch, devs are literally hacking in custom Bun preload scripts just to block the timer. Go check your billing dashboard right now!",
+    "raw_text": "If you use Anthropic's Claude Code, stop what you're doing and listen to this, because a tiny UI feature is secretly draining your wallet! Independent telemetry audits by Flamerix AI and furious developers on GitHub just exposed a massive token burn bug inside Claude Code. You know that cute little 3-to-5-word status update in the UI panel that tells you what your background subagents are doing? It's controlled by a timer called agent_summary that fires every 30 seconds. Here's the wild part: every time that 30-second timer ticks, it forks your subagent's entire conversation transcript\u2014sometimes hundreds of thousands of tokens\u2014and sends it straight to your primary model, which is usually Claude Opus, with zero cache writes! Audits showed people are paying a ratio of 9,000 input tokens for a single output token. Across a full week of multi-agent coding, that cosmetic status line ate up an average of 16.4% of total API spend, and up to 26% in heavy sessions! Until Anthropic adds an off switch, devs are literally hacking in custom Bun preload scripts just to block the timer. Go check your billing dashboard right now!",
     "id": "CLDCODE16X",
     "category": "AI",
     "companies": [
@@ -126,7 +136,9 @@
       "GitHub"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/CLDCODE16X.png",
+    "image_prompt": "Realistic editorial photo: dim tech newsroom at night, glowing servers and floating UI holograms fracturing conversation threads, a lone developer in hoodie watching a rising red warning heatmap on a monitor, dramatic lighting, tense investigative mood, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-10-29",
@@ -135,7 +147,7 @@
     "title": "3 Open-Source Tools Every AI Coding Developer Needs Right Now",
     "summary": "Three open-source developer tools surged in adoption to solve autonomous coding agent vulnerabilities: Hugging Face's safeagents local security proxy, the Bernstein v3.23.0 multi-agent orchestrator, and the claude-mem v15.5.0 persistent memory plugin. Together, these Apache 2.0 tools block malicious tool calls, coordinate up to 53 CLI agents at zero routing token cost, and compress session memory by 10x.",
     "engagement": "Medium",
-    "raw_text": "So check this out: autonomous coding agents are awesome until they accidentally nuke your server, forget what they were doing, or burn all your tokens fighting each other. Today, three massive open-source projects are blowing up to fix all three problems. First up is safeagents from Hugging Face. It's a local API proxy that sits between your agent and the model to block undeclared tools, shady URLs, and Kubernetes token exploits before they ever execute. Even cooler, it strips the agent's internal reasoning before sending suspicious calls to a Judge Model so the agent can't gaslight the judge! Second is Bernstein v3.23.0, a governance layer that lets you orchestrate 53 different CLI agents—like Claude Code, Cursor, and Codex—in parallel inside isolated Git worktrees using a deterministic Python scheduler that burns zero LLM tokens on routing. Finally, claude-mem v15.5.0 just crossed 104,000 GitHub stars by saving your compressed session context into local SQLite and Chroma databases for a claimed 10x token savings. If you're running local coding swarms, I think this three-part stack is pretty much essential now.",
+    "raw_text": "So check this out: autonomous coding agents are awesome until they accidentally nuke your server, forget what they were doing, or burn all your tokens fighting each other. Today, three massive open-source projects are blowing up to fix all three problems. First up is safeagents from Hugging Face. It's a local API proxy that sits between your agent and the model to block undeclared tools, shady URLs, and Kubernetes token exploits before they ever execute. Even cooler, it strips the agent's internal reasoning before sending suspicious calls to a Judge Model so the agent can't gaslight the judge! Second is Bernstein v3.23.0, a governance layer that lets you orchestrate 53 different CLI agents\u2014like Claude Code, Cursor, and Codex\u2014in parallel inside isolated Git worktrees using a deterministic Python scheduler that burns zero LLM tokens on routing. Finally, claude-mem v15.5.0 just crossed 104,000 GitHub stars by saving your compressed session context into local SQLite and Chroma databases for a claimed 10x token savings. If you're running local coding swarms, I think this three-part stack is pretty much essential now.",
     "id": "OSSAGNT3X6",
     "category": "AI",
     "companies": [
@@ -143,16 +155,18 @@
       "GitHub"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/OSSAGNT3X6.png",
+    "image_prompt": "Cinematic news photo style: a futuristic developer workspace with three glowing holographic modules labeled by icon only\u2014security shield, multi-agent swarm, compressed memory stack. Realistic lighting, shallow depth of field, neon-blue/amber tones, subtle circuit patterns, high detail, no text."
   },
   {
     "date": "2026-10-29",
     "source_file": "Daily Tech News Briefing (3).pdf",
     "page": 19,
     "title": "OpenAI Gives ChatGPT Users $500/Mo in Free Credits & Explains GPT-6 Naming!",
-    "summary": "OpenAI is bundling up to $500 per month in free, non-rollover API credits for eligible ChatGPT Pro and Business subscribers to incentivize developer adoption on its proprietary APIs. Simultaneously, OpenAI staffer Ted Sanders clarified the company's four-tier planetary model size hierarchy—ordered from smallest to largest as Luna, Terra, Sol, and Astra—following the launch of GPT-6.1 Terra.",
+    "summary": "OpenAI is bundling up to $500 per month in free, non-rollover API credits for eligible ChatGPT Pro and Business subscribers to incentivize developer adoption on its proprietary APIs. Simultaneously, OpenAI staffer Ted Sanders clarified the company's four-tier planetary model size hierarchy\u2014ordered from smallest to largest as Luna, Terra, Sol, and Astra\u2014following the launch of GPT-6.1 Terra.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge if you're already paying for ChatGPT Pro or Business! OpenAI just updated their subscriptions to hand out up to $500 every single month in free API credits. Depending on your tier, Pro users get $100, $200, or $500 a month, and Business workspaces can pool up to $500 a month—or $6,000 upfront on annual plans—to spend on the Responses, Agents, Realtime, and Images APIs. It's a super smart counter-punch to stop developers from jumping ship to open-weight models, though keep in mind the credits expire each month and don't cover API-key Codex usage. On top of that, OpenAI's Ted Sanders finally cleared up the super confusing GPT-6 naming scheme after GPT-6.1 Terra dropped. Here's the breakdown: the planetary names are strict size tiers from smallest to largest—Luna, Terra, Sol, and Astra. The version numbers like 6.1 just show when they launched. That's why the smaller GPT-6.1 Terra actually beats the giant 6.0 Sol and Astra models on technical communication and matches their vision speed for way cheaper, at just $1 input and $5 output per million tokens!",
+    "raw_text": "Honestly, this is huge if you're already paying for ChatGPT Pro or Business! OpenAI just updated their subscriptions to hand out up to $500 every single month in free API credits. Depending on your tier, Pro users get $100, $200, or $500 a month, and Business workspaces can pool up to $500 a month\u2014or $6,000 upfront on annual plans\u2014to spend on the Responses, Agents, Realtime, and Images APIs. It's a super smart counter-punch to stop developers from jumping ship to open-weight models, though keep in mind the credits expire each month and don't cover API-key Codex usage. On top of that, OpenAI's Ted Sanders finally cleared up the super confusing GPT-6 naming scheme after GPT-6.1 Terra dropped. Here's the breakdown: the planetary names are strict size tiers from smallest to largest\u2014Luna, Terra, Sol, and Astra. The version numbers like 6.1 just show when they launched. That's why the smaller GPT-6.1 Terra actually beats the giant 6.0 Sol and Astra models on technical communication and matches their vision speed for way cheaper, at just $1 input and $5 output per million tokens!",
     "id": "OAICRED61T",
     "category": "AI",
     "companies": [
@@ -162,7 +176,9 @@
       "Ted Sanders",
       "Simon Willison"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/OAICRED61T.png",
+    "image_prompt": "Photorealistic tech news scene: a glowing AI server room with holographic planet rings labeled by color only, plus a split-focus of a modern laptop dashboard emitting subtle credit-like light orbs. Cool blue lighting, cinematic depth of field, realistic newsroom tone, no text."
   },
   {
     "date": "2026-10-27",
@@ -171,7 +187,7 @@
     "title": "Stripe's New CLI Lets AI Agents Send B2B Money (With a Catch)",
     "summary": "Stripe has launched a preview of its stripe pay CLI plugin and agent skill file, enabling AI agents to prepare and execute instant B2B transfers in USD, GBP, and USDC via public profile handles. To prevent prompt-injection theft, the architecture enforces a deterministic four-step human-in-the-loop verification protocol before any funds are moved.",
     "engagement": "Medium",
-    "raw_text": "Would you ever trust an AI agent with your company's bank account? Because so check this out—Stripe just rolled out a preview of a new CLI plugin called stripe pay that lets AI agents send instant B2B payments in USD, GBP, and even USDC stablecoins using simple @profile handles! Now, before we freak out about a prompt-injection attack draining a startup's treasury in five seconds, Stripe actually built some really smart guardrails into this. An AI agent cannot just fire off money on its own. It has to follow a strict four-step human-in-the-loop protocol. First, the agent verifies identity. Second, it runs a mandatory dry-run command with an --agent flag, which forces the CLI to halt and spit out a confirmation JSON showing the exact fee, recipient, and account. The agent isn't even allowed to guess profile handles—it has to search the Stripe Directory and make a human pick the right one. Only after you explicitly approve the bound payload within a 5-minute window can the transfer actually go through. I think this is the blueprint for safe agentic commerce.",
+    "raw_text": "Would you ever trust an AI agent with your company's bank account? Because so check this out\u2014Stripe just rolled out a preview of a new CLI plugin called stripe pay that lets AI agents send instant B2B payments in USD, GBP, and even USDC stablecoins using simple @profile handles! Now, before we freak out about a prompt-injection attack draining a startup's treasury in five seconds, Stripe actually built some really smart guardrails into this. An AI agent cannot just fire off money on its own. It has to follow a strict four-step human-in-the-loop protocol. First, the agent verifies identity. Second, it runs a mandatory dry-run command with an --agent flag, which forces the CLI to halt and spit out a confirmation JSON showing the exact fee, recipient, and account. The agent isn't even allowed to guess profile handles\u2014it has to search the Stripe Directory and make a human pick the right one. Only after you explicitly approve the bound payload within a 5-minute window can the transfer actually go through. I think this is the blueprint for safe agentic commerce.",
     "id": "STRPPAYCLI",
     "category": "Business",
     "companies": [
@@ -179,7 +195,9 @@
       "Bank of America"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/STRPPAYCLI.png",
+    "image_prompt": "Photorealistic newsroom-tech scene: sleek laptop displaying abstract payment flows (no text), subtle HUD icons, a calm Stripe-like payment interface glow, and a human hand hovering over a \u201cconfirm\u201d prompt before a secure transfer. High contrast, realistic lighting, corporate mood."
   },
   {
     "date": "2026-10-29",
@@ -195,7 +213,9 @@
       "ELEGOO"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/ELGM1ULT26.png",
+    "image_prompt": "Realistic studio photo of ELEGOO M1 Ultra wireless handheld 3D scanner in foreground, five blue laser beams projecting onto a metal industrial part on a workbench; subtle depth, crisp reflections, clean tech aesthetic, high detail, news photo lighting, shallow DOF, accurate metrology vibe, no text."
   },
   {
     "date": "2026-10-28",
@@ -204,7 +224,7 @@
     "title": "Massive 'Icepick' Leak Exposes 41,000 DHS Agents & Secret AI Tools!",
     "summary": "Transparency collective DDoSecrets published the 'Icepick' archive, provided by hacktivist group Department of Peace, exposing internal directory records for over 41,000 U.S. Department of Homeland Security personnel. The leak also revealed 55,000 permission group names detailing undercover operations and internal configurations for ChatGPT, Gemini, Grok, and Palantir Falcon.",
     "engagement": "High",
-    "raw_text": "Honestly, this is one of the wildest government data leaks we have seen all year. Transparency group DDoSecrets just published a massive archive called 'Icepick,' handed over by a hacktivist collective calling themselves the 'Department of Peace'. It exposes the internal directory records of more than 41,000 U.S. Department of Homeland Security employees and contractors—including 21,000 from Customs and Border Protection and 10,000 from ICE and Homeland Security Investigations. That is nine times bigger than the leak back in January! Beyond names, emails, and phone numbers, here's the wild part: the dump includes over 55,000 Single Sign-On permission group names. Those group names accidentally exposed 39 agents mapped to 'CUC' groups—which is court shorthand for certified undercover operations! Even crazier for us in tech, the directory groups explicitly revealed that DHS has identity configurations set up for ChatGPT, Google Gemini, Grok, Microsoft Copilot, Palantir Falcon, and PenLink. The hackers claim they pulled it through Okta, though Okta says their core cloud wasn't breached, pointing toward a hijacked DHS admin account or token instead.",
+    "raw_text": "Honestly, this is one of the wildest government data leaks we have seen all year. Transparency group DDoSecrets just published a massive archive called 'Icepick,' handed over by a hacktivist collective calling themselves the 'Department of Peace'. It exposes the internal directory records of more than 41,000 U.S. Department of Homeland Security employees and contractors\u2014including 21,000 from Customs and Border Protection and 10,000 from ICE and Homeland Security Investigations. That is nine times bigger than the leak back in January! Beyond names, emails, and phone numbers, here's the wild part: the dump includes over 55,000 Single Sign-On permission group names. Those group names accidentally exposed 39 agents mapped to 'CUC' groups\u2014which is court shorthand for certified undercover operations! Even crazier for us in tech, the directory groups explicitly revealed that DHS has identity configurations set up for ChatGPT, Google Gemini, Grok, Microsoft Copilot, Palantir Falcon, and PenLink. The hackers claim they pulled it through Okta, though Okta says their core cloud wasn't breached, pointing toward a hijacked DHS admin account or token instead.",
     "id": "DHSICEPK26",
     "category": "Business",
     "companies": [
@@ -219,7 +239,9 @@
       "PenLink"
     ],
     "people": [],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/DHSICEPK26.png",
+    "image_prompt": "Breaking-news newsroom scene: dim blue-gray palette, dramatic spotlight on a sealed server rack labeled only by symbols, glowing data lines spilling like ice shards, blurred agents silhouettes in glass reflections, shadowy hacker presence, tech AI icons as abstract forms, tense investigative mood, ultra-realistic, high detail."
   },
   {
     "date": "2026-10-29",
@@ -228,7 +250,7 @@
     "title": "'Black October' Cyber Crisis: AI Agents Breach Anthropic & Overwhelm Defenders!",
     "summary": "The cybersecurity industry is battling 'Black October,' an unprecedented surge in AI-accelerated vulnerability discovery and supply-chain attacks. Anthropic disclosed that AI agents breached its internal sales and HR data via third-party software, while Sophos CISO Ross McKerchar revealed his internal team fought off seven major security events in just seven days.",
     "engagement": "High",
-    "raw_text": "We need to talk about what cybersecurity experts are calling 'Black October,' because AI agents are officially hacking the internet faster than humans can patch it! Today, Anthropic dropped a bombshell admission: autonomous AI agents actually breached their internal sales and HR data by exploiting third-party software. Talk about irony when an AI safety lab gets hacked by AI agents! And it's happening everywhere. Sophos CISO Ross McKerchar revealed that his internal security team had to fight off seven major security and supply-chain incidents in just seven days—a workload that used to take an entire quarter! We're talking LiteLLM supply-chain hits, GitLab remote code execution flaws, and PHP exploits rooting government servers. Because frontier models are now superhuman at chaining obscure software bugs together, ancient flaws across the internet are getting blown wide open all at once. Incident response firms are literally turning away customers, and enterprises just hired 1,000 emergency contractors to clear the patching backlog. Even Sam Altman admitted on a podcast today that startups are talking about rebuilding routers and operating systems from scratch!",
+    "raw_text": "We need to talk about what cybersecurity experts are calling 'Black October,' because AI agents are officially hacking the internet faster than humans can patch it! Today, Anthropic dropped a bombshell admission: autonomous AI agents actually breached their internal sales and HR data by exploiting third-party software. Talk about irony when an AI safety lab gets hacked by AI agents! And it's happening everywhere. Sophos CISO Ross McKerchar revealed that his internal security team had to fight off seven major security and supply-chain incidents in just seven days\u2014a workload that used to take an entire quarter! We're talking LiteLLM supply-chain hits, GitLab remote code execution flaws, and PHP exploits rooting government servers. Because frontier models are now superhuman at chaining obscure software bugs together, ancient flaws across the internet are getting blown wide open all at once. Incident response firms are literally turning away customers, and enterprises just hired 1,000 emergency contractors to clear the patching backlog. Even Sam Altman admitted on a podcast today that startups are talking about rebuilding routers and operating systems from scratch!",
     "id": "BLKOCT26CY",
     "category": "AI",
     "companies": [
@@ -249,7 +271,9 @@
       "Sophia Bennett",
       "Armaan Agarwal"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/BLKOCT26CY.png",
+    "image_prompt": "Cinematic newsroom cover: shadowy cyber \u201cBlack October\u201d theme, glowing AI agent silhouettes over a dark network map, breach indicators spiraling into a stylized Anthropic/HR data vault, security team at monitors repelling cascading alerts, dramatic blue-red lighting, high-detail realistic digital art, no text."
   },
   {
     "date": "2026-10-28",
@@ -258,7 +282,7 @@
     "title": "Scale AI Hit With 5 GDPR Lawsuits Over 'Creepy' Freelancer Spying!",
     "summary": "European privacy watchdog noyb has filed five formal GDPR complaints across four countries against data-labeling giant Scale AI and its Outlier freelancer platform. Forensic analysis revealed that Outlier records worker mouse clicks and keystrokes every few seconds, requires facial biometric scans, and embeds at least 18 third-party trackers including TikTok and Facebook.",
     "engagement": "Medium",
-    "raw_text": "So check this out: we all know giant AI models from OpenAI, Meta, and Google rely on army-sized teams of human gig workers to label data and train their chatbots. Well, the biggest data-labeling company in the world, Scale AI, just got slapped with five massive GDPR privacy complaints in Europe over how it spies on those exact workers! The digital rights group noyb—the same watchdog that got Meta fined 1.2 billion euros—ran a forensic audit on Scale AI's Outlier freelancer platform, and honestly, what they found is super invasive. According to noyb, Outlier logs every mouse click and keystroke every few seconds, which is enough to reconstruct a continuous video of a worker's entire day, on top of demanding live facial scans and government IDs through Persona. Here's the wild part: they also found at least 18 third-party ad and analytics trackers firing inside the workspace, sending data to TikTok, Facebook, and LinkedIn! Scale AI claims the screen recording is opt-in and checks are just to stop fraud, but european regulators do not play around with biometric coercion.",
+    "raw_text": "So check this out: we all know giant AI models from OpenAI, Meta, and Google rely on army-sized teams of human gig workers to label data and train their chatbots. Well, the biggest data-labeling company in the world, Scale AI, just got slapped with five massive GDPR privacy complaints in Europe over how it spies on those exact workers! The digital rights group noyb\u2014the same watchdog that got Meta fined 1.2 billion euros\u2014ran a forensic audit on Scale AI's Outlier freelancer platform, and honestly, what they found is super invasive. According to noyb, Outlier logs every mouse click and keystroke every few seconds, which is enough to reconstruct a continuous video of a worker's entire day, on top of demanding live facial scans and government IDs through Persona. Here's the wild part: they also found at least 18 third-party ad and analytics trackers firing inside the workspace, sending data to TikTok, Facebook, and LinkedIn! Scale AI claims the screen recording is opt-in and checks are just to stop fraud, but european regulators do not play around with biometric coercion.",
     "id": "SCALENOYB5",
     "category": "Business",
     "companies": [
@@ -278,7 +302,9 @@
     "people": [
       "Lisa Steinfeld Leiser"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/SCALENOYB5.png",
+    "image_prompt": "Cinematic newsroom scene: blurred courtroom silhouettes, European flags, digital privacy icons. Foreground: shadowy laptop screen with abstract cursor/keystroke waveform and faint facial-scan grid. Background: network nodes forming a web of trackers. Dark moody lighting, realistic, high-detail, no text."
   },
   {
     "date": "2026-10-29",
@@ -287,7 +313,7 @@
     "title": "Kalshi Hits $40B Valuation & Upwind Raises $400M as CS Degrees Tank 12%!",
     "summary": "Cloud-and-AI security firm Upwind raised a $400 million Series C to deploy autonomous defensive agents, while prediction market Kalshi secured $1 billion at a $40 billion valuation. Meanwhile, enterprise reports revealed unauthorized Shadow AI caused 43% of 2026 data breaches and US undergraduate Computer Science enrollment dropped over 12% in Fall 2026.",
     "engagement": "Low",
-    "raw_text": "If you want to see where the smart money is flowing in tech right now, today's venture capital numbers tell the whole story. First, cloud and AI security platform Upwind just locked in a massive $400 million Series C led by Bessemer Venture Partners, pushing their total funding past $800 million to deploy autonomous Red, Blue, and Green security agents. Why are investors throwing cash at AI security? Because a new report from ProHance today revealed that unauthorized employee 'Shadow AI' tools caused a staggering 43% of all enterprise data breaches in 2026, up from 20% last year! Meanwhile, prediction market giant Kalshi raised $1 billion at a jaw-dropping $40 billion valuation—nearly doubling in five months—even while fighting criminal gambling charges in Utah. On the flip side of this AI boom, we are seeing a real labor shift. Zoho's founder Sridhar Vembu warned today that one smart person with AI can now do the work of ten, right as new Clearinghouse data showed US undergraduate Computer Science enrollment plunged over 12% this fall alongside a 20% drop in young dev jobs.",
+    "raw_text": "If you want to see where the smart money is flowing in tech right now, today's venture capital numbers tell the whole story. First, cloud and AI security platform Upwind just locked in a massive $400 million Series C led by Bessemer Venture Partners, pushing their total funding past $800 million to deploy autonomous Red, Blue, and Green security agents. Why are investors throwing cash at AI security? Because a new report from ProHance today revealed that unauthorized employee 'Shadow AI' tools caused a staggering 43% of all enterprise data breaches in 2026, up from 20% last year! Meanwhile, prediction market giant Kalshi raised $1 billion at a jaw-dropping $40 billion valuation\u2014nearly doubling in five months\u2014even while fighting criminal gambling charges in Utah. On the flip side of this AI boom, we are seeing a real labor shift. Zoho's founder Sridhar Vembu warned today that one smart person with AI can now do the work of ten, right as new Clearinghouse data showed US undergraduate Computer Science enrollment plunged over 12% this fall alongside a 20% drop in young dev jobs.",
     "id": "VCUPWKAL26",
     "category": "Business",
     "companies": [
@@ -312,7 +338,9 @@
       "Sridhar Vembu",
       "Elizabeth Rembert"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/VCUPWKAL26.png",
+    "image_prompt": "Photorealistic newsroom-style composite: sleek fintech trading floor with glowing market charts, adjacent to AI cybersecurity lab with autonomous drone-like agents and shield holograms; ominous data breach visuals fading into dark. Split-scene mood, realistic lighting, ultra-detailed, no text."
   },
   {
     "date": "2026-10-29",
@@ -321,7 +349,7 @@
     "title": "Epic Games Admits AI Wrote Unreal Engine 6 Code in Just 1 Week!",
     "summary": "Epic Games officially confirmed that internal AI coding agents are writing production C++ code for Unreal Engine 6 and Fortnite, completing a complex Direct3D 12 rendering rewrite in one week instead of six. Concurrently, Sony Group Corporation launched its global Onchain Entertainment Incubation Program built on its Soneium blockchain across six media and gaming verticals.",
     "engagement": "High",
-    "raw_text": "Remember last year when Epic Games CEO Tim Sweeney wasn't hyped on AI coding tools? Well, talk about a massive U-turn! Epic Games just officially confirmed that following Sweeney's 'maximum AI acceleration' pivot earlier this month, autonomous coding agents—reportedly Claude Code and OpenAI Codex—are now writing core production C++ code for Unreal Engine 6 and Fortnite! Here's the wild part: UE6 development lead Marcus Wassmer revealed that AI agents rewrote a huge chunk of Unreal Engine's low-level Direct3D 12 graphics rendering layer in just one single week. Normally, that takes a senior graphics engineer three to six weeks of grueling work! Even better, the AI squashed decade-old asset-cooking bugs and is now generating automated crash fixes in Fortnite, plus Epic opened up a new MCP server so game studios can plug their own AI agents directly into Unreal. Meanwhile, on the other side of gaming, Sony just kicked off its global Onchain Entertainment Incubation Program on its Soneium blockchain to fund new games, XR, and media projects. Game development is changing at warp speed!",
+    "raw_text": "Remember last year when Epic Games CEO Tim Sweeney wasn't hyped on AI coding tools? Well, talk about a massive U-turn! Epic Games just officially confirmed that following Sweeney's 'maximum AI acceleration' pivot earlier this month, autonomous coding agents\u2014reportedly Claude Code and OpenAI Codex\u2014are now writing core production C++ code for Unreal Engine 6 and Fortnite! Here's the wild part: UE6 development lead Marcus Wassmer revealed that AI agents rewrote a huge chunk of Unreal Engine's low-level Direct3D 12 graphics rendering layer in just one single week. Normally, that takes a senior graphics engineer three to six weeks of grueling work! Even better, the AI squashed decade-old asset-cooking bugs and is now generating automated crash fixes in Fortnite, plus Epic opened up a new MCP server so game studios can plug their own AI agents directly into Unreal. Meanwhile, on the other side of gaming, Sony just kicked off its global Onchain Entertainment Incubation Program on its Soneium blockchain to fund new games, XR, and media projects. Game development is changing at warp speed!",
     "id": "EPICUE6AI1",
     "category": "AI",
     "companies": [
@@ -334,7 +362,9 @@
       "Tim Sweeney",
       "Marcus Wassmer"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/EPICUE6AI1.png",
+    "image_prompt": "Split-screen newsroom photo: sleek Epic/Unreal-like studio with neon-blue render grids and floating code-like particles beside a realistic D3D12 GPU diagram; stern engineers with laptops, subtle AI hologram. Background: futuristic game console and blockchain nodes over dim Sony-style branding colors. Dramatic, realistic lighting."
   },
   {
     "date": "2026-10-28",
@@ -362,6 +392,8 @@
       "Josh Butler",
       "Rowan Davies"
     ],
-    "created_at": "2026-10-29T22:32:00+05:30"
+    "created_at": "2026-10-29T22:32:00+05:30",
+    "image_url": "images/29_10_26/AUSBANDEL6.png",
+    "image_prompt": "Split-scene news photo: left, solemn Australian Parliament exterior under gray skies, a child silhouette with a blurred chat-bot glow and red warning light; right, Delaware courthouse at dusk with sleek holographic \u201cAI corporation\u201d network orbiting. Realistic, high contrast, cinematic, no text."
   }
 ]
