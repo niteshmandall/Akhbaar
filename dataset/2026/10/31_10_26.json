@@ -1,0 +1,279 @@
+[
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 8,
+    "title": "Scientists Trained an AI Video Model Using LIVING Brain Cells!",
+    "summary": "San Francisco startup The Biological Computing Co. launched mischief 1, the first publicly available image-to-video model optimized using laboratory recordings of living biological neurons. Running as a lightweight software adapter over Wan 2.2 on standard GPUs, the company claims it delivers matching visual quality 5x faster and at an 80% lower compute cost.",
+    "engagement": "High",
+    "raw_text": "So check this out, because we have officially entered sci-fi territory. A startup in San Francisco called The Biological Computing Co. just dropped a new image-to-video model called mischief 1. And here's the wild part: they didn't just train it on regular computer chips. They actually grew between 100,000 and 500,000 living neurons on high-density electrode arrays in a lab, stimulated them with electrical signals from videos, and recorded how those living brain cells fired! Then, they translated those biological visual tracking rules into a tiny digital software adapter that sits on top of the open-weight Wan 2.2 video model. Honestly, this is huge if their numbers hold up. Because it runs on normal digital GPUs, we don't need wetware at home, and they claim it runs at least five times faster and slashes compute costs by 80 percent! You can generate a five-second 720p clip for just five cents. Now, I have to be real with you guys—independent reviewers are pointing out that these benchmarks are self-reported right now, so we need to test this ourselves. Still, using real living brain cells to make AI way cheaper is completely mind-blowing!",
+    "id": "TBC928MS1A",
+    "category": "AI",
+    "companies": [
+      "The Biological Computing Co.",
+      "Wonder Studios",
+      "fal",
+      "OpenRouter",
+      "AWS"
+    ],
+    "people": [
+      "Alex Ksendzovsky",
+      "Jon Pomeraniec",
+      "Justin Hackney"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-29",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 9,
+    "title": "Canva Brush Is Here: The AI That Actually Understands Layers!",
+    "summary": "Canva Research unveiled Canva Brush, a proprietary post-trained vision-language model designed for iterative, layer-aware graphic design editing across presentations and layouts. Rolling out to Canva Pro subscribers, the model completes design tasks up to 69% faster and at a 46% lower computational cost than Canva's previous design agent.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge for anyone who makes thumbnails, pitch decks, or social media graphics. We have all used AI image generators that spit out a flat JPEG where you can't even fix a typo or move a button. Well, Canva's 160-person AI research lab just solved that with Canva Brush. So check this out: instead of generating a flat raster image, Canva Brush is a vision-language model that actually looks at your design's underlying structure—the typography, the layers, the color palettes, and the margins. You can just type a natural language prompt, and it will edit a single line of text or reformat every single slide in your presentation deck while keeping every element 100 percent editable! Here's the wild part about how it works behind the scenes: it uses an agentic loop where it writes and executes code to move things around, visually inspects the page to make sure it didn't wreck the layout, and fixes it on the fly. Plus, it's up to 69 percent faster than their old agent. If you have Canva Pro, I definitely think this is going to save us hours of tedious layout tweaking.",
+    "id": "CNV741BR9B",
+    "category": "AI",
+    "companies": [
+      "Canva"
+    ],
+    "people": [],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-29",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 13,
+    "title": "Forget Prompting! This New AI Reads Your Brainwaves to Generate Art",
+    "summary": "Wearable brain-computer interface startup Sabi introduced Reinforcement Learning with Neural Feedback (RLNF), a post-training technique that steers generative AI models using passive EEG brain signals and eye tracking. Tested on the FLUX.2 Klein 4B image model, the system customized facial generation to match individual user aesthetics without manual clicks or labels.",
+    "engagement": "High",
+    "raw_text": "So check this out—what if you didn't even have to click thumbs-up or type a massive prompt to get an AI to learn your exact taste? A brain-computer interface startup called Sabi just introduced something they call Reinforcement Learning with Neural Feedback, or RLNF. Instead of making humans click preference buttons to train an AI, they strapped EEG brain monitors and eye trackers onto five test participants while they passively looked at 420 different anchor faces. Here's the wild part: Sabi's system decoded their unconscious brain signals—specifically posterior alpha suppression between 8 and 13 Hertz—to figure out which facial traits sparked an arousal or aesthetic reward response in their brains. Then, they fed those brain scores straight into a LoRA adapter on top of the FLUX.2 Klein 4B image generator! Without the users ever typing a word or clicking a single rating, the AI automatically shifted its image generation toward the exact facial structures each individual person subconsciously liked. Honestly, this is equal parts fascinating and a little creepy. We don't have pricing on Sabi's wearable hardware yet, but brain-steered AI is officially a real thing!",
+    "id": "SAB302RL4C",
+    "category": "AI",
+    "companies": [
+      "Sabi"
+    ],
+    "people": [
+      "Ashutosh Shrivastava"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 13,
+    "title": "Mistral Drops a 1-TRILLION Parameter Open Model ('Le Chonk') & Voice AI Heats Up!",
+    "summary": "Mistral AI released open weights for Mistral Large 4 (codenamed Le Chonk), a natively multimodal 1.05-trillion-parameter Mixture-of-Experts model featuring a 1-million-token context window. Simultaneously, voice startup Phonic raised a $27.5 million Series A alongside launching its full-duplex Phonic-1 voice model, and ElevenLabs released its SFX v3 sound-effects generator.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge for the open-source AI community. Mistral AI just dropped the downloadable open weights for Mistral Large 4, and I love that they actually nicknamed it 'Le Chonk'. Why? Because this beast is a natively multimodal 1.05-trillion-parameter Mixture-of-Experts model with a massive 1-million-token context window! You can self-host it, fine-tune it, and toggle between Low, Medium, and High reasoning effort modes. It already ranks number one among open-weight coding models on Cognition Frontier Code 2.0. And that's not even the only massive audio and foundation drop we got this week. So check this out: a voice AI startup called Phonic just raised 27.5 million dollars and launched Phonic-1, a full-duplex speech-to-speech model that speaks over 50 languages and executes database tool calls right in the middle of a sentence without awkward pauses. Plus, for my fellow creators, ElevenLabs just rolled out SFX v3! Here's the wild part: you can give it multi-step sound prompts—like a crowd cheering, then a ball dropping, then the crowd booing—and it generates the whole sequence in order without us having to splice audio on a timeline!",
+    "id": "MST883LC5D",
+    "category": "AI",
+    "companies": [
+      "Mistral AI",
+      "Phonic",
+      "First Round Capital",
+      "Lux Capital",
+      "Felicis",
+      "Definition",
+      "ElevenLabs"
+    ],
+    "people": [],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-31",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 14,
+    "title": "Why Coding Agents Are Broken—And How Factory Droid 1.0 & Vercel Just Fixed Them!",
+    "summary": "Developer tooling firm Factory launched Factory Droid 1.0, a model-independent coding agent harness that uses sandboxed JavaScript Script Mode to achieve a 65.2% pass rate on Terminal-Bench 4 while outperforming Cursor and Devin. Meanwhile, Vercel Labs open-sourced agent-desktop v1.0.2, replacing heavy screenshot vision parsing with OS accessibility-tree traversal to cut token usage by up to 96%.",
+    "engagement": "Medium",
+    "raw_text": "If you build with coding agents or computer-use AI, we need to talk about how much money we are wasting on context bloat. Right now, standard agents pass every single tool output and screenshot back into the LLM, burning millions of tokens. Well, two massive releases just fixed this. First, Factory launched Droid 1.0, and instead of doing slow back-and-forth chat tool calls, it uses 'Script Mode'. The AI writes a sandboxed JavaScript program that fires off hundreds of concurrent tool calls and only sends the final printed summary back to the model. In one test, resolving 151 Linear issues took just 61,000 tokens instead of 3.1 million, beating both Cursor and Devin on Terminal-Bench 4! Second, check out what Vercel Labs just open-sourced: agent-desktop v1.0.2. Instead of taking screenshots and using slow vision models that hijack your mouse pointer, it reads the native OS accessibility tree in the background using a 3-level skeleton mode. That cuts token consumption on dense apps like Slack and VS Code by up to 96 percent. For developers, these two harnesses are absolute game-changers.",
+    "id": "FCT519DR2E",
+    "category": "AI",
+    "companies": [
+      "Factory",
+      "Vercel Labs"
+    ],
+    "people": [
+      "Asif Razzaq",
+      "Michal Sutter"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 18,
+    "title": "This Free Open-Source AI Agent Plays Your Video Games to Find Bugs!",
+    "summary": "AI gaming platform Ramen launched and open-sourced Aura Autopilot under an Apache-2.0 license, enabling real-time autonomous playtesting across Unreal Engine, Unity, and Godot. The plugin passed 7 out of 7 benchmark tasks and runs 3x faster at a lower cost than Ramen's previous verification agent.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—if you are an indie game dev or work at a studio, you know that writing code with AI has gotten super fast, but playtesting and QA is still a massive nightmare. Standard coding agents just can't handle real-time 3D game loops. That is why Ramen—the Y Combinator-backed gaming startup—just open-sourced a tool called Aura Autopilot under an Apache-2.0 license! It plugs right into Unreal Engine, Unity 6, and Godot, and it literally plays your game in real time using real keyboard and mouse inputs. Here's the cool part about how they built it: a coding agent writes a custom control harness for your specific game, and then a super-fast decision model takes over the controls to test shooters, RPGs, survival crafting, or strategy games against long-term goals. In their internal benchmarks, it passed seven out of seven test tasks and ran three times faster than their old verification system. Plus, they also rolled out natural-language character animation and a level-design agent that can block out entire cities. Game development is getting wild!",
+    "id": "RMN640AU7F",
+    "category": "AI",
+    "companies": [
+      "Ramen",
+      "Y Combinator",
+      "Makers Fund",
+      "Anthos Capital",
+      "Dune Ventures"
+    ],
+    "people": [
+      "Andy Tsen",
+      "Sam Smith"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 19,
+    "title": "Humanoid Robots Get Liquid-Cooled Joints & PUBG's Creator Enters Physical AI!",
+    "summary": "Chinese robotics leader AGIBOT unveiled its liquid-cooled AHA3 humanoid architecture, the 40-kg payload G2 Max industrial robot, the GO-3 Preview foundation model, and the 'Worken' productivity metric at AGIBOT Innovation Day 2026. Meanwhile, Krafton-backed Ludo Robotics debuted Ludi 0.2, a physical AI foundation model designed to read human gestures and social cues in shared workspaces.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge—humanoid robots are officially moving past flashy backflips in labs and getting judged on actual factory work. Check out what AGIBOT just revealed at their Innovation Day in Shanghai. Fresh off building their 20,000th robot, they dropped the third-generation AHA3 humanoid platform featuring liquid-cooled IP67 joints, alongside the G2 Max dual-arm industrial beast that can lift 40 kilograms! Here's the wild part: they also invented a new metric called 'Worken'—Effective Intelligent Work Hours—so factories can measure how much real autonomous labor a robot actually finishes compared to a human, ignoring hours where the robot is just sitting idle. And while AGIBOT is dominating the factory floor, the creators of PUBG are bringing robots into our kitchens and living rooms! Krafton's robotics subsidiary, Ludo Robotics, just unveiled their Ludi 0.2 brain model. Because they come from the gaming world, they trained Ludi 0.2 to read human body language, physical gestures, and social cues in real time so robots can work smoothly right beside us without bumping into people. The robot takeover is getting seriously smart!",
+    "id": "AGI112WK8G",
+    "category": "Hardware",
+    "companies": [
+      "AGIBOT",
+      "OpenAtom Foundation",
+      "Ludo Robotics",
+      "Krafton"
+    ],
+    "people": [
+      "Peng Zhihui",
+      "Yao Maoqing",
+      "Xiong Yan",
+      "CH Kim",
+      "Kangwook Lee"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 21,
+    "title": "ISRO's Midnight Rocket Launch Just Saved India's Sovereign GPS System!",
+    "summary": "The Indian Space Research Organisation (ISRO) successfully launched the GSLV-F18 rocket carrying the 2,232-kg NVS-03 navigation satellite from Sriharikota into Geosynchronous Transfer Orbit. The mission restores India's regional NavIC satellite constellation to the minimum four-satellite configuration required for standalone positioning services.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—just before midnight on October 30th, ISRO lit up the night sky in Sriharikota with the launch of the GSLV-F18 rocket, and this wasn't just another routine space mission. They were carrying the 2,232-kilogram NVS-03 satellite, and honestly, India's entire independent navigation network was riding on this launch. Earlier this year, Parliament revealed that aging satellites and atomic clock failures had knocked India's sovereign GPS alternative—called NavIC—down to just three working satellites. And here is the catch: you mathematically need at least four active satellites in orbit to provide standalone positioning! Without a fourth satellite, NavIC could only keep time, not track locations. Using an indigenous cryogenic upper stage, GSLV-F18 nailed the orbital injection with incredible precision, coming within just 50 meters of its target perigee of 170.36 kilometers! Now that NVS-03 is up there, NavIC is officially back to full four-satellite strength, covering India and 1,500 kilometers beyond its borders, plus adding civilian L1 frequency support so everyday phones and trackers can lock right in.",
+    "id": "ISR409NV3H",
+    "category": "Science",
+    "companies": [
+      "ISRO"
+    ],
+    "people": [
+      "V. Narayanan",
+      "Jitendra Singh"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 21,
+    "title": "Why AI Giants Are Spending Millions on 1950s Magnetic Tape Technology!",
+    "summary": "Fujifilm announced a 10 billion yen ($64 million) capital investment at its Kanagawa Factory to increase magnetic data-storage tape production capacity fivefold by fiscal year 2028. Marks Fujifilm's first tape expansion in 20 years, the ramp focuses on LTO Ultrium 10 cartridges holding up to 100 TB compressed to serve surging AI cold-archiving demand.",
+    "engagement": "Medium",
+    "raw_text": "Here's a tech plot twist I bet you didn't see coming: the hottest storage hardware for the 2026 AI boom is literally magnetic tape! That's right—Fujifilm just announced they are pouring 64 million dollars into their factory in Japan to quintuple their magnetic tape production over the next two years. This is the first time in 20 years they've expanded tape capacity! Why are massive AI data centers buying tape like crazy? Because training frontier AI models generates petabytes of raw data that companies legally and operationally have to save forever, and keeping all that cold data spinning on hard drives or SSDs is way too expensive. Check out the specs on modern tape: a single Fujifilm LTO Ultrium 10 cartridge uses hybrid barium and strontium ferrite particles to pack 40 terabytes of native data—or up to 100 terabytes compressed—into the palm of your hand, transferring at 400 megabytes per second! Plus, once you unplug a tape cartridge and put it on a shelf, it is physically air-gapped, meaning ransomware hackers can never touch it. And by LTO-14, they are targeting 365 terabytes per cartridge!",
+    "id": "FUJ556LT0I",
+    "category": "Hardware",
+    "companies": [
+      "Fujifilm",
+      "HPE",
+      "IBM",
+      "Quantum Corporation"
+    ],
+    "people": [
+      "Alfonso Maruccia",
+      "Ben Hardwidge"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-31",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 25,
+    "title": "Apple Replaces ChatGPT With Alibaba's Qwen AI for iPhones in China!",
+    "summary": "Apple and Alibaba Group partnered to integrate Alibaba's Qwen foundation model as the primary system-level AI backbone for Apple Intelligence in mainland China via iOS 27.3. Launching in developer beta on November 4 and publicly in December 2026, Qwen will power Siri queries and system-wide Writing Tools on supported iPhones.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge for the global smartphone wars. We all know Apple struggled to roll out Apple Intelligence in China because of strict local AI regulations. Well, they just dropped the ultimate solution: Apple officially partnered with Alibaba to make Alibaba's Qwen model the system-level AI brain inside iOS 27.3 for mainland China! Starting with the developer beta on November 4th and hitting everyone in December, millions of Chinese iPhone users—from the iPhone 15 Pro all the way up to the iPhone 16 series, iPhone Air, and iPhone Duo—are getting a hybrid AI setup. So check this out: Apple's own on-device models will still handle things like Photos Clean Up, Genmoji, notification summaries, and live AirPods translation. But whenever you ask Siri a complex question about a PDF, a photo, or a presentation, or use Writing Tools to draft text from scratch, your iPhone will tap straight into Alibaba's Qwen! Here's the wild part: this is the very first time a massive Western hardware giant has adopted a Chinese foundation model as its core OS backbone.",
+    "id": "APL819QW3J",
+    "category": "Mobile",
+    "companies": [
+      "Apple",
+      "Alibaba Group"
+    ],
+    "people": [
+      "Eddie Wu",
+      "Wang Xiaojie"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 26,
+    "title": "Intel Stock Crashes 28.5% in Worst Drop Since 1974 After Fab Explosion & 18A Crisis!",
+    "summary": "Intel Corporation shares plunged 28.58% to $65.76 on October 30, 2026—marking the chipmaker's worst single-day decline since 1974—after issuing weak Q4 revenue guidance of $15 billion to $16 billion. The drop followed a fatal explosion at an Intel fabrication plant in Israel costing $600 million in lost revenue, a persistent PC slowdown, and a lack of external customers for its 18A foundry node.",
+    "engagement": "Low",
+    "raw_text": "We need to talk about what just happened to Intel, because Friday was an absolute bloodbath on Wall Street. Intel's stock plunged 28.58 percent in a single day, closing at $65.76. That is their steepest single-day crash since 1974, wiping out roughly 12 billion dollars in value from the U.S. government's 10 percent stake alone. Before this, CEO Lip-Bu Tan had the stock up 150 percent earlier this year, so what went wrong? It was a triple disaster. First, Intel revealed that a tragic explosion at one of their fabrication plants in Israel killed two workers, shut down the facility, disrupted 10-nanometer chip supply, and will cost them 600 million dollars in lost revenue over two quarters. Second, global PC demand is still sluggish and won't recover until mid-2027. And third—and this is the part that really spooked semiconductor analysts—even though Intel is cranking out its cutting-edge 18A process node at high volume in Arizona, they still have zero external foundry customers signed up to buy it. Wall Street analysts literally downgraded the stock with a note titled 'Not fixed yet'.",
+    "id": "INT204CR7K",
+    "category": "Business",
+    "companies": [
+      "Intel Corporation",
+      "DA Davidson",
+      "Counterpoint Research"
+    ],
+    "people": [
+      "Lip-Bu Tan",
+      "David Zinsner",
+      "Dean Takahashi"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 27,
+    "title": "DoorDash Buys Instacart for $17 BILLION (And Exposes the Truth About AI Shopping Agents)!",
+    "summary": "DoorDash agreed to acquire grocery-delivery rival Instacart for approximately $17 billion at $65 per share, combining DoorDash's 50,000+ retail partners with Instacart's nearly 100,000 grocery stores across North America. In its simultaneous Q3 2026 earnings report, DoorDash disclosed that autonomous AI agents have placed only a few hundred orders on its platform to date.",
+    "engagement": "High",
+    "raw_text": "So check this out—your delivery apps are about to merge into a mega-monopoly, and we also just got a hilarious reality check on the AI agent hype. First, the massive corporate move: DoorDash just agreed to buy Instacart for a staggering 17 billion dollars! They are paying $65 a share, mostly in cash, to combine DoorDash's restaurant and retail empire with Instacart's 100,000 grocery stores across the US and Canada so they can go toe-to-toe with Amazon and Walmart. Even better for us users, they plan to bundle DashPass and Instacart+ into one single membership fee! Now, here's the wild part buried inside DoorDash's Q3 earnings report. For the last year, Silicon Valley developers have been swearing that autonomous computer-use AI agents are going to order all our food and groceries for us. Well, DoorDash actually checked their servers and revealed that across their entire platform, AI agents have placed only 'a few hundred orders' total! Honestly, that is a massive reality check: developers love building AI shopping bots, but normal people still just want to tap their own screens!",
+    "id": "DRD991IN4L",
+    "category": "Business",
+    "companies": [
+      "DoorDash",
+      "Instacart",
+      "Walmart",
+      "Amazon"
+    ],
+    "people": [
+      "Kirsten Korosec"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  },
+  {
+    "date": "2026-10-30",
+    "source_file": "Daily Tech and AI Briefing.pdf",
+    "page": 30,
+    "title": "North Korean Hackers Just Stole $6.3 BILLION From Binance in the Biggest Crypto Heist Ever!",
+    "summary": "North Korean state-backed hacking group TraderTraitor stole a record $6.3 billion in digital assets from cryptocurrency exchange Binance—more than four times larger than any previous crypto heist. The attackers compromised a DevOps engineer's laptop and exploited Ethereum's EIP-7702 smart contract standard to drain Binance's main Ethereum wallet, though stablecoin issuers froze nearly 40% of the funds and Binance covered all user losses.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is the wildest cybersecurity story of the decade. North Korean hackers just pulled off the biggest cryptocurrency heist in human history, stealing an unbelievable 6.3 BILLION dollars from Binance! That is more than four times bigger than the previous record holder. Here's the wild part about how the TraderTraitor hacking group pulled it off: they didn't just brute-force a password. They hacked a Binance DevOps engineer's laptop, quietly rehearsed the heist for 36 hours across test wallets, and then exploited a newer Ethereum feature called EIP-7702. That standard lets a smart contract temporarily take over a wallet if it gets an authorized encrypted message—which they hijacked to bypass Binance's security approvals and drain the main Ethereum wallet completely dry! Then, their malware literally self-destructed to wipe all the forensic logs! Now, before you panic if you hold crypto on Binance, about 40 percent of the stolen haul was in stablecoins, so Circle, Tether, and Ripple immediately froze those wallets, and Binance put up over 6.34 billion dollars of its own reserves to cover every single dime of user losses.",
+    "id": "BIN630NK8M",
+    "category": "Business",
+    "companies": [
+      "Binance",
+      "TRM Labs",
+      "Circle Internet Group",
+      "Ripple Labs",
+      "Tether",
+      "Coinbase",
+      "Strategy",
+      "Robinhood"
+    ],
+    "people": [
+      "Maria Deutscher"
+    ],
+    "created_at": "2026-11-01T09:53:00Z"
+  }
+]
