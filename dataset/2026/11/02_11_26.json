@@ -3,10 +3,10 @@
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 9,
-    "title": "How Truecaller Is Blocking Call Centers—And Why AI Bots Are Outsmarting It!",
+    "title": "How Truecaller Is Blocking Call Centers\u2014And Why AI Bots Are Outsmarting It!",
     "summary": "According to SquadStack's 2026 operational study across 5 million daily calls in India, AI voice agents are outperforming human telecallers by automatically rotating outbound numbers flagged as spam on Truecaller. Operating within strict TRAI calling windows of 9:30 AM to 8:30 PM, the AI system doubled lead connectivity from the 40%-60% human norm up to 90%.",
     "engagement": "High",
-    "raw_text": "If you live in India, you probably use Truecaller every single day to dodge annoying spam calls. Well, so check this out, because AI telecalling bots just figured out how to beat the system, and the numbers are wild. In SquadStack's new 2026 study tracking over 50 lakh daily outbound calls across India, they revealed the real reason human call centers are losing to AI. Normally, when a human telecaller dials out all day from the same line, Truecaller flags the number as spam, nobody picks up, and connectivity drops to 40 or 60%. Here's the wild part: SquadStack's AI voice system automatically detects when an outbound phone number gets flagged as spam on Truecaller and rotates it out on the fly. While strictly obeying TRAI calling windows between 9:30 AM and 8:30 PM and spacing out up to 5 retry attempts by 180 minutes, the AI hit an insane 90% connectivity rate. Honestly, this is huge—our spam filters are about to enter an all-out war with autonomous AI dialers!",
+    "raw_text": "If you live in India, you probably use Truecaller every single day to dodge annoying spam calls. Well, so check this out, because AI telecalling bots just figured out how to beat the system, and the numbers are wild. In SquadStack's new 2026 study tracking over 50 lakh daily outbound calls across India, they revealed the real reason human call centers are losing to AI. Normally, when a human telecaller dials out all day from the same line, Truecaller flags the number as spam, nobody picks up, and connectivity drops to 40 or 60%. Here's the wild part: SquadStack's AI voice system automatically detects when an outbound phone number gets flagged as spam on Truecaller and rotates it out on the fly. While strictly obeying TRAI calling windows between 9:30 AM and 8:30 PM and spacing out up to 5 retry attempts by 180 minutes, the AI hit an insane 90% connectivity rate. Honestly, this is huge\u2014our spam filters are about to enter an all-out war with autonomous AI dialers!",
     "id": "TRUCLAI9019",
     "category": "Mobile",
     "companies": [
@@ -17,7 +17,9 @@
     "people": [
       "Apurv Agrawal"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/TRUCLAI9019.png",
+    "image_prompt": "Cinematic news photo: modern AI call center hub in India at dusk, glowing server racks, robotic voice-agent screens, analysts watching dashboards, abstract phone UI silhouettes blocking spam calls, subtle waveform visuals, operators in background, realistic lighting, high detail, neutral news mood, no text."
   },
   {
     "date": "2026-11-02",
@@ -26,7 +28,7 @@
     "title": "Quick-Commerce & Delivery Giants Are Using Voice AI to Hire Riders 4x Cheaper!",
     "summary": "Major Indian logistics and e-commerce companies including Delhivery, redBus, IndiaMART, and WheelsEye have deployed multilingual Arth speech AI agents for high-volume recruiting and customer conversions. Delhivery reduced its rider cost-per-hire by 4x, while quick-commerce platforms cut rider hiring costs by 40%.",
     "engagement": "Medium",
-    "raw_text": "Ever wonder how quick-commerce apps and delivery giants onboard tens of thousands of delivery riders so fast without going broke on HR costs? So check this out: according to newly released 2026 campaign benchmarks in India, companies like Delhivery, redBus, IndiaMART, and WheelsEye are using an AI speech model called Arth to run their recruiting and customer outreach on autopilot. Because this model was trained on 600 million minutes of Indian phone audio, it chats with delivery drivers and small business owners in Hindi, Tamil, Telugu, Marathi, Bengali, and even Hinglish without sounding like a clunky robot. Here's the wild part: by using AI agents to screen and onboard logistics riders, Delhivery slashed its cost-per-hire by four times—that is a 75% cost reduction! Quick-commerce companies cut rider hiring costs by 40%, and IndiaMART boosted conversions by 20% across 1 lakh daily calls. Honestly, if you apply for a delivery or logistics job in 2026, your first phone interview is almost definitely going to be with an AI.",
+    "raw_text": "Ever wonder how quick-commerce apps and delivery giants onboard tens of thousands of delivery riders so fast without going broke on HR costs? So check this out: according to newly released 2026 campaign benchmarks in India, companies like Delhivery, redBus, IndiaMART, and WheelsEye are using an AI speech model called Arth to run their recruiting and customer outreach on autopilot. Because this model was trained on 600 million minutes of Indian phone audio, it chats with delivery drivers and small business owners in Hindi, Tamil, Telugu, Marathi, Bengali, and even Hinglish without sounding like a clunky robot. Here's the wild part: by using AI agents to screen and onboard logistics riders, Delhivery slashed its cost-per-hire by four times\u2014that is a 75% cost reduction! Quick-commerce companies cut rider hiring costs by 40%, and IndiaMART boosted conversions by 20% across 1 lakh daily calls. Honestly, if you apply for a delivery or logistics job in 2026, your first phone interview is almost definitely going to be with an AI.",
     "id": "DLVRYAIHR20",
     "category": "AI",
     "companies": [
@@ -39,7 +41,9 @@
     "people": [
       "Apurv Agrawal"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/DLVRYAIHR20.png",
+    "image_prompt": "Realistic news photo: a busy Indian delivery hub at dusk, couriers with helmets and backpacks, smartphones and QR-like scanners, subtle AI/voice wave glow over workers, multilingual speech UI bokeh (no text), executives in background, sense of fast hiring, dynamic lighting, high detail, 4k."
   },
   {
     "date": "2026-11-02",
@@ -48,7 +52,7 @@
     "title": "How Engineers Shrank an AI Vision Model by 47% Without Losing Accuracy!",
     "summary": "To fit an object-detection model onto a 32MB on-die memory footprint, researchers at Tohoku University and Aisin engineered a hybrid 8-bit and 16-bit multiplication architecture with weight-sharing techniques. The compression reduced the Tiny YOLOv3 model footprint from 17.70MB to 9.36MB while maintaining a nearly identical mean average precision of 0.316 versus the 0.325 baseline.",
     "engagement": "Medium",
-    "raw_text": "If you are into AI engineering or hardware optimization, you know the eternal struggle: when you compress an AI model to fit onto a tiny chip, it usually gets way dumber. So check this out—when researchers at Tohoku University and Aisin built their new edge AI processor, they only had 32 megabytes of on-die STT-MRAM to hold both the operating system and the entire computer vision model. Normally, the uncompressed Tiny YOLOv3 object-detection model takes up 17.7 megabytes, which is way too tight once you include OS boot data. Here's the wild part: instead of sacrificing vision quality, the team built a custom hybrid 8-bit and 16-bit multiplication architecture combined with clever weight-sharing tricks. That shrank the AI model weights by 47.1%—all the way down to just 9.36 megabytes—and boosted AI inference speed by 10.2x down to 58.5 milliseconds! And the accuracy? Their detection score only dipped by 0.009 points. That is masterclass-level optimization for running smart vision on tiny microchips.",
+    "raw_text": "If you are into AI engineering or hardware optimization, you know the eternal struggle: when you compress an AI model to fit onto a tiny chip, it usually gets way dumber. So check this out\u2014when researchers at Tohoku University and Aisin built their new edge AI processor, they only had 32 megabytes of on-die STT-MRAM to hold both the operating system and the entire computer vision model. Normally, the uncompressed Tiny YOLOv3 object-detection model takes up 17.7 megabytes, which is way too tight once you include OS boot data. Here's the wild part: instead of sacrificing vision quality, the team built a custom hybrid 8-bit and 16-bit multiplication architecture combined with clever weight-sharing tricks. That shrank the AI model weights by 47.1%\u2014all the way down to just 9.36 megabytes\u2014and boosted AI inference speed by 10.2x down to 58.5 milliseconds! And the accuracy? Their detection score only dipped by 0.009 points. That is masterclass-level optimization for running smart vision on tiny microchips.",
     "id": "YOLOCMP4721",
     "category": "AI",
     "companies": [
@@ -58,7 +62,9 @@
     "people": [
       "Tetsuo Endoh"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/YOLOCMP4721.png",
+    "image_prompt": "Realistic newsroom-style photo: engineers in a clean lab surround a holographic Tiny YOLOv3 network map. A glowing circuit board shows shrinking model \u201cblobs\u201d from bulky to compact, with faint memory-chip visuals (32MB). Modern, cool lighting, crisp details, dramatic yet neutral mood, high-resolution."
   },
   {
     "date": "2026-11-02",
@@ -67,7 +73,7 @@
     "title": "'Mission Gobi': Why Tech Giants Are Building 5 Gigawatts of AI in the Desert",
     "summary": "Envision Energy's newly energized Ulanqab data center serves as the flagship facility for its broader 5-gigawatt 'Mission Gobi' desert AI infrastructure plan targeted for 2030. Controlled by the proprietary Dubhe Energy Foundation Model, the campus connects directly to renewable energy sources to offer a 10-year fixed power price lock at 20% below grid rates.",
     "engagement": "Medium",
-    "raw_text": "Why are companies suddenly building billions of dollars of supercomputers in the middle of a freezing desert? So check this out: Envision Energy has a massive master plan for 2030 called 'Mission Gobi,' where they are building 5 gigawatts of AI data center capacity right across the Gobi Desert region. Their flagship campus in Ulanqab, Inner Mongolia—which was commissioned back in August 2026—is already massive at 120,000 square meters. Here's the wild part about why desert AI is the future: in the desert, you have unlimited land for massive wind and solar farms. Envision plugged their AI campus directly into local renewable energy, supplying over 80% of the data center's electricity straight from green power. And to manage the chaotic power spikes when hundreds of thousands of GPUs kick on at once, they built their own AI—the Dubhe Energy Foundation Model—to run the power grid at millisecond speeds. Because of that, they are locking in electricity prices for 10 years at 20% cheaper than the public grid. Honestly, green desert compute makes total sense.",
+    "raw_text": "Why are companies suddenly building billions of dollars of supercomputers in the middle of a freezing desert? So check this out: Envision Energy has a massive master plan for 2030 called 'Mission Gobi,' where they are building 5 gigawatts of AI data center capacity right across the Gobi Desert region. Their flagship campus in Ulanqab, Inner Mongolia\u2014which was commissioned back in August 2026\u2014is already massive at 120,000 square meters. Here's the wild part about why desert AI is the future: in the desert, you have unlimited land for massive wind and solar farms. Envision plugged their AI campus directly into local renewable energy, supplying over 80% of the data center's electricity straight from green power. And to manage the chaotic power spikes when hundreds of thousands of GPUs kick on at once, they built their own AI\u2014the Dubhe Energy Foundation Model\u2014to run the power grid at millisecond speeds. Because of that, they are locking in electricity prices for 10 years at 20% cheaper than the public grid. Honestly, green desert compute makes total sense.",
     "id": "GOBI5GWAI22",
     "category": "Hardware",
     "companies": [
@@ -77,16 +83,18 @@
       "Kevin Huang",
       "Theo Nash"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/GOBI5GWAI22.png",
+    "image_prompt": "Ultra-realistic news photo at golden hour: a vast desert-edge data center campus with modern server halls, cooling towers, solar arrays and wind turbines, connected power lines to a distant substation, dramatic dust haze, engineers in high-vis near railings, wide aerial perspective, sharp lighting, cinematic, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 14,
     "title": "Kling 4.0 and Seedance 2.5 Are Now Powering Real Movie Sets in China!",
-    "summary": "Following a 30% production efficiency boost at its Hengdian virtual studio, iQIYI integrated nearly 30 generative video models—including Seedance 2.5 and Kling 4.0—into its NadouPro studio pipeline. The inaugural internet feature film using this live-action-to-AI workflow, 'Cop in Trouble', officially entered production on October 28, 2026.",
+    "summary": "Following a 30% production efficiency boost at its Hengdian virtual studio, iQIYI integrated nearly 30 generative video models\u2014including Seedance 2.5 and Kling 4.0\u2014into its NadouPro studio pipeline. The inaugural internet feature film using this live-action-to-AI workflow, 'Cop in Trouble', officially entered production on October 28, 2026.",
     "engagement": "High",
-    "raw_text": "We have all played around with AI video generators online, right? But what happens when you plug cutting-edge models like Kling 4.0 and Seedance 2.5 directly into a professional movie camera rig? So check this out: we just got a closer look at the exact tech stack inside iQIYI's new AI film production pipeline, and their very first full-length internet movie using it—called Cop in Trouble—officially started filming on October 28. Earlier, iQIYI tested virtual production at their Hengdian studio and saw a 30% jump in filming efficiency, so now they have gone full throttle. Here's the wild part: when the director yells 'cut' on set, the live-action video, audio, and digital continuity logs feed straight into hundreds of specialized AI production agents running Seedance 2.5 and Kling 4.0. Instead of spending millions building physical sets or waiting months for CGI artists to fix lighting and props, the AI models use the actors' real spatial movements as a blueprint and generate the rest. Honestly, this is huge—Kling 4.0 is officially graduating from social media clips to feature films!",
+    "raw_text": "We have all played around with AI video generators online, right? But what happens when you plug cutting-edge models like Kling 4.0 and Seedance 2.5 directly into a professional movie camera rig? So check this out: we just got a closer look at the exact tech stack inside iQIYI's new AI film production pipeline, and their very first full-length internet movie using it\u2014called Cop in Trouble\u2014officially started filming on October 28. Earlier, iQIYI tested virtual production at their Hengdian studio and saw a 30% jump in filming efficiency, so now they have gone full throttle. Here's the wild part: when the director yells 'cut' on set, the live-action video, audio, and digital continuity logs feed straight into hundreds of specialized AI production agents running Seedance 2.5 and Kling 4.0. Instead of spending millions building physical sets or waiting months for CGI artists to fix lighting and props, the AI models use the actors' real spatial movements as a blueprint and generate the rest. Honestly, this is huge\u2014Kling 4.0 is officially graduating from social media clips to feature films!",
     "id": "KLNG4FILM23",
     "category": "AI",
     "companies": [
@@ -95,7 +103,9 @@
     "people": [
       "Liang ZHU"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/KLNG4FILM23.png",
+    "image_prompt": "Realistic newsroom-style photo: iQIYI virtual studio in China, expansive LED volume with live-action film set, holographic AI \u201clight fields\u201d over scenes, technicians in PPE adjusting generative video rigs, cinematic lighting, subtle neon reflections, dynamic production mood, ultra-detailed, high contrast, news-quality, no text."
   },
   {
     "date": "2026-11-02",
@@ -116,7 +126,9 @@
       "Amin Nasser",
       "Yazeed Al-Humied"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/ARM113BVL24.png",
+    "image_prompt": "Photorealistic newsroom-style cover image: Saudi Aramco refinery under dramatic sunrise, glowing pipelines and data streams, subtle AI circuitry overlay, suited executive silhouette with tablet, distant drones, cinematic contrast, ultra-detailed, realistic lighting, no text, 16:9."
   },
   {
     "date": "2026-11-02",
@@ -125,14 +137,16 @@
     "title": "South Korea Is Buying 10,000 GPUs to Build Its Own National Frontier AI!",
     "summary": "As part of its 2027 budget proposal, South Korea allocated 4.6 trillion won specifically to acquire a top-performing sovereign AI foundation model backed by a national provision of 10,000 GPUs. The government also unveiled a 160 trillion won Strategic Future Fund and 2.6 trillion won for embodied physical AI lines in shipbuilding and automotive factories.",
     "engagement": "Medium",
-    "raw_text": "Most countries are totally fine renting AI models from OpenAI or Google, but South Korea just said 'no thanks, we're buying our own.' So check this out: when we break down the fine print of South Korea's massive 2027 tech budget proposal, there are two separate allocations that really stand out. First, the government is setting aside 4.6 trillion won—that is over $3.4 billion USD—strictly to acquire a top-performing sovereign AI foundation model of their own, backed up by a national compute stash of 10,000 GPUs for domestic AI developers. Second, they are putting 2.6 trillion won into 'Physical AI Demonstration Projects'. What does that mean for us? They are literally funding embodied AI robots to work inside South Korea's massive shipyards, car plants, and semiconductor factories, all supported by a brand-new 160 trillion won Strategic Future Fund for youth and growth. If the National Assembly approves this budget, South Korea is going to be a sovereign AI powerhouse.",
+    "raw_text": "Most countries are totally fine renting AI models from OpenAI or Google, but South Korea just said 'no thanks, we're buying our own.' So check this out: when we break down the fine print of South Korea's massive 2027 tech budget proposal, there are two separate allocations that really stand out. First, the government is setting aside 4.6 trillion won\u2014that is over $3.4 billion USD\u2014strictly to acquire a top-performing sovereign AI foundation model of their own, backed up by a national compute stash of 10,000 GPUs for domestic AI developers. Second, they are putting 2.6 trillion won into 'Physical AI Demonstration Projects'. What does that mean for us? They are literally funding embodied AI robots to work inside South Korea's massive shipyards, car plants, and semiconductor factories, all supported by a brand-new 160 trillion won Strategic Future Fund for youth and growth. If the National Assembly approves this budget, South Korea is going to be a sovereign AI powerhouse.",
     "id": "KOR10KGPU25",
     "category": "AI",
     "companies": [],
     "people": [
       "Lee Jae Myung"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/KOR10KGPU25.png",
+    "image_prompt": "Futuristic yet realistic South Korean tech newsroom photo: dramatic skyline of Seoul at dusk, subtle neon glow, a server farm silhouette with 10,000 GPU racks, engineers in lab coats monitoring holographic AI data, cool blue lighting, cinematic depth of field, high detail, newsworthy, no text."
   },
   {
     "date": "2026-11-02",
@@ -141,7 +155,7 @@
     "title": "90% AI-Written Code and 'Re-Interview' Fears: Inside Proton's AI Shakeup!",
     "summary": "Prior to Proton CTO Bart Butler's AI software engineering manifesto, reporting by 404 Media revealed intense internal pressure among Proton engineering staff, fears over mandatory re-interviews, and claims that 90% of code is now AI-generated. Butler's subsequent memo framed rapid AI transition as necessary to survive an 'existential threat'.",
     "engagement": "High",
-    "raw_text": "Let's talk about what is actually happening behind the scenes for software developers in 2026, because the leaked details coming out of privacy giant Proton are wild. Right before Proton CTO Bart Butler published his manifesto declaring manual coding dead, an investigative report from 404 Media titled 'Manifestos, Fear, and Loser Thinking' pulled back the curtain on the company's culture. So check this out: according to that reporting, staff inside Proton have been dealing with massive pressure to adopt AI, growing fears about having to 're-interview' for their own jobs, and internal claims that a staggering 90% of code is now written by AI. Here's the wild part: when Butler dropped his memo, he didn't back down—he told engineers that moving past 'Phase 1' typing assistants is the only way to avoid an 'existential threat'. Instead of writing code, Proton engineers are now told to build reusable context files and fix test specs whenever an LLM messes up. Honestly, this is huge—the day-to-day job of a programmer is changing forever.",
+    "raw_text": "Let's talk about what is actually happening behind the scenes for software developers in 2026, because the leaked details coming out of privacy giant Proton are wild. Right before Proton CTO Bart Butler published his manifesto declaring manual coding dead, an investigative report from 404 Media titled 'Manifestos, Fear, and Loser Thinking' pulled back the curtain on the company's culture. So check this out: according to that reporting, staff inside Proton have been dealing with massive pressure to adopt AI, growing fears about having to 're-interview' for their own jobs, and internal claims that a staggering 90% of code is now written by AI. Here's the wild part: when Butler dropped his memo, he didn't back down\u2014he told engineers that moving past 'Phase 1' typing assistants is the only way to avoid an 'existential threat'. Instead of writing code, Proton engineers are now told to build reusable context files and fix test specs whenever an LLM messes up. Honestly, this is huge\u2014the day-to-day job of a programmer is changing forever.",
     "id": "PRT404FEAR26",
     "category": "AI",
     "companies": [
@@ -151,32 +165,36 @@
     "people": [
       "Bart Butler"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/PRT404FEAR26.png",
+    "image_prompt": "Realistic newsroom photo: dim office at night, Proton-style engineers in tense discussion, glow from monitors showing abstract AI circuitry, blurred memo papers, anxious expressions, cinematic lighting, shallow depth of field, moody tech atmosphere, high-resolution, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 18,
-    "title": "40% of Big US Companies Now Use AI—And One Wording Tweak Proved It!",
+    "title": "40% of Big US Companies Now Use AI\u2014And One Wording Tweak Proved It!",
     "summary": "Historical data from the U.S. Census Bureau's Business Trends and Outlook Survey shows reported AI adoption among large US firms (250+ employees) surged from 12% in September 2025 to 40% by October 2026. However, the spike began immediately after a November 17, 2025 survey update that broadened the definition of AI use from 'producing goods or services' to 'any business functions'.",
     "engagement": "Low",
-    "raw_text": "Have you ever wondered how many big American companies actually use AI every day? According to the U.S. Census Bureau's October 2026 numbers, roughly 40% of large US businesses with over 250 employees are now officially using AI, up from just 12% back in September 2025! On the surface, that looks like an insane 3x explosion in corporate AI adoption in just one year. But so check this out, because there is a massive statistical plot twist behind those numbers. Back on November 17, 2025, the Census Bureau quietly changed a single sentence on their survey. Originally, they asked companies if they used AI 'in producing goods or services'—which meant if you didn't build AI into your actual product, you said no. When they broadened the wording to ask if companies use AI 'in any business functions'—like HR, marketing, or emails—reported adoption instantly jumped to 30% by February 2026 and 40% by October. It's a huge reminder for us: always read the fine print behind viral tech charts!",
+    "raw_text": "Have you ever wondered how many big American companies actually use AI every day? According to the U.S. Census Bureau's October 2026 numbers, roughly 40% of large US businesses with over 250 employees are now officially using AI, up from just 12% back in September 2025! On the surface, that looks like an insane 3x explosion in corporate AI adoption in just one year. But so check this out, because there is a massive statistical plot twist behind those numbers. Back on November 17, 2025, the Census Bureau quietly changed a single sentence on their survey. Originally, they asked companies if they used AI 'in producing goods or services'\u2014which meant if you didn't build AI into your actual product, you said no. When they broadened the wording to ask if companies use AI 'in any business functions'\u2014like HR, marketing, or emails\u2014reported adoption instantly jumped to 30% by February 2026 and 40% by October. It's a huge reminder for us: always read the fine print behind viral tech charts!",
     "id": "USCB40ADP27",
     "category": "Business",
     "companies": [
       "U.S. Census Bureau"
     ],
     "people": [],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/USCB40ADP27.png",
+    "image_prompt": "Modern newsroom scene with a CEO silhouette viewing a holographic analytics chart rising from 12% to 40%, linked AI circuit overlays across a corporate city skyline in twilight; realistic lighting, high detail, photoreal, cinematic, news-photo style, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 12,
-    "title": "42% of Companies Just Quit Their AI Projects—Why the AI Hype Bubble Is Bursting!",
+    "title": "42% of Companies Just Quit Their AI Projects\u2014Why the AI Hype Bubble Is Bursting!",
     "summary": "S&P Global Market Intelligence data cited in SAP's November 2026 transformation report reveals that 42% of companies abandoned the majority of their AI pilot initiatives in 2025, surging from 17% in 2024. Conversely, enterprises using structured foundational cloud guidance reported a 39% reduction in impactful security breaches and 28% faster incident management.",
     "engagement": "High",
-    "raw_text": "Is the corporate AI hype bubble finally popping? Because the data we just got from S&P Global Market Intelligence is a massive wake-up call for the entire tech industry. So check this out: back in 2024, only 17% of companies gave up on their internal AI pilot projects. Fast-forward to the latest numbers cited in today's enterprise transformation report, and a staggering 42% of companies have now abandoned most of their AI initiatives before they ever reached production! That means nearly half of all businesses that jumped on the generative AI bandwagon realized their experimental science projects were burning cash and pulled the plug. Here's the wild part: the companies that actually succeeded stopped chasing flashy chatbot demos and focused on boring infrastructure fundamentals—like using AI to cut impactful security breaches by 39%, slash incident management time by 28%, and speed up feature launches by 19%. Honestly, this is huge: the era of blind AI hype is dead, and the era of ruthless ROI is officially here.",
+    "raw_text": "Is the corporate AI hype bubble finally popping? Because the data we just got from S&P Global Market Intelligence is a massive wake-up call for the entire tech industry. So check this out: back in 2024, only 17% of companies gave up on their internal AI pilot projects. Fast-forward to the latest numbers cited in today's enterprise transformation report, and a staggering 42% of companies have now abandoned most of their AI initiatives before they ever reached production! That means nearly half of all businesses that jumped on the generative AI bandwagon realized their experimental science projects were burning cash and pulled the plug. Here's the wild part: the companies that actually succeeded stopped chasing flashy chatbot demos and focused on boring infrastructure fundamentals\u2014like using AI to cut impactful security breaches by 39%, slash incident management time by 28%, and speed up feature launches by 19%. Honestly, this is huge: the era of blind AI hype is dead, and the era of ruthless ROI is officially here.",
     "id": "SP42ABNDN28",
     "category": "Business",
     "companies": [
@@ -187,6 +205,8 @@
     "people": [
       "Ville Leivo"
     ],
-    "created_at": "2026-11-02T21:24:00+05:30"
+    "created_at": "2026-11-02T21:24:00+05:30",
+    "image_url": "images/02_11_26/SP42ABNDN28.png",
+    "image_prompt": "Cinematic newsroom scene: executives in suits facing a cracked glowing AI hologram, shattered circuit-like visuals, warning icons as abstract light, data dashboards fading. Split background: chaotic \u201cAI bubble\u201d vs calm secure cloud infrastructure. Realistic, high-contrast, sharp, modern."
   }
 ]
