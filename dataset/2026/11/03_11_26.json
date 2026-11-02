@@ -4,7 +4,7 @@
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 6,
     "title": "This New AI Chip Boots in 65 Milliseconds and Uses 98% Less Power!",
-    "summary": "Researchers at Tohoku University and automotive manufacturer Aisin unveiled the world's first 16nm FinFET AI system-on-chip integrating 32MB of nonvolatile STT-MRAM directly on-die. The chip achieves an operating-system kernel startup in 65.7 milliseconds—39 times faster than conventional architectures—while consuming one-fiftieth the energy for object detection.",
+    "summary": "Researchers at Tohoku University and automotive manufacturer Aisin unveiled the world's first 16nm FinFET AI system-on-chip integrating 32MB of nonvolatile STT-MRAM directly on-die. The chip achieves an operating-system kernel startup in 65.7 milliseconds\u201439 times faster than conventional architectures\u2014while consuming one-fiftieth the energy for object detection.",
     "engagement": "High",
     "raw_text": "So check this out, because if you care about robotics, self-driving cars, or smart cameras, this hardware breakthrough from Japan is an absolute game-changer. Researchers at Tohoku University teamed up with Aisin to build the world's first 16-nanometer AI chip with 32 megabytes of nonvolatile STT-MRAM built right onto the die. Why does that matter to us? Usually, when an edge AI device wakes up, it has to waste time and battery pulling AI model weights from an external SSD into DRAM, taking over two and a half seconds just to boot the OS kernel. Here's the wild part: because this new chip stores the OS and compressed AI weights directly on the processor, it boots up in 65.7 milliseconds. That is 39 times faster than normal, and it cuts object detection energy consumption down to one-fiftieth of conventional silicon. Honestly, this is huge because it means smart cameras and autonomous robots can stay completely powered off between video frames and wake up instantaneously the exact millisecond something happens. We are looking at the death of idle battery drain in edge AI.",
     "id": "THK16MRAM01",
@@ -18,7 +18,9 @@
     "people": [
       "Tetsuo Endoh"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/THK16MRAM01.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a sleek 16nm FinFET AI chip on a transparent wafer, with subtle STT-MRAM memory blocks glowing inside. Futuristic automotive lab background with engineers, soft neon accents, dramatic lighting, shallow depth of field, high-detail, realistic, no text."
   },
   {
     "date": "2026-11-02",
@@ -27,7 +29,7 @@
     "title": "Quantum Computing Just Got 100x Faster At Fixing Its Own Mistakes",
     "summary": "Physicists from the Chinese Academy of Sciences and the Eastern Institute of Technology introduced Neural Triage Decoding, an adaptive graph neural network framework for ultra-high-rate quantum LDPC codes. Tested on blocks of roughly 1,000 physical qubits, the decoder cuts error-correction latency by 10x to 100x, achieving over 99.97% convergence at 30 milliseconds.",
     "engagement": "Medium",
-    "raw_text": "Let's talk about the biggest bottleneck keeping quantum computers from taking over the world right now: error correction. Qubits are super fragile, and fixing their errors in real time before the quantum state falls apart is a massive headache. So check this out—physicists at the Chinese Academy of Sciences and the Eastern Institute of Technology just dropped a new framework called Neural Triage Decoding. They are using ultra-high-rate qLDPC codes, which pack hundreds of logical qubits into about a thousand physical qubits. Normally, decoding the error graphs on those dense codes takes way too long using classical methods. Here's the wild part: they built a local graph neural network called NeuralMP that acts like an emergency room triage nurse. It clears out routine errors instantly and saves the heavy compute for complex error clusters. That cut decoding latency by 10 to 100 times, hitting over 99.97% convergence in about 30 milliseconds. While we still need to see if it scales past a thousand qubits, I think combining neural networks with quantum physics is how we finally hit fault tolerance.",
+    "raw_text": "Let's talk about the biggest bottleneck keeping quantum computers from taking over the world right now: error correction. Qubits are super fragile, and fixing their errors in real time before the quantum state falls apart is a massive headache. So check this out\u2014physicists at the Chinese Academy of Sciences and the Eastern Institute of Technology just dropped a new framework called Neural Triage Decoding. They are using ultra-high-rate qLDPC codes, which pack hundreds of logical qubits into about a thousand physical qubits. Normally, decoding the error graphs on those dense codes takes way too long using classical methods. Here's the wild part: they built a local graph neural network called NeuralMP that acts like an emergency room triage nurse. It clears out routine errors instantly and saves the heavy compute for complex error clusters. That cut decoding latency by 10 to 100 times, hitting over 99.97% convergence in about 30 milliseconds. While we still need to see if it scales past a thousand qubits, I think combining neural networks with quantum physics is how we finally hit fault tolerance.",
     "id": "QNT100XLD02",
     "category": "Science",
     "companies": [
@@ -42,7 +44,9 @@
       "Chen Zhao",
       "Ivy Delaney"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/QNT100XLD02.png",
+    "image_prompt": "Futuristic physics lab, close-up of a quantum chip glowing with faint blue light, surrounding cryogenic coils and holographic data graphs showing rapid self-correction, scientists in lab coats observing at monitors, cinematic lighting, high realism, shallow depth of field, crisp detail, news photo style."
   },
   {
     "date": "2026-11-02",
@@ -51,7 +55,7 @@
     "title": "IIT Roorkee's New Quantum Algorithm Solves Nuclear Physics Puzzles in One Step",
     "summary": "Researchers at IIT Roorkee developed QDMin, a 9-qubit coherent quantum search algorithm designed to identify stable ground-state shapes across nuclear deformation landscapes. By combining Grover's search with an on-demand threshold oracle, the algorithm boosted minima identification success from 25% to 92.1% in a single iteration.",
     "engagement": "Medium",
-    "raw_text": "We always hear about how quantum computers are going to revolutionize physics, and today we actually have concrete numbers to back that up from IIT Roorkee in India. Calculating the most stable energy shapes of atomic nuclei—what physicists call nuclear deformation minima—takes an absurd amount of classical computing power because you have to check every configuration exhaustively. So check this out: researchers Abhishek and P. Arumugam designed a 9-qubit algorithm called QDMin that maps nuclear deformation coordinates and wavefunctions directly onto a quantum circuit. By pairing Grover's search algorithm with a custom ground-energy threshold oracle, they jumped the probability of finding the true minimum energy state from a baseline of 25% all the way up to 92.1% in a single Grover step. Now, to be totally fair, when they expanded the test from a 1D grid to a 16-point 2D grid, circuit fidelity dropped from 99.6% down to 74.4% because of multi-qubit coherence limits. Still, for a 9-qubit simulation, I love seeing practical quantum algorithms tackling real nuclear physics problems right now.",
+    "raw_text": "We always hear about how quantum computers are going to revolutionize physics, and today we actually have concrete numbers to back that up from IIT Roorkee in India. Calculating the most stable energy shapes of atomic nuclei\u2014what physicists call nuclear deformation minima\u2014takes an absurd amount of classical computing power because you have to check every configuration exhaustively. So check this out: researchers Abhishek and P. Arumugam designed a 9-qubit algorithm called QDMin that maps nuclear deformation coordinates and wavefunctions directly onto a quantum circuit. By pairing Grover's search algorithm with a custom ground-energy threshold oracle, they jumped the probability of finding the true minimum energy state from a baseline of 25% all the way up to 92.1% in a single Grover step. Now, to be totally fair, when they expanded the test from a 1D grid to a 16-point 2D grid, circuit fidelity dropped from 99.6% down to 74.4% because of multi-qubit coherence limits. Still, for a 9-qubit simulation, I love seeing practical quantum algorithms tackling real nuclear physics problems right now.",
     "id": "IIT92QDMI03",
     "category": "Science",
     "companies": [
@@ -62,25 +66,29 @@
       "P. Arumugam",
       "Ivy Delaney"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/IIT92QDMI03.png",
+    "image_prompt": "Photorealistic news image: IIT Roorkee campus at dusk, subtle holographic quantum circuit overlay forming a 9\u2011qubit grid over a stylized nuclear landscape. Colorful light trails converge to one bright ground\u2011state \u201cminimum,\u201d scientists in lab coats watching, cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 8,
     "title": "Why This Mathematical Proof Changes What We Know About Quantum Stability",
-    "summary": "Theoretical research from Universität Tübingen mathematically proved that weak, long-range interactions preserve stable bulk energy gaps in free fermion systems via spectral flow. The study establishes quantitative bounds guaranteeing gap stability whenever polynomial decay exponents exceed twice the spatial dimension.",
+    "summary": "Theoretical research from Universit\u00e4t T\u00fcbingen mathematically proved that weak, long-range interactions preserve stable bulk energy gaps in free fermion systems via spectral flow. The study establishes quantitative bounds guaranteeing gap stability whenever polynomial decay exponents exceed twice the spatial dimension.",
     "engagement": "Low",
-    "raw_text": "Now, I know abstract quantum math isn't going to break the internet today, but if we want topological quantum computers that don't crash every two seconds, this new paper from Universität Tübingen is actually super important. For a long time, physicists assumed that weak, long-range interactions or external forces would inevitably mess up the stable energy levels—what they call the bulk energy gap—in fermion systems. Without that intact gap, topological matter loses its protection against quantum noise. So check this out: Stefan Teufel at Tübingen just proved mathematically that weak long-range interactions actually preserve those bulk gaps through a mechanism called spectral flow. Using the Majorana coefficient operator, he showed that as long as the interaction decays at a polynomial rate greater than twice the spatial dimension of the system, the ground state morphs smoothly and the energy gap stays intact. Honestly, this is pure foundational theory, so we won't see it in a consumer gadget tomorrow, but it gives hardware engineers way more breathing room when designing fault-tolerant quantum architectures.",
+    "raw_text": "Now, I know abstract quantum math isn't going to break the internet today, but if we want topological quantum computers that don't crash every two seconds, this new paper from Universit\u00e4t T\u00fcbingen is actually super important. For a long time, physicists assumed that weak, long-range interactions or external forces would inevitably mess up the stable energy levels\u2014what they call the bulk energy gap\u2014in fermion systems. Without that intact gap, topological matter loses its protection against quantum noise. So check this out: Stefan Teufel at T\u00fcbingen just proved mathematically that weak long-range interactions actually preserve those bulk gaps through a mechanism called spectral flow. Using the Majorana coefficient operator, he showed that as long as the interaction decays at a polynomial rate greater than twice the spatial dimension of the system, the ground state morphs smoothly and the energy gap stays intact. Honestly, this is pure foundational theory, so we won't see it in a consumer gadget tomorrow, but it gives hardware engineers way more breathing room when designing fault-tolerant quantum architectures.",
     "id": "TUB2DFERM04",
     "category": "Science",
     "companies": [
-      "Universität Tübingen"
+      "Universit\u00e4t T\u00fcbingen"
     ],
     "people": [
       "Stefan Teufel"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/TUB2DFERM04.png",
+    "image_prompt": "Realistic news-style illustration: abstract quantum landscape with glowing spectral bands, a stable energy gap highlighted like a clean luminous corridor, faint long-range interaction lines stretching across space, subtle spectral flow arrow arcs, cool blue-purple palette, high detail, cinematic lighting, no text."
   },
   {
     "date": "2026-11-02",
@@ -89,7 +97,7 @@
     "title": "Borrowing 1980s Chip Design Tricks to Scale Future Quantum Computers",
     "summary": "Researchers Yu-Ting Kao and Yeong-Jar Chang proposed adapting classical Very Large-Scale Integration (VLSI) register-transfer level (RTL) design and verification workflows for fault-tolerant quantum circuits. Using Monte Carlo Pi estimation as a case study, they demonstrated that optimizing classical instruction ordering alongside quantum amplitude estimation yields major circuit efficiency gains.",
     "engagement": "Low",
-    "raw_text": "Here is something most people don't realize about quantum computing: right now, we are still designing quantum circuits almost by hand at the individual gate level. That works fine when you have ten or twenty qubits, but as we scale toward huge fault-tolerant systems, manual gate optimization becomes completely impossible. So check this out—researchers Yu-Ting Kao and Yeong-Jar Chang decided to borrow a playbook from classical silicon chip manufacturing. They adapted classical VLSI register-transfer level—or RTL—design and verification workflows and applied them directly to quantum circuits. And here's the wild part: when they tested this structured workflow on a quantum Monte Carlo Pi estimation problem, they found that you don't always need a fancier quantum algorithm to get better performance. Just optimizing how classical instructions are ordered alongside quantum amplitude estimation delivered massive improvements in circuit efficiency. It's a classic engineering lesson for us: sometimes the biggest breakthroughs in futuristic tech come from applying proven, decades-old chip design discipline.",
+    "raw_text": "Here is something most people don't realize about quantum computing: right now, we are still designing quantum circuits almost by hand at the individual gate level. That works fine when you have ten or twenty qubits, but as we scale toward huge fault-tolerant systems, manual gate optimization becomes completely impossible. So check this out\u2014researchers Yu-Ting Kao and Yeong-Jar Chang decided to borrow a playbook from classical silicon chip manufacturing. They adapted classical VLSI register-transfer level\u2014or RTL\u2014design and verification workflows and applied them directly to quantum circuits. And here's the wild part: when they tested this structured workflow on a quantum Monte Carlo Pi estimation problem, they found that you don't always need a fancier quantum algorithm to get better performance. Just optimizing how classical instructions are ordered alongside quantum amplitude estimation delivered massive improvements in circuit efficiency. It's a classic engineering lesson for us: sometimes the biggest breakthroughs in futuristic tech come from applying proven, decades-old chip design discipline.",
     "id": "VLSIRTLQC05",
     "category": "Science",
     "companies": [],
@@ -98,7 +106,9 @@
       "Yeong-Jar Chang",
       "Ivy Delaney"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/VLSIRTLQC05.png",
+    "image_prompt": "Futuristic newsroom-style illustration: researchers at a workstation with glowing quantum circuit diagrams overlaying a 1980s-inspired microchip schematic background. Visualize Monte Carlo Pi and amplitude estimation with abstract light paths, data streams, and fault-tolerant error-correction nodes. High realism, crisp lighting."
   },
   {
     "date": "2026-11-02",
@@ -107,7 +117,7 @@
     "title": "5 Million Calls a Day: AI Voice Agents Are Officially Replacing Call Centers!",
     "summary": "SquadStack released a 2026 productivity study analyzing over 5 million daily outbound calls across Indian enterprise sectors using its proprietary Arth speech AI model. The study reports that AI voice agents achieved up to 90% lead connectivity and reduced cost per outcome by 2x to 3.3x compared to human telecallers.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge, and if you work in sales, customer support, or telecalling, you need to pay close attention to these numbers. SquadStack just dropped a massive 2026 study looking at over 5 million daily outbound phone calls across India in banking, e-commerce, and logistics. They pitted human telecallers against their proprietary Arth voice AI model, which was trained on over 600 million minutes of Indian phone audio. Here's the wild part: the AI speaks nine Indian languages natively and effortlessly switches into Hinglish or Taminglish mid-sentence. Because the AI doesn't get tired, takes zero breaks, and automatically rotates phone numbers when Truecaller flags them as spam, it hit 90% lead connectivity compared to just 40 to 60% for humans. Even crazier, companies like Delhivery cut their cost-per-hire by 4x, and redBus slashed their cost per outcome by up to 79%. Now, humans still win on super complex advisory calls, and this is vendor-reported data, so take it with a grain of salt—but structured human telecalling is disappearing fast.",
+    "raw_text": "Honestly, this is huge, and if you work in sales, customer support, or telecalling, you need to pay close attention to these numbers. SquadStack just dropped a massive 2026 study looking at over 5 million daily outbound phone calls across India in banking, e-commerce, and logistics. They pitted human telecallers against their proprietary Arth voice AI model, which was trained on over 600 million minutes of Indian phone audio. Here's the wild part: the AI speaks nine Indian languages natively and effortlessly switches into Hinglish or Taminglish mid-sentence. Because the AI doesn't get tired, takes zero breaks, and automatically rotates phone numbers when Truecaller flags them as spam, it hit 90% lead connectivity compared to just 40 to 60% for humans. Even crazier, companies like Delhivery cut their cost-per-hire by 4x, and redBus slashed their cost per outcome by up to 79%. Now, humans still win on super complex advisory calls, and this is vendor-reported data, so take it with a grain of salt\u2014but structured human telecalling is disappearing fast.",
     "id": "SQD5MVOIC06",
     "category": "AI",
     "companies": [
@@ -121,7 +131,9 @@
     "people": [
       "Apurv Agrawal"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/SQD5MVOIC06.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a modern call-center floor fading into a holographic AI voice interface above desk rows; Indian enterprise staff in semi-dark, AI drones/servers implied by light; split-light contrast, optimistic mood, cinematic depth of field, ultra high detail, no text."
   },
   {
     "date": "2026-11-02",
@@ -130,7 +142,7 @@
     "title": "Inside China's Massive 3-Gigawatt Desert AI Mega-Campus!",
     "summary": "Envision Energy energized the world's first commercial-scale 800-volt direct-current (800V DC) power system using solid-state transformers at its Galaxy AI data center in Ulanqab, Inner Mongolia. The green-powered campus is scaling toward 3 gigawatts of capacity to support up to one million AI accelerators in parallel.",
     "engagement": "Medium",
-    "raw_text": "We talk a lot about GPUs, but the real war in AI right now is over electricity. So check this out: Envision Energy just switched on the world's first commercial 800-volt DC power architecture at their massive Galaxy AI data center campus in Inner Mongolia, China. Normally, data centers take medium-voltage AC power from the grid and step it down through multiple messy stages, wasting huge amounts of energy and requiring tons of thick copper cables. Envision used Solid-State Transformers to convert 10-kilovolt AC directly into an 800V DC bus, paired with massive battery storage. And here's the wild part: when tens of thousands of GPUs suddenly spike their power draw at the exact same millisecond during AI training, Envision's Dubhe Energy Foundation Model balances the transformers and batteries in real time so the grid doesn't crash. They are scaling this desert mega-campus toward 3 gigawatts—enough to run one million AI chips at once—with over 80% renewable energy locked in at 20% below grid prices. That is serious infrastructure engineering.",
+    "raw_text": "We talk a lot about GPUs, but the real war in AI right now is over electricity. So check this out: Envision Energy just switched on the world's first commercial 800-volt DC power architecture at their massive Galaxy AI data center campus in Inner Mongolia, China. Normally, data centers take medium-voltage AC power from the grid and step it down through multiple messy stages, wasting huge amounts of energy and requiring tons of thick copper cables. Envision used Solid-State Transformers to convert 10-kilovolt AC directly into an 800V DC bus, paired with massive battery storage. And here's the wild part: when tens of thousands of GPUs suddenly spike their power draw at the exact same millisecond during AI training, Envision's Dubhe Energy Foundation Model balances the transformers and batteries in real time so the grid doesn't crash. They are scaling this desert mega-campus toward 3 gigawatts\u2014enough to run one million AI chips at once\u2014with over 80% renewable energy locked in at 20% below grid prices. That is serious infrastructure engineering.",
     "id": "ENV800VDC07",
     "category": "Hardware",
     "companies": [
@@ -140,7 +152,9 @@
       "Kevin Huang",
       "Theo Nash"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/ENV800VDC07.png",
+    "image_prompt": "Photorealistic aerial of a vast green-powered AI data-center mega-campus in Ulanqab, Inner Mongolia: rows of sleek cooling towers, solar farms, high-voltage substations, 800V DC power infrastructure, night-lit glow, frosty landscape, dramatic clouds, cinematic lighting, ultra-detailed, realistic news photo."
   },
   {
     "date": "2026-11-02",
@@ -171,14 +185,16 @@
       "Patrick Rundell",
       "Srini Ananth"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/SAL125MPH08.png",
+    "image_prompt": "Photoreal newsroom tech scene: sleek silicon photonics chip with glowing laser pathways, subtle circuitry reflections, and two hands shaking in the background with faint AMD/Intel-style abstract light motifs (no logos). High-contrast, modern blue/teal lighting, shallow depth of field."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 11,
     "title": "The Hidden AI Bottleneck: Gas Turbines Are Officially Sold Out Until 2030!",
-    "summary": "Mitsubishi Heavy Industries and subsidiary Mitsubishi Power Americas are investing $490 million to double the size of their Savannah Machinery Works gas turbine plant in Pooler, Georgia. Driven by surging AI data center power demand, the company's global large-frame gas turbine backlog has reached 35 gigawatts, with deliveries booked until 2028–2030.",
+    "summary": "Mitsubishi Heavy Industries and subsidiary Mitsubishi Power Americas are investing $490 million to double the size of their Savannah Machinery Works gas turbine plant in Pooler, Georgia. Driven by surging AI data center power demand, the company's global large-frame gas turbine backlog has reached 35 gigawatts, with deliveries booked until 2028\u20132030.",
     "engagement": "Medium",
     "raw_text": "Everyone thinks the biggest bottleneck in AI is getting enough GPUs, but I'm telling you right now, the real bottleneck is heavy industrial machinery. Because local electric grids take forever to upgrade, big tech companies are building their own natural gas power plants right next to their AI data centers. So check this out: Mitsubishi Heavy Industries just announced a $490 million expansion to double the size of their gas turbine factory in Georgia. Why? Because US demand for heavy-duty gas turbines exploded from 6.1 gigawatts in 2020 to nearly 40 gigawatts recently, and Mitsubishi's global backlog is now sitting at an insane 35 gigawatts. Here's the wild part: if you are an AI company ordering a gas turbine today, Mitsubishi says you won't get it until 2028 to 2030, and their CFO admitted they are actually turning down orders and being super picky about new contracts. You can buy all the AI chips you want, folks, but without turbines to spin up the electricity, those servers aren't turning on.",
     "id": "MHI490MGT09",
@@ -191,7 +207,9 @@
       "Brian Kemp",
       "Hiroshi Nishio"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/MHI490MGT09.png",
+    "image_prompt": "Ultra-realistic news photo: vast industrial gas turbine plant at Savannah, Georgia, twin steam stacks and cranes, workers in safety vests, large turbine modules being prepared, golden dawn haze, dramatic sky, crisp detail, cinematic lighting, shallow depth of field, conveying AI-driven energy demand, no text."
   },
   {
     "date": "2026-11-02",
@@ -200,7 +218,7 @@
     "title": "HCLTech Just Put Autonomous AI Agents Inside Legacy Mainframe Computers",
     "summary": "Global IT services provider HCLTech launched AI-Powered Operations for mission-critical mainframe environments. The platform combines specialized mainframe skill agents and conversational AI assistants under human oversight to automate observability, system administration, and proactive troubleshooting.",
     "engagement": "Low",
-    "raw_text": "Let's take a quick look at what is happening in the deep enterprise world, because legacy banking and airline systems still run on giant mainframes, and finding engineers who know how to maintain them is getting harder every year. So check this out: global IT giant HCLTech just rolled out a new solution called AI-Powered Operations specifically built for mission-critical mainframes. Instead of ripping and replacing these massive legacy systems—which nobody wants to risk because a single outage can crash a bank—HCLTech is embedding specialized AI skill agents and conversational assistants right on top of the mainframe architecture. Here's how it works for IT teams: the AI agents constantly monitor observability data to catch glitches before they cause downtime, and human administrators oversee the agents as they optimize workloads and handle routine system admin tasks. Look, it is definitely a niche B2B enterprise play, so it's not going to trend on TikTok, but bringing agentic AI into old-school mainframes is a very smart, practical move for big business.",
+    "raw_text": "Let's take a quick look at what is happening in the deep enterprise world, because legacy banking and airline systems still run on giant mainframes, and finding engineers who know how to maintain them is getting harder every year. So check this out: global IT giant HCLTech just rolled out a new solution called AI-Powered Operations specifically built for mission-critical mainframes. Instead of ripping and replacing these massive legacy systems\u2014which nobody wants to risk because a single outage can crash a bank\u2014HCLTech is embedding specialized AI skill agents and conversational assistants right on top of the mainframe architecture. Here's how it works for IT teams: the AI agents constantly monitor observability data to catch glitches before they cause downtime, and human administrators oversee the agents as they optimize workloads and handle routine system admin tasks. Look, it is definitely a niche B2B enterprise play, so it's not going to trend on TikTok, but bringing agentic AI into old-school mainframes is a very smart, practical move for big business.",
     "id": "HCLMAINAI10",
     "category": "Business",
     "companies": [
@@ -210,16 +228,18 @@
       "Rampal Singh",
       "Raghu Kidambi"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/HCLMAINAI10.png",
+    "image_prompt": "Realistic newsroom-tech photo: a modern data center with glowing mainframe silhouettes, subtle AI holographic overlays of autonomous agents, engineers in the foreground supervising via tablet, warm blue lighting, cinematic depth of field, high detail, no text, newsworthy, natural colors."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 13,
-    "title": "95% of Corporate AI Projects Make Zero Money—Here Is Why!",
+    "title": "95% of Corporate AI Projects Make Zero Money\u2014Here Is Why!",
     "summary": "SAP SE expanded its top-tier 'Max Success Plan' AI transformation guidance across its partner channels, pairing custom AI prototyping with dedicated advisory managers. The launch highlights third-party research from MIT and RAND showing that 80% of unguided enterprise AI projects fail and 95% generate zero measurable P&L return, whereas partner-guided deployments double success rates.",
     "engagement": "Low",
-    "raw_text": "Honestly, if you feel like your company is slapping AI onto everything without actually making a dime from it, you are not crazy—the data just proved you right. Today, enterprise giant SAP expanded its top-tier 'Max Success Plan' AI consulting service to its global partner channels, and to justify why companies need outside help, they dropped some brutal industry stats. So check this out: according to an MIT report cited by SAP, a whopping 95% of organizations investing in generative AI see zero measurable profit-and-loss return. Even worse, RAND found that 80% of AI projects fail completely, and S&P data shows 42% of companies straight-up abandoned most of their AI pilots recently. Here's the wild part, though: MIT found that when companies stop trying to wing it internally and bring in an experienced external partner, their deployment success rate doubles from 33% to 66%. SAP says their guided Max Success Plan hits a 521% three-year ROI. Moral of the story? Throwing chatbots at employees without a strategy is dead.",
+    "raw_text": "Honestly, if you feel like your company is slapping AI onto everything without actually making a dime from it, you are not crazy\u2014the data just proved you right. Today, enterprise giant SAP expanded its top-tier 'Max Success Plan' AI consulting service to its global partner channels, and to justify why companies need outside help, they dropped some brutal industry stats. So check this out: according to an MIT report cited by SAP, a whopping 95% of organizations investing in generative AI see zero measurable profit-and-loss return. Even worse, RAND found that 80% of AI projects fail completely, and S&P data shows 42% of companies straight-up abandoned most of their AI pilots recently. Here's the wild part, though: MIT found that when companies stop trying to wing it internally and bring in an experienced external partner, their deployment success rate doubles from 33% to 66%. SAP says their guided Max Success Plan hits a 521% three-year ROI. Moral of the story? Throwing chatbots at employees without a strategy is dead.",
     "id": "SAP95FAIL11",
     "category": "Business",
     "companies": [
@@ -234,16 +254,18 @@
       "Thomas Saueressig",
       "Karl Fahrbach"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/SAP95FAIL11.png",
+    "image_prompt": "Realistic newsroom photo, split-scene: left dim corporate boardroom with frustrated managers; right bright tech hub with an AI hologram, partnership handshake, and executives reviewing dashboards, warm optimistic lighting, subtle MIT/RAND-style research vibe, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 14,
-    "title": "China Just Opened Its First AI Movie Studio—And It Uses 30 AI Models at Once!",
+    "title": "China Just Opened Its First AI Movie Studio\u2014And It Uses 30 AI Models at Once!",
     "summary": "Chinese entertainment platform iQIYI opened China's first AI Film Studio at its Shanghai Creative Center, integrating a 110-square-meter live-action stage directly with its NadouPro AI post-production pipeline. Using nearly 30 video AI models including Kling 4.0 and Seedance 2.5, directors can dynamically alter sets, lighting, and costumes while preserving real human performances.",
     "engagement": "High",
-    "raw_text": "Filmmaking is changing right in front of our eyes, and what iQIYI just built in Shanghai looks like something straight out of sci-fi. So check this out: iQIYI—basically one of China's biggest streaming giants—just opened China's first official AI Film Studio, and their first movie, Cop in Trouble, is already filming inside it. Now, before we panic about fake AI actors taking over cinema, here is how they are actually doing it: they put real human actors on a tiny 110-square-meter stage surrounded by multi-camera arrays. The cameras capture the real human performances and automatically sync every frame directly into their NadouPro AI platform. Here's the wild part: once that footage hits NadouPro, the director gets access to nearly 30 different video AI models—including Kling 4.0 and Seedance 2.5—plus hundreds of AI agents that can completely rewrite the background sets, change the lighting, or swap out the actors' costumes and props in post-production. Honestly, this is huge for indie directors who want blockbuster visuals on a shoestring budget.",
+    "raw_text": "Filmmaking is changing right in front of our eyes, and what iQIYI just built in Shanghai looks like something straight out of sci-fi. So check this out: iQIYI\u2014basically one of China's biggest streaming giants\u2014just opened China's first official AI Film Studio, and their first movie, Cop in Trouble, is already filming inside it. Now, before we panic about fake AI actors taking over cinema, here is how they are actually doing it: they put real human actors on a tiny 110-square-meter stage surrounded by multi-camera arrays. The cameras capture the real human performances and automatically sync every frame directly into their NadouPro AI platform. Here's the wild part: once that footage hits NadouPro, the director gets access to nearly 30 different video AI models\u2014including Kling 4.0 and Seedance 2.5\u2014plus hundreds of AI agents that can completely rewrite the background sets, change the lighting, or swap out the actors' costumes and props in post-production. Honestly, this is huge for indie directors who want blockbuster visuals on a shoestring budget.",
     "id": "IQYAIFILM12",
     "category": "AI",
     "companies": [
@@ -252,7 +274,9 @@
     "people": [
       "Liang ZHU"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/IQYAIFILM12.png",
+    "image_prompt": "Realistic news photo of iQIYI\u2019s first AI film studio in Shanghai: wide 110\u33a1 live-action stage, cinematic LED walls, cool/amber lighting, directors and engineers in motion-capture suits reviewing holographic AI controls, large screens showing abstract model thumbnails, subtle robots/rigs, modern creative center interior, crisp details, dramatic newsroom mood, no text."
   },
   {
     "date": "2026-11-02",
@@ -273,23 +297,27 @@
       "Amin Nasser",
       "Yazeed Al-Humied"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/ARM26BHUM13.png",
+    "image_prompt": "Photorealistic newsroom scene: sleek glass boardroom at dusk, Saudi Aramco and PIF executives silhouetted, glowing AI data-center hologram and server racks through window, golden desert horizon, corporate deal atmosphere, cinematic lighting, ultra-detailed, high contrast, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 16,
     "title": "South Korea Goes All-In: $16 Billion Pledged for AI, Chips, and Robots!",
-    "summary": "South Korean President Lee Jae Myung proposed a record 2027 national budget featuring a 21.3 trillion won ($15.97 billion) allocation for AI, semiconductors, and data centers—a 97.2% increase over 2026 levels. Funded by surging memory chip tax revenues, the plan includes billions for physical AI robotics and acquiring a sovereign frontier AI model.",
+    "summary": "South Korean President Lee Jae Myung proposed a record 2027 national budget featuring a 21.3 trillion won ($15.97 billion) allocation for AI, semiconductors, and data centers\u2014a 97.2% increase over 2026 levels. Funded by surging memory chip tax revenues, the plan includes billions for physical AI robotics and acquiring a sovereign frontier AI model.",
     "engagement": "Medium",
-    "raw_text": "South Korea just looked at the global AI race and decided to double down in the biggest way possible. So check this out: because global demand for AI memory chips has been printing money for Korean chipmakers, the South Korean government is sitting on a massive corporate tax windfall. Today, President Lee Jae Myung stood before the National Assembly and pitched a record 2027 budget that pours 21.3 trillion won—that is nearly $16 billion USD—straight back into AI, semiconductors, and domestic data centers. That is a 97.2% budget jump in a single year! And here's the wild part: they aren't just funding software. They are setting aside trillions of won specifically for 'Physical AI'—putting embodied AI robots directly onto Korean factory floors in shipbuilding, cars, and electronics—plus buying 10,000 GPUs and spending 4.6 trillion won to secure their own sovereign frontier AI model. Using tax profits from the AI chip boom to fund the next generation of physical robotics is honestly a genius national flywheel.",
+    "raw_text": "South Korea just looked at the global AI race and decided to double down in the biggest way possible. So check this out: because global demand for AI memory chips has been printing money for Korean chipmakers, the South Korean government is sitting on a massive corporate tax windfall. Today, President Lee Jae Myung stood before the National Assembly and pitched a record 2027 budget that pours 21.3 trillion won\u2014that is nearly $16 billion USD\u2014straight back into AI, semiconductors, and domestic data centers. That is a 97.2% budget jump in a single year! And here's the wild part: they aren't just funding software. They are setting aside trillions of won specifically for 'Physical AI'\u2014putting embodied AI robots directly onto Korean factory floors in shipbuilding, cars, and electronics\u2014plus buying 10,000 GPUs and spending 4.6 trillion won to secure their own sovereign frontier AI model. Using tax profits from the AI chip boom to fund the next generation of physical robotics is honestly a genius national flywheel.",
     "id": "KOR16BAIB14",
     "category": "Business",
     "companies": [],
     "people": [
       "Lee Jae Myung"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/KOR16BAIB14.png",
+    "image_prompt": "Ultra-realistic news photo, South Korean Seoul at dusk with glowing data centers, sleek semiconductor fabs, and subtle humanoid robots in the foreground; modern presidential skyline mood, cinematic lighting, depth of field, crisp details, accurate reflections, 8k, no text, no logos."
   },
   {
     "date": "2026-11-02",
@@ -298,7 +326,7 @@
     "title": "This Startup Just Raised $100M to Teach Humanoid Robots How to Move Like Us!",
     "summary": "Beijing-based robotics data startup GenRobot AI secured $100 million in Series A+ funding backed by SAIC Motor, Baidu, and Galaxy General Robotics. The company builds specialized wearable motion-capture rigs and the Matrix software platform to record and label human physical movements for training embodied AI robots.",
     "engagement": "High",
-    "raw_text": "If you have ever wondered why ChatGPT can write a whole novel in seconds, yet a humanoid robot still struggles to fold your laundry without malfunctioning, the answer is simple: data. Large language models had the entire internet to read, but robots don't have an 'internet' of physical human movement to learn from. So check this out: a Beijing startup called GenRobot AI just raised a massive $100 million Series A+ round backed by Baidu and car giant SAIC Motor to solve this exact problem. Instead of waiting around, they built specialized wearable hardware capture rigs that real humans wear while working in houses, factories, and warehouses. Here's the wild part: these rigs record every microscopic hand gesture, joint angle, and visual cue, and beam it into their Matrix software platform, which cleans and labels the trajectories into standardized training datasets for robot makers. Honestly, this is huge—whoever controls the training data for physical movement is going to control the humanoid robotics boom.",
+    "raw_text": "If you have ever wondered why ChatGPT can write a whole novel in seconds, yet a humanoid robot still struggles to fold your laundry without malfunctioning, the answer is simple: data. Large language models had the entire internet to read, but robots don't have an 'internet' of physical human movement to learn from. So check this out: a Beijing startup called GenRobot AI just raised a massive $100 million Series A+ round backed by Baidu and car giant SAIC Motor to solve this exact problem. Instead of waiting around, they built specialized wearable hardware capture rigs that real humans wear while working in houses, factories, and warehouses. Here's the wild part: these rigs record every microscopic hand gesture, joint angle, and visual cue, and beam it into their Matrix software platform, which cleans and labels the trajectories into standardized training datasets for robot makers. Honestly, this is huge\u2014whoever controls the training data for physical movement is going to control the humanoid robotics boom.",
     "id": "GEN100MRB15",
     "category": "AI",
     "companies": [
@@ -314,7 +342,9 @@
       "Huatai Zijin"
     ],
     "people": [],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/GEN100MRB15.png",
+    "image_prompt": "Realistic high-tech photojournalism: a Beijing robotics lab with a humanoid robot in the foreground wearing a sleek wearable motion-capture rig, motion sensors lit, engineers in lab coats behind using tablets, cool blue lighting, shallow depth of field, cinematic, ultra-detailed, news-ready."
   },
   {
     "date": "2026-11-02",
@@ -323,7 +353,7 @@
     "title": "\"Programming Is Dead\": Proton CTO Wants to End Human Code Reviews!",
     "summary": "Proton CTO Bart Butler published a controversial internal AI software engineering manifesto declaring manual hand-coding obsolete and redefining developers as managers of AI agents. The memo calls for a 'Phase 2' engineering overhaul that will eventually eliminate most human code review.",
     "engagement": "High",
-    "raw_text": "Okay, software engineers, grab your popcorn because Proton's CTO, Bart Butler, just dropped an internal AI manifesto that is setting the developer community on fire. The headline of his memo is literally 'Programming Is Dead, Engineering Is Not.' So check this out: following leaked reports from 404 Media about internal pressure at Proton and claims that 90% of their code is now written by AI, Butler went all-in. He says manual hand-coding is officially no longer a core skill, and every developer needs to act like a team leader managing AI agents as their direct reports. But here's the wild part that has everyone arguing: he says we are moving to 'Phase 2,' where writing code is so cheap that we have to redesign testing and specs from scratch—and he explicitly states that most human code review will eventually end! Yet in the same breath, he says humans are still personally accountable when things break. How can I be accountable for code I'm not even allowed to review?! Sound off in the comments, is he visionary or crazy?",
+    "raw_text": "Okay, software engineers, grab your popcorn because Proton's CTO, Bart Butler, just dropped an internal AI manifesto that is setting the developer community on fire. The headline of his memo is literally 'Programming Is Dead, Engineering Is Not.' So check this out: following leaked reports from 404 Media about internal pressure at Proton and claims that 90% of their code is now written by AI, Butler went all-in. He says manual hand-coding is officially no longer a core skill, and every developer needs to act like a team leader managing AI agents as their direct reports. But here's the wild part that has everyone arguing: he says we are moving to 'Phase 2,' where writing code is so cheap that we have to redesign testing and specs from scratch\u2014and he explicitly states that most human code review will eventually end! Yet in the same breath, he says humans are still personally accountable when things break. How can I be accountable for code I'm not even allowed to review?! Sound off in the comments, is he visionary or crazy?",
     "id": "PRTCODE0016",
     "category": "AI",
     "companies": [
@@ -333,7 +363,9 @@
     "people": [
       "Bart Butler"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/PRTCODE0016.png",
+    "image_prompt": "Realistic editorial photo: a tense newsroom-like scene with a modern server room glow, a suited tech CEO/CTO silhouette beside holographic AI agent icons, blurred developers reviewing code on monitors, dramatic lighting, shallow depth of field, high detail, newsworthy mood, no text."
   },
   {
     "date": "2026-11-02",
@@ -349,22 +381,26 @@
     "people": [
       "Debayan"
     ],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/AIOVERSGT17.png",
+    "image_prompt": "Realistic photojournalism, global press-room launch: diverse coalition of regulators and civil society leaders at a modern lectern, holographic AI network globe backdrop, security audit documents and servers, serious mood, dramatic studio lighting, sharp detail, shallow depth of field, high-resolution, no text."
   },
   {
     "date": "2026-11-02",
     "source_file": "Daily Tech and AI Briefing (2).pdf",
     "page": 18,
-    "title": "The US Government Officially Renamed 'AI' to 'Super Intelligence'—And Statisticians Are Panicking!",
+    "title": "The US Government Officially Renamed 'AI' to 'Super Intelligence'\u2014And Statisticians Are Panicking!",
     "summary": "Following Executive Order 14434, the U.S. Census Bureau updated its biweekly Business Trends and Outlook Survey sent to 200,000 American businesses, replacing the term 'Artificial Intelligence (AI)' with 'Super Intelligence (SI)'. Survey methodologists warn that the terminology change creates a major statistical continuity break that could artificially skew national adoption data downward.",
     "engagement": "High",
-    "raw_text": "You cannot make this up: the US government just officially stopped calling it 'Artificial Intelligence' on federal business surveys and renamed it 'Super Intelligence'. So check this out: back on September 29, 2026, Executive Order 14434—literally titled 'Inaugurating the Era of Super Intelligence'—ordered federal agencies to swap out the term AI for 'Super Intelligence' or 'SI' in their documents. Because of that, the US Census Bureau just updated the biweekly survey it sends out to 200,000 American businesses. Instead of asking companies if they use AI, the government is now asking if they use Super Intelligence! Here's the wild part: economists and statisticians are losing their minds over this because it completely breaks the data. Think about it—if you run a local plumbing company or a bakery and you use ChatGPT to write emails, you'll say 'yes' to using AI, right? But if the government asks if you're using 'Super Intelligence,' you're probably going to say 'no!' When the new numbers drop this Thursday, expect chaos.",
+    "raw_text": "You cannot make this up: the US government just officially stopped calling it 'Artificial Intelligence' on federal business surveys and renamed it 'Super Intelligence'. So check this out: back on September 29, 2026, Executive Order 14434\u2014literally titled 'Inaugurating the Era of Super Intelligence'\u2014ordered federal agencies to swap out the term AI for 'Super Intelligence' or 'SI' in their documents. Because of that, the US Census Bureau just updated the biweekly survey it sends out to 200,000 American businesses. Instead of asking companies if they use AI, the government is now asking if they use Super Intelligence! Here's the wild part: economists and statisticians are losing their minds over this because it completely breaks the data. Think about it\u2014if you run a local plumbing company or a bakery and you use ChatGPT to write emails, you'll say 'yes' to using AI, right? But if the government asks if you're using 'Super Intelligence,' you're probably going to say 'no!' When the new numbers drop this Thursday, expect chaos.",
     "id": "USCSI144318",
     "category": "AI",
     "companies": [
       "U.S. Census Bureau"
     ],
     "people": [],
-    "created_at": "2026-11-02T21:16:00+05:30"
+    "created_at": "2026-11-02T21:16:00+05:30",
+    "image_url": "images/03_11_26/USCSI144318.png",
+    "image_prompt": "Photoreal newsroom scene: tense statisticians in glasses and lab coats at screens, charts and survey forms blurred. A large monitor shows a glowing \u201cAI\u2192SI\u201d transition without text. Dim blue tones, dramatic lighting, shallow depth of field, high realism, ultra-detailed, news photography style."
   }
 ]
