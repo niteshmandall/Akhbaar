@@ -6,7 +6,7 @@
     "title": "'You Don't Need Long Context!' Why Million-Token Windows Are a 7x Compute Trap",
     "summary": "Three independent research studies introduced Adversarial Speculative Reasoning, Semantic State Space Models (SSSMs), and ALBI neuro-symbolic induction to improve long-horizon AI agent reliability. By frequently compacting working contexts and pairing frontier LLMs with formal Prolog verifiers, researchers achieved 100% logic accuracy while avoiding the 7x compute penalty of long-context windows.",
     "engagement": "Medium",
-    "raw_text": "So check this out—for the last two years, every big AI lab has been bragging about million-token context windows, right? Well, a brand-new research paper literally titled 'You don't need long context' just exposed why massive context windows are a huge compute trap! The researchers showed that running long-context inference on frontier open-weight models can inflate your compute bill by up to 7x! Instead, they introduced Semantic State Space Models, which constantly compact the working context and take just one action per window—keeping all the coding accuracy at a fraction of the cost. And that's not all: another team found that after 30 reasoning steps, speculative decoding builds up numerical noise that actually derails long-horizon agents. By training tiny draft models to intentionally fail at critical decision points, they forced the big model to take over right when it matters. Plus, researchers at Tallinn University paired Gemini 3.1 Pro, GPT 5.4 Pro, and Claude Opus 4.6 with a formal Prolog verifier to hit 100% accuracy across 30 logic benchmarks. Smart architecture beats brute-force context every single time!",
+    "raw_text": "So check this out\u2014for the last two years, every big AI lab has been bragging about million-token context windows, right? Well, a brand-new research paper literally titled 'You don't need long context' just exposed why massive context windows are a huge compute trap! The researchers showed that running long-context inference on frontier open-weight models can inflate your compute bill by up to 7x! Instead, they introduced Semantic State Space Models, which constantly compact the working context and take just one action per window\u2014keeping all the coding accuracy at a fraction of the cost. And that's not all: another team found that after 30 reasoning steps, speculative decoding builds up numerical noise that actually derails long-horizon agents. By training tiny draft models to intentionally fail at critical decision points, they forced the big model to take over right when it matters. Plus, researchers at Tallinn University paired Gemini 3.1 Pro, GPT 5.4 Pro, and Claude Opus 4.6 with a formal Prolog verifier to hit 100% accuracy across 30 logic benchmarks. Smart architecture beats brute-force context every single time!",
     "id": "SSSM7XCTX17",
     "category": "AI",
     "companies": [
@@ -22,9 +22,11 @@
       "Peter Belcak",
       "Saurav Muralidharan",
       "Aboubaker Seddiq Benterki",
-      "Jüri Vain"
+      "J\u00fcri Vain"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/SSSM7XCTX17.png",
+    "image_prompt": "Futuristic newsroom illustration: a sleek AI agent at center, compressing sprawling \u201clong context\u201d data streams into a compact core, while dual modules\u2014LLM glow and Prolog-like verifier grid\u2014align to confirm logic. Cool blue mood, high detail, photoreal tech style, shallow depth of field, no text."
   },
   {
     "date": "2026-11-04",
@@ -33,7 +35,7 @@
     "title": "We Put 29 AI Models in Charge of NBA Teams... Here's Who Won the Championship!",
     "summary": "Researchers launched GM Bench, a multi-season sports general manager simulator testing 29 LLMs across NBA, hockey, baseball, and football leagues with salary caps, injuries, and trade rumors. Across five simulated NBA seasons, Claude Opus 5.5 ranked first in competitive wins, while GPT-6 Astra and GPT-6.1 Sol led in cash reserve management.",
     "engagement": "High",
-    "raw_text": "Honestly, this is the most entertaining AI benchmark I have seen all year! Researchers just built 'GM Bench,' where they forced 29 different AI models to act as sports General Managers across full multi-season simulations in the NBA, NFL, NHL, and MLB! And we aren't talking about basic stats—these models had to manage real player data, salary caps, sudden injuries, trade rumors, and angry player demands across five straight NBA seasons! So check this out: who actually builds the best championship roster? Anthropic's Claude Opus 5.5 took the number one spot in pure competitive winning! Meanwhile, OpenAI's GPT-6 Astra and GPT-6.1 Sol were the best financial bosses, combining strong playoff runs with elite cash management. Here's the wild part from a companion study by Zuse Institute Berlin: when you put multiple AI models in a room to debate for 20 rounds, GPT-5.6-Sol and Claude Opus 5 completely cave to peer pressure and abandon their initial opinions, while older GPT-4.1 holds its ground! AI personalities under pressure are wild!",
+    "raw_text": "Honestly, this is the most entertaining AI benchmark I have seen all year! Researchers just built 'GM Bench,' where they forced 29 different AI models to act as sports General Managers across full multi-season simulations in the NBA, NFL, NHL, and MLB! And we aren't talking about basic stats\u2014these models had to manage real player data, salary caps, sudden injuries, trade rumors, and angry player demands across five straight NBA seasons! So check this out: who actually builds the best championship roster? Anthropic's Claude Opus 5.5 took the number one spot in pure competitive winning! Meanwhile, OpenAI's GPT-6 Astra and GPT-6.1 Sol were the best financial bosses, combining strong playoff runs with elite cash management. Here's the wild part from a companion study by Zuse Institute Berlin: when you put multiple AI models in a room to debate for 20 rounds, GPT-5.6-Sol and Claude Opus 5 completely cave to peer pressure and abandon their initial opinions, while older GPT-4.1 holds its ground! AI personalities under pressure are wild!",
     "id": "GMB29NBA18",
     "category": "AI",
     "companies": [
@@ -47,13 +49,15 @@
       "Junkai Zhou",
       "Ziming Pan",
       "Zhaoyi Zhang",
-      "Nataša Djurdjevac Conrad",
+      "Nata\u0161a Djurdjevac Conrad",
       "Sebastian Pokutta",
-      "Christof Schütte",
+      "Christof Sch\u00fctte",
       "Stephen Morris",
       "Elad Hazan"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/GMB29NBA18.png",
+    "image_prompt": "Realistic sports newsroom photo: dramatic NBA arena at night, dim lights, focused general manager silhouette at a desk with holographic AI \u201cmodels\u201d cards hovering, trading chart/roster projections, subtle analytics UI glow, tense cinematic mood, ultra-detailed, high contrast, no text, 16:9."
   },
   {
     "date": "2026-11-03",
@@ -62,7 +66,7 @@
     "title": "Alibaba's New 'PGuard' Reads AI Brains in Real-Time to Stop Jailbreaks!",
     "summary": "Alibaba AAIG introduced PGuard, a native guardrail that monitors intermediate residual-stream representations inside Qwen3.5 models with only 0.82% to 2.26% latency overhead. Concurrently, researchers released the EVOLVE self-improving robotic security framework and the BELL algorithm for pinpointing watermarked passages in mixed text.",
     "engagement": "Low",
-    "raw_text": "If you've ever deployed an LLM in production, you know the pain of external safety guardrails—they usually sit outside your main model, double your API latency, and still miss clever jailbreaks. Well, Alibaba's AAIG team just dropped a really smart paper called PGuard that moves the safety monitor directly inside the model's brain. Here's how it works: instead of waiting for the model to finish typing out a toxic or dangerous response, PGuard taps directly into the native residual stream using dynamic layer gating during prefill and decoding. Tested on their massive Qwen3.5-122B Mixture-of-Experts model in SGLang, it adds less than 1% to 2.26% latency overhead while hitting state-of-the-art accuracy across 30+ jailbreak and cybersecurity benchmarks! Alongside that, another team just unveiled EVOLVE, which gives physical robots and software agents inherited guardrail tools that actually evolve over lifelong interactions, boosting safety scores by 22%. Now, neither tool has faced independent third-party red-teaming yet, so take the numbers with a grain of salt, but zero-latency internal guardrails are a massive step forward.",
+    "raw_text": "If you've ever deployed an LLM in production, you know the pain of external safety guardrails\u2014they usually sit outside your main model, double your API latency, and still miss clever jailbreaks. Well, Alibaba's AAIG team just dropped a really smart paper called PGuard that moves the safety monitor directly inside the model's brain. Here's how it works: instead of waiting for the model to finish typing out a toxic or dangerous response, PGuard taps directly into the native residual stream using dynamic layer gating during prefill and decoding. Tested on their massive Qwen3.5-122B Mixture-of-Experts model in SGLang, it adds less than 1% to 2.26% latency overhead while hitting state-of-the-art accuracy across 30+ jailbreak and cybersecurity benchmarks! Alongside that, another team just unveiled EVOLVE, which gives physical robots and software agents inherited guardrail tools that actually evolve over lifelong interactions, boosting safety scores by 22%. Now, neither tool has faced independent third-party red-teaming yet, so take the numbers with a grain of salt, but zero-latency internal guardrails are a massive step forward.",
     "id": "ALBPGRD3519",
     "category": "AI",
     "companies": [
@@ -75,7 +79,9 @@
       "Y. Fu",
       "Dian Jin"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/ALBPGRD3519.png",
+    "image_prompt": "Futuristic newsroom photo, split-scene: sleek AI server racks labeled only by glowing circuit icons, a translucent \u201cshield\u201d overlay scanning streaming data inside a neural network silhouette, subtle latency gauge, alongside a robotic arm in a lab with hovering safety sensors. Realistic, high-contrast, cinematic lighting, shallow depth of field. No text."
   },
   {
     "date": "2026-11-04",
@@ -84,7 +90,7 @@
     "title": "Cut Your Claude Opus 5.5 Coding Bill by 70%?! Baseten Grid Is Here",
     "summary": "Baseten launched a public preview of Baseten Grid, an AI coding agent router and guardrails layer claiming a nearly 70% cost reduction per task compared to Claude Opus 5.5 with a 0.9-point quality drop. Meanwhile, Microsoft open-sourced its Copilot Managed Runtime in public preview with native plugins for both Claude Code and GitHub Copilot.",
     "engagement": "Medium",
-    "raw_text": "So check this out—anyone running autonomous coding agents like Claude Opus 5.5 all day knows how terrifying that monthly API bill is getting. You burn through millions of tokens before lunch! Well, Baseten just opened the public preview for 'Baseten Grid,' and their pitch to developers is super aggressive. It sits as an intelligent router and guardrails gateway for your coding agents, and according to launch reports, it slashes your cost per coding task by nearly 70% compared to running straight Claude Opus 5.5—with less than a 1-point drop in code quality! Basically, it stops you from paying frontier prices for simple boilerplate edits. And speaking of coding agents, look at what Microsoft just pushed to GitHub on November 5: a new 'Copilot Managed Runtime' built on React and Vite 8. Here's the wild part—Microsoft built native plugins not just for their own GitHub Copilot, but also for Anthropic's Claude Code! Even Microsoft admits enterprise devs love Claude so much they had to support it natively inside the Microsoft 365 compliance layer!",
+    "raw_text": "So check this out\u2014anyone running autonomous coding agents like Claude Opus 5.5 all day knows how terrifying that monthly API bill is getting. You burn through millions of tokens before lunch! Well, Baseten just opened the public preview for 'Baseten Grid,' and their pitch to developers is super aggressive. It sits as an intelligent router and guardrails gateway for your coding agents, and according to launch reports, it slashes your cost per coding task by nearly 70% compared to running straight Claude Opus 5.5\u2014with less than a 1-point drop in code quality! Basically, it stops you from paying frontier prices for simple boilerplate edits. And speaking of coding agents, look at what Microsoft just pushed to GitHub on November 5: a new 'Copilot Managed Runtime' built on React and Vite 8. Here's the wild part\u2014Microsoft built native plugins not just for their own GitHub Copilot, but also for Anthropic's Claude Code! Even Microsoft admits enterprise devs love Claude so much they had to support it natively inside the Microsoft 365 compliance layer!",
     "id": "BST70GRD20",
     "category": "AI",
     "companies": [
@@ -94,7 +100,9 @@
       "GitHub"
     ],
     "people": [],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/BST70GRD20.png",
+    "image_prompt": "Modern tech news photo: split-scene showing an AI \u201ccoding pipeline\u201d schematic with glowing nodes and guardrail overlays, plus a second scene of a sleek cloud/server rack network. Cool blue lighting, realistic depth, subtle circuit bokeh, high contrast, cinematic, no text."
   },
   {
     "date": "2026-11-05",
@@ -103,7 +111,7 @@
     "title": "Qualcomm's 150W AI Card Packs 128GB RAM while Russia Plans Underground Data Centers!",
     "summary": "Qualcomm released specifications for its single-slot Cloud AI 100 Ultra inference PCIe card, delivering 870 TOPS (INT8) with 128 GB of LPDDR4x memory and 576 MB of on-die SRAM at 150W TDP. Separately, Russia's Ministry of Digital Development proposed moving data centers underground into mines following October 2026 drone strikes.",
     "engagement": "Medium",
-    "raw_text": "If you're into server hardware and edge inference, Qualcomm just dropped a spec sheet that is seriously impressive for high-density LLM serving. It's called the Cloud AI 100 Ultra, and get this: it fits into a single PCIe slot, draws just 150 watts of power, and packs a massive 128 gigabytes of on-card LPDDR4x memory alongside 576 megabytes of super-fast on-die SRAM and 870 TOPS of compute! When you compare a 150-watt card holding 128 gigs of RAM against power-hungry 700-watt enterprise GPUs, you can see why data centers desperate for electricity are looking hard at custom inference cards. And speaking of data center infrastructure getting wild—here's a crazy geopolitical story from the exact same report: after drone strikes hit infrastructure in October 2026, Russia's Ministry of Digital Development just recommended hiding AI data centers deep underground! State telecom Rostelecom is reportedly already in early talks with mining giant Norilsk to potentially put servers inside underground mines. From ultra-low-wattage chips to subterranean server bunkers, physical AI infrastructure is getting extreme!",
+    "raw_text": "If you're into server hardware and edge inference, Qualcomm just dropped a spec sheet that is seriously impressive for high-density LLM serving. It's called the Cloud AI 100 Ultra, and get this: it fits into a single PCIe slot, draws just 150 watts of power, and packs a massive 128 gigabytes of on-card LPDDR4x memory alongside 576 megabytes of super-fast on-die SRAM and 870 TOPS of compute! When you compare a 150-watt card holding 128 gigs of RAM against power-hungry 700-watt enterprise GPUs, you can see why data centers desperate for electricity are looking hard at custom inference cards. And speaking of data center infrastructure getting wild\u2014here's a crazy geopolitical story from the exact same report: after drone strikes hit infrastructure in October 2026, Russia's Ministry of Digital Development just recommended hiding AI data centers deep underground! State telecom Rostelecom is reportedly already in early talks with mining giant Norilsk to potentially put servers inside underground mines. From ultra-low-wattage chips to subterranean server bunkers, physical AI infrastructure is getting extreme!",
     "id": "QCM150WDC21",
     "category": "Hardware",
     "companies": [
@@ -112,16 +120,18 @@
       "Norilsk"
     ],
     "people": [],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/QCM150WDC21.png",
+    "image_prompt": "Photorealistic split-scene news image: left, close-up of a modern single-slot PCIe AI inference card glowing with subtle data lines, 150W heat shimmer, cooling fins, 128GB memory chips; right, rugged underground mine entrance with faint server racks lights, smoke-dust, tense geopolitical mood, dramatic lighting."
   },
   {
     "date": "2026-11-04",
     "source_file": "Daily Tech and AI Briefing (3).pdf",
     "page": 26,
     "title": "AI VC Funding Crashes 43% in Q3 Despite Record $500B Year & SpaceX's $60B Cursor Buy!",
-    "summary": "PitchBook's Q3 2026 AI Report revealed that while year-to-date AI venture funding surpassed a record $500 billion—anchored by SpaceX's $60 billion acquisition of Cursor-maker Anysphere and Databricks' $5 billion raise—Q3 deal value dropped 43.4% quarter-over-quarter to $94.3 billion. Simultaneously, the UK Parliament retracted its widely cited £400 billion AI economic boost claim after admitting the figure came from a 2023 Google-commissioned report.",
+    "summary": "PitchBook's Q3 2026 AI Report revealed that while year-to-date AI venture funding surpassed a record $500 billion\u2014anchored by SpaceX's $60 billion acquisition of Cursor-maker Anysphere and Databricks' $5 billion raise\u2014Q3 deal value dropped 43.4% quarter-over-quarter to $94.3 billion. Simultaneously, the UK Parliament retracted its widely cited \u00a3400 billion AI economic boost claim after admitting the figure came from a 2023 Google-commissioned report.",
     "engagement": "Low",
-    "raw_text": "Let's talk about where the smart money in AI is actually going right now, because PitchBook just dropped their Q3 2026 AI Report and there is a massive shift happening. On the surface, 2026 has been the biggest year in history, smashing past half a trillion dollars in AI venture funding—helped by monster deals like Databricks raising $5 billion at a $185 billion valuation and SpaceX buying Cursor-maker Anysphere for an eye-watering $60 billion! But here's the catch: in Q3 alone, total AI venture deal value plunged 43.4% quarter-over-quarter down to $94.3 billion, and deal count fell over 10%! Investors are done funding generic horizontal chatbots; four of the five biggest M&A exits were specialized vertical applications. And if you want more proof that the hype bubble is getting fact-checked, UK AI Minister Kanishka Narayan just had to admit in Parliament that the British government's famous claim that AI would add £400 billion to the economy was actually pulled from a 2023 Google marketing report—their real internal estimate is closer to £120 billion!",
+    "raw_text": "Let's talk about where the smart money in AI is actually going right now, because PitchBook just dropped their Q3 2026 AI Report and there is a massive shift happening. On the surface, 2026 has been the biggest year in history, smashing past half a trillion dollars in AI venture funding\u2014helped by monster deals like Databricks raising $5 billion at a $185 billion valuation and SpaceX buying Cursor-maker Anysphere for an eye-watering $60 billion! But here's the catch: in Q3 alone, total AI venture deal value plunged 43.4% quarter-over-quarter down to $94.3 billion, and deal count fell over 10%! Investors are done funding generic horizontal chatbots; four of the five biggest M&A exits were specialized vertical applications. And if you want more proof that the hype bubble is getting fact-checked, UK AI Minister Kanishka Narayan just had to admit in Parliament that the British government's famous claim that AI would add \u00a3400 billion to the economy was actually pulled from a 2023 Google marketing report\u2014their real internal estimate is closer to \u00a3120 billion!",
     "id": "VC43DRPUK22",
     "category": "Business",
     "companies": [
@@ -135,7 +145,9 @@
     "people": [
       "Kanishka Narayan"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/VC43DRPUK22.png",
+    "image_prompt": "Futuristic financial newsroom scene: falling red trendline overlays a globe and server racks; SpaceX rocket silhouette on horizon; gleaming AI chip circuitry in foreground; muted blue-gray palette, dramatic lighting, subtle UK Parliament dome in background; realistic, high-detail, no text."
   },
   {
     "date": "2026-11-04",
@@ -144,7 +156,7 @@
     "title": "Google Faces 'Monopoly Extortion' Backlash Over Cutting Off Search for AI-Free Schools!",
     "summary": "Google drew sharp criticism from Senator Bernie Sanders and former FTC Chair Lina Khan over reports that K-12 schools opting out of its classroom AI tools lose access to Google Search. Meanwhile, Alphabet expanded voluntary employee buyouts across five countries to offset AI capital expenditures, and Apple banned staff from using corporate data on prediction markets.",
     "engagement": "High",
-    "raw_text": "Honestly, this is blowing up into a huge political scandal for Google! Reports just surfaced that if K-12 schools decide to ban or opt out of Google's classroom AI tools, Google cuts off those students from using regular Google Search on their school accounts! Now, Google's Education VP Chris Phillips told The New York Times that Search and AI are just 'deeply integrated' now because of AI Overviews and guided learning steps. But lawmakers aren't buying it for a second—Bernie Sanders, Zohran Mamdani, and former FTC Chair Lina Khan are calling it flat-out monopoly abuse and extortion to force kids onto Gemini! And while Google is fighting that PR fire, Alphabet is quietly expanding voluntary employee buyouts across Canada, France, Germany, Japan, and Switzerland just to free up more cash for its massive AI data center spending. Oh, and one more crazy corporate memo this week: Apple officially banned its employees from using confidential company info to bet on prediction markets. Silicon Valley corporate policies are getting wild!",
+    "raw_text": "Honestly, this is blowing up into a huge political scandal for Google! Reports just surfaced that if K-12 schools decide to ban or opt out of Google's classroom AI tools, Google cuts off those students from using regular Google Search on their school accounts! Now, Google's Education VP Chris Phillips told The New York Times that Search and AI are just 'deeply integrated' now because of AI Overviews and guided learning steps. But lawmakers aren't buying it for a second\u2014Bernie Sanders, Zohran Mamdani, and former FTC Chair Lina Khan are calling it flat-out monopoly abuse and extortion to force kids onto Gemini! And while Google is fighting that PR fire, Alphabet is quietly expanding voluntary employee buyouts across Canada, France, Germany, Japan, and Switzerland just to free up more cash for its massive AI data center spending. Oh, and one more crazy corporate memo this week: Apple officially banned its employees from using confidential company info to bet on prediction markets. Silicon Valley corporate policies are getting wild!",
     "id": "GGLK12edu23",
     "category": "Business",
     "companies": [
@@ -158,7 +170,9 @@
       "Zohran Mamdani",
       "Lina Khan"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/GGLK12edu23.png",
+    "image_prompt": "Split-scene newsroom photo: left, a modern US K-12 classroom with students at laptops, teacher in foreground, subtle Google-like devices blurred; right, ominous server room with tech executives in suits, dark CEO silhouettes, tension mood, dramatic lighting, photorealistic, high detail, no text."
   },
   {
     "date": "2026-11-05",
@@ -167,7 +181,7 @@
     "title": "Anthropic's $100B IPO Secrets Leaked as Key Claude Code Leader Steps Down!",
     "summary": "Anthropic's $100 billion IPO prospectus revealed wider profit margins than Chinese competitors Z.ai and MiniMax, alongside an unconfirmed report of a licensing deal with the Associated Press for election coverage. Simultaneously, key Claude Code and Cowork product leader Cat Wu departed the company.",
     "engagement": "Medium",
-    "raw_text": "So check this out—we are getting a massive peek behind the curtain at Anthropic as they gear up for their monster $100 billion IPO, and there is a ton of drama happening all at once! First, according to reports analyzing Anthropic's S-1 IPO filing, the company is flexing a huge profit-margin advantage over Chinese frontier rivals like Z.ai and MiniMax. On top of that, Adweek leaked that Anthropic quietly signed its very first news licensing agreement with the Associated Press so Claude could deliver live election-night answers—though neither side has officially confirmed it yet. But here's the wild part that has developers talking: right in the middle of all this momentum, Cat Wu—the key product leader behind Claude Code and Cowork—just left Anthropic! Considering Claude Code is arguably Anthropic's hottest product right now and the main reason enterprise devs are flocking to their API, losing the product lead right before a $100 billion public listing is a huge storyline to watch!",
+    "raw_text": "So check this out\u2014we are getting a massive peek behind the curtain at Anthropic as they gear up for their monster $100 billion IPO, and there is a ton of drama happening all at once! First, according to reports analyzing Anthropic's S-1 IPO filing, the company is flexing a huge profit-margin advantage over Chinese frontier rivals like Z.ai and MiniMax. On top of that, Adweek leaked that Anthropic quietly signed its very first news licensing agreement with the Associated Press so Claude could deliver live election-night answers\u2014though neither side has officially confirmed it yet. But here's the wild part that has developers talking: right in the middle of all this momentum, Cat Wu\u2014the key product leader behind Claude Code and Cowork\u2014just left Anthropic! Considering Claude Code is arguably Anthropic's hottest product right now and the main reason enterprise devs are flocking to their API, losing the product lead right before a $100 billion public listing is a huge storyline to watch!",
     "id": "ANT100BIPO24",
     "category": "Business",
     "companies": [
@@ -179,7 +193,9 @@
     "people": [
       "Cat Wu"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/ANT100BIPO24.png",
+    "image_prompt": "Realistic news photo style: split-scene of a sleek tech office lobby at dusk with subtle holographic code glow, contrasted by a blurred stock-market ticker backdrop. Center: a confident executive silhouette stepping away. Background: neutral documents and server racks, cinematic lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-11-04",
@@ -188,7 +204,7 @@
     "title": "China's 'Lipstick King' Sells 100,000 AI Subscriptions Live as Global Nuclear Builds Hit 79!",
     "summary": "Chinese livestreamer Li Jiaqi partnered with an Alibaba executive to sell nearly 100,000 monthly AI subscriptions ahead of Singles' Day, while India's MeitY and iSPIRT released a privacy-preserving AI training guide. Meanwhile, reports revealed US-designed chips will still power 65% of China's doubled 2027 AI compute capacity as global nuclear reactors under construction hit 79 on AI power demand.",
     "engagement": "Medium",
-    "raw_text": "If you want to see how different AI adoption looks across Asia right now, check out this wild string of numbers that just dropped. In China, famous livestreamer Li Jiaqi—known as the 'Lipstick King'—teamed up with an Alibaba executive on a Singles' Day livestream and literally sold nearly 100,000 monthly AI subscriptions live on air! Imagine selling AI software like skincare products! Meanwhile, here in India, MeitY and the iSPIRT Foundation just released an official framework for training AI models without sharing raw underlying data, while Vietnam's Viettel unveiled its own sovereign VGC v1.0 security chip. And here's the geopolitical kicker from the South China Morning Post: even though China is set to double its total AI compute capacity in 2027, US-designed chips and offshore cloud servers will still provide 65% of that compute! Plus, because all these global AI servers are starving for electricity, the number of nuclear reactors currently under construction worldwide just hit 79. The Asia-Pacific AI agent market is projected to jump 14x to $11.2 billion by 2030!",
+    "raw_text": "If you want to see how different AI adoption looks across Asia right now, check out this wild string of numbers that just dropped. In China, famous livestreamer Li Jiaqi\u2014known as the 'Lipstick King'\u2014teamed up with an Alibaba executive on a Singles' Day livestream and literally sold nearly 100,000 monthly AI subscriptions live on air! Imagine selling AI software like skincare products! Meanwhile, here in India, MeitY and the iSPIRT Foundation just released an official framework for training AI models without sharing raw underlying data, while Vietnam's Viettel unveiled its own sovereign VGC v1.0 security chip. And here's the geopolitical kicker from the South China Morning Post: even though China is set to double its total AI compute capacity in 2027, US-designed chips and offshore cloud servers will still provide 65% of that compute! Plus, because all these global AI servers are starving for electricity, the number of nuclear reactors currently under construction worldwide just hit 79. The Asia-Pacific AI agent market is projected to jump 14x to $11.2 billion by 2030!",
     "id": "APAC100KAI25",
     "category": "Business",
     "companies": [
@@ -204,7 +220,9 @@
     "people": [
       "Li Jiaqi"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/APAC100KAI25.png",
+    "image_prompt": "Realistic high-quality newsroom photo: Chinese tech livestream scene with LED glow, a charismatic host at a ring-light selling AI subscriptions on a laptop, Alibaba-style corporate backdrop. Background screen shows abstract data. Side view: modern server racks and a nuclear plant silhouette under stormy sky, global energy grid motif, dramatic lighting, shallow depth."
   },
   {
     "date": "2026-11-04",
@@ -213,7 +231,7 @@
     "title": "Why Multimodal Video AI Fails 45% of Real-World Research Tests!",
     "summary": "Researchers evaluating six open-weight multimodal LLMs across three human-annotated video datasets found that 45% of sample prevalence estimates diverged from human coding by more than 10 percentage points. Companion studies demonstrated that LLM privacy de-identification audits vary heavily by evaluation interface and introduced a new Safe Bayesian Optimization method.",
     "engagement": "Low",
-    "raw_text": "Here's a sobering reality check for anyone building automated video analysis pipelines with open-weight multimodal LLMs. Researchers Christian Pipal, Eva-Maria Vogel, and Morgan Wack just tested six leading open-weight multimodal models across three human-annotated video datasets to see if you can actually trust them to label and analyze video content at scale. And honestly, the results are pretty rough. First, they found that no single input mode—whether you feed the model transcripts, audio, or native video frames—consistently wins across tasks. Even worse, when they took the models with the highest F1 accuracy scores and tried to use their outputs for real downstream statistical regressions, the AI only matched human researchers in 17 out of 42 tests! In fact, 45% of the AI's estimates were off from human coding by more than 10 percentage points. Pair that with another new study showing that standard LLM privacy audits can be easily fooled depending on the testing interface, and the takeaway is clear: high benchmark F1 scores do not mean a model is ready for unattended data pipelines!",
+    "raw_text": "Here's a sobering reality check for anyone building automated video analysis pipelines with open-weight multimodal LLMs. Researchers Christian Pipal, Eva-Maria Vogel, and Morgan Wack just tested six leading open-weight multimodal models across three human-annotated video datasets to see if you can actually trust them to label and analyze video content at scale. And honestly, the results are pretty rough. First, they found that no single input mode\u2014whether you feed the model transcripts, audio, or native video frames\u2014consistently wins across tasks. Even worse, when they took the models with the highest F1 accuracy scores and tried to use their outputs for real downstream statistical regressions, the AI only matched human researchers in 17 out of 42 tests! In fact, 45% of the AI's estimates were off from human coding by more than 10 percentage points. Pair that with another new study showing that standard LLM privacy audits can be easily fooled depending on the testing interface, and the takeaway is clear: high benchmark F1 scores do not mean a model is ready for unattended data pipelines!",
     "id": "MMLM45VID26",
     "category": "Science",
     "companies": [],
@@ -222,6 +240,8 @@
       "Eva-Maria Vogel",
       "Morgan Wack"
     ],
-    "created_at": "2026-11-05T10:37:00+05:30"
+    "created_at": "2026-11-05T10:37:00+05:30",
+    "image_url": "images/04_11_26/MMLM45VID26.png",
+    "image_prompt": "Cinematic newsroom photo: diverse researchers in a lab review blurred video frames on glowing monitors, split-screen graphs showing large red error bars, privacy shield icons flicker as silhouettes of AI circuits loom in the background, tense investigative mood, realistic lighting, shallow depth, ultra-detailed, no text."
   }
 ]
