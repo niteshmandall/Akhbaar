@@ -1,0 +1,83 @@
+[
+  {
+    "date": "2026-11-07",
+    "source_file": "Daily Tech News Briefing (4).pdf",
+    "page": 16,
+    "title": "This New Rust Tool Makes Kubernetes AI Serving 95% Faster!",
+    "summary": "Buoyant released Kinference, an open-source Rust-based inference control plane for Kubernetes and vLLM that tracks real-time KV-cache prefixes and queue lengths. In benchmarks, the system slashed median Time-To-First-Token latency by 95% and boosted peak throughput by 7.4x on shared-prefix workloads.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—if you are running open-source AI models on Kubernetes right now, your default load balancer is wasting massive amounts of GPU compute. Standard Kubernetes routing is completely blind to which vLLM pod already holds a warm KV-cache for a conversation or how backed up a GPU queue is. Well, Buoyant—the team behind the Linkerd service mesh—just dropped an open-source Rust control plane called Kinference, and the benchmarks are insane! By tracking vLLM KV-cache events in real time and using queue-aware routing, Kinference slashed median Time-To-First-Token by 95% on shared-prefix traffic, dropping wait times from 6.88 seconds down to 0.31 seconds! Here's the wild part: peak goodput jumped 7.4x on the exact same NVIDIA L40S GPUs! Honestly, this is huge because you can write declarative routing rules to automatically send simple prompts to smaller models, burst to Amazon Bedrock when local GPU queues get full, and lock sensitive data to local nodes!",
+    "id": "BYNTKINF0709",
+    "category": "AI",
+    "companies": [
+      "Buoyant",
+      "NVIDIA",
+      "Amazon"
+    ],
+    "people": [
+      "Michal Sutter"
+    ],
+    "created_at": "2026-11-09T09:29:00+05:30"
+  },
+  {
+    "date": "2026-11-08",
+    "source_file": "Daily Tech News Briefing (4).pdf",
+    "page": 16,
+    "title": "DeepSeek's 'Harness' AI Agent Just Hit 92 TRILLION Tokens a Day!",
+    "summary": "Chinese AI lab DeepSeek disclosed that its open-source agent platform, Harness, reached 1.54 million daily active users less than three months after launch and now processes roughly 92 trillion tokens per day. This surge comes alongside a new autonomous coding Super-agent prototype and a US Department of Homeland Security ban on DeepSeek software across federal civilian systems.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge—we now have hard proof of how much compute autonomous AI agents actually burn compared to normal chatbots. DeepSeek just revealed to Bloomberg that their open-source agent platform, Harness, hit 1.54 million daily active users in under three months! So check this out: those 1.54 million users are processing a mind-blowing 92 trillion tokens every single day! That breaks down to roughly 60 million tokens per user per day! Why is it so high? Because DeepSeek also dropped an autonomous coding 'Super-agent' prototype that literally sits in developer group chats and shared coding repos, watching your team work and proposing code fixes completely unprompted! Here's the wild part: while developers are going crazy for this, Washington is panicking. The US Department of Homeland Security just ordered an immediate ban and total removal of all DeepSeek software from US federal civilian IT systems over national security concerns. The agentic coding war is officially out of control!",
+    "id": "DPSKHRNS0810",
+    "category": "AI",
+    "companies": [
+      "DeepSeek",
+      "Bloomberg",
+      "US Department of Homeland Security"
+    ],
+    "people": [],
+    "created_at": "2026-11-09T09:29:00+05:30"
+  },
+  {
+    "date": "2026-11-08",
+    "source_file": "Daily Tech News Briefing (4).pdf",
+    "page": 18,
+    "title": "Scientists Just Simulated Nuking an Asteroid 1,600x Faster (And Found a Catch)!",
+    "summary": "Physicists at Sandia National Laboratories developed a coupled multiphysics algorithm that simulates nuclear X-ray vaporization over complex 3D asteroid shapes more than 1,600 times faster than prior models. The study revealed that because real asteroids have bumpy ridges, the exact approach angle of a nuclear blast changes deflection speed by nearly fivefold and spin by up to 17x.",
+    "engagement": "High",
+    "raw_text": "So check this out—if a giant killer asteroid is ever heading straight for Earth, our ultimate backup plan is blasting it with a nuclear warhead in deep space so X-rays vaporize the surface and push it off course. For years, computer models had to pretend asteroids were smooth spheres because calculating real, bumpy 3D space rocks took way too much supercomputer power. Well, physicists at Sandia National Laboratories just combined two powerhouse simulation codes—ALEGRA and SPARTA—to simulate 3D nuclear asteroid deflection over 1,600 times faster! And here's the wild part: when they tested realistic, lumpy asteroids with ridges and craters, they found a massive catch! Depending on the exact angle the nuke hits, the asteroid's deflection speed changes by nearly fivefold, and its spin can vary by a factor of 17! Honestly, this is huge for planetary defense—because hitting an asteroid from the wrong angle could accidentally spin it out or shatter it into dangerous fragments!",
+    "id": "SNDIASTR0811",
+    "category": "Science",
+    "companies": [
+      "Sandia National Laboratories",
+      "Icarus",
+      "ScienceDaily"
+    ],
+    "people": [
+      "Nathan W. Moore",
+      "Michael A. Gallis",
+      "D. Gregory Tipton",
+      "Zakari S. Eckert",
+      "Timothy P. Koehler"
+    ],
+    "created_at": "2026-11-09T09:29:00+05:30"
+  },
+  {
+    "date": "2026-11-07",
+    "source_file": "Daily Tech News Briefing (4).pdf",
+    "page": 26,
+    "title": "Xiaomi 18 Pro Max, Vivo X500 Pro Max & Mercedes GLC EV Just Dropped!",
+    "summary": "Mercedes-Benz launched the GLC Electric luxury SUV in India featuring a 94 kWh battery, 715 km WLTP range, and a 39.1-inch MBUX Hyperscreen. On the same day, Xiaomi confirmed the global launch of the Snapdragon 8 Elite Extreme Gen 6-powered Xiaomi 18 Pro series, while Vivo announced the Indian release of the Vivo X500 Pro Max with 4K 960fps slow-motion video.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge for hardware lovers—November 7 was an absolute mega-day for flagship launches in India and globally! First up, check this out: Mercedes-Benz officially launched the GLC Electric luxury SUV in India. We are talking a 490-horsepower dual-motor AWD setup, a massive 94 kWh battery delivering up to 715 kilometers of range, and a jaw-dropping 39.1-inch MBUX Hyperscreen stretching across the cabin! Meanwhile, in the smartphone arena, Xiaomi just confirmed the global launch of the Xiaomi 18 Pro and 18 Pro Max running on the beastly new Snapdragon 8 Elite Extreme Gen 6 chip, with the Pro Max priced right around 1.89 lakh rupees. And here's the wild part for mobile creators: Vivo simultaneously announced the Indian release of the Vivo X500 Pro Max, packing dedicated AI camera silicon that shoots 60fps continuous autofocus tracking and insane 4K 960fps slow-motion video right on your phone. Which one of these flagships are you picking up?",
+    "id": "HWLNCH3X0712",
+    "category": "Hardware",
+    "companies": [
+      "Mercedes-Benz",
+      "Xiaomi",
+      "Vivo",
+      "Qualcomm"
+    ],
+    "people": [],
+    "created_at": "2026-11-09T09:29:00+05:30"
+  }
+]
