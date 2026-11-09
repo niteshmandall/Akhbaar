@@ -6,7 +6,7 @@
     "title": "Nous Research Just Stripped 96% of Propaganda From Alibaba's Qwen AI!",
     "summary": "Nous Research released Arete-27B, an open-weight model fine-tuned from Alibaba's Qwen3.8-27B that cuts state ideological framing and propaganda rates from 22.0% down to 0.9%. Trained under an Apache 2.0 license using only 52.8 million tokens of plain Supervised Fine-Tuning, the model preserves core reasoning and improves agentic coding performance.",
     "engagement": "High",
-    "raw_text": "So check this out—one of the biggest headaches for developers using Chinese open-weight models like Alibaba's Qwen series is the built-in state censorship and ideological framing. Everyone thought stripping that out required super expensive reinforcement learning that ruins the model's math and coding skills. Well, Nous Research just proved everyone wrong with Arete-27B! Using just 52.8 million tokens of plain Supervised Fine-Tuning—zero RL or preference optimization—they took Qwen3.8-27B and slashed its overall propaganda rate from 22.0% all the way down to 0.9%! Here's the wild part: on freedom-of-expression topics, propaganda dropped from 60.0% to just 1.0%! And instead of making the model dumber, its general capability held rock steady at 65.6% on Hermes Bench, while its agentic coding score on Terminal-Bench 2.1 actually jumped up to 70%! Honestly, this is huge because they released the full Apache 2.0 weights and a 17-gigabyte quantized version that runs right on a single 24GB consumer GPU!",
+    "raw_text": "So check this out\u2014one of the biggest headaches for developers using Chinese open-weight models like Alibaba's Qwen series is the built-in state censorship and ideological framing. Everyone thought stripping that out required super expensive reinforcement learning that ruins the model's math and coding skills. Well, Nous Research just proved everyone wrong with Arete-27B! Using just 52.8 million tokens of plain Supervised Fine-Tuning\u2014zero RL or preference optimization\u2014they took Qwen3.8-27B and slashed its overall propaganda rate from 22.0% all the way down to 0.9%! Here's the wild part: on freedom-of-expression topics, propaganda dropped from 60.0% to just 1.0%! And instead of making the model dumber, its general capability held rock steady at 65.6% on Hermes Bench, while its agentic coding score on Terminal-Bench 2.1 actually jumped up to 70%! Honestly, this is huge because they released the full Apache 2.0 weights and a 17-gigabyte quantized version that runs right on a single 24GB consumer GPU!",
     "id": "NOUS27BART05",
     "category": "AI",
     "companies": [
@@ -18,7 +18,9 @@
     "people": [
       "Asif Razzaq"
     ],
-    "created_at": "2026-11-09T09:22:00+05:30"
+    "created_at": "2026-11-09T09:22:00+05:30",
+    "image_url": "images/07_11_26/NOUS27BART05.png",
+    "image_prompt": "Realistic newsroom scene: diverse AI researchers in a bright control room monitor a glowing neural network overlay above a sleek server rack labeled only by icon lights. Somber \u201cpropaganda filters\u201d dissolve into clean transparent signal streams, cinematic lighting, high detail, shallow depth of field, no text, no logos."
   },
   {
     "date": "2026-11-07",
@@ -27,7 +29,7 @@
     "title": "YC Startup 'Theseus Robotics' Is Putting Night-Shift Humanoids in Supermarkets!",
     "summary": "Zurich-based Theseus Robotics emerged from stealth in Y Combinator's Fall 2026 batch with a physical AI software stack that turns off-the-shelf wheeled humanoids into autonomous overnight grocery shelf restockers. Rather than building custom hardware, the startup licenses its operating system directly to grocery retailers ahead of 2027 pilot deployments.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—we are officially entering the era of night-shift supermarket robots! A Zurich-based startup called Theseus Robotics just came out of stealth in Y Combinator's Fall 2026 batch, and their pitch to grocery stores is literally 'lights off at 9 PM, shelves full by 9 AM'. So check this out: instead of spending ratusan millions building their own custom humanoid hardware from scratch or forcing stores to remodel their aisles, Theseus built a universal operating system and physical AI stack. They drop their software onto affordable, off-the-shelf wheeled humanoids and instantly turn them into autonomous overnight shelf restockers and daytime e-grocery pickers. Here's the wild part: this proves that physical AI intelligence is completely unbundling from commoditized robot bodies. You buy the cheap hardware anywhere, plug in Theseus's brain, and boom—you have an automated workforce. They already have major retailer pilots locked in for 2027, and I think grocery stores are never going to look the same!",
+    "raw_text": "Honestly, this is huge\u2014we are officially entering the era of night-shift supermarket robots! A Zurich-based startup called Theseus Robotics just came out of stealth in Y Combinator's Fall 2026 batch, and their pitch to grocery stores is literally 'lights off at 9 PM, shelves full by 9 AM'. So check this out: instead of spending ratusan millions building their own custom humanoid hardware from scratch or forcing stores to remodel their aisles, Theseus built a universal operating system and physical AI stack. They drop their software onto affordable, off-the-shelf wheeled humanoids and instantly turn them into autonomous overnight shelf restockers and daytime e-grocery pickers. Here's the wild part: this proves that physical AI intelligence is completely unbundling from commoditized robot bodies. You buy the cheap hardware anywhere, plug in Theseus's brain, and boom\u2014you have an automated workforce. They already have major retailer pilots locked in for 2027, and I think grocery stores are never going to look the same!",
     "id": "THSRBTYC2606",
     "category": "Hardware",
     "companies": [
@@ -35,7 +37,9 @@
       "Y Combinator"
     ],
     "people": [],
-    "created_at": "2026-11-09T09:22:00+05:30"
+    "created_at": "2026-11-09T09:22:00+05:30",
+    "image_url": "images/07_11_26/THSRBTYC2606.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a Zurich grocery aisle at night, shelves partially lit with grocery rows. Two wheeled humanoid robots with subtle headlights autonomously restocking boxes. Cool blue lighting, cinematic depth of field, realistic reflections, high detail, natural colors, no text, 16:9."
   },
   {
     "date": "2026-11-07",
@@ -44,7 +48,7 @@
     "title": "CERT-In Alert: 'Crafty Falcon' AI Hackers Are Draining Indian Fintech APIs!",
     "summary": "The Indian Computer Emergency Response Team (CERT-In) issued a critical cybersecurity warning regarding 'Crafty Falcon,' an AI-assisted hacking campaign targeting Indian fintech payment APIs and financial gateways. Attackers are using machine learning to generate dynamic custom scripts in real time, bypassing traditional firewalls and IP allow-lists to execute unauthorized fund transfers.",
     "engagement": "High",
-    "raw_text": "So check this out—if you build or use fintech apps in India, you need to pay serious attention right now. On November 7, CERT-In dropped a critical cybersecurity alert about a terrifying new AI-assisted hacking campaign called 'Crafty Falcon' that is actively targeting Indian payment APIs and financial gateways. Here's the wild part: traditional API security relies on static rules, fixed IP allow-lists, and standard web application firewalls. Well, the hackers behind Crafty Falcon are using machine learning tools to dynamically generate custom, shape-shifting scripts in real time. These AI loops mutate their request payloads on the fly, completely bypassing static security rules to execute unauthorized fund transfers before human security teams even realize an attack is happening! Honestly, this is huge because it proves static firewalls are dead against autonomous AI hackers. Every payment gateway and banking platform now has to upgrade to real-time behavioral anomaly detection that can shut down rogue transfers at machine speed!",
+    "raw_text": "So check this out\u2014if you build or use fintech apps in India, you need to pay serious attention right now. On November 7, CERT-In dropped a critical cybersecurity alert about a terrifying new AI-assisted hacking campaign called 'Crafty Falcon' that is actively targeting Indian payment APIs and financial gateways. Here's the wild part: traditional API security relies on static rules, fixed IP allow-lists, and standard web application firewalls. Well, the hackers behind Crafty Falcon are using machine learning tools to dynamically generate custom, shape-shifting scripts in real time. These AI loops mutate their request payloads on the fly, completely bypassing static security rules to execute unauthorized fund transfers before human security teams even realize an attack is happening! Honestly, this is huge because it proves static firewalls are dead against autonomous AI hackers. Every payment gateway and banking platform now has to upgrade to real-time behavioral anomaly detection that can shut down rogue transfers at machine speed!",
     "id": "CRTFLCFIN07",
     "category": "Cybersecurity",
     "companies": [
@@ -52,7 +56,9 @@
       "Ministry of Electronics and Information Technology"
     ],
     "people": [],
-    "created_at": "2026-11-09T09:22:00+05:30"
+    "created_at": "2026-11-09T09:22:00+05:30",
+    "image_url": "images/07_11_26/CRTFLCFIN07.png",
+    "image_prompt": "Cinematic newsroom-style cyber threat illustration: shadowy AI \u201cfalcon\u201d silhouette made of code, glowing network nodes over India map, breached fintech API gateway, red alert lighting, digital firewall bypass visuals, realistic 3D render, high contrast, dramatic mood, no text."
   },
   {
     "date": "2026-11-07",
@@ -61,7 +67,7 @@
     "title": "India Just Launched Its Own Sovereign AI Models (EKA-1 & Dhir) + 10,000 GPUs!",
     "summary": "India's Ministry of Electronics and Information Technology unveiled the indigenous EKA-1 foundation model alongside two compact small language models, Dhir 2B and Dhir 5B, under the IndiaAI Mission. Concurrently, C-DAC issued a sovereign procurement tender for 10,000 additional AI compute units with strict requirements that all hardware and data remain physically inside India.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge for India's tech ecosystem! On November 7, the Ministry of Electronics and Information Technology officially unveiled EKA-1, an indigenous foundation model built right here by Indian startups under the IndiaAI Mission. And they didn't stop there—they also dropped two super compact, compute-efficient small language models called Dhir 2B and Dhir 5B! So check this out: while EKA-1 handles the heavy lifting across Indian regional languages and local datasets, Dhir 2B and 5B are specifically optimized to run cheaply on standard enterprise servers. That means Indian small businesses, rural education apps, and government platforms can run culturally smart AI locally without paying massive fees to foreign APIs. Here's the wild part: to power all of this, C-DAC just opened a massive tender to buy 10,000 more AI GPUs, TPUs, and accelerators, with one strict rule—every single chip, log, and backup must stay physically inside Indian borders. Sovereign AI is officially scaling up!",
+    "raw_text": "Honestly, this is huge for India's tech ecosystem! On November 7, the Ministry of Electronics and Information Technology officially unveiled EKA-1, an indigenous foundation model built right here by Indian startups under the IndiaAI Mission. And they didn't stop there\u2014they also dropped two super compact, compute-efficient small language models called Dhir 2B and Dhir 5B! So check this out: while EKA-1 handles the heavy lifting across Indian regional languages and local datasets, Dhir 2B and 5B are specifically optimized to run cheaply on standard enterprise servers. That means Indian small businesses, rural education apps, and government platforms can run culturally smart AI locally without paying massive fees to foreign APIs. Here's the wild part: to power all of this, C-DAC just opened a massive tender to buy 10,000 more AI GPUs, TPUs, and accelerators, with one strict rule\u2014every single chip, log, and backup must stay physically inside Indian borders. Sovereign AI is officially scaling up!",
     "id": "INDAEKA10K08",
     "category": "AI",
     "companies": [
@@ -70,6 +76,8 @@
       "IndiaAI Mission"
     ],
     "people": [],
-    "created_at": "2026-11-09T09:22:00+05:30"
+    "created_at": "2026-11-09T09:22:00+05:30",
+    "image_url": "images/07_11_26/INDAEKA10K08.png",
+    "image_prompt": "Realistic newsroom-style image: Indian tech ministry building facade at dusk, glowing holographic AI brain icons, sleek servers and GPU racks with indicators, map-of-India motif made of light, Indian engineers in safety vests monitoring compute, cinematic lighting, high detail, no text."
   }
 ]
