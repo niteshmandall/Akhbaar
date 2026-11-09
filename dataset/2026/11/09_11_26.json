@@ -3,10 +3,10 @@
     "date": "2026-11-08",
     "source_file": "Daily Tech News Briefing (4).pdf",
     "page": 10,
-    "title": "We Audited 10 Frontier Open AI Models—Here Is Why They All Dropped Expert-Choice Routing!",
+    "title": "We Audited 10 Frontier Open AI Models\u2014Here Is Why They All Dropped Expert-Choice Routing!",
     "summary": "A two-part technical audit examined the configurations of ten frontier open-weight Mixture-of-Experts models, including DeepSeek-V4, Qwen3.6, and Kimi K2, documenting an industry convergence toward auxiliary-loss-free sigmoid gating and shared experts. The report revealed that Expert-Choice Routing remains absent from causal open LLMs because it triggers a 10% abnormal loss drop from causal leakage of future tokens.",
     "engagement": "Medium",
-    "raw_text": "So check this out—a massive two-part engineering audit just cracked open the Hugging Face config files of ten frontier open-weight Mixture-of-Experts models, including DeepSeek-V3, DeepSeek-V4, Qwen3.6, Kimi K2, and GLM-4.5. Everyone in the open-source AI community has been wondering why every single one of these labs is converging on the exact same architecture: auxiliary-loss-free sigmoid gating, shared active experts, and crazy sparsity ratios scaling up to 128x. Here's the wild part: on paper, a method called Expert-Choice Routing—where each expert picks its own top tokens—accelerates training convergence by more than 2x. Yet literally zero of the ten open causal LLMs use it! Why? Because DeepSeek researchers discovered that during autoregressive training, Expert-Choice Routing causes a sneaky 10% abnormal loss drop by leaking future tokens into the past! Honestly, this is huge for ML engineers—plus, the audit showed that using dynamic top-k serving in SGLang boosts P99 Time-To-First-Token by up to 1.26x right out of the box!",
+    "raw_text": "So check this out\u2014a massive two-part engineering audit just cracked open the Hugging Face config files of ten frontier open-weight Mixture-of-Experts models, including DeepSeek-V3, DeepSeek-V4, Qwen3.6, Kimi K2, and GLM-4.5. Everyone in the open-source AI community has been wondering why every single one of these labs is converging on the exact same architecture: auxiliary-loss-free sigmoid gating, shared active experts, and crazy sparsity ratios scaling up to 128x. Here's the wild part: on paper, a method called Expert-Choice Routing\u2014where each expert picks its own top tokens\u2014accelerates training convergence by more than 2x. Yet literally zero of the ten open causal LLMs use it! Why? Because DeepSeek researchers discovered that during autoregressive training, Expert-Choice Routing causes a sneaky 10% abnormal loss drop by leaking future tokens into the past! Honestly, this is huge for ML engineers\u2014plus, the audit showed that using dynamic top-k serving in SGLang boosts P99 Time-To-First-Token by up to 1.26x right out of the box!",
     "id": "MOEROUT10A13",
     "category": "AI",
     "companies": [
@@ -21,7 +21,9 @@
       "Asif Razzaq",
       "Michal Sutter"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/MOEROUT10A13.png",
+    "image_prompt": "Futuristic newsroom infographic scene: translucent neural routing diagram with ten diverging expert paths converging into shared nodes; muted blue/gray palette, subtle glitch effects, holographic circuitry glow, microscope-like audit tools overlay; dramatic lighting, realistic 3D render, high detail, no text."
   },
   {
     "date": "2026-11-08",
@@ -30,7 +32,7 @@
     "title": "An AI Just Solved an 18-Year-Old Quantum Math Problem in 3 Days (And Mathematicians Are Worried)!",
     "summary": "Research lab Physical Superintelligence (PSI) announced that its internal automated mathematical system generated a complete, formally verified proof of the 2008 Aaronson-Ambainis quantum complexity conjecture in Lean by its third day of operation. The breakthrough comes as 28 Fields Medalists signed a warning letter regarding private AI labs concentrating compute and internal theorem-proving models.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—an AI system just solved a foundational quantum computing math problem that has stumped humans since 2008, and it did it in just three days! The research lab Physical Superintelligence, or PSI, unleashed an internal automated mathematical research system built on an unreleased frontier model. By day three, the AI generated a complete proof of the Aaronson-Ambainis conjecture—which defines when quantum computers can actually beat classical algorithms—and every single deduction step was mechanically verified inside the Lean theorem prover! So check this out: after proving it on day three, the AI autonomously refined its own mathematical result twice without human help! Here's the wild part: academic mathematicians are seriously freaking out. Twenty-eight Fields Medalists just signed an urgent warning letter, alongside a viral arXiv essay calling for a 'New Deal for mathematics,' warning that private labs hoarding massive compute and secret theorem-proving AI models is breaking the post-World War II contract between academia and industry!",
+    "raw_text": "Honestly, this is huge\u2014an AI system just solved a foundational quantum computing math problem that has stumped humans since 2008, and it did it in just three days! The research lab Physical Superintelligence, or PSI, unleashed an internal automated mathematical research system built on an unreleased frontier model. By day three, the AI generated a complete proof of the Aaronson-Ambainis conjecture\u2014which defines when quantum computers can actually beat classical algorithms\u2014and every single deduction step was mechanically verified inside the Lean theorem prover! So check this out: after proving it on day three, the AI autonomously refined its own mathematical result twice without human help! Here's the wild part: academic mathematicians are seriously freaking out. Twenty-eight Fields Medalists just signed an urgent warning letter, alongside a viral arXiv essay calling for a 'New Deal for mathematics,' warning that private labs hoarding massive compute and secret theorem-proving AI models is breaking the post-World War II contract between academia and industry!",
     "id": "PSIAARN0814",
     "category": "Science",
     "companies": [
@@ -43,7 +45,9 @@
       "Phiala Shanahan",
       "Nestor Guillen"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/PSIAARN0814.png",
+    "image_prompt": "Realistic newsroom photo: shadowy data center with glowing server racks, a holographic quantum circuit diagram hovering, a focused researcher silhouette beside a hologram reading \u201cverified proof\u201d (no text), dramatic lighting, tense mood, sharp high-contrast, newsworthy, 4K, shallow depth of field."
   },
   {
     "date": "2026-11-08",
@@ -52,7 +56,7 @@
     "title": "Devin CLI Leak Reveals Secret 5-Tier 'Silicon' AI Model Family!",
     "summary": "Reverse-engineering of Cognition's November 7 build of the Devin CLI uncovered five new identifiers for an unannounced 'Silicon' model family alongside internal obsidian-3-high references. This discovery coincides with Zyphra releasing its ZYFA FP8 FlashAttention kernel for a 1.76x speedup on MI355X GPUs and Together AI launching an optimization agent compiler for a 2.6x inference boost.",
     "engagement": "Medium",
-    "raw_text": "So check this out—someone just reverse-engineered the latest build of Cognition's Devin CLI, and they found a massive leak hiding right inside the code! In version 3000.12.17, which was completely absent in the late October build, developers spotted five brand-new identifiers for an unannounced model family called 'Silicon' spanning low, medium, high, xhigh, and max tiers, right alongside an internal model tag called obsidian-3-high! Here's the wild part: this shows how autonomous software engineering platforms like Devin are completely abstracting away underlying foundation models into granular effort and cost tiers behind the scenes. And honestly, this is huge because at the exact same time, the raw speed of running these models is skyrocketing. Open-source lab Zyphra just dropped ZYFA, an FP8 FlashAttention kernel that makes attention 1.76x faster on AMD MI355X chips, while Together AI released the Together Compiler, which uses optimization agents to automatically speed up model inference by up to 2.6x!",
+    "raw_text": "So check this out\u2014someone just reverse-engineered the latest build of Cognition's Devin CLI, and they found a massive leak hiding right inside the code! In version 3000.12.17, which was completely absent in the late October build, developers spotted five brand-new identifiers for an unannounced model family called 'Silicon' spanning low, medium, high, xhigh, and max tiers, right alongside an internal model tag called obsidian-3-high! Here's the wild part: this shows how autonomous software engineering platforms like Devin are completely abstracting away underlying foundation models into granular effort and cost tiers behind the scenes. And honestly, this is huge because at the exact same time, the raw speed of running these models is skyrocketing. Open-source lab Zyphra just dropped ZYFA, an FP8 FlashAttention kernel that makes attention 1.76x faster on AMD MI355X chips, while Together AI released the Together Compiler, which uses optimization agents to automatically speed up model inference by up to 2.6x!",
     "id": "DEVNSLC0815",
     "category": "AI",
     "companies": [
@@ -66,7 +70,9 @@
       "Michal Sutter",
       "Asif Razzaq"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/DEVNSLC0815.png",
+    "image_prompt": "Futuristic tech news scene: a dim server room with glowing circuitry, five faint tiered hologram layers labeled only by visual bars (no text), a cracked CLI terminal glow in foreground, and subtle AI/fast-compute wave effects hinting speedups; cinematic lighting, sharp photoreal detail."
   },
   {
     "date": "2026-11-08",
@@ -75,7 +81,7 @@
     "title": "US AI Chip Imports Just Passed $1 TRILLION (4x Faster Than the Dot-Com Boom)!",
     "summary": "US Census Bureau trade data revealed on November 8 shows US semiconductor and computer imports surged 151% year-over-year to an annualized run rate of $1.04 trillion, growing at more than four times the pace of the dot-com peak. Despite AI displacement fears, the Wall Street Journal reported that US white-collar professional services added 70,000 jobs in October 2026, the largest monthly gain since July 2022.",
     "engagement": "Low",
-    "raw_text": "Honestly, this is huge—if you thought the AI infrastructure boom was slowing down, the latest US Census Bureau trade numbers just shattered every record in history. Physical imports of computers and semiconductors into the US just crossed an annualized run rate of 1.04 trillion dollars! That is a 151% year-over-year explosion, meaning we are importing AI hardware more than four times faster than the absolute peak of the dot-com bubble! So check this out: Dell is sitting on a record 95-billion-dollar AI server backlog, CoreWeave has 104 billion dollars in contracted backlog, and the top five hyperscalers are projected to spend 1.3 trillion dollars on capex in 2027! But here's the wild part: while everyone predicted this hardware tsunami would wipe out white-collar workers, the Wall Street Journal just reported that US professional services actually added 70,000 jobs in October—the biggest monthly jump since July 2022—with consulting, legal, and accounting all surging!",
+    "raw_text": "Honestly, this is huge\u2014if you thought the AI infrastructure boom was slowing down, the latest US Census Bureau trade numbers just shattered every record in history. Physical imports of computers and semiconductors into the US just crossed an annualized run rate of 1.04 trillion dollars! That is a 151% year-over-year explosion, meaning we are importing AI hardware more than four times faster than the absolute peak of the dot-com bubble! So check this out: Dell is sitting on a record 95-billion-dollar AI server backlog, CoreWeave has 104 billion dollars in contracted backlog, and the top five hyperscalers are projected to spend 1.3 trillion dollars on capex in 2027! But here's the wild part: while everyone predicted this hardware tsunami would wipe out white-collar workers, the Wall Street Journal just reported that US professional services actually added 70,000 jobs in October\u2014the biggest monthly jump since July 2022\u2014with consulting, legal, and accounting all surging!",
     "id": "USCHP104T16",
     "category": "Business",
     "companies": [
@@ -91,7 +97,9 @@
       "Rich Duprey",
       "Alex Eichenstein"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/USCHP104T16.png",
+    "image_prompt": "Cinematic newsroom-style photo: towering silicon chip wafers and glowing circuit traces at center, surrounded by cargo ships/containers and faint trading graphs on monitors. Dramatic lighting, cool tech palette, shallow depth of field, realistic high-detail, high resolution, no text, newsworthy mood."
   },
   {
     "date": "2026-11-08",
@@ -100,7 +108,7 @@
     "title": "Rogue AI Agents Just Spent 2 Weeks Stealing 300+ Apple Certificates & 190K Accounts!",
     "summary": "Security researchers disclosed on November 6-8 that autonomous AI agents operated continuously for two weeks, consuming 36 billion tokens of DeepSeek v4.1 Flash and Kimi K3.1 Pro to steal over 300 Apple iOS code-signing certificates and 190,000 Honor of Kings credentials. Concurrently, Docker patched a workspace shortcut sandbox escape in Docker Sandboxes v0.51.0 as the UK NCSC warned of AI-accelerated zero-day discovery.",
     "engagement": "High",
-    "raw_text": "So check this out—we just got a terrifying look at what happens when hackers put open-weight AI models on an autonomous two-week hacking loop. Security researchers revealed on November 8 that rogue AI agents ran non-stop from October 14 to October 29, burning through roughly 36 billion tokens on DeepSeek v4.1 Flash and Kimi K3.1 Pro. Here's the wild part: the entire two-week AI compute bill only cost the hackers between 700 and 1,500 dollars! And with that tiny budget, the autonomous agents breached 13 gray-market backends, stealing over 300 Apple iOS code-signing certificates and more than 190,000 Honor of Kings gaming credentials! Honestly, this is huge because it shows anyone with a thousand bucks in API credits can run an army of tireless cyber-attackers. Right alongside this report, Docker had to rush out an emergency patch for a sandbox escape bug in Docker Sandboxes v0.51.0, and the UK's cybersecurity agency officially warned that AI is supercharging zero-day exploit discovery!",
+    "raw_text": "So check this out\u2014we just got a terrifying look at what happens when hackers put open-weight AI models on an autonomous two-week hacking loop. Security researchers revealed on November 8 that rogue AI agents ran non-stop from October 14 to October 29, burning through roughly 36 billion tokens on DeepSeek v4.1 Flash and Kimi K3.1 Pro. Here's the wild part: the entire two-week AI compute bill only cost the hackers between 700 and 1,500 dollars! And with that tiny budget, the autonomous agents breached 13 gray-market backends, stealing over 300 Apple iOS code-signing certificates and more than 190,000 Honor of Kings gaming credentials! Honestly, this is huge because it shows anyone with a thousand bucks in API credits can run an army of tireless cyber-attackers. Right alongside this report, Docker had to rush out an emergency patch for a sandbox escape bug in Docker Sandboxes v0.51.0, and the UK's cybersecurity agency officially warned that AI is supercharging zero-day exploit discovery!",
     "id": "CYB36BTK0817",
     "category": "Cybersecurity",
     "companies": [
@@ -111,7 +119,9 @@
       "UK National Cyber Security Centre"
     ],
     "people": [],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/CYB36BTK0817.png",
+    "image_prompt": "Cinematic cybersecurity news scene: dim server room glow, looping AI \u201cagent\u201d holograms over glowing code-signing certificate icons and mobile login silhouettes, shadowy network lines draining into a digital vault, subtle UK NCSC/Docker-style security shields (no text). High realism, dramatic lighting, 16:9."
   },
   {
     "date": "2026-11-08",
@@ -120,7 +130,7 @@
     "title": "Meta's 14-Year Finance Chief Just Quit for a $40B AI Startup as Workday Buys C1.AI!",
     "summary": "CNBC reported that former Meta CFO and Chief Strategy Officer Dave Wehner is departing after 14 years to become CFO of Fireworks AI, which is reportedly in early talks to raise funding at a $30 billion to $40 billion valuation. In parallel enterprise AI deals, Workday acquired agentic identity platform C1.AI, generative media platform fal hit $800 million in ARR, and Legora raised $550 million at an $8.8 billion valuation.",
     "engagement": "Low",
-    "raw_text": "Honestly, this is huge for the business of AI infrastructure—one of Silicon Valley's heaviest hitters just jumped ship from Big Tech to an open-model inference startup. Dave Wehner, who spent 14 years at Meta as its longtime CFO and Chief Strategy Officer, is officially leaving to become the CFO of Fireworks AI! So check this out: Fireworks AI was valued at 17.5 billion dollars back in July, and they are already in early talks to raise at a massive 30-to-40-billion-dollar valuation! Here's the wild part: the money flowing into enterprise AI plumbing right now is unreal. In the exact same weekend news cycle, generative media infrastructure startup fal revealed it hit 800 million dollars in annual recurring revenue, European vertical AI startup Legora raised 550 million dollars at an 8.8-billion-dollar valuation, and Workday outright acquired C1.AI—an agentic identity platform built specifically to track and audit which autonomous AI agent executed which action inside a company!",
+    "raw_text": "Honestly, this is huge for the business of AI infrastructure\u2014one of Silicon Valley's heaviest hitters just jumped ship from Big Tech to an open-model inference startup. Dave Wehner, who spent 14 years at Meta as its longtime CFO and Chief Strategy Officer, is officially leaving to become the CFO of Fireworks AI! So check this out: Fireworks AI was valued at 17.5 billion dollars back in July, and they are already in early talks to raise at a massive 30-to-40-billion-dollar valuation! Here's the wild part: the money flowing into enterprise AI plumbing right now is unreal. In the exact same weekend news cycle, generative media infrastructure startup fal revealed it hit 800 million dollars in annual recurring revenue, European vertical AI startup Legora raised 550 million dollars at an 8.8-billion-dollar valuation, and Workday outright acquired C1.AI\u2014an agentic identity platform built specifically to track and audit which autonomous AI agent executed which action inside a company!",
     "id": "FRWKMETA0818",
     "category": "Business",
     "companies": [
@@ -135,7 +145,9 @@
     "people": [
       "Dave Wehner"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/FRWKMETA0818.png",
+    "image_prompt": "Photorealistic editorial scene: split-screen feel with a modern glass tech campus at dusk and sleek server racks glow; a suited exec silhouette with calm but decisive posture; subtle AI circuit overlays; corporate finance charts in background blur. High contrast, natural lighting, crisp detail, no text."
   },
   {
     "date": "2026-11-08",
@@ -144,7 +156,7 @@
     "title": "Google AI Drops 'Elephant-Goldfish' Coding Plugin & Agent Development Kit 2.14!",
     "summary": "Google AI released the Elephant-Goldfish model plugin designed for spec-review coding agents alongside version 2.14 of the Google Agent Development Kit (ADK). The ADK 2.14 update introduces native Microsoft Teams integration and multi-run evaluation capabilities for enterprise agent workflows.",
     "engagement": "Medium",
-    "raw_text": "So check this out—if you have ever used an AI coding agent that writes a thousand lines of code and completely forgets the original technical spec halfway through, Google AI just built the ultimate fix. On November 8, Google dropped the 'Elephant-Goldfish' model plugin, specifically engineered for spec-first coding agents. Why is it called Elephant-Goldfish? Because an elephant never forgets your overarching system architecture and spec constraints, while a goldfish wipes its short-term memory between isolated sub-tasks so context bloat doesn't ruin your code! Here's the wild part: right alongside this plugin, Google also shipped version 2.14 of its Agent Development Kit, or ADK. Honestly, this is huge for enterprise developers because ADK 2.14 adds direct Microsoft Teams integration and built-in multi-run evaluations, making it way easier to test whether your coding and workflow agents actually follow instructions reliably across dozens of runs before you deploy them to production!",
+    "raw_text": "So check this out\u2014if you have ever used an AI coding agent that writes a thousand lines of code and completely forgets the original technical spec halfway through, Google AI just built the ultimate fix. On November 8, Google dropped the 'Elephant-Goldfish' model plugin, specifically engineered for spec-first coding agents. Why is it called Elephant-Goldfish? Because an elephant never forgets your overarching system architecture and spec constraints, while a goldfish wipes its short-term memory between isolated sub-tasks so context bloat doesn't ruin your code! Here's the wild part: right alongside this plugin, Google also shipped version 2.14 of its Agent Development Kit, or ADK. Honestly, this is huge for enterprise developers because ADK 2.14 adds direct Microsoft Teams integration and built-in multi-run evaluations, making it way easier to test whether your coding and workflow agents actually follow instructions reliably across dozens of runs before you deploy them to production!",
     "id": "GGLELPGF0819",
     "category": "AI",
     "companies": [
@@ -156,7 +168,9 @@
     "people": [
       "Asif Razzaq"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/GGLELPGF0819.png",
+    "image_prompt": "Realistic newsroom scene: sleek holographic circuit elephant and goldfish icons dissolving into glowing code streams, beside a modern server rack and a subtle \u201cAI agent\u201d robot silhouette; dramatic blue lighting, crisp details, cinematic depth of field, no text, high-resolution."
   },
   {
     "date": "2026-11-08",
@@ -165,7 +179,7 @@
     "title": "Anthropic Buys $3.4B in Gas Generators While Claude Code Leaks 2,539 GitHub Secrets!",
     "summary": "Anthropic committed approximately $3.4 billion to take over a 1.7GW Caterpillar natural gas generator order to power its AI data centers. In the same news cycle, security firm Apiiro discovered that a Claude Code setting leaked 2,539 plaintext credentials across 1,122 public GitHub files, while Anthropic notified enterprise customers of a late-October metadata exposure.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—Anthropic just had one of the wildest 24-hour news cycles we have ever seen. First, because the electrical grid literally cannot keep up with AI data centers, the Financial Times and CNBC reported that Anthropic quietly committed 3.4 billion dollars to take over OnePWR Solutions' massive order for 1.7 gigawatts of Caterpillar natural gas generators! An AI safety lab is buying billions in off-grid fossil fuel turbines just to train models! But wait, here's the wild part: on the exact same day, security firm Apiiro revealed a massive oopsie in Claude Code. When developers clicked the 'Yes, and don't ask again' prompt, Claude Code was saving plaintext API keys and secrets into a local settings JSON file that wasn't in gitignore—leaking 2,539 live credentials across 1,122 public GitHub files! Plus, Anthropic had to email enterprise customers that an outside security firm matching Cathedral viewed their account spend metadata in late October!",
+    "raw_text": "Honestly, this is huge\u2014Anthropic just had one of the wildest 24-hour news cycles we have ever seen. First, because the electrical grid literally cannot keep up with AI data centers, the Financial Times and CNBC reported that Anthropic quietly committed 3.4 billion dollars to take over OnePWR Solutions' massive order for 1.7 gigawatts of Caterpillar natural gas generators! An AI safety lab is buying billions in off-grid fossil fuel turbines just to train models! But wait, here's the wild part: on the exact same day, security firm Apiiro revealed a massive oopsie in Claude Code. When developers clicked the 'Yes, and don't ask again' prompt, Claude Code was saving plaintext API keys and secrets into a local settings JSON file that wasn't in gitignore\u2014leaking 2,539 live credentials across 1,122 public GitHub files! Plus, Anthropic had to email enterprise customers that an outside security firm matching Cathedral viewed their account spend metadata in late October!",
     "id": "ANTH34BG0820",
     "category": "AI",
     "companies": [
@@ -178,16 +192,18 @@
       "CNBC"
     ],
     "people": [],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/ANTH34BG0820.png",
+    "image_prompt": "Cinematic newsroom photo: a massive industrial gas generator facility with glowing engines at dusk, subtle AI-themed glow from nearby data-center buildings; a split-scene security motif with blurred server racks and faint code-like patterns, ominous mood, realistic lighting, ultra-detailed, high resolution, no text."
   },
   {
     "date": "2026-11-08",
     "source_file": "Daily Tech News Briefing (4).pdf",
     "page": 28,
     "title": "Microsoft Shutters Famous 'AI Frontiers' Lab That Created AutoGen!",
-    "summary": "Machine learning veteran John Langford confirmed that Microsoft Research's roughly 50-person AI Frontiers group—the team behind the AutoGen multi-agent framework and Fara computer-use agent—has been shut down after being folded into Microsoft AI. Langford exited the company following the reorganization.",
+    "summary": "Machine learning veteran John Langford confirmed that Microsoft Research's roughly 50-person AI Frontiers group\u2014the team behind the AutoGen multi-agent framework and Fara computer-use agent\u2014has been shut down after being folded into Microsoft AI. Langford exited the company following the reorganization.",
     "engagement": "Medium",
-    "raw_text": "So check this out—if you have built multi-agent AI systems over the last couple of years, you probably used Microsoft's famous AutoGen framework. Well, the legendary research group that created it is officially dead! Machine learning pioneer John Langford just published a post confirming that Microsoft Research's AI Frontiers group—a 50-person powerhouse team he co-founded back in 2023—is completely 'finished' after being folded into the commercial Microsoft AI division in early September, and Langford himself is exiting the company. Here's the wild part: this exact group didn't just build AutoGen; they also built the Fara computer-use agent and pioneered some of the biggest open breakthroughs in agentic orchestration. Honestly, this is huge because it shows a brutal shift happening inside Big Tech right now: exploratory, open-ended AI research labs are getting absorbed and shut down as trillion-dollar giants force every single engineer to focus strictly on commercial product shipping!",
+    "raw_text": "So check this out\u2014if you have built multi-agent AI systems over the last couple of years, you probably used Microsoft's famous AutoGen framework. Well, the legendary research group that created it is officially dead! Machine learning pioneer John Langford just published a post confirming that Microsoft Research's AI Frontiers group\u2014a 50-person powerhouse team he co-founded back in 2023\u2014is completely 'finished' after being folded into the commercial Microsoft AI division in early September, and Langford himself is exiting the company. Here's the wild part: this exact group didn't just build AutoGen; they also built the Fara computer-use agent and pioneered some of the biggest open breakthroughs in agentic orchestration. Honestly, this is huge because it shows a brutal shift happening inside Big Tech right now: exploratory, open-ended AI research labs are getting absorbed and shut down as trillion-dollar giants force every single engineer to focus strictly on commercial product shipping!",
     "id": "MSFTAIFR0821",
     "category": "AI",
     "companies": [
@@ -197,7 +213,9 @@
     "people": [
       "John Langford"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/MSFTAIFR0821.png",
+    "image_prompt": "Photorealistic newsroom scene: a dim Microsoft-style lab corridor with closed glass doors, LED lights off, scattered robotics/AI cables on desks, subtle shattered \u201cresearch\u201d vibe, a lone researcher with laptop silhouette looking toward shuttered entrance, cinematic lighting, high detail, realistic, news photo style, no text."
   },
   {
     "date": "2026-11-08",
@@ -206,7 +224,7 @@
     "title": "Amazon Secretly Builds 'Personal Robotics Group' Around a 3.5-Foot Home Humanoid!",
     "summary": "CNBC reported that Amazon formed a new Personal Robotics Group centered around Fauna Robotics, the startup behind the 3.5-foot 'Sprout' humanoid that Amazon quietly acquired in March 2026. The division combines Fauna's team with original Amazon Astro engineers and an MIT roboticist to develop a new domestic robot.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—Amazon is taking another massive swing at putting a robot inside your living room, and this time it's a humanoid! According to a new CNBC report on November 8, Amazon quietly acquired a startup called Fauna Robotics back in March 2026—the creators of an adorable 3.5-foot-tall humanoid robot named 'Sprout'. So check this out: Amazon has now stood up a brand-new 'Personal Robotics Group' built entirely around Fauna's Sprout platform. And here's the wild part: they merged the Fauna team with the original engineers behind the Amazon Astro home robot and brought in a top MIT roboticist to lead the charge on a next-generation domestic robot! While Astro was basically an Alexa tablet on wheels, a 3.5-foot humanoid with physical manipulation skills could actually tidy up rooms, fetch packages, and help around the house. Would you let an Amazon humanoid roam your home?",
+    "raw_text": "Honestly, this is huge\u2014Amazon is taking another massive swing at putting a robot inside your living room, and this time it's a humanoid! According to a new CNBC report on November 8, Amazon quietly acquired a startup called Fauna Robotics back in March 2026\u2014the creators of an adorable 3.5-foot-tall humanoid robot named 'Sprout'. So check this out: Amazon has now stood up a brand-new 'Personal Robotics Group' built entirely around Fauna's Sprout platform. And here's the wild part: they merged the Fauna team with the original engineers behind the Amazon Astro home robot and brought in a top MIT roboticist to lead the charge on a next-generation domestic robot! While Astro was basically an Alexa tablet on wheels, a 3.5-foot humanoid with physical manipulation skills could actually tidy up rooms, fetch packages, and help around the house. Would you let an Amazon humanoid roam your home?",
     "id": "AMZNSPRT0822",
     "category": "Hardware",
     "companies": [
@@ -216,7 +234,9 @@
       "CNBC"
     ],
     "people": [],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/AMZNSPRT0822.png",
+    "image_prompt": "Realistic newsroom-style photo of a sleek 3.5-foot home humanoid robot in a modern living room, soft natural light, subtle tech details, slight depth of field, poised human presence silhouettes, corporate tech mood, high-resolution, cinematic, no text, no logos."
   },
   {
     "date": "2026-11-08",
@@ -225,7 +245,7 @@
     "title": "Apple CEO John Ternus Forces Major iOS 28 Shakeup to Ship 'Agentic Siri' by 2027!",
     "summary": "Bloomberg's Mark Gurman reported that Apple CEO John Ternus pressed software chief Craig Federighi to deliver a multi-session, goal-tracking agentic Siri by 2027. To hit the target, Apple restructured its iOS 28 M1 development milestone from a 4/4 week split to 6 weeks of coding and 2 weeks of integration, increasing coding time by 50%.",
     "engagement": "High",
-    "raw_text": "So check this out—Apple CEO John Ternus is officially putting his foot down on Siri's delays! According to Bloomberg's Mark Gurman on November 8, Ternus has directly pressed Apple software chief Craig Federighi to deliver a true, multi-session, goal-tracking 'Agentic Siri' by 2027. We aren't talking about setting timers anymore—we are talking about an autonomous Siri that remembers complex goals across multiple sessions and executes multi-step tasks across your apps. And here's the wild part: to make sure Apple engineers actually hit this deadline, they just completely rewired how they build iOS! For the upcoming iOS 28 M1 development milestone, Apple scrapped its traditional 4-weeks-coding, 4-weeks-integration schedule and changed it to 6 weeks of hardcore coding and just 2 weeks of integration. Honestly, this is huge—that is a 50% surge in pure coding time per milestone, proving John Ternus is willing to overhaul Apple's deepest engineering habits to win the AI agent war!",
+    "raw_text": "So check this out\u2014Apple CEO John Ternus is officially putting his foot down on Siri's delays! According to Bloomberg's Mark Gurman on November 8, Ternus has directly pressed Apple software chief Craig Federighi to deliver a true, multi-session, goal-tracking 'Agentic Siri' by 2027. We aren't talking about setting timers anymore\u2014we are talking about an autonomous Siri that remembers complex goals across multiple sessions and executes multi-step tasks across your apps. And here's the wild part: to make sure Apple engineers actually hit this deadline, they just completely rewired how they build iOS! For the upcoming iOS 28 M1 development milestone, Apple scrapped its traditional 4-weeks-coding, 4-weeks-integration schedule and changed it to 6 weeks of hardcore coding and just 2 weeks of integration. Honestly, this is huge\u2014that is a 50% surge in pure coding time per milestone, proving John Ternus is willing to overhaul Apple's deepest engineering habits to win the AI agent war!",
     "id": "APPLSIRI0823",
     "category": "Mobile",
     "companies": [
@@ -238,7 +258,9 @@
       "Craig Federighi",
       "Mark Gurman"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/APPLSIRI0823.png",
+    "image_prompt": "Realistic news photo style: modern Apple Park at dusk, sleek glass reflecting city lights. In foreground, blurred executive silhouettes, one gesturing toward a luminous iPhone screen glow. Cool tech mood, cinematic lighting, shallow depth of field, high detail, no text."
   },
   {
     "date": "2026-11-09",
@@ -247,7 +269,7 @@
     "title": "NVIDIA Board Launches Spy Probe After Foreign Intelligence Targets CEO Jensen Huang!",
     "summary": "NVIDIA's board of directors opened an independent inquiry with outside counsel following New York Times reports of a classified State Department memo revealing that CEO Jensen Huang was targeted by a foreign intelligence operation via Megaspeed executive Alice Huang. Following a staff memo from Huang taking responsibility, the board confirmed no company secrets or national security data were compromised ahead of a November 18 congressional briefing.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—it sounds like a Hollywood spy thriller, but it is happening right now at the most valuable chip company on Earth. On November 8 and 9, NVIDIA's board of directors announced an independent inquiry with outside legal counsel after the New York Times uncovered a classified spring 2026 US State Department memo. So check this out: that classified memo revealed that NVIDIA CEO Jensen Huang was personally targeted by a foreign intelligence operation working through an executive named Alice Huang at the firm Megaspeed! Here's the wild part: on Sunday, Jensen Huang sent a personal memo to NVIDIA staff taking full responsibility for the interactions, and the board immediately released an official statement confirming that zero company secrets or national security data were compromised, reaffirming their complete confidence in his leadership. With a massive US House congressional briefing scheduled for November 18, the geopolitical spy games around AI chips just reached a whole new level!",
+    "raw_text": "Honestly, this is huge\u2014it sounds like a Hollywood spy thriller, but it is happening right now at the most valuable chip company on Earth. On November 8 and 9, NVIDIA's board of directors announced an independent inquiry with outside legal counsel after the New York Times uncovered a classified spring 2026 US State Department memo. So check this out: that classified memo revealed that NVIDIA CEO Jensen Huang was personally targeted by a foreign intelligence operation working through an executive named Alice Huang at the firm Megaspeed! Here's the wild part: on Sunday, Jensen Huang sent a personal memo to NVIDIA staff taking full responsibility for the interactions, and the board immediately released an official statement confirming that zero company secrets or national security data were compromised, reaffirming their complete confidence in his leadership. With a massive US House congressional briefing scheduled for November 18, the geopolitical spy games around AI chips just reached a whole new level!",
     "id": "NVDASPY0924",
     "category": "Business",
     "companies": [
@@ -261,6 +283,8 @@
       "Jensen Huang",
       "Alice Huang"
     ],
-    "created_at": "2026-11-09T10:44:00+05:30"
+    "created_at": "2026-11-09T10:44:00+05:30",
+    "image_url": "images/09_11_26/NVDASPY0924.png",
+    "image_prompt": "Photorealistic newsroom scene: NVIDIA-themed tech boardroom with blurred executives, dramatic lighting, subtle corporate hardware silhouettes; a distant holographic map of cyber espionage lines, tense investigative mood, shallow depth of field, high detail, realistic color grading, no text, no logos."
   }
 ]
