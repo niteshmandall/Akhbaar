@@ -6,7 +6,7 @@
     "title": "Meet Colette Kress: The New Interim CEO Taking Over Nvidia's $4 Trillion Empire!",
     "summary": "Following Jensen Huang's sudden resignation, Nvidia's board appointed longtime Chief Financial Officer Colette Kress as interim CEO. Concurrently, Harvey C. Jones was named the company's first-ever independent board chair to stabilize corporate governance and lead the search for a permanent chief executive.",
     "engagement": "Medium",
-    "raw_text": "So check this out: with Jensen Huang suddenly out at Nvidia, everyone is asking the exact same question—who is steering this four-trillion-dollar ship right now? Enter Colette Kress. If you don't know her name yet, you definitely need to, because she just became one of the most powerful executives on the planet overnight. She has been Nvidia's Chief Financial Officer since 2013 and has deep experience at major legacy enterprise software and networking giants. Honestly, putting a veteran CFO in charge as interim CEO was the smartest move the board could make to stop Wall Street from completely melting down after that initial 14 percent stock drop. And here's the wild part about how Nvidia is restructuring at the top: they also just named Harvey C. Jones as the first-ever independent chair of the board. Right now, they are running a massive search looking at both internal leaders and top executives from rival chipmakers to take the permanent crown. I think Kress has the toughest job in tech right now—stabilizing Nvidia while Congress comes after their exports!",
+    "raw_text": "So check this out: with Jensen Huang suddenly out at Nvidia, everyone is asking the exact same question\u2014who is steering this four-trillion-dollar ship right now? Enter Colette Kress. If you don't know her name yet, you definitely need to, because she just became one of the most powerful executives on the planet overnight. She has been Nvidia's Chief Financial Officer since 2013 and has deep experience at major legacy enterprise software and networking giants. Honestly, putting a veteran CFO in charge as interim CEO was the smartest move the board could make to stop Wall Street from completely melting down after that initial 14 percent stock drop. And here's the wild part about how Nvidia is restructuring at the top: they also just named Harvey C. Jones as the first-ever independent chair of the board. Right now, they are running a massive search looking at both internal leaders and top executives from rival chipmakers to take the permanent crown. I think Kress has the toughest job in tech right now\u2014stabilizing Nvidia while Congress comes after their exports!",
     "id": "kres10293l",
     "category": "Business",
     "companies": [
@@ -17,7 +17,9 @@
       "Harvey C. Jones",
       "Jensen Huang"
     ],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/kres10293l.png",
+    "image_prompt": "Photorealistic newsroom-style portrait of Colette Kress in a modern corporate office, neutral confident expression; background hints of Nvidia-like tech circuitry without logos; subtle global stock-market glow; include Harvey C. Jones in soft focus; dramatic professional lighting, high detail, realistic, no text."
   },
   {
     "date": "2026-11-13",
@@ -26,14 +28,16 @@
     "title": "The 'Chip Security Act' Will Put Physical Location Trackers Inside Every AI GPU!",
     "summary": "As part of the FY2027 NDAA legislative push, US lawmakers introduced the Chip Security Act and the AI Overwatch Act to halt illicit hardware transfers. The bills mandate physical, unalterable location-verification inside advanced silicon and freeze existing export rules for 18 months while restricting executive waivers.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—imagine your graphics card having a built-in, unhackable GPS tracker that bricks the chip if it crosses the wrong border! That is basically what the US Congress is trying to pass right now with the new Chip Security Act. Because blacklisted Chinese military universities kept sneaking Nvidia H200 and A100 chips past trade bans through middlemen, lawmakers are done playing games. So check this out: the Chip Security Act will legally force semiconductor makers to build physical, unalterable location-verification tech directly into advanced silicon. Manufacturers will have to actively track where their hardware is deployed and immediately report any suspicious cross-border smuggling. And right alongside it, they are pushing the AI Overwatch Act, which freezes current export rules for at least 18 months and strips the executive branch of its power to hand out easy waivers. Here's the wild part: we are moving into an era of hardware-level DRM for national security. If you are building AI data centers, every single rack of GPUs is about to be tracked at the silicon level!",
+    "raw_text": "Honestly, this is huge\u2014imagine your graphics card having a built-in, unhackable GPS tracker that bricks the chip if it crosses the wrong border! That is basically what the US Congress is trying to pass right now with the new Chip Security Act. Because blacklisted Chinese military universities kept sneaking Nvidia H200 and A100 chips past trade bans through middlemen, lawmakers are done playing games. So check this out: the Chip Security Act will legally force semiconductor makers to build physical, unalterable location-verification tech directly into advanced silicon. Manufacturers will have to actively track where their hardware is deployed and immediately report any suspicious cross-border smuggling. And right alongside it, they are pushing the AI Overwatch Act, which freezes current export rules for at least 18 months and strips the executive branch of its power to hand out easy waivers. Here's the wild part: we are moving into an era of hardware-level DRM for national security. If you are building AI data centers, every single rack of GPUs is about to be tracked at the silicon level!",
     "id": "chip20394m",
     "category": "Hardware",
     "companies": [
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/chip20394m.png",
+    "image_prompt": "Realistic high-tech news image: a close-up of an advanced AI GPU on a lab workbench, tiny sealed sensor modules embedded like security \u201clock-ins,\u201d subtle network overlays, US government/legislative atmosphere in soft background lighting, serious investigative mood, ultra-detailed, photoreal, 16:9, no text."
   },
   {
     "date": "2026-11-13",
@@ -42,12 +46,14 @@
     "title": "US Moves to Kill the 'Cloud Loophole' with RASA & MATCH Semiconductor Acts!",
     "summary": "The proposed Remote Access Security Act (RASA) grants the US Commerce Department statutory authority to block foreign entities from remotely renting US-origin AI compute in offshore data centers. Simultaneously, the MATCH Act tightens export bans on lithography and chip-making equipment across allied nations.",
     "engagement": "Medium",
-    "raw_text": "So check this out: for the last few years, whenever the US banned physical AI chips from being shipped to adversarial countries, companies used a super obvious workaround called the 'cloud loophole'. If you cannot buy an Nvidia H200, you just rent remote access to an offshore server farm that has them and train your AI models over the internet! Well, Washington is officially shutting that down. Lawmakers are pushing the Remote Access Security Act—or RASA—which gives the Department of Commerce explicit power to sanction and blockade foreign groups from remotely accessing US-made compute sitting in offshore data centers. On top of that, they are pairing it with the MATCH Act, which clamps down hard on exporting semiconductor manufacturing gear like lithography machines and forces allied nations to align so nobody can evade bans through third-party countries. Honestly, I think this completely rewrites the rules for cloud computing. Cloud providers are going to have to enforce intense Know-Your-Customer checks just to let developers spin up a GPU instance!",
+    "raw_text": "So check this out: for the last few years, whenever the US banned physical AI chips from being shipped to adversarial countries, companies used a super obvious workaround called the 'cloud loophole'. If you cannot buy an Nvidia H200, you just rent remote access to an offshore server farm that has them and train your AI models over the internet! Well, Washington is officially shutting that down. Lawmakers are pushing the Remote Access Security Act\u2014or RASA\u2014which gives the Department of Commerce explicit power to sanction and blockade foreign groups from remotely accessing US-made compute sitting in offshore data centers. On top of that, they are pairing it with the MATCH Act, which clamps down hard on exporting semiconductor manufacturing gear like lithography machines and forces allied nations to align so nobody can evade bans through third-party countries. Honestly, I think this completely rewrites the rules for cloud computing. Cloud providers are going to have to enforce intense Know-Your-Customer checks just to let developers spin up a GPU instance!",
     "id": "rasa30495n",
     "category": "AI",
     "companies": [],
     "people": [],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/rasa30495n.png",
+    "image_prompt": "Photorealistic newsroom hero image: US Capitol in dawn haze, overlaid with subtle server-rack silhouettes and a glowing \u201cdata tunnel\u201d toward offshore dark data centers; circuit traces imply export controls, twin symbols of AI compute and chip lithography equipment; tense, credible news mood, shallow depth of field."
   },
   {
     "date": "2026-11-13",
@@ -61,7 +67,9 @@
     "category": "Hardware",
     "companies": [],
     "people": [],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/indc40596o.png",
+    "image_prompt": "Photorealistic news photo: futuristic semiconductor wafer plant in India, cranes and cleanroom corridors, server racks and cooling pipes, world map with glowing arrows toward India, subtle \u201ctrusted geography\u201d feel via light beams, tense geopolitical mood, cinematic lighting, ultra-detailed, high contrast, no text."
   },
   {
     "date": "2026-11-12",
@@ -77,14 +85,16 @@
       "InMobi"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/lckw50697p.png",
+    "image_prompt": "Photorealistic news photo: modern InMobi-like tech campus in Lucknow at dusk, glass buildings and server racks visible through windows, engineers in casual attire reviewing holographic AI dashboards, warm city lights, subtle futuristic glow, cinematic lighting, ultra-high detail, realistic colors, no text."
   },
   {
     "date": "2026-11-13",
     "source_file": "Daily Tech News Aggregation Report (7).pdf",
     "page": 8,
     "title": "TCS, Infosys & Wipro Forced to Pivot to 'Agentic Orchestration' After Meta's New AI!",
-    "summary": "The launch of autonomous enterprise coding agents like Meta Muse Wonder threatens traditional manual code maintenance and testing revenues for Indian IT giants TCS, Infosys, and Wipro. To survive, IT service providers are pivoting toward 'Agentic Orchestration'—deploying, fine-tuning, and auditing fleets of on-premise AI agents for Fortune 500 clients.",
+    "summary": "The launch of autonomous enterprise coding agents like Meta Muse Wonder threatens traditional manual code maintenance and testing revenues for Indian IT giants TCS, Infosys, and Wipro. To survive, IT service providers are pivoting toward 'Agentic Orchestration'\u2014deploying, fine-tuning, and auditing fleets of on-premise AI agents for Fortune 500 clients.",
     "engagement": "Medium",
     "raw_text": "We need to have an honest conversation about what Meta's new Muse Wonder AI agent means for Indian IT giants like TCS, Infosys, and Wipro. For decades, the bread and butter of Indian IT services has been billing Fortune 500 companies for thousands of hours of manual code refactoring, legacy migration, and software testing. Well, when an autonomous agent like Muse Wonder can literally architect, debug, and deploy complex codebases by itself without losing context, that old hourly billing model is dead in the water. So check this out: instead of getting wiped out, these IT giants are gearing up for a massive pivot toward what analysts call 'Agentic Orchestration'. Because Meta takes an open approach to its model weights and frameworks, companies like Infosys and TCS can take Muse Wonder, fine-tune it on secure, on-premise servers for European and American banks, and manage entire fleets of AI agents while auditing their legal and financial compliance. Honestly, if you work in Indian IT right now, learning how to orchestrate and audit multi-agent systems is the ultimate career insurance!",
     "id": "itai60798q",
@@ -96,6 +106,8 @@
       "Wipro"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:22:00+05:30"
+    "created_at": "2026-11-13T09:22:00+05:30",
+    "image_url": "images/12_11_26/itai60798q.png",
+    "image_prompt": "Futuristic newsroom photo: three Indian corporate executives at a sleek server room, holographic agent icons hovering over on\u2011prem racks, AI workflows and orchestration lines glowing, subtle cyber security visuals, moody teal lighting, realistic high\u2011detail, shallow depth of field, no text."
   }
 ]
