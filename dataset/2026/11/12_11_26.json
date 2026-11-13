@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-11-12",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 2,
+    "title": "Meet Colette Kress: The New Interim CEO Taking Over Nvidia's $4 Trillion Empire!",
+    "summary": "Following Jensen Huang's sudden resignation, Nvidia's board appointed longtime Chief Financial Officer Colette Kress as interim CEO. Concurrently, Harvey C. Jones was named the company's first-ever independent board chair to stabilize corporate governance and lead the search for a permanent chief executive.",
+    "engagement": "Medium",
+    "raw_text": "So check this out: with Jensen Huang suddenly out at Nvidia, everyone is asking the exact same question—who is steering this four-trillion-dollar ship right now? Enter Colette Kress. If you don't know her name yet, you definitely need to, because she just became one of the most powerful executives on the planet overnight. She has been Nvidia's Chief Financial Officer since 2013 and has deep experience at major legacy enterprise software and networking giants. Honestly, putting a veteran CFO in charge as interim CEO was the smartest move the board could make to stop Wall Street from completely melting down after that initial 14 percent stock drop. And here's the wild part about how Nvidia is restructuring at the top: they also just named Harvey C. Jones as the first-ever independent chair of the board. Right now, they are running a massive search looking at both internal leaders and top executives from rival chipmakers to take the permanent crown. I think Kress has the toughest job in tech right now—stabilizing Nvidia while Congress comes after their exports!",
+    "id": "kres10293l",
+    "category": "Business",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [
+      "Colette Kress",
+      "Harvey C. Jones",
+      "Jensen Huang"
+    ],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  },
+  {
+    "date": "2026-11-13",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 3,
+    "title": "The 'Chip Security Act' Will Put Physical Location Trackers Inside Every AI GPU!",
+    "summary": "As part of the FY2027 NDAA legislative push, US lawmakers introduced the Chip Security Act and the AI Overwatch Act to halt illicit hardware transfers. The bills mandate physical, unalterable location-verification inside advanced silicon and freeze existing export rules for 18 months while restricting executive waivers.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge—imagine your graphics card having a built-in, unhackable GPS tracker that bricks the chip if it crosses the wrong border! That is basically what the US Congress is trying to pass right now with the new Chip Security Act. Because blacklisted Chinese military universities kept sneaking Nvidia H200 and A100 chips past trade bans through middlemen, lawmakers are done playing games. So check this out: the Chip Security Act will legally force semiconductor makers to build physical, unalterable location-verification tech directly into advanced silicon. Manufacturers will have to actively track where their hardware is deployed and immediately report any suspicious cross-border smuggling. And right alongside it, they are pushing the AI Overwatch Act, which freezes current export rules for at least 18 months and strips the executive branch of its power to hand out easy waivers. Here's the wild part: we are moving into an era of hardware-level DRM for national security. If you are building AI data centers, every single rack of GPUs is about to be tracked at the silicon level!",
+    "id": "chip20394m",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia"
+    ],
+    "people": [],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  },
+  {
+    "date": "2026-11-13",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 4,
+    "title": "US Moves to Kill the 'Cloud Loophole' with RASA & MATCH Semiconductor Acts!",
+    "summary": "The proposed Remote Access Security Act (RASA) grants the US Commerce Department statutory authority to block foreign entities from remotely renting US-origin AI compute in offshore data centers. Simultaneously, the MATCH Act tightens export bans on lithography and chip-making equipment across allied nations.",
+    "engagement": "Medium",
+    "raw_text": "So check this out: for the last few years, whenever the US banned physical AI chips from being shipped to adversarial countries, companies used a super obvious workaround called the 'cloud loophole'. If you cannot buy an Nvidia H200, you just rent remote access to an offshore server farm that has them and train your AI models over the internet! Well, Washington is officially shutting that down. Lawmakers are pushing the Remote Access Security Act—or RASA—which gives the Department of Commerce explicit power to sanction and blockade foreign groups from remotely accessing US-made compute sitting in offshore data centers. On top of that, they are pairing it with the MATCH Act, which clamps down hard on exporting semiconductor manufacturing gear like lithography machines and forces allied nations to align so nobody can evade bans through third-party countries. Honestly, I think this completely rewrites the rules for cloud computing. Cloud providers are going to have to enforce intense Know-Your-Customer checks just to let developers spin up a GPU instance!",
+    "id": "rasa30495n",
+    "category": "AI",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  },
+  {
+    "date": "2026-11-13",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 4,
+    "title": "Why the US-China Chip War is About to Flood India's Semiconductor Mission with Billions!",
+    "summary": "Strict new US hardware tracking and cloud access laws under the Chip Security Act, MATCH Act, and RASA are forcing global hyperscalers to relocate infrastructure out of contested regions. India's Sovereign Semiconductor Mission is positioned as a primary 'trusted geography' to capture redirected chip fabrication facilities, global capability centers, and data center investments.",
+    "engagement": "Medium",
+    "raw_text": "Here's the wild part about the massive US crackdown on Chinese chip access: India is about to become the biggest winner in the entire global supply chain shakeup. Think about what is happening right now. As Washington systematically cuts off Beijing from both physical GPUs and virtual cloud servers through laws like the Chip Security Act and RASA, global tech giants and chipmakers are scrambling to find geopolitically safe places to build. And where are they looking? Straight at India's Sovereign Semiconductor Mission. Because India has strong diplomatic ties with the US and a massive engineering workforce, we are positioned as the ultimate 'trusted geography'. Global capability centers and chip fabrication plants that can no longer safely operate in contested East Asian hubs are going to redirect billions in foreign direct investment right into Indian tech grids. Even better, closing the cloud loophole means global hyperscalers will route way more advanced AI compute through Indian data centers. Honestly, this is a generational opportunity for Indian hardware and cloud engineers!",
+    "id": "indc40596o",
+    "category": "Hardware",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  },
+  {
+    "date": "2026-11-12",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 5,
+    "title": "InMobi's New Lucknow Tech Center Signals a Massive Shift Away from Bengaluru!",
+    "summary": "Following the inauguration of its advanced technology center in Lucknow earlier in 2026, InMobi is expanding its regional deep-tech investments across Uttar Pradesh. The strategy aims to tap into northern India's massive engineering demographic and use the state's scale as a testing ground for globally exportable AI algorithms.",
+    "engagement": "Low",
+    "raw_text": "For the longest time, if you wanted to build deep-tech or scale an AI startup in India, you basically had to pack your bags and move to southern metros like Bengaluru, Hyderabad, or Chennai. But check this out: that old playbook is changing fast. Earlier this year, Indian unicorn InMobi inaugurated a brand-new advanced technology center right in Lucknow, and they are now pouring sustained investment into northern India's tech ecosystem. Why? Because there is a massive, untapped demographic dividend of engineering talent up north that companies were previously ignoring. And here is an angle I really love: Uttar Pradesh is India's most populous state. From an engineering standpoint, if you can build AI algorithms that successfully handle the healthcare, agriculture, and administrative logistics for a population of over 200 million people in UP, your software is automatically battle-tested and robust enough to export anywhere in the world. Honestly, watching Tier-2 cities transform from back-office hubs into real algorithmic R&D centers is one of my favorite tech trends of 2026.",
+    "id": "lckw50697p",
+    "category": "Business",
+    "companies": [
+      "InMobi"
+    ],
+    "people": [],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  },
+  {
+    "date": "2026-11-13",
+    "source_file": "Daily Tech News Aggregation Report (7).pdf",
+    "page": 8,
+    "title": "TCS, Infosys & Wipro Forced to Pivot to 'Agentic Orchestration' After Meta's New AI!",
+    "summary": "The launch of autonomous enterprise coding agents like Meta Muse Wonder threatens traditional manual code maintenance and testing revenues for Indian IT giants TCS, Infosys, and Wipro. To survive, IT service providers are pivoting toward 'Agentic Orchestration'—deploying, fine-tuning, and auditing fleets of on-premise AI agents for Fortune 500 clients.",
+    "engagement": "Medium",
+    "raw_text": "We need to have an honest conversation about what Meta's new Muse Wonder AI agent means for Indian IT giants like TCS, Infosys, and Wipro. For decades, the bread and butter of Indian IT services has been billing Fortune 500 companies for thousands of hours of manual code refactoring, legacy migration, and software testing. Well, when an autonomous agent like Muse Wonder can literally architect, debug, and deploy complex codebases by itself without losing context, that old hourly billing model is dead in the water. So check this out: instead of getting wiped out, these IT giants are gearing up for a massive pivot toward what analysts call 'Agentic Orchestration'. Because Meta takes an open approach to its model weights and frameworks, companies like Infosys and TCS can take Muse Wonder, fine-tune it on secure, on-premise servers for European and American banks, and manage entire fleets of AI agents while auditing their legal and financial compliance. Honestly, if you work in Indian IT right now, learning how to orchestrate and audit multi-agent systems is the ultimate career insurance!",
+    "id": "itai60798q",
+    "category": "AI",
+    "companies": [
+      "Meta",
+      "Tata Consultancy Services",
+      "Infosys",
+      "Wipro"
+    ],
+    "people": [],
+    "created_at": "2026-11-13T09:22:00+05:30"
+  }
+]
