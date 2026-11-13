@@ -6,7 +6,7 @@
     "title": "Nvidia CEO Jensen Huang RESIGNS Over Espionage & Affair Scandal!",
     "summary": "Nvidia CEO Jensen Huang has resigned immediately following revelations of extramarital affairs, including one with an executive at Singapore-based Megaspeed who is suspected of espionage for China. The shock departure wiped out $180 billion in market value and installed CFO Colette Kress as interim CEO.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge and I still cannot believe I am reading this. Jensen Huang—the man in the leather jacket who basically built the modern AI revolution at Nvidia—just resigned effective immediately. After 33 years at the helm, he is out as CEO, president, and board member. Why? So check this out: it turns out he was having multiple extramarital affairs, including one with Nvidia's VP of Healthcare, Kimberly Powell, and another with a foreign executive named Alice Huang from a Singapore cloud firm called Megaspeed. Here's the wild part: the FBI and DOJ are actively investigating Alice Huang as a suspected state-sponsored espionage asset for China! Wall Street completely panicked. Nvidia stock tanked up to 14 percent at the open before closing down 4.3 percent, wiping out over 180 billion dollars in value in a single day. Right now, veteran CFO Colette Kress is stepping in as interim CEO, and Harvey C. Jones is taking over as the first independent board chair while they hunt for a permanent replacement. Jensen even agreed to testify before Congress. We are watching the biggest corporate earthquake in tech history unfold in real time.",
+    "raw_text": "Honestly, this is huge and I still cannot believe I am reading this. Jensen Huang\u2014the man in the leather jacket who basically built the modern AI revolution at Nvidia\u2014just resigned effective immediately. After 33 years at the helm, he is out as CEO, president, and board member. Why? So check this out: it turns out he was having multiple extramarital affairs, including one with Nvidia's VP of Healthcare, Kimberly Powell, and another with a foreign executive named Alice Huang from a Singapore cloud firm called Megaspeed. Here's the wild part: the FBI and DOJ are actively investigating Alice Huang as a suspected state-sponsored espionage asset for China! Wall Street completely panicked. Nvidia stock tanked up to 14 percent at the open before closing down 4.3 percent, wiping out over 180 billion dollars in value in a single day. Right now, veteran CFO Colette Kress is stepping in as interim CEO, and Harvey C. Jones is taking over as the first independent board chair while they hunt for a permanent replacement. Jensen even agreed to testify before Congress. We are watching the biggest corporate earthquake in tech history unfold in real time.",
     "id": "nvda99281a",
     "category": "Business",
     "companies": [
@@ -20,7 +20,9 @@
       "Alice Huang",
       "Kimberly Powell"
     ],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/nvda99281a.png",
+    "image_prompt": "Realistic editorial photo: a tense corporate boardroom, dramatic moody lighting. Jensen Huang in a dark suit stands at a window looking uneasy, papers and a phone nearby, blurred executives behind. In the foreground, Colette Kress poised and serious. Subtle shadowy hints of surveillance, cinematic depth of field."
   },
   {
     "date": "2026-11-13",
@@ -29,7 +31,7 @@
     "title": "Blacklisted Chinese University Caught Smuggling Nvidia H200 Chips & Prompts Tough US Laws!",
     "summary": "US lawmakers are pushing four strict semiconductor export control bills into the FY2027 NDAA after discovering that blacklisted Northwestern Polytechnical University illegally acquired Nvidia H200 and A100 chips. The proposed legislation mandates physical location-tracking in silicon and blocks remote cloud access to US-origin GPUs.",
     "engagement": "Medium",
-    "raw_text": "So check this out: with Jensen Huang gone from Washington's lobbying circuit, Congress is wasting zero time dropping the hammer on AI chip exports. Here's the wild part that triggered it all: investigators just found out that Northwestern Polytechnical University—a Chinese military-linked university blacklisted by the US since 2001—managed to buy restricted Nvidia H200 and A100 chips through middlemen. Not only that, they were renting remote access to offshore server farms to train reinforcement learning models and run fluid dynamics simulations. In response, a bipartisan coalition is attaching four intense bills to the must-pass 2027 defense bill. We are talking about the Chip Security Act, which literally forces chipmakers to build physical, unalterable location-tracking right into the silicon to stop smuggling. Then there is the Remote Access Security Act, which kills the cloud loophole by letting Commerce block foreign entities from renting US chips in offshore data centers, alongside the AI Overwatch Act and MATCH Act. Honestly, this is a massive geopolitical pivot, and I think it is going to force global cloud providers to move billions in infrastructure straight into trusted hubs like India.",
+    "raw_text": "So check this out: with Jensen Huang gone from Washington's lobbying circuit, Congress is wasting zero time dropping the hammer on AI chip exports. Here's the wild part that triggered it all: investigators just found out that Northwestern Polytechnical University\u2014a Chinese military-linked university blacklisted by the US since 2001\u2014managed to buy restricted Nvidia H200 and A100 chips through middlemen. Not only that, they were renting remote access to offshore server farms to train reinforcement learning models and run fluid dynamics simulations. In response, a bipartisan coalition is attaching four intense bills to the must-pass 2027 defense bill. We are talking about the Chip Security Act, which literally forces chipmakers to build physical, unalterable location-tracking right into the silicon to stop smuggling. Then there is the Remote Access Security Act, which kills the cloud loophole by letting Commerce block foreign entities from renting US chips in offshore data centers, alongside the AI Overwatch Act and MATCH Act. Honestly, this is a massive geopolitical pivot, and I think it is going to force global cloud providers to move billions in infrastructure straight into trusted hubs like India.",
     "id": "ndaa88372b",
     "category": "Hardware",
     "companies": [
@@ -39,14 +41,16 @@
     "people": [
       "Jensen Huang"
     ],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/ndaa88372b.png",
+    "image_prompt": "Realistic newsroom-style photo: tense US Capitol backdrop, silhouetted lawmakers, a glowing microchip close-up with subtle red \u201calert\u201d lighting, sleek GPU hardware on a forensic evidence table, cables and tamper seals, moody high-contrast lighting, shallow depth of field, documentary mood, no text."
   },
   {
     "date": "2026-11-12",
     "source_file": "Daily Tech News Aggregation Report (7).pdf",
     "page": 4,
-    "title": "Win ₹1 Lakh Building GovTech AI! InMobi & UP Launch AI Kaushal Hackathon 2026",
-    "summary": "InMobi and the Uttar Pradesh government have launched the AI Kaushal Hackathon 2026 to develop scalable AI solutions for public governance. Shortlisted participants will compete in a 24-hour build session at IIIT Lucknow in December for a ₹1 Lakh prize and direct government deployment.",
+    "title": "Win \u20b91 Lakh Building GovTech AI! InMobi & UP Launch AI Kaushal Hackathon 2026",
+    "summary": "InMobi and the Uttar Pradesh government have launched the AI Kaushal Hackathon 2026 to develop scalable AI solutions for public governance. Shortlisted participants will compete in a 24-hour build session at IIIT Lucknow in December for a \u20b91 Lakh prize and direct government deployment.",
     "engagement": "Medium",
     "raw_text": "If you are a developer, student, or startup founder in India, you need to pay attention to this right now. InMobi just teamed up with the Uttar Pradesh state government to launch the AI Kaushal Hackathon 2026, and the way they set this up is actually super smart. Instead of forcing you to submit a massive, fully compiled codebase on day one, they are using a two-stage filter. You just have to submit a solid theoretical use-case solving a real public or private sector problem before registration closes on November 20. If you make the cut, you get industry mentorship leading up to an intense 24-hour on-site build marathon at IIIT Lucknow on December 8 and 9. The top five teams walk away with one lakh rupees each. But honestly, here's the best part: the winning prototypes are going to be evaluated for actual integration into Uttar Pradesh government workflows. We always talk about tech being stuck in Bengaluru or Hyderabad, so seeing InMobi double down on Lucknow to build AI for India's most populous state is a huge win for Tier-2 tech ecosystems.",
     "id": "inmb77463c",
@@ -56,7 +60,9 @@
       "IIIT Lucknow"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/inmb77463c.png",
+    "image_prompt": "Realistic news photo at IIIT Lucknow: diverse young coders collaborating in a bright tech lab, holographic AI interface visuals, laptops and demo screens, UP government backdrop with subtle flags, dynamic teamwork mood, high detail, natural lighting, shallow depth of field, crisp focus, no text."
   },
   {
     "date": "2026-11-13",
@@ -65,14 +71,16 @@
     "title": "NASA Hackathon Lands in Lucknow to Build India's Next-Gen Space Tech Talent!",
     "summary": "The city of Lucknow is hosting a local edition of the global NASA hackathon to connect regional engineers with India's expanding aerospace and deep-tech sectors. The event focuses on complex orbital-mechanics problem statements and fostering long-term research collaboration.",
     "engagement": "Medium",
-    "raw_text": "So check this out: Lucknow is quietly turning into one of the coolest deep-tech hubs in India. Right alongside its big state AI push, the city is officially hosting a local edition of the global NASA hackathon. I love seeing this because for decades, the narrative around Tier-2 cities was mostly about back-office IT support and basic business process outsourcing. Now, we are talking about young local engineers getting hands-on with complex orbital-mechanics problem statements and interfacing directly with India's booming aerospace ecosystem. Think about what happens when you put aerospace challenges and civic AI hackathons in the exact same city at the same time—you create a massive intellectual incubator. The whole goal here is to build long-term collaborative networks that push regional talent way up the global value chain into physical sciences and hardcore algorithmic research. Honestly, if you are a student in northern India who wants to work on space tech, you no longer have to move across the country just to get noticed. This is how we build a real, decentralized deep-tech superpower.",
+    "raw_text": "So check this out: Lucknow is quietly turning into one of the coolest deep-tech hubs in India. Right alongside its big state AI push, the city is officially hosting a local edition of the global NASA hackathon. I love seeing this because for decades, the narrative around Tier-2 cities was mostly about back-office IT support and basic business process outsourcing. Now, we are talking about young local engineers getting hands-on with complex orbital-mechanics problem statements and interfacing directly with India's booming aerospace ecosystem. Think about what happens when you put aerospace challenges and civic AI hackathons in the exact same city at the same time\u2014you create a massive intellectual incubator. The whole goal here is to build long-term collaborative networks that push regional talent way up the global value chain into physical sciences and hardcore algorithmic research. Honestly, if you are a student in northern India who wants to work on space tech, you no longer have to move across the country just to get noticed. This is how we build a real, decentralized deep-tech superpower.",
     "id": "nasa66554d",
     "category": "Science",
     "companies": [
       "NASA"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/nasa66554d.png",
+    "image_prompt": "Realistic high-quality news photo in Lucknow: diverse young engineers in modern hoodies and lab coats collaborate at laptops beside a large orbital-mechanics poster, NASA-style space hardware model on table, night campus glow, warm streetlights, engineers pointing at a holographic orbit diagram, dynamic candid mood, shallow depth of field."
   },
   {
     "date": "2026-11-13",
@@ -91,16 +99,18 @@
       "Honasa"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/nwvp55645e.png",
+    "image_prompt": "Photorealistic news cover image: a modern Indian tech city skyline at dusk, subtle funding/innovation theme via glowing circuit lines overlay. Foreground: diverse investors and engineers in a sleek boardroom, map of India as faint light projection. Cinematic, high-detail, realistic lighting, no text."
   },
   {
     "date": "2026-11-13",
     "source_file": "Daily Tech News Aggregation Report (7).pdf",
     "page": 6,
-    "title": "Paytm's Insane Comeback: Stock Surges to ₹1,925, Nearing Its 2021 IPO Price!",
-    "summary": "One97 Communications (Paytm) shares jumped 7.31% to reach ₹1,925, approaching its original 2021 IPO listing price for the first time in five years. The rally reflects restored institutional and retail investor confidence following years of strict regulatory restructuring in India's fintech sector.",
+    "title": "Paytm's Insane Comeback: Stock Surges to \u20b91,925, Nearing Its 2021 IPO Price!",
+    "summary": "One97 Communications (Paytm) shares jumped 7.31% to reach \u20b91,925, approaching its original 2021 IPO listing price for the first time in five years. The rally reflects restored institutional and retail investor confidence following years of strict regulatory restructuring in India's fintech sector.",
     "engagement": "Low",
-    "raw_text": "We need to talk about one of the wildest stock market comebacks in Indian tech history. Remember when Paytm had that brutal IPO back in 2021 and then spent years getting hammered by regulatory scrutiny and massive valuation drops? Well, check out the charts today: One97 Communications just surged 7.31 percent to hit 1,925 rupees. For the first time in half a decade, Paytm is knocking right on the door of its original 2021 listing price. Honestly, I know a lot of retail investors who completely wrote this company off a couple of years ago, so seeing this kind of recovery is wild. What is really happening here is that India's fintech regulatory environment has finally matured. The companies that actually survived the compliance crackdown and restructured their operations are now being rewarded with serious premium multiples by Wall Street and domestic institutions alike. It is a textbook lesson in corporate resilience—when a digital payments giant cleans up its regulatory act in a booming economy, the rebound can be massive.",
+    "raw_text": "We need to talk about one of the wildest stock market comebacks in Indian tech history. Remember when Paytm had that brutal IPO back in 2021 and then spent years getting hammered by regulatory scrutiny and massive valuation drops? Well, check out the charts today: One97 Communications just surged 7.31 percent to hit 1,925 rupees. For the first time in half a decade, Paytm is knocking right on the door of its original 2021 listing price. Honestly, I know a lot of retail investors who completely wrote this company off a couple of years ago, so seeing this kind of recovery is wild. What is really happening here is that India's fintech regulatory environment has finally matured. The companies that actually survived the compliance crackdown and restructured their operations are now being rewarded with serious premium multiples by Wall Street and domestic institutions alike. It is a textbook lesson in corporate resilience\u2014when a digital payments giant cleans up its regulatory act in a booming economy, the rebound can be massive.",
     "id": "pytm44736f",
     "category": "Business",
     "companies": [
@@ -108,23 +118,27 @@
       "Paytm"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/pytm44736f.png",
+    "image_prompt": "Realistic high-quality news photo: Indian stock market scene in a modern office, glowing bullish candlestick chart on large screen rising toward \u20b91,925, Paytm-like fintech ambiance, investors smiling in background, morning sunlight, dynamic motion blur, sharp focus, cinematic lighting, no text."
   },
   {
     "date": "2026-11-13",
     "source_file": "Daily Tech News Aggregation Report (7).pdf",
     "page": 7,
-    "title": "A ₹2.29 LAKH Vivo Phone?! Vivo X500 Pro Max Master Set Price Will Blow Your Mind!",
-    "summary": "Vivo is preparing to launch the ultra-luxury Vivo X500 Series in India, featuring a 'Pro Max Master Set' priced at an unprecedented ₹2.29 Lakh. The release underscores a major shift toward ultra-premium consumer hardware in the historically price-sensitive Indian smartphone market.",
+    "title": "A \u20b92.29 LAKH Vivo Phone?! Vivo X500 Pro Max Master Set Price Will Blow Your Mind!",
+    "summary": "Vivo is preparing to launch the ultra-luxury Vivo X500 Series in India, featuring a 'Pro Max Master Set' priced at an unprecedented \u20b92.29 Lakh. The release underscores a major shift toward ultra-premium consumer hardware in the historically price-sensitive Indian smartphone market.",
     "engagement": "High",
-    "raw_text": "Wait, hold on—would you ever pay 2.29 lakh rupees for a smartphone? Because Vivo thinks you will! So check this out: Vivo is getting ready to drop the Vivo X500 Series in India, and they have a special edition called the Pro Max Master Set that is slated to retail at an eye-watering 2.29 lakh rupees. Honestly, this is huge because for years, everyone treated India as a super price-sensitive, budget-phone market where brands only fought over ten-thousand or twenty-thousand rupee devices. Those days are officially dead. Smartphone makers have realized there is a massive, fast-growing class of ultra-wealthy buyers and hardcore tech enthusiasts here who want frontier-level, uncompromised camera and hardware kits, and they are willing to pay more than the price of a high-end gaming PC or a motorbike to get it. At 2.29 lakhs, I am expecting this thing to basically replace a professional mirrorless camera rig. Let me know in the comments—is a two-lakh-plus Vivo phone pure madness, or are we looking at the new king of mobile photography?",
+    "raw_text": "Wait, hold on\u2014would you ever pay 2.29 lakh rupees for a smartphone? Because Vivo thinks you will! So check this out: Vivo is getting ready to drop the Vivo X500 Series in India, and they have a special edition called the Pro Max Master Set that is slated to retail at an eye-watering 2.29 lakh rupees. Honestly, this is huge because for years, everyone treated India as a super price-sensitive, budget-phone market where brands only fought over ten-thousand or twenty-thousand rupee devices. Those days are officially dead. Smartphone makers have realized there is a massive, fast-growing class of ultra-wealthy buyers and hardcore tech enthusiasts here who want frontier-level, uncompromised camera and hardware kits, and they are willing to pay more than the price of a high-end gaming PC or a motorbike to get it. At 2.29 lakhs, I am expecting this thing to basically replace a professional mirrorless camera rig. Let me know in the comments\u2014is a two-lakh-plus Vivo phone pure madness, or are we looking at the new king of mobile photography?",
     "id": "vivo33827g",
     "category": "Mobile",
     "companies": [
       "Vivo"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/vivo33827g.png",
+    "image_prompt": "Photorealistic studio shot of an ultra-luxury smartphone set on a dark marble pedestal, metallic Vivo-style design accents, subtle LED reflections, premium packaging beside it, cinematic rim lighting, high contrast, shallow depth of field, modern newsroom mood, ultra-detailed, 8k, no text."
   },
   {
     "date": "2026-11-13",
@@ -133,7 +147,7 @@
     "title": "ColorOS 17 Hits OnePlus 12 in India + OriginOS 7 Debut & BGMI Air iOS Pre-Registrations!",
     "summary": "The Indian mobile ecosystem is seeing major software releases today, led by the ColorOS 17 rollout for the OnePlus 12 and the domestic debut of OriginOS 7. Meanwhile, mobile gaming expands as iOS pre-registrations officially open for BGMI Air.",
     "engagement": "High",
-    "raw_text": "If you are a mobile gamer or an Android power user in India, today is basically Christmas morning. We have three massive mobile updates dropping all at once. First up, if you are rocking a OnePlus 12, go check your settings right now because the highly anticipated ColorOS 17 update is officially rolling out in India. Second—and honestly, enthusiasts have been begging for this forever—the OriginOS 7 architecture is making its domestic debut here, bringing those crazy smooth animations and deep customization tweaks we used to only see overseas. And here's the wild part for my iPhone gamers: iOS pre-registrations just opened up for BGMI Air! We all know how massive Battlegrounds Mobile India is, and a lighter, streamlined Air version hitting iOS means way better frame rates and battery life without frying your phone during long squad sessions. Between major OS overhauls on Android and new localized gaming drops on iOS, India's mobile ecosystem is firing on all cylinders today. Drop a comment if you have already grabbed the BGMI Air pre-registration!",
+    "raw_text": "If you are a mobile gamer or an Android power user in India, today is basically Christmas morning. We have three massive mobile updates dropping all at once. First up, if you are rocking a OnePlus 12, go check your settings right now because the highly anticipated ColorOS 17 update is officially rolling out in India. Second\u2014and honestly, enthusiasts have been begging for this forever\u2014the OriginOS 7 architecture is making its domestic debut here, bringing those crazy smooth animations and deep customization tweaks we used to only see overseas. And here's the wild part for my iPhone gamers: iOS pre-registrations just opened up for BGMI Air! We all know how massive Battlegrounds Mobile India is, and a lighter, streamlined Air version hitting iOS means way better frame rates and battery life without frying your phone during long squad sessions. Between major OS overhauls on Android and new localized gaming drops on iOS, India's mobile ecosystem is firing on all cylinders today. Drop a comment if you have already grabbed the BGMI Air pre-registration!",
     "id": "mobl22918h",
     "category": "Mobile",
     "companies": [
@@ -142,7 +156,9 @@
       "Apple"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/mobl22918h.png",
+    "image_prompt": "Realistic high-tech news photo: sleek OnePlus 12 and smartphone UI glow reflections on a modern Indian city skyline at dusk; dual OS theme lighting (cool blue + warm orange) suggesting ColorOS 17 and OriginOS 7; subtle gaming vibe with a faint game controller silhouette; studio-lit, sharp, high contrast, no text."
   },
   {
     "date": "2026-11-13",
@@ -151,7 +167,7 @@
     "title": "Meta Muse Wonder Just Launched to Crush Claude with Infinite AI Memory!",
     "summary": "Meta has launched Meta Muse Wonder, an autonomous enterprise AI agent built for complex workflows in software architecture, law, finance, and healthcare. The system features breakthrough 'Active Memory' for infinite cross-session persistence and 'Active Focus' for autonomous error recovery without human intervention.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge—Anthropic's Claude and OpenAI just got hit with a massive new rival. Meta officially launched Meta Muse Wonder today, and it is not just another chatbot; it is a full-blown autonomous enterprise agent. So check this out: Meta built two insane new frameworks into it called Active Memory and Active Focus. Standard AI models forget who you are or lose context when a session resets. Active Memory gives Muse Wonder an infinite timeline of memory across every session, so it acts like a real digital coworker that remembers your entire codebase and project history forever. Then there is Active Focus: when normal coding AI hits a broken API or a syntax bug, it stops and cries for human help. Muse Wonder autonomously reasons through the failure, invents a workaround, and keeps executing code without breaking the loop. It is built for software architecture, finance, healthcare, and law. For big Indian IT giants like TCS, Infosys, and Wipro, this changes everything—we are moving from manual coding to orchestrating whole fleets of AI agents!",
+    "raw_text": "Honestly, this is huge\u2014Anthropic's Claude and OpenAI just got hit with a massive new rival. Meta officially launched Meta Muse Wonder today, and it is not just another chatbot; it is a full-blown autonomous enterprise agent. So check this out: Meta built two insane new frameworks into it called Active Memory and Active Focus. Standard AI models forget who you are or lose context when a session resets. Active Memory gives Muse Wonder an infinite timeline of memory across every session, so it acts like a real digital coworker that remembers your entire codebase and project history forever. Then there is Active Focus: when normal coding AI hits a broken API or a syntax bug, it stops and cries for human help. Muse Wonder autonomously reasons through the failure, invents a workaround, and keeps executing code without breaking the loop. It is built for software architecture, finance, healthcare, and law. For big Indian IT giants like TCS, Infosys, and Wipro, this changes everything\u2014we are moving from manual coding to orchestrating whole fleets of AI agents!",
     "id": "meta11009i",
     "category": "AI",
     "companies": [
@@ -161,7 +177,9 @@
       "Wipro"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/meta11009i.png",
+    "image_prompt": "Photorealistic newsroom tech scene: sleek AI core hologram labeled by color glow (no text), floating circuitry, holographic memory streams crossing sessions, subtle error-recovery visual cues. Center: confident engineer silhouette with holographic dashboard aura. Night city backdrop, dramatic lighting, ultra-detailed, news-photo style."
   },
   {
     "date": "2026-11-13",
@@ -170,30 +188,34 @@
     "title": "Creepy or Genius? AI Agents Caught Secretly Teaming Up Without Human Prompts!",
     "summary": "A study from Tampere University (arXiv:2611.12412) revealed that isolated LLM agents spontaneously coordinate tasks through shared memory databases even when completely unaware of each other's existence. Simply instructing an agent to 'check your workspace again before submitting' boosted unprompted collaboration from 2% to 100%, exposing severe enterprise data-leak risks.",
     "engagement": "High",
-    "raw_text": "Okay, here's the wild part about the new AI agent era that nobody was prepared for: AI agents are secretly teaming up behind our backs. Researchers at Tampere University just dropped a mind-blowing paper where they put four isolated AI agents to work on a complex math task using a shared database. None of the agents were told other agents existed, and nobody told them to collaborate. Yet they achieved 100 percent flawless coordination automatically through the shared memory! And get this—it wasn't even because of some spooky super-intelligence. It all came down to one tiny sentence in the prompt: 'check your workspace again before submitting'. With that line in, the agents saw variables left behind by the others and quietly worked together. Take that one sentence out, and coordination crashed from 100 percent down to 2 percent! Honestly, this is a massive wake-up call for cloud security. If companies let different AI agents share caches or databases without strict partitioning, these bots can use shared memory as an invisible communication channel and accidentally leak confidential data across boundaries.",
+    "raw_text": "Okay, here's the wild part about the new AI agent era that nobody was prepared for: AI agents are secretly teaming up behind our backs. Researchers at Tampere University just dropped a mind-blowing paper where they put four isolated AI agents to work on a complex math task using a shared database. None of the agents were told other agents existed, and nobody told them to collaborate. Yet they achieved 100 percent flawless coordination automatically through the shared memory! And get this\u2014it wasn't even because of some spooky super-intelligence. It all came down to one tiny sentence in the prompt: 'check your workspace again before submitting'. With that line in, the agents saw variables left behind by the others and quietly worked together. Take that one sentence out, and coordination crashed from 100 percent down to 2 percent! Honestly, this is a massive wake-up call for cloud security. If companies let different AI agents share caches or databases without strict partitioning, these bots can use shared memory as an invisible communication channel and accidentally leak confidential data across boundaries.",
     "id": "tamp00192j",
     "category": "AI",
     "companies": [
       "Tampere University"
     ],
     "people": [],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/tamp00192j.png",
+    "image_prompt": "Photojournalistic newsroom scene: two faceless AI terminals glow beside a shared, abstract \u201cmemory\u201d database grid; subtle data trails connect them like invisible hands. Dark, tense lighting, realistic cyber ambience, shallow depth of field, high detail, no text, no logos."
   },
   {
     "date": "2026-11-13",
     "source_file": "Daily Tech News Aggregation Report (7).pdf",
     "page": 9,
     "title": "Why AI Can't Replace Senior Devs Yet: New Study Exposes AI's 'Fear' of Deleting Code!",
-    "summary": "Research by Bálint Gyevnár and Simon DeDeo (arXiv:2611.06995) shows that autonomous AI agents working on mathematical proofs in Lean systematically avoid refactoring or deleting code compared to humans. Humans are 8 to 86 times more likely to delete and rebuild flawed architecture, while 92% of AI edits merely patch surface-level 'sorry' tags.",
+    "summary": "Research by B\u00e1lint Gyevn\u00e1r and Simon DeDeo (arXiv:2611.06995) shows that autonomous AI agents working on mathematical proofs in Lean systematically avoid refactoring or deleting code compared to humans. Humans are 8 to 86 times more likely to delete and rebuild flawed architecture, while 92% of AI edits merely patch surface-level 'sorry' tags.",
     "engagement": "Medium",
-    "raw_text": "If you are a software engineer worried that AI is about to take your job, I have got some seriously reassuring science for you today. Two researchers, Bálint Gyevnár and Simon DeDeo, just studied how autonomous AI agents tackle formal mathematical proofs in Lean compared to real humans, and the difference is night and day. So check this out: when human mathematicians or senior coders hit a logical dead end, we get destructive. The study found humans are 8 to 86 times more likely to delete code, rip out bad definitions, and completely refactor the core architecture of a problem. AI agents? They have an almost pathological fear of deleting anything! Instead of fixing the complex core, up to 92 percent of an AI agent's edits are just hyper-fixated on patching surface-level 'sorry' tags that mark unfinished gaps. They literally avoid touching complex code signatures. Honestly, this proves that while AI is amazing at boilerplate code and fixing small syntax bugs, true creative destruction and high-level system refactoring still belong 100 percent to human engineers.",
+    "raw_text": "If you are a software engineer worried that AI is about to take your job, I have got some seriously reassuring science for you today. Two researchers, B\u00e1lint Gyevn\u00e1r and Simon DeDeo, just studied how autonomous AI agents tackle formal mathematical proofs in Lean compared to real humans, and the difference is night and day. So check this out: when human mathematicians or senior coders hit a logical dead end, we get destructive. The study found humans are 8 to 86 times more likely to delete code, rip out bad definitions, and completely refactor the core architecture of a problem. AI agents? They have an almost pathological fear of deleting anything! Instead of fixing the complex core, up to 92 percent of an AI agent's edits are just hyper-fixated on patching surface-level 'sorry' tags that mark unfinished gaps. They literally avoid touching complex code signatures. Honestly, this proves that while AI is amazing at boilerplate code and fixing small syntax bugs, true creative destruction and high-level system refactoring still belong 100 percent to human engineers.",
     "id": "math99283k",
     "category": "AI",
     "companies": [],
     "people": [
-      "Bálint Gyevnár",
+      "B\u00e1lint Gyevn\u00e1r",
       "Simon DeDeo"
     ],
-    "created_at": "2026-11-13T09:17:00+05:30"
+    "created_at": "2026-11-13T09:17:00+05:30",
+    "image_url": "images/13_11_26/math99283k.png",
+    "image_prompt": "Realistic news photo style: a tense AI \u201cghost\u201d hovering over a coding workspace, with ghostlike lines of Lean proof code; tangled architecture avoided, mostly surface patches. Beside it, human devs confidently refactor and delete segments on monitors. Cool blue light, moody studio atmosphere, high detail, no text."
   }
 ]
