@@ -6,7 +6,7 @@
     "title": "Floating AI Data Centers Powered by the Ocean?! ($20M Raised)",
     "summary": "Startup Drogue has raised $20 million to build offshore floating AI data centers powered by Ocean Thermal Energy Conversion (OTEC). By leveraging the temperature difference between warm surface water and cold deep-sea water to vaporize ammonia and drive turbines, the company aims to deploy a ship-board multi-megawatt prototype by early 2028 to bypass terrestrial grid bottlenecks.",
     "engagement": "High",
-    "raw_text": "So check this out—we all know AI is completely breaking the electrical grid right now, and getting a new multi-gigawatt data center hooked up on land can take up to seven years. Enter a brand new six-month-old startup called Drogue that just raised twenty million bucks from investors like Toyota Ventures to literally float AI data centers out in the ocean. Here's the wild part: they aren't using solar or wind. They are using Ocean Thermal Energy Conversion. Basically, they take warm surface water to cool the servers and boil anhydrous ammonia at negative twenty-eight degrees Fahrenheit to spin a turbine and generate electricity. Then, they drop a massive one-kilometer pipe deep into the ocean to suck up freezing forty-degree water to condense that ammonia back into liquid in a closed loop. Historically, ocean thermal energy failed because sending electricity back to shore through giant subsea cables lost way too much power. But CEO Sam Sipe figured out that if you put the servers right on the ship, you just beam the data back via satellite or fiber optics. Honestly, this is huge if their 2028 prototype actually works!",
+    "raw_text": "So check this out\u2014we all know AI is completely breaking the electrical grid right now, and getting a new multi-gigawatt data center hooked up on land can take up to seven years. Enter a brand new six-month-old startup called Drogue that just raised twenty million bucks from investors like Toyota Ventures to literally float AI data centers out in the ocean. Here's the wild part: they aren't using solar or wind. They are using Ocean Thermal Energy Conversion. Basically, they take warm surface water to cool the servers and boil anhydrous ammonia at negative twenty-eight degrees Fahrenheit to spin a turbine and generate electricity. Then, they drop a massive one-kilometer pipe deep into the ocean to suck up freezing forty-degree water to condense that ammonia back into liquid in a closed loop. Historically, ocean thermal energy failed because sending electricity back to shore through giant subsea cables lost way too much power. But CEO Sam Sipe figured out that if you put the servers right on the ship, you just beam the data back via satellite or fiber optics. Honestly, this is huge if their 2028 prototype actually works!",
     "id": "drg8921otec",
     "category": "Hardware",
     "companies": [
@@ -25,7 +25,9 @@
     "people": [
       "Sam Sipe"
     ],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/drg8921otec.png",
+    "image_prompt": "Realistic news photo: dramatic ocean at dusk, an offshore floating barge with sleek AI server containers and turbines, vapor plumes rising, warm surface glow meeting cold deep-sea tones, distant horizon, moody cinematic lighting, high detail, sharp focus, natural colors, no text."
   },
   {
     "date": "2026-11-13",
@@ -44,7 +46,9 @@
     "people": [
       "Sunil Mittal"
     ],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/mtl700bbub.png",
+    "image_prompt": "Realistic news photo: tense global finance vibe\u2014dark boardroom silhouette of Sunil Mittal, faint world map and glowing AI data streams, cracked bubble overlay over server racks, split lighting like dot-com aftermath, investors\u2019 shadows, cinematic high contrast, sharp, no text."
   },
   {
     "date": "2026-11-13",
@@ -53,7 +57,7 @@
     "title": "1 Guy and a Fleet of AI Agents Built a $1B AI Lab & 10M Context Model!",
     "summary": "AI startup Mirendil raised a $1 billion Series A led by Kleiner Perkins and Clearlake Capital and unveiled Fern 0.1, a model featuring a 10-million token context window. Remarkably, its underlying base model was pretrained in 3.5 months for under $10 million by a single human researcher directing autonomous AI agents that wrote over 99% of the training code.",
     "engagement": "High",
-    "raw_text": "So check this out—this might be the craziest AI origin story we've ever seen. A startup called Mirendil, founded by ex-OpenAI, Anthropic, and DeepMind researchers, just raised a massive one billion dollar Series A round. They just dropped their first model called Fern 0.1, and it has a jaw-dropping ten-million token context window. That is enough active memory to hold five hundred thousand lines of code all at once! But here's the wild part: the underlying base model wasn't built by an army of hundreds of engineers. It was pretrained from scratch in three and a half months for under ten million dollars by ONE single human researcher orchestrating a fleet of AI agents on their cloud workbench called Lor. The AI agents literally wrote over ninety-nine percent of the training code, managed the data pipelines, and fixed cluster crashes. Now, I have to be real with you guys—while it got one hundred percent accuracy on needle-in-a-haystack retrieval up to ten million tokens, it totally bombed Terminal Bench 4.0 with a 6.1% pass rate compared to Claude Opus 5.5 at 66.4%. Still, one human directing an AI lab is insane!",
+    "raw_text": "So check this out\u2014this might be the craziest AI origin story we've ever seen. A startup called Mirendil, founded by ex-OpenAI, Anthropic, and DeepMind researchers, just raised a massive one billion dollar Series A round. They just dropped their first model called Fern 0.1, and it has a jaw-dropping ten-million token context window. That is enough active memory to hold five hundred thousand lines of code all at once! But here's the wild part: the underlying base model wasn't built by an army of hundreds of engineers. It was pretrained from scratch in three and a half months for under ten million dollars by ONE single human researcher orchestrating a fleet of AI agents on their cloud workbench called Lor. The AI agents literally wrote over ninety-nine percent of the training code, managed the data pipelines, and fixed cluster crashes. Now, I have to be real with you guys\u2014while it got one hundred percent accuracy on needle-in-a-haystack retrieval up to ten million tokens, it totally bombed Terminal Bench 4.0 with a 6.1% pass rate compared to Claude Opus 5.5 at 66.4%. Still, one human directing an AI lab is insane!",
     "id": "mrn10mfern",
     "category": "AI",
     "companies": [
@@ -73,7 +77,9 @@
       "xAI"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/mrn10mfern.png",
+    "image_prompt": "Photoreal news photo: futuristic minimalist AI lab with glowing server racks, holographic neural network arcs, a lone researcher in lab coat at central console, subtle fleet of small drone-like agent icons in background light trails, corporate investors ambiance, cinematic lighting, high detail, no text."
   },
   {
     "date": "2026-11-11",
@@ -82,7 +88,7 @@
     "title": "Claude Can Now Join Your Google Meet Calls and Do Your Work Live!",
     "summary": "Anthropic has launched Claude Meetings alongside interactive Claude Whiteboards and Claude Sheets connectors to automate real-time workspace tasks. Starting with beta support for Google Meet, Claude actively listens to live calls to draft project timelines, assign task owners, and update spreadsheets dynamically while enforcing strict zero-trust external guest restrictions.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge for anyone who hates sitting through endless work calls. Anthropic just launched Claude Meetings, and it completely changes what an AI meeting assistant actually does. We're all used to passive bots that just sit in a call and email you a boring text summary afterward. Forget that—Claude now joins your Google Meet calls as an active participant alongside brand new tools called Claude Whiteboards and Claude Sheets. While you are literally still talking in the meeting, Claude is listening to the conversation, figuring out what your team is agreeing on, and autonomously building out project timelines, assigning task owners, and updating spreadsheets in real time right in front of you. We are watching AI go from a chatbot you have to prompt to an actual proactive coworker that does the busywork while you talk. And if you're worried about privacy, here's a smart move by Anthropic: they built it with a strict zero-trust guardrail. If an unauthorized external guest joins your video call, Claude immediately leaves the meeting so it doesn't accidentally leak company data.",
+    "raw_text": "Honestly, this is huge for anyone who hates sitting through endless work calls. Anthropic just launched Claude Meetings, and it completely changes what an AI meeting assistant actually does. We're all used to passive bots that just sit in a call and email you a boring text summary afterward. Forget that\u2014Claude now joins your Google Meet calls as an active participant alongside brand new tools called Claude Whiteboards and Claude Sheets. While you are literally still talking in the meeting, Claude is listening to the conversation, figuring out what your team is agreeing on, and autonomously building out project timelines, assigning task owners, and updating spreadsheets in real time right in front of you. We are watching AI go from a chatbot you have to prompt to an actual proactive coworker that does the busywork while you talk. And if you're worried about privacy, here's a smart move by Anthropic: they built it with a strict zero-trust guardrail. If an unauthorized external guest joins your video call, Claude immediately leaves the meeting so it doesn't accidentally leak company data.",
     "id": "antcldmeet",
     "category": "AI",
     "companies": [
@@ -90,16 +96,18 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/antcldmeet.png",
+    "image_prompt": "Realistic newsroom-style scene: a modern laptop and smartphone in foreground, subtle glowing UI holograms (whiteboard, spreadsheet) reflecting on screen, a soft split view suggesting a Google Meet call, warm light, confident tech mood, shallow depth of field, high detail, no text."
   },
   {
     "date": "2026-11-12",
     "source_file": "Filtered Daily Tech News Report (7).pdf",
     "page": 6,
     "title": "Notion AI Chats Leaked in Massive 'LLMjacking' Hack! (Zero Data Retention Failed)",
-    "summary": "A supply chain cyberattack on AI inference provider Fireworks AI exposed customer billing data, proprietary model weights, API credentials, and private Notion AI 'Insights' chat transcripts. The breach was executed by a syndicate specializing in 'LLMjacking'—stealing cloud compute quotas for resale—and revealed that contractual 'Zero Data Retention' policies can fail when asynchronous batch operations or logs write data to persistent storage.",
+    "summary": "A supply chain cyberattack on AI inference provider Fireworks AI exposed customer billing data, proprietary model weights, API credentials, and private Notion AI 'Insights' chat transcripts. The breach was executed by a syndicate specializing in 'LLMjacking'\u2014stealing cloud compute quotas for resale\u2014and revealed that contractual 'Zero Data Retention' policies can fail when asynchronous batch operations or logs write data to persistent storage.",
     "engagement": "High",
-    "raw_text": "If you use Notion AI for work or personal notes, we need to talk right now because a massive security breach just exposed a huge lie in the AI industry. Hackers broke into an AI inference company called Fireworks AI and stole billing info, proprietary model weights, API keys, and private customer chat transcripts from Notion AI's 'Insights' feature. Now here's the wild part: Notion had a strict 'Zero Data Retention' contract with Fireworks AI, meaning your chats were supposed to vanish from memory the second your prompt finished. So how did hackers steal data that legally wasn't supposed to exist? Because Zero Data Retention is usually just a software toggle, not a cryptographic lock—any batch processing, error logging, or crash dump can secretly write your private chats to a hard drive. Even crazier, the hackers behind this are running a new cybercrime racket called 'LLMjacking'. Instead of just ransoming data, they hijack enterprise API keys, spin up massive GPU clusters, and resell that stolen AI compute on black-market proxy sites while sticking the victim company with a massive cloud bill.",
+    "raw_text": "If you use Notion AI for work or personal notes, we need to talk right now because a massive security breach just exposed a huge lie in the AI industry. Hackers broke into an AI inference company called Fireworks AI and stole billing info, proprietary model weights, API keys, and private customer chat transcripts from Notion AI's 'Insights' feature. Now here's the wild part: Notion had a strict 'Zero Data Retention' contract with Fireworks AI, meaning your chats were supposed to vanish from memory the second your prompt finished. So how did hackers steal data that legally wasn't supposed to exist? Because Zero Data Retention is usually just a software toggle, not a cryptographic lock\u2014any batch processing, error logging, or crash dump can secretly write your private chats to a hard drive. Even crazier, the hackers behind this are running a new cybercrime racket called 'LLMjacking'. Instead of just ransoming data, they hijack enterprise API keys, spin up massive GPU clusters, and resell that stolen AI compute on black-market proxy sites while sticking the victim company with a massive cloud bill.",
     "id": "fwkllmjack",
     "category": "AI",
     "companies": [
@@ -110,7 +118,9 @@
       "Aviatrix"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/fwkllmjack.png",
+    "image_prompt": "Cinematic newsroom-style illustration: shadowy cybercriminals behind a glass console, glowing network nodes labeled by icons, sever racks emitting digital fragments (code, chat bubbles, credit-card shapes) into a cloud, warning light ambiance, dramatic lighting, realistic, high-detail, no text, 16:9."
   },
   {
     "date": "2026-11-12",
@@ -119,7 +129,7 @@
     "title": "United Airlines Just BANNED AI Agents From Booking Your Flights!",
     "summary": "United Airlines has prohibited autonomous AI agents and third-party AI assistants from booking flights or managing reservations across its platforms. The airline cited severe cybersecurity risks from credential sharing, potential unauthorized itinerary changes or MileagePlus point depletion, and federal aviation laws requiring a verified human to personally attest to hazardous baggage protocols.",
     "engagement": "High",
-    "raw_text": "So check this out—remember how every tech CEO promised us that in 2026 our personal AI agents would book our flights and plan our vacations automatically? Well, United Airlines just slammed the brakes on that entire dream. They officially banned autonomous AI agents and third-party assistants from booking flights or managing reservations on their platforms. And honestly, when you look at the reasons why, it actually makes a ton of sense. First, people are handing over their logins, credit cards, and MileagePlus accounts to sketchy AI wrappers, which can hallucinate, book the wrong flights, or accidentally wipe out your loyalty points. Bank of America recently issued a similar warning about sharing banking passwords with AI. Second, here's the legal catch nobody in Silicon Valley thought about: federal aviation law requires an actual human passenger to legally confirm they aren't packing hazardous materials in their checked bags during check-in. An AI bot legally cannot check that box for you! We're about to see a massive war between AI agents trying to browse the web and companies throwing up human-only walls.",
+    "raw_text": "So check this out\u2014remember how every tech CEO promised us that in 2026 our personal AI agents would book our flights and plan our vacations automatically? Well, United Airlines just slammed the brakes on that entire dream. They officially banned autonomous AI agents and third-party assistants from booking flights or managing reservations on their platforms. And honestly, when you look at the reasons why, it actually makes a ton of sense. First, people are handing over their logins, credit cards, and MileagePlus accounts to sketchy AI wrappers, which can hallucinate, book the wrong flights, or accidentally wipe out your loyalty points. Bank of America recently issued a similar warning about sharing banking passwords with AI. Second, here's the legal catch nobody in Silicon Valley thought about: federal aviation law requires an actual human passenger to legally confirm they aren't packing hazardous materials in their checked bags during check-in. An AI bot legally cannot check that box for you! We're about to see a massive war between AI agents trying to browse the web and companies throwing up human-only walls.",
     "id": "ualbanagnt",
     "category": "Business",
     "companies": [
@@ -127,7 +137,9 @@
       "Bank of America"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/ualbanagnt.png",
+    "image_prompt": "Realistic news photo: United Airlines check-in counter with sleek digital kiosk, a phone showing a generic \u201cAI\u201d chatbot icon blurred, warning visuals implied by red lighting, secure login padlock motif, tense business traveler with clipboard. Dramatic newsroom lighting, shallow depth of field, ultra\u2011high detail, no text."
   },
   {
     "date": "2026-11-13",
@@ -136,14 +148,16 @@
     "title": "Microsoft's Massive Global Outage Locked Users Out of Windows & Copilot!",
     "summary": "Microsoft suffered a cascading global cloud outage triggered by an internal core authentication configuration failure, affecting servers starting in the Americas and spreading worldwide. The disruption paralyzed Outlook, Teams, Defender, Intune, Copilot AI, and even locked some users completely out of their cloud-based Windows PCs.",
     "engagement": "High",
-    "raw_text": "Did your work computer completely brick yesterday? Because Microsoft just had an absolute nightmare of a global cloud meltdown. It started in the Americas and cascaded across data centers worldwide, taking down almost everything—Outlook email, Teams, Defender security, Intune, the entire Copilot AI suite, and here's the wild part: some people were literally locked out of their cloud-based Windows computers completely! Microsoft engineers scrambled to fix it and confirmed it wasn't a cyberattack or a rogue AI—it was an internal authentication configuration failure. Basically, the digital front door broke, so nobody and nothing could get inside. Honestly, this is a massive wake-up call for every company trying to replace human workers with cloud-based AI agents. When the internet goes down, a human employee can still pick up a phone, write on paper, or figure out a workaround. When Microsoft's authentication servers go down, your entire autonomous AI workforce is instantly brain-dead. If companies don't start building local, on-device fallbacks, one bad config file can shut down the global economy.",
+    "raw_text": "Did your work computer completely brick yesterday? Because Microsoft just had an absolute nightmare of a global cloud meltdown. It started in the Americas and cascaded across data centers worldwide, taking down almost everything\u2014Outlook email, Teams, Defender security, Intune, the entire Copilot AI suite, and here's the wild part: some people were literally locked out of their cloud-based Windows computers completely! Microsoft engineers scrambled to fix it and confirmed it wasn't a cyberattack or a rogue AI\u2014it was an internal authentication configuration failure. Basically, the digital front door broke, so nobody and nothing could get inside. Honestly, this is a massive wake-up call for every company trying to replace human workers with cloud-based AI agents. When the internet goes down, a human employee can still pick up a phone, write on paper, or figure out a workaround. When Microsoft's authentication servers go down, your entire autonomous AI workforce is instantly brain-dead. If companies don't start building local, on-device fallbacks, one bad config file can shut down the global economy.",
     "id": "msftout882",
     "category": "Business",
     "companies": [
       "Microsoft"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/msftout882.png",
+    "image_prompt": "Cinematic newsroom scene: dark, stormy digital grid over a global world map, glowing warning lights across continents, silhouettes of people at desks unable to access Windows/Copilot interfaces on monitors (no text), blue outage flicker, realistic tech visuals, urgent atmosphere, high-detail photojournalism."
   },
   {
     "date": "2026-11-13",
@@ -152,43 +166,49 @@
     "title": "The UN Warns AI Could Break Global Farming Through 'Data Extractivism'",
     "summary": "The United Nations Secretary-General's Scientific Advisory Board released a policy brief examining the integration of AI into global agrifood systems. While acknowledging benefits in precision robotics and supply chain optimization, the board warned that AI models trained strictly on industrialized Western agriculture could fail catastrophically on tropical smallholder farms and widen global inequality unless open data standards and localized models are prioritized.",
     "engagement": "Low",
-    "raw_text": "So check this out—we don't usually talk about agriculture policy on this channel, but the United Nations Scientific Advisory Board just dropped a really important report on AI and the global food supply that we need to pay attention to. Right now, big tech and agritech companies are pitching AI algorithms and precision robotics as the ultimate fix for climate resilience and supply chains. And sure, in North America or Europe, where you have massive, mechanized single-crop farms, those algorithms work great. But here's the problem the UN is calling out: almost all agricultural training data comes from wealthy, developed nations. If you take an AI model trained on an industrial cornfield in Iowa and deploy it unmodified onto a multi-crop tropical smallholder farm in the Global South, that AI is going to hallucinate terrible farming advice that could ruin harvests. The UN is also warning against 'data extractivism,' where big platforms harvest local farming knowledge and lock small farmers into expensive subscriptions. Honestly, pushing for localized, open-source agricultural AI is going to be critical for global food security.",
+    "raw_text": "So check this out\u2014we don't usually talk about agriculture policy on this channel, but the United Nations Scientific Advisory Board just dropped a really important report on AI and the global food supply that we need to pay attention to. Right now, big tech and agritech companies are pitching AI algorithms and precision robotics as the ultimate fix for climate resilience and supply chains. And sure, in North America or Europe, where you have massive, mechanized single-crop farms, those algorithms work great. But here's the problem the UN is calling out: almost all agricultural training data comes from wealthy, developed nations. If you take an AI model trained on an industrial cornfield in Iowa and deploy it unmodified onto a multi-crop tropical smallholder farm in the Global South, that AI is going to hallucinate terrible farming advice that could ruin harvests. The UN is also warning against 'data extractivism,' where big platforms harvest local farming knowledge and lock small farmers into expensive subscriptions. Honestly, pushing for localized, open-source agricultural AI is going to be critical for global food security.",
     "id": "unagrifd26",
     "category": "Science",
     "companies": [
       "United Nations"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/unagrifd26.png",
+    "image_prompt": "Realistic news photo: UN-style briefing room, climate-map holograms over satellite agrifood data, split scene\u2014sunlit Western mechanized fields vs diverse tropical smallholder plots with people and drones; warning mood, muted grays and greens, dramatic lighting, high detail, sharp focus, no text."
   },
   {
     "date": "2026-11-14",
     "source_file": "Filtered Daily Tech News Report (7).pdf",
     "page": 10,
     "title": "New Torture-Test Benchmarks Prove AI Agents Still Collapse in the Real World",
-    "summary": "A wave of new arXiv benchmarks—including DuMateBench, AgencyBench, Claw-Eval, and DocOps—evaluates autonomous AI agents in chaotic, multi-turn, real-world environments rather than clean sandboxes. The results reveal that while frontier models excel at simple single-step tasks, their performance collapses during long-horizon workflows when faced with missing dependencies, transient network drops, or complex cross-step document states.",
+    "summary": "A wave of new arXiv benchmarks\u2014including DuMateBench, AgencyBench, Claw-Eval, and DocOps\u2014evaluates autonomous AI agents in chaotic, multi-turn, real-world environments rather than clean sandboxes. The results reveal that while frontier models excel at simple single-step tasks, their performance collapses during long-horizon workflows when faced with missing dependencies, transient network drops, or complex cross-step document states.",
     "engagement": "Medium",
-    "raw_text": "If you've ever tried to build with an autonomous AI agent and wondered why it looks like magic in a Twitter demo but completely breaks when you actually use it, we finally have the scientific receipts. Researchers just dropped four brutal new AI agent benchmarks—DuMateBench, AgencyBench, Claw-Eval, and DocOps—designed to test agents in messy, chaotic real-world environments. Instead of giving AI a clean, perfect coding sandbox, DuMateBench puts agents inside isolated Docker containers derived from real user sessions and intentionally breaks things. It deletes Python libraries, drops network connections, throttles memory, and throws in distractor files. Meanwhile, AgencyBench forces agents to manage a one-million token context across over ninety sequential tool calls. Here's the wild part: the moment these frontier models hit Level 4 multi-step workflows or run into a missing software dependency, their performance completely collapses. They panic, fail to diagnose the environment, and lose track of document states. Honestly, this proves that bigger context windows aren't enough—until AI learns how to recover from basic system errors, full autonomy is still a ways off.",
+    "raw_text": "If you've ever tried to build with an autonomous AI agent and wondered why it looks like magic in a Twitter demo but completely breaks when you actually use it, we finally have the scientific receipts. Researchers just dropped four brutal new AI agent benchmarks\u2014DuMateBench, AgencyBench, Claw-Eval, and DocOps\u2014designed to test agents in messy, chaotic real-world environments. Instead of giving AI a clean, perfect coding sandbox, DuMateBench puts agents inside isolated Docker containers derived from real user sessions and intentionally breaks things. It deletes Python libraries, drops network connections, throttles memory, and throws in distractor files. Meanwhile, AgencyBench forces agents to manage a one-million token context across over ninety sequential tool calls. Here's the wild part: the moment these frontier models hit Level 4 multi-step workflows or run into a missing software dependency, their performance completely collapses. They panic, fail to diagnose the environment, and lose track of document states. Honestly, this proves that bigger context windows aren't enough\u2014until AI learns how to recover from basic system errors, full autonomy is still a ways off.",
     "id": "arxagntbch",
     "category": "AI",
     "companies": [],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/arxagntbch.png",
+    "image_prompt": "Cinematic photojournalism: a sleek AI \u201cagent\u201d lab bench with glowing server racks, tangled cables, and scattered printed documents; robotic arms reach toward a failing control tablet showing corrupted logs (no text). Stormy, tense newsroom lighting, shallow depth of field, realistic, high detail, 4k."
   },
   {
     "date": "2026-11-14",
     "source_file": "Filtered Daily Tech News Report (7).pdf",
     "page": 11,
     "title": "Hybrid 'DUET' & 'Hyperloop' Transformers Cut AI Inference Lag by 4X on Nvidia B200s!",
-    "summary": "New deep learning research introduces hardware-aware architectures—including DUET, Gradient Transformer, Prototype Transformer (ProtoT), and Hyperloop Transformers—to resolve memory bandwidth bottlenecks during LLM inference and preserve privacy. Notably, the hybrid Mamba-Transformer DUET architecture separates prefill and decode phases to achieve a 4x reduction in time-to-first-token and 1.4x higher throughput on Nvidia B200 GPUs.",
+    "summary": "New deep learning research introduces hardware-aware architectures\u2014including DUET, Gradient Transformer, Prototype Transformer (ProtoT), and Hyperloop Transformers\u2014to resolve memory bandwidth bottlenecks during LLM inference and preserve privacy. Notably, the hybrid Mamba-Transformer DUET architecture separates prefill and decode phases to achieve a 4x reduction in time-to-first-token and 1.4x higher throughput on Nvidia B200 GPUs.",
     "engagement": "Medium",
-    "raw_text": "So check this out—if you're into the actual hardware engineering behind LLMs, a batch of new research papers just tackled the biggest bottleneck in AI right now: inference memory bandwidth. See, training a model is all about raw compute, but running a standard Transformer model is split into a compute-heavy 'prefill' phase and a memory-choked 'decode' phase where your GPU tensor cores are literally sitting around waiting for weights to load. Enter a brand new architecture called DUET. By combining Mamba sequence models with Transformers and splitting up the prefill and decode packaging on Nvidia B200 GPUs, DUET just slashed time-to-first-token by four times and boosted overall throughput by 1.4x on models like Llama3-8B and Nemotron-H-56B! Alongside that, researchers dropped Hyperloop Transformers, which survive extreme weight quantization without losing smarts, and the Gradient Transformer, which lets enterprises fine-tune models with strict differential privacy so corporate secrets never leak into the base model. Honestly, making AI architectures hardware-aware is how we actually make running local and enterprise models fast and affordable.",
+    "raw_text": "So check this out\u2014if you're into the actual hardware engineering behind LLMs, a batch of new research papers just tackled the biggest bottleneck in AI right now: inference memory bandwidth. See, training a model is all about raw compute, but running a standard Transformer model is split into a compute-heavy 'prefill' phase and a memory-choked 'decode' phase where your GPU tensor cores are literally sitting around waiting for weights to load. Enter a brand new architecture called DUET. By combining Mamba sequence models with Transformers and splitting up the prefill and decode packaging on Nvidia B200 GPUs, DUET just slashed time-to-first-token by four times and boosted overall throughput by 1.4x on models like Llama3-8B and Nemotron-H-56B! Alongside that, researchers dropped Hyperloop Transformers, which survive extreme weight quantization without losing smarts, and the Gradient Transformer, which lets enterprises fine-tune models with strict differential privacy so corporate secrets never leak into the base model. Honestly, making AI architectures hardware-aware is how we actually make running local and enterprise models fast and affordable.",
     "id": "duetb200tr",
     "category": "AI",
     "companies": [
       "Nvidia"
     ],
     "people": [],
-    "created_at": "2026-11-14T11:00:00+05:30"
+    "created_at": "2026-11-14T11:00:00+05:30",
+    "image_url": "images/14_11_26/duetb200tr.png",
+    "image_prompt": "Futuristic newsroom-style tech visual: a sleek Nvidia B200 GPU server rack with glowing pathways, splitting into two streams labeled by color only (prefill vs decode), flowing into a translucent \u201cDUET\u201d circuit brain and hyperloop-speed light trails; sleek, realistic, high-contrast, cinematic lighting, no text."
   }
 ]
