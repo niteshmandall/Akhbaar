@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 5,
+    "title": "540+ Google Employees Rebel Over AI Search in Schools!",
+    "summary": "Reports on November 20 revealed that over 540 Google employees signed an internal petition urging leadership to offer schools and students an AI-free Google Search option. Signatories warned that default AI summaries bypass primary sources, introduce factual errors into coursework, and weaken independent research skills, though Google has not announced a policy response.",
+    "engagement": "High",
+    "raw_text": "So check this out—internal pushback at Google just hit the headlines, and it's all about students using AI Search! Reports revealed that over 540 Google employees signed an internal petition asking leadership to give schools and students an AI-free version of Google Search. Here's the wild part: the employees signing this aren't anti-tech—they're warning that default AI summaries skip right past primary sources, sneak factual errors into schoolwork, and weaken students' ability to do real, independent research. Honestly, this is huge because it's coming from inside the company building these tools. Google hasn't announced any policy change yet, so we don't know if a clean search mode for classrooms will actually happen. As someone who uses AI tools every single day, I totally get the concern—if kids never learn how to verify a primary source, things get messy fast. Do you think schools should get an AI-free search toggle?",
+    "id": "ggl903p5x2",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 10,
+    "title": "Meta's $300 'Muse Charm' AI Gadget Leaked—Smartwatch Delayed to 2027!",
+    "summary": "According to reporting from The Information cited on November 20, Meta plans to price a 2-inch pocket-sized Muse Charm AI device at $300 with up to 12 months of free Verizon 5G data while pushing its smartwatch launch back to 2027, though Meta has not confirmed the details. Meanwhile, a Dutch privacy watchdog separately urged consumers not to buy AI smart glasses.",
+    "engagement": "High",
+    "raw_text": "So check this out—wearable AI hardware keeps getting weirder, and Meta's roadmap just leaked! According to The Information, Meta is reportedly planning to price a tiny 2-inch pocket-sized device called the Muse Charm at $300, bundling in up to 12 months of free Verizon 5G data while delaying its smartwatch all the way to 2027. Here's the wild part: Meta hasn't confirmed any of this yet, and right as this leaked, a Dutch privacy watchdog came out telling consumers not to buy AI smart glasses at all. Honestly, this is huge because dedicated AI pins and pocket gadgets have had a rough track record so far, so betting on a $300 pocket charm with cellular connectivity is a bold move. Bundling a year of 5G definitely makes the math interesting, though. Would you actually carry a separate pocket AI gadget alongside your phone?",
+    "id": "mta418v7k9",
+    "category": "Hardware",
+    "companies": [
+      "Meta",
+      "Verizon"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 11,
+    "title": "Italy Approves Tesla Assisted Driving Ahead of Wider EU Rollout!",
+    "summary": "On November 20, Italy granted provisional regulatory approval to Tesla Assisted Driving ahead of broader European Union recognition. The rollout remains subject to stricter EU speed limits and hands-on driver monitoring rules.",
+    "engagement": "High",
+    "raw_text": "So check this out—Tesla just cleared a big European regulatory hurdle! On November 20, Italy granted provisional approval for Tesla Assisted Driving ahead of wider recognition across the European Union. Here's the wild part: European driver-assistance rules are way tighter than what drivers see in North America, so this provisional green light still comes with stricter EU speed caps and mandatory hands-on rules. Honestly, this is huge for Tesla's European expansion because getting individual countries like Italy to move forward builds real momentum toward broader EU-wide adoption. Even with tighter guardrails on speed and steering wheel checks, having assisted driving officially cleared on Italian roads is a meaningful milestone for owners there. I'll be watching closely to see which European country follows Italy next and how real-world drivers react to the stricter EU limits.",
+    "id": "tsl752n3q8",
+    "category": "Hardware",
+    "companies": [
+      "Tesla"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 11,
+    "title": "Publisher Yanks Fantasy Book Cover After Catching Undisclosed AI Art!",
+    "summary": "Tor Publishing Group withdrew the cover for Ilona Andrews' book This Crown Will Not Rule Me on November 20 after discovering undisclosed generative AI artwork had been used without the publisher's or authors' knowledge. The publisher stated it will implement stricter vetting procedures moving forward.",
+    "engagement": "High",
+    "raw_text": "So check this out—AI art just sparked another major publishing controversy! Tor Publishing Group had to pull the cover for Ilona Andrews' book This Crown Will Not Rule Me after discovering that undisclosed generative AI art had been slipped in without the publisher or the authors knowing about it. Here's the wild part: neither the writers nor the publishing team signed off on AI imagery, and Tor is now promising stricter vetting before covers go public. Honestly, this is huge in creative communities because trust around human-made cover art is already super fragile, and sneaking generative AI into a major fantasy release is a fast way to trigger backlash from readers and illustrators alike. I love seeing publishers own up quickly and tighten quality checks instead of brushing it under the rug. Transparency really is everything when it comes to AI in creative work.",
+    "id": "tor639w2m4",
+    "category": "Business",
+    "companies": [
+      "Tor Publishing Group"
+    ],
+    "people": [
+      "Ilona Andrews"
+    ],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 11,
+    "title": "Open-Source Project Ditches AI Ban for a 'Slop Reduction Policy'!",
+    "summary": "Open-source firmware project Libreboot deleted its month-old AGENTS.md ban on AI-generated contributions on November 20 after maintainer Leah Rowe deemed it unenforceable. The project replaced the blanket prohibition with a practical 'Slop Reduction Policy' focused on submission quality.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—one of the most relatable open-source policy reversals just happened! Open-source firmware project Libreboot deleted its month-old AGENTS.md ban on AI contributions after maintainer Leah Rowe admitted an outright ban is basically unenforceable, replacing it with a 'Slop Reduction Policy' instead. Here's the wild part: trying to police whether a contributor used an AI assistant under the hood is nearly impossible when upstream code already has AI touches and detection tools aren't reliable. Honestly, this is huge for open-source maintainers everywhere because focusing on code quality and filtering out low-effort AI slop makes way more practical sense than unenforceable blanket bans. If a patch works cleanly, passes review, and doesn't waste maintainer time, that's what actually matters. I think a lot more open-source repos are going to adopt this exact pragmatic mindset.",
+    "id": "lbr284j6r1",
+    "category": "AI",
+    "companies": [
+      "Libreboot"
+    ],
+    "people": [
+      "Leah Rowe"
+    ],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 9,
+    "title": "NVIDIA Unveils Rubin HPC for Agent-Driven Scientific Simulations!",
+    "summary": "During the week of November 20, NVIDIA introduced Rubin HPC, a specialized high-performance computing architecture built to accelerate agent-driven scientific simulation and analytics workloads. The launch underscores NVIDIA's push to pair autonomous AI agents with heavy computational modeling.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—NVIDIA isn't just building chips for chatbots; it's building hardware specifically for AI agents doing hardcore science! NVIDIA introduced Rubin HPC for agent-driven simulation and analytics, giving researchers faster compute to run complex models and experiments. Here's the wild part: we're seeing a real shift where AI agents don't just summarize papers—they actively trigger physics, chemistry, and engineering simulations in a tight feedback loop. Honestly, this is huge for scientific computing because simulation bottlenecks have always slowed down discovery. When you combine agentic reasoning with dedicated HPC hardware like Rubin HPC, researchers can test way more hypotheses before stepping into a physical lab. Even though this is deep infrastructure news rather than a consumer gadget, it's the exact kind of hardware backbone that powers real-world breakthroughs.",
+    "id": "rbn517c9d3",
+    "category": "Hardware",
+    "companies": [
+      "NVIDIA"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 9,
+    "title": "Self-Improving AI Startup Noeri Raises $110M & Agent Security Firm Gets $12M!",
+    "summary": "Enterprise AI funding remained active during the week of November 20 as self-improving AI startup Noeri raised $110 million and agent-security startup Metano emerged with $12 million. The rounds highlight investor appetite for adaptive enterprise models and guardrails around autonomous agents.",
+    "engagement": "Low",
+    "raw_text": "So check this out—venture capital is still pouring serious money into two very specific corners of enterprise AI! Self-improving AI startup Noeri just raised $110 million, while agent-security firm Metano emerged with $12 million during the week of November 20. Here's the wild part: instead of trying to out-train giant frontier labs on general chatbots, investors are backing startups focused on models that adapt to company workflows and tools that lock down autonomous agents. Honestly, this is huge for the enterprise stack because companies want AI that actually gets better at their specific tasks without creating new security holes. It's definitely more B2B infrastructure news than flashy consumer tech, so it won't break the internet, but watching where smart money flows tells us what enterprises actually struggle with in production.",
+    "id": "noe841t2b6",
+    "category": "Business",
+    "companies": [
+      "Noeri",
+      "Metano"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 9,
+    "title": "Dell, IBM & Mitsubishi Electric Ramp Up Enterprise AI & US Manufacturing!",
+    "summary": "Enterprise hardware and industrial giants announced major infrastructure moves during the week of November 20, including Dell expanding its AI Factory with governed data access and liquid-cooled storage, IBM making Cognos Query Agent generally available, and Mitsubishi Electric highlighting $2.66 billion in U.S. manufacturing and technology commitments.",
+    "engagement": "Low",
+    "raw_text": "So check this out—behind all the flashy AI app launches, the industrial and enterprise backbone is getting a massive upgrade! Dell expanded its AI Factory portfolio with governed data access and liquid-cooled storage, IBM made its Cognos Query Agent generally available, and Mitsubishi Electric highlighted $2.66 billion in U.S. manufacturing and technology commitments. Here's the wild part: liquid cooling and governed data pipelines are becoming standard requirements rather than niche upgrades as companies scale AI out of pilot mode. Honestly, this is huge for real-world deployment even if enterprise storage and analytics agents don't sound glamorous on social media. Without power, cooling, and clean data governance, none of the front-end AI magic actually runs at scale in large organizations.",
+    "id": "del395f8h7",
+    "category": "Business",
+    "companies": [
+      "Dell",
+      "IBM",
+      "Mitsubishi Electric"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 9,
+    "title": "90% of Indian Employers Are Expanding Tech Teams for AI in 2026!",
+    "summary": "Business Standard data reported on November 20 showed that 90% of Indian employers are expanding their technology teams for AI in 2026 as companies move from pilot projects to full production deployments. However, organizations continue to face persistent shortages of engineers with hands-on production AI experience.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—if you're a developer or tech builder in India, the hiring numbers for AI right now are wild! Business Standard data reported that 90% of Indian employers are expanding their tech teams for AI in 2026 as companies finally shift from small experiments into full production deployments. Here's the wild part: even with 90% of employers hiring, there's still a major shortage of engineers who actually know how to ship and maintain production AI systems. Honestly, this is huge if you're building real-world skills right now—knowing how to prompt a chatbot isn't enough anymore, because companies badly need people who understand deployment, reliability, and scaling. If you've been shipping real AI projects and getting your hands dirty in production, you're sitting in a great spot.",
+    "id": "ind672k4w9",
+    "category": "Business",
+    "companies": [
+      "Business Standard"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  },
+  {
+    "date": "2026-11-20",
+    "source_file": "Filtered Daily Tech News Briefing.pdf",
+    "page": 6,
+    "title": "Microsoft Decision 1.1 Goes GA with 2x Speed & Verifiable Agent Push!",
+    "summary": "Microsoft promoted its Decision 1.1 hosted routing and classification model to general availability, citing over twice the speed of its predecessor at the same price across more than 4,000 customers. Alongside the release, Microsoft launched an industry initiative to make AI agent actions independently verifiable.",
+    "engagement": "Low",
+    "raw_text": "So check this out—Microsoft just made a quiet but super practical infrastructure move for anyone running multi-model AI pipelines! They promoted their Decision 1.1 hosted routing and classification model to general availability, running more than twice as fast as the previous version at the exact same price across over 4,000 customers. Here's the wild part: alongside the speed boost, Microsoft also kicked off an industry initiative aimed at making AI agent actions independently verifiable. Honestly, this is huge for production reliability because fast routing saves serious inference money, and audit logs that you can actually trust are going to be mandatory once agents start touching real company systems. It's definitely backend plumbing rather than consumer eye candy, so it won't go viral, but builders running agents at scale will appreciate this.",
+    "id": "msf190z8a5",
+    "category": "AI",
+    "companies": [
+      "Microsoft"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T14:14:00+05:30"
+  }
+]
