@@ -1,0 +1,89 @@
+[
+  {
+    "date": "2026-11-18",
+    "source_file": "November 18-19 Tech News.pdf",
+    "page": 5,
+    "title": "AI Agent Memory Bugs & DriftGuard Defense Exposed on arXiv!",
+    "summary": "Researchers released arXiv preprints on November 18–19, 2026 tackling core LLM agent failure modes, including Zhejiang University, Peking University, and Alibaba Group's DriftGuard framework for online detection of memory-poisoning attacks during execution and Hejia Zhang et al.'s study on silent factual memory inconsistencies across multi-agent systems. Additional preprints introduced budgeted metareasoning, JevRSI System-1/System-2 collaboration, Thinking Fast Anywhere, Pro 2 Agent for scientific probing, Reasoning on Call for robotics, MAWAM for multi-agent manipulation, and token-efficient automated red teaming.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, if you're building with AI agents, a batch of fresh arXiv preprints from November 18 and 19 just called out two sneaky problems: memory poisoning and silent memory drift across multi-agent teams! Honestly, this is huge for agent reliability because researchers behind DriftGuard built an online detector using counterfactual trajectories and memory drift scores to catch poisoning attacks while the agent is actually running. Meanwhile, another paper looked at how facts silently clash or vanish when multiple agents share memory. Here's the wild part—there's also new work on budgeted metareasoning and System-1/System-2 policies like JevRSI and Thinking Fast Anywhere to stop agents from burning unnecessary tokens on every single step. Of course, these are preprints without formal peer review yet, so we take them with a grain of salt. Still, fixing agent memory and token waste is where real production gains live. Have you run into weird 'forgotten' or conflicting agent memory in your own workflows?",
+    "id": "drv83m5n1q",
+    "category": "Science",
+    "companies": [
+      "Alibaba Group",
+      "Zhejiang University",
+      "Peking University"
+    ],
+    "people": [
+      "Hejia Zhang",
+      "Rui Li",
+      "Yixiong Chen",
+      "Xianzhe Fan",
+      "Chi-Pin Huang",
+      "Fu-En Yang",
+      "Jing Wang",
+      "Xiaoyang Xing",
+      "Wenyu Dai"
+    ],
+    "created_at": "2026-11-21T13:23:00+05:30"
+  },
+  {
+    "date": "2026-11-18",
+    "source_file": "November 18-19 Tech News.pdf",
+    "page": 7,
+    "title": "TOP500 Hits Historic Low Newcomers as GPU Clusters Stay Busy!",
+    "summary": "The November 2026 TOP500 supercomputer analysis published November 19 recorded just 28 new systems—5.6% of the list and zero Top 10 entries—marking the lowest turnover since June 2018, led into the Top 100 by KISTI's HANGANG at #12 and Oak Ridge National Laboratory's Lux at #14 with 220.79 petaflops HPL. At SC26, AMD showcased shipping 6th Gen EPYC 9006 SP7 'Venice' chips up to 256 cores, Lenovo paired them with Neptune liquid cooling, and NVIDIA won 15 HPCwire awards while expanding accelerated computing from Azure to Windows PCs.",
+    "engagement": "Low",
+    "raw_text": "So check this out, the November 2026 TOP500 supercomputer list just hit its lowest turnover since June 2018, with only 28 new systems and zero entries in the Top 10! Honestly, this is huge context for how AI changed data center priorities—observers say operators don't want to pull massive GPU clusters offline for long LINPACK benchmark runs when AI training demand is non-stop. Here's the wild part: zero new Intel CPU-only systems made the list, NVIDIA Blackwell entries nearly doubled to 32 alongside 137 Hopper systems, and InfiniBand grabbed 19 of the 28 newcomers. Meanwhile at SC26, KISTI's HANGANG hit #12, Oak Ridge's Lux debuted at #14, and AMD showed off 256-core 6th Gen EPYC Venice processors with Lenovo's Neptune liquid cooling. It's heavy infrastructure news, not a flashy consumer toy, but it shows where real compute muscle is going. Do you think AI training demand is permanently changing how supercomputers get benchmarked?",
+    "id": "t5k28h7p9r",
+    "category": "Hardware",
+    "companies": [
+      "AMD",
+      "NVIDIA",
+      "Lenovo",
+      "ASUS",
+      "Dell",
+      "Bull",
+      "Microsoft",
+      "KISTI",
+      "Oak Ridge National Laboratory",
+      "HPE",
+      "Intel"
+    ],
+    "people": [],
+    "created_at": "2026-11-21T13:23:00+05:30"
+  },
+  {
+    "date": "2026-11-18",
+    "source_file": "November 18-19 Tech News.pdf",
+    "page": 10,
+    "title": "Payhawk Hits $2B Valuation & Startups Raise Across AI, Space & FinTech!",
+    "summary": "Venture reporting across November 18–19, 2026 highlighted enterprise and deep-tech funding milestones including Payhawk's $280 million Series C at a $2 billion valuation, Tiberius Aerospace's $85 million Series A above a $1 billion valuation, Bengaluru's Humyn Labs raising $47 million led by Accel and Prosus, and Germany's Dcubed raising €27.2 million in Series A+ spacetech funding. Additional deals covered Ireland's Disseqt AI (€7.3 million for agent assurance), LATO ($4.7 million), India's Soket AI ($4 million strategic investment from Bajaj Finserv and Pennant), and Vertex Group's $3 million acquisition of Immergix.",
+    "engagement": "Low",
+    "raw_text": "So check this out, there was a packed wave of venture funding and M&A on November 18 and 19—led by Payhawk landing a $280 million Series C at a $2 billion valuation and Tiberius Aerospace pulling in an $85 million Series A over a $1 billion valuation! Honestly, this is huge for seeing where big money is flowing across fintech, defense, spacetech, and AI governance, even if funding rounds usually read more like business headlines than consumer tech reviews. Here's the wild part: we also saw Bengaluru's Humyn Labs raise $47 million with Accel and Prosus, Dcubed raise €27.2 million for space hardware, Disseqt AI raise €7.3 million for AI agent assurance, and Bajaj Finserv and Pennant back Indian AI startup Soket AI with $4 million. Investors are clearly backing specialized vertical tools and safety layers. Which of these sectors—fintech, spacetech, or AI agent safety—do you think has the biggest breakout potential?",
+    "id": "vnt28f6k3w",
+    "category": "Business",
+    "companies": [
+      "Payhawk",
+      "Tiberius Aerospace",
+      "Humyn Labs",
+      "Accel",
+      "Prosus",
+      "Dcubed",
+      "Warsaw Equity Group",
+      "Disseqt AI",
+      "LATO",
+      "Soket AI",
+      "Bajaj Finserv",
+      "Pennant",
+      "Asynchronics",
+      "b2venture",
+      "Vertex Group",
+      "Immergix"
+    ],
+    "people": [
+      "Vishal Bora"
+    ],
+    "created_at": "2026-11-21T13:23:00+05:30"
+  }
+]
