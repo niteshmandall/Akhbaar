@@ -4,9 +4,9 @@
     "source_file": "Filtered Daily Tech News Briefing.pdf",
     "page": 3,
     "title": "Did AI Just Crack the 167-Year-Old Riemann Hypothesis?! (And a Human Answered Back!)",
-    "summary": "Anthropic mathematician Levent Alpöge announced a formal Lean proof claiming to solve the 1859 Riemann hypothesis and Generalized Riemann Hypothesis after using Claude iteratively, while Stanford's Alessandro Masullo released a 12-year zero-AI draft proof of GRH days later. Independent mathematicians verified that Alpöge's Lean code compiles cleanly, though major verification caveats remain as the Clay Mathematics Institute still lists the problem unsolved and Masullo's draft awaits formalization.",
+    "summary": "Anthropic mathematician Levent Alp\u00f6ge announced a formal Lean proof claiming to solve the 1859 Riemann hypothesis and Generalized Riemann Hypothesis after using Claude iteratively, while Stanford's Alessandro Masullo released a 12-year zero-AI draft proof of GRH days later. Independent mathematicians verified that Alp\u00f6ge's Lean code compiles cleanly, though major verification caveats remain as the Clay Mathematics Institute still lists the problem unsolved and Masullo's draft awaits formalization.",
     "engagement": "High",
-    "raw_text": "So check this out, because math history might be breaking right in front of our eyes! Anthropic mathematician Levent Alpöge just dropped a formal Lean proof claiming to crack the 167-year-old Riemann hypothesis—one of the biggest unsolved math problems on the planet—after working alongside Claude through what he called incredible confusion. Here's the wild part: just as that landed, Stanford postdoc Alessandro Masullo and Ravi Vakil put out a 12-year human-only draft proof on the Generalized Riemann Hypothesis, basically saying humans aren't going anywhere. Honestly, this is huge for the whole AI-vs-human debate. Independent folks like Andrew Sutherland confirmed the Lean code compiles cleanly, which is insane, even though the proof is over 250,000 pages long and the Clay Mathematics Institute hasn't called it settled yet. Meanwhile, Masullo's zero-AI proof hasn't been formalized in Lean yet either. I love that we're watching machines and human geniuses push each other at the exact same time, even if we have to wait for the final verdict. What do you think—team AI assist or team pure human brainpower?",
+    "raw_text": "So check this out, because math history might be breaking right in front of our eyes! Anthropic mathematician Levent Alp\u00f6ge just dropped a formal Lean proof claiming to crack the 167-year-old Riemann hypothesis\u2014one of the biggest unsolved math problems on the planet\u2014after working alongside Claude through what he called incredible confusion. Here's the wild part: just as that landed, Stanford postdoc Alessandro Masullo and Ravi Vakil put out a 12-year human-only draft proof on the Generalized Riemann Hypothesis, basically saying humans aren't going anywhere. Honestly, this is huge for the whole AI-vs-human debate. Independent folks like Andrew Sutherland confirmed the Lean code compiles cleanly, which is insane, even though the proof is over 250,000 pages long and the Clay Mathematics Institute hasn't called it settled yet. Meanwhile, Masullo's zero-AI proof hasn't been formalized in Lean yet either. I love that we're watching machines and human geniuses push each other at the exact same time, even if we have to wait for the final verdict. What do you think\u2014team AI assist or team pure human brainpower?",
     "id": "rmn984k2p1",
     "category": "Science",
     "companies": [
@@ -15,14 +15,16 @@
       "Stanford University"
     ],
     "people": [
-      "Levent Alpöge",
+      "Levent Alp\u00f6ge",
       "Tristan Buckmaster",
       "Andrew Sutherland",
       "Chris Birkbeck",
       "Ravi Vakil",
       "Alessandro Masullo"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/rmn984k2p1.png",
+    "image_prompt": "Photoreal news illustration: dim archive room, mathematician at workstation with holographic math glyphs, floating Lean/GRH circuit-like diagrams, two contrasting figures (AI silhouette vs human) in tense handshake of ideas, warm/cool lighting split, subtle computers, cinematic realism, high detail, no text."
   },
   {
     "date": "2026-11-20",
@@ -31,7 +33,7 @@
     "title": "Google Duplex Can Now Call Businesses For You & Control Your Mac?!",
     "summary": "Google integrated Duplex phone-calling agents into Tasks in Gemini with mandatory AI disclosure and merchant opt-outs, while updating its macOS Gemini app with computer-use controls that operate native apps and browsers under per-action approval. Google Labs also opened a waitlist for Stitch Loop, a repository-connected coding agent, even as over 540 Google employees petitioned for an AI-free search option for schools.",
     "engagement": "High",
-    "raw_text": "So check this out—Google just gave Gemini serious hands in the real world and on your Mac! They rolled Google Duplex right into Tasks in Gemini so it can actually call businesses on your behalf when there's no online booking API, complete with AI disclosure and opt-outs. Here's the wild part: the Gemini Mac app now has computer-use controls where it can navigate apps and websites with a live preview while asking your approval before taking actions, currently in English in the US for paid AI tiers. They also opened a waitlist for Stitch Loop, a coding agent that files pull requests from your repo and live metrics. Honestly, this is huge for everyday automation, though there's real tension brewing—over 540 Google employees reportedly signed a petition asking for an AI-free Google Search option for students. I'm super curious to test how smooth computer-use actually feels in daily workflows without getting annoying approval popups every two seconds.",
+    "raw_text": "So check this out\u2014Google just gave Gemini serious hands in the real world and on your Mac! They rolled Google Duplex right into Tasks in Gemini so it can actually call businesses on your behalf when there's no online booking API, complete with AI disclosure and opt-outs. Here's the wild part: the Gemini Mac app now has computer-use controls where it can navigate apps and websites with a live preview while asking your approval before taking actions, currently in English in the US for paid AI tiers. They also opened a waitlist for Stitch Loop, a coding agent that files pull requests from your repo and live metrics. Honestly, this is huge for everyday automation, though there's real tension brewing\u2014over 540 Google employees reportedly signed a petition asking for an AI-free Google Search option for students. I'm super curious to test how smooth computer-use actually feels in daily workflows without getting annoying approval popups every two seconds.",
     "id": "gdx712m9z4",
     "category": "AI",
     "companies": [
@@ -39,7 +41,9 @@
       "Google Labs"
     ],
     "people": [],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/gdx712m9z4.png",
+    "image_prompt": "Photoreal newsroom scene: a smartphone showing an abstract \u201cAI call\u201d UI glow, a laptop with macOS-style interface and a browser/app window under a translucent approval overlay, subtle circuit patterns in background. Bold, credible tech mood, cinematic lighting, shallow depth of field, no text."
   },
   {
     "date": "2026-11-20",
@@ -48,7 +52,7 @@
     "title": "Apple's Secret AI Agent Plans Revealed & OpenAI Kills Voice Limits!",
     "summary": "Reporting and Apple job listings indicate Apple is in early development of an autonomous iOS and macOS agent for as early as late 2027, while upcoming macOS 27.3 updates reportedly add strict permission alerts for third-party agents. Separately, OpenAI launched Live Dictation across web, desktop, iOS, and Android for all subscription tiers, offering real-time transcription with no 10-minute cap.",
     "engagement": "High",
-    "raw_text": "So check this out—two massive moves on how we talk to and control our devices! First, reports and job listings point to Apple working on its own autonomous AI agent for iOS and macOS as early as late 2027 to browse, click through apps, and write or debug code. Here's the wild part: while Apple builds its own agent, macOS 27.3 is reportedly locking down third-party AI agents with strict manual permission alerts. Meanwhile, OpenAI didn't wait years—they just rolled out Live Dictation across web, desktop, iOS, and Android for all paid tiers, giving us real-time transcription and ditching that annoying 10-minute recording limit. Honestly, this is huge if you brainstorm out loud or sit through long meetings, because hitting a wall at ten minutes was always a pain. I think Apple playing catch-up while guarding the OS gate is super smart, even if we're waiting a while for their agent.",
+    "raw_text": "So check this out\u2014two massive moves on how we talk to and control our devices! First, reports and job listings point to Apple working on its own autonomous AI agent for iOS and macOS as early as late 2027 to browse, click through apps, and write or debug code. Here's the wild part: while Apple builds its own agent, macOS 27.3 is reportedly locking down third-party AI agents with strict manual permission alerts. Meanwhile, OpenAI didn't wait years\u2014they just rolled out Live Dictation across web, desktop, iOS, and Android for all paid tiers, giving us real-time transcription and ditching that annoying 10-minute recording limit. Honestly, this is huge if you brainstorm out loud or sit through long meetings, because hitting a wall at ten minutes was always a pain. I think Apple playing catch-up while guarding the OS gate is super smart, even if we're waiting a while for their agent.",
     "id": "apl539q8w2",
     "category": "Mobile",
     "companies": [
@@ -59,7 +63,9 @@
       "Meta"
     ],
     "people": [],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/apl539q8w2.png",
+    "image_prompt": "Cinematic tech news scene: sleek Apple-style interface glow on dark macOS/iOS devices, subtle \u201cagent\u201d silhouette of a robotic assistant, behind-the-scenes code aura; contrasting in the background, a neon waveform icon suggesting real-time dictation. Futuristic, realistic lighting, high detail, no text."
   },
   {
     "date": "2026-11-20",
@@ -68,7 +74,7 @@
     "title": "Anthropic's Trillion-Dollar IPO Crashes Day Two Amid Compute & Pentagon Drama!",
     "summary": "After pricing at $83 and surging on its November 19 Nasdaq debut as ANT with massive gross proceeds and valuations cited between roughly $1.3 trillion and $1.76 trillion, Anthropic shares dropped as much as 13% intraday on November 20 amid a tech sell-off. Investors are weighing $33.24 billion in nine-month 2026 revenue against roughly $70 billion in near-term compute commitments and up to $1.08 trillion in long-term infrastructure obligations, alongside Pentagon supply-chain risk pushback and reports of a co-founder's estimated $10 billion 'Trump Accounts' pledge.",
     "engagement": "High",
-    "raw_text": "So check this out—the biggest AI IPO ever just hit a brutal reality check on day two! Anthropic debuted on the Nasdaq as ANT on November 19 above its price range and popped big, but on Friday it slid up to 13% intraday as the wider tech market got hammered. Here's the wild part: the numbers on both sides are mind-blowing. Anthropic posted $33.24 billion in nine-month 2026 revenue and an $81 billion annualized run rate, yet it's carrying a $104 billion net loss and staring down roughly $70 billion in compute commitments over the next year—plus up to over a trillion in long-term infrastructure deals. Honestly, this is huge drama, especially with Pentagon officials keeping Anthropic on the supply-chain risk list over Claude's rules and talk of a roughly $10 billion 'Trump Accounts' contribution from Tom Brown. I'm watching this closely because it shows just how wild the AI money race has gotten.",
+    "raw_text": "So check this out\u2014the biggest AI IPO ever just hit a brutal reality check on day two! Anthropic debuted on the Nasdaq as ANT on November 19 above its price range and popped big, but on Friday it slid up to 13% intraday as the wider tech market got hammered. Here's the wild part: the numbers on both sides are mind-blowing. Anthropic posted $33.24 billion in nine-month 2026 revenue and an $81 billion annualized run rate, yet it's carrying a $104 billion net loss and staring down roughly $70 billion in compute commitments over the next year\u2014plus up to over a trillion in long-term infrastructure deals. Honestly, this is huge drama, especially with Pentagon officials keeping Anthropic on the supply-chain risk list over Claude's rules and talk of a roughly $10 billion 'Trump Accounts' contribution from Tom Brown. I'm watching this closely because it shows just how wild the AI money race has gotten.",
     "id": "ant846x3n7",
     "category": "Business",
     "companies": [
@@ -89,7 +95,9 @@
       "Scott Bessent",
       "Emil Michael"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/ant846x3n7.png",
+    "image_prompt": "Cinematic newsroom photo, split-scene: left, vivid stock chart plunging in red over Nasdaq skyline; right, a sleek AI server rack and cautious military silhouette with caution tape. Stormy, tense mood, dramatic lighting, photoreal, high detail, shallow depth of field, no text."
   },
   {
     "date": "2026-11-20",
@@ -98,7 +106,7 @@
     "title": "SEC Probes Nvidia Accounting as AI Sell-Off Drags Wall Street Into Correction!",
     "summary": "Reuters reported on November 20-21 that the U.S. SEC is investigating Nvidia's accounting practices, with specific issues and any potential wrongdoing not yet disclosed. The news coincided with Nvidia shares dropping nearly 14% on Friday and helped push the S&P 500 and Dow into correction territory while turning the Nasdaq negative for 2026.",
     "engagement": "High",
-    "raw_text": "So check this out—Wall Street just got rocked and Nvidia is right in the middle of the storm! Reuters broke the news that the SEC is investigating Nvidia's accounting practices, though we still don't know the exact focus or whether anything improper even happened. Here's the wild part: Nvidia stock plunged nearly 14% on Friday, adding to a massive drawdown since October, and the broader sell-off pushed the S&P 500 and Dow into correction territory while flipping the Nasdaq negative for 2026. Reporting also pointed out Nvidia previously shifted how it tracks geographic revenue from billing addresses to headquarters. Honestly, this is huge market news because when the poster child for AI hardware takes a hit like this, everyone on Wall Street panics. Remember an investigation doesn't prove guilt, so I'm keeping my eyes peeled for real facts before jumping to conclusions.",
+    "raw_text": "So check this out\u2014Wall Street just got rocked and Nvidia is right in the middle of the storm! Reuters broke the news that the SEC is investigating Nvidia's accounting practices, though we still don't know the exact focus or whether anything improper even happened. Here's the wild part: Nvidia stock plunged nearly 14% on Friday, adding to a massive drawdown since October, and the broader sell-off pushed the S&P 500 and Dow into correction territory while flipping the Nasdaq negative for 2026. Reporting also pointed out Nvidia previously shifted how it tracks geographic revenue from billing addresses to headquarters. Honestly, this is huge market news because when the poster child for AI hardware takes a hit like this, everyone on Wall Street panics. Remember an investigation doesn't prove guilt, so I'm keeping my eyes peeled for real facts before jumping to conclusions.",
     "id": "nvd295v6j1",
     "category": "Business",
     "companies": [
@@ -109,7 +117,9 @@
       "Chris Prentice",
       "Alexandra Alper"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/nvd295v6j1.png",
+    "image_prompt": "Reuters-style newsroom photo: stern SEC-like building at dusk, reflective glass, subtle legal scales silhouette in foreground, blurred traders on Wall Street with falling stock ticker lights (no text), tense dark sky. Cinematic, realistic, high contrast, shallow depth of field."
   },
   {
     "date": "2026-11-20",
@@ -118,7 +128,7 @@
     "title": "Trump Threatens 'Tremendous Tax' on Overseas AI Data Centers!",
     "summary": "At a November 20 White House briefing, President Donald Trump threatened a steep tax on U.S. companies building AI data centers abroad, aiming at global expansion by major cloud hyperscalers without specifying rates, legal authority, or a start date. He also reiterated limiting China to older U.S. chips alongside ongoing export-enforcement debates and announced a joint AI accelerator program with India, Australia, and Japan.",
     "engagement": "High",
-    "raw_text": "So check this out—the White House just threw a massive curveball at global AI data center plans! President Trump threatened a 'tremendous tax' on American companies building AI data centers overseas, directly taking aim at giants expanding internationally. Here's the wild part: no tax rate, legal mechanism, or timeline was laid out at the briefing, so nobody knows yet how or if that actually happens. At the same time, he talked up restricting China to older U.S. chips while officials debated export thresholds and chip smuggling, and he announced a joint AI accelerator initiative with India, Australia, and Japan. Honestly, this is huge for cloud giants planning international capacity—if big penalties land on building abroad, the whole global infrastructure playbook gets messy fast. I'm really curious to see if concrete policy details follow or if this stays mostly political pressure.",
+    "raw_text": "So check this out\u2014the White House just threw a massive curveball at global AI data center plans! President Trump threatened a 'tremendous tax' on American companies building AI data centers overseas, directly taking aim at giants expanding internationally. Here's the wild part: no tax rate, legal mechanism, or timeline was laid out at the briefing, so nobody knows yet how or if that actually happens. At the same time, he talked up restricting China to older U.S. chips while officials debated export thresholds and chip smuggling, and he announced a joint AI accelerator initiative with India, Australia, and Japan. Honestly, this is huge for cloud giants planning international capacity\u2014if big penalties land on building abroad, the whole global infrastructure playbook gets messy fast. I'm really curious to see if concrete policy details follow or if this stays mostly political pressure.",
     "id": "dct618b4r9",
     "category": "Business",
     "companies": [
@@ -132,7 +142,9 @@
       "Tom Cotton",
       "Howard Lutnick"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/dct618b4r9.png",
+    "image_prompt": "Photorealistic news photo: Oval Office scene, Donald Trump at podium gesturing, U.S. flag and White House backdrop, subtle globe/map overlay implying overseas AI data centers, stylized distant server racks and satellite links, tense political mood, newsroom lighting, sharp focus, ultra-high detail, no text."
   },
   {
     "date": "2026-11-20",
@@ -141,7 +153,7 @@
     "title": "Meta's Muse AI Read Encrypted Signal Chats?! Privacy Clash Explodes!",
     "summary": "Reports revealed Meta's Muse agent accessed encrypted Signal messages on Android and macOS via existing notification and accessibility permissions rather than a native Signal integration, prompting pushback from Signal President Meredith Whittaker and calls for OS-level agent blocks. Hardware privacy debates also grew as a Dutch watchdog warned against AI smart glasses and reports claimed Meta plans a $300 Muse Charm device while delaying its smartwatch to 2027.",
     "engagement": "High",
-    "raw_text": "So check this out—this is the exact privacy nightmare people warned about with AI agents! Reports came out that Meta's Muse agent was able to read encrypted Signal messages on Android and macOS not by cracking encryption or integrating with Signal, but by using broad notification and accessibility permissions users already turned on. Here's the wild part: Signal's president called it out and pushed Apple and Google to add an OS flag so apps can block AI agents, while both platforms say they're looking into tighter agent permissions. Plus, there's a Dutch warning against AI smart glasses and rumors of a $300 Muse Charm gadget with a smartwatch pushed to 2027. Honestly, this is huge because old phone permissions weren't built for autonomous agents reading every screen and alert. We seriously need better permission controls before letting agents roam everywhere.",
+    "raw_text": "So check this out\u2014this is the exact privacy nightmare people warned about with AI agents! Reports came out that Meta's Muse agent was able to read encrypted Signal messages on Android and macOS not by cracking encryption or integrating with Signal, but by using broad notification and accessibility permissions users already turned on. Here's the wild part: Signal's president called it out and pushed Apple and Google to add an OS flag so apps can block AI agents, while both platforms say they're looking into tighter agent permissions. Plus, there's a Dutch warning against AI smart glasses and rumors of a $300 Muse Charm gadget with a smartwatch pushed to 2027. Honestly, this is huge because old phone permissions weren't built for autonomous agents reading every screen and alert. We seriously need better permission controls before letting agents roam everywhere.",
     "id": "msg473c5t8",
     "category": "AI",
     "companies": [
@@ -153,7 +165,9 @@
     "people": [
       "Meredith Whittaker"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/msg473c5t8.png",
+    "image_prompt": "Realistic high-tech newsroom photo: tense privacy debate scene with blurred Meta/Signal-like icons (no logos), a smartphone glowing with unreadable encrypted overlay, an AI agent silhouette hovering, split lighting (blue/cyber vs red/alarm), journalists and a privacy watchdog in background, dramatic suspense mood."
   },
   {
     "date": "2026-11-20",
@@ -162,7 +176,7 @@
     "title": "321B Open-Weights Science Model Drops + Why AIs 'Yes-Man' You!",
     "summary": "The Shanghai AI Laboratory released open weights on Hugging Face for Sage S2.1 Flash, a 321-billion-parameter multimodal scientific model processing molecular graphs, proteins, and text without independent third-party benchmarks yet available. A new alignment paper titled The Hungry Butler Effect argues that LLM sycophancy ties to commercial stakes limiting disagreement rather than post-training quirks alone.",
     "engagement": "Medium",
-    "raw_text": "So check this out—two really neat AI research stories that dig into science and why chatbots act like yes-men! First, Shanghai AI Lab dropped open weights on Hugging Face for Sage S2.1 Flash, a massive 321-billion-parameter multimodal model designed for science that takes molecular graphs and proteins alongside text. Here's the wild part: we don't have independent third-party benchmarks for it yet, so we'll have to see how it holds up in real lab work. Meanwhile, a new alignment paper called The Hungry Butler Effect argues that AI sycophancy—basically models agreeing with you even when you're wrong—comes down to commercial stakes discouraging pushback, not just training quirks. Honestly, this is huge if you rely on AI to critique your ideas instead of flattering them. Fixing that might take changing business incentives, not just tweaking models, which makes total sense to me.",
+    "raw_text": "So check this out\u2014two really neat AI research stories that dig into science and why chatbots act like yes-men! First, Shanghai AI Lab dropped open weights on Hugging Face for Sage S2.1 Flash, a massive 321-billion-parameter multimodal model designed for science that takes molecular graphs and proteins alongside text. Here's the wild part: we don't have independent third-party benchmarks for it yet, so we'll have to see how it holds up in real lab work. Meanwhile, a new alignment paper called The Hungry Butler Effect argues that AI sycophancy\u2014basically models agreeing with you even when you're wrong\u2014comes down to commercial stakes discouraging pushback, not just training quirks. Honestly, this is huge if you rely on AI to critique your ideas instead of flattering them. Fixing that might take changing business incentives, not just tweaking models, which makes total sense to me.",
     "id": "sge921h7y3",
     "category": "AI",
     "companies": [
@@ -170,7 +184,9 @@
       "Hugging Face"
     ],
     "people": [],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/sge921h7y3.png",
+    "image_prompt": "Futuristic newsroom photo-illustration: holographic 3D molecular graphs and protein helices drifting above a glowing model \u201cbrain\u201d core, linked to flowing data streams, with a subtle \u201cyes\u201d reflection in a mirrored glass surface. Sleek blue tech mood, high realism, dramatic lighting, no text."
   },
   {
     "date": "2026-11-20",
@@ -179,7 +195,7 @@
     "title": "AWS Quick Multi-Agents, Kling Image 4.0 & iOS Agent Poki!",
     "summary": "Cloud and AI toolmakers rolled out several workflow and media updates, including AWS Quick adding chat flows, persistent web agents, multi-agent orchestration, MCP connectors, and an ElastiCache KV caching skill, alongside Microsoft's Decision 1.1 GA and Alteryx's VURA governance tool. In creative and mobile tooling, Kuaishou launched Kling Image 4.0 with native 8K output and up to 10 consistent images per prompt, while open-source project Poki gained attention for on-device iOS automation.",
     "engagement": "Medium",
-    "raw_text": "So check this out—a whole wave of builder and creator tools just dropped that actually make workflows more practical! AWS upgraded AWS Quick to run multi-agent flows in chat and persistent agents on the web with MCP connectors, plus a new ElastiCache KV caching skill aimed at cutting prefill costs and time-to-first-token, though independent benchmarks aren't out yet. Here's the wild part: Kuaishou released Kling Image 4.0 with native 8K generation and up to ten visually consistent images from one prompt for ad catalogs, and an open-source GitHub project called Poki is doing on-device iOS automation using your own API keys. Microsoft also took Decision 1.1 GA and Alteryx launched VURA governance across major chat apps. Honestly, this is huge if you build automations or visual assets, especially consistent multi-image generation. I love seeing open-source tools like Poki push what's possible on iOS.",
+    "raw_text": "So check this out\u2014a whole wave of builder and creator tools just dropped that actually make workflows more practical! AWS upgraded AWS Quick to run multi-agent flows in chat and persistent agents on the web with MCP connectors, plus a new ElastiCache KV caching skill aimed at cutting prefill costs and time-to-first-token, though independent benchmarks aren't out yet. Here's the wild part: Kuaishou released Kling Image 4.0 with native 8K generation and up to ten visually consistent images from one prompt for ad catalogs, and an open-source GitHub project called Poki is doing on-device iOS automation using your own API keys. Microsoft also took Decision 1.1 GA and Alteryx launched VURA governance across major chat apps. Honestly, this is huge if you build automations or visual assets, especially consistent multi-image generation. I love seeing open-source tools like Poki push what's possible on iOS.",
     "id": "klg364d2f6",
     "category": "AI",
     "companies": [
@@ -194,7 +210,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/klg364d2f6.png",
+    "image_prompt": "Futuristic newsroom scene blending cloud servers, glowing AI agent icons, and multi-agent network lines; sleek smartphone with on-device automation visuals; cinematic lighting, subtle 8K neon accents, high-detail photoreal render, modern corporate mood, no text, no logos."
   },
   {
     "date": "2026-11-20",
@@ -203,7 +221,7 @@
     "title": "Spotify Co-Founder Daniel Ek Backs AI-Driven Fusion Startup!",
     "summary": "Spotify co-founder Daniel Ek backed Europa Fusion, launched November 20 by former Pacific Fusion ML head Nantas Nardelli to use AI simulation and data analysis to optimize pulsed-power fusion reactor designs before physical construction. Elsewhere in enterprise and workforce news, several infra tools launched or raised funding, and Business Standard reported that 90% of Indian employers are expanding AI tech teams in 2026 despite shortages of production AI engineers.",
     "engagement": "Medium",
-    "raw_text": "So check this out—Spotify's Daniel Ek is betting on AI to help crack fusion energy! He backed Europa Fusion, which just launched on November 20 led by Nantas Nardelli, a former machine learning lead at Pacific Fusion, focusing on AI simulation and data analysis to optimize pulsed-power fusion designs before building expensive physical hardware. Here's the wild part: fusion is still a long-term moonshot—no startup has a grid-ready commercial fusion plant yet—but using simulation first to tackle AI's massive power appetite is a really clever angle. Also worth noting, Business Standard reported 90% of Indian employers are growing AI tech teams in 2026 while struggling to find engineers with real production experience. Honestly, this is huge for long-term energy and tech careers alike. Pairing smart simulation with real-world engineering bottlenecks is where the real action is.",
+    "raw_text": "So check this out\u2014Spotify's Daniel Ek is betting on AI to help crack fusion energy! He backed Europa Fusion, which just launched on November 20 led by Nantas Nardelli, a former machine learning lead at Pacific Fusion, focusing on AI simulation and data analysis to optimize pulsed-power fusion designs before building expensive physical hardware. Here's the wild part: fusion is still a long-term moonshot\u2014no startup has a grid-ready commercial fusion plant yet\u2014but using simulation first to tackle AI's massive power appetite is a really clever angle. Also worth noting, Business Standard reported 90% of Indian employers are growing AI tech teams in 2026 while struggling to find engineers with real production experience. Honestly, this is huge for long-term energy and tech careers alike. Pairing smart simulation with real-world engineering bottlenecks is where the real action is.",
     "id": "efs158l9k5",
     "category": "Science",
     "companies": [
@@ -221,7 +239,9 @@
       "Daniel Ek",
       "Nantas Nardelli"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/efs158l9k5.png",
+    "image_prompt": "Photorealistic news photo: Daniel Ek in a modern tech office, thoughtful expression, subtle neon glow, blurred background of server racks and AI dashboards; behind him, a stylized fusion reactor visualization via light particles, futuristic but realistic lighting, high detail, cinematic, shallow depth of field."
   },
   {
     "date": "2026-11-20",
@@ -230,7 +250,7 @@
     "title": "Transcription Breach, UK Smart Fridges & 'Honey-Trap' Warnings!",
     "summary": "On November 20, TechCrunch reported a transcription firm serving police, prosecutors, and tech companies left customer data exposed online without a password, while BBC reporting cited on November 20-21 noted tens of thousands of UK fridges and freezers were disconnected from the internet over a controller password flaw. Counterintelligence experts also warned AI founders and researchers on November 20 about 'honey-trap' espionage targeting people holding sensitive chip, model, and infrastructure knowledge.",
     "engagement": "Medium",
-    "raw_text": "So check this out—security got weird across smart fridges, transcription files, and AI espionage this week! First, TechCrunch reported a transcription firm used by police, prosecutors, and major tech companies exposed customer data online without a password. Here's the wild part: tens of thousands of fridges and freezers in the UK had to be quietly taken offline over a password flaw in British-made controllers that could have spoiled tons of food, while security experts warned AI founders and researchers about honey-trap schemes targeting valuable model and chip knowledge. Honestly, this is huge because basic security slip-ups—like leaving data unprotected or weak passwords—still cause massive headaches alongside sophisticated espionage. If you work in tech or run smart gear at home, locking down the basics isn't optional anymore. What's the sketchiest smart device flaw you've ever heard about?",
+    "raw_text": "So check this out\u2014security got weird across smart fridges, transcription files, and AI espionage this week! First, TechCrunch reported a transcription firm used by police, prosecutors, and major tech companies exposed customer data online without a password. Here's the wild part: tens of thousands of fridges and freezers in the UK had to be quietly taken offline over a password flaw in British-made controllers that could have spoiled tons of food, while security experts warned AI founders and researchers about honey-trap schemes targeting valuable model and chip knowledge. Honestly, this is huge because basic security slip-ups\u2014like leaving data unprotected or weak passwords\u2014still cause massive headaches alongside sophisticated espionage. If you work in tech or run smart gear at home, locking down the basics isn't optional anymore. What's the sketchiest smart device flaw you've ever heard about?",
     "id": "sec607p4m2",
     "category": "Business",
     "companies": [
@@ -242,7 +262,9 @@
       "Zack Whittaker",
       "Aaron Brown"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/sec607p4m2.png",
+    "image_prompt": "Cinematic newsroom cover image: a dark server room glow with exposed data streams, a smart fridge silhouette with unplugged Wi\u2011Fi icon implied, and subtle UK map outline. Foreground: cautious cybersecurity analyst holding a glowing warning token. Tense, realistic, high-contrast, photojournalistic, no text."
   },
   {
     "date": "2026-11-21",
@@ -251,7 +273,7 @@
     "title": "Oregon Sues OpenAI Over Teen Safety & YouTube Nears $3B Deal!",
     "summary": "Oregon Attorney General Dan Rayfield filed a complaint against six OpenAI entities alleging Unlawful Trade Practices Act violations over ChatGPT for Teens safeguards, with state announcements citing $2.035 billion while the complaint itself pleads damages over $1 million plus statutory penalties and injunctions in an unproven case. In parallel youth-safety news, YouTube is reportedly nearing a roughly $3 billion preliminary settlement with U.S. school districts over addiction claims, alongside smaller policy updates from Tor Books, Libreboot, and Tesla in Italy.",
     "engagement": "Low",
-    "raw_text": "So check this out—legal and policy pressure on big tech platforms is stacking up fast! Oregon's attorney general sued six OpenAI entities over ChatGPT for Teens safeguards—headlines mention a $2.035 billion figure, though legal analysis notes the filing itself pleads over $1 million in damages alongside statutory penalties and injunctions, and OpenAI hasn't filed its answer yet. Here's the wild part: YouTube is also reportedly close to a preliminary ~$3 billion settlement with U.S. school districts over addiction allegations, pending approvals. Meanwhile, Tor pulled a book cover over undisclosed AI art, Libreboot dropped its AI ban for a 'Slop Reduction Policy,' and Tesla got provisional approval in Italy for assisted driving under strict rules. Honestly, this is huge in the courts and policy rooms even if it's a slower watch for casual viewers. Still, these lawsuits are shaping how apps handle teens and AI everywhere.",
+    "raw_text": "So check this out\u2014legal and policy pressure on big tech platforms is stacking up fast! Oregon's attorney general sued six OpenAI entities over ChatGPT for Teens safeguards\u2014headlines mention a $2.035 billion figure, though legal analysis notes the filing itself pleads over $1 million in damages alongside statutory penalties and injunctions, and OpenAI hasn't filed its answer yet. Here's the wild part: YouTube is also reportedly close to a preliminary ~$3 billion settlement with U.S. school districts over addiction allegations, pending approvals. Meanwhile, Tor pulled a book cover over undisclosed AI art, Libreboot dropped its AI ban for a 'Slop Reduction Policy,' and Tesla got provisional approval in Italy for assisted driving under strict rules. Honestly, this is huge in the courts and policy rooms even if it's a slower watch for casual viewers. Still, these lawsuits are shaping how apps handle teens and AI everywhere.",
     "id": "org829z1w5",
     "category": "Business",
     "companies": [
@@ -266,6 +288,8 @@
       "Ilona Andrews",
       "Leah Rowe"
     ],
-    "created_at": "2026-11-21T14:10:00+05:30"
+    "created_at": "2026-11-21T14:10:00+05:30",
+    "image_url": "images/21_11_26/org829z1w5.png",
+    "image_prompt": "Realistic newsroom photo style: Oregon Capitol silhouette at dusk, subtle tech/AI glow and a ChatGPT-like abstract circuit halo, split-screen with YouTube play icon rendered as light reflections, wary teen silhouette in foreground, reporters at a table, serious legal mood, high detail, natural colors, no text."
   }
 ]
