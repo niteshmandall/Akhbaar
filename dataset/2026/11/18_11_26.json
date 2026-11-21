@@ -3,10 +3,10 @@
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 1,
-    "title": "Google Drops Gemini 4 Neon & Kills Argon—3x Faster Workflows?!",
+    "title": "Google Drops Gemini 4 Neon & Kills Argon\u20143x Faster Workflows?!",
     "summary": "Google DeepMind launched Gemini 4 Neon into general availability on November 18, 2026, positioning it as a balanced mid-tier model that completes complex workflows up to three times faster than Gemini 4 Carbon while cutting task costs by 32% at default high reasoning. Alongside the launch, Google replaced Gemini 4 Argon in the Gemini app and retired Gemini 3.1 Pro, while rolling out a dedicated cyber-defense variant via Google Cloud's Fairwind Program.",
     "engagement": "High",
-    "raw_text": "So check this out, Google DeepMind just dropped Gemini 4 Neon into general availability and quietly retired Gemini 4 Argon right out of the Gemini app, along with Gemini 3.1 Pro! Honestly, this is huge for anyone building agentic workflows because Neon is supposed to finish complex tasks up to three times faster than Gemini 4 Carbon while slicing per-task costs by 32% on its default high setting. It packs a massive 1,048,576-token context window and scored first at launch on the Artificial Analysis Coding Agent Index. Here's the wild part though—it has no free tier, drops explicit caching, and actually has a slightly higher factual hallucination rate than Argon did in independent tests. If you're on the Gemini app expecting deeper analysis, you're now getting Neon under the hood, and vetted security defenders are even getting a special Fairwind cyber-defense version. We really have to watch how fast developers migrate when speed jumps this much, even with a few rough edges. What do you think—is trading a tiny bit of factual precision for 3x speed worth it in your daily stack?",
+    "raw_text": "So check this out, Google DeepMind just dropped Gemini 4 Neon into general availability and quietly retired Gemini 4 Argon right out of the Gemini app, along with Gemini 3.1 Pro! Honestly, this is huge for anyone building agentic workflows because Neon is supposed to finish complex tasks up to three times faster than Gemini 4 Carbon while slicing per-task costs by 32% on its default high setting. It packs a massive 1,048,576-token context window and scored first at launch on the Artificial Analysis Coding Agent Index. Here's the wild part though\u2014it has no free tier, drops explicit caching, and actually has a slightly higher factual hallucination rate than Argon did in independent tests. If you're on the Gemini app expecting deeper analysis, you're now getting Neon under the hood, and vetted security defenders are even getting a special Fairwind cyber-defense version. We really have to watch how fast developers migrate when speed jumps this much, even with a few rough edges. What do you think\u2014is trading a tiny bit of factual precision for 3x speed worth it in your daily stack?",
     "id": "g4n98x2k7m",
     "category": "AI",
     "companies": [
@@ -20,7 +20,9 @@
     "people": [
       "Koray Kavukcuoglu"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/g4n98x2k7m.png",
+    "image_prompt": "Futuristic newsroom scene: Google-style holographic AI cores labeled only by abstract glowing glyphs, neon-blue \u201cNeon\u201d waveform streams merging into a sleek workstation, subtle clock icons implying 3x speed, dimmed \u201cArgon\u201d muted by gray haze, cyber-defense shield motif in the background, ultra-realistic, cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-11-18",
@@ -29,7 +31,7 @@
     "title": "Google Genie 4 Is LIVE! Edit Whole Worlds With Text + Audio?!",
     "summary": "Beginning November 18, 2026, Google DeepMind rolled out its real-time interactive world model Genie 4 inside Project Genie to eligible Google AI Ultra subscribers aged 18 and older, with a waitlist for AI Pro members. Combining Gemini Omni visual simulation with Gemini reasoning models, Genie 4 lets users alter live simulated worlds mid-session using natural language while generating synchronized ambient audio, music, and dialogue.",
     "engagement": "High",
-    "raw_text": "So check this out, Google DeepMind just opened up Genie 4 inside Project Genie for Google AI Ultra subscribers, and it lets you rewrite a live, interactive world mid-session just by typing! We're talking changing the weather on the fly, dropping in new characters, or steering events while it generates matching ambient sound, background music, and character dialogue in real time. Honestly, this is huge because interactive world models aren't just cool toys—they're becoming a massive testing ground for robotics and embodied AI. Here's the wild part: even though creators like Anand Gandhi are already experimenting with it, major game studios are still cautious—Take-Two even confirmed GTA 6 didn't use generative AI—and Google admits there's still camera latency, physics limits, and visual drift in longer runs. Still, every world gets invisible SynthID watermarking and a community remix gallery. Would you actually want to play in AI-generated worlds like this, or do handcrafted game worlds still win for you?",
+    "raw_text": "So check this out, Google DeepMind just opened up Genie 4 inside Project Genie for Google AI Ultra subscribers, and it lets you rewrite a live, interactive world mid-session just by typing! We're talking changing the weather on the fly, dropping in new characters, or steering events while it generates matching ambient sound, background music, and character dialogue in real time. Honestly, this is huge because interactive world models aren't just cool toys\u2014they're becoming a massive testing ground for robotics and embodied AI. Here's the wild part: even though creators like Anand Gandhi are already experimenting with it, major game studios are still cautious\u2014Take-Two even confirmed GTA 6 didn't use generative AI\u2014and Google admits there's still camera latency, physics limits, and visual drift in longer runs. Still, every world gets invisible SynthID watermarking and a community remix gallery. Would you actually want to play in AI-generated worlds like this, or do handcrafted game worlds still win for you?",
     "id": "gn4w91z5p2",
     "category": "AI",
     "companies": [
@@ -44,16 +46,18 @@
       "Fei-Fei Li",
       "Anand Gandhi"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/gn4w91z5p2.png",
+    "image_prompt": "Futuristic newsroom-style image: a diverse adult researcher at a sleek workstation uses a floating holographic interface showing a simulated city world in real time. Ambient light, subtle hologram particles, dynamic camera perspective, cinematic realism, soft depth of field, high detail, news photography mood, no text."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 3,
-    "title": "GPT-6.2 Astra & Sol Hit Copilot—Why Are Devs Raging?!",
+    "title": "GPT-6.2 Astra & Sol Hit Copilot\u2014Why Are Devs Raging?!",
     "summary": "Following a late November 17 API debut, OpenAI's GPT-6.2 Astra and Sol expanded on November 18 into GitHub Copilot across major IDEs and CLIs alongside Amazon Bedrock and Microsoft Foundry, featuring a 1,050,000-token context window and 20% lower standard Astra pricing than GPT-6 Astra. While Astra ranks second on the Artificial Analysis Intelligence Index and hits High for AI self-improvement and Critical for cybersecurity under OpenAI's Preparedness Framework, prominent developers criticized its coding reliability and readability.",
     "engagement": "High",
-    "raw_text": "Honestly, this is huge drama in the AI world right now: OpenAI's GPT-6.2 Astra and Sol just rolled out across GitHub Copilot, Bedrock, and Microsoft Foundry, and developers are already clashing over them! Astra replaces the scrapped GPT-6.1 Astra, brings a massive 1.05 million token context window, cuts standard Astra API prices by 20%, and hits a Critical cybersecurity rating with High AI self-improvement under OpenAI's Preparedness Framework. So check this out—on paper, some teams see big productivity gains, yet builders like Dan Shipper and Theo Browne are calling out its coding reliability and readability, with Browne going so far as to call it the worst model OpenAI has ever released. Here's the wild part: Ultrafast mode carries steep 3x to 6x price multipliers down the road, and huge prompts trigger extra surcharges. Whenever a hyped model gets praised on benchmarks and roasted by coders on day one, we know we have a story worth watching. Have you tested GPT-6.2 Astra or Sol in your workflow yet, and did it feel like an upgrade or a step back?",
+    "raw_text": "Honestly, this is huge drama in the AI world right now: OpenAI's GPT-6.2 Astra and Sol just rolled out across GitHub Copilot, Bedrock, and Microsoft Foundry, and developers are already clashing over them! Astra replaces the scrapped GPT-6.1 Astra, brings a massive 1.05 million token context window, cuts standard Astra API prices by 20%, and hits a Critical cybersecurity rating with High AI self-improvement under OpenAI's Preparedness Framework. So check this out\u2014on paper, some teams see big productivity gains, yet builders like Dan Shipper and Theo Browne are calling out its coding reliability and readability, with Browne going so far as to call it the worst model OpenAI has ever released. Here's the wild part: Ultrafast mode carries steep 3x to 6x price multipliers down the road, and huge prompts trigger extra surcharges. Whenever a hyped model gets praised on benchmarks and roasted by coders on day one, we know we have a story worth watching. Have you tested GPT-6.2 Astra or Sol in your workflow yet, and did it feel like an upgrade or a step back?",
     "id": "g62a74r8q1",
     "category": "AI",
     "companies": [
@@ -69,16 +73,18 @@
       "Theo Browne",
       "Kelly Pitts"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/g62a74r8q1.png",
+    "image_prompt": "Realistic newsroom scene: developers in tense silhouettes at monitors, glowing IDE/code interfaces blurred, two split-screen AI icons labeled Astra & Sol (no text), sleek cloud/robot imagery, GitHub Copilot-style waveforms, Amazon Bedrock/Microsoft Foundry abstract nodes, dramatic lighting, motion blur, high contrast, photographic quality."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 5,
-    "title": "AI Rewrote Chip Code & Saved 14% Power—AMD Merged It?!",
-    "summary": "On November 18, 2026, OpenAI published hardware-design research reporting that its reasoning models achieved up to 14% Power, Performance, and Area (PPA) gains on AMD's flagship GPU IP by rewriting SystemVerilog RTL code in under five months, with AMD submitting some AI-designed changes for manufacturing and merging others into production files. OpenAI also shared that GPT-03 mini helped cut standard-cell area by roughly 13% in the Vector Unit and 10% in the Matrix Unit on its custom Jalapeño inference chip and announced a partnership with Synopsys to train a specialized EDA model.",
+    "title": "AI Rewrote Chip Code & Saved 14% Power\u2014AMD Merged It?!",
+    "summary": "On November 18, 2026, OpenAI published hardware-design research reporting that its reasoning models achieved up to 14% Power, Performance, and Area (PPA) gains on AMD's flagship GPU IP by rewriting SystemVerilog RTL code in under five months, with AMD submitting some AI-designed changes for manufacturing and merging others into production files. OpenAI also shared that GPT-03 mini helped cut standard-cell area by roughly 13% in the Vector Unit and 10% in the Matrix Unit on its custom Jalape\u00f1o inference chip and announced a partnership with Synopsys to train a specialized EDA model.",
     "engagement": "Medium",
-    "raw_text": "So check this out, OpenAI just released hardware research claiming its reasoning models pulled off up to 14% Power, Performance, and Area—or PPA—gains on AMD's flagship GPU IP by rewriting SystemVerilog RTL code in under five months! Normally that kind of chip optimization takes around a year of manual engineering. Here's the wild part: AMD actually took some of those AI-generated changes into production design files and submitted others for manufacturing, while OpenAI also used GPT-03 mini to shrink chip areas on its custom Jalapeño inference chip and teamed up with Synopsys on an EDA model. Now, keep in mind this is vendor-published research rather than independent peer review, and models did better building cores from specs than editing messy legacy RTL. Still, when AI starts writing silicon-ready hardware improvements, compute efficiency can compound fast. Do you think AI-designed chips will be a game-changer for performance per watt, or do you want independent silicon verification first?",
+    "raw_text": "So check this out, OpenAI just released hardware research claiming its reasoning models pulled off up to 14% Power, Performance, and Area\u2014or PPA\u2014gains on AMD's flagship GPU IP by rewriting SystemVerilog RTL code in under five months! Normally that kind of chip optimization takes around a year of manual engineering. Here's the wild part: AMD actually took some of those AI-generated changes into production design files and submitted others for manufacturing, while OpenAI also used GPT-03 mini to shrink chip areas on its custom Jalape\u00f1o inference chip and teamed up with Synopsys on an EDA model. Now, keep in mind this is vendor-published research rather than independent peer review, and models did better building cores from specs than editing messy legacy RTL. Still, when AI starts writing silicon-ready hardware improvements, compute efficiency can compound fast. Do you think AI-designed chips will be a game-changer for performance per watt, or do you want independent silicon verification first?",
     "id": "chp14v6m3x",
     "category": "Hardware",
     "companies": [
@@ -87,16 +93,18 @@
       "Synopsys"
     ],
     "people": [],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/chp14v6m3x.png",
+    "image_prompt": "Futuristic newsroom-style tech illustration: glowing AMD GPU chip silhouette with translucent SystemVerilog code strands transforming into optimized circuitry, a subtle \u201cpower-savings\u201d energy ripple (no text), OpenAI-style AI core halo, Synopsys EDA circuit schematics, cinematic lighting, ultra-detailed, realistic, high contrast."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 7,
     "title": "Quantum + Photonic Chips Wired Into Supercomputers at SC26!",
-    "summary": "Quantum and photonic announcements on November 18, 2026 at SC26 focused on integrating quantum and optical processors directly into classical high-performance computing workflows, including Q.ANT's NPU Gen 2+ executing optical discrete Fourier transforms to offload an LLM attention layer from an AMD GPU and Luxquanta demonstrating an 8,000-kilometer hybrid quantum-safe network. Additional updates included Quantum Machines demonstrating 2.4-microsecond round-trip quantum error-correction decoding, neutral-atom processors gaining native Slurm scheduling with NVIDIA, BMO reporting quantum ML feature-selection utility on IBM hardware, NIST demonstrating quantum location verification, and Qluster raising €4.7 million.",
+    "summary": "Quantum and photonic announcements on November 18, 2026 at SC26 focused on integrating quantum and optical processors directly into classical high-performance computing workflows, including Q.ANT's NPU Gen 2+ executing optical discrete Fourier transforms to offload an LLM attention layer from an AMD GPU and Luxquanta demonstrating an 8,000-kilometer hybrid quantum-safe network. Additional updates included Quantum Machines demonstrating 2.4-microsecond round-trip quantum error-correction decoding, neutral-atom processors gaining native Slurm scheduling with NVIDIA, BMO reporting quantum ML feature-selection utility on IBM hardware, NIST demonstrating quantum location verification, and Qluster raising \u20ac4.7 million.",
     "engagement": "Medium",
-    "raw_text": "Honestly, this is huge if you love seeing weird experimental tech turn into real infrastructure: at SC26, quantum and optical hardware started plugging straight into classical supercomputing workflows! So check this out—Q.ANT's NPU Gen 2+ ran optical discrete Fourier transforms to offload a heavy LLM attention layer from an AMD GPU, while Quantum Machines showed off a super-fast 2.4-microsecond round-trip quantum error-correction decode and Luxquanta demonstrated an 8,000-kilometer hybrid quantum-safe network. Neutral-atom quantum systems also got native Slurm batch scheduling alongside NVIDIA, and photonics startup Qluster raised €4.7 million. Here's the wild part: some of these milestones, like NIST's quantum location verification or BMO's banking feature-selection tests, still have a long way to go before everyday deployment. Even so, wiring optical and quantum co-processors into standard HPC schedulers is a big step toward specialized acceleration. Which piece of this hybrid quantum-optical push excites you most right now?",
+    "raw_text": "Honestly, this is huge if you love seeing weird experimental tech turn into real infrastructure: at SC26, quantum and optical hardware started plugging straight into classical supercomputing workflows! So check this out\u2014Q.ANT's NPU Gen 2+ ran optical discrete Fourier transforms to offload a heavy LLM attention layer from an AMD GPU, while Quantum Machines showed off a super-fast 2.4-microsecond round-trip quantum error-correction decode and Luxquanta demonstrated an 8,000-kilometer hybrid quantum-safe network. Neutral-atom quantum systems also got native Slurm batch scheduling alongside NVIDIA, and photonics startup Qluster raised \u20ac4.7 million. Here's the wild part: some of these milestones, like NIST's quantum location verification or BMO's banking feature-selection tests, still have a long way to go before everyday deployment. Even so, wiring optical and quantum co-processors into standard HPC schedulers is a big step toward specialized acceleration. Which piece of this hybrid quantum-optical push excites you most right now?",
     "id": "qnt24s8l5n",
     "category": "Science",
     "companies": [
@@ -111,7 +119,9 @@
       "Qluster"
     ],
     "people": [],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/qnt24s8l5n.png",
+    "image_prompt": "Futuristic SC26 datacenter scene: gleaming racks with quantum & photonic chips, fiber-optic cables, holographic circuit overlays, subtle blue laser glow, engineers in lab coats monitoring supercomputer consoles, optical wave patterns above a GPU-like chassis, network link arcs across a world map, cinematic lighting, ultra-realistic."
   },
   {
     "date": "2026-11-18",
@@ -120,21 +130,23 @@
     "title": "Gartner Predicts 60% of Companies Ditch Cloud AI by 2028!",
     "summary": "At its IT Symposium/Xpo in Kochi, India on November 18, 2026, Gartner projected that 60% of regulated enterprises will migrate AI workloads to self-hosted local infrastructure by 2028 due to concerns over cloud provider headquarters jurisdiction governing government access. Gartner also forecast that custom apps on AI-native development platforms will jump from 2% in 2025 to 40% by 2030, agent sandboxing will grow from 10% in 2026 to 70% by 2030, and strong agent harnesses will cut post-deployment defects by 60% by 2028.",
     "engagement": "Medium",
-    "raw_text": "So check this out, Gartner just dropped a bold software engineering forecast from Kochi, India, and one stat in particular could shake up how companies run AI: they predict 60% of regulated enterprises will move AI workloads to self-hosted local infrastructure by 2028! Why? Because companies are realizing a cloud provider's headquarters jurisdiction—not just where the data center sits—can determine government access. Honestly, this is huge for developers and IT teams, because Gartner also says 40% of enterprise app portfolios will use AI-native development platforms by 2030, up from 2% in 2025, while isolated agent sandboxes jump to 70%. Here's the wild part: as AI models get more similar, Gartner argues your 'harness'—guardrails and enterprise context—will cut post-deployment bugs by 60% and matter more than picking the single smartest base model. It's a forecast, not guaranteed fact, but it tracks with big shifts toward local control. Do you see companies pulling AI back on-prem, or staying mostly in the cloud?",
+    "raw_text": "So check this out, Gartner just dropped a bold software engineering forecast from Kochi, India, and one stat in particular could shake up how companies run AI: they predict 60% of regulated enterprises will move AI workloads to self-hosted local infrastructure by 2028! Why? Because companies are realizing a cloud provider's headquarters jurisdiction\u2014not just where the data center sits\u2014can determine government access. Honestly, this is huge for developers and IT teams, because Gartner also says 40% of enterprise app portfolios will use AI-native development platforms by 2030, up from 2% in 2025, while isolated agent sandboxes jump to 70%. Here's the wild part: as AI models get more similar, Gartner argues your 'harness'\u2014guardrails and enterprise context\u2014will cut post-deployment bugs by 60% and matter more than picking the single smartest base model. It's a forecast, not guaranteed fact, but it tracks with big shifts toward local control. Do you see companies pulling AI back on-prem, or staying mostly in the cloud?",
     "id": "grt60d9k2j",
     "category": "Business",
     "companies": [
       "Gartner"
     ],
     "people": [],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/grt60d9k2j.png",
+    "image_prompt": "News photo style: modern Kochi tech symposium hall, blurred crowd, Indian skyline hints; dramatic split scene showing cloud servers fading into a local on-prem data center with AI racks; neon agent icons, analytics glow; serious, futuristic mood, high realism, sharp lighting."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 9,
     "title": "Hitachi Digital Launches HARC Compose, Cognizant & Nanox Move",
-    "summary": "On November 18, 2026, Hitachi Digital—formed by combining GlobalLogic and Hitachi Digital Services across roughly 35,000 staff in 27 countries—launched HARC Compose, an agentic engineering platform uniting a Context-Aware Knowledge Engine, multi-vendor orchestration, and failure-mode-driven testing. On the same day, Cognizant launched NVIDIA-accelerated Patient Hub Operations to speed prescription-to-therapy workflows, and Nanox Imaging announced RSNA 2026 demonstrations of Nanox.ARC X and Nanox.AI teleradiology tools.",
+    "summary": "On November 18, 2026, Hitachi Digital\u2014formed by combining GlobalLogic and Hitachi Digital Services across roughly 35,000 staff in 27 countries\u2014launched HARC Compose, an agentic engineering platform uniting a Context-Aware Knowledge Engine, multi-vendor orchestration, and failure-mode-driven testing. On the same day, Cognizant launched NVIDIA-accelerated Patient Hub Operations to speed prescription-to-therapy workflows, and Nanox Imaging announced RSNA 2026 demonstrations of Nanox.ARC X and Nanox.AI teleradiology tools.",
     "engagement": "Low",
     "raw_text": "So check this out, on November 18, Hitachi Digital rolled out HARC Compose, a new platform aimed at governing the full build, deploy, and operate lifecycle for AI engineering agents. Formed by uniting GlobalLogic and Hitachi Digital Services across about 35,000 people in 27 countries, Hitachi built HARC Compose around a context-aware knowledge engine, multi-vendor orchestration, and failure-mode testing to catch issues before release. Honestly, this is huge for enterprise governance, even if it's a pretty classic B2B software and consulting play rather than a flashy consumer gadget. On the exact same day, Cognizant introduced Patient Hub Operations using NVIDIA accelerated computing to cut delays between prescriptions and therapy, while Nanox Imaging lined up RSNA 2026 demos for its Nanox.ARC X and Nanox.AI teleradiology tech. Here's the wild part: all of this points to companies trying to keep autonomous agents from breaking things in production. Are you more interested in enterprise AI reliability tools like this, or consumer AI apps?",
     "id": "htc35b8v4w",
@@ -148,16 +160,18 @@
       "Nanox Imaging"
     ],
     "people": [],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/htc35b8v4w.png",
+    "image_prompt": "Modern tech newsroom scene: sleek server racks and glowing neural network holograms; engineers in smart attire collaborate, subtle AI agent icons floating; in background, abstract medical workflow visuals and imaging overlays. Clean, realistic, cinematic lighting, high detail, news photo style, no text."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 10,
     "title": "Palo Alto Networks Buys Applied Compute for $4.5 Billion!",
-    "summary": "On November 18, 2026, Palo Alto Networks announced a definitive all-stock agreement worth $4.5 billion to acquire Applied Compute, a platform focused on post-training and inference for open-weight AI models. Expected to close in Palo Alto Networks' fiscal Q3 2027 subject to regulatory approval and following Unit 42 security vetting, the deal brings Applied Compute's team—led by CEO Yash Patil—into the cybersecurity company to support hybrid enterprise AI.",
+    "summary": "On November 18, 2026, Palo Alto Networks announced a definitive all-stock agreement worth $4.5 billion to acquire Applied Compute, a platform focused on post-training and inference for open-weight AI models. Expected to close in Palo Alto Networks' fiscal Q3 2027 subject to regulatory approval and following Unit 42 security vetting, the deal brings Applied Compute's team\u2014led by CEO Yash Patil\u2014into the cybersecurity company to support hybrid enterprise AI.",
     "engagement": "Low",
-    "raw_text": "So check this out, Palo Alto Networks just agreed to buy Applied Compute in a $4.5 billion all-stock deal to bring open-weight AI post-training and inference under its roof! Applied Compute focuses on tuning and running open-weight models, and its team—led by co-founder and CEO Yash Patil—went through Palo Alto's Unit 42 frontier AI security vetting ahead of a deal expected to close in fiscal Q3 2027, pending regulatory sign-off. Honestly, this is huge for enterprise AI security strategy, though on the surface a $4.5 billion all-stock acquisition is very much an enterprise M&A story. Here's the wild part: CEO Nikesh Arora is positioning this around enterprises mixing closed APIs with open-weight models on proprietary data across public and sovereign clouds. It shows cybersecurity giants want to own the control plane for custom AI, not just network firewalls. What's your take on big security firms buying up open-weight AI platforms?",
+    "raw_text": "So check this out, Palo Alto Networks just agreed to buy Applied Compute in a $4.5 billion all-stock deal to bring open-weight AI post-training and inference under its roof! Applied Compute focuses on tuning and running open-weight models, and its team\u2014led by co-founder and CEO Yash Patil\u2014went through Palo Alto's Unit 42 frontier AI security vetting ahead of a deal expected to close in fiscal Q3 2027, pending regulatory sign-off. Honestly, this is huge for enterprise AI security strategy, though on the surface a $4.5 billion all-stock acquisition is very much an enterprise M&A story. Here's the wild part: CEO Nikesh Arora is positioning this around enterprises mixing closed APIs with open-weight models on proprietary data across public and sovereign clouds. It shows cybersecurity giants want to own the control plane for custom AI, not just network firewalls. What's your take on big security firms buying up open-weight AI platforms?",
     "id": "pan45y7t1c",
     "category": "Business",
     "companies": [
@@ -168,16 +182,18 @@
       "Yash Patil",
       "Nikesh Arora"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/pan45y7t1c.png",
+    "image_prompt": "Realistic newsroom photo style: executives in sleek Palo Alto office conference room, diverse team shaking hands, subtle tech HUD overlays, server racks and AI circuitry in background, confident corporate mood, natural lighting, shallow depth of field, high detail, 4K, no text, no logos."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 10,
     "title": "Voice AI Funding Hits $9.5B in 2026 as Startups Surge!",
-    "summary": "On November 18, 2026, Crunchbase reported that voice AI startups raised $9.5 billion globally year-to-date through November 11 across 154 deals—already 67% above full-year 2025's $5.7 billion total across 273 deals. Alongside that trend, spacetech startup Asynchronics raised a $3.1 million seed round led by b2venture on November 18.",
+    "summary": "On November 18, 2026, Crunchbase reported that voice AI startups raised $9.5 billion globally year-to-date through November 11 across 154 deals\u2014already 67% above full-year 2025's $5.7 billion total across 273 deals. Alongside that trend, spacetech startup Asynchronics raised a $3.1 million seed round led by b2venture on November 18.",
     "engagement": "Low",
-    "raw_text": "So check this out, Crunchbase just reported that voice AI startups have pulled in $9.5 billion globally so far in 2026 through November 11 across 154 deals—already 67% higher than all of 2025! Honestly, this is huge for venture capital momentum in conversational tech, even if funding roundups usually feel more like business news than a shiny new gadget drop. On November 18, we also saw Asynchronics land a $3.1 million seed round led by b2venture in spacetech. Here's the wild part: fewer deals are driving way more capital into voice AI, which means investors are placing bigger bets on fewer winners as voice agents get faster and more natural. Do you actually like talking to voice AI assistants in real life, or do you still prefer typing everything out?",
+    "raw_text": "So check this out, Crunchbase just reported that voice AI startups have pulled in $9.5 billion globally so far in 2026 through November 11 across 154 deals\u2014already 67% higher than all of 2025! Honestly, this is huge for venture capital momentum in conversational tech, even if funding roundups usually feel more like business news than a shiny new gadget drop. On November 18, we also saw Asynchronics land a $3.1 million seed round led by b2venture in spacetech. Here's the wild part: fewer deals are driving way more capital into voice AI, which means investors are placing bigger bets on fewer winners as voice agents get faster and more natural. Do you actually like talking to voice AI assistants in real life, or do you still prefer typing everything out?",
     "id": "vc95s2m6x9",
     "category": "Business",
     "companies": [
@@ -188,16 +204,18 @@
     "people": [
       "Mary Ann Azevedo"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/vc95s2m6x9.png",
+    "image_prompt": "Realistic newsroom-style photo: a glowing voice waveform graphic projected onto a dark glass wall beside a subtle rocket launchpad silhouette, investors in soft focus, warm tech lighting, cinematic contrast, shallow depth of field, high detail, no text, no logos."
   },
   {
     "date": "2026-11-18",
     "source_file": "November 18-19 Tech News.pdf",
     "page": 12,
     "title": "India Launches AI Kavach Lab & Joins 10-Nation AI Pact!",
-    "summary": "On November 18, 2026, IIT Kanpur and Bharat1.ai launched AI Kavach, India's first financial-sector AI cybersecurity and red-teaming lab, at the Bengaluru Tech Summit with IndiaAI Mission compute support, while India also joined a U.S.-led 10-nation AI security alliance focused on semiconductors, critical minerals, and AI infrastructure. That same day, reporting indicated 24 overseas tech and AI firms—including OpenAI and Anthropic—grew their combined India workforce by over 30% to 24,000, while Uttar Pradesh detailed its Rs 2,000-crore AI Mission tender and California Governor Gavin Newsom promoted AI 'kill switch' legislation.",
+    "summary": "On November 18, 2026, IIT Kanpur and Bharat1.ai launched AI Kavach, India's first financial-sector AI cybersecurity and red-teaming lab, at the Bengaluru Tech Summit with IndiaAI Mission compute support, while India also joined a U.S.-led 10-nation AI security alliance focused on semiconductors, critical minerals, and AI infrastructure. That same day, reporting indicated 24 overseas tech and AI firms\u2014including OpenAI and Anthropic\u2014grew their combined India workforce by over 30% to 24,000, while Uttar Pradesh detailed its Rs 2,000-crore AI Mission tender and California Governor Gavin Newsom promoted AI 'kill switch' legislation.",
     "engagement": "Medium",
-    "raw_text": "So check this out, November 18 brought a massive wave of AI policy and security moves across India and the U.S.! At the Bengaluru Tech Summit, IIT Kanpur and Bharat1.ai launched AI Kavach—India's first financial-sector AI cybersecurity and red-teaming lab—backed by IndiaAI Mission compute, right as India joined a U.S.-led 10-nation AI security alliance around chips, critical minerals, and infrastructure. Honestly, this is huge because global tech giants like OpenAI and Anthropic are also expanding in India—24 overseas firms grew their combined workforce there by over 30% to 24,000! Here's the wild part: on the same day, Uttar Pradesh laid out rules for its Rs 2,000-crore AI Mission tender, and California Governor Gavin Newsom pushed for AI 'kill switch' legislation and independent safety checks. Governments everywhere are racing to set guardrails around AI. Do you think mandatory 'kill switches' on big AI systems will actually work in practice?",
+    "raw_text": "So check this out, November 18 brought a massive wave of AI policy and security moves across India and the U.S.! At the Bengaluru Tech Summit, IIT Kanpur and Bharat1.ai launched AI Kavach\u2014India's first financial-sector AI cybersecurity and red-teaming lab\u2014backed by IndiaAI Mission compute, right as India joined a U.S.-led 10-nation AI security alliance around chips, critical minerals, and infrastructure. Honestly, this is huge because global tech giants like OpenAI and Anthropic are also expanding in India\u201424 overseas firms grew their combined workforce there by over 30% to 24,000! Here's the wild part: on the same day, Uttar Pradesh laid out rules for its Rs 2,000-crore AI Mission tender, and California Governor Gavin Newsom pushed for AI 'kill switch' legislation and independent safety checks. Governments everywhere are racing to set guardrails around AI. Do you think mandatory 'kill switches' on big AI systems will actually work in practice?",
     "id": "ind18k4p7z",
     "category": "Business",
     "companies": [
@@ -213,6 +231,8 @@
       "Kapil Joshi",
       "Gavin Newsom"
     ],
-    "created_at": "2026-11-21T13:16:00+05:30"
+    "created_at": "2026-11-21T13:16:00+05:30",
+    "image_url": "images/18_11_26/ind18k4p7z.png",
+    "image_prompt": "Photorealistic news photo: Bengaluru Tech Summit stage, Indian engineers and IIT Kanpur scientists unveiling \u201cAI Kavach\u201d cybersecurity lab, Bharat1.ai execs, futuristic blue AI holograms, Bharat flags, subtle circuit patterns. Background crowd, dignified mood, warm stage lights, high realism, no text."
   }
 ]
