@@ -6,7 +6,7 @@
     "title": "Z.ai Just Dropped GLM-5.4: A 'Loop Transformer' That Thinks Twice About Your Code!",
     "summary": "Z.ai released GLM-5.4 to GLM Coding Plan subscribers on November 23, 2026, introducing a Loop Transformer architecture that loops existing layers for deeper reasoning alongside native vision capabilities for coding, video, games, 3D shaders, and CAD. Weekly-quota subscribers receive 50% higher usage limits than GLM-5.3, while API access, open weights, and independent benchmarks remain pending.",
     "engagement": "High",
-    "raw_text": "So check this out, because Z.ai just did something wild with GLM-5.4 for its coding subscribers! Instead of just throwing more parameters at the wall, they built what they're calling their First Loop Transformer architecture by actually looping existing layers inside the GLM-5 base model so it can do deeper reasoning. Here's the wild part: it doesn't just write software engineering code now—it brings native vision to visual coding and expands generation into video, games, 3D shaders, and even CAD modeling. Plus, if you're on a weekly quota, you're getting 50% higher usage limits than GLM-5.3 right out of the gate. Now, I gotta keep it real with you—unlike GLM-5.3, there are no open weights, API pricing, or independent benchmark tables dropped yet, and the rumored 1-million-token context window in Claude Code isn't officially confirmed in writing. Honestly, this is huge if the layer-looping magic holds up under real-world stress tests, so I'm definitely watching to see if Z.ai backs up the hype once safety checks wrap up.",
+    "raw_text": "So check this out, because Z.ai just did something wild with GLM-5.4 for its coding subscribers! Instead of just throwing more parameters at the wall, they built what they're calling their First Loop Transformer architecture by actually looping existing layers inside the GLM-5 base model so it can do deeper reasoning. Here's the wild part: it doesn't just write software engineering code now\u2014it brings native vision to visual coding and expands generation into video, games, 3D shaders, and even CAD modeling. Plus, if you're on a weekly quota, you're getting 50% higher usage limits than GLM-5.3 right out of the gate. Now, I gotta keep it real with you\u2014unlike GLM-5.3, there are no open weights, API pricing, or independent benchmark tables dropped yet, and the rumored 1-million-token context window in Claude Code isn't officially confirmed in writing. Honestly, this is huge if the layer-looping magic holds up under real-world stress tests, so I'm definitely watching to see if Z.ai backs up the hype once safety checks wrap up.",
     "id": "glm54loop20261123a",
     "category": "AI",
     "companies": [
@@ -18,16 +18,18 @@
       "Zixuan Li",
       "Nitish Garg"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/glm54loop20261123a.png",
+    "image_prompt": "Futuristic newsroom scene: a holographic \u201cloop\u201d transformer diagram spiraling over glowing code streams, double-checking icons like gears, split-screen of coding, video game, 3D shader, and CAD wireframes. Sleek Z.ai-style UI glow, cool blue lighting, high realism, sharp focus, cinematic depth."
   },
   {
     "date": "2026-11-22",
     "source_file": "New Tech News Briefing.pdf",
     "page": 3,
-    "title": "Sarvam AI Open-Sources 105B Beast at Dirt-Cheap Prices—Is This the Flash-Lite Killer?",
+    "title": "Sarvam AI Open-Sources 105B Beast at Dirt-Cheap Prices\u2014Is This the Flash-Lite Killer?",
     "summary": "Bengaluru-based Sarvam AI open-sourced Sarvam-105B-1711 on November 22, 2026, offering a 105-billion-parameter model optimized for reasoning, tool-calling, collaborative co-work workflows, and Indian languages. Co-founder Pratyush Kumar priced inference at 25 per million output tokens while publishing internal benchmark averages and training/inference recipes.",
     "engagement": "High",
-    "raw_text": "So check this out, because Sarvam AI out of Bengaluru just open-sourced its upgraded Sarvam-105B-1711 model, and the pricing and ambitions here are seriously eye-catching. We're looking at a 105-billion-parameter model tuned for reasoning, tool calling, collaborative co-work workflows, and Indian languages, coming in at a crazy-low 25 per million output tokens alongside training and inference recipes. Here's the wild part: internal numbers cited in coverage put it at a 73.9 average across eight conversational-agent benchmarks, right next to Gemini 3.5 Flash-Lite and ahead of GPT-6 Luna. Co-founder Pratyush Kumar is making a big push for sovereign AI in India—pointing out how many trillions of tokens get imported daily and why local GPU infrastructure and data residency matter. Honestly, this is huge for developers who want open weights without getting crushed by hyperscaler API bills, though we still need independent third-party audits to verify those internal benchmark claims. Let me know in the comments if you're testing this locally!",
+    "raw_text": "So check this out, because Sarvam AI out of Bengaluru just open-sourced its upgraded Sarvam-105B-1711 model, and the pricing and ambitions here are seriously eye-catching. We're looking at a 105-billion-parameter model tuned for reasoning, tool calling, collaborative co-work workflows, and Indian languages, coming in at a crazy-low 25 per million output tokens alongside training and inference recipes. Here's the wild part: internal numbers cited in coverage put it at a 73.9 average across eight conversational-agent benchmarks, right next to Gemini 3.5 Flash-Lite and ahead of GPT-6 Luna. Co-founder Pratyush Kumar is making a big push for sovereign AI in India\u2014pointing out how many trillions of tokens get imported daily and why local GPU infrastructure and data residency matter. Honestly, this is huge for developers who want open weights without getting crushed by hyperscaler API bills, though we still need independent third-party audits to verify those internal benchmark claims. Let me know in the comments if you're testing this locally!",
     "id": "sarvam105b20261122b",
     "category": "AI",
     "companies": [
@@ -40,16 +42,18 @@
       "Tasneem Kanchwala",
       "Pratham"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/sarvam105b20261122b.png",
+    "image_prompt": "Photoreal tech news scene in Bengaluru at dusk: a dramatic server rack glow and open-source code holograms, subtle AI circuitry overlay, a sleek humanoid robot silhouette beside a laptop, data streams swirling, journalists\u2019 cameras in foreground, cinematic lighting, high detail, realistic, no text."
   },
   {
     "date": "2026-11-22",
     "source_file": "New Tech News Briefing.pdf",
     "page": 4,
-    "title": "Ant Group Open-Sources Massive 560B Medical AI—Why Benchmarks Tell Two Stories!",
+    "title": "Ant Group Open-Sources Massive 560B Medical AI\u2014Why Benchmarks Tell Two Stories!",
     "summary": "Ant Group began open-sourcing its LingSante medical AI model family on November 22, 2026, releasing LingSante-3.1-air-VL (124B total parameters) and LingSante-3.1-flash (560B MoE with a 1M context window) alongside health tools for its 150-million-user Afu app. While internal evaluations and the InclusionMed consortium rank LingSante-3.1-flash highly, Artificial Analysis's external MLCR-AA harness scored it at 23.3% on long-context medical reasoning.",
     "engagement": "High",
-    "raw_text": "So check this out, because Ant Group just open-sourced its LingSante medical AI family connected to Afu—an app serving 150 million users and nearly 20 million daily health consultations. They're dropping weights for LingSante-3.1-air-VL and a massive 560-billion-parameter Mixture-of-Experts model called LingSante-3.1-flash with a 1-million-token context window, plus tools like LingSante-Pulse, MedGuard, and real-time video consultations via LingSante-Live. Here's the wild part: on InclusionMed and Ant's internal tests, LingSante-3.1-flash looks top-tier, yet an independent MLCR-AA evaluation scored it at just 23.3% on long-context medical reasoning. Honestly, this is huge for open healthcare AI, and it's a massive wake-up call for why we can't blindly trust vendor benchmarks when real clinical decisions are on the line. What do you think—would you ever trust an AI doctor with numbers that split?",
+    "raw_text": "So check this out, because Ant Group just open-sourced its LingSante medical AI family connected to Afu\u2014an app serving 150 million users and nearly 20 million daily health consultations. They're dropping weights for LingSante-3.1-air-VL and a massive 560-billion-parameter Mixture-of-Experts model called LingSante-3.1-flash with a 1-million-token context window, plus tools like LingSante-Pulse, MedGuard, and real-time video consultations via LingSante-Live. Here's the wild part: on InclusionMed and Ant's internal tests, LingSante-3.1-flash looks top-tier, yet an independent MLCR-AA evaluation scored it at just 23.3% on long-context medical reasoning. Honestly, this is huge for open healthcare AI, and it's a massive wake-up call for why we can't blindly trust vendor benchmarks when real clinical decisions are on the line. What do you think\u2014would you ever trust an AI doctor with numbers that split?",
     "id": "lingsante560b20261122c",
     "category": "AI",
     "companies": [
@@ -70,7 +74,7 @@
     "title": "Robots Doing 312 Tasks Zero-Shot?! X Square Robot Drops WALL-OSS-1.0!",
     "summary": "X Square Robot unveiled WALL-OSS-1.0 on November 23, 2026, a vision-language-action (VLA) foundation model designed to unify visual perception, language understanding, and physical motor execution alongside XR Harness and WALL-API-1.0. In vendor evaluations, the system achieved a 55.1% zero-shot success rate across 312 real-robot tasks, with open-source code and weights slated for release.",
     "engagement": "High",
-    "raw_text": "So check this out, because physical AI just took another loud leap forward with X Square Robot unveiling WALL-OSS-1.0! It's a vision-language-action foundation model built to connect what a robot sees and hears directly to physical motor control, bundled with XR Harness and WALL-API-1.0, and they're promising open-source code and weights. Here's the wild part: X Square Robot claims a 55.1% zero-shot success rate across 312 real-robot tasks—covering unfamiliar objects, tool use, two-handed coordination, and multi-step manipulation without task-specific fine-tuning. Valued over $2.8 billion, the company wants WALL-OSS to become an open standard for embodied robotics. Honestly, this is huge if open weights drop soon and independent labs can reproduce those numbers outside of vendor tests. Are we getting closer to general-purpose home and factory robots actually pulling their weight?",
+    "raw_text": "So check this out, because physical AI just took another loud leap forward with X Square Robot unveiling WALL-OSS-1.0! It's a vision-language-action foundation model built to connect what a robot sees and hears directly to physical motor control, bundled with XR Harness and WALL-API-1.0, and they're promising open-source code and weights. Here's the wild part: X Square Robot claims a 55.1% zero-shot success rate across 312 real-robot tasks\u2014covering unfamiliar objects, tool use, two-handed coordination, and multi-step manipulation without task-specific fine-tuning. Valued over $2.8 billion, the company wants WALL-OSS to become an open standard for embodied robotics. Honestly, this is huge if open weights drop soon and independent labs can reproduce those numbers outside of vendor tests. Are we getting closer to general-purpose home and factory robots actually pulling their weight?",
     "id": "walloss1020261123d",
     "category": "Hardware",
     "companies": [
@@ -80,16 +84,18 @@
       "TechEdgeAI"
     ],
     "people": [],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/walloss1020261123d.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a sleek warehouse robot arm with LED sensors and camera head, deploying a modular gripper near shelves of tools; subtle holographic UI overlays without text; dramatic studio lighting, shallow depth of field, motion blur, high-detail, realistic colors, 16:9."
   },
   {
     "date": "2026-11-18",
     "source_file": "New Tech News Briefing.pdf",
     "page": 5,
-    "title": "An AI Designed a Whole New CPU Architecture From Scratch—4.59x Perf-Per-Watt?!",
+    "title": "An AI Designed a Whole New CPU Architecture From Scratch\u20144.59x Perf-Per-Watt?!",
     "summary": "Architect Labs drew broad coverage through November 23, 2026 for Frostbite, a general-purpose CPU architecture whose ISA, microarchitecture, RTL, formal verification (over 800,000 lines of Lean), and 7nm physical layout were generated by AI agents. Using interaction nets across a tiled mesh with local memories instead of traditional pipelines and coherent caches, a simulated 7nm quad showed 4.59x performance-per-watt against an unnamed dual-issue in-order core.",
     "engagement": "Medium",
-    "raw_text": "So check this out, because Architect Labs is getting major attention for Frostbite, a CPU architecture where AI agents handled the whole stack from instruction set and RTL to formal Lean verification and 7nm physical layout. Instead of classic fetch-decode pipelines and big shared coherent caches, Frostbite runs programs as interaction nets across a tiled mesh with small local memories and three-rule work stealing. Here's the wild part: in pre-silicon 7nm simulations across 25 small test programs, a four-tile quad hit 4.59x the performance-per-watt of an unnamed dual-issue in-order core. Honestly, this is a fascinating engineering experiment—watching AI invent non-traditional hardware topologies is super cool—but we have to stay grounded since these are pre-silicon simulations, the baseline core isn't named for legal reasons, and SPEC or PARSEC benchmarks haven't been run yet. Let's see how real silicon behaves when it tapes out!",
+    "raw_text": "So check this out, because Architect Labs is getting major attention for Frostbite, a CPU architecture where AI agents handled the whole stack from instruction set and RTL to formal Lean verification and 7nm physical layout. Instead of classic fetch-decode pipelines and big shared coherent caches, Frostbite runs programs as interaction nets across a tiled mesh with small local memories and three-rule work stealing. Here's the wild part: in pre-silicon 7nm simulations across 25 small test programs, a four-tile quad hit 4.59x the performance-per-watt of an unnamed dual-issue in-order core. Honestly, this is a fascinating engineering experiment\u2014watching AI invent non-traditional hardware topologies is super cool\u2014but we have to stay grounded since these are pre-silicon simulations, the baseline core isn't named for legal reasons, and SPEC or PARSEC benchmarks haven't been run yet. Let's see how real silicon behaves when it tapes out!",
     "id": "frostbitecpu20261118e",
     "category": "Hardware",
     "companies": [
@@ -103,7 +109,9 @@
       "Avilasha",
       "Andrew Sozinov"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/frostbitecpu20261118e.png",
+    "image_prompt": "Cinematic newsroom-style tech image: sleek 7nm CPU chip on a glass desk, glowing circuit traces forming interaction-networks on a tiled mesh, local-memory blocks, subtle heat-map glow. Dark blue/teal lighting, high realism, shallow depth of field, no text, newsworthy atmosphere."
   },
   {
     "date": "2026-11-23",
@@ -124,16 +132,18 @@
       "MSI"
     ],
     "people": [],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/lttssdvault20261123f.png",
+    "image_prompt": "Realistic high-tech newsroom photo: engineers at dusk around a smart car dashboard with holographic SDV pipeline overlays, glowing server racks, subtle cyber-security icons, press-event lighting, confident calm mood, sharp focus, cinematic lighting, shallow depth of field, no text, ultra-detailed."
   },
   {
     "date": "2026-11-22",
     "source_file": "New Tech News Briefing.pdf",
     "page": 6,
-    "title": "OpenAI's Chief Scientist Wants Scaling Pauses Based on Perplexity—Will Washington Bite?",
-    "summary": "OpenAI Chief Scientist Jakub Pachocki proposed on November 22, 2026 that frontier AI labs adopt shared development ceilings halting scaling until interpretability and monitoring milestones are met, anchored in metrics such as perplexity. Coverage on November 23 highlighted political friction in Washington—noting President Donald Trump's opposition to broad AI limits alongside an incoming Democratic Congress—as well as enforcement challenges across closed and open-weight labs.",
+    "title": "OpenAI's Chief Scientist Wants Scaling Pauses Based on Perplexity\u2014Will Washington Bite?",
+    "summary": "OpenAI Chief Scientist Jakub Pachocki proposed on November 22, 2026 that frontier AI labs adopt shared development ceilings halting scaling until interpretability and monitoring milestones are met, anchored in metrics such as perplexity. Coverage on November 23 highlighted political friction in Washington\u2014noting President Donald Trump's opposition to broad AI limits alongside an incoming Democratic Congress\u2014as well as enforcement challenges across closed and open-weight labs.",
     "engagement": "High",
-    "raw_text": "So check this out, because OpenAI Chief Scientist Jakub Pachocki just dropped a major proposal asking frontier AI labs to agree on shared development ceilings. The idea is to pause scaling until researchers hit concrete interpretability and monitoring milestones, using technical yardsticks like perplexity—how well a model predicts the next token—alongside behavioral checks. Here's the wild part: this lands right in the middle of a political tug-of-war in Washington, where President Donald Trump has pushed back against broad AI restrictions while an incoming Democratic Congress could take a very different stance. Plus, even if big labs sign on, getting everyone—including global open-weight developers—to follow the same rules is no easy feat. Honestly, this is huge because it gets to the core debate over AI safety versus speed. Do you think voluntary industry limits actually work, or do they just slow down one group while others keep building?",
+    "raw_text": "So check this out, because OpenAI Chief Scientist Jakub Pachocki just dropped a major proposal asking frontier AI labs to agree on shared development ceilings. The idea is to pause scaling until researchers hit concrete interpretability and monitoring milestones, using technical yardsticks like perplexity\u2014how well a model predicts the next token\u2014alongside behavioral checks. Here's the wild part: this lands right in the middle of a political tug-of-war in Washington, where President Donald Trump has pushed back against broad AI restrictions while an incoming Democratic Congress could take a very different stance. Plus, even if big labs sign on, getting everyone\u2014including global open-weight developers\u2014to follow the same rules is no easy feat. Honestly, this is huge because it gets to the core debate over AI safety versus speed. Do you think voluntary industry limits actually work, or do they just slow down one group while others keep building?",
     "id": "pachockilimits20261122g",
     "category": "AI",
     "companies": [
@@ -148,16 +158,18 @@
       "Donald Trump",
       "Jorgelina do Rosario"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/pachockilimits20261122g.png",
+    "image_prompt": "Realistic news photo style: dusk Washington DC skyline with Capitol dome, subtle AI server glow in foreground, silhouetted researcher and policy figure debating; floating network-like light lines, serious moody lighting, shallow depth of field, high detail, no text, no logos."
   },
   {
     "date": "2026-11-23",
     "source_file": "New Tech News Briefing.pdf",
     "page": 6,
-    "title": "Alexandr Wang Says Superintelligence Is Arriving—And Context Is the Real Bottleneck!",
+    "title": "Alexandr Wang Says Superintelligence Is Arriving\u2014And Context Is the Real Bottleneck!",
     "summary": "Meta AI Chief Alexandr Wang stated in coverage published November 23, 2026 that superintelligence is arriving and urged the AI industry to shift engineering focus toward deployment architecture, situational context, and practical execution. He argued that raw intelligence was never the core bottleneck compared to domain knowledge and real-world execution.",
     "engagement": "High",
-    "raw_text": "So check this out, because Meta AI Chief Alexandr Wang just made a bold call saying superintelligence is arriving—and telling the industry to rethink where we focus our engineering energy. According to Wang, raw intelligence isn't really what's been holding AI back; it's domain-specific knowledge, situational context, and actually executing tasks reliably in the real world. Here's the wild part: you can already see that shift happening across the market right now, with companies pouring effort into context pipelines, deterministic workflows, security guardrails for agents, and payment infrastructure rather than just chasing bigger base runs. Honestly, this is huge if you're building AI apps or agents because 'smart in a vacuum' doesn't cut it when an agent has to navigate messy real-world rules. Do you buy that context and execution matter more than raw model smarts right now?",
+    "raw_text": "So check this out, because Meta AI Chief Alexandr Wang just made a bold call saying superintelligence is arriving\u2014and telling the industry to rethink where we focus our engineering energy. According to Wang, raw intelligence isn't really what's been holding AI back; it's domain-specific knowledge, situational context, and actually executing tasks reliably in the real world. Here's the wild part: you can already see that shift happening across the market right now, with companies pouring effort into context pipelines, deterministic workflows, security guardrails for agents, and payment infrastructure rather than just chasing bigger base runs. Honestly, this is huge if you're building AI apps or agents because 'smart in a vacuum' doesn't cut it when an agent has to navigate messy real-world rules. Do you buy that context and execution matter more than raw model smarts right now?",
     "id": "wangcontext20261123h",
     "category": "AI",
     "companies": [
@@ -170,16 +182,18 @@
       "Alexandr Wang",
       "Anjaly Raj"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/wangcontext20261123h.png",
+    "image_prompt": "Realistic editorial photo, dim newsroom at dusk: Meta AI chief Alexandr Wang in focus, thoughtful expression, wearing dark suit, soft window light, blurred servers and holographic circuit glow behind, subtle world map and context UI shapes drifting (no text), cinematic lighting, shallow depth of field."
   },
   {
     "date": "2026-11-23",
     "source_file": "New Tech News Briefing.pdf",
     "page": 7,
     "title": "AI Shopping Agents Get Klarna & Checkout Rails While Matters.Al Raises $12M for Agent Security",
-    "summary": "Announcements on November 23, 2026 showed payment rails expanding for autonomous shopping agents—including Klarna joining Adyen Agentic checkout, Crossmint's Menta merchant plugin, and Praxis Tech's AI Rule Builder—alongside Matters.Al raising a $12 million pre-Series A led by Tanglin Venture Partners to monitor AI agent data access. Other corporate moves included Bureau Veritas acquiring Topo Solutions, Quantum X Labs partnering with Elbit Systems on defense quantum R&D, and Everli listing on Nasdaq.",
+    "summary": "Announcements on November 23, 2026 showed payment rails expanding for autonomous shopping agents\u2014including Klarna joining Adyen Agentic checkout, Crossmint's Menta merchant plugin, and Praxis Tech's AI Rule Builder\u2014alongside Matters.Al raising a $12 million pre-Series A led by Tanglin Venture Partners to monitor AI agent data access. Other corporate moves included Bureau Veritas acquiring Topo Solutions, Quantum X Labs partnering with Elbit Systems on defense quantum R&D, and Everli listing on Nasdaq.",
     "engagement": "Medium",
-    "raw_text": "So check this out, because AI agents are officially getting serious checkout plumbing and security guardrails on November 23, 2026! We're seeing Klarna added as a non-card option for Adyen Agentic checkout, Crossmint launching its Menta plugin so shopping assistants can complete purchases more easily, and Praxis Tech rolling out an AI Rule Builder for payment routing. Here's the wild part: as autonomous agents get more access to data and wallets, security becomes a massive deal—which helps explain why Matters.Al just raised a $12 million pre-Series A led by Tanglin Venture Partners to track how AI agents access data. There were also plenty of other moves, from Bureau Veritas buying Topo Solutions and Everli listing on Nasdaq to Quantum X Labs teaming up with Elbit Systems on quantum defense R&D. Honestly, watching software agents actually pay for things and get audited in real time is pretty wild to see unfold.",
+    "raw_text": "So check this out, because AI agents are officially getting serious checkout plumbing and security guardrails on November 23, 2026! We're seeing Klarna added as a non-card option for Adyen Agentic checkout, Crossmint launching its Menta plugin so shopping assistants can complete purchases more easily, and Praxis Tech rolling out an AI Rule Builder for payment routing. Here's the wild part: as autonomous agents get more access to data and wallets, security becomes a massive deal\u2014which helps explain why Matters.Al just raised a $12 million pre-Series A led by Tanglin Venture Partners to track how AI agents access data. There were also plenty of other moves, from Bureau Veritas buying Topo Solutions and Everli listing on Nasdaq to Quantum X Labs teaming up with Elbit Systems on quantum defense R&D. Honestly, watching software agents actually pay for things and get audited in real time is pretty wild to see unfold.",
     "id": "agenticfintech20261123i",
     "category": "Business",
     "companies": [
@@ -200,16 +214,18 @@
     "people": [
       "Yukta Baid"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/agenticfintech20261123i.png",
+    "image_prompt": "Futuristic finance newsroom scene: autonomous shopping agent UI holograms linking Klarna/Adyen-style payment rails, sleek merchant dashboard, subtle lock icons for agent security, investors\u2019 silhouettes, $12M fundraising ambiance; background city lights, realistic lighting, sharp detail, no text, news-photo style."
   },
   {
     "date": "2026-11-23",
     "source_file": "New Tech News Briefing.pdf",
     "page": 9,
-    "title": "Suzlon & Persistent Systems Flag Cyber Incidents—200GB Leak Claim & Visa Data Risks!",
-    "summary": "On November 23, 2026, Suzlon Energy disclosed a cyberattack to stock exchanges and CERT-In—stating critical applications were unaffected while ransomware group Blackout claimed a 200 GB leak that remained unverified—and shares fell nearly 3%. Separately, Persistent Systems disclosed that a third-party U.S. immigration law firm may have suffered a breach affecting employee immigration records, while stating its internal IT systems remained secure.",
+    "title": "Suzlon & Persistent Systems Flag Cyber Incidents\u2014200GB Leak Claim & Visa Data Risks!",
+    "summary": "On November 23, 2026, Suzlon Energy disclosed a cyberattack to stock exchanges and CERT-In\u2014stating critical applications were unaffected while ransomware group Blackout claimed a 200 GB leak that remained unverified\u2014and shares fell nearly 3%. Separately, Persistent Systems disclosed that a third-party U.S. immigration law firm may have suffered a breach affecting employee immigration records, while stating its internal IT systems remained secure.",
     "engagement": "Low",
-    "raw_text": "So check this out, because two major Indian companies—Suzlon Energy and Persistent Systems—flagged cybersecurity incidents in exchange disclosures on November 23, 2026. Suzlon told exchanges and CERT-In that containment kicked in and business-critical applications weren't hit, even as the Blackout ransomware group claimed roughly 200 GB of data on a leak site—a claim that still isn't independently verified. Here's the wild part: Persistent Systems' issue centers on a third-party U.S. immigration law firm where employee immigration records may have been exposed, though Persistent says its own internal IT systems are secure and critical IP wasn't held there. Honestly, even when core systems stay up, vendor breaches involving sensitive employee documents are a real headache for compliance and security teams. It's a classic corporate cybersecurity and risk-management story rather than a flashy product launch, though definitely worth tracking for updates.",
+    "raw_text": "So check this out, because two major Indian companies\u2014Suzlon Energy and Persistent Systems\u2014flagged cybersecurity incidents in exchange disclosures on November 23, 2026. Suzlon told exchanges and CERT-In that containment kicked in and business-critical applications weren't hit, even as the Blackout ransomware group claimed roughly 200 GB of data on a leak site\u2014a claim that still isn't independently verified. Here's the wild part: Persistent Systems' issue centers on a third-party U.S. immigration law firm where employee immigration records may have been exposed, though Persistent says its own internal IT systems are secure and critical IP wasn't held there. Honestly, even when core systems stay up, vendor breaches involving sensitive employee documents are a real headache for compliance and security teams. It's a classic corporate cybersecurity and risk-management story rather than a flashy product launch, though definitely worth tracking for updates.",
     "id": "cyberdisclosures20261123j",
     "category": "Business",
     "companies": [
@@ -230,16 +246,18 @@
       "Rajesh Rai",
       "Amit Atre"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/cyberdisclosures20261123j.png",
+    "image_prompt": "Realistic news photo: dim corporate office at dusk, broken laptop screen casting blue glow, abstract cyber \u201cleak\u201d hologram with 200GB data blocks, two silhouettes in suits separated by a digital firewall, subtle stock chart drop icon in background, somber tense mood, high detail, natural lighting."
   },
   {
     "date": "2026-11-23",
     "source_file": "New Tech News Briefing.pdf",
     "page": 11,
     "title": "Microsoft Research Drops BioEmu2 Preprint as AI Papers Zero In on Failure Modes",
-    "summary": "November 23, 2026 arXiv preprints included Microsoft Research's BioEmu2 (arXiv:2611.27924) for all-atom 3D biomolecular ensemble generation across complexes, ligands, and nucleic acids, alongside studies on LLM memory (MemOnce), audio deepfake detection (Neural Defend ARCAS 290M), and hallucination memorization. Researchers emphasized scope limits and failure modes—such as complex-size degradation above 10,000 tokens in BioEmu2—prior to clinical or production reliance.",
+    "summary": "November 23, 2026 arXiv preprints included Microsoft Research's BioEmu2 (arXiv:2611.27924) for all-atom 3D biomolecular ensemble generation across complexes, ligands, and nucleic acids, alongside studies on LLM memory (MemOnce), audio deepfake detection (Neural Defend ARCAS 290M), and hallucination memorization. Researchers emphasized scope limits and failure modes\u2014such as complex-size degradation above 10,000 tokens in BioEmu2\u2014prior to clinical or production reliance.",
     "engagement": "Low",
-    "raw_text": "So check this out, because the November 23, 2026 arXiv batch is full of papers looking closely at where AI models actually break down. One standout is Microsoft Research's BioEmu2 preprint, which models 3D biomolecular ensembles across complexes, ligands, and nucleic acids while explicitly flagging limits like degradation on large complexes over 10,000 tokens and warning against uncalibrated clinical use. Here's the wild part: alongside BioEmu2, researchers posted work like MemOnce on scalable LLM memory, Neural Defend ARCAS 290M for audio deepfake detection, and studies digging into post-training hallucination memorization and unlearning audits. Honestly, this is pretty dense academic research—great if you're into computational biology, ML interpretability, or model evaluation—though it's not the kind of everyday consumer news that usually blows up on mainstream feeds. Still, seeing researchers document failure modes upfront is a solid trend for the field.",
+    "raw_text": "So check this out, because the November 23, 2026 arXiv batch is full of papers looking closely at where AI models actually break down. One standout is Microsoft Research's BioEmu2 preprint, which models 3D biomolecular ensembles across complexes, ligands, and nucleic acids while explicitly flagging limits like degradation on large complexes over 10,000 tokens and warning against uncalibrated clinical use. Here's the wild part: alongside BioEmu2, researchers posted work like MemOnce on scalable LLM memory, Neural Defend ARCAS 290M for audio deepfake detection, and studies digging into post-training hallucination memorization and unlearning audits. Honestly, this is pretty dense academic research\u2014great if you're into computational biology, ML interpretability, or model evaluation\u2014though it's not the kind of everyday consumer news that usually blows up on mainstream feeds. Still, seeing researchers document failure modes upfront is a solid trend for the field.",
     "id": "bioemu2arxiv20261123k",
     "category": "Science",
     "companies": [
@@ -273,6 +291,8 @@
       "Alexandros Hollender",
       "Rahul Savani"
     ],
-    "created_at": "2026-11-23T18:42:00+05:30"
+    "created_at": "2026-11-23T18:42:00+05:30",
+    "image_url": "images/24_11_26/bioemu2arxiv20261123k.png",
+    "image_prompt": "Futuristic newsroom scene, muted blue palette: a scientist silhouette reviewing floating holographic biomolecule clusters (proteins, ligands, nucleic acid strands) alongside abstract AI failure icons (warning triangles, glitch fragments). Subtle arXiv-like waveform overlays, dramatic lighting, photoreal, high detail, cinematic mood."
   }
 ]
