@@ -16,13 +16,15 @@
     "people": [
       "Koray Kavukcuoglu"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/g4h82k9m1p.png",
+    "image_prompt": "Futuristic newsroom with a split-scene: left warm glowing hydrogen nebula hints at \u201cfast low-latency,\u201d right cool circuit-like brain texture suggests deep reasoning. Center: sleek abstract AI core with motion blur, code/testing icons as holograms (no text). Crisp photoreal, high contrast, cinematic lighting."
   },
   {
     "date": "2026-11-27",
     "source_file": "Daily Tech News Aggregation (7).pdf",
     "page": 3,
-    "title": "Google Workspace Forces MCP on AI Agents—And Paid Tiers Are Coming!",
+    "title": "Google Workspace Forces MCP on AI Agents\u2014And Paid Tiers Are Coming!",
     "summary": "Google has made Model Context Protocol (MCP) servers and a Workspace CLI generally available across core Workspace apps, requiring agent OAuth clients to declare their agent identity. Automated agents must route through Workspace MCP starting February 1, 2027, ahead of scaled-tier billing beginning April 1, 2027.",
     "engagement": "Medium",
     "raw_text": "So check this out if you are building AI agents on top of Google Workspace, because the rules of the road just changed in a major way. Google has made Model Context Protocol servers and a Workspace CLI generally available across Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat, and Tasks. Here's the wild part: developers can no longer let agents sneak around pretending to be regular OAuth clients without declaring themselves as agents. Starting February 1, 2027, automated agents have to use Workspace MCP interfaces instead of hitting REST APIs directly, and then on April 1, 2027, scaled-tier billing kicks in for agent usage. Honestly, this is huge for enterprise IT teams because it finally separates human sessions from autonomous bot traffic for security and auditing. At the same time, it is a clear signal that free API rides for heavy agent loops are wrapping up. If you build Workspace automations or internal tools, you will want to get ahead of that February migration deadline right now.",
@@ -32,7 +34,9 @@
       "Google"
     ],
     "people": [],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/gwmc94x7t2.png",
+    "image_prompt": "Futuristic newsroom scene: Google Workspace data streams flowing through a sleek server hub labeled \u201cMCP,\u201d holographic agent avatars handshake with OAuth keys, network pathways converging toward a calendar grid, subtle globe glow, realistic lighting, cinematic depth, high detail, no text."
   },
   {
     "date": "2026-11-26",
@@ -41,7 +45,7 @@
     "title": "Make Games With AI and Zero Code? Google Playground + Unity Is Here!",
     "summary": "Google is rolling out Playground, an AI platform that lets users generate interactive games, share them via links, or publish them to a community gallery with Play Games profiles and leaderboards. Built alongside a Unity partnership, it uses weekly generation credits with higher limits for paid Google AI subscribers.",
     "engagement": "High",
-    "raw_text": "So check this out, Google is rolling out a brand-new AI game-creation platform called Playground, and we might be looking at the next big wave of user-generated fun! With Playground, you can generate interactive games using AI, keep them private, drop a link to share with friends, or post them to a community hub. Select titles even support multiplayer and leaderboards tied to Android Google Play Games profiles, plus Google teamed up with Unity on this. Here's the wild part: playing community games is free, while generating new ones runs on weekly credits, giving paid Google AI subscribers bigger limits and immediate access. Honestly, this is huge if you have ever had a wild mini-game idea and zero time to code it from scratch. The real test—and I am super curious to see how this plays out—is whether AI-made games can move past simple prototypes and actually feel super polished and fun to replay.",
+    "raw_text": "So check this out, Google is rolling out a brand-new AI game-creation platform called Playground, and we might be looking at the next big wave of user-generated fun! With Playground, you can generate interactive games using AI, keep them private, drop a link to share with friends, or post them to a community hub. Select titles even support multiplayer and leaderboards tied to Android Google Play Games profiles, plus Google teamed up with Unity on this. Here's the wild part: playing community games is free, while generating new ones runs on weekly credits, giving paid Google AI subscribers bigger limits and immediate access. Honestly, this is huge if you have ever had a wild mini-game idea and zero time to code it from scratch. The real test\u2014and I am super curious to see how this plays out\u2014is whether AI-made games can move past simple prototypes and actually feel super polished and fun to replay.",
     "id": "gpl37n5v8q",
     "category": "AI",
     "companies": [
@@ -51,7 +55,9 @@
     "people": [
       "Saptak Datta"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/gpl37n5v8q.png",
+    "image_prompt": "Photoreal tech newsroom scene: diverse developers around a laptop showing abstract game interface glow, floating holographic icons (AI, unity, play button), Google-style multicolor light trails, subtle UI-style leaderboards, vibrant cyber ambience, high detail, cinematic lighting, shallow depth of field, realistic."
   },
   {
     "date": "2026-11-26",
@@ -72,7 +78,9 @@
       "InstaAstro"
     ],
     "people": [],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/jio61c4z9w.png",
+    "image_prompt": "Photorealistic news scene: diverse Indian smartphone users in a modern tech newsroom, holographic astrological wheel and birth-chart overlays in the air, subtle Swiss-mechanics motif, warm futuristic lighting, cinematic depth of field, high detail, realistic faces, no text, 16:9."
   },
   {
     "date": "2026-11-26",
@@ -89,7 +97,9 @@
       "BrandPilot AI"
     ],
     "people": [],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/bpa52m8r3k.png",
+    "image_prompt": "Realistic newsroom-style illustration: a glowing AI network overlaying a mobile ad dashboard, bidirectional data flows to app tiles and publisher screens. Split focus on \u201chuman vs bot\u201d silhouettes\u2014subtle masked bot icons. Cool blue lighting, cinematic depth, high detail, no text, 4K."
   },
   {
     "date": "2026-11-27",
@@ -98,7 +108,7 @@
     "title": "TDK Drops $635M to Double Sensors for Humanoid Robots & AI Data Centers!",
     "summary": "TDK Corporation announced a $635 million investment to build a new plant in Niigata, Japan, doubling its tunnel magnetoresistance (TMR) sensor capacity by 2031. The sensors power precision positioning in humanoid robots and monitor power and liquid cooling in AI data centers.",
     "engagement": "High",
-    "raw_text": "So check this out, TDK is putting $635 million on the table to build a whole new factory in Niigata, Japan, and double its tunnel magnetoresistance sensor capacity by 2031! Why should we care about tiny magnetic sensors? Here's the wild part: TDK already supplies around 80% of the global TMR market, and these sensors are critical both for managing power and liquid cooling in massive AI data centers AND for giving humanoid robots high-precision positioning across dozens of joints. Sensor unit chief Takao Tsutsui says demand has hit a tipping point, and analysts like Goldman Sachs see humanoid robots scaling into the millions by 2035. Honestly, this is huge because while everyone argues about chatbots, the physical bottlenecks—power, cooling, and robot hardware—are where multi-year money is pouring in. We always talk about how robots need better hardware to move smoothly in the real world, and this is a massive step toward scaling that supply chain.",
+    "raw_text": "So check this out, TDK is putting $635 million on the table to build a whole new factory in Niigata, Japan, and double its tunnel magnetoresistance sensor capacity by 2031! Why should we care about tiny magnetic sensors? Here's the wild part: TDK already supplies around 80% of the global TMR market, and these sensors are critical both for managing power and liquid cooling in massive AI data centers AND for giving humanoid robots high-precision positioning across dozens of joints. Sensor unit chief Takao Tsutsui says demand has hit a tipping point, and analysts like Goldman Sachs see humanoid robots scaling into the millions by 2035. Honestly, this is huge because while everyone argues about chatbots, the physical bottlenecks\u2014power, cooling, and robot hardware\u2014are where multi-year money is pouring in. We always talk about how robots need better hardware to move smoothly in the real world, and this is a massive step toward scaling that supply chain.",
     "id": "tdk78p2j6n",
     "category": "Hardware",
     "companies": [
@@ -112,7 +122,9 @@
       "Takao Tsutsui",
       "Dr. Heinrich Vogel"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/tdk78p2j6n.png",
+    "image_prompt": "Photojournalistic scene in Niigata, Japan: modern TDK-branded industrial plant under construction beside a crisp harbor, cranes and scaffolding, subtle tunnel-magnetoresistance sensor motifs in foreground as realistic macro components, dual focus\u2014humanoid robot arm silhouette and server racks with glowing liquid-cooling pipes\u2014bright natural daylight, high detail, newsworthy, no text."
   },
   {
     "date": "2026-11-26",
@@ -121,7 +133,7 @@
     "title": "Volvo Cars Starts Training AEON Humanoid Robots at Its Factory!",
     "summary": "Volvo Cars began training Hexagon Robotics' AEON humanoid robots at its Ghent, Belgium plant on repetitive and ergonomically tough tasks alongside human workers. The companies plan an expanded pilot in the first half of 2027 ahead of targeted production deployment from mid-2027.",
     "engagement": "High",
-    "raw_text": "So check this out, Volvo Cars is actually training Hexagon Robotics' AEON humanoid robots right inside its Ghent factory alongside real workers! They are testing these bots on repetitive and physically taxing jobs to build toward a bigger pilot in early 2027 and active production deployment by mid-2027. Here's the wild part: while official specs weren't all published in the main release, secondary reports describe AEON as a wheeled humanoid around 1.65 meters tall with a 10 kg payload that learns via imitation. Honestly, this is huge because putting wheels on an upper-body humanoid for flat factory floors is super practical—you get human-like reach without wasting energy balancing on two legs over stairs it doesn't need to climb. Volvo's manufacturing chief says the design fits right into existing lines and automation. Seeing humanoids move from lab demos to car factories is wild, and I cannot wait to see how reliable they look in 2027!",
+    "raw_text": "So check this out, Volvo Cars is actually training Hexagon Robotics' AEON humanoid robots right inside its Ghent factory alongside real workers! They are testing these bots on repetitive and physically taxing jobs to build toward a bigger pilot in early 2027 and active production deployment by mid-2027. Here's the wild part: while official specs weren't all published in the main release, secondary reports describe AEON as a wheeled humanoid around 1.65 meters tall with a 10 kg payload that learns via imitation. Honestly, this is huge because putting wheels on an upper-body humanoid for flat factory floors is super practical\u2014you get human-like reach without wasting energy balancing on two legs over stairs it doesn't need to climb. Volvo's manufacturing chief says the design fits right into existing lines and automation. Seeing humanoids move from lab demos to car factories is wild, and I cannot wait to see how reliable they look in 2027!",
     "id": "vla49t1y7b",
     "category": "Hardware",
     "companies": [
@@ -132,16 +144,18 @@
       "Magnus Nilsson",
       "Arnaud Robert"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/vla49t1y7b.png",
+    "image_prompt": "Realistic news photo at Volvo Ghent factory: two sleek AEON humanoid robots and workers in safety vests performing repetitive ergonomic tasks on an assembly line. Bright industrial lighting, shallow depth of field, crisp details, documentary mood, high-resolution, no text."
   },
   {
     "date": "2026-11-27",
     "source_file": "Daily Tech News Aggregation (7).pdf",
     "page": 6,
     "title": "SAP Reportedly Eyes 10,000+ Job Cuts in Major AI Shakeup",
-    "summary": "SAP SE is reportedly considering cutting at least 10,000 roles—roughly 9% or more of its ~113,000-strong global workforce—across product, engineering, and sales as CEO Christian Klein pushes an AI-first pivot. The potential cuts remain subject to labor negotiations and follow strong Q3 revenue and profit growth amid investor worry over AI disrupting traditional software.",
+    "summary": "SAP SE is reportedly considering cutting at least 10,000 roles\u2014roughly 9% or more of its ~113,000-strong global workforce\u2014across product, engineering, and sales as CEO Christian Klein pushes an AI-first pivot. The potential cuts remain subject to labor negotiations and follow strong Q3 revenue and profit growth amid investor worry over AI disrupting traditional software.",
     "engagement": "Low",
-    "raw_text": "So check this out, reports say SAP is weighing cutting at least 10,000 jobs—around 9% or more of its workforce—as it reshapes the company around AI. That would span areas like product, engineering, and sales under CEO Christian Klein, though any final numbers still have to go through labor talks and protections like SAP's German employment guarantee through 2028. Here's the wild part: this comes even though SAP posted solid Q3 numbers, with revenue up 13% and profit rising 11%, because Wall Street has been nervous about how AI agents might change legacy enterprise software. Honestly, this is a classic corporate restructuring story—big numbers, exec moves, and heavy business strategy that feels more like a boardroom briefing than a flashy consumer launch. CFO Dominik Asam even hinted headcount growth could reverse as money shifts toward AI. For folks in enterprise tech, it is another sign of how aggressively legacy software giants are retooling.",
+    "raw_text": "So check this out, reports say SAP is weighing cutting at least 10,000 jobs\u2014around 9% or more of its workforce\u2014as it reshapes the company around AI. That would span areas like product, engineering, and sales under CEO Christian Klein, though any final numbers still have to go through labor talks and protections like SAP's German employment guarantee through 2028. Here's the wild part: this comes even though SAP posted solid Q3 numbers, with revenue up 13% and profit rising 11%, because Wall Street has been nervous about how AI agents might change legacy enterprise software. Honestly, this is a classic corporate restructuring story\u2014big numbers, exec moves, and heavy business strategy that feels more like a boardroom briefing than a flashy consumer launch. CFO Dominik Asam even hinted headcount growth could reverse as money shifts toward AI. For folks in enterprise tech, it is another sign of how aggressively legacy software giants are retooling.",
     "id": "sap83w5d2f",
     "category": "Business",
     "companies": [
@@ -153,16 +167,18 @@
       "Anna Peverieri",
       "Hakan Ersen"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/sap83w5d2f.png",
+    "image_prompt": "Realistic newsroom photo style: SAP corporate skyline with subdued corporate mood, shadowy AI hologram overlays, blurred executives in suits discussing layoffs, charts suggesting workforce cuts, cables/servers glow in background, overcast lighting, high-detail, natural color grading, no text."
   },
   {
     "date": "2026-11-26",
     "source_file": "Daily Tech News Aggregation (7).pdf",
     "page": 7,
-    "title": "India Data Centre Funding Jumps Nearly 11x—Almost All to 4 Giants",
-    "summary": "Disclosed funding for India's data center sector surged nearly 11-fold to ₹16,458.52 crore through November 2026, with 99.9% going to four major operators—Nxtra, CtrlS, Yotta, and Netmagic Solutions. Equity and private equity made up 92% of inflows, leaving early-stage startups with just ₹17.84 crore.",
+    "title": "India Data Centre Funding Jumps Nearly 11x\u2014Almost All to 4 Giants",
+    "summary": "Disclosed funding for India's data center sector surged nearly 11-fold to \u20b916,458.52 crore through November 2026, with 99.9% going to four major operators\u2014Nxtra, CtrlS, Yotta, and Netmagic Solutions. Equity and private equity made up 92% of inflows, leaving early-stage startups with just \u20b917.84 crore.",
     "engagement": "Low",
-    "raw_text": "So check this out, data center funding in India jumped nearly 11-fold in 2026 to ₹16,458.52 crore, up from ₹1,533 crore in all of 2025. Here's the wild part: almost all of that money went to just four big players—Nxtra, CtrlS, Yotta, and Netmagic Solutions—which grabbed 99.9% of disclosed funding, while two early-stage startups split just ₹17.84 crore. Also, 92% of the 2026 funding came from equity and private equity rather than debt. Honestly, this is a very finance-heavy infrastructure story, so if you're looking for gadget reviews or viral AI demos, it's going to feel pretty niche. Still, it shows how expensive massive compute infrastructure is—you need huge land, serious power, and deep pockets to play at data center scale. Big incumbents are clearly locking down the heavy physical foundation first.",
+    "raw_text": "So check this out, data center funding in India jumped nearly 11-fold in 2026 to \u20b916,458.52 crore, up from \u20b91,533 crore in all of 2025. Here's the wild part: almost all of that money went to just four big players\u2014Nxtra, CtrlS, Yotta, and Netmagic Solutions\u2014which grabbed 99.9% of disclosed funding, while two early-stage startups split just \u20b917.84 crore. Also, 92% of the 2026 funding came from equity and private equity rather than debt. Honestly, this is a very finance-heavy infrastructure story, so if you're looking for gadget reviews or viral AI demos, it's going to feel pretty niche. Still, it shows how expensive massive compute infrastructure is\u2014you need huge land, serious power, and deep pockets to play at data center scale. Big incumbents are clearly locking down the heavy physical foundation first.",
     "id": "idc19h6k4m",
     "category": "Business",
     "companies": [
@@ -178,7 +194,9 @@
     "people": [
       "Ritik Raj"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/idc19h6k4m.png",
+    "image_prompt": "Photorealistic newsroom-style scene: a glowing server room in India at dusk, four illuminated data racks symbolizing major operators, subtle circuit patterns, investors\u2019 light trails, dramatic cinematic lighting, high detail, realistic, neutral colors, depth of field, no text."
   },
   {
     "date": "2026-11-27",
@@ -195,7 +213,9 @@
       "VMware"
     ],
     "people": [],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/vmw92q7x5p.png",
+    "image_prompt": "Cinematic newsroom scene: tense security analyst monitoring dual screens showing abstract red \u201cbreach\u201d icons, a shadowy silhouette near a server rack labeled only with glowing light bars, digital warning glow, dark blue palette, shallow depth of field, ultra-realistic, high contrast, no text."
   },
   {
     "date": "2026-11-26",
@@ -204,7 +224,7 @@
     "title": "Payment Processor Cleverbridge Confirms Breach Exposing CVV/CVC Codes!",
     "summary": "Billing and e-commerce provider Cleverbridge confirmed attackers breached its systems and copied stored customer payment card data, including CVV/CVC security codes. Cleverbridge lists major tech clients like Red Hat, SUSE, Tenable, Veeam, Jamf, Sony, and Parallels on its site, though affected clients and cardholder counts have not been disclosed.",
     "engagement": "High",
-    "raw_text": "So check this out, payment and subscription billing platform Cleverbridge just confirmed a security breach where attackers copied stored customer payment card data—including CVV and CVC codes! Here's the wild part: having your card number stolen is bad enough, but exposing CVV or CVC codes raises serious red flags around fraud and PCI DSS compliance rules on storing security codes after authorization. Cleverbridge lists big tech names like Red Hat, SUSE, Tenable, Veeam, Jamf, Sony, and Parallels on its website, though it hasn't shared which specific clients or how many cardholders were hit yet. Honestly, this is huge anytime payment security gets breached because regular people immediately start wondering if a card they used for software or subscriptions is at risk. Keep an eye on your bank and credit card statements, watch out for weird charges, and be ready to request a replacement card if anything looks off. Have you ever had to replace a card after a billing breach?",
+    "raw_text": "So check this out, payment and subscription billing platform Cleverbridge just confirmed a security breach where attackers copied stored customer payment card data\u2014including CVV and CVC codes! Here's the wild part: having your card number stolen is bad enough, but exposing CVV or CVC codes raises serious red flags around fraud and PCI DSS compliance rules on storing security codes after authorization. Cleverbridge lists big tech names like Red Hat, SUSE, Tenable, Veeam, Jamf, Sony, and Parallels on its website, though it hasn't shared which specific clients or how many cardholders were hit yet. Honestly, this is huge anytime payment security gets breached because regular people immediately start wondering if a card they used for software or subscriptions is at risk. Keep an eye on your bank and credit card statements, watch out for weird charges, and be ready to request a replacement card if anything looks off. Have you ever had to replace a card after a billing breach?",
     "id": "clv45z8n2r",
     "category": "Cybersecurity",
     "companies": [
@@ -220,6 +240,8 @@
     "people": [
       "Claudia Pincovski"
     ],
-    "created_at": "2026-11-27T08:51:00+05:30"
+    "created_at": "2026-11-27T08:51:00+05:30",
+    "image_url": "images/27_11_26/clv45z8n2r.png",
+    "image_prompt": "Photorealistic news scene: ominous server room with blinking LEDs, shadowy hacker silhouette reflected on glass, exposed payment card icon glow without text, subtle data breach trails, corporate office in background, dramatic lighting, high contrast, shallow depth of field, ultra-realistic, 16:9."
   }
 ]
