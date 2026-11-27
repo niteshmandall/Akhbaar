@@ -1,0 +1,117 @@
+[
+  {
+    "date": "2026-11-25",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 12,
+    "title": "Flipkart CEO Kalyan Krishnamurthy Steps Down After 11 Years!",
+    "summary": "Flipkart announced that Group CEO Kalyan Krishnamurthy will step down on December 4, 2026, after more than 11 years with the company, with CPTO Balaji Thiagarajan stepping in as interim leader. The exit comes amid reported tensions with Walmart over IPO timing, profitability, and ESOP liquidity following Flipkart's return to India domicile.",
+    "engagement": "Medium",
+    "raw_text": "So check this out if you follow Indian tech and startup leadership moves: Flipkart Group CEO Kalyan Krishnamurthy is stepping down on December 4 after more than 11 years with the company. Here's the wild part—Chief Product and Technology Officer Balaji Thiagarajan is taking over day-to-day operations in the interim while Walmart and the board look for a permanent successor. Honestly, this is huge for India's e-commerce and quick-commerce ecosystem, especially with Flipkart Minutes scaling rapidly and reports pointing to friction over IPO timelines, profitability, and ESOP liquidity. I think putting a tech and product leader like Thiagarajan in the interim seat shows how much weight engineering, AI, and quick commerce carry right now. Let's see who gets the permanent job and what happens next with Flipkart's listing plans.",
+    "id": "flipkart_ceo_exit_20261125",
+    "category": "Business",
+    "companies": [
+      "Flipkart",
+      "Walmart",
+      "Myntra"
+    ],
+    "people": [
+      "Kalyan Krishnamurthy",
+      "Balaji Thiagarajan"
+    ],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  },
+  {
+    "date": "2026-11-25",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 12,
+    "title": "David Fincher Used AI to 'Re-Lip' Most of His New Movie?!",
+    "summary": "Filmmaker David Fincher revealed on The Big Picture podcast that AI replaced dialogue and adjusted actors' lip movements across most of The Further Mis-Adventures of Cliff Booth, leaving traditional ADR on only about 5% of the film. Specific AI tools and shot counts have not yet been publicly disclosed.",
+    "engagement": "High",
+    "raw_text": "Honestly, this is huge for anyone who cares about movies and where AI is heading in Hollywood! David Fincher just revealed on The Big Picture podcast that AI replaced dialogue and actually re-lipped actors across most of his film The Further Mis-Adventures of Cliff Booth. So check this out—traditional ADR was used on only about 5% of the movie! Here's the wild part: Fincher hasn't named the exact tools or shot counts yet, and studio details are still under wraps, yet a perfectionist director like him is openly leaning into AI lip-sync and dialogue replacement. I've always wondered when prestige filmmaking would cross that line quietly in post-production, and clearly it's already happening. Do you think audiences will even notice, or will it spark another big debate in cinema?",
+    "id": "fincher_ai_relipping_20261125",
+    "category": "AI",
+    "companies": [
+      "Ambarella",
+      "Liquid AI",
+      "Anthropic"
+    ],
+    "people": [
+      "David Fincher"
+    ],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  },
+  {
+    "date": "2026-11-24",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 5,
+    "title": "CoT-Proxy Boosts a Tiny 4B Coding Model From 2.7% to 27.8%!",
+    "summary": "A new preprint on CoT-Proxy distillation shows that training the compact Qwen3-4B model on a teacher model's actions and concise reasoning summaries lifted its SWE-bench Verified score from 2.7% to 27.8% in a single run. The results come from a single unrefereed benchmark run using GPT-5.6 Luna as the teacher.",
+    "engagement": "Medium",
+    "raw_text": "So check this out if you build with smaller models or local AI setups: a preprint on CoT-Proxy distillation just showed a compact 4-billion-parameter Qwen3-4B model jumping from 2.7% to 27.8% on SWE-bench Verified! Here's the wild part—instead of needing raw hidden chains of thought, it uses observable actions and short reasoning summaries from GPT-5.6 Luna as an extra training target. Honestly, this is huge if those gains hold up consistently on real-world coding tasks, because running tiny models locally is way cheaper and faster. I am keeping a healthy dose of caution since this comes from a single preprint run without peer review yet. Still, getting a 10x leap out of a 4B model is seriously eye-catching.",
+    "id": "cot_proxy_qwen3_4b_20261124",
+    "category": "AI",
+    "companies": [
+      "Alibaba",
+      "OpenAI"
+    ],
+    "people": [],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  },
+  {
+    "date": "2026-11-25",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 9,
+    "title": "OpenAI Tests Private Inference Alpha as GPT-6.2 Limits Tighten!",
+    "summary": "OpenAI confirmed an alpha for Private Inference using confidential computing and verifiable in-flight controls for select customers, while fixing a launch under-counting bug on GPT-6.2 Astra and Sol. Fixing the metering bug caused Astra and Sol limits to hit 40% and 25% faster, with one banked reset granted and no back-charges.",
+    "engagement": "Medium",
+    "raw_text": "Here's the wild part for power users and enterprise teams: OpenAI confirmed a Private Inference alpha built on confidential computing with verifiable in-flight controls, while also fixing a billing under-count on GPT-6.2 Astra and Sol. So check this out—because the launch was under-counting usage, fixing that metering bug means hitting limits 40% faster on Astra and 25% faster on Sol! Honestly, this is huge for privacy-sensitive enterprise workloads if pricing and latency are competitive, though OpenAI hasn't shared those numbers yet. On the bright side for users, there are no back-charges and OpenAI is granting one banked reset while unifying limits. It's a classic double-edged update where tighter real usage tracking meets stronger privacy ambitions.",
+    "id": "openai_private_inference_gpt62_20261125",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Sam Altman"
+    ],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 9,
+    "title": "Sakana AI Drops Marlin 2.0 Research Modes With 300 Credits & Slides!",
+    "summary": "Sakana AI rolled out Marlin Twilight 2.0 and Midnight 2.0 research modes with a 300-credit budget per run—triple Sunlight's 100 credits—alongside a rebuilt PowerPoint slide export feature. Vendor measurements report three times and seven times more sources than Sunlight.",
+    "engagement": "Medium",
+    "raw_text": "So check this out for AI research workflows: Sakana AI released Marlin Twilight 2.0 and Midnight 2.0, bumping the budget to 300 credits per run compared to 100 credits on Sunlight and adding a rebuilt PowerPoint export. Here's the wild part—Sakana reports pulling 3x and 7x more sources than Sunlight depending on the mode. Honestly, this is huge if you spend hours synthesizing research and turning findings into slide decks, assuming the extra sources actually improve signal rather than just adding noise. Since those source counts are vendor-reported, I'd still verify key claims myself before presenting them. Either way, bigger research budgets and direct deck exports are clearly where agentic tools are heading.",
+    "id": "sakana_marlin_2_0_20261126",
+    "category": "AI",
+    "companies": [
+      "Sakana AI"
+    ],
+    "people": [
+      "Yash Thakker"
+    ],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "November 26 Tech News Aggregation.pdf",
+    "page": 10,
+    "title": "New Tools Push 66GB AI Models on a 24GB GPU & Speed Up IDE Agents!",
+    "summary": "Developer updates highlighted the MIT-licensed agy-fast Antigravity plugin with five batching tools aimed at cutting LLM turns, alongside Magnitude and Epochal Time Portal for SSD-offloaded local execution and archived-web agent testing. A 66 GB model was demonstrated running on a 24 GB RTX 3090 with company-reported 41 tokens per second throughput.",
+    "engagement": "Medium",
+    "raw_text": "Honestly, this is huge if you love squeezing max performance out of local hardware and coding agents! We saw agy-fast pop up as an MIT-licensed local MCP plugin for Antigravity with five batching tools to trim back-and-forth LLM turns, plus Magnitude and Epochal Time Portal for SSD offloading and archived-web agent testing. So check this out—running a 66 GB model on a 24 GB RTX 3090 via SSD offloading at a reported 41 tokens per second sounds wild on paper! Here's the wild part: both the 33.7% turn reduction and the 41 tokens/sec speed come from small self-reported tests, so real-world mileage will vary. Still, seeing local tooling push past VRAM limits and cut agent chatter is super exciting for tinkerers.",
+    "id": "agy_fast_magnitude_epochal_20261126",
+    "category": "AI",
+    "companies": [
+      "INK-Q",
+      "Magnitude",
+      "Epochal",
+      "Nvidia"
+    ],
+    "people": [
+      "Marianne Sison"
+    ],
+    "created_at": "2026-11-27T08:14:00+05:30"
+  }
+]
