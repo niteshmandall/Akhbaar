@@ -1,0 +1,225 @@
+[
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 3,
+    "title": "Google Drops Gemini 4 Hydrogen: Built for Blazing Speed Over Deep Thinking!",
+    "summary": "Google introduced Gemini 4 Hydrogen on November 26, 2026, as a low-latency model adapted from Gemini 4 Carbon for fast agentic execution like coding and testing. DeepMind SVP Koray Kavukcuoglu noted it targets rapid multi-step loops while Carbon and Argon handle deeper reasoning.",
+    "engagement": "High",
+    "raw_text": "So check this out, Google just dropped Gemini 4 Hydrogen, and if you care about AI speed, you are going to love this! Instead of forcing every single task to sit around overthinking like a slow chess grandmaster, Google built Hydrogen specifically for low-latency, rapid-fire execution. We are talking about agentic workflows, writing code, running tests, and blasting through routine steps without waiting around. Koray Kavukcuoglu over at Google DeepMind says Carbon and Argon are still your go-to models for heavy, long-horizon reasoning and deep system design, while Hydrogen handles the fast loops. Honestly, this is huge because when your AI agent is making dozens of sequential calls, latency kills the vibe fast. Google even claims Hydrogen beats Gemini 4 Argon at its default thinking level, though we still need independent benchmarks to back up the hype. Here's the wild part: splitting models by speed versus deep reasoning just feels way smarter for real-world coding and automation. Tell me in the comments if you're testing fast models for your workflows or sticking to heavy thinkers!",
+    "id": "g4h82k9m1p",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Google DeepMind"
+    ],
+    "people": [
+      "Koray Kavukcuoglu"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-27",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 3,
+    "title": "Google Workspace Forces MCP on AI Agents—And Paid Tiers Are Coming!",
+    "summary": "Google has made Model Context Protocol (MCP) servers and a Workspace CLI generally available across core Workspace apps, requiring agent OAuth clients to declare their agent identity. Automated agents must route through Workspace MCP starting February 1, 2027, ahead of scaled-tier billing beginning April 1, 2027.",
+    "engagement": "Medium",
+    "raw_text": "So check this out if you are building AI agents on top of Google Workspace, because the rules of the road just changed in a major way. Google has made Model Context Protocol servers and a Workspace CLI generally available across Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat, and Tasks. Here's the wild part: developers can no longer let agents sneak around pretending to be regular OAuth clients without declaring themselves as agents. Starting February 1, 2027, automated agents have to use Workspace MCP interfaces instead of hitting REST APIs directly, and then on April 1, 2027, scaled-tier billing kicks in for agent usage. Honestly, this is huge for enterprise IT teams because it finally separates human sessions from autonomous bot traffic for security and auditing. At the same time, it is a clear signal that free API rides for heavy agent loops are wrapping up. If you build Workspace automations or internal tools, you will want to get ahead of that February migration deadline right now.",
+    "id": "gwmc94x7t2",
+    "category": "AI",
+    "companies": [
+      "Google"
+    ],
+    "people": [],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 4,
+    "title": "Make Games With AI and Zero Code? Google Playground + Unity Is Here!",
+    "summary": "Google is rolling out Playground, an AI platform that lets users generate interactive games, share them via links, or publish them to a community gallery with Play Games profiles and leaderboards. Built alongside a Unity partnership, it uses weekly generation credits with higher limits for paid Google AI subscribers.",
+    "engagement": "High",
+    "raw_text": "So check this out, Google is rolling out a brand-new AI game-creation platform called Playground, and we might be looking at the next big wave of user-generated fun! With Playground, you can generate interactive games using AI, keep them private, drop a link to share with friends, or post them to a community hub. Select titles even support multiplayer and leaderboards tied to Android Google Play Games profiles, plus Google teamed up with Unity on this. Here's the wild part: playing community games is free, while generating new ones runs on weekly credits, giving paid Google AI subscribers bigger limits and immediate access. Honestly, this is huge if you have ever had a wild mini-game idea and zero time to code it from scratch. The real test—and I am super curious to see how this plays out—is whether AI-made games can move past simple prototypes and actually feel super polished and fun to replay.",
+    "id": "gpl37n5v8q",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "Unity"
+    ],
+    "people": [
+      "Saptak Datta"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 4,
+    "title": "Jio Launches AI Vedic Astrology App 'JioAstro' in Four Languages!",
+    "summary": "Reliance-backed Jio Platforms launched JioAstro, a four-language AI Vedic astrology platform using birth details and Swiss Ephemeris calculations to generate Kundalis, horoscopes, Panchang, and chart analyses. The move puts Jio's massive consumer distribution directly against established Indian astrology platforms like Astrotalk and AstroSage.",
+    "engagement": "High",
+    "raw_text": "So check this out, Jio Platforms just stepped into a super interesting space by launching JioAstro, an AI-powered Vedic astrology platform available in four languages! Using your birth date, time, and place along with Swiss Ephemeris calculations, it generates Kundalis, horoscopes, Panchang readings, and both North and South Indian D1 and D9 charts. Here's the wild part: digital astrology in India already has huge players like Astrotalk, AstroSage, AstroYogi, and InstaAstro, and now Jio is bringing its massive telecom reach straight into the mix. Honestly, this is huge because it shows big tech platforms are going after high-engagement everyday cultural apps instead of just generic chatbots. Whether you are into Kundali matching, daily Panchang checks, or just fascinated by how AI gets packaged for mass consumers, JioAstro is a bold play. I really want to see how users rate the experience once millions of people start trying it out!",
+    "id": "jio61c4z9w",
+    "category": "AI",
+    "companies": [
+      "Jio Platforms",
+      "Reliance",
+      "Astrotalk",
+      "AstroSage",
+      "AstroYogi",
+      "InstaAstro"
+    ],
+    "people": [],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 4,
+    "title": "Ad Tech Wakes Up to AI Bots: ApexFlow Nuvvo & BrandPilot AI Updates",
+    "summary": "ApexFlow launched Nuvvo to curate mobile ad supply across its app portfolio and direct publishers using AI decisioning, while BrandPilot AI expanded digital measurement to track automated and agentic web traffic alongside behavioral analytics. Both releases address the growing challenge of distinguishing AI agent activity from human users in ad and analytics stacks.",
+    "engagement": "Low",
+    "raw_text": "So check this out if you work in digital marketing or ad tech, because AI agents browsing the web are forcing a major rethink of measurement and ad supply. ApexFlow just launched Nuvvo, an AI-driven supply intelligence tool combining its app portfolio and direct publisher inventory to help programmatic buyers find quality mobile placements. Meanwhile, BrandPilot AI rolled out expanded analytics that combine heatmaps, session recordings, and A/B testing with visibility into automated and agentic traffic. Here's the wild part: when AI agents start clicking around sites and shopping or researching on behalf of people, traditional analytics and ad attribution get messy fast. Honestly, this is huge for marketers who need to know whether real humans or automated bots are driving conversions and impressions. It is definitely behind-the-scenes B2B infrastructure stuff rather than a flashy consumer gadget, so most casual viewers will scroll right past it. Still, if you run campaigns or monetize apps, tracking agentic traffic is quickly becoming non-negotiable.",
+    "id": "bpa52m8r3k",
+    "category": "Business",
+    "companies": [
+      "ApexFlow",
+      "BrandPilot AI"
+    ],
+    "people": [],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-27",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 5,
+    "title": "TDK Drops $635M to Double Sensors for Humanoid Robots & AI Data Centers!",
+    "summary": "TDK Corporation announced a $635 million investment to build a new plant in Niigata, Japan, doubling its tunnel magnetoresistance (TMR) sensor capacity by 2031. The sensors power precision positioning in humanoid robots and monitor power and liquid cooling in AI data centers.",
+    "engagement": "High",
+    "raw_text": "So check this out, TDK is putting $635 million on the table to build a whole new factory in Niigata, Japan, and double its tunnel magnetoresistance sensor capacity by 2031! Why should we care about tiny magnetic sensors? Here's the wild part: TDK already supplies around 80% of the global TMR market, and these sensors are critical both for managing power and liquid cooling in massive AI data centers AND for giving humanoid robots high-precision positioning across dozens of joints. Sensor unit chief Takao Tsutsui says demand has hit a tipping point, and analysts like Goldman Sachs see humanoid robots scaling into the millions by 2035. Honestly, this is huge because while everyone argues about chatbots, the physical bottlenecks—power, cooling, and robot hardware—are where multi-year money is pouring in. We always talk about how robots need better hardware to move smoothly in the real world, and this is a massive step toward scaling that supply chain.",
+    "id": "tdk78p2j6n",
+    "category": "Hardware",
+    "companies": [
+      "TDK Corporation",
+      "Apple",
+      "Infineon Technologies",
+      "Bosch",
+      "Goldman Sachs"
+    ],
+    "people": [
+      "Takao Tsutsui",
+      "Dr. Heinrich Vogel"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 5,
+    "title": "Volvo Cars Starts Training AEON Humanoid Robots at Its Factory!",
+    "summary": "Volvo Cars began training Hexagon Robotics' AEON humanoid robots at its Ghent, Belgium plant on repetitive and ergonomically tough tasks alongside human workers. The companies plan an expanded pilot in the first half of 2027 ahead of targeted production deployment from mid-2027.",
+    "engagement": "High",
+    "raw_text": "So check this out, Volvo Cars is actually training Hexagon Robotics' AEON humanoid robots right inside its Ghent factory alongside real workers! They are testing these bots on repetitive and physically taxing jobs to build toward a bigger pilot in early 2027 and active production deployment by mid-2027. Here's the wild part: while official specs weren't all published in the main release, secondary reports describe AEON as a wheeled humanoid around 1.65 meters tall with a 10 kg payload that learns via imitation. Honestly, this is huge because putting wheels on an upper-body humanoid for flat factory floors is super practical—you get human-like reach without wasting energy balancing on two legs over stairs it doesn't need to climb. Volvo's manufacturing chief says the design fits right into existing lines and automation. Seeing humanoids move from lab demos to car factories is wild, and I cannot wait to see how reliable they look in 2027!",
+    "id": "vla49t1y7b",
+    "category": "Hardware",
+    "companies": [
+      "Volvo Cars",
+      "Hexagon Robotics"
+    ],
+    "people": [
+      "Magnus Nilsson",
+      "Arnaud Robert"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-27",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 6,
+    "title": "SAP Reportedly Eyes 10,000+ Job Cuts in Major AI Shakeup",
+    "summary": "SAP SE is reportedly considering cutting at least 10,000 roles—roughly 9% or more of its ~113,000-strong global workforce—across product, engineering, and sales as CEO Christian Klein pushes an AI-first pivot. The potential cuts remain subject to labor negotiations and follow strong Q3 revenue and profit growth amid investor worry over AI disrupting traditional software.",
+    "engagement": "Low",
+    "raw_text": "So check this out, reports say SAP is weighing cutting at least 10,000 jobs—around 9% or more of its workforce—as it reshapes the company around AI. That would span areas like product, engineering, and sales under CEO Christian Klein, though any final numbers still have to go through labor talks and protections like SAP's German employment guarantee through 2028. Here's the wild part: this comes even though SAP posted solid Q3 numbers, with revenue up 13% and profit rising 11%, because Wall Street has been nervous about how AI agents might change legacy enterprise software. Honestly, this is a classic corporate restructuring story—big numbers, exec moves, and heavy business strategy that feels more like a boardroom briefing than a flashy consumer launch. CFO Dominik Asam even hinted headcount growth could reverse as money shifts toward AI. For folks in enterprise tech, it is another sign of how aggressively legacy software giants are retooling.",
+    "id": "sap83w5d2f",
+    "category": "Business",
+    "companies": [
+      "SAP SE"
+    ],
+    "people": [
+      "Christian Klein",
+      "Dominik Asam",
+      "Anna Peverieri",
+      "Hakan Ersen"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 7,
+    "title": "India Data Centre Funding Jumps Nearly 11x—Almost All to 4 Giants",
+    "summary": "Disclosed funding for India's data center sector surged nearly 11-fold to ₹16,458.52 crore through November 2026, with 99.9% going to four major operators—Nxtra, CtrlS, Yotta, and Netmagic Solutions. Equity and private equity made up 92% of inflows, leaving early-stage startups with just ₹17.84 crore.",
+    "engagement": "Low",
+    "raw_text": "So check this out, data center funding in India jumped nearly 11-fold in 2026 to ₹16,458.52 crore, up from ₹1,533 crore in all of 2025. Here's the wild part: almost all of that money went to just four big players—Nxtra, CtrlS, Yotta, and Netmagic Solutions—which grabbed 99.9% of disclosed funding, while two early-stage startups split just ₹17.84 crore. Also, 92% of the 2026 funding came from equity and private equity rather than debt. Honestly, this is a very finance-heavy infrastructure story, so if you're looking for gadget reviews or viral AI demos, it's going to feel pretty niche. Still, it shows how expensive massive compute infrastructure is—you need huge land, serious power, and deep pockets to play at data center scale. Big incumbents are clearly locking down the heavy physical foundation first.",
+    "id": "idc19h6k4m",
+    "category": "Business",
+    "companies": [
+      "Nxtra",
+      "CtrlS",
+      "Yotta",
+      "Netmagic Solutions",
+      "Airtel",
+      "Tracxn",
+      "Invest India",
+      "Cushman & Wakefield"
+    ],
+    "people": [
+      "Ritik Raj"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-27",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 7,
+    "title": "Patch VMware vCenter Right Now! Critical 9.8 Flaw Actively Exploited",
+    "summary": "Broadcom updated security advisory VMSA-2026-0009 warning of critical flaws in VMware vCenter, VMware Tools, and SDDC Manager, led by a 9.8-severity authentication bypass (CVE-2026-123890) exploited for months by a Chinese threat actor. A proof-of-concept exploit is also public for CVE-2026-123903, making urgent patching essential.",
+    "engagement": "Medium",
+    "raw_text": "So check this out, if you or your team run VMware vCenter, stop what you're doing and check your patches immediately! Broadcom updated advisory VMSA-2026-0009 over critical bugs hitting VMware vCenter, VMware Tools, and SDDC Manager. Here's the wild part: CVE-2026-123890 is an authentication bypass in the VMware Directory Service with a massive 9.8 CVSS score, and reports say a Chinese threat actor was already exploiting it for months before public disclosure. Plus, there's already a proof-of-concept exploit out for another flaw, CVE-2026-123903. Honestly, this is huge for IT and security admins because vCenter manages core virtualized infrastructure, meaning a takeover can put an entire server environment at risk. It is definitely a technical sysadmin warning rather than a flashy consumer release, so casual viewers might skip it. If you manage servers, though, get those updates tested and rolled out ASAP.",
+    "id": "vmw92q7x5p",
+    "category": "Cybersecurity",
+    "companies": [
+      "Broadcom",
+      "VMware"
+    ],
+    "people": [],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  },
+  {
+    "date": "2026-11-26",
+    "source_file": "Daily Tech News Aggregation (7).pdf",
+    "page": 8,
+    "title": "Payment Processor Cleverbridge Confirms Breach Exposing CVV/CVC Codes!",
+    "summary": "Billing and e-commerce provider Cleverbridge confirmed attackers breached its systems and copied stored customer payment card data, including CVV/CVC security codes. Cleverbridge lists major tech clients like Red Hat, SUSE, Tenable, Veeam, Jamf, Sony, and Parallels on its site, though affected clients and cardholder counts have not been disclosed.",
+    "engagement": "High",
+    "raw_text": "So check this out, payment and subscription billing platform Cleverbridge just confirmed a security breach where attackers copied stored customer payment card data—including CVV and CVC codes! Here's the wild part: having your card number stolen is bad enough, but exposing CVV or CVC codes raises serious red flags around fraud and PCI DSS compliance rules on storing security codes after authorization. Cleverbridge lists big tech names like Red Hat, SUSE, Tenable, Veeam, Jamf, Sony, and Parallels on its website, though it hasn't shared which specific clients or how many cardholders were hit yet. Honestly, this is huge anytime payment security gets breached because regular people immediately start wondering if a card they used for software or subscriptions is at risk. Keep an eye on your bank and credit card statements, watch out for weird charges, and be ready to request a replacement card if anything looks off. Have you ever had to replace a card after a billing breach?",
+    "id": "clv45z8n2r",
+    "category": "Cybersecurity",
+    "companies": [
+      "Cleverbridge",
+      "Red Hat",
+      "SUSE",
+      "Tenable",
+      "Veeam",
+      "Jamf",
+      "Sony",
+      "Parallels"
+    ],
+    "people": [
+      "Claudia Pincovski"
+    ],
+    "created_at": "2026-11-27T08:51:00+05:30"
+  }
+]
