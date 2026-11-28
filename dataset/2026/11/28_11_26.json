@@ -1,12 +1,12 @@
 [
   {
     "date": "2026-11-28",
-    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "source_file": "Tech & AI News Briefing \u2013 November 28, 2026.pdf",
     "page": 4,
-    "title": "AI Hackers Are Targeting Critical Networks—Are We Ready?",
+    "title": "AI Hackers Are Targeting Critical Networks\u2014Are We Ready?",
     "summary": "Following the U.S. Air Force Cloud One breach report, security observers highlighted rising concern over AI-assisted cyberattacks probing large networks and critical systems. Recent breaches affecting U.S. agencies alongside software flaws underscore growing pressure to strengthen cloud and infrastructure defenses.",
     "engagement": "High",
-    "raw_text": "So check this out—if you thought cyber threats were already tough to keep up with, adding AI-assisted tactics into the mix raises the stakes even higher. Right around the U.S. Air Force Cloud One breach report, security experts have been flagging growing anxiety over attackers using AI to probe massive networks for weaknesses. Here's the wild part: we've seen recent incidents hit major agencies and enterprise software stacks, and when attackers automate reconnaissance or exploit discovery at scale, defenders have zero room to slack off. Honestly, this is huge because cloud platforms, pipelines, and connected services are the backbone of modern tech—any crack in those layers becomes a headline fast. It's a clear wake-up call that security isn't a one-time checklist, especially as systems get bigger and more automated. How do you think defenders can stay ahead of AI-powered intrusions?",
+    "raw_text": "So check this out\u2014if you thought cyber threats were already tough to keep up with, adding AI-assisted tactics into the mix raises the stakes even higher. Right around the U.S. Air Force Cloud One breach report, security experts have been flagging growing anxiety over attackers using AI to probe massive networks for weaknesses. Here's the wild part: we've seen recent incidents hit major agencies and enterprise software stacks, and when attackers automate reconnaissance or exploit discovery at scale, defenders have zero room to slack off. Honestly, this is huge because cloud platforms, pipelines, and connected services are the backbone of modern tech\u2014any crack in those layers becomes a headline fast. It's a clear wake-up call that security isn't a one-time checklist, especially as systems get bigger and more automated. How do you think defenders can stay ahead of AI-powered intrusions?",
     "id": "s3d7f9g2h5",
     "category": "Business",
     "companies": [
@@ -18,16 +18,18 @@
       "VMware"
     ],
     "people": [],
-    "created_at": "2026-11-28T22:26:00+05:30"
+    "created_at": "2026-11-28T22:26:00+05:30",
+    "image_url": "images/28_11_26/s3d7f9g2h5.png",
+    "image_prompt": "Futuristic newsroom scene: a tense security analyst monitors a glowing network map of a critical cloud system, with AI-like circuit overlays, red alert pulses, broken shield icon, and stormy dark background; cinematic lighting, photoreal, high detail, realistic."
   },
   {
     "date": "2026-11-28",
-    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "source_file": "Tech & AI News Briefing \u2013 November 28, 2026.pdf",
     "page": 2,
     "title": "Why AI Space Compute Could Change Cloud Forever!",
-    "summary": "Following Elon Musk's November 28, 2026 post that Google will rent additional AI compute capacity from SpaceX—building on a prior ~ $920 million/month, 110,000-GPU Starlink satellite arrangement—hyperscalers are exploring orbital infrastructure to ease terrestrial bottlenecks. Neither company confirmed details of the expanded agreement.",
+    "summary": "Following Elon Musk's November 28, 2026 post that Google will rent additional AI compute capacity from SpaceX\u2014building on a prior ~ $920 million/month, 110,000-GPU Starlink satellite arrangement\u2014hyperscalers are exploring orbital infrastructure to ease terrestrial bottlenecks. Neither company confirmed details of the expanded agreement.",
     "engagement": "High",
-    "raw_text": "So check this out—we're talking about AI workloads connected to SpaceX and Starlink scaling up even further after Elon Musk posted on November 28, 2026, that Google plans to rent more AI compute capacity from SpaceX. That builds on an earlier arrangement tied to 110,000 Nvidia GPUs and roughly $920 million a month for running AI on Starlink satellites. Here's the wild part: when terrestrial data centers run into power, land, or grid limits, looking toward orbital and satellite-linked compute pushes cloud architecture into territory we barely imagined a few years ago. Honestly, this is huge as a signal of how aggressively big tech is hunting for new capacity, even though neither company has officially confirmed the expanded terms yet. Latency, cooling, and orbital economics will be fascinating to watch. Would you ever expect cloud compute to look up instead of just out?",
+    "raw_text": "So check this out\u2014we're talking about AI workloads connected to SpaceX and Starlink scaling up even further after Elon Musk posted on November 28, 2026, that Google plans to rent more AI compute capacity from SpaceX. That builds on an earlier arrangement tied to 110,000 Nvidia GPUs and roughly $920 million a month for running AI on Starlink satellites. Here's the wild part: when terrestrial data centers run into power, land, or grid limits, looking toward orbital and satellite-linked compute pushes cloud architecture into territory we barely imagined a few years ago. Honestly, this is huge as a signal of how aggressively big tech is hunting for new capacity, even though neither company has officially confirmed the expanded terms yet. Latency, cooling, and orbital economics will be fascinating to watch. Would you ever expect cloud compute to look up instead of just out?",
     "id": "t6y8u2i4o7",
     "category": "AI",
     "companies": [
@@ -40,6 +42,8 @@
     "people": [
       "Elon Musk"
     ],
-    "created_at": "2026-11-28T22:26:00+05:30"
+    "created_at": "2026-11-28T22:26:00+05:30",
+    "image_url": "images/28_11_26/t6y8u2i4o7.png",
+    "image_prompt": "Cinematic news photo of Earth at night with visible satellite network and glowing orbital nodes, a futuristic Starlink-like constellation overhead, and a distant launch trail from space. Foreground shows a server rack silhouette fading into the sky, mood: optimistic, sleek, high-tech, ultra-realistic, no text."
   }
 ]
