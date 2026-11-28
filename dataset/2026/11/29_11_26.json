@@ -1,0 +1,258 @@
+[
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 1,
+    "title": "AI Just Cracked an 80-Year-Old Math Mystery All By Itself!",
+    "summary": "An internal OpenAI model autonomously disproved an 80-year-old combinatorial geometry problem known as Erdős' unit distance conjecture by discovering an infinite family of superior point arrangements. Independent mathematicians verified the proof, marking the first time an AI solved a prominent open mathematical problem on its own.",
+    "engagement": "High",
+    "raw_text": "So check this out, because this feels like a genuine sci-fi moment. For eighty years, top mathematicians have been trying to crack Erdős' unit distance problem in combinatorial geometry, and now an internal OpenAI model just disproved it on its own. Here's the wild part: it didn't just spit out random guesses or act as a calculator for a human researcher. It actually found an infinite family of point arrangements that beat the old grid construction record, and independent mathematicians checked the proof and confirmed it works. Honestly, this is huge. For so long, people argued AI only remixes what humans already wrote or helps us speed up boring tasks. If a model can generate brand-new, original mathematical insights that stand up to peer verification, we're entering a totally different ballgame for science and discovery. I'm keeping a close eye on what open problems fall next, because if AI can crack geometry like this, imagine what it could do in physics or materials science. Drop a comment if you think this changes everything for research!",
+    "id": "a9f3k2m8x1",
+    "category": "AI",
+    "companies": [
+      "OpenAI"
+    ],
+    "people": [
+      "Paul Erdős"
+    ],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 1,
+    "title": "AI Models Think Like Humans? Not Even Close, Says New Study",
+    "summary": "A November 2026 study highlighted by ScienceDaily found that even AI language models capable of predicting brain activity can rely on internal processes that differ from human neural mechanisms. The research shows that matching outputs or neural predictions does not mean AI achieves human-like cognition, raising important questions for neuroscience and AI safety.",
+    "engagement": "Medium",
+    "raw_text": "So check this out if you've ever wondered whether large language models are actually 'thinking' the way we do. A new study covered by ScienceDaily looked at AI models that can predict brain activity and found something super interesting: even when a model predicts brain responses, its internal processes don't necessarily match how human brains actually work. Here's the wild part: just because a neural network gives you a human-like answer—or even correlates with brain data—doesn't mean it's using the same cognitive playbook under the hood. Honestly, this is huge for both neuroscience and AI safety. We shouldn't assume that because an AI sounds smart or mirrors an outcome, it's aligned with human reasoning or cognition. It's a solid reality check on how we talk about 'AI thinking' versus actual biological intelligence. What do you make of that distinction—do internal mechanisms matter more than the final output?",
+    "id": "b4t7n9p2q5",
+    "category": "Science",
+    "companies": [],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 1,
+    "title": "MIT's Tiny AI Beats Giants at Designing Analog Chips!",
+    "summary": "MIT researchers introduced SLIC, a method that uses compact large language models around GPT-2 scale paired with targeted chip design instructions to assist with analog chip design. The approach matches much larger models while cutting compute demands, costs, and complexity for specialized circuit engineering.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—we always hear that bigger AI models win everything, right? Well, MIT researchers just pushed back on that with a method called SLIC for analog chip design. Instead of throwing massive, expensive frontier models at the problem, they took a small language model—around GPT-2 size—and paired it with carefully chosen chip design instructions. Here's the wild part: it still delivered performance comparable to much bigger models, while cutting down the heavy compute costs and complexity. Honestly, this is huge for hardware engineering and specialized AI workflows. Analog circuit design is notoriously tricky, and if compact, domain-tuned models can handle heavy lifting without needing a data center full of GPUs, that lowers the barrier for innovation. I love seeing smart optimization beat brute force. Would you rather see smaller specialized models or giant generalists going forward?",
+    "id": "c7v2r5w8y3",
+    "category": "Hardware",
+    "companies": [
+      "MIT"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 1,
+    "title": "Do All Languages Share ONE Brain Hub? AI Helps Prove It",
+    "summary": "Using AI-based brain decoding on fMRI data across languages such as English, Russian, and Mandarin, MIT researchers found that different human languages map to a shared neural language hub. Despite surface differences across languages, the human brain processes them through overlapping regions, bridging AI and cognitive neuroscience.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—if you speak more than one language, or you're just fascinated by how the human brain works, this MIT study is pretty cool. Researchers used AI-powered brain decoding alongside fMRI scans across languages like English, Russian, and Mandarin. Here's the wild part: even though these languages look and sound completely different on the surface, the data points to a shared neural 'language hub' in the brain with overlapping regions. Honestly, this is huge because it shows how AI isn't just learning from human language—it's actually helping neuroscientists map out how our brains organize it. When machine learning tools help us uncover fundamental truths about human biology, that's the kind of crossover research I get hyped about. Have you ever felt like you 'switch gears' in your head when speaking a different language?",
+    "id": "d2k8m4j6h9",
+    "category": "Science",
+    "companies": [
+      "MIT"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 2,
+    "title": "Tokyo Startup Sakana AI Bags $32M for Homegrown AI",
+    "summary": "Tokyo-based startup Sakana AI closed a $32 million Series B round on November 28, 2026, to expand domestic Japanese large language models including its Namazu model. Leadership highlighted national security and economic sovereignty as key drivers for building locally controlled AI systems.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—Tokyo-based Sakana AI just closed a $32 million Series B round on November 28, 2026, to push forward homegrown Japanese large language models. Their Namazu model is already powering enterprise tools, and this fresh cash is going straight into scaling models and real-world applications. Here's the wild part: the leadership is framing this around national security and economic value—having AI built and controlled locally rather than relying purely on outside tech. Honestly, this is huge as a signal of how regional AI ecosystems are maturing. Countries want sovereign AI tailored to their own language, culture, and infrastructure instead of treating foreign models as the default. I'm watching how Sakana scales against global giants, especially in enterprise adoption. What do you think matters most for a regional AI startup to win?",
+    "id": "e5p9s3t7u1",
+    "category": "AI",
+    "companies": [
+      "Sakana AI"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 2,
+    "title": "Is the AI Boom a Debt Trap? The Fed Is Watching Closely",
+    "summary": "Federal Reserve Governor Christopher Waller warned on November 20 that the central bank is closely monitoring how surging AI and data center investments—and the heavy capital spending and debt behind them—could impact financial stability. The remarks come amid massive infrastructure buildouts and deals involving firms like Nvidia.",
+    "engagement": "Low",
+    "raw_text": "So check this out if you follow the money behind the AI boom. Back on November 20, Fed Governor Christopher Waller made it clear that the Federal Reserve is closely watching how rapid growth in AI companies and data center buildouts could affect financial stability. Here's the wild part: building out massive AI infrastructure takes staggering capital expenditures and debt, and regulators are looking at whether there are systemic risks if things get overextended. Honestly, this isn't the flashiest headline compared to a new gadget launch, and financial policy can get pretty dense, so I'll keep it real: we're seeing huge money move into data centers and deals tied to players like Nvidia. When central bankers start eyeing leverage and over-investment in a hot sector, it's worth paying attention to the macro picture. Do you think AI infrastructure spending is sustainable, or getting ahead of itself?",
+    "id": "f8x4z2c6v9",
+    "category": "Business",
+    "companies": [
+      "Federal Reserve",
+      "Nvidia"
+    ],
+    "people": [
+      "Christopher Waller"
+    ],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 2,
+    "title": "Europe Plans a €50B Mega-Fund for AI & Quantum!",
+    "summary": "Reported on November 25, 2026, the European Union is planning a €50 billion sovereign tech fund—tentatively linked to a European Sovereign Tech Fund or Quantum Act—to back domestic AI, quantum computing, and semiconductors. The effort aims to cut reliance on U.S. and Chinese technology across research, startups, and chip manufacturing.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—the European Union is reportedly eyeing a massive €50 billion sovereign tech fund to boost homegrown AI, quantum computing, and semiconductors. News broke on November 25, 2026, pointing to an effort that could span everything from early research and startups all the way up to chip fabs. Here's the wild part: Europe is really leaning into 'digital sovereignty' so it isn't stuck depending on U.S. or Chinese tech stacks for critical future computing. Honestly, this is huge on paper if it gets passed, because fifty billion euros is serious firepower for quantum and silicon ambitions. At the same time, government mega-funds always face execution and bureaucracy hurdles, so we'll see how fast money actually hits labs and factories. Would you bet on Europe closing the gap in quantum and chips with a fund like this?",
+    "id": "g3n7b5m1k8",
+    "category": "Business",
+    "companies": [
+      "European Union"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 2,
+    "title": "Google & SpaceX Scaling Up AI Compute in Space?!",
+    "summary": "On November 28, 2026, Elon Musk announced on X that Google plans to rent even more AI compute capacity from SpaceX, building on a prior deal involving 110,000 Nvidia GPUs worth roughly $920 million a month for AI workloads on Starlink satellites. Neither company officially commented on the expansion.",
+    "engagement": "High",
+    "raw_text": "So check this out—Elon Musk posted on X on November 28, 2026, saying Google is going to rent even more AI compute capacity from SpaceX. That builds on an existing setup involving 110,000 Nvidia GPUs—around $920 million a month—tied to running AI workloads across Starlink satellites. Here's the wild part: we're talking about scaling up orbital and satellite-linked AI infrastructure at a time when power and data center space on Earth are getting super tight. Honestly, this is huge because it shows just how far tech giants are willing to look when traditional ground infrastructure hits bottlenecks. Neither Google nor SpaceX gave official comment yet, so we still need full confirmation on what the expanded tier looks like. Still, AI compute tied to SpaceX and Starlink is peak '2026 tech news.' Would you trust mission-critical AI running through space links?",
+    "id": "h6j2l9p4r7",
+    "category": "AI",
+    "companies": [
+      "Google",
+      "SpaceX",
+      "Starlink",
+      "Nvidia",
+      "Anthropic"
+    ],
+    "people": [
+      "Elon Musk"
+    ],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 2,
+    "title": "How Chinese Labs Bypass Chip Bans Using U.S. AI APIs",
+    "summary": "A November 17 Reuters report revealed that Chinese tech firms are using knowledge distillation on publicly accessible U.S. AI models to train local models and work around semiconductor export restrictions. Analysts note the tactic can narrow capability gaps using domestic hardware, though data quality and compute limits remain.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—Reuters reported on November 17 how some Chinese tech firms are getting around U.S. high-end chip restrictions using a clever AI workflow. Instead of waiting on banned silicon, they tap publicly available U.S. AI models and use 'knowledge distillation' to extract insights and train local models on the hardware they already have. Here's the wild part: export controls target physical chips, yet clever software and distillation techniques let teams squeeze more mileage out of accessible APIs and domestic gear. Honestly, this is huge for understanding why tech geopolitics is a constant cat-and-mouse game. Analysts point out there are still limits around data quality and raw compute scale, so it's not a magic bullet, but it definitely keeps the race competitive. Do you think software workarounds can offset hardware limits in the long run?",
+    "id": "j9w4e2q7t5",
+    "category": "AI",
+    "companies": [
+      "Reuters"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 3,
+    "title": "Nvidia & Kioxia Push GPU Memory to Petabyte Scale with SSDs!",
+    "summary": "In a November 25, 2026 demonstration, Nvidia and Kioxia used Nvidia's SCADA software with 144 Kioxia 7.68 TB SSDs—totaling 1.1 PB raw capacity—across 18 NVL72 servers to process two trillion vectors in an AI workload. The storage-tier approach lets GPUs stream massive datasets from SSDs rather than relying solely on limited on-board HBM.",
+    "engagement": "High",
+    "raw_text": "So check this out—if you care about AI hardware, GPU memory limits have been a massive headache forever because high-bandwidth memory is pricey and tight. On November 25, 2026, Nvidia and Kioxia showed off a demo using Nvidia's SCADA software and 144 Kioxia 7.68 TB SSDs—1.1 petabytes of raw SSD capacity—paired with 18 NVL72 servers to crunch two trillion vectors. Here's the wild part: they're using high-speed SSDs as a storage tier to extend GPU memory so massive datasets can stream in without needing everything crammed into on-board HBM. Honestly, this is huge because it points to a smarter, more cost-effective way to scale huge AI workloads and vector databases. When storage acts almost like an extra memory layer for GPUs, bottlenecks start looking very different. Are you excited about storage-tier breakthroughs like this?",
+    "id": "k1z6x8c3v5",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "Kioxia"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 3,
+    "title": "Kioxia's GP2 SSD Hits 18M+ IOPS for Next-Gen AI!",
+    "summary": "Kioxia unveiled its GP2 Series SSD built on XL-FLASH Gen3 memory, delivering over 18 million random read IOPS and up to 28 GB/s sequential read over PCIe 6.0 x4. Designed to act as a high-speed memory extension for AI workloads, GP2 samples are slated for select customers by the end of 2027.",
+    "engagement": "Medium",
+    "raw_text": "So check this out—right alongside that GPU memory push, Kioxia just revealed its GP2 Series SSD built specifically for AI workloads. Powered by XL-FLASH Gen3 memory, it's rated for over 18 million random read IOPS—nearly double the GP1—and hits up to 28 GB/s sequential read over PCIe 6.0 x4. Here's the wild part: speeds like that let flash storage behave almost like a fast extension of GPU memory so AI systems can tap huge datasets without everything sitting in costly HBM or DRAM. Honestly, this is huge for future AI infrastructure economics, though we'll have to wait a bit since samples for select customers aren't expected until the end of 2027. Still, seeing storage push past 18 million IOPS shows how fast the hardware stack is evolving. What's the wildest SSD speed you've seen?",
+    "id": "m4b8n2d6f9",
+    "category": "Hardware",
+    "companies": [
+      "Kioxia"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 3,
+    "title": "Nvidia Launches Vera Supercomputing CPU Platform!",
+    "summary": "In mid-November 2026, Nvidia introduced Vera, its first custom data-center CPU platform for supercomputing, pairing 192 Vera CPUs—each with 88 Olympus cores—and 1 PB of DDR5 memory in liquid-cooled nodes with InfiniBand networking. Nvidia claims roughly 2x performance and 2.4x energy efficiency over comparable x86 HPC systems, with Germany's DKRZ selecting Vera for its HLRE-5 supercomputer in early 2028.",
+    "engagement": "High",
+    "raw_text": "So check this out—Nvidia isn't stopping at GPUs! In mid-November, they unveiled Vera, their first custom data-center CPU platform built for heavy-duty supercomputing. A rack-scale setup packs 192 Vera CPUs—each sporting 88 custom Olympus cores—plus 1 petabyte of DDR5 memory in liquid-cooled nodes with InfiniBand networking. Here's the wild part: Nvidia claims around 2x the performance and 2.4x the energy efficiency of comparable x86 HPC systems for workloads like climate modeling and molecular dynamics, and Germany's DKRZ already tapped it for its HLRE-5 supercomputer in early 2028. Honestly, this is huge because Nvidia is going full-stack across CPUs, memory, and networking for scientific and agentic computing. Seeing x86 face serious pressure in high-performance computing is a major shift. Do you think custom ARM/HPC chips will dominate supercomputers next?",
+    "id": "n7g3h5j2k1",
+    "category": "Hardware",
+    "companies": [
+      "Nvidia",
+      "DKRZ"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 3,
+    "title": "U.S. Air Force 'Cloud One' Breach Sparks Alarm!",
+    "summary": "Reuters reported on November 27, 2026, that hackers exploited a software vulnerability to gain control-plane access to the U.S. Air Force's Cloud One platform, prompting a pause on cloud migrations and patching while no data exfiltration was confirmed. By November 28, U.S. officials publicly denied ongoing security issues.",
+    "engagement": "High",
+    "raw_text": "So check this out—cybersecurity news just got super tense. On November 27, Reuters reported that hackers breached the U.S. Air Force's Cloud One platform by exploiting a software flaw for control-plane access, potentially touching hundreds of Air Force apps and forcing a pause on migrations and patches. Here's the wild part: Cloud One is a flagship cloud system run with Leidos, and while no data exfiltration was confirmed, U.S. officials publicly denied ongoing security issues by November 28 after initial silence. Honestly, this is huge because anytime a major defense cloud environment takes a hit—even if officials say it's contained—it raises big questions about cloud hardening and critical infrastructure. When control planes are targeted, the stakes are sky-high. What do you think is the biggest weak spot in large cloud systems today?",
+    "id": "p2s6d9f4g7",
+    "category": "Business",
+    "companies": [
+      "U.S. Air Force",
+      "Leidos",
+      "Reuters"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 4,
+    "title": "Black Friday 2026 Online Sales Hit a Record $13.1B!",
+    "summary": "Adobe Analytics reported that U.S. online spending on Black Friday 2026 reached a record $13.1 billion, up 11% year over year, fueled by electronics, toys, and AI-powered gadgets. Shoppers leaned into promotions despite inflation around 3.7%, even as the National Retail Federation projects ~4.2% overall holiday sales growth.",
+    "engagement": "High",
+    "raw_text": "So check this out—even with inflation sitting around 3.7%, U.S. shoppers went all-in online this Black Friday! Adobe Analytics data shows Black Friday 2026 online spending hit a record $13.1 billion, jumping 11% from last year. Here's the wild part: electronics, toys, and 'AI-powered' gadgets were major drivers, beating forecasts as people hunted deals and bought early. Honestly, this is huge because it shows consumers are still willing to spend on tech—smartphones, wearables, smart-home gear, and AI gadgets—when the discounts and timing line up, even as broader holiday growth is projected more modestly around 4.2%. Tech continues to be one of the stickiest categories for holiday budgets. Did you grab any tech deals this Black Friday, or sit this one out?",
+    "id": "q5w9e3r7t2",
+    "category": "Mobile",
+    "companies": [
+      "Adobe",
+      "National Retail Federation"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  },
+  {
+    "date": "2026-11-28",
+    "source_file": "Tech & AI News Briefing – November 28, 2026.pdf",
+    "page": 4,
+    "title": "Why Black Friday Discounts Felt Smaller: AI Pricing!",
+    "summary": "Major brands including Gap, Under Armour, and LVMH labels are using AI-driven pricing tools—adopted by roughly one-third of retailers for forecasting and dynamic pricing—to protect profit margins with shallower discounts. In one example, an AI tool recommended trimming a beauty brand's planned 40% Black Friday discount down to 30%.",
+    "engagement": "High",
+    "raw_text": "So check this out—ever feel like holiday 'sales' aren't as crazy deep as they used to be? AI pricing might be a big reason why! Brands like Gap, Under Armour, and LVMH labels are using AI pricing tools that weigh demand, inventory, weather, and competitors. Here's the wild part: one AI system reportedly told a beauty brand to cut a planned 40% Black Friday discount down to 30% without hurting sales—and around a third of retailers now use AI for forecasting or dynamic pricing. Honestly, this is huge for everyday shoppers because retailers are using machine learning to protect margins rather than slash prices blindly. It's a classic case of 'smart' algorithms helping sellers while making bargain hunting a bit trickier. Have you noticed smaller discounts when shopping lately?",
+    "id": "r8y4u1i6o3",
+    "category": "Business",
+    "companies": [
+      "Gap",
+      "Under Armour",
+      "LVMH"
+    ],
+    "people": [],
+    "created_at": "2026-11-28T22:23:00+05:30"
+  }
+]
